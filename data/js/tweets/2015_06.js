@@ -22,11 +22,11 @@ Grailbird.data.tweets_2015_06 =
   "in_reply_to_screen_name" : "Jaemyung_Lee",
   "in_reply_to_user_id_str" : "106379129",
   "user" : {
-    "name" : "\uC5F0\uCEF4@WorldScholar'sCup",
+    "name" : "[5\/9\uC77C \uC120\uAC70\uD569\uC2DC\uB2E4]\uC5F0\uCEF4\uD83C\uDF97",
     "screen_name" : "yeoncomi",
-    "protected" : false,
+    "protected" : true,
     "id_str" : "200682540",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831730194687877121\/83fAx3bt_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853632614090940416\/J-hKjf5u_normal.jpg",
     "id" : 200682540,
     "verified" : false
   }
@@ -44,11 +44,11 @@ Grailbird.data.tweets_2015_06 =
   "id" : 614095334726172672,
   "created_at" : "2015-06-25 15:38:31 +0000",
   "user" : {
-    "name" : "\uC5F0\uCEF4@WorldScholar'sCup",
+    "name" : "[5\/9\uC77C \uC120\uAC70\uD569\uC2DC\uB2E4]\uC5F0\uCEF4\uD83C\uDF97",
     "screen_name" : "yeoncomi",
-    "protected" : false,
+    "protected" : true,
     "id_str" : "200682540",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831730194687877121\/83fAx3bt_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853632614090940416\/J-hKjf5u_normal.jpg",
     "id" : 200682540,
     "verified" : false
   }
@@ -66,11 +66,11 @@ Grailbird.data.tweets_2015_06 =
   "id" : 608902909678358528,
   "created_at" : "2015-06-11 07:45:41 +0000",
   "user" : {
-    "name" : "\uC5F0\uCEF4@WorldScholar'sCup",
+    "name" : "[5\/9\uC77C \uC120\uAC70\uD569\uC2DC\uB2E4]\uC5F0\uCEF4\uD83C\uDF97",
     "screen_name" : "yeoncomi",
-    "protected" : false,
+    "protected" : true,
     "id_str" : "200682540",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831730194687877121\/83fAx3bt_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853632614090940416\/J-hKjf5u_normal.jpg",
     "id" : 200682540,
     "verified" : false
   }
@@ -93,11 +93,11 @@ Grailbird.data.tweets_2015_06 =
   "id" : 608834881980887040,
   "created_at" : "2015-06-11 03:15:22 +0000",
   "user" : {
-    "name" : "\uC5F0\uCEF4@WorldScholar'sCup",
+    "name" : "[5\/9\uC77C \uC120\uAC70\uD569\uC2DC\uB2E4]\uC5F0\uCEF4\uD83C\uDF97",
     "screen_name" : "yeoncomi",
-    "protected" : false,
+    "protected" : true,
     "id_str" : "200682540",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831730194687877121\/83fAx3bt_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853632614090940416\/J-hKjf5u_normal.jpg",
     "id" : 200682540,
     "verified" : false
   }

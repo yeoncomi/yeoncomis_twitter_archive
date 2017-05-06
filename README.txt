@@ -1,17 +1,17 @@
-# 내 트위터 기록을 사용하는 방법
+# How to use your Twitter archive
 
-트위터 기록을 이용하는 가장 쉬운 방법은 파일과 함께 제공된 기록 검색 인터페이스를 사용하는 것입니다. `index.html`을 더블 클릭하시면 브라우저에서 내 과거 트윗 전체를 살펴볼 수 있습니다.
+The simplest way to use your Twitter archive is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.
 
 ---
 
-`data` 폴더에는 내 트위터 기록이 JSON과 CSV 두 가지 형태로 들어있으며 연도별, 월별로 나뉘어 있습니다.
+In the `data` folder, your Twitter archive is present in two formats: JSON and CSV exports by month and year.
 
-* CSV는 다수의 데이터 도구, 스프레드시트, 응용 프로그램에서 불러올 수 있는 일반적인 포맷이며, 프로그래밍 언어를 이용할 수도 있습니다.
+* CSV is a generic format that can be imported into many data tools, spreadsheet applications, or consumed simply using a programming language.
 
-## 개발자용 JSON
+## JSON for Developers
 
-* JSON 내보내기는 내 트윗을 트위터 API 버전 1.1 형식에 맞춘 데이터를 제공합니다. 자세한 정보는 https://dev.twitter.com/docs/api/1.1 에서 확인하세요.
-* JSON 내보내기는 기록 검색 인터페이스에서도 사용되고 있습니다(index.html).
-* 프로그래밍 언어에 관계 없이 일반적인 JSON 파서에 맞게 이용하시려면, 각 파일의 첫 번째 줄과 마지막 줄을 제거하세요.
+* The JSON export contains a full representation of your Tweets as returned by v1.1 of the Twitter API. See https://dev.twitter.com/docs/api/1.1 for more information.
+* The JSON export is also used to power the archive browser interface (index.html).
+* To consume the export in a generic JSON parser in any language, strip the first and last lines of each file.
 
-피드백, 질문, 아이디어를 다른 트위터 사용자와 공유하시려면, 개발자 포럼에 참여하세요: https://dev.twitter.com
+To provide feedback, ask questions, or share ideas with other Twitter developers, join the discussion forums on https://dev.twitter.com.
