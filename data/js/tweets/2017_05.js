@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 07 04:00:21 +0000 2017",
+		"id": 861068157376577500,
+		"id_str": "861068157376577538",
+		"text": "RT @wjsejguq_: ???? 저거 트윗이 어떻게 저렇게 연결됨 누가 설명좀 ㅋㅋ https://t.co/130gCGdEyV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wjsejguq_",
+					"name": "Senshadou2017(인용ㄴㄴ)",
+					"id": 2991653138,
+					"id_str": "2991653138",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 860870944545427500,
+					"id_str": "860870944545427456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+					"url": "https://t.co/130gCGdEyV",
+					"display_url": "pic.twitter.com/130gCGdEyV",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860870977957146600,
+					"source_status_id_str": "860870977957146624",
+					"source_user_id": 2991653138,
+					"source_user_id_str": "2991653138"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 860870944545427500,
+					"id_str": "860870944545427456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+					"url": "https://t.co/130gCGdEyV",
+					"display_url": "pic.twitter.com/130gCGdEyV",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860870977957146600,
+					"source_status_id_str": "860870977957146624",
+					"source_user_id": 2991653138,
+					"source_user_id_str": "2991653138"
+				},
+				{
+					"id": 860870961557405700,
+					"id_str": "860870961557405697",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C_JtlBUUAAE-E8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_JtlBUUAAE-E8k.jpg",
+					"url": "https://t.co/130gCGdEyV",
+					"display_url": "pic.twitter.com/130gCGdEyV",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860870977957146600,
+					"source_status_id_str": "860870977957146624",
+					"source_user_id": 2991653138,
+					"source_user_id_str": "2991653138"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 101,
+			"friends_count": 477,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 2921,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 14:56:50 +0000 2017",
+			"id": 860870977957146600,
+			"id_str": "860870977957146624",
+			"text": "???? 저거 트윗이 어떻게 저렇게 연결됨 누가 설명좀 ㅋㅋ https://t.co/130gCGdEyV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860870944545427500,
+						"id_str": "860870944545427456",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+						"url": "https://t.co/130gCGdEyV",
+						"display_url": "pic.twitter.com/130gCGdEyV",
+						"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860870944545427500,
+						"id_str": "860870944545427456",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_JtkB8V0AArVSk.jpg",
+						"url": "https://t.co/130gCGdEyV",
+						"display_url": "pic.twitter.com/130gCGdEyV",
+						"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 860870961557405700,
+						"id_str": "860870961557405697",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/C_JtlBUUAAE-E8k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_JtlBUUAAE-E8k.jpg",
+						"url": "https://t.co/130gCGdEyV",
+						"display_url": "pic.twitter.com/130gCGdEyV",
+						"expanded_url": "https://twitter.com/wjsejguq_/status/860870977957146624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2991653138,
+				"id_str": "2991653138",
+				"name": "Senshadou2017(인용ㄴㄴ)",
+				"screen_name": "wjsejguq_",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2054,
+				"friends_count": 689,
+				"listed_count": 26,
+				"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+				"favourites_count": 11317,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217910,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834598993627713536/2-tUzQQd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834598993627713536/2-tUzQQd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1488609622",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 269,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 269,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun May 07 03:06:12 +0000 2017",
 		"id": 861054529361518600,
 		"id_str": "861054529361518592",
