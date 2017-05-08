@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 11:55:43 +0000 2017",
+		"id": 861550177793986600,
+		"id_str": "861550177793986561",
+		"text": "RT @SamsungDotnae: 이재오 일게이꿈나무들이랑 찍은 사진 지웠노 이기이기 https://t.co/qaNOn05V2E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamsungDotnae",
+					"name": "Samdot",
+					"id": 375547298,
+					"id_str": "375547298",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861379181044678700,
+					"id_str": "861379181044678657",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+					"url": "https://t.co/qaNOn05V2E",
+					"display_url": "pic.twitter.com/qaNOn05V2E",
+					"expanded_url": "https://twitter.com/SamsungDotnae/status/861379196865585153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861379196865585200,
+					"source_status_id_str": "861379196865585153",
+					"source_user_id": 375547298,
+					"source_user_id_str": "375547298"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861379181044678700,
+					"id_str": "861379181044678657",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+					"url": "https://t.co/qaNOn05V2E",
+					"display_url": "pic.twitter.com/qaNOn05V2E",
+					"expanded_url": "https://twitter.com/SamsungDotnae/status/861379196865585153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861379196865585200,
+					"source_status_id_str": "861379196865585153",
+					"source_user_id": 375547298,
+					"source_user_id_str": "375547298"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 100,
+			"friends_count": 477,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3002,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 00:36:18 +0000 2017",
+			"id": 861379196865585200,
+			"id_str": "861379196865585153",
+			"text": "이재오 일게이꿈나무들이랑 찍은 사진 지웠노 이기이기 https://t.co/qaNOn05V2E",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861379181044678700,
+						"id_str": "861379181044678657",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+						"url": "https://t.co/qaNOn05V2E",
+						"display_url": "pic.twitter.com/qaNOn05V2E",
+						"expanded_url": "https://twitter.com/SamsungDotnae/status/861379196865585153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861379181044678700,
+						"id_str": "861379181044678657",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Q7zScVwAE0o5H.jpg",
+						"url": "https://t.co/qaNOn05V2E",
+						"display_url": "pic.twitter.com/qaNOn05V2E",
+						"expanded_url": "https://twitter.com/SamsungDotnae/status/861379196865585153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375547298,
+				"id_str": "375547298",
+				"name": "Samdot",
+				"screen_name": "SamsungDotnae",
+				"location": "Busan, Republic of Korea",
+				"description": "A.K.A 삼돋 / 개꼴데해체기원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2312,
+				"friends_count": 514,
+				"listed_count": 38,
+				"created_at": "Sun Sep 18 09:54:56 +0000 2011",
+				"favourites_count": 873,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 276344,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847838410626670592/Ep49Obxy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847838410626670592/Ep49Obxy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375547298/1490975402",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 08 11:37:14 +0000 2017",
+		"id": 861545525367132200,
+		"id_str": "861545525367132160",
+		"text": "RT @TwitterKorea: [#2017대선] JTBC '대선개표방송' 트위터 라이브 특별페이지를 리트윗 (RT) 해주세요! 더 빠른 소식을 더 많은 사람들과 함께 나눌 수 있습니다. #GoLive #2017투표하세요 #2017투표했어요 http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2017대선",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "GoLive",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "2017투표하세요",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "2017투표했어요",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterKorea",
+					"name": "트위터 대한민국",
+					"id": 216531294,
+					"id_str": "216531294",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 100,
+			"friends_count": 477,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3002,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 02:29:50 +0000 2017",
+			"id": 861407765280862200,
+			"id_str": "861407765280862208",
+			"text": "[#2017대선] JTBC '대선개표방송' 트위터 라이브 특별페이지를 리트윗 (RT) 해주세요! 더 빠른 소식을 더 많은 사람들과 함께 나눌 수 있습니다. #GoLive #2017투표하세요 #2017투표했어요 https://t.co/0P8uZ1UP7o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "2017대선",
+						"indices": [
+							1,
+							8
+						]
+					},
+					{
+						"text": "GoLive",
+						"indices": [
+							87,
+							94
+						]
+					},
+					{
+						"text": "2017투표하세요",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"text": "2017투표했어요",
+						"indices": [
+							106,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0P8uZ1UP7o",
+						"expanded_url": "https://jtbc.twitter.com",
+						"display_url": "jtbc.twitter.com",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216531294,
+				"id_str": "216531294",
+				"name": "트위터 대한민국",
+				"screen_name": "TwitterKorea",
+				"location": "대한민국",
+				"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요",
+				"url": "https://t.co/SvWUEpsmUj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SvWUEpsmUj",
+								"expanded_url": "https://blog.twitter.com/korea",
+								"display_url": "blog.twitter.com/korea",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jTMg7YsLw5",
+								"expanded_url": "https://support.twitter.com",
+								"display_url": "support.twitter.com",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1059733,
+				"friends_count": 4,
+				"listed_count": 2014,
+				"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+				"favourites_count": 466,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1498,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656931643/dl5l96ljfq163vdyx66o.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656931643/dl5l96ljfq163vdyx66o.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852148501039333376/1B22niK6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852148501039333376/1B22niK6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1491962250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon May 08 10:51:44 +0000 2017",
 		"id": 861534074564886500,
 		"id_str": "861534074564886530",
