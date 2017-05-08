@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 16:44:05 +0000 2017",
+		"id": 861622748149194800,
+		"id_str": "861622748149194752",
+		"text": "RT @ReallyiAmGhost: YTN 뉴스에선 \"파기됐어요\", KBS 뉴스에선 \"최선을 다하겠습니다\"가 나온다. 같은 장소 같은 시각의 영상인데도 보도가 이렇게 다름 https://t.co/kmdnQsaVKN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReallyiAmGhost",
+					"name": "김차인법사",
+					"id": 19951792,
+					"id_str": "19951792",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861614942356512800,
+					"id_str": "861614942356512768",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+					"url": "https://t.co/kmdnQsaVKN",
+					"display_url": "pic.twitter.com/kmdnQsaVKN",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 861614950694793200,
+					"source_status_id_str": "861614950694793217",
+					"source_user_id": 19951792,
+					"source_user_id_str": "19951792"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861614942356512800,
+					"id_str": "861614942356512768",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+					"url": "https://t.co/kmdnQsaVKN",
+					"display_url": "pic.twitter.com/kmdnQsaVKN",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 861614950694793200,
+					"source_status_id_str": "861614950694793217",
+					"source_user_id": 19951792,
+					"source_user_id_str": "19951792"
+				},
+				{
+					"id": 861614942356557800,
+					"id_str": "861614942356557824",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/C_USOZxU0AA4kAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_USOZxU0AA4kAZ.jpg",
+					"url": "https://t.co/kmdnQsaVKN",
+					"display_url": "pic.twitter.com/kmdnQsaVKN",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1016,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 601,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861614950694793200,
+					"source_status_id_str": "861614950694793217",
+					"source_user_id": 19951792,
+					"source_user_id_str": "19951792"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 482,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3026,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10884,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 16:13:06 +0000 2017",
+			"id": 861614950694793200,
+			"id_str": "861614950694793217",
+			"text": "YTN 뉴스에선 \"파기됐어요\", KBS 뉴스에선 \"최선을 다하겠습니다\"가 나온다. 같은 장소 같은 시각의 영상인데도 보도가 이렇게 다름 https://t.co/kmdnQsaVKN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861614942356512800,
+						"id_str": "861614942356512768",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+						"url": "https://t.co/kmdnQsaVKN",
+						"display_url": "pic.twitter.com/kmdnQsaVKN",
+						"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861614942356512800,
+						"id_str": "861614942356512768",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_USOZxUIAAzywF.jpg",
+						"url": "https://t.co/kmdnQsaVKN",
+						"display_url": "pic.twitter.com/kmdnQsaVKN",
+						"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 861614942356557800,
+						"id_str": "861614942356557824",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C_USOZxU0AA4kAZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_USOZxU0AA4kAZ.jpg",
+						"url": "https://t.co/kmdnQsaVKN",
+						"display_url": "pic.twitter.com/kmdnQsaVKN",
+						"expanded_url": "https://twitter.com/ReallyiAmGhost/status/861614950694793217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1016,
+								"h": 601,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1016,
+								"h": 601,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19951792,
+				"id_str": "19951792",
+				"name": "김차인법사",
+				"screen_name": "ReallyiAmGhost",
+				"location": "Pleiades Star Cluster",
+				"description": "님부스2000좀 불러주세요 ❤️@ensilion❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1385,
+				"friends_count": 1046,
+				"listed_count": 41,
+				"created_at": "Tue Feb 03 03:28:59 +0000 2009",
+				"favourites_count": 378,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88135,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602471978214100992/0kxRR4MD.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602471978214100992/0kxRR4MD.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850571328683778048/GDNqgQVj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850571328683778048/GDNqgQVj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19951792/1432380938",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 318,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 08 16:38:11 +0000 2017",
+		"id": 861621259926294500,
+		"id_str": "861621259926294528",
+		"text": "RT @fxxk_u_sibal: RT) 전디협 &lt;여자나가신다&gt; 대회가 선착순으로 참가를 받겠다며 몇 달 동안 준비한 팀들을 기만하고 저를 빡치게했습니다\n선착순 열두명!에 들지못한사람들은 마음찍으시면 추첨으로 베라를, 그냥 같이 빡쳐줄사람은 알티추첨…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fxxk_u_sibal",
+					"name": "유      다",
+					"id": 171372988,
+					"id_str": "171372988",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 482,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3026,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10884,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 13:08:30 +0000 2017",
+			"id": 861568492042018800,
+			"id_str": "861568492042018817",
+			"text": "RT) 전디협 &lt;여자나가신다&gt; 대회가 선착순으로 참가를 받겠다며 몇 달 동안 준비한 팀들을 기만하고 저를 빡치게했습니다\n선착순 열두명!에 들지못한사람들은 마음찍으시면 추첨으로 베라를, 그냥 같이 빡쳐줄사람은… https://t.co/ImFnSV7YhB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ImFnSV7YhB",
+						"expanded_url": "https://twitter.com/i/web/status/861568492042018817",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 171372988,
+				"id_str": "171372988",
+				"name": "유      다",
+				"screen_name": "fxxk_u_sibal",
+				"location": "여자_나 가신다",
+				"description": "13번째는,,,,선착순 못들어서,,,,,,안됩니까,,⁉️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65,
+				"friends_count": 252,
+				"listed_count": 0,
+				"created_at": "Tue Jul 27 05:37:33 +0000 2010",
+				"favourites_count": 3561,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4042,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861556308293566468/Yf_Rzowu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861556308293566468/Yf_Rzowu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/171372988/1494246042",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 343,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon May 08 15:34:42 +0000 2017",
 		"id": 861605286703845400,
 		"id_str": "861605286703845376",
