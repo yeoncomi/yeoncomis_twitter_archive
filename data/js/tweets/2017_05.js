@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 09 07:17:37 +0000 2017",
+		"id": 861842578647285800,
+		"id_str": "861842578647285760",
+		"text": "RT @XAROZAPIN: 이번에 디즈니랜드 가면 친구들이랑 셋이서 휴이 듀이 루이 트윈룩 하기로 했었는데... https://t.co/XXVWCNzfhI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XAROZAPIN",
+					"name": "싸로",
+					"id": 2449772996,
+					"id_str": "2449772996",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861584119674753000,
+					"id_str": "861584119674753024",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+					"url": "https://t.co/XXVWCNzfhI",
+					"display_url": "pic.twitter.com/XXVWCNzfhI",
+					"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861584126251384800,
+					"source_status_id_str": "861584126251384833",
+					"source_user_id": 2449772996,
+					"source_user_id_str": "2449772996"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861584119674753000,
+					"id_str": "861584119674753024",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+					"url": "https://t.co/XXVWCNzfhI",
+					"display_url": "pic.twitter.com/XXVWCNzfhI",
+					"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 259,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861584126251384800,
+					"source_status_id_str": "861584126251384833",
+					"source_user_id": 2449772996,
+					"source_user_id_str": "2449772996"
+				},
+				{
+					"id": 861584119670595600,
+					"id_str": "861584119670595585",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C_T2MSUVYAEE3AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_T2MSUVYAEE3AP.jpg",
+					"url": "https://t.co/XXVWCNzfhI",
+					"display_url": "pic.twitter.com/XXVWCNzfhI",
+					"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 525,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 525,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 344,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861584126251384800,
+					"source_status_id_str": "861584126251384833",
+					"source_user_id": 2449772996,
+					"source_user_id_str": "2449772996"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 483,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 14:10:37 +0000 2017",
+			"id": 861584126251384800,
+			"id_str": "861584126251384833",
+			"text": "이번에 디즈니랜드 가면 친구들이랑 셋이서 휴이 듀이 루이 트윈룩 하기로 했었는데... https://t.co/XXVWCNzfhI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861584119674753000,
+						"id_str": "861584119674753024",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+						"url": "https://t.co/XXVWCNzfhI",
+						"display_url": "pic.twitter.com/XXVWCNzfhI",
+						"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861584119674753000,
+						"id_str": "861584119674753024",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_T2MSVU0AAfC-3.jpg",
+						"url": "https://t.co/XXVWCNzfhI",
+						"display_url": "pic.twitter.com/XXVWCNzfhI",
+						"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 259,
+								"h": 194,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 861584119670595600,
+						"id_str": "861584119670595585",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C_T2MSUVYAEE3AP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_T2MSUVYAEE3AP.jpg",
+						"url": "https://t.co/XXVWCNzfhI",
+						"display_url": "pic.twitter.com/XXVWCNzfhI",
+						"expanded_url": "https://twitter.com/XAROZAPIN/status/861584126251384833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 525,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 525,
+								"h": 344,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2449772996,
+				"id_str": "2449772996",
+				"name": "싸로",
+				"screen_name": "XAROZAPIN",
+				"location": "",
+				"description": "강동호 / 크리스프랫",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 216,
+				"friends_count": 629,
+				"listed_count": 1,
+				"created_at": "Thu Apr 17 13:45:19 +0000 2014",
+				"favourites_count": 2930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 255,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6C7BF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457602158255276032/6IFhNvhs.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457602158255276032/6IFhNvhs.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850853960340586496/-CEouTtR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850853960340586496/-CEouTtR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2449772996/1471286945",
+				"profile_link_color": "212B60",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 846,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 09 07:17:10 +0000 2017",
+		"id": 861842466122510300,
+		"id_str": "861842466122510336",
+		"text": "RT @yonhaptweet: [투표현장] 홍준표 후보 유세차량 불법 주차로 견인 https://t.co/QMZ7dahJa6 #투표현장 https://t.co/Z08Q6VPGln",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "투표현장",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yonhaptweet",
+					"name": "연합뉴스",
+					"id": 147451838,
+					"id_str": "147451838",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QMZ7dahJa6",
+					"expanded_url": "http://ow.ly/cheE30bytni",
+					"display_url": "ow.ly/cheE30bytni",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 861841583133646800,
+					"id_str": "861841583133646848",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+					"url": "https://t.co/Z08Q6VPGln",
+					"display_url": "pic.twitter.com/Z08Q6VPGln",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/861841584974909440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861841584974909400,
+					"source_status_id_str": "861841584974909440",
+					"source_user_id": 147451838,
+					"source_user_id_str": "147451838"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861841583133646800,
+					"id_str": "861841583133646848",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+					"url": "https://t.co/Z08Q6VPGln",
+					"display_url": "pic.twitter.com/Z08Q6VPGln",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/861841584974909440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 861841584974909400,
+					"source_status_id_str": "861841584974909440",
+					"source_user_id": 147451838,
+					"source_user_id_str": "147451838"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "[5/9일 선거합시다]연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 483,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 07:13:40 +0000 2017",
+			"id": 861841584974909400,
+			"id_str": "861841584974909440",
+			"text": "[투표현장] 홍준표 후보 유세차량 불법 주차로 견인 https://t.co/QMZ7dahJa6 #투표현장 https://t.co/Z08Q6VPGln",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "투표현장",
+						"indices": [
+							53,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QMZ7dahJa6",
+						"expanded_url": "http://ow.ly/cheE30bytni",
+						"display_url": "ow.ly/cheE30bytni",
+						"indices": [
+							29,
+							52
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 861841583133646800,
+						"id_str": "861841583133646848",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+						"url": "https://t.co/Z08Q6VPGln",
+						"display_url": "pic.twitter.com/Z08Q6VPGln",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/861841584974909440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861841583133646800,
+						"id_str": "861841583133646848",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_XgWodXYAAfGgL.jpg",
+						"url": "https://t.co/Z08Q6VPGln",
+						"display_url": "pic.twitter.com/Z08Q6VPGln",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/861841584974909440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈피] http://t.co/gHNvfKkBkF \n연합뉴스는 1년 365일, 하루 24시간 국내외 취재망을 가동해 제작한 신속·정확한 기사를 전국의 신문·방송, 정부 부처, 공공기관, 일반기업, 포털 등 국내는 물론 해외에도 널리 공급하는 '대한민국 뉴스의 총본산' 입니다.",
+				"url": "http://t.co/F5rmnA27RN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F5rmnA27RN",
+								"expanded_url": "http://yonhapnews.co.kr/",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/gHNvfKkBkF",
+								"expanded_url": "http://www.yonhapnews.co.kr",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									5,
+									27
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 330848,
+				"friends_count": 81725,
+				"listed_count": 4807,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 7,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 126164,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1463968560",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 478,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 478,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue May 09 05:27:04 +0000 2017",
 		"id": 861814758525222900,
 		"id_str": "861814758525222913",
