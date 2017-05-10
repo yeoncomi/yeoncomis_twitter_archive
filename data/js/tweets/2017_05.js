@@ -1,6 +1,1072 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 11:09:52 +0000 2017",
+		"id": 862263412134363100,
+		"id_str": "862263412134363140",
+		"text": "RT @daencu: 와 이젠 선풍기쐬면 죽는다는말 안믿는다니까 미친 선풍기새끼들이 직접나서서조져버리네 https://t.co/1xjnjwmAOr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daencu",
+					"name": "댄쿠",
+					"id": 3000549488,
+					"id_str": "3000549488",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xjnjwmAOr",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/862161483756601344",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3109,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 07:18:00 +0000 2017",
+			"id": 862205060452827100,
+			"id_str": "862205060452827136",
+			"text": "와 이젠 선풍기쐬면 죽는다는말 안믿는다니까 미친 선풍기새끼들이 직접나서서조져버리네 https://t.co/1xjnjwmAOr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1xjnjwmAOr",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/862161483756601344",
+						"display_url": "twitter.com/yonhaptweet/st…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3000549488,
+				"id_str": "3000549488",
+				"name": "댄쿠",
+				"screen_name": "daencu",
+				"location": "",
+				"description": "#3982\n크로아/댄쿠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 142,
+				"friends_count": 113,
+				"listed_count": 2,
+				"created_at": "Thu Jan 29 04:59:04 +0000 2015",
+				"favourites_count": 1853,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23826,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826360882389135360/F312JA-y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826360882389135360/F312JA-y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3000549488/1454057352",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 862161483756601300,
+			"quoted_status_id_str": "862161483756601344",
+			"quoted_status": {
+				"created_at": "Wed May 10 04:24:50 +0000 2017",
+				"id": 862161483756601300,
+				"id_str": "862161483756601344",
+				"text": "파주 초등학교 교실서 휴대용 선풍기 폭발…학생 13명 부상 https://t.co/INYbHL6MLl #파주 https://t.co/K5kJSnQCTC",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "파주",
+							"indices": [
+								57,
+								60
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/INYbHL6MLl",
+							"expanded_url": "http://ow.ly/ljor30bAudb",
+							"display_url": "ow.ly/ljor30bAudb",
+							"indices": [
+								33,
+								56
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 862161480959090700,
+							"id_str": "862161480959090688",
+							"indices": [
+								61,
+								84
+							],
+							"media_url": "http://pbs.twimg.com/media/C_cDTIuXYAA2ACV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_cDTIuXYAA2ACV.jpg",
+							"url": "https://t.co/K5kJSnQCTC",
+							"display_url": "pic.twitter.com/K5kJSnQCTC",
+							"expanded_url": "https://twitter.com/yonhaptweet/status/862161483756601344/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 630,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1200,
+									"h": 630,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 357,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 862161480959090700,
+							"id_str": "862161480959090688",
+							"indices": [
+								61,
+								84
+							],
+							"media_url": "http://pbs.twimg.com/media/C_cDTIuXYAA2ACV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_cDTIuXYAA2ACV.jpg",
+							"url": "https://t.co/K5kJSnQCTC",
+							"display_url": "pic.twitter.com/K5kJSnQCTC",
+							"expanded_url": "https://twitter.com/yonhaptweet/status/862161483756601344/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 630,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1200,
+									"h": 630,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 357,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 147451838,
+					"id_str": "147451838",
+					"name": "연합뉴스",
+					"screen_name": "yonhaptweet",
+					"location": "대한민국 서울",
+					"description": "[홈피] http://t.co/gHNvfKkBkF \n연합뉴스는 1년 365일, 하루 24시간 국내외 취재망을 가동해 제작한 신속·정확한 기사를 전국의 신문·방송, 정부 부처, 공공기관, 일반기업, 포털 등 국내는 물론 해외에도 널리 공급하는 '대한민국 뉴스의 총본산' 입니다.",
+					"url": "http://t.co/F5rmnA27RN",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/F5rmnA27RN",
+									"expanded_url": "http://yonhapnews.co.kr/",
+									"display_url": "yonhapnews.co.kr",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/gHNvfKkBkF",
+									"expanded_url": "http://www.yonhapnews.co.kr",
+									"display_url": "yonhapnews.co.kr",
+									"indices": [
+										5,
+										27
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 330892,
+					"friends_count": 81712,
+					"listed_count": 4805,
+					"created_at": "Mon May 24 05:08:01 +0000 2010",
+					"favourites_count": 7,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 126400,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1463968560",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2144,
+				"favorite_count": 108,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 246,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 862161483756601300,
+		"quoted_status_id_str": "862161483756601344",
+		"retweet_count": 246,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 11:09:24 +0000 2017",
+		"id": 862263294672764900,
+		"id_str": "862263294672764930",
+		"text": "RT @Blackdesk_: #RT한_트친에게_해준다\n하도 귀찮아가지고 페이스북에서 가져옴 https://t.co/QP09I0zCwO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT한_트친에게_해준다",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Blackdesk_",
+					"name": "Blackdesk Disinder",
+					"id": 836502091405258800,
+					"id_str": "836502091405258752",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862228667442774000,
+					"id_str": "862228667442774016",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+					"url": "https://t.co/QP09I0zCwO",
+					"display_url": "pic.twitter.com/QP09I0zCwO",
+					"expanded_url": "https://twitter.com/Blackdesk_/status/862228809096904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 671,
+							"h": 957,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862228809096904700,
+					"source_status_id_str": "862228809096904704",
+					"source_user_id": 836502091405258800,
+					"source_user_id_str": "836502091405258752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862228667442774000,
+					"id_str": "862228667442774016",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+					"url": "https://t.co/QP09I0zCwO",
+					"display_url": "pic.twitter.com/QP09I0zCwO",
+					"expanded_url": "https://twitter.com/Blackdesk_/status/862228809096904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 671,
+							"h": 957,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862228809096904700,
+					"source_status_id_str": "862228809096904704",
+					"source_user_id": 836502091405258800,
+					"source_user_id_str": "836502091405258752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3109,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 08:52:22 +0000 2017",
+			"id": 862228809096904700,
+			"id_str": "862228809096904704",
+			"text": "#RT한_트친에게_해준다\n하도 귀찮아가지고 페이스북에서 가져옴 https://t.co/QP09I0zCwO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RT한_트친에게_해준다",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862228667442774000,
+						"id_str": "862228667442774016",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+						"url": "https://t.co/QP09I0zCwO",
+						"display_url": "pic.twitter.com/QP09I0zCwO",
+						"expanded_url": "https://twitter.com/Blackdesk_/status/862228809096904704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 671,
+								"h": 957,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 671,
+								"h": 957,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862228667442774000,
+						"id_str": "862228667442774016",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_dAZ54VwAA8KH6.jpg",
+						"url": "https://t.co/QP09I0zCwO",
+						"display_url": "pic.twitter.com/QP09I0zCwO",
+						"expanded_url": "https://twitter.com/Blackdesk_/status/862228809096904704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 671,
+								"h": 957,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 671,
+								"h": 957,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836502091405258800,
+				"id_str": "836502091405258752",
+				"name": "Blackdesk Disinder",
+				"screen_name": "Blackdesk_",
+				"location": "대한민국 대구 달서구",
+				"description": "04년생 비디오 디렉터, 컴덕 | VFX 분야의 최고봉이 되려고 노력중 | 최애 : @kaway_baka | 뒷계 : @Blackdesk_Back",
+				"url": "https://t.co/0DFldvtoyt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0DFldvtoyt",
+								"expanded_url": "http://twpf.jp/Blackdesk_",
+								"display_url": "twpf.jp/Blackdesk_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 274,
+				"friends_count": 213,
+				"listed_count": 3,
+				"created_at": "Tue Feb 28 09:03:34 +0000 2017",
+				"favourites_count": 4576,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12275,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861221996943728640/gzdy2x2x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861221996943728640/gzdy2x2x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836502091405258752/1491048762",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 11:08:53 +0000 2017",
+		"id": 862263165744169000,
+		"id_str": "862263165744168960",
+		"text": "RT @thisisgamecom: 한 인디게임 개발자가 \"당신이 우리 게임을 구매하기 위해 G2A를 이용한다면, 차라리 해적판(불법 복제) 이용하고 비용은 좋은 곳에 기부하거나 써주세요.\"​라는 글을 남겼습니다. 도대체 무슨 일 일까요? https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisisgamecom",
+					"name": "디스이즈게임",
+					"id": 76839341,
+					"id_str": "76839341",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3109,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 02:54:05 +0000 2017",
+			"id": 862138647461670900,
+			"id_str": "862138647461670912",
+			"text": "한 인디게임 개발자가 \"당신이 우리 게임을 구매하기 위해 G2A를 이용한다면, 차라리 해적판(불법 복제) 이용하고 비용은 좋은 곳에 기부하거나 써주세요.\"​라는 글을 남겼습니다. 도대체 무슨 일 일까요?… https://t.co/wOdssrtmmv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wOdssrtmmv",
+						"expanded_url": "https://twitter.com/i/web/status/862138647461670912",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76839341,
+				"id_str": "76839341",
+				"name": "디스이즈게임",
+				"screen_name": "thisisgamecom",
+				"location": "한국",
+				"description": "여러분의 타임라인으로 게임 뉴스를 전달해드립니다. 인사이트를 넓혀주는 게임 웹진, 디스이즈게임입니다. 제보는 bodo@thisisgame.com으로!",
+				"url": "http://t.co/WrvZs87T5K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WrvZs87T5K",
+								"expanded_url": "http://thisisgame.com",
+								"display_url": "thisisgame.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107089,
+				"friends_count": 3509,
+				"listed_count": 290,
+				"created_at": "Thu Sep 24 03:02:56 +0000 2009",
+				"favourites_count": 25,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10517,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807019279090520064/sCzXzSPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807019279090520064/sCzXzSPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76839341/1481243417",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 208,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 11:08:03 +0000 2017",
+		"id": 862262955135574000,
+		"id_str": "862262955135574016",
+		"text": "오우 시바 학원 DNS는 뭐길래 구글 검색밖에는 안됨?\n폰 DNS 8.8.8.8로 하니까 되네",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3109,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 10 09:28:49 +0000 2017",
 		"id": 862237982241181700,
 		"id_str": "862237982241181697",
