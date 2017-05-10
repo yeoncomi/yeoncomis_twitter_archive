@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 09 23:52:41 +0000 2017",
+		"id": 862092993003569200,
+		"id_str": "862092993003569152",
+		"text": "RT @haroeya_commu: ㅅㅋ\nㅋㅋ\nㅋㅋ\nㅋㅋ\nJTBC\nㅋ\nㅋㅋ\n시민: 배고픕니다\n손석희: 저도 배고픕니다\n기자: 저도배고픕니다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haroeya_commu",
+					"name": "살아있니?",
+					"id": 3759563719,
+					"id_str": "3759563719",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3090,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 11:55:50 +0000 2017",
+			"id": 861912594298191900,
+			"id_str": "861912594298191872",
+			"text": "ㅅㅋ\nㅋㅋ\nㅋㅋ\nㅋㅋ\nJTBC\nㅋ\nㅋㅋ\n시민: 배고픕니다\n손석희: 저도 배고픕니다\n기자: 저도배고픕니다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3759563719,
+				"id_str": "3759563719",
+				"name": "살아있니?",
+				"screen_name": "haroeya_commu",
+				"location": "여전히 네가 보고 싶어",
+				"description": "안부는 없고 오늘도 조금밖에 죽지 못했다 (0/6)",
+				"url": "https://t.co/IWehTZGGrA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IWehTZGGrA",
+								"expanded_url": "https://www.evernote.com/shard/s688/sh/a2c0789b-135f-42ff-a56d-e882af3b0cd4/076e0b67803877ec56b81e02",
+								"display_url": "evernote.com/shard/s688/sh/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146,
+				"friends_count": 200,
+				"listed_count": 2,
+				"created_at": "Fri Oct 02 13:49:20 +0000 2015",
+				"favourites_count": 832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15828,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861627420545228800/5NQiPeJZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861627420545228800/5NQiPeJZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3759563719/1491932538",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4338,
+			"favorite_count": 499,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4338,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 09 23:50:39 +0000 2017",
+		"id": 862092483362037800,
+		"id_str": "862092483362037760",
+		"text": "RT @kihone17: 안희정 지사 음주 연설 미치겠닼ㅋㅋㅋㅋㅋ\n\"문재인 후보님께 문재인 대통령님이라고 부를 수 있게 돼서 너무너무 기쁘고 행복합니다\"\n\"이 광화문 일대의 호프집에 맥주가 완전히 새벽까지 동이 나도록\"\n\"안 되면 문재인 대통령님 앞…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kihone17",
+					"name": "The나달🌱어용허니",
+					"id": 760776735629545500,
+					"id_str": "760776735629545472",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3090,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 15:43:52 +0000 2017",
+			"id": 861969981667295200,
+			"id_str": "861969981667295232",
+			"text": "안희정 지사 음주 연설 미치겠닼ㅋㅋㅋㅋㅋ\n\"문재인 후보님께 문재인 대통령님이라고 부를 수 있게 돼서 너무너무 기쁘고 행복합니다\"\n\"이 광화문 일대의 호프집에 맥주가 완전히 새벽까지 동이 나도록\"\n\"안 되면… https://t.co/ynrLSDWOeX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ynrLSDWOeX",
+						"expanded_url": "https://twitter.com/i/web/status/861969981667295232",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760776735629545500,
+				"id_str": "760776735629545472",
+				"name": "The나달🌱어용허니",
+				"screen_name": "kihone17",
+				"location": "문재인☎010-7391-0509",
+				"description": "The나달: 나비와 달 😻 더불어민주당 당원 😽 문재인&더민주 지지형 닥환영 🆗😺 문재인X이해찬X유시민 😼",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12249,
+				"friends_count": 3109,
+				"listed_count": 42,
+				"created_at": "Wed Aug 03 09:58:03 +0000 2016",
+				"favourites_count": 25330,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33568,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853976306064572416/Zg75GeT1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853976306064572416/Zg75GeT1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760776735629545472/1493584221",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4010,
+			"favorite_count": 1169,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4010,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 09 23:48:45 +0000 2017",
+		"id": 862092004997517300,
+		"id_str": "862092004997517312",
+		"text": "RT @CeeKayKim: 재외국민 투표... 3위는 심상정이라는데 이러면 정말 재외국민들은 이명박근혜가 싫어서 해외로 나간 것 같잖아. \n\nhttps://t.co/wqWXj6K7Pn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CeeKayKim",
+					"name": "CK(하늘땅)",
+					"id": 42788461,
+					"id_str": "42788461",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862010671361163300,
+					"id_str": "862010671361163264",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+					"url": "https://t.co/wqWXj6K7Pn",
+					"display_url": "pic.twitter.com/wqWXj6K7Pn",
+					"expanded_url": "https://twitter.com/himelcone07/status/862010681817575424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 891,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862010681817575400,
+					"source_status_id_str": "862010681817575424",
+					"source_user_id": 2688498558,
+					"source_user_id_str": "2688498558"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862010671361163300,
+					"id_str": "862010671361163264",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+					"url": "https://t.co/wqWXj6K7Pn",
+					"display_url": "pic.twitter.com/wqWXj6K7Pn",
+					"expanded_url": "https://twitter.com/himelcone07/status/862010681817575424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 891,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862010681817575400,
+					"source_status_id_str": "862010681817575424",
+					"source_user_id": 2688498558,
+					"source_user_id_str": "2688498558"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3090,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 22:33:51 +0000 2017",
+			"id": 862073156936257500,
+			"id_str": "862073156936257538",
+			"text": "재외국민 투표... 3위는 심상정이라는데 이러면 정말 재외국민들은 이명박근혜가 싫어서 해외로 나간 것 같잖아. \n\nhttps://t.co/wqWXj6K7Pn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862010671361163300,
+						"id_str": "862010671361163264",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+						"url": "https://t.co/wqWXj6K7Pn",
+						"display_url": "pic.twitter.com/wqWXj6K7Pn",
+						"expanded_url": "https://twitter.com/himelcone07/status/862010681817575424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 891,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 891,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 862010681817575400,
+						"source_status_id_str": "862010681817575424",
+						"source_user_id": 2688498558,
+						"source_user_id_str": "2688498558"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862010671361163300,
+						"id_str": "862010671361163264",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Z6I3MUAAA-P4D.jpg",
+						"url": "https://t.co/wqWXj6K7Pn",
+						"display_url": "pic.twitter.com/wqWXj6K7Pn",
+						"expanded_url": "https://twitter.com/himelcone07/status/862010681817575424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 891,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 891,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 862010681817575400,
+						"source_status_id_str": "862010681817575424",
+						"source_user_id": 2688498558,
+						"source_user_id_str": "2688498558"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42788461,
+				"id_str": "42788461",
+				"name": "CK(하늘땅)",
+				"screen_name": "CeeKayKim",
+				"location": "37.602910,127.070060",
+				"description": "세종주민/교통경제학/늘 새로운 것을 배우고 익히는 평생학생(이고픈 사람)/ '찬 이성 더운 가슴'을 지향하는 개신교인/ 당신이 무슨 생각을 하며 사는지가 궁금합니다/ Slow but STEADY / Pay It Forward",
+				"url": "http://t.co/X6c5KbcoX2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/X6c5KbcoX2",
+								"expanded_url": "http://twtkr.com/CeeKayKim",
+								"display_url": "twtkr.com/CeeKayKim",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2510,
+				"friends_count": 845,
+				"listed_count": 75,
+				"created_at": "Wed May 27 02:03:58 +0000 2009",
+				"favourites_count": 1455,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20207,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804554315390066688/jYetaqCq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804554315390066688/jYetaqCq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42788461/1473057916",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 09 23:46:10 +0000 2017",
+		"id": 862091355975069700,
+		"id_str": "862091355975069696",
+		"text": "RT @hotchochoco: 방금 워싱턴포스트 댓글 보다가 괴웃긴거 봄\nA: 방금 한국이 미국에게 좋을거없는 후보를 대통령으로 뽑았어\nB: 뭐 시발 작년 11월에 우리도 그랬잖아",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hotchochoco",
+					"name": "로튼토메토💯",
+					"id": 737466238012674000,
+					"id_str": "737466238012674048",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 485,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3090,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853632614090940416/J-hKjf5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 18:10:54 +0000 2017",
+			"id": 862006980801593300,
+			"id_str": "862006980801593344",
+			"text": "방금 워싱턴포스트 댓글 보다가 괴웃긴거 봄\nA: 방금 한국이 미국에게 좋을거없는 후보를 대통령으로 뽑았어\nB: 뭐 시발 작년 11월에 우리도 그랬잖아",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 737466238012674000,
+				"id_str": "737466238012674048",
+				"name": "로튼토메토💯",
+				"screen_name": "hotchochoco",
+				"location": "",
+				"description": "Trekki / 커크술루 캐스딘 시리무 에찰 늍민토 덷거미 셜존등 2, 2.5D 장르불문 덕 로튼입니다. FUB 자유이고 멘션은 쓰루합니다~ 크레뉴트 그래뉴트---NEW!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2121,
+				"friends_count": 531,
+				"listed_count": 25,
+				"created_at": "Tue May 31 02:10:27 +0000 2016",
+				"favourites_count": 3511,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16914,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848396475302166529/mfTaDOyF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848396475302166529/mfTaDOyF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/737466238012674048/1478244291",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2712,
+			"favorite_count": 373,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2712,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue May 09 23:13:42 +0000 2017",
 		"id": 862083185475149800,
 		"id_str": "862083185475149825",
