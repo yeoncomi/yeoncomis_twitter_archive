@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 11 08:03:41 +0000 2017",
+		"id": 862578944754597900,
+		"id_str": "862578944754597888",
+		"text": "RT @Ennhae13N: RT) 요즘 더 뜨거워지고있습니다🌞\n(리트윗+팔로우)해주신분들중 ✌명을 뽑아 인어선풍기를 드립니다아아아악😍😍\n당발은 17일날 \n\n찔끔이네 잘 부탁드립니다🙏 https://t.co/Z4RU5EXcIi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ennhae13N",
+					"name": "🌬찔끔이네🌬(메인트윗꼭보기",
+					"id": 809805643,
+					"id_str": "809805643",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862194855820181500,
+					"id_str": "862194855820181505",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+					"url": "https://t.co/Z4RU5EXcIi",
+					"display_url": "pic.twitter.com/Z4RU5EXcIi",
+					"expanded_url": "https://twitter.com/Ennhae13N/status/862194865865596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862194865865596900,
+					"source_status_id_str": "862194865865596928",
+					"source_user_id": 809805643,
+					"source_user_id_str": "809805643"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862194855820181500,
+					"id_str": "862194855820181505",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+					"url": "https://t.co/Z4RU5EXcIi",
+					"display_url": "pic.twitter.com/Z4RU5EXcIi",
+					"expanded_url": "https://twitter.com/Ennhae13N/status/862194865865596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862194865865596900,
+					"source_status_id_str": "862194865865596928",
+					"source_user_id": 809805643,
+					"source_user_id_str": "809805643"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 488,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3140,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 06:37:29 +0000 2017",
+			"id": 862194865865596900,
+			"id_str": "862194865865596928",
+			"text": "RT) 요즘 더 뜨거워지고있습니다🌞\n(리트윗+팔로우)해주신분들중 ✌명을 뽑아 인어선풍기를 드립니다아아아악😍😍\n당발은 17일날 \n\n찔끔이네 잘 부탁드립니다🙏 https://t.co/Z4RU5EXcIi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862194855820181500,
+						"id_str": "862194855820181505",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+						"url": "https://t.co/Z4RU5EXcIi",
+						"display_url": "pic.twitter.com/Z4RU5EXcIi",
+						"expanded_url": "https://twitter.com/Ennhae13N/status/862194865865596928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 827,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862194855820181500,
+						"id_str": "862194855820181505",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_chpzxUwAEWynp.jpg",
+						"url": "https://t.co/Z4RU5EXcIi",
+						"display_url": "pic.twitter.com/Z4RU5EXcIi",
+						"expanded_url": "https://twitter.com/Ennhae13N/status/862194865865596928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 827,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 809805643,
+				"id_str": "809805643",
+				"name": "🌬찔끔이네🌬(메인트윗꼭보기",
+				"screen_name": "Ennhae13N",
+				"location": "등록번호 안정선 217-56-00100",
+				"description": "13.01.13~ing🔥\n문의는 쪽지로\n공구,판매,공지는 마음지정❤\n공구배송👉입금마감일부터 1~4주이내로 배송\n판매배송👉입금일로부터(주말제외)3일이내로 배송\n이벤트배송👉 당첨자본인부담이며 선불이나 착불중 선택가능\n배송현황,공지,운송장번호는 블로그\n당신은 나의 빛과 소금",
+				"url": "https://t.co/iT8S7Pskyi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iT8S7Pskyi",
+								"expanded_url": "http://blog.naver.com/lily4965",
+								"display_url": "blog.naver.com/lily4965",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70227,
+				"friends_count": 8,
+				"listed_count": 226,
+				"created_at": "Fri Sep 07 23:37:54 +0000 2012",
+				"favourites_count": 429,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50828,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCEDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553842236354330624/GK2JM4xD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553842236354330624/GK2JM4xD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733150351092670464/J7DhfvQ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733150351092670464/J7DhfvQ4_normal.jpg",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "AAC1A9",
+				"profile_text_color": "6E4937",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3003,
+			"favorite_count": 148,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3003,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 11 07:52:17 +0000 2017",
+		"id": 862576076291162100,
+		"id_str": "862576076291162113",
+		"text": "RT @notte112: 요즘에 이런 부류의 인터넷방송 bj상품이 나오는데 어린애들이 좀 본다해도 tv에비해 접근성이 상당히 떨어지는건 있는지라 판매율이 어느정도 나오나 궁금해진다\n그리고 마소쪽에선 이런게 나오는걸 알고 용인된 상품인지도 궁금하고..…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "notte112",
+					"name": "노떼",
+					"id": 2557051840,
+					"id_str": "2557051840",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 488,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3140,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 01:35:06 +0000 2017",
+			"id": 862481156993802200,
+			"id_str": "862481156993802240",
+			"text": "요즘에 이런 부류의 인터넷방송 bj상품이 나오는데 어린애들이 좀 본다해도 tv에비해 접근성이 상당히 떨어지는건 있는지라 판매율이 어느정도 나오나 궁금해진다\n그리고 마소쪽에선 이런게 나오는걸 알고 용인된 상품… https://t.co/VWmmEePv8x",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VWmmEePv8x",
+						"expanded_url": "https://twitter.com/i/web/status/862481156993802240",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2557051840,
+				"id_str": "2557051840",
+				"name": "노떼",
+				"screen_name": "notte112",
+				"location": "South Korea",
+				"description": "R18 주의 Free FUB",
+				"url": "https://t.co/uE52wTOyPd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uE52wTOyPd",
+								"expanded_url": "http://www.pixiv.net/member.php?id=229230",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 554,
+				"friends_count": 289,
+				"listed_count": 12,
+				"created_at": "Wed May 21 05:47:29 +0000 2014",
+				"favourites_count": 19559,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11211,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/854577569198350337/fAX84i96_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/854577569198350337/fAX84i96_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557051840/1493038123",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 11 07:45:50 +0000 2017",
+		"id": 862574453913301000,
+		"id_str": "862574453913300999",
+		"text": "RT @ChildrenSirloin: 탈 많던 박승춘, 적폐 청산 1호 경질 https://t.co/83SHcnr31x 5월 18일에 광주에서 특전사 시가행진으로 점령군 퍼포먼스를 추진하던 박승춘 적폐 1호행ㅋㅋㅋㅋㅋ https://t.co/cRtZ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChildrenSirloin",
+					"name": "이상한책 읽는 사에군",
+					"id": 725470520913752000,
+					"id_str": "725470520913752068",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/83SHcnr31x",
+					"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000202488",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연컴🎗",
+			"screen_name": "yeoncomi",
+			"location": "Team Lapin",
+			"description": "우울/😷🤒😷 I am a teapot.\n급한 연락은 yeoncomi@gmail.com으로\n시골집에 와있어서 접속을 잘 못합니다\n뒷계: @yeoncomi_NSFW\nParan을 일으키자",
+			"url": "https://t.co/x8nWq5x52R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x8nWq5x52R",
+							"expanded_url": "https://yeoncomi-nas2.duckdns.org/wordpress",
+							"display_url": "yeoncomi-nas2.duckdns.org/wordpress",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106,
+			"friends_count": 488,
+			"listed_count": 4,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 3140,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862237088753696768/n-QD8wXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1490024669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 07:34:10 +0000 2017",
+			"id": 862571517304913900,
+			"id_str": "862571517304913920",
+			"text": "탈 많던 박승춘, 적폐 청산 1호 경질 https://t.co/83SHcnr31x 5월 18일에 광주에서 특전사 시가행진으로 점령군 퍼포먼스를 추진하던 박승춘 적폐 1호행ㅋㅋㅋㅋㅋ https://t.co/cRtZyJzA6q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/83SHcnr31x",
+						"expanded_url": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000202488",
+						"display_url": "news.naver.com/main/read.nhn?…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 862571499240144900,
+						"id_str": "862571499240144897",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C_h4NV2VwAEEA9v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_h4NV2VwAEEA9v.jpg",
+						"url": "https://t.co/cRtZyJzA6q",
+						"display_url": "pic.twitter.com/cRtZyJzA6q",
+						"expanded_url": "https://twitter.com/ChildrenSirloin/status/862571517304913920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862571499240144900,
+						"id_str": "862571499240144897",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C_h4NV2VwAEEA9v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_h4NV2VwAEEA9v.jpg",
+						"url": "https://t.co/cRtZyJzA6q",
+						"display_url": "pic.twitter.com/cRtZyJzA6q",
+						"expanded_url": "https://twitter.com/ChildrenSirloin/status/862571517304913920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 725470520913752000,
+				"id_str": "725470520913752068",
+				"name": "이상한책 읽는 사에군",
+				"screen_name": "ChildrenSirloin",
+				"location": "",
+				"description": "정정당당하게 선동으로 승부하자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3943,
+				"friends_count": 318,
+				"listed_count": 57,
+				"created_at": "Wed Apr 27 23:43:45 +0000 2016",
+				"favourites_count": 2507,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2045,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849889391287738368/dS80F_Sa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849889391287738368/dS80F_Sa_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 85,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu May 11 07:04:34 +0000 2017",
 		"id": 862564070746017800,
 		"id_str": "862564070746017792",
