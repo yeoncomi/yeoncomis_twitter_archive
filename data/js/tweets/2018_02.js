@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 17:19:27 +0000 2018",
+		"id": 964549801378332700,
+		"id_str": "964549801378332674",
+		"text": "RT @creamic98: 성빈이 형이 최고 속도를 낼 수 있던 이유 https://t.co/YyzYYh5zcx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "creamic98",
+					"name": "CREAMIC 😇",
+					"id": 840208356,
+					"id_str": "840208356",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964366525841817600,
+					"id_str": "964366525841817600",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+					"url": "https://t.co/YyzYYh5zcx",
+					"display_url": "pic.twitter.com/YyzYYh5zcx",
+					"expanded_url": "https://twitter.com/creamic98/status/964366548675674112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1436,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964366548675674100,
+					"source_status_id_str": "964366548675674112",
+					"source_user_id": 840208356,
+					"source_user_id_str": "840208356"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964366525841817600,
+					"id_str": "964366525841817600",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+					"url": "https://t.co/YyzYYh5zcx",
+					"display_url": "pic.twitter.com/YyzYYh5zcx",
+					"expanded_url": "https://twitter.com/creamic98/status/964366548675674112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1436,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964366548675674100,
+					"source_status_id_str": "964366548675674112",
+					"source_user_id": 840208356,
+					"source_user_id_str": "840208356"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 688,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10030,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 16 05:11:16 +0000 2018",
+			"id": 964366548675674100,
+			"id_str": "964366548675674112",
+			"text": "성빈이 형이 최고 속도를 낼 수 있던 이유 https://t.co/YyzYYh5zcx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964366525841817600,
+						"id_str": "964366525841817600",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+						"url": "https://t.co/YyzYYh5zcx",
+						"display_url": "pic.twitter.com/YyzYYh5zcx",
+						"expanded_url": "https://twitter.com/creamic98/status/964366548675674112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1033,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 863,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964366525841817600,
+						"id_str": "964366525841817600",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWIePu4UQAAQt3a.jpg",
+						"url": "https://t.co/YyzYYh5zcx",
+						"display_url": "pic.twitter.com/YyzYYh5zcx",
+						"expanded_url": "https://twitter.com/creamic98/status/964366548675674112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1436,
+								"h": 1033,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 863,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 840208356,
+				"id_str": "840208356",
+				"name": "CREAMIC 😇",
+				"screen_name": "creamic98",
+				"location": "대한민국",
+				"description": "아직은 게임을 즐기는 학생이고 네이버 블로그에 게임에 대한 포스트를 다룹니다! 맞팔 환영합니다 :D / Create + Dominic",
+				"url": "https://t.co/8jD0VPOCeS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8jD0VPOCeS",
+								"expanded_url": "http://blog.naver.com/creator98",
+								"display_url": "blog.naver.com/creator98",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 71,
+				"listed_count": 1,
+				"created_at": "Sat Sep 22 18:20:55 +0000 2012",
+				"favourites_count": 903,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16708,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901064408855592965/Pyn7yiv3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901064408855592965/Pyn7yiv3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/840208356/1459261759",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 818,
+			"favorite_count": 181,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 818,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 16 17:16:10 +0000 2018",
 		"id": 964548972835627000,
 		"id_str": "964548972835627008",
