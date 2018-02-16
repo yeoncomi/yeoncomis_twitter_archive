@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 17:16:10 +0000 2018",
+		"id": 964548972835627000,
+		"id_str": "964548972835627008",
+		"text": "RT @njs07080: 스팀 세일이 시작됐군 https://t.co/oDDBAXLE6w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "njs07080",
+					"name": "횽",
+					"id": 2593253702,
+					"id_str": "2593253702",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964315426430701600,
+					"id_str": "964315426430701568",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+					"url": "https://t.co/oDDBAXLE6w",
+					"display_url": "pic.twitter.com/oDDBAXLE6w",
+					"expanded_url": "https://twitter.com/njs07080/status/964315442897600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1579,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964315442897600500,
+					"source_status_id_str": "964315442897600512",
+					"source_user_id": 2593253702,
+					"source_user_id_str": "2593253702"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964315426430701600,
+					"id_str": "964315426430701568",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+					"url": "https://t.co/oDDBAXLE6w",
+					"display_url": "pic.twitter.com/oDDBAXLE6w",
+					"expanded_url": "https://twitter.com/njs07080/status/964315442897600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1579,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964315442897600500,
+					"source_status_id_str": "964315442897600512",
+					"source_user_id": 2593253702,
+					"source_user_id_str": "2593253702"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 688,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21362,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 16 01:48:12 +0000 2018",
+			"id": 964315442897600500,
+			"id_str": "964315442897600512",
+			"text": "스팀 세일이 시작됐군 https://t.co/oDDBAXLE6w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964315426430701600,
+						"id_str": "964315426430701568",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+						"url": "https://t.co/oDDBAXLE6w",
+						"display_url": "pic.twitter.com/oDDBAXLE6w",
+						"expanded_url": "https://twitter.com/njs07080/status/964315442897600512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1579,
+								"h": 945,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964315426430701600,
+						"id_str": "964315426430701568",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWHvxWvU0AAWebN.jpg",
+						"url": "https://t.co/oDDBAXLE6w",
+						"display_url": "pic.twitter.com/oDDBAXLE6w",
+						"expanded_url": "https://twitter.com/njs07080/status/964315442897600512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1579,
+								"h": 945,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2593253702,
+				"id_str": "2593253702",
+				"name": "횽",
+				"screen_name": "njs07080",
+				"location": "",
+				"description": "혼자 게임얘기하는 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 18,
+				"listed_count": 1,
+				"created_at": "Sat Jun 28 15:24:21 +0000 2014",
+				"favourites_count": 485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 245,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964374932162400256/wb6UVrsG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964374932162400256/wb6UVrsG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2593253702/1518581368",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4430,
+			"favorite_count": 712,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4430,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 16 04:18:52 +0000 2018",
 		"id": 964353361297354800,
 		"id_str": "964353361297354753",
@@ -16736,7 +17080,7 @@ Grailbird.data.tweets_2018_02 =
 				"name": "Pᴇʀsᴏɴᴀʟ Hᴏᴍᴇ Pᴀɢᴇ 🐘",
 				"screen_name": "devunt",
 				"location": "",
-				"description": "🇰🇷🙎‍♂️한남 겸 트페미🐦🏳️‍🌈",
+				"description": "🇰🇷🙎♂️한남 겸 트페미🐦🏳️🌈",
 				"url": "https://t.co/m8PnzZysCx",
 				"entities": {
 					"url": {
@@ -30648,7 +30992,7 @@ Grailbird.data.tweets_2018_02 =
 				"name": "김달걀",
 				"screen_name": "cheesebutteregg",
 				"location": "GIRLS CAN DO ANYTHING",
-				"description": "🏳️‍🌈 B Feminist Nerd / 불친절의 대명사",
+				"description": "🏳️🌈 B Feminist Nerd / 불친절의 대명사",
 				"url": null,
 				"entities": {
 					"description": {
@@ -99036,7 +99380,7 @@ Grailbird.data.tweets_2018_02 =
 				"user": {
 					"id": 925862129281855500,
 					"id_str": "925862129281855488",
-					"name": "휴가중🏳️‍🌈",
+					"name": "휴가중🏳️🌈",
 					"screen_name": "murakamiradio2",
 					"location": "",
 					"description": "페미니스트. 당분간 백수. 죄를 모르는 것이 바로 너의 죄다.",
