@@ -1,6 +1,1228 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 17:16:06 +0000 2018",
+		"id": 964911343873671200,
+		"id_str": "964911343873671168",
+		"text": "RT @laki_dosto: 님들 저 컬링함 https://t.co/CdGVtmVfdf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laki_dosto",
+					"name": "라키(ラキ)🐁",
+					"id": 852801964098281500,
+					"id_str": "852801964098281472",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964864788776960000,
+					"id_str": "964864788776960000",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+					"url": "https://t.co/CdGVtmVfdf",
+					"display_url": "pic.twitter.com/CdGVtmVfdf",
+					"expanded_url": "https://twitter.com/laki_dosto/status/964864859396497408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964864859396497400,
+					"source_status_id_str": "964864859396497408",
+					"source_user_id": 852801964098281500,
+					"source_user_id_str": "852801964098281472"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964864788776960000,
+					"id_str": "964864788776960000",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+					"url": "https://t.co/CdGVtmVfdf",
+					"display_url": "pic.twitter.com/CdGVtmVfdf",
+					"expanded_url": "https://twitter.com/laki_dosto/status/964864859396497408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964864859396497400,
+					"source_status_id_str": "964864859396497408",
+					"source_user_id": 852801964098281500,
+					"source_user_id_str": "852801964098281472",
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 13233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/pl/p3Dv7BHJ3CBm2g9K.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/vid/318x180/qGNYgepw_-PUHxNz.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/vid/638x360/zRnoEHvfbDsNlnZN.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 852801964098281500,
+							"id_str": "852801964098281472",
+							"name": "라키(ラキ)🐁",
+							"screen_name": "laki_dosto",
+							"location": "도스토 침대밑",
+							"description": "🌟도스른 고정🌟(도스왼 직멘 🚫) / 文スト、カゲプロ、ハイネ、あんスタ/ 한국어, 日本語, English / 급한일은 네타계 @laki_0314",
+							"url": "https://t.co/ch2Ejvbf55",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ch2Ejvbf55",
+											"expanded_url": "http://twpf.jp/laki_dosto",
+											"display_url": "twpf.jp/laki_dosto",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 727,
+							"friends_count": 541,
+							"listed_count": 10,
+							"created_at": "Fri Apr 14 08:33:27 +0000 2017",
+							"favourites_count": 20661,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 85505,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/962140926503038978/RE6w1j9l_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/962140926503038978/RE6w1j9l_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/852801964098281472/1518705247",
+							"profile_link_color": "91D2FA",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 690,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 14:11:23 +0000 2018",
+			"id": 964864859396497400,
+			"id_str": "964864859396497408",
+			"text": "님들 저 컬링함 https://t.co/CdGVtmVfdf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964864788776960000,
+						"id_str": "964864788776960000",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+						"url": "https://t.co/CdGVtmVfdf",
+						"display_url": "pic.twitter.com/CdGVtmVfdf",
+						"expanded_url": "https://twitter.com/laki_dosto/status/964864859396497408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964864788776960000,
+						"id_str": "964864788776960000",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/964864788776960000/pu/img/3XsDFj98JMsTP5vd.jpg",
+						"url": "https://t.co/CdGVtmVfdf",
+						"display_url": "pic.twitter.com/CdGVtmVfdf",
+						"expanded_url": "https://twitter.com/laki_dosto/status/964864859396497408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								40
+							],
+							"duration_millis": 13233,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/pl/p3Dv7BHJ3CBm2g9K.m3u8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/vid/318x180/qGNYgepw_-PUHxNz.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/964864788776960000/pu/vid/638x360/zRnoEHvfbDsNlnZN.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852801964098281500,
+				"id_str": "852801964098281472",
+				"name": "라키(ラキ)🐁",
+				"screen_name": "laki_dosto",
+				"location": "도스토 침대밑",
+				"description": "🌟도스른 고정🌟(도스왼 직멘 🚫) / 文スト、カゲプロ、ハイネ、あんスタ/ 한국어, 日本語, English / 급한일은 네타계 @laki_0314",
+				"url": "https://t.co/ch2Ejvbf55",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ch2Ejvbf55",
+								"expanded_url": "http://twpf.jp/laki_dosto",
+								"display_url": "twpf.jp/laki_dosto",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 727,
+				"friends_count": 541,
+				"listed_count": 10,
+				"created_at": "Fri Apr 14 08:33:27 +0000 2017",
+				"favourites_count": 20661,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 85505,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962140926503038978/RE6w1j9l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962140926503038978/RE6w1j9l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852801964098281472/1518705247",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6682,
+			"favorite_count": 1919,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6682,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 17 16:49:18 +0000 2018",
+		"id": 964904598677762000,
+		"id_str": "964904598677762048",
+		"text": "비와",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 690,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 17 16:49:00 +0000 2018",
+		"id": 964904525399081000,
+		"id_str": "964904525399080960",
+		"text": "RT @perillamint: 스푸핑 문제를 별 거 아닌거마냥 취급하는데 이미 존재하는 IDN homograph attack 벡터들은 호환성 문제 때문에 어쩔 수 없더라도 별 이득도 없는 이유로 새로운 LGR에 똑같은 지옥을 유발시키는건 좀 지양해야…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perillamint",
+					"name": "\\x7F\\x45\\x4C\\x46🧝🧙⚧",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 690,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 11:48:39 +0000 2018",
+			"id": 964828940320751600,
+			"id_str": "964828940320751616",
+			"text": "스푸핑 문제를 별 거 아닌거마냥 취급하는데 이미 존재하는 IDN homograph attack 벡터들은 호환성 문제 때문에 어쩔 수 없더라도 별 이득도 없는 이유로 새로운 LGR에 똑같은 지옥을 유발시키는건… https://t.co/KjRBFH3FIY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KjRBFH3FIY",
+						"expanded_url": "https://twitter.com/i/web/status/964828940320751616",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2890022617,
+				"id_str": "2890022617",
+				"name": "\\x7F\\x45\\x4C\\x46🧝🧙⚧",
+				"screen_name": "perillamint",
+				"location": "시스템 어드민의 지옥",
+				"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; 리눅서; 싸움은 싫지만 니편은 아니에요; ⚧ Genderqueer; 웜계 무관용 블락합니다; 더 자세한 건 여기로: https://t.co/TybCe8Gy7c",
+				"url": "https://t.co/fgKVMo9Ohs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fgKVMo9Ohs",
+								"expanded_url": "http://blog.quendi.moe",
+								"display_url": "blog.quendi.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TybCe8Gy7c",
+								"expanded_url": "http://blog.quendi.moe/about-pmint",
+								"display_url": "blog.quendi.moe/about-pmint",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1003,
+				"friends_count": 774,
+				"listed_count": 67,
+				"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+				"favourites_count": 1186,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 162247,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 964459412956958700,
+			"quoted_status_id_str": "964459412956958720",
+			"quoted_status": {
+				"created_at": "Fri Feb 16 11:20:17 +0000 2018",
+				"id": 964459412956958700,
+				"id_str": "964459412956958720",
+				"text": "문재인 대통령도 한자로 주마가편 쓰셨잖어요. 기록물은 지워도 사람까지 지울 수는 없지요, 안그래요? ko-KORE-KR 사용자도 있고... 수수료 받아먹고싶은 ICANN이 ko-KORE-KR 사용자의 한자… https://t.co/PhdVYmFaSg",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/PhdVYmFaSg",
+							"expanded_url": "https://twitter.com/i/web/status/964459412956958720",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 139688199,
+					"id_str": "139688199",
+					"name": "mint",
+					"screen_name": "ouomint",
+					"location": "横浜 / 無性愛者 / I: @tsudaka53",
+					"description": "탐라의 공기",
+					"url": "https://t.co/pqdDK470ZT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/pqdDK470ZT",
+									"expanded_url": "https://keybase.io/ouomint",
+									"display_url": "keybase.io/ouomint",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 433,
+					"friends_count": 354,
+					"listed_count": 6,
+					"created_at": "Mon May 03 11:20:43 +0000 2010",
+					"favourites_count": 6507,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 21708,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "4A913C",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570925347009331200/cuEVJdLA.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570925347009331200/cuEVJdLA.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/942236348689166336/gVeDGQTo_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/942236348689166336/gVeDGQTo_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/139688199/1514822489",
+					"profile_link_color": "11EE99",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "3B3B3B",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 964060567336927200,
+				"quoted_status_id_str": "964060567336927232",
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 9,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 964459412956958700,
+		"quoted_status_id_str": "964459412956958720",
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 17 16:47:30 +0000 2018",
+		"id": 964904145818808300,
+		"id_str": "964904145818808320",
+		"text": "RT @MikiBear_: 아 미친 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㄱㅋㅋㅋㅋㅋㅋ https://t.co/kFK3Hreiv4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikiBear_",
+					"name": "미키베어",
+					"id": 146340553,
+					"id_str": "146340553",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964903201957863400,
+					"id_str": "964903201957863425",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+					"url": "https://t.co/kFK3Hreiv4",
+					"display_url": "pic.twitter.com/kFK3Hreiv4",
+					"expanded_url": "https://twitter.com/MikiBear_/status/964903210786766848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964903210786766800,
+					"source_status_id_str": "964903210786766848",
+					"source_user_id": 146340553,
+					"source_user_id_str": "146340553"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964903201957863400,
+					"id_str": "964903201957863425",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+					"url": "https://t.co/kFK3Hreiv4",
+					"display_url": "pic.twitter.com/kFK3Hreiv4",
+					"expanded_url": "https://twitter.com/MikiBear_/status/964903210786766848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964903210786766800,
+					"source_status_id_str": "964903210786766848",
+					"source_user_id": 146340553,
+					"source_user_id_str": "146340553"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "♥ @IcoRayner | I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 690,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 16:43:47 +0000 2018",
+			"id": 964903210786766800,
+			"id_str": "964903210786766848",
+			"text": "아 미친 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㄱㅋㅋㅋㅋㅋㅋ https://t.co/kFK3Hreiv4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964903201957863400,
+						"id_str": "964903201957863425",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+						"url": "https://t.co/kFK3Hreiv4",
+						"display_url": "pic.twitter.com/kFK3Hreiv4",
+						"expanded_url": "https://twitter.com/MikiBear_/status/964903210786766848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964903201957863400,
+						"id_str": "964903201957863425",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWQGWZNV4AE_IWe.jpg",
+						"url": "https://t.co/kFK3Hreiv4",
+						"display_url": "pic.twitter.com/kFK3Hreiv4",
+						"expanded_url": "https://twitter.com/MikiBear_/status/964903210786766848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146340553,
+				"id_str": "146340553",
+				"name": "미키베어",
+				"screen_name": "MikiBear_",
+				"location": "사람들 사이에 섞여사는 곰",
+				"description": "컴퓨터 비전과 딥러닝 하는 산업기능요원맨. 성우가 이모다. 신앙심 주도 개발. 아니메 오타쿠. Milli붐은 온다. JAG.\n본 계정의 트윗은 소속 집단과 일절 관계가 있을 리가 있겠습니까.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1437,
+				"friends_count": 1242,
+				"listed_count": 46,
+				"created_at": "Fri May 21 05:37:28 +0000 2010",
+				"favourites_count": 6271,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 178312,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B5ABAA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813819407478595584/UyC5ZkGh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813819407478595584/UyC5ZkGh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/146340553/1399614034",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Feb 17 11:36:54 +0000 2018",
 		"id": 964825983290191900,
 		"id_str": "964825983290191872",
