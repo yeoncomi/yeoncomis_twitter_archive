@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 20 05:30:03 +0000 2018",
+		"id": 965820827282300900,
+		"id_str": "965820827282300928",
+		"text": "RT @liciaris: 지하철에서 유리가 내 폰 뺏어서 막 트윗할때 술꼴아서 \"하하 너는 내 privkey로 signing 못한다 하하하하\" \"힝..\" \"...multisign해줄까...\" 뭐 이런 대화를 했던것같은데 잘 모르겠다 아님망고요쩝",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liciaris",
+					"name": "[licia@유리님 ~]$ _",
+					"id": 3190841569,
+					"id_str": "3190841569",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 192,
+			"friends_count": 691,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 16:02:12 +0000 2018",
+			"id": 965617523222708200,
+			"id_str": "965617523222708224",
+			"text": "지하철에서 유리가 내 폰 뺏어서 막 트윗할때 술꼴아서 \"하하 너는 내 privkey로 signing 못한다 하하하하\" \"힝..\" \"...multisign해줄까...\" 뭐 이런 대화를 했던것같은데 잘 모르겠다 아님망고요쩝",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3190841569,
+				"id_str": "3190841569",
+				"name": "[licia@유리님 ~]$ _",
+				"screen_name": "liciaris",
+				"location": "ㅎㅅㄷㄱ 했었는데요,,,,",
+				"description": "KUCI'16 CSE CATDOG;\n\nBEMANI;\n\n@yuri_public💖;\nIron Paladin♥;\n\n술♡;\n중졸자퇴충;\n페미니스트?;\n멘션스루잦음;\n\n소속 단체의 의견을 대변하지 않습니다",
+				"url": "https://t.co/TMbWxW1eQ5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TMbWxW1eQ5",
+								"expanded_url": "https://seiker.moe",
+								"display_url": "seiker.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 953,
+				"friends_count": 572,
+				"listed_count": 23,
+				"created_at": "Sun May 10 13:09:00 +0000 2015",
+				"favourites_count": 14413,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 199600,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936076550822227970/WlO9ggRz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936076550822227970/WlO9ggRz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1492891021",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Feb 20 05:29:50 +0000 2018",
+		"id": 965820772731183100,
+		"id_str": "965820772731183104",
+		"text": "RT @moriyachanl: 유일하게 뒷배경으로 욱일기 사용이 허용되는 일본의 통치자 https://t.co/IYv50v2YO7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moriyachanl",
+					"name": "김찬엘",
+					"id": 331685407,
+					"id_str": "331685407",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 965773321437696000,
+					"id_str": "965773321437696001",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+					"url": "https://t.co/IYv50v2YO7",
+					"display_url": "pic.twitter.com/IYv50v2YO7",
+					"expanded_url": "https://twitter.com/moriyachanl/status/965773491583758336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965773491583758300,
+					"source_status_id_str": "965773491583758336",
+					"source_user_id": 331685407,
+					"source_user_id_str": "331685407"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965773321437696000,
+					"id_str": "965773321437696001",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+					"url": "https://t.co/IYv50v2YO7",
+					"display_url": "pic.twitter.com/IYv50v2YO7",
+					"expanded_url": "https://twitter.com/moriyachanl/status/965773491583758336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 393,
+							"h": 552,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965773491583758300,
+					"source_status_id_str": "965773491583758336",
+					"source_user_id": 331685407,
+					"source_user_id_str": "331685407"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 192,
+			"friends_count": 691,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 20 02:21:58 +0000 2018",
+			"id": 965773491583758300,
+			"id_str": "965773491583758336",
+			"text": "유일하게 뒷배경으로 욱일기 사용이 허용되는 일본의 통치자 https://t.co/IYv50v2YO7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 965773321437696000,
+						"id_str": "965773321437696001",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+						"url": "https://t.co/IYv50v2YO7",
+						"display_url": "pic.twitter.com/IYv50v2YO7",
+						"expanded_url": "https://twitter.com/moriyachanl/status/965773491583758336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 965773321437696000,
+						"id_str": "965773321437696001",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWcduA3X0AEaMfb.jpg",
+						"url": "https://t.co/IYv50v2YO7",
+						"display_url": "pic.twitter.com/IYv50v2YO7",
+						"expanded_url": "https://twitter.com/moriyachanl/status/965773491583758336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 393,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331685407,
+				"id_str": "331685407",
+				"name": "김찬엘",
+				"screen_name": "moriyachanl",
+				"location": "",
+				"description": "겜창 / 동방 / 765P / 트수 / 서울에서 존나 먼 3년제 / 비밀결사단 문사철 소속",
+				"url": "https://t.co/MlsDR9M8sa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MlsDR9M8sa",
+								"expanded_url": "https://ask.fm/moriyachanl",
+								"display_url": "ask.fm/moriyachanl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 850,
+				"friends_count": 221,
+				"listed_count": 6,
+				"created_at": "Fri Jul 08 15:24:58 +0000 2011",
+				"favourites_count": 908,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67072,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949140850113589248/kOPWyeZR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949140850113589248/kOPWyeZR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331685407/1512001999",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Feb 20 02:01:01 +0000 2018",
 		"id": 965768219184087000,
 		"id_str": "965768219184087041",
