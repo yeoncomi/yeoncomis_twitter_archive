@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 17:11:09 +0000 2018",
+		"id": 966359651087347700,
+		"id_str": "966359651087347712",
+		"text": "RT @PeaceMirai: 정리\n-일본쪽 오락실에 뮤제카 섭종/비시바시 채널 업글킷(28만엔) 안내 소식이 전달됨(공식 공지는 아직 없음)\n-일본쪽 오락실 지인을 알고계신 분이 물어본 결과 사실(JAEPO때 업자들한테 고지했다는 듯.)\n-이전부터…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeaceMirai",
+					"name": "미라이 in Tokyo(3/9~14)-★",
+					"id": 54575413,
+					"id_str": "54575413",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 193,
+			"friends_count": 694,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 17:04:16 +0000 2018",
+			"id": 966357916591693800,
+			"id_str": "966357916591693829",
+			"text": "정리\n-일본쪽 오락실에 뮤제카 섭종/비시바시 채널 업글킷(28만엔) 안내 소식이 전달됨(공식 공지는 아직 없음)\n-일본쪽 오락실 지인을 알고계신 분이 물어본 결과 사실(JAEPO때 업자들한테 고지했다는 듯.… https://t.co/9FzfBJoKlG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9FzfBJoKlG",
+						"expanded_url": "https://twitter.com/i/web/status/966357916591693829",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54575413,
+				"id_str": "54575413",
+				"name": "미라이 in Tokyo(3/9~14)-★",
+				"screen_name": "PeaceMirai",
+				"location": "I wish we will meet soon",
+				"description": "日本語少し可能 - 봇계아님 - 유우키P - 안경교 일반신도 - 리게이/블쟈 - twpf 참고해주세요 - 미라이방송국 @PeaceMirai_PD 봇전용계 @PeaceMirai_RPA NAS @PeaceMirai_NAS 미라이숙 @PeaceMirai_Sook",
+				"url": "https://t.co/anErG62HUZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/anErG62HUZ",
+								"expanded_url": "http://twpf.jp/PeaceMirai",
+								"display_url": "twpf.jp/PeaceMirai",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1131,
+				"friends_count": 1176,
+				"listed_count": 43,
+				"created_at": "Tue Jul 07 15:17:00 +0000 2009",
+				"favourites_count": 7008,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 228628,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/666434379/77252766002cb860face1c6afe3a4ede.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/666434379/77252766002cb860face1c6afe3a4ede.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929009700489723904/UTGfJMlJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929009700489723904/UTGfJMlJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54575413/1473573161",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Feb 21 15:27:41 +0000 2018",
 		"id": 966333612344860700,
 		"id_str": "966333612344860673",
