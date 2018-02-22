@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 16:23:09 +0000 2018",
+		"id": 966709960825425900,
+		"id_str": "966709960825425925",
+		"text": "RT @Psn_Pd: 깡 불타는 기념으로 작년에 만든거 다시 꺼내봤다 https://t.co/qcApK6Fckh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Psn_Pd",
+					"name": "PsnPd",
+					"id": 2893776426,
+					"id_str": "2893776426",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966506044695326700,
+					"id_str": "966506044695326721",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+					"url": "https://t.co/qcApK6Fckh",
+					"display_url": "pic.twitter.com/qcApK6Fckh",
+					"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966506119903391700,
+					"source_status_id_str": "966506119903391744",
+					"source_user_id": 2893776426,
+					"source_user_id_str": "2893776426"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966506044695326700,
+					"id_str": "966506044695326721",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+					"url": "https://t.co/qcApK6Fckh",
+					"display_url": "pic.twitter.com/qcApK6Fckh",
+					"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966506119903391700,
+					"source_status_id_str": "966506119903391744",
+					"source_user_id": 2893776426,
+					"source_user_id_str": "2893776426"
+				},
+				{
+					"id": 966506061569015800,
+					"id_str": "966506061569015808",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWm4JGkVQAAFQF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWm4JGkVQAAFQF4.jpg",
+					"url": "https://t.co/qcApK6Fckh",
+					"display_url": "pic.twitter.com/qcApK6Fckh",
+					"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 343,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 343,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966506119903391700,
+					"source_status_id_str": "966506119903391744",
+					"source_user_id": 2893776426,
+					"source_user_id_str": "2893776426"
+				},
+				{
+					"id": 966506074860765200,
+					"id_str": "966506074860765184",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWm4J4FVQAAIkLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWm4J4FVQAAIkLd.jpg",
+					"url": "https://t.co/qcApK6Fckh",
+					"display_url": "pic.twitter.com/qcApK6Fckh",
+					"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 292,
+							"h": 291,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 292,
+							"h": 291,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 292,
+							"h": 291,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966506119903391700,
+					"source_status_id_str": "966506119903391744",
+					"source_user_id": 2893776426,
+					"source_user_id_str": "2893776426"
+				},
+				{
+					"id": 966506076106506200,
+					"id_str": "966506076106506240",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DWm4J8uVwAAInBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWm4J8uVwAAInBb.jpg",
+					"url": "https://t.co/qcApK6Fckh",
+					"display_url": "pic.twitter.com/qcApK6Fckh",
+					"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 289,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 289,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 289,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966506119903391700,
+					"source_status_id_str": "966506119903391744",
+					"source_user_id": 2893776426,
+					"source_user_id_str": "2893776426"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 193,
+			"friends_count": 694,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10079,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21389,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 02:53:10 +0000 2018",
+			"id": 966506119903391700,
+			"id_str": "966506119903391744",
+			"text": "깡 불타는 기념으로 작년에 만든거 다시 꺼내봤다 https://t.co/qcApK6Fckh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966506044695326700,
+						"id_str": "966506044695326721",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+						"url": "https://t.co/qcApK6Fckh",
+						"display_url": "pic.twitter.com/qcApK6Fckh",
+						"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966506044695326700,
+						"id_str": "966506044695326721",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWm4IHtVMAE0b_8.jpg",
+						"url": "https://t.co/qcApK6Fckh",
+						"display_url": "pic.twitter.com/qcApK6Fckh",
+						"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966506061569015800,
+						"id_str": "966506061569015808",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DWm4JGkVQAAFQF4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWm4JGkVQAAFQF4.jpg",
+						"url": "https://t.co/qcApK6Fckh",
+						"display_url": "pic.twitter.com/qcApK6Fckh",
+						"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 343,
+								"h": 357,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 343,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 343,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966506074860765200,
+						"id_str": "966506074860765184",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DWm4J4FVQAAIkLd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWm4J4FVQAAIkLd.jpg",
+						"url": "https://t.co/qcApK6Fckh",
+						"display_url": "pic.twitter.com/qcApK6Fckh",
+						"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 292,
+								"h": 291,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 292,
+								"h": 291,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 292,
+								"h": 291,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966506076106506200,
+						"id_str": "966506076106506240",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DWm4J8uVwAAInBb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWm4J8uVwAAInBb.jpg",
+						"url": "https://t.co/qcApK6Fckh",
+						"display_url": "pic.twitter.com/qcApK6Fckh",
+						"expanded_url": "https://twitter.com/Psn_Pd/status/966506119903391744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 289,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 289,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 289,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2893776426,
+				"id_str": "2893776426",
+				"name": "PsnPd",
+				"screen_name": "Psn_Pd",
+				"location": "",
+				"description": "조이더 / 페그오 304,909,614 / 비리전선 499976 /",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139,
+				"friends_count": 389,
+				"listed_count": 4,
+				"created_at": "Sat Nov 08 13:56:06 +0000 2014",
+				"favourites_count": 552,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30611,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963242410212864000/crSJJRnq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963242410212864000/crSJJRnq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2893776426/1487022158",
+				"profile_link_color": "009900",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 151,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Feb 22 03:01:39 +0000 2018",
 		"id": 966508252971216900,
 		"id_str": "966508252971216896",
