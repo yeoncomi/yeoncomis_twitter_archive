@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 19:23:56 +0000 2018",
+		"id": 966755452649287700,
+		"id_str": "966755452649287681",
+		"text": "RT @warden_snyder: 시즈시호 가즈아 https://t.co/eDCaEerilP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "warden_snyder",
+					"name": "워든",
+					"id": 832459955030487000,
+					"id_str": "832459955030487042",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966334809738915800,
+					"id_str": "966334809738915842",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+					"url": "https://t.co/eDCaEerilP",
+					"display_url": "pic.twitter.com/eDCaEerilP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966334820707065900,
+					"source_status_id_str": "966334820707065857",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966334809738915800,
+					"id_str": "966334809738915842",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+					"url": "https://t.co/eDCaEerilP",
+					"display_url": "pic.twitter.com/eDCaEerilP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 659,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966334820707065900,
+					"source_status_id_str": "966334820707065857",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				},
+				{
+					"id": 966334809785098200,
+					"id_str": "966334809785098242",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DWkcY79V4AIDjGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWkcY79V4AIDjGF.jpg",
+					"url": "https://t.co/eDCaEerilP",
+					"display_url": "pic.twitter.com/eDCaEerilP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966334820707065900,
+					"source_status_id_str": "966334820707065857",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				},
+				{
+					"id": 966334809755680800,
+					"id_str": "966334809755680768",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DWkcY72VAAAmLPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWkcY72VAAAmLPs.jpg",
+					"url": "https://t.co/eDCaEerilP",
+					"display_url": "pic.twitter.com/eDCaEerilP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966334820707065900,
+					"source_status_id_str": "966334820707065857",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 193,
+			"friends_count": 694,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10083,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21392,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 15:32:29 +0000 2018",
+			"id": 966334820707065900,
+			"id_str": "966334820707065857",
+			"text": "시즈시호 가즈아 https://t.co/eDCaEerilP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966334809738915800,
+						"id_str": "966334809738915842",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+						"url": "https://t.co/eDCaEerilP",
+						"display_url": "pic.twitter.com/eDCaEerilP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966334809738915800,
+						"id_str": "966334809738915842",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWkcY7yVMAIe1kN.jpg",
+						"url": "https://t.co/eDCaEerilP",
+						"display_url": "pic.twitter.com/eDCaEerilP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 659,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966334809785098200,
+						"id_str": "966334809785098242",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DWkcY79V4AIDjGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWkcY79V4AIDjGF.jpg",
+						"url": "https://t.co/eDCaEerilP",
+						"display_url": "pic.twitter.com/eDCaEerilP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 708,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 708,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966334809755680800,
+						"id_str": "966334809755680768",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DWkcY72VAAAmLPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWkcY72VAAAmLPs.jpg",
+						"url": "https://t.co/eDCaEerilP",
+						"display_url": "pic.twitter.com/eDCaEerilP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/966334820707065857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 832459955030487000,
+				"id_str": "832459955030487042",
+				"name": "워든",
+				"screen_name": "warden_snyder",
+				"location": "",
+				"description": "디시필름유니버스땜에 레드랜턴됨/디시코믹스/아이마스 마미 프로듀서/미애니,스타워즈, 닥터후, 스타트렉등 양덕질 잘함/뻘짓 잘함 스위치 스팀 매진중",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 945,
+				"friends_count": 380,
+				"listed_count": 8,
+				"created_at": "Fri Feb 17 05:21:34 +0000 2017",
+				"favourites_count": 549,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24985,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966690744978190337/DSi_7vQJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966690744978190337/DSi_7vQJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/832459955030487042/1511320760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Feb 22 19:12:33 +0000 2018",
 		"id": 966752588174581800,
 		"id_str": "966752588174581760",
