@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 17:36:42 +0000 2018",
+		"id": 966728468846161900,
+		"id_str": "966728468846161920",
+		"text": "RT @cleanloveliver: 아 멘션달러갔다가 바이오에서 터졌네 https://t.co/uHISee3Een",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cleanloveliver",
+					"name": "왈큐레 방볶음 표 삼니다",
+					"id": 215111653,
+					"id_str": "215111653",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966380965781168100,
+					"id_str": "966380965781168130",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+					"url": "https://t.co/uHISee3Een",
+					"display_url": "pic.twitter.com/uHISee3Een",
+					"expanded_url": "https://twitter.com/cleanloveliver/status/966381022035111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966381022035112000,
+					"source_status_id_str": "966381022035111936",
+					"source_user_id": 215111653,
+					"source_user_id_str": "215111653"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966380965781168100,
+					"id_str": "966380965781168130",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+					"url": "https://t.co/uHISee3Een",
+					"display_url": "pic.twitter.com/uHISee3Een",
+					"expanded_url": "https://twitter.com/cleanloveliver/status/966381022035111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966381022035112000,
+					"source_status_id_str": "966381022035111936",
+					"source_user_id": 215111653,
+					"source_user_id_str": "215111653"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 193,
+			"friends_count": 694,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10080,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 18:36:04 +0000 2018",
+			"id": 966381022035112000,
+			"id_str": "966381022035111936",
+			"text": "아 멘션달러갔다가 바이오에서 터졌네 https://t.co/uHISee3Een",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966380965781168100,
+						"id_str": "966380965781168130",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+						"url": "https://t.co/uHISee3Een",
+						"display_url": "pic.twitter.com/uHISee3Een",
+						"expanded_url": "https://twitter.com/cleanloveliver/status/966381022035111936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966380965781168100,
+						"id_str": "966380965781168130",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWlGXkcV4AIV2zv.jpg",
+						"url": "https://t.co/uHISee3Een",
+						"display_url": "pic.twitter.com/uHISee3Een",
+						"expanded_url": "https://twitter.com/cleanloveliver/status/966381022035111936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 299,
+								"h": 341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 215111653,
+				"id_str": "215111653",
+				"name": "왈큐레 방볶음 표 삼니다",
+				"screen_name": "cleanloveliver",
+				"location": "대한민국 원주시",
+				"description": "11 | 女 | 강원 | LOVELIVE | i☆Ris | IDOLM@STER | TrySail | BanG Dream! | LOL | PUBG | Mabi  gi | 모든 십덕물, 모든 게임 좋아합니다 | 초면에 반말하셔도 되고 패드립을 박으셔도 OK    ♥ : @__leki",
+				"url": "https://t.co/SSvHxNSSpz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SSvHxNSSpz",
+								"expanded_url": "http://gallog.dcinside.com/hotcool380",
+								"display_url": "gallog.dcinside.com/hotcool380",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 427,
+				"friends_count": 540,
+				"listed_count": 8,
+				"created_at": "Sat Nov 13 01:10:23 +0000 2010",
+				"favourites_count": 3497,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54583,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965223989852303361/iR1bY7n5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965223989852303361/iR1bY7n5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/215111653/1488465699",
+				"profile_link_color": "698CE8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Feb 22 16:23:09 +0000 2018",
 		"id": 966709960825425900,
 		"id_str": "966709960825425925",
