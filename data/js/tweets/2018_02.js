@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 05:07:35 +0000 2018",
+		"id": 966902335103410200,
+		"id_str": "966902335103410176",
+		"text": "RT @perillamint: 트위터 진짜로 일한다 \n\n유우명한 트롤 정 ㅋ 지 ㅋ https://t.co/EgrxrmbjqJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perillamint",
+					"name": "\\x7F\\x45\\x4C\\x46🧝🧙⚧",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966812339029794800,
+					"id_str": "966812339029794819",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+					"url": "https://t.co/EgrxrmbjqJ",
+					"display_url": "pic.twitter.com/EgrxrmbjqJ",
+					"expanded_url": "https://twitter.com/perillamint/status/966812355228151808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966812355228151800,
+					"source_status_id_str": "966812355228151808",
+					"source_user_id": 2890022617,
+					"source_user_id_str": "2890022617"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966812339029794800,
+					"id_str": "966812339029794819",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+					"url": "https://t.co/EgrxrmbjqJ",
+					"display_url": "pic.twitter.com/EgrxrmbjqJ",
+					"expanded_url": "https://twitter.com/perillamint/status/966812355228151808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966812355228151800,
+					"source_status_id_str": "966812355228151808",
+					"source_user_id": 2890022617,
+					"source_user_id_str": "2890022617"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "💕연컴@캐나다🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 193,
+			"friends_count": 694,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10093,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 23:10:02 +0000 2018",
+			"id": 966812355228151800,
+			"id_str": "966812355228151808",
+			"text": "트위터 진짜로 일한다 \n\n유우명한 트롤 정 ㅋ 지 ㅋ https://t.co/EgrxrmbjqJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966812339029794800,
+						"id_str": "966812339029794819",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+						"url": "https://t.co/EgrxrmbjqJ",
+						"display_url": "pic.twitter.com/EgrxrmbjqJ",
+						"expanded_url": "https://twitter.com/perillamint/status/966812355228151808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966812339029794800,
+						"id_str": "966812339029794819",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWrOszBV4AMshy6.jpg",
+						"url": "https://t.co/EgrxrmbjqJ",
+						"display_url": "pic.twitter.com/EgrxrmbjqJ",
+						"expanded_url": "https://twitter.com/perillamint/status/966812355228151808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2890022617,
+				"id_str": "2890022617",
+				"name": "\\x7F\\x45\\x4C\\x46🧝🧙⚧",
+				"screen_name": "perillamint",
+				"location": "시스템 어드민의 지옥",
+				"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; 리눅서; 싸움은 싫지만 니편은 아니에요; ⚧ Genderqueer; 웜계 무관용 블락합니다; 더 자세한 건 여기로: https://t.co/TybCe8Gy7c",
+				"url": "https://t.co/fgKVMo9Ohs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fgKVMo9Ohs",
+								"expanded_url": "http://blog.quendi.moe",
+								"display_url": "blog.quendi.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TybCe8Gy7c",
+								"expanded_url": "http://blog.quendi.moe/about-pmint",
+								"display_url": "blog.quendi.moe/about-pmint",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1010,
+				"friends_count": 775,
+				"listed_count": 67,
+				"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+				"favourites_count": 1193,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 162484,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 23 02:31:45 +0000 2018",
 		"id": 966863118860087300,
 		"id_str": "966863118860087297",
