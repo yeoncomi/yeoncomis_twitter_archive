@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 01 19:02:31 +0000 2018",
+		"id": 969286780158582800,
+		"id_str": "969286780158582784",
+		"text": "RT @berserkertr19: 의문의친대만헌터 https://t.co/XKd59M63fh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "berserkertr19",
+					"name": "狂龜🔞",
+					"id": 798930790650236900,
+					"id_str": "798930790650236928",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 969103057798643700,
+					"id_str": "969103057798643712",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+					"url": "https://t.co/XKd59M63fh",
+					"display_url": "pic.twitter.com/XKd59M63fh",
+					"expanded_url": "https://twitter.com/berserkertr19/status/969103076203290625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969103076203290600,
+					"source_status_id_str": "969103076203290625",
+					"source_user_id": 798930790650236900,
+					"source_user_id_str": "798930790650236928"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969103057798643700,
+					"id_str": "969103057798643712",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+					"url": "https://t.co/XKd59M63fh",
+					"display_url": "pic.twitter.com/XKd59M63fh",
+					"expanded_url": "https://twitter.com/berserkertr19/status/969103076203290625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969103076203290600,
+					"source_status_id_str": "969103076203290625",
+					"source_user_id": 798930790650236900,
+					"source_user_id_str": "798930790650236928"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 190,
+			"friends_count": 697,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10223,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21481,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 01 06:52:33 +0000 2018",
+			"id": 969103076203290600,
+			"id_str": "969103076203290625",
+			"text": "의문의친대만헌터 https://t.co/XKd59M63fh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 969103057798643700,
+						"id_str": "969103057798643712",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+						"url": "https://t.co/XKd59M63fh",
+						"display_url": "pic.twitter.com/XKd59M63fh",
+						"expanded_url": "https://twitter.com/berserkertr19/status/969103076203290625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 1684,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 969103057798643700,
+						"id_str": "969103057798643712",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXLyGLbVQAA_bkb.jpg",
+						"url": "https://t.co/XKd59M63fh",
+						"display_url": "pic.twitter.com/XKd59M63fh",
+						"expanded_url": "https://twitter.com/berserkertr19/status/969103076203290625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 1684,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798930790650236900,
+				"id_str": "798930790650236928",
+				"name": "狂龜🔞",
+				"screen_name": "berserkertr19",
+				"location": "",
+				"description": "Only Adult Story",
+				"url": "https://t.co/xs8qbkf2Is",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xs8qbkf2Is",
+								"expanded_url": "https://pixiv.me/berserkert",
+								"display_url": "pixiv.me/berserkert",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 981,
+				"friends_count": 252,
+				"listed_count": 11,
+				"created_at": "Wed Nov 16 16:48:38 +0000 2016",
+				"favourites_count": 13724,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24249,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965305812997386240/jtPlPVC9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965305812997386240/jtPlPVC9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798930790650236928/1506349260",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 594,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 01 16:29:34 +0000 2018",
 		"id": 969248289622179800,
 		"id_str": "969248289622179840",
