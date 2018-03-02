@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 02 16:16:14 +0000 2018",
+		"id": 969607319741853700,
+		"id_str": "969607319741853696",
+		"text": "RT @PITA_03_TT: 정보 오류가 있어 다시 씁니다\n\n' 캄쟈 '서강대 게임관련과 라고 합니다\n\n후배들 모아다가 패고 욕하고 ' 가해자 ' 입니다 https://t.co/fIInf4ySFv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PITA_03_TT",
+					"name": "🌸피타님보다 시아님이 더 귀여움🌸",
+					"id": 924582482829197300,
+					"id_str": "924582482829197312",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 968119332948471800,
+					"id_str": "968119332948471810",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+					"url": "https://t.co/fIInf4ySFv",
+					"display_url": "pic.twitter.com/fIInf4ySFv",
+					"expanded_url": "https://twitter.com/PITA_03_TT/status/968119336253636609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968119336253636600,
+					"source_status_id_str": "968119336253636609",
+					"source_user_id": 924582482829197300,
+					"source_user_id_str": "924582482829197312"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 968119332948471800,
+					"id_str": "968119332948471810",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+					"url": "https://t.co/fIInf4ySFv",
+					"display_url": "pic.twitter.com/fIInf4ySFv",
+					"expanded_url": "https://twitter.com/PITA_03_TT/status/968119336253636609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 354,
+							"h": 204,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 968119336253636600,
+					"source_status_id_str": "968119336253636609",
+					"source_user_id": 924582482829197300,
+					"source_user_id_str": "924582482829197312"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10236,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 26 13:43:31 +0000 2018",
+			"id": 968119336253636600,
+			"id_str": "968119336253636609",
+			"text": "정보 오류가 있어 다시 씁니다\n\n' 캄쟈 '서강대 게임관련과 라고 합니다\n\n후배들 모아다가 패고 욕하고 ' 가해자 ' 입니다 https://t.co/fIInf4ySFv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 968119332948471800,
+						"id_str": "968119332948471810",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+						"url": "https://t.co/fIInf4ySFv",
+						"display_url": "pic.twitter.com/fIInf4ySFv",
+						"expanded_url": "https://twitter.com/PITA_03_TT/status/968119336253636609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 968119332948471800,
+						"id_str": "968119332948471810",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DW9zZ2yU8AIzb8w.jpg",
+						"url": "https://t.co/fIInf4ySFv",
+						"display_url": "pic.twitter.com/fIInf4ySFv",
+						"expanded_url": "https://twitter.com/PITA_03_TT/status/968119336253636609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 354,
+								"h": 204,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 924582482829197300,
+				"id_str": "924582482829197312",
+				"name": "🌸피타님보다 시아님이 더 귀여움🌸",
+				"screen_name": "PITA_03_TT",
+				"location": "남부권",
+				"description": "9n년 ♂️ / 파판 초코보 피타' / 사이퍼즈 피타뚱 / 엘소드 S 탸TYA / 예냑자 Sapis 님",
+				"url": "https://t.co/eH9Ow59Elb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eH9Ow59Elb",
+								"expanded_url": "http://open.kakao.com/o/sD3yMiy",
+								"display_url": "open.kakao.com/o/sD3yMiy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111,
+				"friends_count": 123,
+				"listed_count": 0,
+				"created_at": "Sun Oct 29 10:23:36 +0000 2017",
+				"favourites_count": 3526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6114,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968037210632085504/zMnPYiy5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968037210632085504/zMnPYiy5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/924582482829197312/1519779620",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 02 16:14:44 +0000 2018",
+		"id": 969606941885440000,
+		"id_str": "969606941885440001",
+		"text": "RT @Rob_ust: 짤방 주인입니다. 1년이 지났네요. 잘 지내셨습니까.\n저는 예정대로 일본에서 재밌게 살고 있습니다.\n\n요즘 제 얼굴이 탐라에 자주 돌고 있네요. 저도 알티 받고 싶어요. 리트윗 좀 해주세요.\n\n(영업)데레마스 뷰잉 싸우지 말고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rob_ust",
+					"name": "ラーブP",
+					"id": 4473933012,
+					"id_str": "4473933012",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10236,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 02 12:40:08 +0000 2018",
+			"id": 969552936794652700,
+			"id_str": "969552936794652672",
+			"text": "짤방 주인입니다. 1년이 지났네요. 잘 지내셨습니까.\n저는 예정대로 일본에서 재밌게 살고 있습니다.\n\n요즘 제 얼굴이 탐라에 자주 돌고 있네요. 저도 알티 받고 싶어요. 리트윗 좀 해주세요.\n\n(영업)데레마… https://t.co/EZXRJLlJH0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EZXRJLlJH0",
+						"expanded_url": "https://twitter.com/i/web/status/969552936794652672",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4473933012,
+				"id_str": "4473933012",
+				"name": "ラーブP",
+				"screen_name": "Rob_ust",
+				"location": "新宿",
+				"description": "やよいP; SSA16; 水中キャンディ; 黒沢ともよを推すか迷ってる人; 外国人労働者",
+				"url": "https://t.co/qNtxWcW8XG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qNtxWcW8XG",
+								"expanded_url": "https://www.eventernote.com/users/Rob_ust",
+								"display_url": "eventernote.com/users/Rob_ust",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 442,
+				"friends_count": 922,
+				"listed_count": 17,
+				"created_at": "Sun Dec 06 10:26:00 +0000 2015",
+				"favourites_count": 17086,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41244,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848165761545797632/KKWJgr3d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848165761545797632/KKWJgr3d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4473933012/1491053435",
+				"profile_link_color": "FF7F00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1033,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1033,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 02 04:13:00 +0000 2018",
 		"id": 969425312743268400,
 		"id_str": "969425312743268352",
