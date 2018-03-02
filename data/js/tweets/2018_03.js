@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 02 00:04:10 +0000 2018",
+		"id": 969362691302113300,
+		"id_str": "969362691302113281",
+		"text": "RT @mawang_sama7: 진짜 미친데이군 https://t.co/xU0D7xzYrA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mawang_sama7",
+					"name": "잭 주인 마왕님",
+					"id": 962352015559991300,
+					"id_str": "962352015559991297",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 969164805121519600,
+					"id_str": "969164805121519627",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+					"url": "https://t.co/xU0D7xzYrA",
+					"display_url": "pic.twitter.com/xU0D7xzYrA",
+					"expanded_url": "https://twitter.com/mawang_sama7/status/969164832426491904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969164832426491900,
+					"source_status_id_str": "969164832426491904",
+					"source_user_id": 962352015559991300,
+					"source_user_id_str": "962352015559991297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969164805121519600,
+					"id_str": "969164805121519627",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+					"url": "https://t.co/xU0D7xzYrA",
+					"display_url": "pic.twitter.com/xU0D7xzYrA",
+					"expanded_url": "https://twitter.com/mawang_sama7/status/969164832426491904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969164832426491900,
+					"source_status_id_str": "969164832426491904",
+					"source_user_id": 962352015559991300,
+					"source_user_id_str": "962352015559991297"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 190,
+			"friends_count": 697,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10231,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21484,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 01 10:57:56 +0000 2018",
+			"id": 969164832426491900,
+			"id_str": "969164832426491904",
+			"text": "진짜 미친데이군 https://t.co/xU0D7xzYrA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 969164805121519600,
+						"id_str": "969164805121519627",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+						"url": "https://t.co/xU0D7xzYrA",
+						"display_url": "pic.twitter.com/xU0D7xzYrA",
+						"expanded_url": "https://twitter.com/mawang_sama7/status/969164832426491904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 969164805121519600,
+						"id_str": "969164805121519627",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXMqQWIUMAsuUwj.jpg",
+						"url": "https://t.co/xU0D7xzYrA",
+						"display_url": "pic.twitter.com/xU0D7xzYrA",
+						"expanded_url": "https://twitter.com/mawang_sama7/status/969164832426491904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 962352015559991300,
+				"id_str": "962352015559991297",
+				"name": "잭 주인 마왕님",
+				"screen_name": "mawang_sama7",
+				"location": "탐라 사찰하면 블락함 ",
+				"description": "나 계폭시키고 싶으면 통장에 40억 넣어주면 됨",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 77,
+				"listed_count": 1,
+				"created_at": "Sat Feb 10 15:46:14 +0000 2018",
+				"favourites_count": 2386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 563,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968680231287496704/5pEM_QTL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968680231287496704/5pEM_QTL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/962352015559991297/1518801384",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2284,
+			"favorite_count": 439,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2284,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 01 21:59:39 +0000 2018",
 		"id": 969331356596502500,
 		"id_str": "969331356596502528",
