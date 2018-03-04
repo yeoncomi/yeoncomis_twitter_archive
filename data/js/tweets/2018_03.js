@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 04 14:23:08 +0000 2018",
+		"id": 970303632489963500,
+		"id_str": "970303632489963522",
+		"text": "RT @foxdown028: 어디서부터 지적해야할지 감이 안잡힌다 심지어 존나는 좆나에서 파생된 단어인데 https://t.co/at5S3Hg2Rg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "foxdown028",
+					"name": "트위터 박제보관소",
+					"id": 964397046806360000,
+					"id_str": "964397046806360064",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 969592651799347200,
+					"id_str": "969592651799347200",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+					"url": "https://t.co/at5S3Hg2Rg",
+					"display_url": "pic.twitter.com/at5S3Hg2Rg",
+					"expanded_url": "https://twitter.com/foxdown028/status/969748442737184768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969748442737184800,
+					"source_status_id_str": "969748442737184768",
+					"source_user_id": 964397046806360000,
+					"source_user_id_str": "964397046806360064"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969592651799347200,
+					"id_str": "969592651799347200",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+					"url": "https://t.co/at5S3Hg2Rg",
+					"display_url": "pic.twitter.com/at5S3Hg2Rg",
+					"expanded_url": "https://twitter.com/foxdown028/status/969748442737184768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 969748442737184800,
+					"source_status_id_str": "969748442737184768",
+					"source_user_id": 964397046806360000,
+					"source_user_id_str": "964397046806360064"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 697,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10260,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 03 01:37:00 +0000 2018",
+			"id": 969748442737184800,
+			"id_str": "969748442737184768",
+			"text": "어디서부터 지적해야할지 감이 안잡힌다 심지어 존나는 좆나에서 파생된 단어인데 https://t.co/at5S3Hg2Rg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 969592651799347200,
+						"id_str": "969592651799347200",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+						"url": "https://t.co/at5S3Hg2Rg",
+						"display_url": "pic.twitter.com/at5S3Hg2Rg",
+						"expanded_url": "https://twitter.com/foxdown028/status/969748442737184768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 969592651799347200,
+						"id_str": "969592651799347200",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXSvYTNUQAAEKj6.jpg",
+						"url": "https://t.co/at5S3Hg2Rg",
+						"display_url": "pic.twitter.com/at5S3Hg2Rg",
+						"expanded_url": "https://twitter.com/foxdown028/status/969748442737184768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 964397046806360000,
+				"id_str": "964397046806360064",
+				"name": "트위터 박제보관소",
+				"screen_name": "foxdown028",
+				"location": "",
+				"description": "계정 관리 담당자 : fox",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 230,
+				"friends_count": 8,
+				"listed_count": 0,
+				"created_at": "Fri Feb 16 07:12:28 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 129,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964398787211886592/MECV86VW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964398787211886592/MECV86VW_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 04 14:22:14 +0000 2018",
+		"id": 970303407851323400,
+		"id_str": "970303407851323392",
+		"text": "RT @woonsick: 빌리헤링턴 형님께서 3/3일 교통사고로 사망하셨습니다. 저도 빌리형님의 지인과 가족들의 트위터와 페이스북, 채팅을 통해 사실유무를 확인하였는데요.. 사실로 판명되었습니다..  명복을 빕니다. https://t.co/AMvQF…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woonsick",
+					"name": "존슨버거 점장 양운식",
+					"id": 147845389,
+					"id_str": "147845389",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 697,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10260,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 03 18:36:20 +0000 2018",
+			"id": 970004967351177200,
+			"id_str": "970004967351177216",
+			"text": "빌리헤링턴 형님께서 3/3일 교통사고로 사망하셨습니다. 저도 빌리형님의 지인과 가족들의 트위터와 페이스북, 채팅을 통해 사실유무를 확인하였는데요.. 사실로 판명되었습니다..  명복을 빕니다. https://t.co/AMvQF8jJz3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 970004917917179900,
+						"id_str": "970004917917179905",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DXYmVWLV4AE2y2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXYmVWLV4AE2y2a.jpg",
+						"url": "https://t.co/AMvQF8jJz3",
+						"display_url": "pic.twitter.com/AMvQF8jJz3",
+						"expanded_url": "https://twitter.com/woonsick/status/970004967351177216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 970004917917179900,
+						"id_str": "970004917917179905",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DXYmVWLV4AE2y2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXYmVWLV4AE2y2a.jpg",
+						"url": "https://t.co/AMvQF8jJz3",
+						"display_url": "pic.twitter.com/AMvQF8jJz3",
+						"expanded_url": "https://twitter.com/woonsick/status/970004967351177216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147845389,
+				"id_str": "147845389",
+				"name": "존슨버거 점장 양운식",
+				"screen_name": "woonsick",
+				"location": "서울",
+				"description": "총괄운영 및 제품개발, 마케팅을 담당하고 있습니다",
+				"url": "http://t.co/fBgXMb3XP4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fBgXMb3XP4",
+								"expanded_url": "http://johnsonburger.co.kr",
+								"display_url": "johnsonburger.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1119,
+				"friends_count": 1324,
+				"listed_count": 11,
+				"created_at": "Tue May 25 05:42:31 +0000 2010",
+				"favourites_count": 7,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8546,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595505995301785600/h37n0U4N.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595505995301785600/h37n0U4N.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3413860341/8167dd024a4efe815a25688d3ea5c2e8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3413860341/8167dd024a4efe815a25688d3ea5c2e8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147845389/1430815014",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2712,
+			"favorite_count": 510,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2712,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Mar 04 08:51:00 +0000 2018",
 		"id": 970220050325020700,
 		"id_str": "970220050325020672",
