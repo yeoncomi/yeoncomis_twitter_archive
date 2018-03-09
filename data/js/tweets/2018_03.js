@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 06:20:06 +0000 2018",
+		"id": 971994012918759400,
+		"id_str": "971994012918759424",
+		"text": "RT @kechupcoredog: 페이트는 미성년자를 국방 홍보교육에 사용함! 공론화하즈아! https://t.co/mpytZ3peYc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kechupcoredog",
+					"name": "도스칸타로스",
+					"id": 447764193,
+					"id_str": "447764193",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 971992785367703600,
+					"id_str": "971992785367703552",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+					"url": "https://t.co/mpytZ3peYc",
+					"display_url": "pic.twitter.com/mpytZ3peYc",
+					"expanded_url": "https://twitter.com/kechupcoredog/status/971992794377023490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 580,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971992794377023500,
+					"source_status_id_str": "971992794377023490",
+					"source_user_id": 447764193,
+					"source_user_id_str": "447764193"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971992785367703600,
+					"id_str": "971992785367703552",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+					"url": "https://t.co/mpytZ3peYc",
+					"display_url": "pic.twitter.com/mpytZ3peYc",
+					"expanded_url": "https://twitter.com/kechupcoredog/status/971992794377023490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 580,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971992794377023500,
+					"source_status_id_str": "971992794377023490",
+					"source_user_id": 447764193,
+					"source_user_id_str": "447764193"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10319,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 06:15:15 +0000 2018",
+			"id": 971992794377023500,
+			"id_str": "971992794377023490",
+			"text": "페이트는 미성년자를 국방 홍보교육에 사용함! 공론화하즈아! https://t.co/mpytZ3peYc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 971992785367703600,
+						"id_str": "971992785367703552",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+						"url": "https://t.co/mpytZ3peYc",
+						"display_url": "pic.twitter.com/mpytZ3peYc",
+						"expanded_url": "https://twitter.com/kechupcoredog/status/971992794377023490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 580,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971992785367703600,
+						"id_str": "971992785367703552",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX02SdgVoAADpux.jpg",
+						"url": "https://t.co/mpytZ3peYc",
+						"display_url": "pic.twitter.com/mpytZ3peYc",
+						"expanded_url": "https://twitter.com/kechupcoredog/status/971992794377023490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 580,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 447764193,
+				"id_str": "447764193",
+				"name": "도스칸타로스",
+				"screen_name": "kechupcoredog",
+				"location": "",
+				"description": "헬본에서 겜만듬",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 293,
+				"friends_count": 1112,
+				"listed_count": 8,
+				"created_at": "Tue Dec 27 07:20:37 +0000 2011",
+				"favourites_count": 43623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33711,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930847933834018816/4yN4Nes0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930847933834018816/4yN4Nes0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/447764193/1484417766",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 09 06:17:45 +0000 2018",
+		"id": 971993423656902700,
+		"id_str": "971993423656902656",
+		"text": "먹으면 싼다는말 좀 야하지 않아?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10319,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 09 06:13:30 +0000 2018",
 		"id": 971992354214195200,
 		"id_str": "971992354214195200",
