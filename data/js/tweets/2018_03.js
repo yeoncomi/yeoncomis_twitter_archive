@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 05:06:09 +0000 2018",
+		"id": 971975405274984400,
+		"id_str": "971975405274984449",
+		"text": "RT @sally_relpek: 대기업은 참 좋겠어 눈웃음만 쳐줘도 소비주의자들이 저렇게 빨아주고 https://t.co/3JMD3QmK0o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sally_relpek",
+					"name": "오염된 소리샘으로 이어진 종족",
+					"id": 2948216815,
+					"id_str": "2948216815",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3JMD3QmK0o",
+					"expanded_url": "https://twitter.com/imnotwriter/status/971897553724690433",
+					"display_url": "twitter.com/imnotwriter/st…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 697,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10310,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21574,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 04:01:40 +0000 2018",
+			"id": 971959178066411500,
+			"id_str": "971959178066411520",
+			"text": "대기업은 참 좋겠어 눈웃음만 쳐줘도 소비주의자들이 저렇게 빨아주고 https://t.co/3JMD3QmK0o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3JMD3QmK0o",
+						"expanded_url": "https://twitter.com/imnotwriter/status/971897553724690433",
+						"display_url": "twitter.com/imnotwriter/st…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2948216815,
+				"id_str": "2948216815",
+				"name": "오염된 소리샘으로 이어진 종족",
+				"screen_name": "sally_relpek",
+				"location": "Suomussalmi, Suomi",
+				"description": "소리샘을 잘라야 하네 / \n뜨거운 동토 @ 브릿지 연재중",
+				"url": "https://t.co/ByuMf4M9LH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ByuMf4M9LH",
+								"expanded_url": "https://salamander724.blogspot.kr/",
+								"display_url": "salamander724.blogspot.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60,
+				"friends_count": 94,
+				"listed_count": 17,
+				"created_at": "Mon Dec 29 02:10:35 +0000 2014",
+				"favourites_count": 42688,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3301,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619162653588459520/6TV5MaOR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619162653588459520/6TV5MaOR.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962750204054192128/nSsVltEc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962750204054192128/nSsVltEc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2948216815/1479081399",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 971897553724690400,
+			"quoted_status_id_str": "971897553724690433",
+			"quoted_status": {
+				"created_at": "Thu Mar 08 23:56:48 +0000 2018",
+				"id": 971897553724690400,
+				"id_str": "971897553724690433",
+				"text": "포르셰는 로고를 지우면 SHE가 없으면 PORSCHE도 없다고 말하고 맥도날드는 M로고를 뒤집어 매장에 걸어 W를 만들며 세계 여성의 날에 동참한다.거의 모든 마케팅 전략에서 2030대 여성을 주 소비층으로… https://t.co/R0dhpn0UdD",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/R0dhpn0UdD",
+							"expanded_url": "https://twitter.com/i/web/status/971897553724690433",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 48948873,
+					"id_str": "48948873",
+					"name": "토이🏳️‍🌈",
+					"screen_name": "imnotwriter",
+					"location": "",
+					"description": "카피라이터. 산문집 『연애의 허상』, 『저녁이 없는 삶』 출간. 2018 신춘문예 소설 부문 당선.",
+					"url": "https://t.co/W0AtjTXSb4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/W0AtjTXSb4",
+									"expanded_url": "http://m.yes24.com/goods/detail/44306961",
+									"display_url": "m.yes24.com/goods/detail/4…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2482,
+					"friends_count": 434,
+					"listed_count": 72,
+					"created_at": "Sat Jun 20 06:56:32 +0000 2009",
+					"favourites_count": 12324,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 28723,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000765045396/81dc926e01d828f9fed05b8cb60e7ade_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000765045396/81dc926e01d828f9fed05b8cb60e7ade_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/48948873/1507635193",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2541,
+				"favorite_count": 503,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 971897553724690400,
+		"quoted_status_id_str": "971897553724690433",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 09 02:50:26 +0000 2018",
 		"id": 971941248712912900,
 		"id_str": "971941248712912896",
