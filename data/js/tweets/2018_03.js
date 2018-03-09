@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 09 16:23:22 +0000 2018",
+		"id": 972145831787638800,
+		"id_str": "972145831787638784",
+		"text": "RT @Jokerbest: 내가 글써서 지도자를 탄복시켰다는 이야기를 마지막으로 들은게 토황소격문인데 말이야 https://t.co/W3QxDICQQC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jokerbest",
+					"name": "🍎샤비🍏(Shabbie)",
+					"id": 182409531,
+					"id_str": "182409531",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972003040109543400,
+					"id_str": "972003040109543425",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+					"url": "https://t.co/W3QxDICQQC",
+					"display_url": "pic.twitter.com/W3QxDICQQC",
+					"expanded_url": "https://twitter.com/Jokerbest/status/972003064876974081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972003064876974100,
+					"source_status_id_str": "972003064876974081",
+					"source_user_id": 182409531,
+					"source_user_id_str": "182409531"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972003040109543400,
+					"id_str": "972003040109543425",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+					"url": "https://t.co/W3QxDICQQC",
+					"display_url": "pic.twitter.com/W3QxDICQQC",
+					"expanded_url": "https://twitter.com/Jokerbest/status/972003064876974081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972003064876974100,
+					"source_status_id_str": "972003064876974081",
+					"source_user_id": 182409531,
+					"source_user_id_str": "182409531"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10319,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 06:56:04 +0000 2018",
+			"id": 972003064876974100,
+			"id_str": "972003064876974081",
+			"text": "내가 글써서 지도자를 탄복시켰다는 이야기를 마지막으로 들은게 토황소격문인데 말이야 https://t.co/W3QxDICQQC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972003040109543400,
+						"id_str": "972003040109543425",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+						"url": "https://t.co/W3QxDICQQC",
+						"display_url": "pic.twitter.com/W3QxDICQQC",
+						"expanded_url": "https://twitter.com/Jokerbest/status/972003064876974081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 873,
+								"h": 493,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 873,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972003040109543400,
+						"id_str": "972003040109543425",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX0_nXZUQAEG9pc.jpg",
+						"url": "https://t.co/W3QxDICQQC",
+						"display_url": "pic.twitter.com/W3QxDICQQC",
+						"expanded_url": "https://twitter.com/Jokerbest/status/972003064876974081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 873,
+								"h": 493,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 873,
+								"h": 493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182409531,
+				"id_str": "182409531",
+				"name": "🍎샤비🍏(Shabbie)",
+				"screen_name": "Jokerbest",
+				"location": "Game Account: @Shabbie_odyssey",
+				"description": "Let's get muppetentional! || Muppet, DWD, GF, IZ, Mario, ect. || English Ok / FUB Free || SPOILER ALERT || 프사는 hp님(@hp0_gf)!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 837,
+				"friends_count": 190,
+				"listed_count": 12,
+				"created_at": "Tue Aug 24 14:47:53 +0000 2010",
+				"favourites_count": 23515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 159892,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884390289657298944/2zHWbCsa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884390289657298944/2zHWbCsa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182409531/1482962394",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4914,
+			"favorite_count": 909,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4914,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 09 06:20:06 +0000 2018",
 		"id": 971994012918759400,
 		"id_str": "971994012918759424",
