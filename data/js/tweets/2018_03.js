@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 10 06:24:16 +0000 2018",
+		"id": 972357451390398500,
+		"id_str": "972357451390398464",
+		"text": "RT @Bistedsin: @: 트위터에는 훨씬 오래 전부터 이 짤방을 쓰면서 펜스룰의 상위호환인 투팍룰을 실천해 오신 분들이 많다 https://t.co/CovA72SsTG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bistedsin",
+					"name": "Bistedsin",
+					"id": 564689176,
+					"id_str": "564689176",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972104937688547300,
+					"id_str": "972104937688547334",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+					"url": "https://t.co/CovA72SsTG",
+					"display_url": "pic.twitter.com/CovA72SsTG",
+					"expanded_url": "https://twitter.com/Bistedsin/status/972104945531940864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972104945531940900,
+					"source_status_id_str": "972104945531940864",
+					"source_user_id": 564689176,
+					"source_user_id_str": "564689176"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972104937688547300,
+					"id_str": "972104937688547334",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+					"url": "https://t.co/CovA72SsTG",
+					"display_url": "pic.twitter.com/CovA72SsTG",
+					"expanded_url": "https://twitter.com/Bistedsin/status/972104945531940864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972104945531940900,
+					"source_status_id_str": "972104945531940864",
+					"source_user_id": 564689176,
+					"source_user_id_str": "564689176"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10331,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 13:40:54 +0000 2018",
+			"id": 972104945531940900,
+			"id_str": "972104945531940864",
+			"text": "@: 트위터에는 훨씬 오래 전부터 이 짤방을 쓰면서 펜스룰의 상위호환인 투팍룰을 실천해 오신 분들이 많다 https://t.co/CovA72SsTG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972104937688547300,
+						"id_str": "972104937688547334",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+						"url": "https://t.co/CovA72SsTG",
+						"display_url": "pic.twitter.com/CovA72SsTG",
+						"expanded_url": "https://twitter.com/Bistedsin/status/972104945531940864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972104937688547300,
+						"id_str": "972104937688547334",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX2cSldUQAY1SX0.jpg",
+						"url": "https://t.co/CovA72SsTG",
+						"display_url": "pic.twitter.com/CovA72SsTG",
+						"expanded_url": "https://twitter.com/Bistedsin/status/972104945531940864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 564689176,
+				"id_str": "564689176",
+				"name": "Bistedsin",
+				"screen_name": "Bistedsin",
+				"location": "전국 패배자 협회",
+				"description": "Girls Do Not Need A Hero",
+				"url": "https://t.co/fRwqSG05FJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fRwqSG05FJ",
+								"expanded_url": "https://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%91%E7%8A%AC",
+								"display_url": "ja.wikipedia.org/wiki/%E8%B2%A0…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1263,
+				"friends_count": 86,
+				"listed_count": 32,
+				"created_at": "Fri Apr 27 15:11:56 +0000 2012",
+				"favourites_count": 228,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87021,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679612223237394432/hO24jU9F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679612223237394432/hO24jU9F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947444492419842048/yrxrCypV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947444492419842048/yrxrCypV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/564689176/1495110825",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Mar 10 05:49:32 +0000 2018",
 		"id": 972348710259638300,
 		"id_str": "972348710259638272",
