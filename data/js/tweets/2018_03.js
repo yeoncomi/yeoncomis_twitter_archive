@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 12 13:16:33 +0000 2018",
+		"id": 973185982714470400,
+		"id_str": "973185982714470401",
+		"text": "RT @_RuVeR_: 사실 무한도전은 프로젝트가 끝나서 종영하는거다 https://t.co/MvK9f631OP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_RuVeR_",
+					"name": "적마도사 루버",
+					"id": 344442734,
+					"id_str": "344442734",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973056343761338400,
+					"id_str": "973056343761338372",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+					"url": "https://t.co/MvK9f631OP",
+					"display_url": "pic.twitter.com/MvK9f631OP",
+					"expanded_url": "https://twitter.com/_RuVeR_/status/973056405203636225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973056405203636200,
+					"source_status_id_str": "973056405203636225",
+					"source_user_id": 344442734,
+					"source_user_id_str": "344442734"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973056343761338400,
+					"id_str": "973056343761338372",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+					"url": "https://t.co/MvK9f631OP",
+					"display_url": "pic.twitter.com/MvK9f631OP",
+					"expanded_url": "https://twitter.com/_RuVeR_/status/973056405203636225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 481,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973056405203636200,
+					"source_status_id_str": "973056405203636225",
+					"source_user_id": 344442734,
+					"source_user_id_str": "344442734"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10348,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 04:41:40 +0000 2018",
+			"id": 973056405203636200,
+			"id_str": "973056405203636225",
+			"text": "사실 무한도전은 프로젝트가 끝나서 종영하는거다 https://t.co/MvK9f631OP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973056343761338400,
+						"id_str": "973056343761338372",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+						"url": "https://t.co/MvK9f631OP",
+						"display_url": "pic.twitter.com/MvK9f631OP",
+						"expanded_url": "https://twitter.com/_RuVeR_/status/973056405203636225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973056343761338400,
+						"id_str": "973056343761338372",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYD9ltRVwAQJQXB.jpg",
+						"url": "https://t.co/MvK9f631OP",
+						"display_url": "pic.twitter.com/MvK9f631OP",
+						"expanded_url": "https://twitter.com/_RuVeR_/status/973056405203636225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 481,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 344442734,
+				"id_str": "344442734",
+				"name": "적마도사 루버",
+				"screen_name": "_RuVeR_",
+				"location": "인천 어딘가",
+				"description": "게임♥/포덕(친코 : 2036-7769-4825)/페그오/파판14(초코보 '루버치즈')",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 480,
+				"friends_count": 182,
+				"listed_count": 13,
+				"created_at": "Fri Jul 29 02:20:24 +0000 2011",
+				"favourites_count": 1333,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106351,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923508874581131264/ormRXHNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923508874581131264/ormRXHNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/344442734/1476278593",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2525,
+			"favorite_count": 525,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2525,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Mar 12 13:13:50 +0000 2018",
+		"id": 973185296429867000,
+		"id_str": "973185296429867009",
+		"text": "RT @niemandsrose_: 법정에서 트위터 \"ㅋㅋㅋ\" 부분까지 여과없이 변호사or검사가 읽어주더라구요 새럼이라고 한 것도 새럼, 즉 사람이라는 뜻이죠 이렇게 간단히 주석까지 달아 주시면서... https://t.co/1IYH77wFH6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "niemandsrose_",
+					"name": "양갱🌈",
+					"id": 139913040,
+					"id_str": "139913040",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1IYH77wFH6",
+					"expanded_url": "https://twitter.com/niemandsrose_/status/973090230281543681",
+					"display_url": "twitter.com/niemandsrose_/…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10348,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21611,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 11:43:56 +0000 2018",
+			"id": 973162672391733200,
+			"id_str": "973162672391733248",
+			"text": "법정에서 트위터 \"ㅋㅋㅋ\" 부분까지 여과없이 변호사or검사가 읽어주더라구요 새럼이라고 한 것도 새럼, 즉 사람이라는 뜻이죠 이렇게 간단히 주석까지 달아 주시면서... https://t.co/1IYH77wFH6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1IYH77wFH6",
+						"expanded_url": "https://twitter.com/niemandsrose_/status/973090230281543681",
+						"display_url": "twitter.com/niemandsrose_/…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139913040,
+				"id_str": "139913040",
+				"name": "양갱🌈",
+				"screen_name": "niemandsrose_",
+				"location": "apologia pro vita sua",
+				"description": "전방위 잡덕😊 멘션/DM에 답 늦거나 빼먹을 수 있어요.",
+				"url": "https://t.co/vLQYctvzg2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vLQYctvzg2",
+								"expanded_url": "https://niemandsrose1.blogspot.kr/",
+								"display_url": "niemandsrose1.blogspot.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4258,
+				"friends_count": 551,
+				"listed_count": 0,
+				"created_at": "Tue May 04 01:32:15 +0000 2010",
+				"favourites_count": 41113,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125056,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965793382734864384/xXxqCBh9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965793382734864384/xXxqCBh9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139913040/1517292637",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 973090230281543700,
+			"quoted_status_id_str": "973090230281543681",
+			"quoted_status": {
+				"created_at": "Mon Mar 12 06:56:04 +0000 2018",
+				"id": 973090230281543700,
+				"id_str": "973090230281543681",
+				"text": "저가 지금 재판정에 와 있는데요\n1. 법을 잘 지키고 살아야겠다 준법레즈 화이팅\n2. 트청을 정기적으로 돌리자\n 결심하였습니다",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 139913040,
+					"id_str": "139913040",
+					"name": "양갱🌈",
+					"screen_name": "niemandsrose_",
+					"location": "apologia pro vita sua",
+					"description": "전방위 잡덕😊 멘션/DM에 답 늦거나 빼먹을 수 있어요.",
+					"url": "https://t.co/vLQYctvzg2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vLQYctvzg2",
+									"expanded_url": "https://niemandsrose1.blogspot.kr/",
+									"display_url": "niemandsrose1.blogspot.kr",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4258,
+					"friends_count": 551,
+					"listed_count": 0,
+					"created_at": "Tue May 04 01:32:15 +0000 2010",
+					"favourites_count": 41113,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 125056,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/965793382734864384/xXxqCBh9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/965793382734864384/xXxqCBh9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/139913040/1517292637",
+					"profile_link_color": "19CF86",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 26,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 171,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 973090230281543700,
+		"quoted_status_id_str": "973090230281543681",
+		"retweet_count": 171,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Mar 12 02:28:20 +0000 2018",
 		"id": 973022854047440900,
 		"id_str": "973022854047440896",
