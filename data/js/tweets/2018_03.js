@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 13 01:33:51 +0000 2018",
+		"id": 973371529579802600,
+		"id_str": "973371529579802624",
+		"text": "RT @tsudaka53: 그러고보니 분명 성범죄를 희화하고 여성멸시적 표현이 난무하는데도 트위터의 그분들이 안 까는 작품이 하나 있다\n\n이거 https://t.co/ILaW7FkDxC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tsudaka53",
+					"name": "Samuel Choi",
+					"id": 4905287629,
+					"id_str": "4905287629",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973164033615446000,
+					"id_str": "973164033615446017",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+					"url": "https://t.co/ILaW7FkDxC",
+					"display_url": "pic.twitter.com/ILaW7FkDxC",
+					"expanded_url": "https://twitter.com/tsudaka53/status/973164043807502337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1118,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1118,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973164043807502300,
+					"source_status_id_str": "973164043807502337",
+					"source_user_id": 4905287629,
+					"source_user_id_str": "4905287629"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973164033615446000,
+					"id_str": "973164033615446017",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+					"url": "https://t.co/ILaW7FkDxC",
+					"display_url": "pic.twitter.com/ILaW7FkDxC",
+					"expanded_url": "https://twitter.com/tsudaka53/status/973164043807502337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1118,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1118,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973164043807502300,
+					"source_status_id_str": "973164043807502337",
+					"source_user_id": 4905287629,
+					"source_user_id_str": "4905287629"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10365,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 11:49:23 +0000 2018",
+			"id": 973164043807502300,
+			"id_str": "973164043807502337",
+			"text": "그러고보니 분명 성범죄를 희화하고 여성멸시적 표현이 난무하는데도 트위터의 그분들이 안 까는 작품이 하나 있다\n\n이거 https://t.co/ILaW7FkDxC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973164033615446000,
+						"id_str": "973164033615446017",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+						"url": "https://t.co/ILaW7FkDxC",
+						"display_url": "pic.twitter.com/ILaW7FkDxC",
+						"expanded_url": "https://twitter.com/tsudaka53/status/973164043807502337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1118,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1118,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973164033615446000,
+						"id_str": "973164033615446017",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYFfiFPVwAE_hRE.jpg",
+						"url": "https://t.co/ILaW7FkDxC",
+						"display_url": "pic.twitter.com/ILaW7FkDxC",
+						"expanded_url": "https://twitter.com/tsudaka53/status/973164043807502337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1118,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1118,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4905287629,
+				"id_str": "4905287629",
+				"name": "Samuel Choi",
+				"screen_name": "tsudaka53",
+				"location": "",
+				"description": "Blacksmith/鍛冶/대장장이.  쇠로 뭐든 만들어봅니다. I`ll forge everyting use iron   주문제작 문의는 DM으로. If you want to request, DM to me",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 305,
+				"friends_count": 140,
+				"listed_count": 4,
+				"created_at": "Sun Feb 14 05:53:38 +0000 2016",
+				"favourites_count": 855,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7304,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902182966457131008/Cqsj_boj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902182966457131008/Cqsj_boj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4905287629/1497440990",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 13 01:29:21 +0000 2018",
+		"id": 973370395087618000,
+		"id_str": "973370395087618048",
+		"text": "RT @HANBINIZM: 최근들어 폐점되었거나 곧 폐점될 예정으로 제보된 전국의 맥도날드 지점. 2018.3.12 기준\n\n단국대점\n경희대점\n인천 구월킴스클럽점\n서울대역점\n서면점\n사당점\n신촌점\n종각점\n공덕역점\n인천구월점\n성신여대점\n안락DT점\n청량리점…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HANBINIZM",
+					"name": "THE HANBIN",
+					"id": 139679652,
+					"id_str": "139679652",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 698,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10365,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 11 23:10:11 +0000 2018",
+			"id": 972972988105568300,
+			"id_str": "972972988105568256",
+			"text": "최근들어 폐점되었거나 곧 폐점될 예정으로 제보된 전국의 맥도날드 지점. 2018.3.12 기준\n\n단국대점\n경희대점\n인천 구월킴스클럽점\n서울대역점\n서면점\n사당점\n신촌점\n종각점\n공덕역점\n인천구월점\n성신여대점\n안… https://t.co/5dNeP1E1tD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5dNeP1E1tD",
+						"expanded_url": "https://twitter.com/i/web/status/972972988105568256",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 972812486507294700,
+			"in_reply_to_status_id_str": "972812486507294725",
+			"in_reply_to_user_id": 139679652,
+			"in_reply_to_user_id_str": "139679652",
+			"in_reply_to_screen_name": "HANBINIZM",
+			"user": {
+				"id": 139679652,
+				"id_str": "139679652",
+				"name": "THE HANBIN",
+				"screen_name": "HANBINIZM",
+				"location": "",
+				"description": "색채가 없는 한빈과 그가 원정을 떠난 해.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1406,
+				"friends_count": 385,
+				"listed_count": 29,
+				"created_at": "Mon May 03 10:35:31 +0000 2010",
+				"favourites_count": 7363,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100071,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/962696998741721088/XCUOO6RH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/962696998741721088/XCUOO6RH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1626,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1626,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Mar 13 00:29:38 +0000 2018",
 		"id": 973355368003772400,
 		"id_str": "973355368003772416",
