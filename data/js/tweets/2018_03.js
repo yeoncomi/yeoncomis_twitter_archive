@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 13 16:28:50 +0000 2018",
+		"id": 973596757392158700,
+		"id_str": "973596757392158720",
+		"text": "RT @komiya_road: 진짜 우익이고 뭐고 다 떠나서 속국+동북공정 드립이 제일 웃김ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ야 그럼 일본산 장르, 중국산 장르 전부 블락박아야지 내가 좋아하는건 검열될 일이 없습니다 이거냐? 무슨 트위터 굼랏이여ㅋㅋㅋㅋㅋㅋ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "komiya_road",
+					"name": "로드롤러@4센다",
+					"id": 616912494,
+					"id_str": "616912494",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 699,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10379,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 15:46:06 +0000 2018",
+			"id": 973586002991132700,
+			"id_str": "973586002991132672",
+			"text": "진짜 우익이고 뭐고 다 떠나서 속국+동북공정 드립이 제일 웃김ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ야 그럼 일본산 장르, 중국산 장르 전부 블락박아야지 내가 좋아하는건 검열될 일이 없습니다 이거냐? 무슨 트위터 굼랏이… https://t.co/3qGJ5PCuYa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3qGJ5PCuYa",
+						"expanded_url": "https://twitter.com/i/web/status/973586002991132672",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 616912494,
+				"id_str": "616912494",
+				"name": "로드롤러@4센다",
+				"screen_name": "komiya_road",
+				"location": "도쿄 돔",
+				"description": "μ’sic forever!\r뮤즈-코토리, 아쿠아-다이아/란마츠 코토리단/건담, 건프라/마크로스/전대물 파는 슈퍼잡덕.\r섹트 거의 없지만 욕트 잦으니 주의.\n선팔 멘션→맞팔, 그 외 구독으로 간주\rRoadroller#31126/ 소전 한섭 22772",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 481,
+				"friends_count": 626,
+				"listed_count": 11,
+				"created_at": "Sun Jun 24 06:06:20 +0000 2012",
+				"favourites_count": 6132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 92224,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959760547087437824/SW20jY2c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959760547087437824/SW20jY2c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/616912494/1517113372",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 13 16:27:46 +0000 2018",
+		"id": 973596491922026500,
+		"id_str": "973596491922026498",
+		"text": "RT @Bistedsin: 왜 눈을 가려 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ZRo0XEt5Bp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bistedsin",
+					"name": "Bistedsin",
+					"id": 564689176,
+					"id_str": "564689176",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973575503067033600,
+					"id_str": "973575503067033602",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+					"url": "https://t.co/ZRo0XEt5Bp",
+					"display_url": "pic.twitter.com/ZRo0XEt5Bp",
+					"expanded_url": "https://twitter.com/Bistedsin/status/973575525921771520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973575525921771500,
+					"source_status_id_str": "973575525921771520",
+					"source_user_id": 564689176,
+					"source_user_id_str": "564689176"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973575503067033600,
+					"id_str": "973575503067033602",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+					"url": "https://t.co/ZRo0XEt5Bp",
+					"display_url": "pic.twitter.com/ZRo0XEt5Bp",
+					"expanded_url": "https://twitter.com/Bistedsin/status/973575525921771520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 622,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973575525921771500,
+					"source_status_id_str": "973575525921771520",
+					"source_user_id": 564689176,
+					"source_user_id_str": "564689176"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 699,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10379,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 15:04:28 +0000 2018",
+			"id": 973575525921771500,
+			"id_str": "973575525921771520",
+			"text": "왜 눈을 가려 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ZRo0XEt5Bp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973575503067033600,
+						"id_str": "973575503067033602",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+						"url": "https://t.co/ZRo0XEt5Bp",
+						"display_url": "pic.twitter.com/ZRo0XEt5Bp",
+						"expanded_url": "https://twitter.com/Bistedsin/status/973575525921771520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973575503067033600,
+						"id_str": "973575503067033602",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYLVwwZVMAINbHv.jpg",
+						"url": "https://t.co/ZRo0XEt5Bp",
+						"display_url": "pic.twitter.com/ZRo0XEt5Bp",
+						"expanded_url": "https://twitter.com/Bistedsin/status/973575525921771520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 535,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 564689176,
+				"id_str": "564689176",
+				"name": "Bistedsin",
+				"screen_name": "Bistedsin",
+				"location": "전국 패배자 협회",
+				"description": "Girls Do Not Need A Hero",
+				"url": "https://t.co/fRwqSG05FJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fRwqSG05FJ",
+								"expanded_url": "https://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%91%E7%8A%AC",
+								"display_url": "ja.wikipedia.org/wiki/%E8%B2%A0…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1261,
+				"friends_count": 86,
+				"listed_count": 30,
+				"created_at": "Fri Apr 27 15:11:56 +0000 2012",
+				"favourites_count": 228,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87311,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679612223237394432/hO24jU9F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679612223237394432/hO24jU9F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947444492419842048/yrxrCypV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947444492419842048/yrxrCypV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/564689176/1495110825",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Mar 13 15:25:36 +0000 2018",
 		"id": 973580845335298000,
 		"id_str": "973580845335298048",
