@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 15 14:34:25 +0000 2018",
+		"id": 974292741570965500,
+		"id_str": "974292741570965504",
+		"text": "RT @serikachan: 그녀의 심청 33화의 위패들이 초코바 색깔이라서... 초코바 가게로 바꿔보았다 https://t.co/pBLKRm7dMi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "serikachan",
+					"name": "seri",
+					"id": 1942556971,
+					"id_str": "1942556971",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 974251461491146800,
+					"id_str": "974251461491146753",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+					"url": "https://t.co/pBLKRm7dMi",
+					"display_url": "pic.twitter.com/pBLKRm7dMi",
+					"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 421,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974251800265048000,
+					"source_status_id_str": "974251800265048064",
+					"source_user_id": 1942556971,
+					"source_user_id_str": "1942556971"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 974251461491146800,
+					"id_str": "974251461491146753",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+					"url": "https://t.co/pBLKRm7dMi",
+					"display_url": "pic.twitter.com/pBLKRm7dMi",
+					"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 421,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974251800265048000,
+					"source_status_id_str": "974251800265048064",
+					"source_user_id": 1942556971,
+					"source_user_id_str": "1942556971"
+				},
+				{
+					"id": 974251587198640100,
+					"id_str": "974251587198640128",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DYU8qCDV4AALfBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYU8qCDV4AALfBp.jpg",
+					"url": "https://t.co/pBLKRm7dMi",
+					"display_url": "pic.twitter.com/pBLKRm7dMi",
+					"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 592,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 347,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 197,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974251800265048000,
+					"source_status_id_str": "974251800265048064",
+					"source_user_id": 1942556971,
+					"source_user_id_str": "1942556971"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10412,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21741,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 15 11:51:44 +0000 2018",
+			"id": 974251800265048000,
+			"id_str": "974251800265048064",
+			"text": "그녀의 심청 33화의 위패들이 초코바 색깔이라서... 초코바 가게로 바꿔보았다 https://t.co/pBLKRm7dMi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 974251461491146800,
+						"id_str": "974251461491146753",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+						"url": "https://t.co/pBLKRm7dMi",
+						"display_url": "pic.twitter.com/pBLKRm7dMi",
+						"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 239,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 719,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 974251461491146800,
+						"id_str": "974251461491146753",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYU8itwVwAED-Je.jpg",
+						"url": "https://t.co/pBLKRm7dMi",
+						"display_url": "pic.twitter.com/pBLKRm7dMi",
+						"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 239,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 719,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 974251587198640100,
+						"id_str": "974251587198640128",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DYU8qCDV4AALfBp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYU8qCDV4AALfBp.jpg",
+						"url": "https://t.co/pBLKRm7dMi",
+						"display_url": "pic.twitter.com/pBLKRm7dMi",
+						"expanded_url": "https://twitter.com/serikachan/status/974251800265048064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 592,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 347,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 197,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1942556971,
+				"id_str": "1942556971",
+				"name": "seri",
+				"screen_name": "serikachan",
+				"location": "",
+				"description": "고시생툰. 쌤툰. 만화로 읽는 수능 고전시가. 매지컬 고삼즈. 아르피엘. 그녀의 심청",
+				"url": "https://t.co/OHqLoCP0ZE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OHqLoCP0ZE",
+								"expanded_url": "http://blog.naver.com/schan1205",
+								"display_url": "blog.naver.com/schan1205",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20909,
+				"friends_count": 223,
+				"listed_count": 89,
+				"created_at": "Mon Oct 07 01:10:35 +0000 2013",
+				"favourites_count": 695,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3610,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857590499984588801/950cDfy0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857590499984588801/950cDfy0_normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 551,
+			"favorite_count": 179,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 15 12:09:25 +0000 2018",
 		"id": 974256252225138700,
 		"id_str": "974256252225138694",
