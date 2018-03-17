@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 17 04:30:17 +0000 2018",
+		"id": 974865479486513200,
+		"id_str": "974865479486513154",
+		"text": "RT @foodnjoy: 넷플 강철의 연금술사를 보려고 술과 안주도 준비했는데 노쇠한 공유기가 발작을 해대서 볼 수가 없게 되었다. 단톡방에선 \"네 공유기가 마지막으로 목숨바쳐 너를 지키려고 하는 것이야!\" 해서 살짝 감동하려던 차에 \"그러니 그 공…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "foodnjoy",
+					"name": "foodnjoy",
+					"id": 71992272,
+					"id_str": "71992272",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10412,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 14:49:54 +0000 2018",
+			"id": 973571863153553400,
+			"id_str": "973571863153553408",
+			"text": "넷플 강철의 연금술사를 보려고 술과 안주도 준비했는데 노쇠한 공유기가 발작을 해대서 볼 수가 없게 되었다. 단톡방에선 \"네 공유기가 마지막으로 목숨바쳐 너를 지키려고 하는 것이야!\" 해서 살짝 감동하려던 차… https://t.co/w1vKQF4ui0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w1vKQF4ui0",
+						"expanded_url": "https://twitter.com/i/web/status/973571863153553408",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71992272,
+				"id_str": "71992272",
+				"name": "foodnjoy",
+				"screen_name": "foodnjoy",
+				"location": "위장 속",
+				"description": "굶주림에 고통받는 중",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 230502,
+				"friends_count": 494,
+				"listed_count": 262,
+				"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+				"favourites_count": 1069,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34344,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/622862710372302848/LaGyNzwr.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/622862710372302848/LaGyNzwr.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1505312907",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 17 04:28:45 +0000 2018",
+		"id": 974865093287530500,
+		"id_str": "974865093287530497",
+		"text": "RT @BlackPoloDress: 떡볶이 먹다가 애국심 폭발한 어느 디씨인\n\n댓글캐리ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/Sab0hN1Cox",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlackPoloDress",
+					"name": "BlackPoloDress⚓",
+					"id": 2995466750,
+					"id_str": "2995466750",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 974557549746769900,
+					"id_str": "974557549746769921",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+					"url": "https://t.co/Sab0hN1Cox",
+					"display_url": "pic.twitter.com/Sab0hN1Cox",
+					"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1625,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974557569602605000,
+					"source_status_id_str": "974557569602605056",
+					"source_user_id": 2995466750,
+					"source_user_id_str": "2995466750"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 974557549746769900,
+					"id_str": "974557549746769921",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+					"url": "https://t.co/Sab0hN1Cox",
+					"display_url": "pic.twitter.com/Sab0hN1Cox",
+					"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1625,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974557569602605000,
+					"source_status_id_str": "974557569602605056",
+					"source_user_id": 2995466750,
+					"source_user_id_str": "2995466750"
+				},
+				{
+					"id": 974557561532727300,
+					"id_str": "974557561532727296",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DYZS8FRUQAA8vZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYZS8FRUQAA8vZj.jpg",
+					"url": "https://t.co/Sab0hN1Cox",
+					"display_url": "pic.twitter.com/Sab0hN1Cox",
+					"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 497,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974557569602605000,
+					"source_status_id_str": "974557569602605056",
+					"source_user_id": 2995466750,
+					"source_user_id_str": "2995466750"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10412,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 16 08:06:45 +0000 2018",
+			"id": 974557569602605000,
+			"id_str": "974557569602605056",
+			"text": "떡볶이 먹다가 애국심 폭발한 어느 디씨인\n\n댓글캐리ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/Sab0hN1Cox",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 974557549746769900,
+						"id_str": "974557549746769921",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+						"url": "https://t.co/Sab0hN1Cox",
+						"display_url": "pic.twitter.com/Sab0hN1Cox",
+						"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 796,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1078,
+								"h": 1625,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 974557549746769900,
+						"id_str": "974557549746769921",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYZS7ZXU0AEqlTQ.jpg",
+						"url": "https://t.co/Sab0hN1Cox",
+						"display_url": "pic.twitter.com/Sab0hN1Cox",
+						"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 796,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1078,
+								"h": 1625,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 974557561532727300,
+						"id_str": "974557561532727296",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DYZS8FRUQAA8vZj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYZS8FRUQAA8vZj.jpg",
+						"url": "https://t.co/Sab0hN1Cox",
+						"display_url": "pic.twitter.com/Sab0hN1Cox",
+						"expanded_url": "https://twitter.com/BlackPoloDress/status/974557569602605056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 497,
+								"h": 468,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 497,
+								"h": 468,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 497,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2995466750,
+				"id_str": "2995466750",
+				"name": "BlackPoloDress⚓",
+				"screen_name": "BlackPoloDress",
+				"location": "구글",
+				"description": "귀여운게 좋은 사람",
+				"url": "https://t.co/twxHxObKhq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/twxHxObKhq",
+								"expanded_url": "http://www.google.com",
+								"display_url": "google.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3743,
+				"friends_count": 299,
+				"listed_count": 42,
+				"created_at": "Sun Jan 25 06:09:03 +0000 2015",
+				"favourites_count": 159,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168275,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974604898795896832/EHb27n36_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974604898795896832/EHb27n36_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2995466750/1464058136",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 385,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Mar 17 04:16:40 +0000 2018",
 		"id": 974862054858244100,
 		"id_str": "974862054858244096",
