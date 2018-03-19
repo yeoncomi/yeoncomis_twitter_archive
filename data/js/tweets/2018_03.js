@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 19 00:34:23 +0000 2018",
+		"id": 975530890498474000,
+		"id_str": "975530890498473984",
+		"text": "RT @if1live: 리눅스의 단점 : 아오 씨발 이 게임 안돌아가네\n윈도우의 단점 : 아오 씨발 이 라이브러리 못 쓰네",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "if1live",
+					"name": "씨언",
+					"id": 63709382,
+					"id_str": "63709382",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 700,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10427,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 18 11:10:20 +0000 2018",
+			"id": 975328546032836600,
+			"id_str": "975328546032836609",
+			"text": "리눅스의 단점 : 아오 씨발 이 게임 안돌아가네\n윈도우의 단점 : 아오 씨발 이 라이브러리 못 쓰네",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63709382,
+				"id_str": "63709382",
+				"name": "씨언",
+				"screen_name": "if1live",
+				"location": "Unknown",
+				"description": "헤이 츄라이 츄라이\nSteamVR:https://t.co/wjF6SpvPRw GoogleDaydream:https://t.co/kr2WIYJQEr\nGearVR:https://t.co/IulxZxxRxO iOS: https://t.co/wrQzHknrjs WinMR:https://t.co/M0N1OisfFd Rift: https://t.co/w3Lwzkjhid",
+				"url": "https://t.co/S1W5wgDjew",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S1W5wgDjew",
+								"expanded_url": "http://libsora.so",
+								"display_url": "libsora.so",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wjF6SpvPRw",
+								"expanded_url": "http://goo.gl/C2vNLJ",
+								"display_url": "goo.gl/C2vNLJ",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/kr2WIYJQEr",
+								"expanded_url": "http://goo.gl/d4oAUR",
+								"display_url": "goo.gl/d4oAUR",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/IulxZxxRxO",
+								"expanded_url": "http://goo.gl/m7hfRF",
+								"display_url": "goo.gl/m7hfRF",
+								"indices": [
+									89,
+									112
+								]
+							},
+							{
+								"url": "https://t.co/wrQzHknrjs",
+								"expanded_url": "http://goo.gl/KawvPP",
+								"display_url": "goo.gl/KawvPP",
+								"indices": [
+									118,
+									141
+								]
+							},
+							{
+								"url": "https://t.co/M0N1OisfFd",
+								"expanded_url": "http://goo.gl/ivM7yU",
+								"display_url": "goo.gl/ivM7yU",
+								"indices": [
+									148,
+									171
+								]
+							},
+							{
+								"url": "https://t.co/w3Lwzkjhid",
+								"expanded_url": "https://goo.gl/uVC1Rv",
+								"display_url": "goo.gl/uVC1Rv",
+								"indices": [
+									178,
+									201
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1120,
+				"friends_count": 883,
+				"listed_count": 71,
+				"created_at": "Fri Aug 07 12:43:46 +0000 2009",
+				"favourites_count": 686,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65387,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458951223412920321/bUuaR1TI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458951223412920321/bUuaR1TI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63709382/1466133215",
+				"profile_link_color": "49A7DE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Mar 19 00:33:34 +0000 2018",
+		"id": 975530683899592700,
+		"id_str": "975530683899592704",
+		"text": "RT @hongzo_lucky7: 트위터 계정 이동했거나 접었는데 자동트윗만 계속 올라오는 계정 너무 무섭다.... 모든게 다 멸망했는데 혼자 영원히 돌아가는 카세트테이프 느낌이야",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongzo_lucky7",
+					"name": "홍조🌺서코F20 / メ活９",
+					"id": 3013990926,
+					"id_str": "3013990926",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 700,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10427,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 08 12:12:53 +0000 2017",
+			"id": 906128202187149300,
+			"id_str": "906128202187149312",
+			"text": "트위터 계정 이동했거나 접었는데 자동트윗만 계속 올라오는 계정 너무 무섭다.... 모든게 다 멸망했는데 혼자 영원히 돌아가는 카세트테이프 느낌이야",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3013990926,
+				"id_str": "3013990926",
+				"name": "홍조🌺서코F20 / メ活９",
+				"screen_name": "hongzo_lucky7",
+				"location": "하루신 너네가 친구면 난 친구없다",
+				"description": "신타로랑 올캐러 너무 사랑하는사람 / 하루신+코노신 망령 遥伸+コノシン亡靈 / 정발전 네타 플사헤더블락함 / BLGL계정 @konoshinlover 헤더 그놀님 メ活9の情報はモメントを参考にしてください",
+				"url": "https://t.co/6qumK3jT5C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6qumK3jT5C",
+								"expanded_url": "http://yong_19.blog.me/",
+								"display_url": "yong_19.blog.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6152,
+				"friends_count": 71,
+				"listed_count": 33,
+				"created_at": "Mon Feb 09 05:58:01 +0000 2015",
+				"favourites_count": 7622,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 127045,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963129563948630016/2wBmh1fF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963129563948630016/2wBmh1fF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3013990926/1510507321",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16759,
+			"favorite_count": 3118,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16759,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Mar 18 21:33:36 +0000 2018",
 		"id": 975485396724297700,
 		"id_str": "975485396724297728",
