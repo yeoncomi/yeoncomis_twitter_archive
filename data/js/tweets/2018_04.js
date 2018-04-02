@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 02 18:44:05 +0000 2018",
+		"id": 980878553838317600,
+		"id_str": "980878553838317568",
+		"text": "RT @Perfect_Wendy: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/dsyxDl3Bke",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Perfect_Wendy",
+					"name": "완전",
+					"id": 4681959979,
+					"id_str": "4681959979",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 980436474796564500,
+					"id_str": "980436474796564480",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+					"url": "https://t.co/dsyxDl3Bke",
+					"display_url": "pic.twitter.com/dsyxDl3Bke",
+					"expanded_url": "https://twitter.com/Perfect_Wendy/status/980436482719588352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 980436482719588400,
+					"source_status_id_str": "980436482719588352",
+					"source_user_id": 4681959979,
+					"source_user_id_str": "4681959979"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 980436474796564500,
+					"id_str": "980436474796564480",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+					"url": "https://t.co/dsyxDl3Bke",
+					"display_url": "pic.twitter.com/dsyxDl3Bke",
+					"expanded_url": "https://twitter.com/Perfect_Wendy/status/980436482719588352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 980436482719588400,
+					"source_status_id_str": "980436482719588352",
+					"source_user_id": 4681959979,
+					"source_user_id_str": "4681959979"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 701,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10645,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 01 13:27:27 +0000 2018",
+			"id": 980436482719588400,
+			"id_str": "980436482719588352",
+			"text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/dsyxDl3Bke",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 980436474796564500,
+						"id_str": "980436474796564480",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+						"url": "https://t.co/dsyxDl3Bke",
+						"display_url": "pic.twitter.com/dsyxDl3Bke",
+						"expanded_url": "https://twitter.com/Perfect_Wendy/status/980436482719588352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 993,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 993,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 980436474796564500,
+						"id_str": "980436474796564480",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZs1x30V4AAWCCF.jpg",
+						"url": "https://t.co/dsyxDl3Bke",
+						"display_url": "pic.twitter.com/dsyxDl3Bke",
+						"expanded_url": "https://twitter.com/Perfect_Wendy/status/980436482719588352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 993,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 993,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 514,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4681959979,
+				"id_str": "4681959979",
+				"name": "완전",
+				"screen_name": "Perfect_Wendy",
+				"location": "이을 승 완전할 완",
+				"description": "언니는 제 삶의 유일한 히로인이니까요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 364,
+				"friends_count": 172,
+				"listed_count": 3,
+				"created_at": "Thu Dec 31 06:56:29 +0000 2015",
+				"favourites_count": 2288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12549,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979734054768582657/rxbPV2ql_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979734054768582657/rxbPV2ql_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4681959979/1519032287",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 844,
+			"favorite_count": 187,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 02 17:49:20 +0000 2018",
 		"id": 980864774698295300,
 		"id_str": "980864774698295296",
