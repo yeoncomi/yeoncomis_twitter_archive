@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 16:12:37 +0000 2018",
+		"id": 981202821511917600,
+		"id_str": "981202821511917568",
+		"text": "RT @juking_: 레고 밟으면 죽을것 같은 이유 https://t.co/ude2JCYtxv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juking_",
+					"name": "ㅈㅋ",
+					"id": 2562396840,
+					"id_str": "2562396840",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 981099511253581800,
+					"id_str": "981099511253581824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+					"url": "https://t.co/ude2JCYtxv",
+					"display_url": "pic.twitter.com/ude2JCYtxv",
+					"expanded_url": "https://twitter.com/juking_/status/981099555973312512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 934,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 934,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981099555973312500,
+					"source_status_id_str": "981099555973312512",
+					"source_user_id": 2562396840,
+					"source_user_id_str": "2562396840"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981099511253581800,
+					"id_str": "981099511253581824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+					"url": "https://t.co/ude2JCYtxv",
+					"display_url": "pic.twitter.com/ude2JCYtxv",
+					"expanded_url": "https://twitter.com/juking_/status/981099555973312512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 934,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 934,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981099555973312500,
+					"source_status_id_str": "981099555973312512",
+					"source_user_id": 2562396840,
+					"source_user_id_str": "2562396840"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 701,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10665,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 09:22:16 +0000 2018",
+			"id": 981099555973312500,
+			"id_str": "981099555973312512",
+			"text": "레고 밟으면 죽을것 같은 이유 https://t.co/ude2JCYtxv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981099511253581800,
+						"id_str": "981099511253581824",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+						"url": "https://t.co/ude2JCYtxv",
+						"display_url": "pic.twitter.com/ude2JCYtxv",
+						"expanded_url": "https://twitter.com/juking_/status/981099555973312512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 934,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981099511253581800,
+						"id_str": "981099511253581824",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ2QzrGUQAA4dzw.jpg",
+						"url": "https://t.co/ude2JCYtxv",
+						"display_url": "pic.twitter.com/ude2JCYtxv",
+						"expanded_url": "https://twitter.com/juking_/status/981099555973312512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 934,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2562396840,
+				"id_str": "2562396840",
+				"name": "ㅈㅋ",
+				"screen_name": "juking_",
+				"location": "with @amadography",
+				"description": "DJMAX RESPECT Developer / 계획없이 사는 것이 저의 계획입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386,
+				"friends_count": 62,
+				"listed_count": 1,
+				"created_at": "Thu Jun 12 01:21:54 +0000 2014",
+				"favourites_count": 110,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15383,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980439766817652736/CJzeOY9T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980439766817652736/CJzeOY9T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2562396840/1522682852",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 543,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 543,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 03 07:05:59 +0000 2018",
 		"id": 981065258453184500,
 		"id_str": "981065258453184512",
