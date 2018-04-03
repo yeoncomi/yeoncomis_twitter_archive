@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 21:38:57 +0000 2018",
+		"id": 981284947271888900,
+		"id_str": "981284947271888896",
+		"text": "RT @guardian: The Guardian front page, Wednesday 4 April 2018: UK chemical experts unable to confirm nerve agent made in Russia https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10679,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 21:31:52 +0000 2018",
+			"id": 981283163791134700,
+			"id_str": "981283163791134720",
+			"text": "The Guardian front page, Wednesday 4 April 2018: UK chemical experts unable to confirm nerve agent made in Russia https://t.co/vsV0pjf6Ob",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981282900669759500,
+						"id_str": "981282900669759490",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ43mV6WAAIZr7i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ43mV6WAAIZr7i.jpg",
+						"url": "https://t.co/vsV0pjf6Ob",
+						"display_url": "pic.twitter.com/vsV0pjf6Ob",
+						"expanded_url": "https://twitter.com/guardian/status/981283163791134720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 942,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1608,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981282900669759500,
+						"id_str": "981282900669759490",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ43mV6WAAIZr7i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ43mV6WAAIZr7i.jpg",
+						"url": "https://t.co/vsV0pjf6Ob",
+						"display_url": "pic.twitter.com/vsV0pjf6Ob",
+						"expanded_url": "https://twitter.com/guardian/status/981283163791134720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 942,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1608,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/EWg9aqA7PQ",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EWg9aqA7PQ",
+								"expanded_url": "http://gu.com/supporter/twitter",
+								"display_url": "gu.com/supporter/twit…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7124344,
+				"friends_count": 1107,
+				"listed_count": 56261,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 152,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 425331,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704160749/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704160749/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952866338187423744/0hj7a-EH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952866338187423744/0hj7a-EH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1515996506",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 03 20:49:55 +0000 2018",
 		"id": 981272608007073800,
 		"id_str": "981272608007073792",
