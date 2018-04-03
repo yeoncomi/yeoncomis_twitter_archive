@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 20:49:55 +0000 2018",
+		"id": 981272608007073800,
+		"id_str": "981272608007073792",
+		"text": "RT @ConanOBrien: Trump just made his own shadow sign an NDA.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConanOBrien",
+					"name": "Conan O'Brien",
+					"id": 115485051,
+					"id_str": "115485051",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10679,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 20:10:11 +0000 2018",
+			"id": 981262608018919400,
+			"id_str": "981262608018919426",
+			"text": "Trump just made his own shadow sign an NDA.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115485051,
+				"id_str": "115485051",
+				"name": "Conan O'Brien",
+				"screen_name": "ConanOBrien",
+				"location": "Los Angeles",
+				"description": "The voice of the people. Sorry, people.",
+				"url": "https://t.co/C7Jqp9zGZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C7Jqp9zGZV",
+								"expanded_url": "http://teamcoco.com",
+								"display_url": "teamcoco.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28735755,
+				"friends_count": 1,
+				"listed_count": 87073,
+				"created_at": "Thu Feb 18 20:17:16 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": -28800,
+				"time_zone": "Alaska",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3360,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875682230/6957e7d6efdd57c670277fce65043e40.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875682230/6957e7d6efdd57c670277fce65043e40.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730612231021322240/Rl0_QYhL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730612231021322240/Rl0_QYhL_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 1263,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 03 20:47:53 +0000 2018",
+		"id": 981272094875959300,
+		"id_str": "981272094875959298",
+		"text": "RT @HuffPostCanada: Reports of shots fired at YouTube headquarters https://t.co/PetvnQTPnB https://t.co/fZ9yBezclF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuffPostCanada",
+					"name": "HuffPost Canada",
+					"id": 289998339,
+					"id_str": "289998339",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PetvnQTPnB",
+					"expanded_url": "http://huffp.st/1w3yy6U",
+					"display_url": "huffp.st/1w3yy6U",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 981268714673901600,
+					"id_str": "981268714673901568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+					"url": "https://t.co/fZ9yBezclF",
+					"display_url": "pic.twitter.com/fZ9yBezclF",
+					"expanded_url": "https://twitter.com/HuffPostCanada/status/981268718381621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981268718381621200,
+					"source_status_id_str": "981268718381621248",
+					"source_user_id": 289998339,
+					"source_user_id_str": "289998339"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981268714673901600,
+					"id_str": "981268714673901568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+					"url": "https://t.co/fZ9yBezclF",
+					"display_url": "pic.twitter.com/fZ9yBezclF",
+					"expanded_url": "https://twitter.com/HuffPostCanada/status/981268718381621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981268718381621200,
+					"source_status_id_str": "981268718381621248",
+					"source_user_id": 289998339,
+					"source_user_id_str": "289998339"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10679,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 20:34:28 +0000 2018",
+			"id": 981268718381621200,
+			"id_str": "981268718381621248",
+			"text": "Reports of shots fired at YouTube headquarters https://t.co/PetvnQTPnB https://t.co/fZ9yBezclF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PetvnQTPnB",
+						"expanded_url": "http://huffp.st/1w3yy6U",
+						"display_url": "huffp.st/1w3yy6U",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 981268714673901600,
+						"id_str": "981268714673901568",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+						"url": "https://t.co/fZ9yBezclF",
+						"display_url": "pic.twitter.com/fZ9yBezclF",
+						"expanded_url": "https://twitter.com/HuffPostCanada/status/981268718381621248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981268714673901600,
+						"id_str": "981268714673901568",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ4qsm9XkAA7mTt.jpg",
+						"url": "https://t.co/fZ9yBezclF",
+						"display_url": "pic.twitter.com/fZ9yBezclF",
+						"expanded_url": "https://twitter.com/HuffPostCanada/status/981268718381621248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 289998339,
+				"id_str": "289998339",
+				"name": "HuffPost Canada",
+				"screen_name": "HuffPostCanada",
+				"location": "Canada",
+				"description": "Informing, engaging, and amplifying Canadians. Breaking news, analysis, opinion and more. Email us: canada@huffpost.com.",
+				"url": "https://t.co/oC96egtnle",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oC96egtnle",
+								"expanded_url": "http://huffingtonpost.ca",
+								"display_url": "huffingtonpost.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 396917,
+				"friends_count": 2862,
+				"listed_count": 3637,
+				"created_at": "Fri Apr 29 15:42:44 +0000 2011",
+				"favourites_count": 1095,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 218133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/289998339/1476141226",
+				"profile_link_color": "DD1A20",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 03 19:47:27 +0000 2018",
 		"id": 981256885406859300,
 		"id_str": "981256885406859264",
