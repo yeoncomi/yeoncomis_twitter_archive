@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 04 19:22:11 +0000 2018",
+		"id": 981612917857505300,
+		"id_str": "981612917857505280",
+		"text": "RT @HOMU_LUV_MADOKA: 소울워커 갤러리 병신들잌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n왜 지금 GM한테 들박하고 있는뎈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n홍삼, 귤, 축하주(?) 뭐 다 주고있네. https://t.co/oPZSxxOiIL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HOMU_LUV_MADOKA",
+					"name": "에바님하늘로날려보내고온다",
+					"id": 153004076,
+					"id_str": "153004076",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 981346203278368800,
+					"id_str": "981346203278368768",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+					"url": "https://t.co/oPZSxxOiIL",
+					"display_url": "pic.twitter.com/oPZSxxOiIL",
+					"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981346234425159700,
+					"source_status_id_str": "981346234425159681",
+					"source_user_id": 153004076,
+					"source_user_id_str": "153004076"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981346203278368800,
+					"id_str": "981346203278368768",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+					"url": "https://t.co/oPZSxxOiIL",
+					"display_url": "pic.twitter.com/oPZSxxOiIL",
+					"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981346234425159700,
+					"source_status_id_str": "981346234425159681",
+					"source_user_id": 153004076,
+					"source_user_id_str": "153004076"
+				},
+				{
+					"id": 981346209989148700,
+					"id_str": "981346209989148672",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ5xLbgUQAA5AjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ5xLbgUQAA5AjP.jpg",
+					"url": "https://t.co/oPZSxxOiIL",
+					"display_url": "pic.twitter.com/oPZSxxOiIL",
+					"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1841,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981346234425159700,
+					"source_status_id_str": "981346234425159681",
+					"source_user_id": 153004076,
+					"source_user_id_str": "153004076"
+				},
+				{
+					"id": 981346216016425000,
+					"id_str": "981346216016424960",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ5xLx9VMAA6FbW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ5xLx9VMAA6FbW.jpg",
+					"url": "https://t.co/oPZSxxOiIL",
+					"display_url": "pic.twitter.com/oPZSxxOiIL",
+					"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981346234425159700,
+					"source_status_id_str": "981346234425159681",
+					"source_user_id": 153004076,
+					"source_user_id_str": "153004076"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다.",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 702,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10689,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 01:42:29 +0000 2018",
+			"id": 981346234425159700,
+			"id_str": "981346234425159681",
+			"text": "소울워커 갤러리 병신들잌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n왜 지금 GM한테 들박하고 있는뎈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n홍삼, 귤, 축하주(?) 뭐 다 주고있네. https://t.co/oPZSxxOiIL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 981346203278368800,
+						"id_str": "981346203278368768",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+						"url": "https://t.co/oPZSxxOiIL",
+						"display_url": "pic.twitter.com/oPZSxxOiIL",
+						"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1748,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981346203278368800,
+						"id_str": "981346203278368768",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5xLCgV4AA9-Vu.jpg",
+						"url": "https://t.co/oPZSxxOiIL",
+						"display_url": "pic.twitter.com/oPZSxxOiIL",
+						"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1748,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 981346209989148700,
+						"id_str": "981346209989148672",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5xLbgUQAA5AjP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5xLbgUQAA5AjP.jpg",
+						"url": "https://t.co/oPZSxxOiIL",
+						"display_url": "pic.twitter.com/oPZSxxOiIL",
+						"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 1841,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 981346216016425000,
+						"id_str": "981346216016424960",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ5xLx9VMAA6FbW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ5xLx9VMAA6FbW.jpg",
+						"url": "https://t.co/oPZSxxOiIL",
+						"display_url": "pic.twitter.com/oPZSxxOiIL",
+						"expanded_url": "https://twitter.com/HOMU_LUV_MADOKA/status/981346234425159681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153004076,
+				"id_str": "153004076",
+				"name": "에바님하늘로날려보내고온다",
+				"screen_name": "HOMU_LUV_MADOKA",
+				"location": "훼이크다 이 병x들아!",
+				"description": "안녕하십니까.\n여러분들이 생각하는 비인권적이고 반인륜적이고 반동성애에 비자유를 지향하는 그 사람입니다.",
+				"url": "https://t.co/1zpxJB59XZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1zpxJB59XZ",
+								"expanded_url": "http://www.meatspin.com",
+								"display_url": "meatspin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2583,
+				"friends_count": 1777,
+				"listed_count": 35,
+				"created_at": "Mon Jun 07 12:45:13 +0000 2010",
+				"favourites_count": 14641,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 232409,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000092965621/1a93b2b307025bdf4effbc3e68eb4a08.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000092965621/1a93b2b307025bdf4effbc3e68eb4a08.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2643613002/aabab7734fc957ae703a2497252c518d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2643613002/aabab7734fc957ae703a2497252c518d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153004076/1388479595",
+				"profile_link_color": "8C005B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 04 17:00:17 +0000 2018",
 		"id": 981577205145854000,
 		"id_str": "981577205145853954",
