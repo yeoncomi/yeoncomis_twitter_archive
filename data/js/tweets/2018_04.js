@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 05 21:36:56 +0000 2018",
+		"id": 982009216092090400,
+		"id_str": "982009216092090368",
+		"text": "RT @aransistore: 지금 뉴스에 여러 나라들이 파라과이에서 나무 재배 산업에 뛰어들고 있다는 국제뉴스 나와서 기분이 아주 이상해져버림......기후가 좋아서 나무가 잘큰다나 어쩐다나...........",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aransistore",
+					"name": "시아란/아란시스토르 (어려운 아이디)",
+					"id": 353097742,
+					"id_str": "353097742",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10736,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 21:28:47 +0000 2018",
+			"id": 982007162636386300,
+			"id_str": "982007162636386304",
+			"text": "지금 뉴스에 여러 나라들이 파라과이에서 나무 재배 산업에 뛰어들고 있다는 국제뉴스 나와서 기분이 아주 이상해져버림......기후가 좋아서 나무가 잘큰다나 어쩐다나...........",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 353097742,
+				"id_str": "353097742",
+				"name": "시아란/아란시스토르 (어려운 아이디)",
+				"screen_name": "aransistore",
+				"location": "복실이 연구소",
+				"description": "PhD Engr / 스토리텔러 Wannabe / 설덕후 / 만화, 애니메이션, 라이트노벨, 철도, 봉제인형, 귀여운 것 / 덕 아닌 분 팔로우 안받습니다.",
+				"url": "https://t.co/YdD6I0GJRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YdD6I0GJRn",
+								"expanded_url": "http://www.siaran.kr",
+								"display_url": "siaran.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1042,
+				"friends_count": 182,
+				"listed_count": 28,
+				"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+				"favourites_count": 6745,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 224702,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 05 20:35:28 +0000 2018",
 		"id": 981993745036992500,
 		"id_str": "981993745036992513",
@@ -189,7 +380,7 @@ Grailbird.data.tweets_2018_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_everymoment",
-					"name": "은하수🏳️‍🌈",
+					"name": "은하수🏳️🌈",
 					"id": 482731042,
 					"id_str": "482731042",
 					"indices": [
@@ -456,7 +647,7 @@ Grailbird.data.tweets_2018_04 =
 			"user": {
 				"id": 482731042,
 				"id_str": "482731042",
-				"name": "은하수🏳️‍🌈",
+				"name": "은하수🏳️🌈",
 				"screen_name": "_everymoment",
 				"location": "ReVeluv",
 				"description": "반도의 흔한 바이섹슈얼 페미니스트 흰둥이 덕후 @_zoorassicpark / 레드벨벳 스타워즈 마블 #GirlsCanDoAnything",
