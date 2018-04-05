@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 05 17:57:13 +0000 2018",
+		"id": 981953923740196900,
+		"id_str": "981953923740196864",
+		"text": "RT @juniecho: 조종사가 민간피해를 내지 않으려고 비상탈출을 미루다가 그 중 한 명이 순국한 지금 이게 사람새끼가 낼 수 있는 의견인가.\n목숨을 바친 조종사분의 명복을 빕니다. https://t.co/anrMRuiRyT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juniecho",
+					"name": "곰돌리우스",
+					"id": 77458344,
+					"id_str": "77458344",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/anrMRuiRyT",
+					"expanded_url": "https://twitter.com/gracehwang1970/status/981794555518337024",
+					"display_url": "twitter.com/gracehwang1970…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 701,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10732,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 10:36:40 +0000 2018",
+			"id": 981843053999636500,
+			"id_str": "981843053999636480",
+			"text": "조종사가 민간피해를 내지 않으려고 비상탈출을 미루다가 그 중 한 명이 순국한 지금 이게 사람새끼가 낼 수 있는 의견인가.\n목숨을 바친 조종사분의 명복을 빕니다. https://t.co/anrMRuiRyT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/anrMRuiRyT",
+						"expanded_url": "https://twitter.com/gracehwang1970/status/981794555518337024",
+						"display_url": "twitter.com/gracehwang1970…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77458344,
+				"id_str": "77458344",
+				"name": "곰돌리우스",
+				"screen_name": "juniecho",
+				"location": "Seoul, ROK",
+				"description": "변호사 지망생(ㅠㅠ) / GomdoLight Advanced System Enhancement Pack의 제작자. 법률, 판례, IT 관련 이야기 자주 함. 팔로우, 구독 모두 환영하지만 맞팔 안 한다고 당신을 굳이 미워하는 것은 아닙니다. 꼭 맞팔을 원하시면 말을 걸어 주세요.",
+				"url": "https://t.co/EuQzO8pXjg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EuQzO8pXjg",
+								"expanded_url": "http://www.gomdolight.com",
+								"display_url": "gomdolight.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 68,
+				"listed_count": 3,
+				"created_at": "Sat Sep 26 11:58:31 +0000 2009",
+				"favourites_count": 672,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5119,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000056253098/03620f2310a6e41caf74141745035348.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000056253098/03620f2310a6e41caf74141745035348.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/560031445150756864/9b0Zkvay_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/560031445150756864/9b0Zkvay_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77458344/1376976853",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 981794555518337000,
+			"quoted_status_id_str": "981794555518337024",
+			"quoted_status": {
+				"created_at": "Thu Apr 05 07:23:57 +0000 2018",
+				"id": 981794555518337000,
+				"id_str": "981794555518337024",
+				"text": "대한민국 F-15K 전투기 경북칠곡 추락, 왜? 이유가 뭐지? 탁현민 북한 다녀온 다음날, 왜?  #탁현민 #탁현민행정관 #탁현민효과...설마 아니겠지. 삼보일퍽 탁현민이 남북으로 설치더니 대한민국 전투기가… https://t.co/BxI0fVclQs",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "탁현민",
+							"indices": [
+								55,
+								59
+							]
+						},
+						{
+							"text": "탁현민행정관",
+							"indices": [
+								60,
+								67
+							]
+						},
+						{
+							"text": "탁현민효과",
+							"indices": [
+								68,
+								74
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/BxI0fVclQs",
+							"expanded_url": "https://twitter.com/i/web/status/981794555518337024",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 712199546638508000,
+					"id_str": "712199546638508032",
+					"name": "황원경 유스티나",
+					"screen_name": "gracehwang1970",
+					"location": "",
+					"description": "Woman Right activist Dr. Hwang Won-Kyung (from  South Korea) 삼보일퍽 탁현민, 제발 이젠 사임해라. #탁현민 OUT",
+					"url": "https://t.co/RWzOexeVPx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/RWzOexeVPx",
+									"expanded_url": "http://keepitalive70.tistory.com",
+									"display_url": "keepitalive70.tistory.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 778,
+					"friends_count": 530,
+					"listed_count": 1,
+					"created_at": "Tue Mar 22 08:49:38 +0000 2016",
+					"favourites_count": 11843,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2206,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/952838985306357761/UEfZVCUe_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/952838985306357761/UEfZVCUe_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/712199546638508032/1522760807",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 348,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 981794555518337000,
+		"quoted_status_id_str": "981794555518337024",
+		"retweet_count": 348,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 05 17:47:41 +0000 2018",
+		"id": 981951525000900600,
+		"id_str": "981951525000900608",
+		"text": "RT @soisoc: 대구 초등생들 태극기 흔들며 \"문재인은 빨갱이\".. 아이들 \"어른들이 시켰다\" https://t.co/eSTQPTI7Wg\n\n대구 MBC 탐구생활, “아이들 한테 물어보니 어른들이 먹을 것을 주면서 시켰다고 했다”\n\n애들에게 이게…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soisoc",
+					"name": "더 그리운",
+					"id": 2187774788,
+					"id_str": "2187774788",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eSTQPTI7Wg",
+					"expanded_url": "http://v.media.daum.net/v/20180404151202600",
+					"display_url": "v.media.daum.net/v/201804041512…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 701,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10732,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 06:51:05 +0000 2018",
+			"id": 981423897215209500,
+			"id_str": "981423897215209472",
+			"text": "대구 초등생들 태극기 흔들며 \"문재인은 빨갱이\".. 아이들 \"어른들이 시켰다\" https://t.co/eSTQPTI7Wg\n\n대구 MBC 탐구생활, “아이들 한테 물어보니 어른들이 먹을 것을 주면서 시켰다고… https://t.co/mITnA2SF8L",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eSTQPTI7Wg",
+						"expanded_url": "http://v.media.daum.net/v/20180404151202600",
+						"display_url": "v.media.daum.net/v/201804041512…",
+						"indices": [
+							44,
+							67
+						]
+					},
+					{
+						"url": "https://t.co/mITnA2SF8L",
+						"expanded_url": "https://twitter.com/i/web/status/981423897215209472",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2187774788,
+				"id_str": "2187774788",
+				"name": "더 그리운",
+				"screen_name": "soisoc",
+				"location": "",
+				"description": "살아가는 이야기. 뉴스. 스포츠.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6081,
+				"friends_count": 71,
+				"listed_count": 21,
+				"created_at": "Mon Nov 11 05:52:59 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67080,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460732017189998593/zbTB5hl6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460732017189998593/zbTB5hl6_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3762,
+			"favorite_count": 586,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3762,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 05 17:00:22 +0000 2018",
 		"id": 981939615975333900,
 		"id_str": "981939615975333889",
