@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 17:22:32 +0000 2018",
+		"id": 982669971518926800,
+		"id_str": "982669971518926848",
+		"text": "RT @JagdHummer: 그리폰 익명 &amp; 불만게시판(운영자 : MDR) \n\n저희집 사이가는 레즈쎾쓰 사이가\n\n#그리폰익명게시판썰 https://t.co/KV7C3DGOOt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그리폰익명게시판썰",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JagdHummer",
+					"name": "야크트새우",
+					"id": 3029038293,
+					"id_str": "3029038293",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982505781466558500,
+					"id_str": "982505781466558464",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+					"url": "https://t.co/KV7C3DGOOt",
+					"display_url": "pic.twitter.com/KV7C3DGOOt",
+					"expanded_url": "https://twitter.com/JagdHummer/status/982506034320125952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 760,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982506034320126000,
+					"source_status_id_str": "982506034320125952",
+					"source_user_id": 3029038293,
+					"source_user_id_str": "3029038293"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982505781466558500,
+					"id_str": "982505781466558464",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+					"url": "https://t.co/KV7C3DGOOt",
+					"display_url": "pic.twitter.com/KV7C3DGOOt",
+					"expanded_url": "https://twitter.com/JagdHummer/status/982506034320125952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 760,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982506034320126000,
+					"source_status_id_str": "982506034320125952",
+					"source_user_id": 3029038293,
+					"source_user_id_str": "3029038293"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 708,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10810,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 06:31:07 +0000 2018",
+			"id": 982506034320126000,
+			"id_str": "982506034320125952",
+			"text": "그리폰 익명 &amp; 불만게시판(운영자 : MDR) \n\n저희집 사이가는 레즈쎾쓰 사이가\n\n#그리폰익명게시판썰 https://t.co/KV7C3DGOOt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "그리폰익명게시판썰",
+						"indices": [
+							51,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982505781466558500,
+						"id_str": "982505781466558464",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+						"url": "https://t.co/KV7C3DGOOt",
+						"display_url": "pic.twitter.com/KV7C3DGOOt",
+						"expanded_url": "https://twitter.com/JagdHummer/status/982506034320125952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982505781466558500,
+						"id_str": "982505781466558464",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKPzX4U8AAzvT4.jpg",
+						"url": "https://t.co/KV7C3DGOOt",
+						"display_url": "pic.twitter.com/KV7C3DGOOt",
+						"expanded_url": "https://twitter.com/JagdHummer/status/982506034320125952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1297,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 760,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3029038293,
+				"id_str": "3029038293",
+				"name": "야크트새우",
+				"screen_name": "JagdHummer",
+				"location": "",
+				"description": "고기는 항상 옳다!\nI LOVE S.A.T.8!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1021,
+				"friends_count": 158,
+				"listed_count": 16,
+				"created_at": "Wed Feb 11 00:00:24 +0000 2015",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Asia/Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104214,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598873070627983360/j6sNUzz4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598873070627983360/j6sNUzz4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963344888744980480/fVGwQLg8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963344888744980480/fVGwQLg8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3029038293/1511057902",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 17:17:26 +0000 2018",
+		"id": 982668686732308500,
+		"id_str": "982668686732308480",
+		"text": "RT @mouloud_B5: 공영방송 정상화에 대한 시민들의 지지를 등에 업고 취임한 MBC 최승호 사장이 '젊은 방송'을 추구한답시고 100분토론에서 황교익이랑 음식 토론하고 있는 건 징후적인 장면 같다. 파업 때 미리 걱정했던 것과 같이 MBC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mouloud_B5",
+					"name": "mouloud",
+					"id": 3032922379,
+					"id_str": "3032922379",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 708,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10810,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 16:13:17 +0000 2018",
+			"id": 982652542772428800,
+			"id_str": "982652542772428801",
+			"text": "공영방송 정상화에 대한 시민들의 지지를 등에 업고 취임한 MBC 최승호 사장이 '젊은 방송'을 추구한답시고 100분토론에서 황교익이랑 음식 토론하고 있는 건 징후적인 장면 같다. 파업 때 미리 걱정했던 것과… https://t.co/F2YjP1nep4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F2YjP1nep4",
+						"expanded_url": "https://twitter.com/i/web/status/982652542772428801",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3032922379,
+				"id_str": "3032922379",
+				"name": "mouloud",
+				"screen_name": "mouloud_B5",
+				"location": "",
+				"description": "문재인이 반대하는 사람/도종환 때문에 혈압 올라 쥬글맛인 사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 720,
+				"friends_count": 262,
+				"listed_count": 7,
+				"created_at": "Fri Feb 20 13:49:24 +0000 2015",
+				"favourites_count": 5988,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10197,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827408480415780864/fJm8_VG-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3032922379/1456039332",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 07 17:16:30 +0000 2018",
 		"id": 982668449867427800,
 		"id_str": "982668449867427840",
@@ -510,7 +1058,7 @@ Grailbird.data.tweets_2018_04 =
 				"name": "☙𝙼𝙸𝙻𝚀𝚄𝙴𝚃𝙾𝙰𝚂𝚃 𝚂𝙷𝙸𝚃𝙿𝙾𝚂𝚃 𝙷𝙾𝚂𝚃❧",
 				"screen_name": "LordDarthBob",
 				"location": "MN,Erin/They/She,18,⚢,INFP-T",
-				"description": "Public good, personal liberty • Code witch, banjoist, collegiate • Tweets: ☭,⚧,⚛,🌍,💻 • #LGBTQ🏳️‍🌈 #Ω #FBR • Priv: @LewdDarthBob • @ChorusMortis💕",
+				"description": "Public good, personal liberty • Code witch, banjoist, collegiate • Tweets: ☭,⚧,⚛,🌍,💻 • #LGBTQ🏳️🌈 #Ω #FBR • Priv: @LewdDarthBob • @ChorusMortis💕",
 				"url": "https://t.co/x1P4CVbUSN",
 				"entities": {
 					"url": {
@@ -703,7 +1251,7 @@ Grailbird.data.tweets_2018_04 =
 				"name": "캥다!",
 				"screen_name": "kangdanista",
 				"location": "Brooklyn, NY",
-				"description": "\"어린이는 아래의 세 가지 세상에서 온갖 것을 미화시킨다. 이야기 세상, 노래 세상, 그림 세상.\" || 👩🏻‍🎨🏳️‍🌈 || art👉 @kangdanakang",
+				"description": "\"어린이는 아래의 세 가지 세상에서 온갖 것을 미화시킨다. 이야기 세상, 노래 세상, 그림 세상.\" || 👩🏻🎨🏳️🌈 || art👉 @kangdanakang",
 				"url": "https://t.co/HS8KQj82Tk",
 				"entities": {
 					"url": {
