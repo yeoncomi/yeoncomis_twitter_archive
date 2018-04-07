@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 06:42:24 +0000 2018",
+		"id": 982508873369108500,
+		"id_str": "982508873369108480",
+		"text": "RT @bizar_wy: 천안문 광장 보니 생각났는데 대만인들이 천안문의 중화인민공화국만세 라고 써있는 곳 앞에서 머리랑 손동작으로 인/공화 를 가리도록(중화민국 만세가 됨) 사진을 찍는게 유행이었다고 https://t.co/wW6HQVQqIE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bizar_wy",
+					"name": "WUYA",
+					"id": 212519324,
+					"id_str": "212519324",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982308761531379700,
+					"id_str": "982308761531379712",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+					"url": "https://t.co/wW6HQVQqIE",
+					"display_url": "pic.twitter.com/wW6HQVQqIE",
+					"expanded_url": "https://twitter.com/bizar_wy/status/982308773569032192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982308773569032200,
+					"source_status_id_str": "982308773569032192",
+					"source_user_id": 212519324,
+					"source_user_id_str": "212519324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982308761531379700,
+					"id_str": "982308761531379712",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+					"url": "https://t.co/wW6HQVQqIE",
+					"display_url": "pic.twitter.com/wW6HQVQqIE",
+					"expanded_url": "https://twitter.com/bizar_wy/status/982308773569032192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982308773569032200,
+					"source_status_id_str": "982308773569032192",
+					"source_user_id": 212519324,
+					"source_user_id_str": "212519324"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10792,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 17:27:16 +0000 2018",
+			"id": 982308773569032200,
+			"id_str": "982308773569032192",
+			"text": "천안문 광장 보니 생각났는데 대만인들이 천안문의 중화인민공화국만세 라고 써있는 곳 앞에서 머리랑 손동작으로 인/공화 를 가리도록(중화민국 만세가 됨) 사진을 찍는게 유행이었다고 https://t.co/wW6HQVQqIE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982308761531379700,
+						"id_str": "982308761531379712",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+						"url": "https://t.co/wW6HQVQqIE",
+						"display_url": "pic.twitter.com/wW6HQVQqIE",
+						"expanded_url": "https://twitter.com/bizar_wy/status/982308773569032192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982308761531379700,
+						"id_str": "982308761531379712",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaHcnTbU8AAPMgx.jpg",
+						"url": "https://t.co/wW6HQVQqIE",
+						"display_url": "pic.twitter.com/wW6HQVQqIE",
+						"expanded_url": "https://twitter.com/bizar_wy/status/982308773569032192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 532,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 212519324,
+				"id_str": "212519324",
+				"name": "WUYA",
+				"screen_name": "bizar_wy",
+				"location": "산뜻하고 대담한 20c 동아시아",
+				"description": "그림쟁이. 민국시대를 사는 캐릭터들을 그리고 씁니다. 청말민초, 동아시아 식민·개항도시,조계 팜. (요즘 주력은 칭다오)\n汉语有点/日語少しOK",
+				"url": "https://t.co/z0tnynUhpV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z0tnynUhpV",
+								"expanded_url": "http://weird-wuya.tumblr.com/",
+								"display_url": "weird-wuya.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 479,
+				"friends_count": 316,
+				"listed_count": 18,
+				"created_at": "Sat Nov 06 09:18:51 +0000 2010",
+				"favourites_count": 25920,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 79691,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458261495218847746/o7XD3ecz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458261495218847746/o7XD3ecz.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981025664496119808/B1U3AxAO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981025664496119808/B1U3AxAO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212519324/1459693535",
+				"profile_link_color": "165369",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 06:38:53 +0000 2018",
+		"id": 982507988085649400,
+		"id_str": "982507988085649408",
+		"text": "RT @kingkenny1967: 친구가 발견한, 최저가에 한국에서 괌 가는 법. https://t.co/0j7kA4Gd8u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kingkenny1967",
+					"name": "Dumbarton Tam",
+					"id": 121141769,
+					"id_str": "121141769",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982497328815722500,
+					"id_str": "982497328815722496",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+					"url": "https://t.co/0j7kA4Gd8u",
+					"display_url": "pic.twitter.com/0j7kA4Gd8u",
+					"expanded_url": "https://twitter.com/kingkenny1967/status/982497336407412737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982497336407412700,
+					"source_status_id_str": "982497336407412737",
+					"source_user_id": 121141769,
+					"source_user_id_str": "121141769"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982497328815722500,
+					"id_str": "982497328815722496",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+					"url": "https://t.co/0j7kA4Gd8u",
+					"display_url": "pic.twitter.com/0j7kA4Gd8u",
+					"expanded_url": "https://twitter.com/kingkenny1967/status/982497336407412737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982497336407412700,
+					"source_status_id_str": "982497336407412737",
+					"source_user_id": 121141769,
+					"source_user_id_str": "121141769"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10792,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 05:56:33 +0000 2018",
+			"id": 982497336407412700,
+			"id_str": "982497336407412737",
+			"text": "친구가 발견한, 최저가에 한국에서 괌 가는 법. https://t.co/0j7kA4Gd8u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982497328815722500,
+						"id_str": "982497328815722496",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+						"url": "https://t.co/0j7kA4Gd8u",
+						"display_url": "pic.twitter.com/0j7kA4Gd8u",
+						"expanded_url": "https://twitter.com/kingkenny1967/status/982497336407412737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 703,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982497328815722500,
+						"id_str": "982497328815722496",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKIHXTU0AAhXVN.jpg",
+						"url": "https://t.co/0j7kA4Gd8u",
+						"display_url": "pic.twitter.com/0j7kA4Gd8u",
+						"expanded_url": "https://twitter.com/kingkenny1967/status/982497336407412737/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 703,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121141769,
+				"id_str": "121141769",
+				"name": "Dumbarton Tam",
+				"screen_name": "kingkenny1967",
+				"location": "Melbourne, Victoria",
+				"description": "a Melburnian.",
+				"url": "https://t.co/hDcKf7ltbK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hDcKf7ltbK",
+								"expanded_url": "http://Instagram.com/kingkenny1967",
+								"display_url": "Instagram.com/kingkenny1967",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3762,
+				"friends_count": 2574,
+				"listed_count": 96,
+				"created_at": "Mon Mar 08 15:10:30 +0000 2010",
+				"favourites_count": 8409,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30484,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E7EDF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173454955/073.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173454955/073.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792293015951933440/5mThYqd6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792293015951933440/5mThYqd6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121141769/1513306116",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "0C8210",
+				"profile_sidebar_fill_color": "00B32A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 07 04:57:19 +0000 2018",
 		"id": 982482431616860200,
 		"id_str": "982482431616860162",
