@@ -1,6 +1,2405 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 00:57:52 +0000 2018",
+		"id": 982422168779702300,
+		"id_str": "982422168779702273",
+		"text": "RT @Dangerplanet: [유머]카광 욕하던놈들 카붕당했네 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/PlK48YdX4P\n\n카광이 남여갈등소재를 이용해 두 성별간 펀딩을 했을때 어떤 반응이 오는지 실험.\n\n카광은 이제 한단계를 더 올라섰다 생각.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PlK48YdX4P",
+					"expanded_url": "http://bbs.ruliweb.com/best/board/300143/read/37093808",
+					"display_url": "bbs.ruliweb.com/best/board/300…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 08:16:48 +0000 2018",
+			"id": 982170242431336400,
+			"id_str": "982170242431336449",
+			"text": "[유머]카광 욕하던놈들 카붕당했네 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/PlK48YdX4P\n\n카광이 남여갈등소재를 이용해 두 성별간 펀딩을 했을때 어떤 반응이 오는지 실험.\n\n카광은 이제 한단계를 더 올라섰… https://t.co/N5nhL4KChd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PlK48YdX4P",
+						"expanded_url": "http://bbs.ruliweb.com/best/board/300143/read/37093808",
+						"display_url": "bbs.ruliweb.com/best/board/300…",
+						"indices": [
+							27,
+							50
+						]
+					},
+					{
+						"url": "https://t.co/N5nhL4KChd",
+						"expanded_url": "https://twitter.com/i/web/status/982170242431336449",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1689,
+				"friends_count": 1292,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 41471,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 400,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 00:57:41 +0000 2018",
+		"id": 982422122214518800,
+		"id_str": "982422122214518785",
+		"text": "RT @Dangerplanet: 이부분은 현재 커뮤니티들이 극도로 경계하고 있는 부분이 어디인지 극명하게 드러냄. https://t.co/Bq33Tk3yXp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982175483386183700,
+					"id_str": "982175483386183680",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+					"url": "https://t.co/Bq33Tk3yXp",
+					"display_url": "pic.twitter.com/Bq33Tk3yXp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 766,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 766,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175653750386700,
+					"source_status_id_str": "982175653750386688",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982175483386183700,
+					"id_str": "982175483386183680",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+					"url": "https://t.co/Bq33Tk3yXp",
+					"display_url": "pic.twitter.com/Bq33Tk3yXp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 766,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 766,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175653750386700,
+					"source_status_id_str": "982175653750386688",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				},
+				{
+					"id": 982175527531307000,
+					"id_str": "982175527531307012",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjcEGV4AQvF9-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjcEGV4AQvF9-.jpg",
+					"url": "https://t.co/Bq33Tk3yXp",
+					"display_url": "pic.twitter.com/Bq33Tk3yXp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 713,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 463,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175653750386700,
+					"source_status_id_str": "982175653750386688",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				},
+				{
+					"id": 982175566005596200,
+					"id_str": "982175566005596165",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjeTbU8AUFEK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjeTbU8AUFEK9.jpg",
+					"url": "https://t.co/Bq33Tk3yXp",
+					"display_url": "pic.twitter.com/Bq33Tk3yXp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 689,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 585,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175653750386700,
+					"source_status_id_str": "982175653750386688",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 08:38:18 +0000 2018",
+			"id": 982175653750386700,
+			"id_str": "982175653750386688",
+			"text": "이부분은 현재 커뮤니티들이 극도로 경계하고 있는 부분이 어디인지 극명하게 드러냄. https://t.co/Bq33Tk3yXp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982175483386183700,
+						"id_str": "982175483386183680",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+						"url": "https://t.co/Bq33Tk3yXp",
+						"display_url": "pic.twitter.com/Bq33Tk3yXp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 601,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 677,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 766,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982175483386183700,
+						"id_str": "982175483386183680",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjZfpUwAAbRsD.jpg",
+						"url": "https://t.co/Bq33Tk3yXp",
+						"display_url": "pic.twitter.com/Bq33Tk3yXp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 601,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 677,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 766,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982175527531307000,
+						"id_str": "982175527531307012",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjcEGV4AQvF9-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjcEGV4AQvF9-.jpg",
+						"url": "https://t.co/Bq33Tk3yXp",
+						"display_url": "pic.twitter.com/Bq33Tk3yXp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 713,
+								"h": 463,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 713,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982175566005596200,
+						"id_str": "982175566005596165",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjeTbU8AUFEK9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjeTbU8AUFEK9.jpg",
+						"url": "https://t.co/Bq33Tk3yXp",
+						"display_url": "pic.twitter.com/Bq33Tk3yXp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175653750386688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 689,
+								"h": 585,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 689,
+								"h": 585,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 982172021936107500,
+			"in_reply_to_status_id_str": "982172021936107520",
+			"in_reply_to_user_id": 150878657,
+			"in_reply_to_user_id_str": "150878657",
+			"in_reply_to_screen_name": "Dangerplanet",
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1689,
+				"friends_count": 1292,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 41471,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 00:57:22 +0000 2018",
+		"id": 982422042183008300,
+		"id_str": "982422042183008258",
+		"text": "RT @Dangerplanet: 그러니까 돌맹이에 딱지를 붙여도 팔릴거다라는 소리는 농담이 아니었던거지 본인이 해봤으니까 ㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 08:23:52 +0000 2018",
+			"id": 982172021936107500,
+			"id_str": "982172021936107520",
+			"text": "그러니까 돌맹이에 딱지를 붙여도 팔릴거다라는 소리는 농담이 아니었던거지 본인이 해봤으니까 ㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 982170779021328400,
+			"in_reply_to_status_id_str": "982170779021328385",
+			"in_reply_to_user_id": 150878657,
+			"in_reply_to_user_id_str": "150878657",
+			"in_reply_to_screen_name": "Dangerplanet",
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1689,
+				"friends_count": 1292,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 41471,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 00:57:18 +0000 2018",
+		"id": 982422029377798100,
+		"id_str": "982422029377798145",
+		"text": "RT @Dangerplanet: 카광의 실험결과를 보면 현재 펀딩사이트나 출판쪽 사이드가 공정은 개나주는 상황이라는걸 충분히 인지할 수 있음.ㅋ https://t.co/b5cmxY9OZD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982170367132188700,
+					"id_str": "982170367132188673",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+					"url": "https://t.co/b5cmxY9OZD",
+					"display_url": "pic.twitter.com/b5cmxY9OZD",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982170779021328400,
+					"source_status_id_str": "982170779021328385",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982170367132188700,
+					"id_str": "982170367132188673",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+					"url": "https://t.co/b5cmxY9OZD",
+					"display_url": "pic.twitter.com/b5cmxY9OZD",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982170779021328400,
+					"source_status_id_str": "982170779021328385",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				},
+				{
+					"id": 982170614076137500,
+					"id_str": "982170614076137472",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFe-EDV4AAv6Ba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFe-EDV4AAv6Ba.jpg",
+					"url": "https://t.co/b5cmxY9OZD",
+					"display_url": "pic.twitter.com/b5cmxY9OZD",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982170779021328400,
+					"source_status_id_str": "982170779021328385",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				},
+				{
+					"id": 982170683084947500,
+					"id_str": "982170683084947456",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFfCFIUwAAznVp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFfCFIUwAAznVp.jpg",
+					"url": "https://t.co/b5cmxY9OZD",
+					"display_url": "pic.twitter.com/b5cmxY9OZD",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 921,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 774,
+							"h": 921,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982170779021328400,
+					"source_status_id_str": "982170779021328385",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				},
+				{
+					"id": 982170735937445900,
+					"id_str": "982170735937445891",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFfFKBV4AMidvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFfFKBV4AMidvo.jpg",
+					"url": "https://t.co/b5cmxY9OZD",
+					"display_url": "pic.twitter.com/b5cmxY9OZD",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 735,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 784,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982170779021328400,
+					"source_status_id_str": "982170779021328385",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 08:18:56 +0000 2018",
+			"id": 982170779021328400,
+			"id_str": "982170779021328385",
+			"text": "카광의 실험결과를 보면 현재 펀딩사이트나 출판쪽 사이드가 공정은 개나주는 상황이라는걸 충분히 인지할 수 있음.ㅋ https://t.co/b5cmxY9OZD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982170367132188700,
+						"id_str": "982170367132188673",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+						"url": "https://t.co/b5cmxY9OZD",
+						"display_url": "pic.twitter.com/b5cmxY9OZD",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982170367132188700,
+						"id_str": "982170367132188673",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFevsHUQAEFgNC.jpg",
+						"url": "https://t.co/b5cmxY9OZD",
+						"display_url": "pic.twitter.com/b5cmxY9OZD",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 588,
+								"h": 535,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982170614076137500,
+						"id_str": "982170614076137472",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFe-EDV4AAv6Ba.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFe-EDV4AAv6Ba.jpg",
+						"url": "https://t.co/b5cmxY9OZD",
+						"display_url": "pic.twitter.com/b5cmxY9OZD",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 585,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 585,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 585,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982170683084947500,
+						"id_str": "982170683084947456",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFfCFIUwAAznVp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFfCFIUwAAznVp.jpg",
+						"url": "https://t.co/b5cmxY9OZD",
+						"display_url": "pic.twitter.com/b5cmxY9OZD",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 921,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 774,
+								"h": 921,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982170735937445900,
+						"id_str": "982170735937445891",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFfFKBV4AMidvo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFfFKBV4AMidvo.jpg",
+						"url": "https://t.co/b5cmxY9OZD",
+						"display_url": "pic.twitter.com/b5cmxY9OZD",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982170779021328385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 735,
+								"h": 784,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 638,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 735,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 982170242431336400,
+			"in_reply_to_status_id_str": "982170242431336449",
+			"in_reply_to_user_id": 150878657,
+			"in_reply_to_user_id_str": "150878657",
+			"in_reply_to_screen_name": "Dangerplanet",
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1689,
+				"friends_count": 1292,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 41471,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 146,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 00:54:03 +0000 2018",
+		"id": 982421207982080000,
+		"id_str": "982421207982080000",
+		"text": "RT @Dangerplanet: 날조의 일상화 https://t.co/a1q0CFvxyp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982175724902563800,
+					"id_str": "982175724902563840",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+					"url": "https://t.co/a1q0CFvxyp",
+					"display_url": "pic.twitter.com/a1q0CFvxyp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175746905882625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 742,
+							"h": 707,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175746905882600,
+					"source_status_id_str": "982175746905882625",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982175724902563800,
+					"id_str": "982175724902563840",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+					"url": "https://t.co/a1q0CFvxyp",
+					"display_url": "pic.twitter.com/a1q0CFvxyp",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/982175746905882625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 742,
+							"h": 707,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982175746905882600,
+					"source_status_id_str": "982175746905882625",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 08:38:40 +0000 2018",
+			"id": 982175746905882600,
+			"id_str": "982175746905882625",
+			"text": "날조의 일상화 https://t.co/a1q0CFvxyp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982175724902563800,
+						"id_str": "982175724902563840",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+						"url": "https://t.co/a1q0CFvxyp",
+						"display_url": "pic.twitter.com/a1q0CFvxyp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175746905882625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 742,
+								"h": 707,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 742,
+								"h": 707,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982175724902563800,
+						"id_str": "982175724902563840",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaFjnjXUQAASw1i.jpg",
+						"url": "https://t.co/a1q0CFvxyp",
+						"display_url": "pic.twitter.com/a1q0CFvxyp",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/982175746905882625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 742,
+								"h": 707,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 742,
+								"h": 707,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 982175653750386700,
+			"in_reply_to_status_id_str": "982175653750386688",
+			"in_reply_to_user_id": 150878657,
+			"in_reply_to_user_id_str": "150878657",
+			"in_reply_to_screen_name": "Dangerplanet",
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1689,
+				"friends_count": 1292,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 41471,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 07 00:52:13 +0000 2018",
+		"id": 982420746914811900,
+		"id_str": "982420746914811904",
+		"text": "RT @instiz: 곰을 주워 키웠다가 23년이 지난 한 러시안 부부ㄷㄷ https://t.co/IMoNj8RD8L https://t.co/ccyjsA55Iu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "instiz",
+					"name": "인스티즈 연예소식",
+					"id": 184363884,
+					"id_str": "184363884",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IMoNj8RD8L",
+					"expanded_url": "http://instiz.net/pt/5251212",
+					"display_url": "instiz.net/pt/5251212",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 982216557605544000,
+					"id_str": "982216557605543936",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+					"url": "https://t.co/ccyjsA55Iu",
+					"display_url": "pic.twitter.com/ccyjsA55Iu",
+					"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 626,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 355,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 723,
+							"h": 1385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982216594712543200,
+					"source_status_id_str": "982216594712543232",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982216557605544000,
+					"id_str": "982216557605543936",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+					"url": "https://t.co/ccyjsA55Iu",
+					"display_url": "pic.twitter.com/ccyjsA55Iu",
+					"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 626,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 355,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 723,
+							"h": 1385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982216594712543200,
+					"source_status_id_str": "982216594712543232",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 982216557592961000,
+					"id_str": "982216557592961024",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGIwU_V4AAesS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGIwU_V4AAesS7.jpg",
+					"url": "https://t.co/ccyjsA55Iu",
+					"display_url": "pic.twitter.com/ccyjsA55Iu",
+					"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 654,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 1326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982216594712543200,
+					"source_status_id_str": "982216594712543232",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 982216557601243100,
+					"id_str": "982216557601243138",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGIwVBUQAIuJMt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGIwVBUQAIuJMt.jpg",
+					"url": "https://t.co/ccyjsA55Iu",
+					"display_url": "pic.twitter.com/ccyjsA55Iu",
+					"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 723,
+							"h": 1319,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982216594712543200,
+					"source_status_id_str": "982216594712543232",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 982216557609676800,
+					"id_str": "982216557609676800",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGIwVDU8AAJPco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGIwVDU8AAJPco.jpg",
+					"url": "https://t.co/ccyjsA55Iu",
+					"display_url": "pic.twitter.com/ccyjsA55Iu",
+					"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 353,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 1391,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982216594712543200,
+					"source_status_id_str": "982216594712543232",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 707,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10775,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 11:20:59 +0000 2018",
+			"id": 982216594712543200,
+			"id_str": "982216594712543232",
+			"text": "곰을 주워 키웠다가 23년이 지난 한 러시안 부부ㄷㄷ https://t.co/IMoNj8RD8L https://t.co/ccyjsA55Iu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IMoNj8RD8L",
+						"expanded_url": "http://instiz.net/pt/5251212",
+						"display_url": "instiz.net/pt/5251212",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 982216557605544000,
+						"id_str": "982216557605543936",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+						"url": "https://t.co/ccyjsA55Iu",
+						"display_url": "pic.twitter.com/ccyjsA55Iu",
+						"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 626,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 355,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 723,
+								"h": 1385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982216557605544000,
+						"id_str": "982216557605543936",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGIwVCV4AAuovJ.jpg",
+						"url": "https://t.co/ccyjsA55Iu",
+						"display_url": "pic.twitter.com/ccyjsA55Iu",
+						"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 626,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 355,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 723,
+								"h": 1385,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982216557592961000,
+						"id_str": "982216557592961024",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGIwU_V4AAesS7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGIwU_V4AAesS7.jpg",
+						"url": "https://t.co/ccyjsA55Iu",
+						"display_url": "pic.twitter.com/ccyjsA55Iu",
+						"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 654,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 723,
+								"h": 1326,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982216557601243100,
+						"id_str": "982216557601243138",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGIwVBUQAIuJMt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGIwVBUQAIuJMt.jpg",
+						"url": "https://t.co/ccyjsA55Iu",
+						"display_url": "pic.twitter.com/ccyjsA55Iu",
+						"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 723,
+								"h": 1319,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 373,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 658,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982216557609676800,
+						"id_str": "982216557609676800",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGIwVDU8AAJPco.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGIwVDU8AAJPco.jpg",
+						"url": "https://t.co/ccyjsA55Iu",
+						"display_url": "pic.twitter.com/ccyjsA55Iu",
+						"expanded_url": "https://twitter.com/instiz/status/982216594712543232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 353,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 624,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 723,
+								"h": 1391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184363884,
+				"id_str": "184363884",
+				"name": "인스티즈 연예소식",
+				"screen_name": "instiz",
+				"location": "많은 연예계 이슈가 여기서 시작!",
+				"description": "국내 최대의 연예오락 커뮤니티\n인스티즈(instiz, 音思提资)",
+				"url": "https://t.co/kA7Yyj98FV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kA7Yyj98FV",
+								"expanded_url": "http://www.instiz.net",
+								"display_url": "instiz.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 980729,
+				"friends_count": 442799,
+				"listed_count": 919,
+				"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63834,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970955116260990976/jQbZRz2b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970955116260990976/jQbZRz2b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1459522481",
+				"profile_link_color": "0DAB57",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1992,
+			"favorite_count": 978,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1992,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 06 21:12:31 +0000 2018",
 		"id": 982365458220236800,
 		"id_str": "982365458220236800",
@@ -318,8 +2717,8 @@ Grailbird.data.tweets_2018_04 =
 				"id_str": "2988624997",
 				"name": "이엘EL",
 				"screen_name": "1EELL1",
-				"location": "🏳️‍🌈",
-				"description": "퀴어🏳️‍🌈 / 폴리아모리 / 호모플렉시블 / 일상 / 일본 거주 / FUBM FREE 맞팔은 멘션주세요😁 / 뒷계 오세요@2EELL2",
+				"location": "🏳️🌈",
+				"description": "퀴어🏳️🌈 / 폴리아모리 / 호모플렉시블 / 일상 / 일본 거주 / FUBM FREE 맞팔은 멘션주세요😁 / 뒷계 오세요@2EELL2",
 				"url": "https://t.co/A3RHHwNWRX",
 				"entities": {
 					"url": {
