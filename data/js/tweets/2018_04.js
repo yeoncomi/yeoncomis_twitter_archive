@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 05:46:06 +0000 2018",
+		"id": 982857092632428500,
+		"id_str": "982857092632428544",
+		"text": "RT @Mysticblue1024: 몸이 좋을거같은 후보다 https://t.co/B9youENPuH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mysticblue1024",
+					"name": "고스로리형 마녀",
+					"id": 233086416,
+					"id_str": "233086416",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982525654301225000,
+					"id_str": "982525654301224961",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+					"url": "https://t.co/B9youENPuH",
+					"display_url": "pic.twitter.com/B9youENPuH",
+					"expanded_url": "https://twitter.com/Mysticblue1024/status/982525704418967552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 782,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982525704418967600,
+					"source_status_id_str": "982525704418967552",
+					"source_user_id": 233086416,
+					"source_user_id_str": "233086416"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982525654301225000,
+					"id_str": "982525654301224961",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+					"url": "https://t.co/B9youENPuH",
+					"display_url": "pic.twitter.com/B9youENPuH",
+					"expanded_url": "https://twitter.com/Mysticblue1024/status/982525704418967552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 782,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982525704418967600,
+					"source_status_id_str": "982525704418967552",
+					"source_user_id": 233086416,
+					"source_user_id_str": "233086416"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 709,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10817,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 07:49:17 +0000 2018",
+			"id": 982525704418967600,
+			"id_str": "982525704418967552",
+			"text": "몸이 좋을거같은 후보다 https://t.co/B9youENPuH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982525654301225000,
+						"id_str": "982525654301224961",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+						"url": "https://t.co/B9youENPuH",
+						"display_url": "pic.twitter.com/B9youENPuH",
+						"expanded_url": "https://twitter.com/Mysticblue1024/status/982525704418967552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 782,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982525654301225000,
+						"id_str": "982525654301224961",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaKh4H9VMAEw9hQ.jpg",
+						"url": "https://t.co/B9youENPuH",
+						"display_url": "pic.twitter.com/B9youENPuH",
+						"expanded_url": "https://twitter.com/Mysticblue1024/status/982525704418967552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 782,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233086416,
+				"id_str": "233086416",
+				"name": "고스로리형 마녀",
+				"screen_name": "Mysticblue1024",
+				"location": "마녀의 숲",
+				"description": "Girls can do anything★\ne-AMUSEMENT : MYSTIC/ \n의뢰를 받으면 팔찌를 만들어 드립니다. \n샘플사진은 인스타를 참고해 주세요/프로아나, 프로미아 팔찌는 만들지 않습니다\n(❛ั◡˜๑)♡(•ㅅ• ) @jayo2dx",
+				"url": "https://t.co/z5A5SR0reI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z5A5SR0reI",
+								"expanded_url": "https://www.instagram.com/mysticblue1024/",
+								"display_url": "instagram.com/mysticblue1024/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4564,
+				"friends_count": 1261,
+				"listed_count": 54,
+				"created_at": "Sun Jan 02 06:55:54 +0000 2011",
+				"favourites_count": 3706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 342365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980434722403713025/2soEXl76_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980434722403713025/2soEXl76_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233086416/1522588825",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 08 05:00:03 +0000 2018",
 		"id": 982845505532121100,
 		"id_str": "982845505532121093",
