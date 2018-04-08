@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 06:31:34 +0000 2018",
+		"id": 982868535566221300,
+		"id_str": "982868535566221312",
+		"text": "RT @archrite1: 롯데리아에 대해 아주 정확히 평가를 하고 있군\n영국인의 입맛에 대한 평가를 수정해야겠어 https://t.co/a7GiRgwjnU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "archrite1",
+					"name": "아크리트 / Archrite",
+					"id": 720625119823986700,
+					"id_str": "720625119823986688",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982851003375431700,
+					"id_str": "982851003375431680",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+					"url": "https://t.co/a7GiRgwjnU",
+					"display_url": "pic.twitter.com/a7GiRgwjnU",
+					"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 846,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 469,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982851140625711100,
+					"source_status_id_str": "982851140625711106",
+					"source_user_id": 720625119823986700,
+					"source_user_id_str": "720625119823986688"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982851003375431700,
+					"id_str": "982851003375431680",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+					"url": "https://t.co/a7GiRgwjnU",
+					"display_url": "pic.twitter.com/a7GiRgwjnU",
+					"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 846,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 469,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982851140625711100,
+					"source_status_id_str": "982851140625711106",
+					"source_user_id": 720625119823986700,
+					"source_user_id_str": "720625119823986688"
+				},
+				{
+					"id": 982851038393778200,
+					"id_str": "982851038393778176",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaPJz-KVwAAcgsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaPJz-KVwAAcgsh.jpg",
+					"url": "https://t.co/a7GiRgwjnU",
+					"display_url": "pic.twitter.com/a7GiRgwjnU",
+					"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982851140625711100,
+					"source_status_id_str": "982851140625711106",
+					"source_user_id": 720625119823986700,
+					"source_user_id_str": "720625119823986688"
+				},
+				{
+					"id": 982851050871779300,
+					"id_str": "982851050871779328",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaPJ0spU8AAsXcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaPJ0spU8AAsXcC.jpg",
+					"url": "https://t.co/a7GiRgwjnU",
+					"display_url": "pic.twitter.com/a7GiRgwjnU",
+					"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 474,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982851140625711100,
+					"source_status_id_str": "982851140625711106",
+					"source_user_id": 720625119823986700,
+					"source_user_id_str": "720625119823986688"
+				},
+				{
+					"id": 982851061345017900,
+					"id_str": "982851061345017857",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DaPJ1TqV4AEiV98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaPJ1TqV4AEiV98.jpg",
+					"url": "https://t.co/a7GiRgwjnU",
+					"display_url": "pic.twitter.com/a7GiRgwjnU",
+					"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 843,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 472,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982851140625711100,
+					"source_status_id_str": "982851140625711106",
+					"source_user_id": 720625119823986700,
+					"source_user_id_str": "720625119823986688"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 709,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10820,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 08 05:22:27 +0000 2018",
+			"id": 982851140625711100,
+			"id_str": "982851140625711106",
+			"text": "롯데리아에 대해 아주 정확히 평가를 하고 있군\n영국인의 입맛에 대한 평가를 수정해야겠어 https://t.co/a7GiRgwjnU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982851003375431700,
+						"id_str": "982851003375431680",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+						"url": "https://t.co/a7GiRgwjnU",
+						"display_url": "pic.twitter.com/a7GiRgwjnU",
+						"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 846,
+								"h": 469,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982851003375431700,
+						"id_str": "982851003375431680",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaPJx7tUMAAHCVy.jpg",
+						"url": "https://t.co/a7GiRgwjnU",
+						"display_url": "pic.twitter.com/a7GiRgwjnU",
+						"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 846,
+								"h": 469,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 846,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982851038393778200,
+						"id_str": "982851038393778176",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DaPJz-KVwAAcgsh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaPJz-KVwAAcgsh.jpg",
+						"url": "https://t.co/a7GiRgwjnU",
+						"display_url": "pic.twitter.com/a7GiRgwjnU",
+						"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 842,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 842,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982851050871779300,
+						"id_str": "982851050871779328",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DaPJ0spU8AAsXcC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaPJ0spU8AAsXcC.jpg",
+						"url": "https://t.co/a7GiRgwjnU",
+						"display_url": "pic.twitter.com/a7GiRgwjnU",
+						"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 847,
+								"h": 474,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 847,
+								"h": 474,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 982851061345017900,
+						"id_str": "982851061345017857",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DaPJ1TqV4AEiV98.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaPJ1TqV4AEiV98.jpg",
+						"url": "https://t.co/a7GiRgwjnU",
+						"display_url": "pic.twitter.com/a7GiRgwjnU",
+						"expanded_url": "https://twitter.com/archrite1/status/982851140625711106/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 843,
+								"h": 472,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 843,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720625119823986700,
+				"id_str": "720625119823986688",
+				"name": "아크리트 / Archrite",
+				"screen_name": "archrite1",
+				"location": "대한민국 해운대구 →대전시 유성구",
+				"description": "저는 알트라이트가 아니라 아크라이트입니다 / 한밭대 17학번 Sung Kyung Won / 블락미러 사용 중 / 18.1.13~",
+				"url": "https://t.co/0A4dw4nxFq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0A4dw4nxFq",
+								"expanded_url": "https://ask.fm/Archrite1",
+								"display_url": "ask.fm/Archrite1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 321,
+				"friends_count": 253,
+				"listed_count": 7,
+				"created_at": "Thu Apr 14 14:49:51 +0000 2016",
+				"favourites_count": 1521,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43582,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890577133050806272/LNdIHKls_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890577133050806272/LNdIHKls_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720625119823986688/1491166024",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 08 05:46:06 +0000 2018",
 		"id": 982857092632428500,
 		"id_str": "982857092632428544",
