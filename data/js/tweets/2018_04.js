@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 03:13:11 +0000 2018",
+		"id": 982818609553596400,
+		"id_str": "982818609553596422",
+		"text": "RT @YaguMolayo_: 오늘의 야구장 난입. \n\n독수리 한마리가 한국으로 와서 한화\n 이글스를 도와달라고 애원하고 있다. https://t.co/5XVkvleZKB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YaguMolayo_",
+					"name": "칰칰폽폽",
+					"id": 1559854135,
+					"id_str": "1559854135",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982090861100974100,
+					"id_str": "982090861100974080",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+					"url": "https://t.co/5XVkvleZKB",
+					"display_url": "pic.twitter.com/5XVkvleZKB",
+					"expanded_url": "https://twitter.com/YaguMolayo_/status/982091321941753856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982091321941753900,
+					"source_status_id_str": "982091321941753856",
+					"source_user_id": 1559854135,
+					"source_user_id_str": "1559854135"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982090861100974100,
+					"id_str": "982090861100974080",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+					"url": "https://t.co/5XVkvleZKB",
+					"display_url": "pic.twitter.com/5XVkvleZKB",
+					"expanded_url": "https://twitter.com/YaguMolayo_/status/982091321941753856/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982091321941753900,
+					"source_status_id_str": "982091321941753856",
+					"source_user_id": 1559854135,
+					"source_user_id_str": "1559854135",
+					"video_info": {
+						"aspect_ratio": [
+							235,
+							128
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DaEWb1EUwAAh3jR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 708,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10813,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 03:03:12 +0000 2018",
+			"id": 982091321941753900,
+			"id_str": "982091321941753856",
+			"text": "오늘의 야구장 난입. \n\n독수리 한마리가 한국으로 와서 한화\n 이글스를 도와달라고 애원하고 있다. https://t.co/5XVkvleZKB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982090861100974100,
+						"id_str": "982090861100974080",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+						"url": "https://t.co/5XVkvleZKB",
+						"display_url": "pic.twitter.com/5XVkvleZKB",
+						"expanded_url": "https://twitter.com/YaguMolayo_/status/982091321941753856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982090861100974100,
+						"id_str": "982090861100974080",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DaEWb1EUwAAh3jR.jpg",
+						"url": "https://t.co/5XVkvleZKB",
+						"display_url": "pic.twitter.com/5XVkvleZKB",
+						"expanded_url": "https://twitter.com/YaguMolayo_/status/982091321941753856/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 256,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								235,
+								128
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DaEWb1EUwAAh3jR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1559854135,
+				"id_str": "1559854135",
+				"name": "칰칰폽폽",
+				"screen_name": "YaguMolayo_",
+				"location": "",
+				"description": "HanwhaEagles / STLouisCardinals / YokohamaDeNABayStars / STLouisBlues",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1014,
+				"friends_count": 684,
+				"listed_count": 14,
+				"created_at": "Mon Jul 01 06:38:40 +0000 2013",
+				"favourites_count": 69,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41642,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000012619592/1e1780e126e2c7355a907adc7318deb0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000012619592/1e1780e126e2c7355a907adc7318deb0.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870125643228303360/DoJFY5Up_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870125643228303360/DoJFY5Up_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1559854135/1372661322",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4082,
+			"favorite_count": 1219,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4082,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 08 02:30:53 +0000 2018",
+		"id": 982807966301667300,
+		"id_str": "982807966301667334",
+		"text": "yeoncomi\nツイート数:41(前日比:+9)\nRTした数:38(前日比:+12)\nRTされた数:0(前日比:0)\n送ったリプライ数:1(前日比:0)\n受け取ったリプライ数:0(前日比:0)\nいいねされた数:0(前日比:0)\nhttps://t.co/k4kBmDY1iR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4kBmDY1iR",
+					"expanded_url": "http://utabami.com/TodaysTwitterLife",
+					"display_url": "utabami.com/TodaysTwitterL…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 708,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10813,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Apr 08 00:44:35 +0000 2018",
 		"id": 982781215085215700,
 		"id_str": "982781215085215744",
