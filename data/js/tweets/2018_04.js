@@ -1,6 +1,1275 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 17:23:57 +0000 2018",
+		"id": 983757488045486100,
+		"id_str": "983757488045486081",
+		"text": "구아아악",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10943,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 10 17:21:14 +0000 2018",
+		"id": 983756805804208100,
+		"id_str": "983756805804208128",
+		"text": "저러면 내 레거시 블베 트위터도 뒤지는거 아닌가",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10943,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 10 17:20:53 +0000 2018",
+		"id": 983756717006585900,
+		"id_str": "983756717006585856",
+		"text": "RT @udaqueness: https://t.co/RretczsGfs 작년에 공지한대로, 2018년 6월 19일 트위터는 사이트 스트림과 유저 스트림을 없애기로 했는데 이에 따라 트윗봇, 자네터 등등 플랫폼 불문 서드파티 클라이언트에서는 푸쉬 알림…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "udaqueness",
+					"name": "유닼",
+					"id": 325863257,
+					"id_str": "325863257",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RretczsGfs",
+					"expanded_url": "http://apps-of-a-feather.com/",
+					"display_url": "apps-of-a-feather.com",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10943,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 04:32:54 +0000 2018",
+			"id": 983201061476470800,
+			"id_str": "983201061476470784",
+			"text": "https://t.co/RretczsGfs 작년에 공지한대로, 2018년 6월 19일 트위터는 사이트 스트림과 유저 스트림을 없애기로 했는데 이에 따라 트윗봇, 자네터 등등 플랫폼 불문 서드파티 클라이언트에… https://t.co/MCTKK2QlrT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RretczsGfs",
+						"expanded_url": "http://apps-of-a-feather.com/",
+						"display_url": "apps-of-a-feather.com",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/MCTKK2QlrT",
+						"expanded_url": "https://twitter.com/i/web/status/983201061476470784",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 325863257,
+				"id_str": "325863257",
+				"name": "유닼",
+				"screen_name": "udaqueness",
+				"location": "Cambridge, MA",
+				"description": "용서와 정의의 이름으로 널 사랑하지 않겠다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13321,
+				"friends_count": 655,
+				"listed_count": 95,
+				"created_at": "Wed Jun 29 00:25:17 +0000 2011",
+				"favourites_count": 1564,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 201198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AFA1C4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875497924398129153/8fW3GEy9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875497924398129153/8fW3GEy9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/325863257/1399825445",
+				"profile_link_color": "4800B3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 515,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 10 17:18:49 +0000 2018",
+		"id": 983756199463043100,
+		"id_str": "983756199463043078",
+		"text": "RT @Sazanami_kai_2: ‘정액제’ https://t.co/UvfudgIjoj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sazanami_kai_2",
+					"name": "漣改二 「ᴴᴬᴾᴱ」🔞",
+					"id": 2695223888,
+					"id_str": "2695223888",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983624545926955000,
+					"id_str": "983624545926955009",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+					"url": "https://t.co/UvfudgIjoj",
+					"display_url": "pic.twitter.com/UvfudgIjoj",
+					"expanded_url": "https://twitter.com/Sazanami_kai_2/status/983624554235887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 823,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 823,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983624554235887600,
+					"source_status_id_str": "983624554235887616",
+					"source_user_id": 2695223888,
+					"source_user_id_str": "2695223888"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983624545926955000,
+					"id_str": "983624545926955009",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+					"url": "https://t.co/UvfudgIjoj",
+					"display_url": "pic.twitter.com/UvfudgIjoj",
+					"expanded_url": "https://twitter.com/Sazanami_kai_2/status/983624554235887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 823,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 823,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983624554235887600,
+					"source_status_id_str": "983624554235887616",
+					"source_user_id": 2695223888,
+					"source_user_id_str": "2695223888"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10943,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 08:35:43 +0000 2018",
+			"id": 983624554235887600,
+			"id_str": "983624554235887616",
+			"text": "‘정액제’ https://t.co/UvfudgIjoj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983624545926955000,
+						"id_str": "983624545926955009",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+						"url": "https://t.co/UvfudgIjoj",
+						"display_url": "pic.twitter.com/UvfudgIjoj",
+						"expanded_url": "https://twitter.com/Sazanami_kai_2/status/983624554235887616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 823,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 823,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983624545926955000,
+						"id_str": "983624545926955009",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaaJUCRUwAEJB9Y.jpg",
+						"url": "https://t.co/UvfudgIjoj",
+						"display_url": "pic.twitter.com/UvfudgIjoj",
+						"expanded_url": "https://twitter.com/Sazanami_kai_2/status/983624554235887616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 823,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 823,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2695223888,
+				"id_str": "2695223888",
+				"name": "漣改二 「ᴴᴬᴾᴱ」🔞",
+				"screen_name": "Sazanami_kai_2",
+				"location": "Sangvis Ferri & Sazanami",
+				"description": "하페",
+				"url": "https://t.co/xn9GhkghZP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xn9GhkghZP",
+								"expanded_url": "http://DM.open.mention.lover.kr",
+								"display_url": "DM.open.mention.lover.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2096,
+				"friends_count": 703,
+				"listed_count": 32,
+				"created_at": "Thu Jul 31 09:05:06 +0000 2014",
+				"favourites_count": 45427,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6307,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938045773966540800/owNPMtai_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938045773966540800/owNPMtai_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695223888/1509643639",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 10 17:18:40 +0000 2018",
+		"id": 983756159159910400,
+		"id_str": "983756159159910400",
+		"text": "RT @HuffPost: 👉 @JacqTheStripper explains how the #MeToo movement has excluded sex workers. https://t.co/fZXfOrquJw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeToo",
+					"indices": [
+						50,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuffPost",
+					"name": "HuffPost",
+					"id": 14511951,
+					"id_str": "14511951",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "JacqTheStripper",
+					"name": "Jacq the Stripper",
+					"id": 230952167,
+					"id_str": "230952167",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983737170870620200,
+					"id_str": "983737170870620160",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+					"url": "https://t.co/fZXfOrquJw",
+					"display_url": "pic.twitter.com/fZXfOrquJw",
+					"expanded_url": "https://twitter.com/HuffPost/status/983755237923016704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983755237923016700,
+					"source_status_id_str": "983755237923016704",
+					"source_user_id": 14511951,
+					"source_user_id_str": "14511951"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983737170870620200,
+					"id_str": "983737170870620160",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+					"url": "https://t.co/fZXfOrquJw",
+					"display_url": "pic.twitter.com/fZXfOrquJw",
+					"expanded_url": "https://twitter.com/HuffPost/status/983755237923016704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983755237923016700,
+					"source_status_id_str": "983755237923016704",
+					"source_user_id": 14511951,
+					"source_user_id_str": "14511951",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 141933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/640x360/uTSW8mKcAqE6iJ0Z.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/320x180/waYFSdkxsKj1NRaQ.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/983737170870620160/pl/Nx_a5lB-rqMKwWL-.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/1280x720/XL3c2WY1eA6mYszI.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "\"Yes, You Can Be A Stripper And A Feminist.\"",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 14511951,
+							"id_str": "14511951",
+							"name": "HuffPost",
+							"screen_name": "HuffPost",
+							"location": "",
+							"description": "Know what's real.",
+							"url": "https://t.co/3OfNk6hcEA",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/3OfNk6hcEA",
+											"expanded_url": "http://www.huffingtonpost.com",
+											"display_url": "huffingtonpost.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11540843,
+							"friends_count": 5741,
+							"listed_count": 84740,
+							"created_at": "Thu Apr 24 14:07:28 +0000 2008",
+							"favourites_count": 1188,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 501612,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "2E7060",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14511951/1522965341",
+							"profile_link_color": "0DBE98",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E3E2DE",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10943,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 17:15:00 +0000 2018",
+			"id": 983755237923016700,
+			"id_str": "983755237923016704",
+			"text": "👉 @JacqTheStripper explains how the #MeToo movement has excluded sex workers. https://t.co/fZXfOrquJw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MeToo",
+						"indices": [
+							36,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JacqTheStripper",
+						"name": "Jacq the Stripper",
+						"id": 230952167,
+						"id_str": "230952167",
+						"indices": [
+							2,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 983737170870620200,
+						"id_str": "983737170870620160",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+						"url": "https://t.co/fZXfOrquJw",
+						"display_url": "pic.twitter.com/fZXfOrquJw",
+						"expanded_url": "https://twitter.com/HuffPost/status/983755237923016704/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983737170870620200,
+						"id_str": "983737170870620160",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/983737170870620160/img/ChrtLWfU5xopNwEz.jpg",
+						"url": "https://t.co/fZXfOrquJw",
+						"display_url": "pic.twitter.com/fZXfOrquJw",
+						"expanded_url": "https://twitter.com/HuffPost/status/983755237923016704/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 141933,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/640x360/uTSW8mKcAqE6iJ0Z.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/320x180/waYFSdkxsKj1NRaQ.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/983737170870620160/pl/Nx_a5lB-rqMKwWL-.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/983737170870620160/vid/1280x720/XL3c2WY1eA6mYszI.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "\"Yes, You Can Be A Stripper And A Feminist.\"",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14511951,
+				"id_str": "14511951",
+				"name": "HuffPost",
+				"screen_name": "HuffPost",
+				"location": "",
+				"description": "Know what's real.",
+				"url": "https://t.co/3OfNk6hcEA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3OfNk6hcEA",
+								"expanded_url": "http://www.huffingtonpost.com",
+								"display_url": "huffingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11540843,
+				"friends_count": 5741,
+				"listed_count": 84740,
+				"created_at": "Thu Apr 24 14:07:28 +0000 2008",
+				"favourites_count": 1188,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 501612,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "2E7060",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14511951/1522965341",
+				"profile_link_color": "0DBE98",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 10 17:03:04 +0000 2018",
 		"id": 983752232419012600,
 		"id_str": "983752232419012608",
