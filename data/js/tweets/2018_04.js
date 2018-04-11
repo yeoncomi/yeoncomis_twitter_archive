@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 11 20:36:03 +0000 2018",
+		"id": 984168221505810400,
+		"id_str": "984168221505810432",
+		"text": "RT @OMG_Reylo: 일하기 싫어서 이런거 올리고 갑니다. https://t.co/fAAOLCxEag",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OMG_Reylo",
+					"name": "렐로야 토요일에 마감좀",
+					"id": 946285473688830000,
+					"id_str": "946285473688829953",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983972295529128000,
+					"id_str": "983972295529127936",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+					"url": "https://t.co/fAAOLCxEag",
+					"display_url": "pic.twitter.com/fAAOLCxEag",
+					"expanded_url": "https://twitter.com/OMG_Reylo/status/983972336843022336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 782,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 782,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983972336843022300,
+					"source_status_id_str": "983972336843022336",
+					"source_user_id": 946285473688830000,
+					"source_user_id_str": "946285473688829953"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983972295529128000,
+					"id_str": "983972295529127936",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+					"url": "https://t.co/fAAOLCxEag",
+					"display_url": "pic.twitter.com/fAAOLCxEag",
+					"expanded_url": "https://twitter.com/OMG_Reylo/status/983972336843022336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 782,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 782,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983972336843022300,
+					"source_status_id_str": "983972336843022336",
+					"source_user_id": 946285473688830000,
+					"source_user_id_str": "946285473688829953"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 710,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 10967,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 11 07:37:41 +0000 2018",
+			"id": 983972336843022300,
+			"id_str": "983972336843022336",
+			"text": "일하기 싫어서 이런거 올리고 갑니다. https://t.co/fAAOLCxEag",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983972295529128000,
+						"id_str": "983972295529127936",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+						"url": "https://t.co/fAAOLCxEag",
+						"display_url": "pic.twitter.com/fAAOLCxEag",
+						"expanded_url": "https://twitter.com/OMG_Reylo/status/983972336843022336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 435,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 782,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 782,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983972295529128000,
+						"id_str": "983972295529127936",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DafFlufW4AAbiXM.jpg",
+						"url": "https://t.co/fAAOLCxEag",
+						"display_url": "pic.twitter.com/fAAOLCxEag",
+						"expanded_url": "https://twitter.com/OMG_Reylo/status/983972336843022336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 435,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 782,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 782,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 946285473688830000,
+				"id_str": "946285473688829953",
+				"name": "렐로야 토요일에 마감좀",
+				"screen_name": "OMG_Reylo",
+				"location": "savannah",
+				"description": "英雄好色 REY • DIANA • AMARA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 213,
+				"friends_count": 41,
+				"listed_count": 0,
+				"created_at": "Thu Dec 28 07:43:32 +0000 2017",
+				"favourites_count": 879,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15655,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981367266380955648/FIf1hMZu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981367266380955648/FIf1hMZu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/946285473688829953/1515634827",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6710,
+			"favorite_count": 993,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6710,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 11 20:13:14 +0000 2018",
 		"id": 984162480963207200,
 		"id_str": "984162480963207168",
