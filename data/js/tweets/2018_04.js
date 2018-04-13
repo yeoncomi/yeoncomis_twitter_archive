@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 05:26:44 +0000 2018",
+		"id": 984664161274626000,
+		"id_str": "984664161274626048",
+		"text": "RT @deadcatssociety: 한 고전게임 수집가가 NES 카트리지 두개를 샀는데, 꼽아보니 미국에서 찾아보기 힘든 PAL 방식이고 카트리지가 이상하게 무거워 뜯어보니깐 안에 마약이 들어있었다고\nhttps://t.co/TstQuPDMKs ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deadcatssociety",
+					"name": "데드캣",
+					"id": 209173806,
+					"id_str": "209173806",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TstQuPDMKs",
+					"expanded_url": "https://kotaku.com/game-collector-finds-drugs-hidden-inside-nes-cartridge-1825193456/amp",
+					"display_url": "kotaku.com/game-collector…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 711,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 00:12:15 +0000 2018",
+			"id": 984585018256183300,
+			"id_str": "984585018256183296",
+			"text": "한 고전게임 수집가가 NES 카트리지 두개를 샀는데, 꼽아보니 미국에서 찾아보기 힘든 PAL 방식이고 카트리지가 이상하게 무거워 뜯어보니깐 안에 마약이 들어있었다고\nhttps://t.co/TstQuPDMKs https://t.co/ssK3kFrcCs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TstQuPDMKs",
+						"expanded_url": "https://kotaku.com/game-collector-finds-drugs-hidden-inside-nes-cartridge-1825193456/amp",
+						"display_url": "kotaku.com/game-collector…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 984585011956363300,
+						"id_str": "984585011956363264",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Dany2hDVMAAHpQz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dany2hDVMAAHpQz.jpg",
+						"url": "https://t.co/ssK3kFrcCs",
+						"display_url": "pic.twitter.com/ssK3kFrcCs",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/984585018256183296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984585011956363300,
+						"id_str": "984585011956363264",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Dany2hDVMAAHpQz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dany2hDVMAAHpQz.jpg",
+						"url": "https://t.co/ssK3kFrcCs",
+						"display_url": "pic.twitter.com/ssK3kFrcCs",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/984585018256183296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209173806,
+				"id_str": "209173806",
+				"name": "데드캣",
+				"screen_name": "deadcatssociety",
+				"location": "Inject.Me",
+				"description": "I've heard self-reliance is a virtue.\nNow, you’ve heard it.",
+				"url": "https://t.co/gvW6CXdBSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvW6CXdBSO",
+								"expanded_url": "http://ask.fm/deadcatssociety",
+								"display_url": "ask.fm/deadcatssociety",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10132,
+				"friends_count": 862,
+				"listed_count": 200,
+				"created_at": "Thu Oct 28 17:16:58 +0000 2010",
+				"favourites_count": 335,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 365388,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/216551481/buyorDIEdynamictile2.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/216551481/buyorDIEdynamictile2.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948052592688377856/-_yM0R_Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948052592688377856/-_yM0R_Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209173806/1390413748",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1179,
+			"favorite_count": 136,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1179,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 13 05:12:51 +0000 2018",
 		"id": 984660665875947500,
 		"id_str": "984660665875947520",
