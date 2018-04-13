@@ -1,6 +1,735 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 12 23:40:54 +0000 2018",
+		"id": 984577129651224600,
+		"id_str": "984577129651224576",
+		"text": "RT @NorthShireGamin: Is #Zuckerberg even human? https://t.co/w2bXxdk9re",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Zuckerberg",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NorthShireGamin",
+					"name": "David Smetana",
+					"id": 3228584956,
+					"id_str": "3228584956",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983823279872856000,
+					"id_str": "983823279872856064",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+					"url": "https://t.co/w2bXxdk9re",
+					"display_url": "pic.twitter.com/w2bXxdk9re",
+					"expanded_url": "https://twitter.com/NorthShireGamin/status/983823419111288832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 728,
+							"h": 818,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 818,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983823419111288800,
+					"source_status_id_str": "983823419111288832",
+					"source_user_id": 3228584956,
+					"source_user_id_str": "3228584956"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983823279872856000,
+					"id_str": "983823279872856064",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+					"url": "https://t.co/w2bXxdk9re",
+					"display_url": "pic.twitter.com/w2bXxdk9re",
+					"expanded_url": "https://twitter.com/NorthShireGamin/status/983823419111288832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 728,
+							"h": 818,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 818,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983823419111288800,
+					"source_status_id_str": "983823419111288832",
+					"source_user_id": 3228584956,
+					"source_user_id_str": "3228584956",
+					"video_info": {
+						"aspect_ratio": [
+							364,
+							409
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dac-D36U0AAaFQO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 711,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11008,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 21:45:56 +0000 2018",
+			"id": 983823419111288800,
+			"id_str": "983823419111288832",
+			"text": "Is #Zuckerberg even human? https://t.co/w2bXxdk9re",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Zuckerberg",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983823279872856000,
+						"id_str": "983823279872856064",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+						"url": "https://t.co/w2bXxdk9re",
+						"display_url": "pic.twitter.com/w2bXxdk9re",
+						"expanded_url": "https://twitter.com/NorthShireGamin/status/983823419111288832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 605,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 728,
+								"h": 818,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 728,
+								"h": 818,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983823279872856000,
+						"id_str": "983823279872856064",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dac-D36U0AAaFQO.jpg",
+						"url": "https://t.co/w2bXxdk9re",
+						"display_url": "pic.twitter.com/w2bXxdk9re",
+						"expanded_url": "https://twitter.com/NorthShireGamin/status/983823419111288832/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 605,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 728,
+								"h": 818,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 728,
+								"h": 818,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								364,
+								409
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dac-D36U0AAaFQO.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3228584956,
+				"id_str": "3228584956",
+				"name": "David Smetana",
+				"screen_name": "NorthShireGamin",
+				"location": "",
+				"description": "Conservative, Patriot, Gamer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67,
+				"friends_count": 70,
+				"listed_count": 7,
+				"created_at": "Sat May 02 15:49:11 +0000 2015",
+				"favourites_count": 2315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 173,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20874,
+			"favorite_count": 56648,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20874,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 12 23:39:43 +0000 2018",
+		"id": 984576829703909400,
+		"id_str": "984576829703909377",
+		"text": "RT @Dayum_0084: 빙글빙글 돌아가는 군생활 확정 https://t.co/7FZEdJvAhx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dayum_0084",
+					"name": "DewittP",
+					"id": 884392526580404200,
+					"id_str": "884392526580404224",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984426852658823200,
+					"id_str": "984426852658823168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+					"url": "https://t.co/7FZEdJvAhx",
+					"display_url": "pic.twitter.com/7FZEdJvAhx",
+					"expanded_url": "https://twitter.com/Dayum_0084/status/984426857134112769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 477,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 477,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 317,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984426857134112800,
+					"source_status_id_str": "984426857134112769",
+					"source_user_id": 884392526580404200,
+					"source_user_id_str": "884392526580404224"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984426852658823200,
+					"id_str": "984426852658823168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+					"url": "https://t.co/7FZEdJvAhx",
+					"display_url": "pic.twitter.com/7FZEdJvAhx",
+					"expanded_url": "https://twitter.com/Dayum_0084/status/984426857134112769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 477,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 477,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 317,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984426857134112800,
+					"source_status_id_str": "984426857134112769",
+					"source_user_id": 884392526580404200,
+					"source_user_id_str": "884392526580404224"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 711,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11008,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 12 13:43:47 +0000 2018",
+			"id": 984426857134112800,
+			"id_str": "984426857134112769",
+			"text": "빙글빙글 돌아가는 군생활 확정 https://t.co/7FZEdJvAhx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984426852658823200,
+						"id_str": "984426852658823168",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+						"url": "https://t.co/7FZEdJvAhx",
+						"display_url": "pic.twitter.com/7FZEdJvAhx",
+						"expanded_url": "https://twitter.com/Dayum_0084/status/984426857134112769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 477,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 477,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 317,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984426852658823200,
+						"id_str": "984426852658823168",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaljAbwVwAA_Ztd.jpg",
+						"url": "https://t.co/7FZEdJvAhx",
+						"display_url": "pic.twitter.com/7FZEdJvAhx",
+						"expanded_url": "https://twitter.com/Dayum_0084/status/984426857134112769/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 477,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 477,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 317,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 884392526580404200,
+				"id_str": "884392526580404224",
+				"name": "DewittP",
+				"screen_name": "Dayum_0084",
+				"location": "강원도 불구덩이",
+				"description": "기밀부대 복무중... / 시즈 써마이트깎는 노인 / 아이마스 좋와요 마코토, 줄리아P / 요즘 방도리도 해요. 파스파레 좋아앗 / 단발충 / 밀덕 혼모노 / 삼성 라이온즈 팬 / 이 사람은 무료로 맞팔합니다 / 젠더관련은 일체 지뢰입니다. 사회적문제를 여기서까지 보고싶지 않네요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 144,
+				"friends_count": 387,
+				"listed_count": 3,
+				"created_at": "Mon Jul 10 12:43:04 +0000 2017",
+				"favourites_count": 957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7395,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969058372925374465/Ni4WcyeM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969058372925374465/Ni4WcyeM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/884392526580404224/1514886144",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 12 22:30:08 +0000 2018",
 		"id": 984559319902376000,
 		"id_str": "984559319902375936",
