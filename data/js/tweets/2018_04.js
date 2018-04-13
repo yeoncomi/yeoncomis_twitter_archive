@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 19:20:31 +0000 2018",
+		"id": 984873986667397100,
+		"id_str": "984873986667397120",
+		"text": "RT @akyo223: 私の心は穢れているようだ https://t.co/D05NON1wwl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akyo223",
+					"name": "進まないっ",
+					"id": 106307931,
+					"id_str": "106307931",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984352917464363000,
+					"id_str": "984352917464363008",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+					"url": "https://t.co/D05NON1wwl",
+					"display_url": "pic.twitter.com/D05NON1wwl",
+					"expanded_url": "https://twitter.com/akyo223/status/984352920769409024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984352920769409000,
+					"source_status_id_str": "984352920769409024",
+					"source_user_id": 106307931,
+					"source_user_id_str": "106307931"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984352917464363000,
+					"id_str": "984352917464363008",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+					"url": "https://t.co/D05NON1wwl",
+					"display_url": "pic.twitter.com/D05NON1wwl",
+					"expanded_url": "https://twitter.com/akyo223/status/984352920769409024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984352920769409000,
+					"source_status_id_str": "984352920769409024",
+					"source_user_id": 106307931,
+					"source_user_id_str": "106307931"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 711,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 12 08:49:59 +0000 2018",
+			"id": 984352920769409000,
+			"id_str": "984352920769409024",
+			"text": "私の心は穢れているようだ https://t.co/D05NON1wwl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984352917464363000,
+						"id_str": "984352917464363008",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+						"url": "https://t.co/D05NON1wwl",
+						"display_url": "pic.twitter.com/D05NON1wwl",
+						"expanded_url": "https://twitter.com/akyo223/status/984352920769409024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984352917464363000,
+						"id_str": "984352917464363008",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dakfw1sVMAAYNvU.jpg",
+						"url": "https://t.co/D05NON1wwl",
+						"display_url": "pic.twitter.com/D05NON1wwl",
+						"expanded_url": "https://twitter.com/akyo223/status/984352920769409024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPanePlus for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106307931,
+				"id_str": "106307931",
+				"name": "進まないっ",
+				"screen_name": "akyo223",
+				"location": "Skytreelineの東",
+				"description": "ヲタになるほどの情熱もマニアにもなるほどの投資力もなく、好きなものを薄く広く永く追い続けるタイプ。\n70年代〜80年代のアングラ的カルチャーや音楽が好きだけど、メジャーも否定しないニュートラルな立ち位置。\n平沢さんの中では「パースペクティブ」がイチオシ。\nBASS好き。馬骨競馬部。嫁付き。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91,
+				"friends_count": 71,
+				"listed_count": 4,
+				"created_at": "Tue Jan 19 04:06:17 +0000 2010",
+				"favourites_count": 940,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5331,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847984983838830592/I0oZ-pE2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847984983838830592/I0oZ-pE2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106307931/1491038174",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30985,
+			"favorite_count": 42692,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30985,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Apr 13 17:10:02 +0000 2018",
 		"id": 984841151038373900,
 		"id_str": "984841151038373888",
