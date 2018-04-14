@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 06:35:28 +0000 2018",
+		"id": 985043846202470400,
+		"id_str": "985043846202470400",
+		"text": "RT @Nec092: “여보, 당신 할아버님의 사진을 찾았어.” https://t.co/ikxtd4NGG8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nec092",
+					"name": "Nec",
+					"id": 225255113,
+					"id_str": "225255113",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985034892751732700,
+					"id_str": "985034892751732736",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+					"url": "https://t.co/ikxtd4NGG8",
+					"display_url": "pic.twitter.com/ikxtd4NGG8",
+					"expanded_url": "https://twitter.com/Nec092/status/985034903963164672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985034903963164700,
+					"source_status_id_str": "985034903963164672",
+					"source_user_id": 225255113,
+					"source_user_id_str": "225255113"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985034892751732700,
+					"id_str": "985034892751732736",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+					"url": "https://t.co/ikxtd4NGG8",
+					"display_url": "pic.twitter.com/ikxtd4NGG8",
+					"expanded_url": "https://twitter.com/Nec092/status/985034903963164672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 539,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985034903963164700,
+					"source_status_id_str": "985034903963164672",
+					"source_user_id": 225255113,
+					"source_user_id_str": "225255113"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 711,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 05:59:56 +0000 2018",
+			"id": 985034903963164700,
+			"id_str": "985034903963164672",
+			"text": "“여보, 당신 할아버님의 사진을 찾았어.” https://t.co/ikxtd4NGG8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985034892751732700,
+						"id_str": "985034892751732736",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+						"url": "https://t.co/ikxtd4NGG8",
+						"display_url": "pic.twitter.com/ikxtd4NGG8",
+						"expanded_url": "https://twitter.com/Nec092/status/985034903963164672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985034892751732700,
+						"id_str": "985034892751732736",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DauMBBnVAAAB3l9.jpg",
+						"url": "https://t.co/ikxtd4NGG8",
+						"display_url": "pic.twitter.com/ikxtd4NGG8",
+						"expanded_url": "https://twitter.com/Nec092/status/985034903963164672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225255113,
+				"id_str": "225255113",
+				"name": "Nec",
+				"screen_name": "Nec092",
+				"location": "Bright Falls",
+				"description": "\"수억개의 별들, 그만큼의 이야기들 아래서, 우리 둘은 어색한 침묵에 빠졌다.\" Profile pic : Styx form Full Metal Furies by @kangdanista\n#Girls_can_do_anything",
+				"url": "https://t.co/oneH34OrIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oneH34OrIX",
+								"expanded_url": "http://applejack.tistory.com/",
+								"display_url": "applejack.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 473,
+				"friends_count": 802,
+				"listed_count": 28,
+				"created_at": "Sat Dec 11 03:30:53 +0000 2010",
+				"favourites_count": 15721,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 170256,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968360681476186113/ZyuZRe-L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968360681476186113/ZyuZRe-L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225255113/1402846965",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 14 05:55:29 +0000 2018",
 		"id": 985033781013704700,
 		"id_str": "985033781013704706",
