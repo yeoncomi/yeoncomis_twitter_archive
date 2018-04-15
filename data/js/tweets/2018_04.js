@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 06:33:38 +0000 2018",
+		"id": 985405770287034400,
+		"id_str": "985405770287034369",
+		"text": "RT @Mirinae_dragon: 역대급 좆 같이 생긴 이모티콘.. 넌 언제 사탄이랑 인사하러 가니? https://t.co/biysoLqHUm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mirinae_dragon",
+					"name": "미리내미르(트위치 냄창",
+					"id": 919361516184490000,
+					"id_str": "919361516184489984",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985397291782557700,
+					"id_str": "985397291782557696",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+					"url": "https://t.co/biysoLqHUm",
+					"display_url": "pic.twitter.com/biysoLqHUm",
+					"expanded_url": "https://twitter.com/Mirinae_dragon/status/985397299562987520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985397299562987500,
+					"source_status_id_str": "985397299562987520",
+					"source_user_id": 919361516184490000,
+					"source_user_id_str": "919361516184489984"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985397291782557700,
+					"id_str": "985397291782557696",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+					"url": "https://t.co/biysoLqHUm",
+					"display_url": "pic.twitter.com/biysoLqHUm",
+					"expanded_url": "https://twitter.com/Mirinae_dragon/status/985397299562987520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985397299562987500,
+					"source_status_id_str": "985397299562987520",
+					"source_user_id": 919361516184490000,
+					"source_user_id_str": "919361516184489984"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "래디컬 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "I am a teapot.|Coldplay좋아합니다 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 714,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 11081,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22387,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 05:59:58 +0000 2018",
+			"id": 985397299562987500,
+			"id_str": "985397299562987520",
+			"text": "역대급 좆 같이 생긴 이모티콘.. 넌 언제 사탄이랑 인사하러 가니? https://t.co/biysoLqHUm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985397291782557700,
+						"id_str": "985397291782557696",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+						"url": "https://t.co/biysoLqHUm",
+						"display_url": "pic.twitter.com/biysoLqHUm",
+						"expanded_url": "https://twitter.com/Mirinae_dragon/status/985397299562987520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 1579,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985397291782557700,
+						"id_str": "985397291782557696",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazVnbNU0AALoSi.jpg",
+						"url": "https://t.co/biysoLqHUm",
+						"display_url": "pic.twitter.com/biysoLqHUm",
+						"expanded_url": "https://twitter.com/Mirinae_dragon/status/985397299562987520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 1579,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 919361516184490000,
+				"id_str": "919361516184489984",
+				"name": "미리내미르(트위치 냄창",
+				"screen_name": "Mirinae_dragon",
+				"location": "쇠야님 마음속",
+				"description": "트위치 스트리머. 미리내미르 입니다. 랑우누나 팬클럽 2호❤️ 인장:타누,헤더:@opo_0213 (TEAM.흑월사)",
+				"url": "https://t.co/jb17YWByHd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb17YWByHd",
+								"expanded_url": "http://twitch.tv/kmsfarm789",
+								"display_url": "twitch.tv/kmsfarm789",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 335,
+				"friends_count": 318,
+				"listed_count": 3,
+				"created_at": "Sun Oct 15 00:37:21 +0000 2017",
+				"favourites_count": 19876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985377842652262401/55DxUgYZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985377842652262401/55DxUgYZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919361516184489984/1522532407",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 15 05:41:12 +0000 2018",
 		"id": 985392576520863700,
 		"id_str": "985392576520863744",
