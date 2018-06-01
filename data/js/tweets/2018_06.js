@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 01 19:03:32 +0000 2018",
+		"id": 1002626717796560900,
+		"id_str": "1002626717796560896",
+		"text": "RT @koichi346: う……うわああああああ！！！！(((( ；ﾟДﾟ))) https://t.co/0Qo3ox9yDh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "koichi346",
+					"name": "紅一P",
+					"id": 3306112988,
+					"id_str": "3306112988",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002171304022233100,
+					"id_str": "1002171304022233090",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+					"url": "https://t.co/0Qo3ox9yDh",
+					"display_url": "pic.twitter.com/0Qo3ox9yDh",
+					"expanded_url": "https://twitter.com/koichi346/status/1002171338608427008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 948,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002171338608427000,
+					"source_status_id_str": "1002171338608427008",
+					"source_user_id": 3306112988,
+					"source_user_id_str": "3306112988"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002171304022233100,
+					"id_str": "1002171304022233090",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+					"url": "https://t.co/0Qo3ox9yDh",
+					"display_url": "pic.twitter.com/0Qo3ox9yDh",
+					"expanded_url": "https://twitter.com/koichi346/status/1002171338608427008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 948,
+							"h": 684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002171338608427000,
+					"source_status_id_str": "1002171338608427008",
+					"source_user_id": 3306112988,
+					"source_user_id_str": "3306112988"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 31 12:54:01 +0000 2018",
+			"id": 1002171338608427000,
+			"id_str": "1002171338608427008",
+			"text": "う……うわああああああ！！！！(((( ；ﾟДﾟ))) https://t.co/0Qo3ox9yDh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002171304022233100,
+						"id_str": "1002171304022233090",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+						"url": "https://t.co/0Qo3ox9yDh",
+						"display_url": "pic.twitter.com/0Qo3ox9yDh",
+						"expanded_url": "https://twitter.com/koichi346/status/1002171338608427008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 948,
+								"h": 684,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 948,
+								"h": 684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002171304022233100,
+						"id_str": "1002171304022233090",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DehtfcRV0AIZom2.jpg",
+						"url": "https://t.co/0Qo3ox9yDh",
+						"display_url": "pic.twitter.com/0Qo3ox9yDh",
+						"expanded_url": "https://twitter.com/koichi346/status/1002171338608427008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 948,
+								"h": 684,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 948,
+								"h": 684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3306112988,
+				"id_str": "3306112988",
+				"name": "紅一P",
+				"screen_name": "koichi346",
+				"location": "鈴木会社",
+				"description": "さくらあずきパン。村松さくら担当Pです。桃井あずき、大原みちるも！　ニューウェーブ、フリルドスクエア、メロウ・イエロー（などなど）を追っかけています。SS『デレマス・とある少女シリーズ』公開中です。合同誌もろもろ寄稿させていただいています。",
+				"url": "https://t.co/YgLyhPgK2q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YgLyhPgK2q",
+								"expanded_url": "https://pixiv.me/user_axrc3377",
+								"display_url": "pixiv.me/user_axrc3377",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 537,
+				"listed_count": 15,
+				"created_at": "Tue Aug 04 14:39:36 +0000 2015",
+				"favourites_count": 35724,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30752,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848197257446907906/yos9ZYcm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848197257446907906/yos9ZYcm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3306112988/1438870668",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1067,
+			"favorite_count": 1428,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1067,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Jun 01 16:34:17 +0000 2018",
 		"id": 1002589158559268900,
 		"id_str": "1002589158559268865",
