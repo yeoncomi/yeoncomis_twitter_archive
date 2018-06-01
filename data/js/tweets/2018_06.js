@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 01 15:02:01 +0000 2018",
+		"id": 1002565940402253800,
+		"id_str": "1002565940402253824",
+		"text": "RT @hotoococoa: 개씹ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nhttps://t.co/qz9gzaVbOn https://t.co/FRXQmLJW9V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hotoococoa",
+					"name": "Cocoa H.",
+					"id": 904670020894040000,
+					"id_str": "904670020894040066",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qz9gzaVbOn",
+					"expanded_url": "http://libertykorea.party/",
+					"display_url": "libertykorea.party",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1002509079099596800,
+					"id_str": "1002509079099596800",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+					"url": "https://t.co/FRXQmLJW9V",
+					"display_url": "pic.twitter.com/FRXQmLJW9V",
+					"expanded_url": "https://twitter.com/hotoococoa/status/1002509088490586112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002509088490586100,
+					"source_status_id_str": "1002509088490586112",
+					"source_user_id": 904670020894040000,
+					"source_user_id_str": "904670020894040066"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002509079099596800,
+					"id_str": "1002509079099596800",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+					"url": "https://t.co/FRXQmLJW9V",
+					"display_url": "pic.twitter.com/FRXQmLJW9V",
+					"expanded_url": "https://twitter.com/hotoococoa/status/1002509088490586112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002509088490586100,
+					"source_status_id_str": "1002509088490586112",
+					"source_user_id": 904670020894040000,
+					"source_user_id_str": "904670020894040066"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 11:16:07 +0000 2018",
+			"id": 1002509088490586100,
+			"id_str": "1002509088490586112",
+			"text": "개씹ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\nhttps://t.co/qz9gzaVbOn https://t.co/FRXQmLJW9V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qz9gzaVbOn",
+						"expanded_url": "http://libertykorea.party/",
+						"display_url": "libertykorea.party",
+						"indices": [
+							14,
+							37
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1002509079099596800,
+						"id_str": "1002509079099596800",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+						"url": "https://t.co/FRXQmLJW9V",
+						"display_url": "pic.twitter.com/FRXQmLJW9V",
+						"expanded_url": "https://twitter.com/hotoococoa/status/1002509088490586112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002509079099596800,
+						"id_str": "1002509079099596800",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DemgsifV4AA_gv7.jpg",
+						"url": "https://t.co/FRXQmLJW9V",
+						"display_url": "pic.twitter.com/FRXQmLJW9V",
+						"expanded_url": "https://twitter.com/hotoococoa/status/1002509088490586112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904670020894040000,
+				"id_str": "904670020894040066",
+				"name": "Hoto Cocoa",
+				"screen_name": "hotoococoa",
+				"location": "Tokyo-to, Japan",
+				"description": "Follow Free, Developer, Server Administrator",
+				"url": "https://t.co/T6h6dzRi2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T6h6dzRi2v",
+								"expanded_url": "https://hotoococoa.me",
+								"display_url": "hotoococoa.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36,
+				"friends_count": 15,
+				"listed_count": 0,
+				"created_at": "Mon Sep 04 11:38:35 +0000 2017",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 846,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/904672224967254016/lLla21m1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/904672224967254016/lLla21m1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904670020894040066/1504525640",
+				"profile_link_color": "FFC0CB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 01 15:00:44 +0000 2018",
+		"id": 1002565614970417200,
+		"id_str": "1002565614970417152",
+		"text": "RT @TEQHNIKACROSS: SK 7모바일이 과거와의 조우 이벤트를 진행합니다.\n\n아이폰3GS 할부원금 44,000원. (구매시 완납) https://t.co/0zjA3uKKUd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TEQHNIKACROSS",
+					"name": "Welcome to TECHNIKA",
+					"id": 176806049,
+					"id_str": "176806049",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002561911852945400,
+					"id_str": "1002561911852945408",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+					"url": "https://t.co/0zjA3uKKUd",
+					"display_url": "pic.twitter.com/0zjA3uKKUd",
+					"expanded_url": "https://twitter.com/TEQHNIKACROSS/status/1002561920514154497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 742,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 697,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002561920514154500,
+					"source_status_id_str": "1002561920514154497",
+					"source_user_id": 176806049,
+					"source_user_id_str": "176806049"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002561911852945400,
+					"id_str": "1002561911852945408",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+					"url": "https://t.co/0zjA3uKKUd",
+					"display_url": "pic.twitter.com/0zjA3uKKUd",
+					"expanded_url": "https://twitter.com/TEQHNIKACROSS/status/1002561920514154497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 742,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 697,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002561920514154500,
+					"source_status_id_str": "1002561920514154497",
+					"source_user_id": 176806049,
+					"source_user_id_str": "176806049"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 14:46:03 +0000 2018",
+			"id": 1002561920514154500,
+			"id_str": "1002561920514154497",
+			"text": "SK 7모바일이 과거와의 조우 이벤트를 진행합니다.\n\n아이폰3GS 할부원금 44,000원. (구매시 완납) https://t.co/0zjA3uKKUd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002561911852945400,
+						"id_str": "1002561911852945408",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+						"url": "https://t.co/0zjA3uKKUd",
+						"display_url": "pic.twitter.com/0zjA3uKKUd",
+						"expanded_url": "https://twitter.com/TEQHNIKACROSS/status/1002561920514154497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 742,
+								"h": 697,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 697,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002561911852945400,
+						"id_str": "1002561911852945408",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DenQvz1U0AAIlWY.jpg",
+						"url": "https://t.co/0zjA3uKKUd",
+						"display_url": "pic.twitter.com/0zjA3uKKUd",
+						"expanded_url": "https://twitter.com/TEQHNIKACROSS/status/1002561920514154497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 742,
+								"h": 697,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 697,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176806049,
+				"id_str": "176806049",
+				"name": "Welcome to TECHNIKA",
+				"screen_name": "TEQHNIKACROSS",
+				"location": "",
+				"description": "Touch to START",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2359,
+				"friends_count": 529,
+				"listed_count": 47,
+				"created_at": "Tue Aug 10 13:54:54 +0000 2010",
+				"favourites_count": 282,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 150923,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987572238932066304/shLF_fQk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987572238932066304/shLF_fQk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176806049/1520763389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jun 01 07:48:43 +0000 2018",
 		"id": 1002456898119929900,
 		"id_str": "1002456898119929856",
@@ -510,7 +1231,7 @@ Grailbird.data.tweets_2018_06 =
 				"name": "쥬몽",
 				"screen_name": "jumong_6969",
 				"location": "언제나 있는 이 곳",
-				"description": "페미계&퀴어계 | 레디컬 페미니스트 | 0n년생 | 공부시작한지 얼마 되지않아 많이 부족해요🙇‍♀️ | 혹시 혐오워딩을 사용한다면 둥근 지적 부탁드려요 | WCDA | 헤더 - @LHwaen님💕 | 쥬몽님 몽님 등 편하게 불러주세요 | 18.05.20~ | 🏳️‍🌈",
+				"description": "페미계&퀴어계 | 레디컬 페미니스트 | 0n년생 | 공부시작한지 얼마 되지않아 많이 부족해요🙇♀️ | 혹시 혐오워딩을 사용한다면 둥근 지적 부탁드려요 | WCDA | 헤더 - @LHwaen님💕 | 쥬몽님 몽님 등 편하게 불러주세요 | 18.05.20~ | 🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
