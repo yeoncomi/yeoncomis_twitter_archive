@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 17:55:28 +0000 2018",
+		"id": 1002971975927529500,
+		"id_str": "1002971975927529474",
+		"text": "RT @ChoCoLint: 전설의 라면 꼬우면~~ \n\nhttps://t.co/G4jUeMtPF2 \n\n이거 퀄리티가 장난아니네요 ㅋㅋㅋㅋㅋ\n\n만드신분이 튀김우동보고 만드셨다는데 퀄이 아주그냥 ㅋㅋㅋㅋ https://t.co/7KSTVvWdJv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChoCoLint",
+					"name": "Lint",
+					"id": 748028813498585100,
+					"id_str": "748028813498585090",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G4jUeMtPF2",
+					"expanded_url": "https://www.pixiv.net/member_illust.php?illust_id=69032716&mode=medium",
+					"display_url": "pixiv.net/member_illust.…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1002801446121685000,
+					"id_str": "1002801446121684992",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+					"url": "https://t.co/7KSTVvWdJv",
+					"display_url": "pic.twitter.com/7KSTVvWdJv",
+					"expanded_url": "https://twitter.com/ChoCoLint/status/1002801453927297025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 495,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002801453927297000,
+					"source_status_id_str": "1002801453927297025",
+					"source_user_id": 748028813498585100,
+					"source_user_id_str": "748028813498585090"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002801446121685000,
+					"id_str": "1002801446121684992",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+					"url": "https://t.co/7KSTVvWdJv",
+					"display_url": "pic.twitter.com/7KSTVvWdJv",
+					"expanded_url": "https://twitter.com/ChoCoLint/status/1002801453927297025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 495,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002801453927297000,
+					"source_status_id_str": "1002801453927297025",
+					"source_user_id": 748028813498585100,
+					"source_user_id_str": "748028813498585090"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 06:37:52 +0000 2018",
+			"id": 1002801453927297000,
+			"id_str": "1002801453927297025",
+			"text": "전설의 라면 꼬우면~~ \n\nhttps://t.co/G4jUeMtPF2 \n\n이거 퀄리티가 장난아니네요 ㅋㅋㅋㅋㅋ\n\n만드신분이 튀김우동보고 만드셨다는데 퀄이 아주그냥 ㅋㅋㅋㅋ https://t.co/7KSTVvWdJv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/G4jUeMtPF2",
+						"expanded_url": "https://www.pixiv.net/member_illust.php?illust_id=69032716&mode=medium",
+						"display_url": "pixiv.net/member_illust.…",
+						"indices": [
+							15,
+							38
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1002801446121685000,
+						"id_str": "1002801446121684992",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+						"url": "https://t.co/7KSTVvWdJv",
+						"display_url": "pic.twitter.com/7KSTVvWdJv",
+						"expanded_url": "https://twitter.com/ChoCoLint/status/1002801453927297025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 495,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002801446121685000,
+						"id_str": "1002801446121684992",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeqqmihUwAANZTM.jpg",
+						"url": "https://t.co/7KSTVvWdJv",
+						"display_url": "pic.twitter.com/7KSTVvWdJv",
+						"expanded_url": "https://twitter.com/ChoCoLint/status/1002801453927297025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 495,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 748028813498585100,
+				"id_str": "748028813498585090",
+				"name": "Lint",
+				"screen_name": "ChoCoLint",
+				"location": "비리비리4섭 621602",
+				"description": "이쁜그림 조아해요!! 소심해용\nin Australia\nI love to follow beautifulthing :D\nbilibili uid: 621602\n플사는@BOCAELL_BOCA 님 그림이에용!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 758,
+				"friends_count": 872,
+				"listed_count": 7,
+				"created_at": "Wed Jun 29 05:42:21 +0000 2016",
+				"favourites_count": 3279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5360,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970675493736300544/aYFZVJGb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970675493736300544/aYFZVJGb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/748028813498585090/1527122563",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 02 17:49:49 +0000 2018",
+		"id": 1002970554633150500,
+		"id_str": "1002970554633150465",
+		"text": "RT @aphorism273: 본인들이 자살 당일까지 불링했던 거 지워먹고 주위 지인들에게 넘어가 성노동으로 착취당한 불행한 여자애~ 로 고인을 자꾸 조각내서 진영논리에 써먹네... 굴절여성혐오 지적당하는 걸 못 견뎌서 고인 지인들 공격한답시고 니가…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aphorism273",
+					"name": "매실러버",
+					"id": 1585695722,
+					"id_str": "1585695722",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 17:27:01 +0000 2018",
+			"id": 1002964816158310400,
+			"id_str": "1002964816158310401",
+			"text": "본인들이 자살 당일까지 불링했던 거 지워먹고 주위 지인들에게 넘어가 성노동으로 착취당한 불행한 여자애~ 로 고인을 자꾸 조각내서 진영논리에 써먹네... 굴절여성혐오 지적당하는 걸 못 견뎌서 고인 지인들 공격… https://t.co/i35tiI6RqT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i35tiI6RqT",
+						"expanded_url": "https://twitter.com/i/web/status/1002964816158310401",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1585695722,
+				"id_str": "1585695722",
+				"name": "매실러버",
+				"screen_name": "aphorism273",
+				"location": "",
+				"description": "💎#Girls_can_do_anything💎 #TransRightsAreHumanRights #낙태죄를폐지하라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2528,
+				"friends_count": 507,
+				"listed_count": 24,
+				"created_at": "Thu Jul 11 12:02:30 +0000 2013",
+				"favourites_count": 52424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 85102,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998244037697069057/pFFWMo0a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998244037697069057/pFFWMo0a_normal.jpg",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 02 06:20:16 +0000 2018",
 		"id": 1002797023538450400,
 		"id_str": "1002797023538450433",
