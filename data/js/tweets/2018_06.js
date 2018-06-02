@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 06:20:16 +0000 2018",
+		"id": 1002797023538450400,
+		"id_str": "1002797023538450433",
+		"text": "RT @gurludidnot: 씨발 이게 정치인이냐 소고기 무한리필집 사장이지 https://t.co/RVqSo8KxXG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gurludidnot",
+					"name": "간단숙2",
+					"id": 833511254702571500,
+					"id_str": "833511254702571520",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002553054720225300,
+					"id_str": "1002553054720225281",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+					"url": "https://t.co/RVqSo8KxXG",
+					"display_url": "pic.twitter.com/RVqSo8KxXG",
+					"expanded_url": "https://twitter.com/gurludidnot/status/1002553066913067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002553066913067000,
+					"source_status_id_str": "1002553066913067008",
+					"source_user_id": 833511254702571500,
+					"source_user_id_str": "833511254702571520"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002553054720225300,
+					"id_str": "1002553054720225281",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+					"url": "https://t.co/RVqSo8KxXG",
+					"display_url": "pic.twitter.com/RVqSo8KxXG",
+					"expanded_url": "https://twitter.com/gurludidnot/status/1002553066913067008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002553066913067000,
+					"source_status_id_str": "1002553066913067008",
+					"source_user_id": 833511254702571500,
+					"source_user_id_str": "833511254702571520"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 14:10:52 +0000 2018",
+			"id": 1002553066913067000,
+			"id_str": "1002553066913067008",
+			"text": "씨발 이게 정치인이냐 소고기 무한리필집 사장이지 https://t.co/RVqSo8KxXG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002553054720225300,
+						"id_str": "1002553054720225281",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+						"url": "https://t.co/RVqSo8KxXG",
+						"display_url": "pic.twitter.com/RVqSo8KxXG",
+						"expanded_url": "https://twitter.com/gurludidnot/status/1002553066913067008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002553054720225300,
+						"id_str": "1002553054720225281",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DenIsQcU8AEfk_f.jpg",
+						"url": "https://t.co/RVqSo8KxXG",
+						"display_url": "pic.twitter.com/RVqSo8KxXG",
+						"expanded_url": "https://twitter.com/gurludidnot/status/1002553066913067008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 833511254702571500,
+				"id_str": "833511254702571520",
+				"name": "간단숙2",
+				"screen_name": "gurludidnot",
+				"location": "",
+				"description": "건전한 사회 풍속 위배자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1536,
+				"friends_count": 378,
+				"listed_count": 16,
+				"created_at": "Mon Feb 20 02:59:03 +0000 2017",
+				"favourites_count": 321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15075,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980268812174962689/Nxt2bDZj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980268812174962689/Nxt2bDZj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/833511254702571520/1522549420",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1085,
+			"favorite_count": 305,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1085,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 02 06:19:03 +0000 2018",
+		"id": 1002796719677980700,
+		"id_str": "1002796719677980672",
+		"text": "RT @i_love_shotgun: 남북 철로가 연결되고 유럽까지 11만원으로 갈수 있어져도 너 나 우리의 휴가로는 유럽이 아니라 러시아 어드메에서 다시 빠꾸를 해야 합니다 https://t.co/W1OY6LE4Lq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "i_love_shotgun",
+					"name": "샷건빌런",
+					"id": 715749726402977800,
+					"id_str": "715749726402977797",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W1OY6LE4Lq",
+					"expanded_url": "https://twitter.com/insight_co_kr/status/1002707126240927744",
+					"display_url": "twitter.com/insight_co_kr/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 03:23:00 +0000 2018",
+			"id": 1002752413499969500,
+			"id_str": "1002752413499969537",
+			"text": "남북 철로가 연결되고 유럽까지 11만원으로 갈수 있어져도 너 나 우리의 휴가로는 유럽이 아니라 러시아 어드메에서 다시 빠꾸를 해야 합니다 https://t.co/W1OY6LE4Lq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W1OY6LE4Lq",
+						"expanded_url": "https://twitter.com/insight_co_kr/status/1002707126240927744",
+						"display_url": "twitter.com/insight_co_kr/…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715749726402977800,
+				"id_str": "715749726402977797",
+				"name": "샷건빌런",
+				"screen_name": "i_love_shotgun",
+				"location": "지나간것은 지나간대로 168-2번지",
+				"description": "남 트윗 퍼갈거면 히오스 5판 인증하고 퍼가 이 개좆새끼들아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2499,
+				"friends_count": 427,
+				"listed_count": 0,
+				"created_at": "Fri Apr 01 03:56:47 +0000 2016",
+				"favourites_count": 1507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65679,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002424010112577536/Dp4cNZvW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002424010112577536/Dp4cNZvW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715749726402977797/1512789734",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1002707126240927700,
+			"quoted_status_id_str": "1002707126240927744",
+			"quoted_status": {
+				"created_at": "Sat Jun 02 00:23:02 +0000 2018",
+				"id": 1002707126240927700,
+				"id_str": "1002707126240927744",
+				"text": "남북 철로 연결되면 유럽까지 '11만원'에 갈 수 있다~!! https://t.co/G6a83dLvMD",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/G6a83dLvMD",
+							"expanded_url": "http://www.insight.co.kr/news/158548",
+							"display_url": "insight.co.kr/news/158548",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1711736172,
+					"id_str": "1711736172",
+					"name": "인사이트",
+					"screen_name": "insight_co_kr",
+					"location": "Seoul",
+					"description": "온라인 뉴스 미디어 인사이트 http://t.co/L7veRKbgiN",
+					"url": "http://t.co/JI6dRUf1S2",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/JI6dRUf1S2",
+									"expanded_url": "http://www.insight.co.kr",
+									"display_url": "insight.co.kr",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/L7veRKbgiN",
+									"expanded_url": "http://www.facebook.com/insight.co.kr",
+									"display_url": "facebook.com/insight.co.kr",
+									"indices": [
+										16,
+										38
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 165661,
+					"friends_count": 179,
+					"listed_count": 523,
+					"created_at": "Fri Aug 30 04:26:28 +0000 2013",
+					"favourites_count": 1,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 94557,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "276582",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/589948975425277952/W5wd3nie_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/589948975425277952/W5wd3nie_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1711736172/1510559384",
+					"profile_link_color": "346F99",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4210,
+				"favorite_count": 1020,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 110,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1002707126240927700,
+		"quoted_status_id_str": "1002707126240927744",
+		"retweet_count": 110,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 02 05:10:02 +0000 2018",
 		"id": 1002779349815160800,
 		"id_str": "1002779349815160832",
