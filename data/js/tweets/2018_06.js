@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 18:55:33 +0000 2018",
+		"id": 1002987097630781400,
+		"id_str": "1002987097630781440",
+		"text": "RT @TEQHNIKACROSS: 한국인의 하루 SNS 이용시간 1시간 3분...세계 최하위권 \n\n?\n??????????????????????",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TEQHNIKACROSS",
+					"name": "Welcome to TECHNIKA",
+					"id": 176806049,
+					"id_str": "176806049",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 18 02:54:34 +0000 2016",
+			"id": 766105981726056400,
+			"id_str": "766105981726056448",
+			"text": "한국인의 하루 SNS 이용시간 1시간 3분...세계 최하위권 \n\n?\n??????????????????????",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176806049,
+				"id_str": "176806049",
+				"name": "Welcome to TECHNIKA",
+				"screen_name": "TEQHNIKACROSS",
+				"location": "",
+				"description": "Touch to START",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2356,
+				"friends_count": 529,
+				"listed_count": 47,
+				"created_at": "Tue Aug 10 13:54:54 +0000 2010",
+				"favourites_count": 281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 150944,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987572238932066304/shLF_fQk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987572238932066304/shLF_fQk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176806049/1520763389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21829,
+			"favorite_count": 1442,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21829,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 02 18:45:54 +0000 2018",
+		"id": 1002984668784816100,
+		"id_str": "1002984668784816128",
+		"text": "RT @fux_xck: 아씨발 레동 켰는데 소리 존나 커서 씨발 거실에 가족 다있는데 하아아아앙!!!! 소리 나가지고 나 존나 놀라서 연필깎이 발에 떨어뜨려서 아픈 척했다고 씨발 아; 아앙 하아앙 아프다...; 이러면서 방까지 뒷걸음질 쳤음 씨발씨발…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fux_xck",
+					"name": "치사",
+					"id": 972281909743992800,
+					"id_str": "972281909743992832",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 11:09:31 +0000 2018",
+			"id": 989099080210047000,
+			"id_str": "989099080210046976",
+			"text": "아씨발 레동 켰는데 소리 존나 커서 씨발 거실에 가족 다있는데 하아아아앙!!!! 소리 나가지고 나 존나 놀라서 연필깎이 발에 떨어뜨려서 아픈 척했다고 씨발 아; 아앙 하아앙 아프다...; 이러면서 방까지 뒷걸음질 쳤음 씨발씨발씨발씨발씨발",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972281909743992800,
+				"id_str": "972281909743992832",
+				"name": "치사",
+				"screen_name": "fux_xck",
+				"location": "님들이 하는 씨피는 다 함 썰은 모멘트",
+				"description": "리슨햐에게 곧 고소 당할 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 552,
+				"friends_count": 74,
+				"listed_count": 1,
+				"created_at": "Sat Mar 10 01:24:06 +0000 2018",
+				"favourites_count": 3356,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4832,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980419675384246272/a4GErWCK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980419675384246272/a4GErWCK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14874,
+			"favorite_count": 3082,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14874,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 02 18:38:06 +0000 2018",
+		"id": 1002982705712132100,
+		"id_str": "1002982705712132096",
+		"text": "RT @DomesticTurret: 유튜브 개좆같은 광고 2선발.jpg\n\n나만 뜨는게 아니었구나........ https://t.co/jgO2k0Tefd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DomesticTurret",
+					"name": "아저거또²",
+					"id": 1000709531205124100,
+					"id_str": "1000709531205124096",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002902041188958200,
+					"id_str": "1002902041188958208",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+					"url": "https://t.co/jgO2k0Tefd",
+					"display_url": "pic.twitter.com/jgO2k0Tefd",
+					"expanded_url": "https://twitter.com/DomesticTurret/status/1002902053671165952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1411,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002902053671166000,
+					"source_status_id_str": "1002902053671165952",
+					"source_user_id": 1000709531205124100,
+					"source_user_id_str": "1000709531205124096"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002902041188958200,
+					"id_str": "1002902041188958208",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+					"url": "https://t.co/jgO2k0Tefd",
+					"display_url": "pic.twitter.com/jgO2k0Tefd",
+					"expanded_url": "https://twitter.com/DomesticTurret/status/1002902053671165952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1411,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002902053671166000,
+					"source_status_id_str": "1002902053671165952",
+					"source_user_id": 1000709531205124100,
+					"source_user_id_str": "1000709531205124096"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 736,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 13:17:37 +0000 2018",
+			"id": 1002902053671166000,
+			"id_str": "1002902053671165952",
+			"text": "유튜브 개좆같은 광고 2선발.jpg\n\n나만 뜨는게 아니었구나........ https://t.co/jgO2k0Tefd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002902041188958200,
+						"id_str": "1002902041188958208",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+						"url": "https://t.co/jgO2k0Tefd",
+						"display_url": "pic.twitter.com/jgO2k0Tefd",
+						"expanded_url": "https://twitter.com/DomesticTurret/status/1002902053671165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1411,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002902041188958200,
+						"id_str": "1002902041188958208",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DesGF8WVAAAiOQa.jpg",
+						"url": "https://t.co/jgO2k0Tefd",
+						"display_url": "pic.twitter.com/jgO2k0Tefd",
+						"expanded_url": "https://twitter.com/DomesticTurret/status/1002902053671165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1411,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000709531205124100,
+				"id_str": "1000709531205124096",
+				"name": "아저거또²",
+				"screen_name": "DomesticTurret",
+				"location": "스타2히오스배그유비트",
+				"description": "@AzeogeottO였던 걔 / 기기 & 그림 / 프사: 캥다님 (@kangdanakang)",
+				"url": "https://t.co/yxG8AmMPxE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yxG8AmMPxE",
+								"expanded_url": "https://ask.fm/AzeogeottO",
+								"display_url": "ask.fm/AzeogeottO",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24,
+				"friends_count": 55,
+				"listed_count": 0,
+				"created_at": "Sun May 27 12:05:19 +0000 2018",
+				"favourites_count": 679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 498,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000729127047970817/dfMxoLIy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000729127047970817/dfMxoLIy_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0127eb3e561b3dd5",
+				"url": "https://api.twitter.com/1.1/geo/id/0127eb3e561b3dd5.json",
+				"place_type": "city",
+				"name": "Changwon-si",
+				"full_name": "Changwon-si, Republic of Korea",
+				"country_code": "KR",
+				"country": "Republic of Korea",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								128.369992816185,
+								34.9886199520742
+							],
+							[
+								128.865006001714,
+								34.9886199520742
+							],
+							[
+								128.865006001714,
+								35.3635427378255
+							],
+							[
+								128.369992816185,
+								35.3635427378255
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 02 17:55:28 +0000 2018",
 		"id": 1002971975927529500,
 		"id_str": "1002971975927529474",
