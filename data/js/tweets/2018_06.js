@@ -1,6 +1,1273 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 00:15:10 +0000 2018",
+		"id": 1002705146483126300,
+		"id_str": "1002705146483126272",
+		"text": "RT @___mint_gold: [PD수첩] 5/1이랑 5/30방송분 진짜 짜증X충격.. 해인사 연간 입장료수익이 6억이 넘는데 그걸로 중들이 룸살롱다니고 성매매한덴다. 불국사는 시주와 세금받은걸로 불국사경내에서 억대도박을 하고..그러고도 조계종단은…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "___mint_gold",
+					"name": "_mint_gold⭐️",
+					"id": 972558473710878700,
+					"id_str": "972558473710878720",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 31 09:18:24 +0000 2018",
+			"id": 1002117077488947200,
+			"id_str": "1002117077488947200",
+			"text": "[PD수첩] 5/1이랑 5/30방송분 진짜 짜증X충격.. 해인사 연간 입장료수익이 6억이 넘는데 그걸로 중들이 룸살롱다니고 성매매한덴다. 불국사는 시주와 세금받은걸로 불국사경내에서 억대도박을 하고..그러고도… https://t.co/v6B4mEONvm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v6B4mEONvm",
+						"expanded_url": "https://twitter.com/i/web/status/1002117077488947200",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972558473710878700,
+				"id_str": "972558473710878720",
+				"name": "_mint_gold⭐️",
+				"screen_name": "___mint_gold",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 269,
+				"listed_count": 0,
+				"created_at": "Sat Mar 10 19:43:04 +0000 2018",
+				"favourites_count": 2822,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1423,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996250338687533056/05qx-H_R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996250338687533056/05qx-H_R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972558473710878720/1527172491",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6891,
+			"favorite_count": 667,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6891,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 01 23:57:23 +0000 2018",
+		"id": 1002700669915025400,
+		"id_str": "1002700669915025408",
+		"text": "RT @HuffPostCanada: Andrea Horwath urges Liberals to vote NDP to stop Doug Ford's tories  https://t.co/4E33Cz6sEh https://t.co/8fFU0Xi0o6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HuffPostCanada",
+					"name": "HuffPost Canada",
+					"id": 289998339,
+					"id_str": "289998339",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4E33Cz6sEh",
+					"expanded_url": "http://huffp.st/qKHuPeF",
+					"display_url": "huffp.st/qKHuPeF",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1002682481647280100,
+					"id_str": "1002682481647280129",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+					"url": "https://t.co/8fFU0Xi0o6",
+					"display_url": "pic.twitter.com/8fFU0Xi0o6",
+					"expanded_url": "https://twitter.com/HuffPostCanada/status/1002682483618525184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002682483618525200,
+					"source_status_id_str": "1002682483618525184",
+					"source_user_id": 289998339,
+					"source_user_id_str": "289998339"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002682481647280100,
+					"id_str": "1002682481647280129",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+					"url": "https://t.co/8fFU0Xi0o6",
+					"display_url": "pic.twitter.com/8fFU0Xi0o6",
+					"expanded_url": "https://twitter.com/HuffPostCanada/status/1002682483618525184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002682483618525200,
+					"source_status_id_str": "1002682483618525184",
+					"source_user_id": 289998339,
+					"source_user_id_str": "289998339"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 22:45:07 +0000 2018",
+			"id": 1002682483618525200,
+			"id_str": "1002682483618525184",
+			"text": "Andrea Horwath urges Liberals to vote NDP to stop Doug Ford's tories  https://t.co/4E33Cz6sEh https://t.co/8fFU0Xi0o6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4E33Cz6sEh",
+						"expanded_url": "http://huffp.st/qKHuPeF",
+						"display_url": "huffp.st/qKHuPeF",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1002682481647280100,
+						"id_str": "1002682481647280129",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+						"url": "https://t.co/8fFU0Xi0o6",
+						"display_url": "pic.twitter.com/8fFU0Xi0o6",
+						"expanded_url": "https://twitter.com/HuffPostCanada/status/1002682483618525184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002682481647280100,
+						"id_str": "1002682481647280129",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deo-Z5UX4AE5FsG.jpg",
+						"url": "https://t.co/8fFU0Xi0o6",
+						"display_url": "pic.twitter.com/8fFU0Xi0o6",
+						"expanded_url": "https://twitter.com/HuffPostCanada/status/1002682483618525184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 289998339,
+				"id_str": "289998339",
+				"name": "HuffPost Canada",
+				"screen_name": "HuffPostCanada",
+				"location": "Canada",
+				"description": "Informing, engaging, and amplifying Canadians. Breaking news, analysis, opinion and more. Email us: canada@huffpost.com.",
+				"url": "https://t.co/oC96egtnle",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oC96egtnle",
+								"expanded_url": "http://huffingtonpost.ca",
+								"display_url": "huffingtonpost.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 397343,
+				"friends_count": 2862,
+				"listed_count": 3640,
+				"created_at": "Fri Apr 29 15:42:44 +0000 2011",
+				"favourites_count": 1106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 220636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/289998339/1476141226",
+				"profile_link_color": "DD1A20",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 01 23:53:29 +0000 2018",
+		"id": 1002699689228025900,
+		"id_str": "1002699689228025858",
+		"text": "RT @laundry2015: 헤럴드 경제\n‘안전이별 어렵네’\n\n헤어진 애인이 직장에 와서 목을 졸랐다는데, 기사 헤드라인을 강건너 불구경하듯이 해놨네. \n\n좋냐?? https://t.co/2W4haYxqp9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laundry2015",
+					"name": "tambourine",
+					"id": 177417839,
+					"id_str": "177417839",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002535985526145000,
+					"id_str": "1002535985526145025",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+					"url": "https://t.co/2W4haYxqp9",
+					"display_url": "pic.twitter.com/2W4haYxqp9",
+					"expanded_url": "https://twitter.com/laundry2015/status/1002535997698011137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002535997698011100,
+					"source_status_id_str": "1002535997698011137",
+					"source_user_id": 177417839,
+					"source_user_id_str": "177417839"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002535985526145000,
+					"id_str": "1002535985526145025",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+					"url": "https://t.co/2W4haYxqp9",
+					"display_url": "pic.twitter.com/2W4haYxqp9",
+					"expanded_url": "https://twitter.com/laundry2015/status/1002535997698011137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 363,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002535997698011100,
+					"source_status_id_str": "1002535997698011137",
+					"source_user_id": 177417839,
+					"source_user_id_str": "177417839"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 13:03:02 +0000 2018",
+			"id": 1002535997698011100,
+			"id_str": "1002535997698011137",
+			"text": "헤럴드 경제\n‘안전이별 어렵네’\n\n헤어진 애인이 직장에 와서 목을 졸랐다는데, 기사 헤드라인을 강건너 불구경하듯이 해놨네. \n\n좋냐?? https://t.co/2W4haYxqp9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002535985526145000,
+						"id_str": "1002535985526145025",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+						"url": "https://t.co/2W4haYxqp9",
+						"display_url": "pic.twitter.com/2W4haYxqp9",
+						"expanded_url": "https://twitter.com/laundry2015/status/1002535997698011137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002535985526145000,
+						"id_str": "1002535985526145025",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dem5KsvVAAES0cX.jpg",
+						"url": "https://t.co/2W4haYxqp9",
+						"display_url": "pic.twitter.com/2W4haYxqp9",
+						"expanded_url": "https://twitter.com/laundry2015/status/1002535997698011137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 363,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177417839,
+				"id_str": "177417839",
+				"name": "tambourine",
+				"screen_name": "laundry2015",
+				"location": "",
+				"description": "feel the beat from the tambourine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 238,
+				"listed_count": 0,
+				"created_at": "Thu Aug 12 02:28:18 +0000 2010",
+				"favourites_count": 2087,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6973,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983667057723039745/ynNfNHwP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983667057723039745/ynNfNHwP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177417839/1523356266",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 495,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 495,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 01 23:44:51 +0000 2018",
+		"id": 1002697514032644100,
+		"id_str": "1002697514032644096",
+		"text": "RT @maullarmaullar: huge if true https://t.co/NgS4bipbCa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maullarmaullar",
+					"name": "32 year old kaede takagaki@AX",
+					"id": 2275408650,
+					"id_str": "2275408650",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002695245480382500,
+					"id_str": "1002695245480382464",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+					"url": "https://t.co/NgS4bipbCa",
+					"display_url": "pic.twitter.com/NgS4bipbCa",
+					"expanded_url": "https://twitter.com/maullarmaullar/status/1002695249565609984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002695249565610000,
+					"source_status_id_str": "1002695249565609984",
+					"source_user_id": 2275408650,
+					"source_user_id_str": "2275408650"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002695245480382500,
+					"id_str": "1002695245480382464",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+					"url": "https://t.co/NgS4bipbCa",
+					"display_url": "pic.twitter.com/NgS4bipbCa",
+					"expanded_url": "https://twitter.com/maullarmaullar/status/1002695249565609984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002695249565610000,
+					"source_status_id_str": "1002695249565609984",
+					"source_user_id": 2275408650,
+					"source_user_id_str": "2275408650"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 01 23:35:51 +0000 2018",
+			"id": 1002695249565610000,
+			"id_str": "1002695249565609984",
+			"text": "huge if true https://t.co/NgS4bipbCa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002695245480382500,
+						"id_str": "1002695245480382464",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+						"url": "https://t.co/NgS4bipbCa",
+						"display_url": "pic.twitter.com/NgS4bipbCa",
+						"expanded_url": "https://twitter.com/maullarmaullar/status/1002695249565609984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 424,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002695245480382500,
+						"id_str": "1002695245480382464",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DepKA2TU0AAWdJ8.jpg",
+						"url": "https://t.co/NgS4bipbCa",
+						"display_url": "pic.twitter.com/NgS4bipbCa",
+						"expanded_url": "https://twitter.com/maullarmaullar/status/1002695249565609984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 424,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2275408650,
+				"id_str": "2275408650",
+				"name": "32 year old kaede takagaki@AX",
+				"screen_name": "maullarmaullar",
+				"location": "combo pizza hut and idol hell",
+				"description": "Contributing editor, Shibari Fair; senior writer, Lewdweeb; BDSM contributor; Lewd York Ties bestselling artist.",
+				"url": "https://t.co/3XrsYGmp3n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3XrsYGmp3n",
+								"expanded_url": "http://pixiv.me/maullarmaullar",
+								"display_url": "pixiv.me/maullarmaullar",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3383,
+				"friends_count": 1305,
+				"listed_count": 99,
+				"created_at": "Sat Jan 04 02:17:11 +0000 2014",
+				"favourites_count": 151718,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153487,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973428475989188608/vrUGdCF3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973428475989188608/vrUGdCF3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275408650/1494099007",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 01 20:16:50 +0000 2018",
 		"id": 1002645166820192300,
 		"id_str": "1002645166820192256",
