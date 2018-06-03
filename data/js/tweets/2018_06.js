@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 03 10:10:43 +0000 2018",
+		"id": 1003217407144386600,
+		"id_str": "1003217407144386561",
+		"text": "RT @COMMUNITY_MELTO: 이번구찌 \n,\n.\n...???? https://t.co/q3ChPe0WhZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "COMMUNITY_MELTO",
+					"name": "💖🐰집구석어중간인싸🦄🌈",
+					"id": 779334814390292500,
+					"id_str": "779334814390292482",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1002954107722715100,
+					"id_str": "1002954107722715136",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+					"url": "https://t.co/q3ChPe0WhZ",
+					"display_url": "pic.twitter.com/q3ChPe0WhZ",
+					"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002954120683122700,
+					"source_status_id_str": "1002954120683122690",
+					"source_user_id": 779334814390292500,
+					"source_user_id_str": "779334814390292482"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1002954107722715100,
+					"id_str": "1002954107722715136",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+					"url": "https://t.co/q3ChPe0WhZ",
+					"display_url": "pic.twitter.com/q3ChPe0WhZ",
+					"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002954120683122700,
+					"source_status_id_str": "1002954120683122690",
+					"source_user_id": 779334814390292500,
+					"source_user_id_str": "779334814390292482"
+				},
+				{
+					"id": 1002954107718492200,
+					"id_str": "1002954107718492160",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Des1cnSUYAApiNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Des1cnSUYAApiNi.jpg",
+					"url": "https://t.co/q3ChPe0WhZ",
+					"display_url": "pic.twitter.com/q3ChPe0WhZ",
+					"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 340,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1002954120683122700,
+					"source_status_id_str": "1002954120683122690",
+					"source_user_id": 779334814390292500,
+					"source_user_id_str": "779334814390292482"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 735,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 16:44:31 +0000 2018",
+			"id": 1002954120683122700,
+			"id_str": "1002954120683122690",
+			"text": "이번구찌 \n,\n.\n...???? https://t.co/q3ChPe0WhZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1002954107722715100,
+						"id_str": "1002954107722715136",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+						"url": "https://t.co/q3ChPe0WhZ",
+						"display_url": "pic.twitter.com/q3ChPe0WhZ",
+						"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1002954107722715100,
+						"id_str": "1002954107722715136",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Des1cnTU0AAx1LQ.jpg",
+						"url": "https://t.co/q3ChPe0WhZ",
+						"display_url": "pic.twitter.com/q3ChPe0WhZ",
+						"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1002954107718492200,
+						"id_str": "1002954107718492160",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/Des1cnSUYAApiNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Des1cnSUYAApiNi.jpg",
+						"url": "https://t.co/q3ChPe0WhZ",
+						"display_url": "pic.twitter.com/q3ChPe0WhZ",
+						"expanded_url": "https://twitter.com/COMMUNITY_MELTO/status/1002954120683122690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 340,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 340,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 779334814390292500,
+				"id_str": "779334814390292482",
+				"name": "💖🐰집구석어중간인싸🦄🌈",
+				"screen_name": "COMMUNITY_MELTO",
+				"location": "",
+				"description": "💔BROKEN HEART MELTED LOVE🐇 🌙SWEET DREAM TWINKLE FANTASY🦄",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 157,
+				"friends_count": 167,
+				"listed_count": 1,
+				"created_at": "Fri Sep 23 15:01:13 +0000 2016",
+				"favourites_count": 7589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15401,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001846287388491777/KCqd3XTC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001846287388491777/KCqd3XTC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/779334814390292482/1527689449",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23067,
+			"favorite_count": 6743,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23067,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jun 03 09:47:22 +0000 2018",
+		"id": 1003211530505150500,
+		"id_str": "1003211530505150464",
+		"text": "RT @Dangerplanet: 버츄얼 유튜버 츠키노 미토 신상털림. 21세 여대생. 본명은 시바타 미즈카\nhttps://t.co/YV3OeHv12Q\n\n아주 탈탈탈탈 털림...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YV3OeHv12Q",
+					"expanded_url": "http://waterlotus.egloos.com/3576081",
+					"display_url": "waterlotus.egloos.com/3576081",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 735,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 16:40:42 +0000 2018",
+			"id": 1002953163748491300,
+			"id_str": "1002953163748491265",
+			"text": "버츄얼 유튜버 츠키노 미토 신상털림. 21세 여대생. 본명은 시바타 미즈카\nhttps://t.co/YV3OeHv12Q\n\n아주 탈탈탈탈 털림...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YV3OeHv12Q",
+						"expanded_url": "http://waterlotus.egloos.com/3576081",
+						"display_url": "waterlotus.egloos.com/3576081",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1688,
+				"friends_count": 1362,
+				"listed_count": 31,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 45223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 161904,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 149,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 03 06:28:20 +0000 2018",
 		"id": 1003161442885894100,
 		"id_str": "1003161442885894144",
