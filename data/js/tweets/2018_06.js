@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 06:28:05 +0000 2018",
+		"id": 1003523765903298600,
+		"id_str": "1003523765903298560",
+		"text": "RT @A_cute_abdomen: \" '리피오돌'을 독점 공급하는 '게르베'가 약가 500%인상을 요구하며 관철되지 않을 경우 한국 시장에서의 철수한다는 입장을 밝혔다..어제오늘의 일이 아니다.. 올림푸스의 위암 점막하 절제를 위한 내시경 나이프.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_cute_abdomen",
+					"name": "국민체조",
+					"id": 146908448,
+					"id_str": "146908448",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 735,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 04:33:22 +0000 2018",
+			"id": 1003494900527087600,
+			"id_str": "1003494900527087618",
+			"text": "\" '리피오돌'을 독점 공급하는 '게르베'가 약가 500%인상을 요구하며 관철되지 않을 경우 한국 시장에서의 철수한다는 입장을 밝혔다..어제오늘의 일이 아니다.. 올림푸스의 위암 점막하 절제를 위한 내시경… https://t.co/BM1ICARhCI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BM1ICARhCI",
+						"expanded_url": "https://twitter.com/i/web/status/1003494900527087618",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146908448,
+				"id_str": "146908448",
+				"name": "국민체조",
+				"screen_name": "A_cute_abdomen",
+				"location": "Korea",
+				"description": "그런사람 아닙니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 705,
+				"friends_count": 367,
+				"listed_count": 12,
+				"created_at": "Sat May 22 17:20:38 +0000 2010",
+				"favourites_count": 6338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38714,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992781716568784896/bTpovekO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992781716568784896/bTpovekO_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 04 06:22:22 +0000 2018",
+		"id": 1003522329308102700,
+		"id_str": "1003522329308102656",
+		"text": "RT @nickmorrott: Every Github repo right now\n\n#GitHub #GitLab https://t.co/exG6vY4bAf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GitHub",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "GitLab",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickmorrott",
+					"name": "Nick Morrott",
+					"id": 283892690,
+					"id_str": "283892690",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003414609049653200,
+					"id_str": "1003414609049653250",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+					"url": "https://t.co/exG6vY4bAf",
+					"display_url": "pic.twitter.com/exG6vY4bAf",
+					"expanded_url": "https://twitter.com/nickmorrott/status/1003414736682258432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003414736682258400,
+					"source_status_id_str": "1003414736682258432",
+					"source_user_id": 283892690,
+					"source_user_id_str": "283892690"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003414609049653200,
+					"id_str": "1003414609049653250",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+					"url": "https://t.co/exG6vY4bAf",
+					"display_url": "pic.twitter.com/exG6vY4bAf",
+					"expanded_url": "https://twitter.com/nickmorrott/status/1003414736682258432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003414736682258400,
+					"source_status_id_str": "1003414736682258432",
+					"source_user_id": 283892690,
+					"source_user_id_str": "283892690"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 735,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 03 23:14:50 +0000 2018",
+			"id": 1003414736682258400,
+			"id_str": "1003414736682258432",
+			"text": "Every Github repo right now\n\n#GitHub #GitLab https://t.co/exG6vY4bAf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GitHub",
+						"indices": [
+							29,
+							36
+						]
+					},
+					{
+						"text": "GitLab",
+						"indices": [
+							37,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003414609049653200,
+						"id_str": "1003414609049653250",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+						"url": "https://t.co/exG6vY4bAf",
+						"display_url": "pic.twitter.com/exG6vY4bAf",
+						"expanded_url": "https://twitter.com/nickmorrott/status/1003414736682258432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003414609049653200,
+						"id_str": "1003414609049653250",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezYRUbXkAIFVKf.jpg",
+						"url": "https://t.co/exG6vY4bAf",
+						"display_url": "pic.twitter.com/exG6vY4bAf",
+						"expanded_url": "https://twitter.com/nickmorrott/status/1003414736682258432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 283892690,
+				"id_str": "283892690",
+				"name": "Nick Morrott",
+				"screen_name": "nickmorrott",
+				"location": "Between Aeron and Galant",
+				"description": "Working out which part is the set-up and which part is the joke",
+				"url": "https://t.co/jbKt7QnmxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jbKt7QnmxD",
+								"expanded_url": "https://github.com/knowledgejunkie",
+								"display_url": "github.com/knowledgejunkie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 500,
+				"friends_count": 2662,
+				"listed_count": 63,
+				"created_at": "Mon Apr 18 06:41:07 +0000 2011",
+				"favourites_count": 2781,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315700871/nick_cropped_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315700871/nick_cropped_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/283892690/1447007981",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1141,
+			"favorite_count": 1791,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1141,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 04 06:00:13 +0000 2018",
 		"id": 1003516756273401900,
 		"id_str": "1003516756273401856",
@@ -409,7 +984,7 @@ Grailbird.data.tweets_2018_06 =
 			"user_mentions": [
 				{
 					"screen_name": "deckybi",
-					"name": "DECK🏳️‍🌈",
+					"name": "DECK🏳️🌈",
 					"id": 54256163,
 					"id_str": "54256163",
 					"indices": [
@@ -752,7 +1327,7 @@ Grailbird.data.tweets_2018_06 =
 			"user": {
 				"id": 54256163,
 				"id_str": "54256163",
-				"name": "DECK🏳️‍🌈",
+				"name": "DECK🏳️🌈",
 				"screen_name": "deckybi",
 				"location": "Seoul, Korea",
 				"description": "B / GIRLS CAN DO ANYTHING",
