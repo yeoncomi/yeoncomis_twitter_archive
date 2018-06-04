@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 19:38:54 +0000 2018",
+		"id": 1003722782805381100,
+		"id_str": "1003722782805381120",
+		"text": "https://t.co/zZP9ZCrU4Q\n이거 뻘짓한다고 짰는데 파이선 2.3.4에서는 안돌아간다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZP9ZCrU4Q",
+					"expanded_url": "https://github.com/yeoncomi/FuckingPython2.2MultiThreadingShit",
+					"display_url": "github.com/yeoncomi/Fucki…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 737,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 04 19:33:03 +0000 2018",
+		"id": 1003721312424980500,
+		"id_str": "1003721312424980482",
+		"text": "RT @maullarmaullar: TLDR: as of 10/1/2020, standard WA drivers licenses and ID cards will NOT be usable to get on a flight. you'll need a p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maullarmaullar",
+					"name": "32 year old kaede takagaki@AX",
+					"id": 2275408650,
+					"id_str": "2275408650",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 737,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 19:23:09 +0000 2018",
+			"id": 1003718818214998000,
+			"id_str": "1003718818214998016",
+			"text": "TLDR: as of 10/1/2020, standard WA drivers licenses and ID cards will NOT be usable to get on a flight. you'll need… https://t.co/GRBvcCnuOp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GRBvcCnuOp",
+						"expanded_url": "https://twitter.com/i/web/status/1003718818214998016",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2275408650,
+				"id_str": "2275408650",
+				"name": "32 year old kaede takagaki@AX",
+				"screen_name": "maullarmaullar",
+				"location": "combo pizza hut and idol hell",
+				"description": "Contributing editor, Shibari Fair; senior writer, Lewdweeb; BDSM contributor; Lewd York Ties bestselling artist.",
+				"url": "https://t.co/3XrsYGmp3n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3XrsYGmp3n",
+								"expanded_url": "http://pixiv.me/maullarmaullar",
+								"display_url": "pixiv.me/maullarmaullar",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3400,
+				"friends_count": 1306,
+				"listed_count": 99,
+				"created_at": "Sat Jan 04 02:17:11 +0000 2014",
+				"favourites_count": 152203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153777,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973428475989188608/vrUGdCF3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973428475989188608/vrUGdCF3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275408650/1494099007",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1002653395360964600,
+			"quoted_status_id_str": "1002653395360964608",
+			"quoted_status": {
+				"created_at": "Fri Jun 01 20:49:32 +0000 2018",
+				"id": 1002653395360964600,
+				"id_str": "1002653395360964608",
+				"text": "Washington State Department of Licensing takes steps to comply with Real ID Act https://t.co/fCTVjJdGYF #RealID… https://t.co/hqzZyFB5Mw",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RealID",
+							"indices": [
+								104,
+								111
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/fCTVjJdGYF",
+							"expanded_url": "https://wp.me/pwwGt-BI",
+							"display_url": "wp.me/pwwGt-BI",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/hqzZyFB5Mw",
+							"expanded_url": "https://twitter.com/i/web/status/1002653395360964608",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 234045974,
+					"id_str": "234045974",
+					"name": "Washington State DOL",
+					"screen_name": "WA_DOL",
+					"location": "Headquarters, Olympia, WA",
+					"description": "Working together for a safer Washington. \nFollows and RTs ≠ endorsement.\nSM Policy: https://t.co/LrHRVjTjiv.",
+					"url": "http://t.co/XdnpY0BV6B",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/XdnpY0BV6B",
+									"expanded_url": "http://dol.wa.gov",
+									"display_url": "dol.wa.gov",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/LrHRVjTjiv",
+									"expanded_url": "http://bit.ly/gvMDpr",
+									"display_url": "bit.ly/gvMDpr",
+									"indices": [
+										84,
+										107
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2436,
+					"friends_count": 148,
+					"listed_count": 109,
+					"created_at": "Tue Jan 04 18:32:51 +0000 2011",
+					"favourites_count": 252,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 945,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1D2F5C",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/961008949347536896/fFbclAou_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/961008949347536896/fFbclAou_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/234045974/1521832393",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1002653395360964600,
+		"quoted_status_id_str": "1002653395360964608",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 04 17:59:20 +0000 2018",
 		"id": 1003697726024966100,
 		"id_str": "1003697726024966145",
