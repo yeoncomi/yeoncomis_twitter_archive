@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 21:22:06 +0000 2018",
+		"id": 1003748755592527900,
+		"id_str": "1003748755592527872",
+		"text": "RT @EvilBachus: OpenGL is deprecated in 10.14 Mojave. /eyetwitch https://t.co/rUHyZamaPF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilBachus",
+					"name": "Dustin Westphal",
+					"id": 14379164,
+					"id_str": "14379164",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003722387198603300,
+					"id_str": "1003722387198603266",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+					"url": "https://t.co/rUHyZamaPF",
+					"display_url": "pic.twitter.com/rUHyZamaPF",
+					"expanded_url": "https://twitter.com/EvilBachus/status/1003722391627976705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 774,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003722391627976700,
+					"source_status_id_str": "1003722391627976705",
+					"source_user_id": 14379164,
+					"source_user_id_str": "14379164"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003722387198603300,
+					"id_str": "1003722387198603266",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+					"url": "https://t.co/rUHyZamaPF",
+					"display_url": "pic.twitter.com/rUHyZamaPF",
+					"expanded_url": "https://twitter.com/EvilBachus/status/1003722391627976705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 774,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003722391627976700,
+					"source_status_id_str": "1003722391627976705",
+					"source_user_id": 14379164,
+					"source_user_id_str": "14379164"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 737,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 19:37:21 +0000 2018",
+			"id": 1003722391627976700,
+			"id_str": "1003722391627976705",
+			"text": "OpenGL is deprecated in 10.14 Mojave. /eyetwitch https://t.co/rUHyZamaPF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003722387198603300,
+						"id_str": "1003722387198603266",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+						"url": "https://t.co/rUHyZamaPF",
+						"display_url": "pic.twitter.com/rUHyZamaPF",
+						"expanded_url": "https://twitter.com/EvilBachus/status/1003722391627976705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 774,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003722387198603300,
+						"id_str": "1003722387198603266",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3wMXYUcAIhUwa.jpg",
+						"url": "https://t.co/rUHyZamaPF",
+						"display_url": "pic.twitter.com/rUHyZamaPF",
+						"expanded_url": "https://twitter.com/EvilBachus/status/1003722391627976705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 774,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 774,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14379164,
+				"id_str": "14379164",
+				"name": "Dustin Westphal",
+				"screen_name": "EvilBachus",
+				"location": "United States",
+				"description": "Owner of Killer Robots. Mac and iOS game developer.",
+				"url": "https://t.co/np8smGEe95",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/np8smGEe95",
+								"expanded_url": "http://www.killerrobots.com/",
+								"display_url": "killerrobots.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 496,
+				"friends_count": 286,
+				"listed_count": 71,
+				"created_at": "Sun Apr 13 23:58:17 +0000 2008",
+				"favourites_count": 1913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 127228,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C80CB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793591057984270336/-slKEiKN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793591057984270336/-slKEiKN_normal.jpg",
+				"profile_link_color": "041B2B",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "FF8A00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 361,
+			"favorite_count": 371,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 04 19:38:54 +0000 2018",
 		"id": 1003722782805381100,
 		"id_str": "1003722782805381120",
