@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 04:51:34 +0000 2018",
+		"id": 1003499480635793400,
+		"id_str": "1003499480635793409",
+		"text": "RT @_NeverBehave_: GitHub即将加入Office 365计划\n立即订阅365，获得无限开源项目访问权利\n（雾） https://t.co/EVejo7CkZo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_NeverBehave_",
+					"name": "NeverBehave",
+					"id": 4471849945,
+					"id_str": "4471849945",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003458343485124600,
+					"id_str": "1003458343485124608",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+					"url": "https://t.co/EVejo7CkZo",
+					"display_url": "pic.twitter.com/EVejo7CkZo",
+					"expanded_url": "https://twitter.com/_NeverBehave_/status/1003458350997127168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003458350997127200,
+					"source_status_id_str": "1003458350997127168",
+					"source_user_id": 4471849945,
+					"source_user_id_str": "4471849945"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003458343485124600,
+					"id_str": "1003458343485124608",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+					"url": "https://t.co/EVejo7CkZo",
+					"display_url": "pic.twitter.com/EVejo7CkZo",
+					"expanded_url": "https://twitter.com/_NeverBehave_/status/1003458350997127168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003458350997127200,
+					"source_status_id_str": "1003458350997127168",
+					"source_user_id": 4471849945,
+					"source_user_id_str": "4471849945"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 735,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 02:08:08 +0000 2018",
+			"id": 1003458350997127200,
+			"id_str": "1003458350997127168",
+			"text": "GitHub即将加入Office 365计划\n立即订阅365，获得无限开源项目访问权利\n（雾） https://t.co/EVejo7CkZo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003458343485124600,
+						"id_str": "1003458343485124608",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+						"url": "https://t.co/EVejo7CkZo",
+						"display_url": "pic.twitter.com/EVejo7CkZo",
+						"expanded_url": "https://twitter.com/_NeverBehave_/status/1003458350997127168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 533,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003458343485124600,
+						"id_str": "1003458343485124608",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De0AC_5VMAAb0La.jpg",
+						"url": "https://t.co/EVejo7CkZo",
+						"display_url": "pic.twitter.com/EVejo7CkZo",
+						"expanded_url": "https://twitter.com/_NeverBehave_/status/1003458350997127168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 533,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4471849945,
+				"id_str": "4471849945",
+				"name": "NeverBehave",
+				"screen_name": "_NeverBehave_",
+				"location": "Troy, NY",
+				"description": "啥都会一点又啥都不会 | 最擅长说烂话让别人拉黑我 | 欢迎 Block",
+				"url": "https://t.co/3Nn8CXbaeP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Nn8CXbaeP",
+								"expanded_url": "https://never.pet",
+								"display_url": "never.pet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31,
+				"friends_count": 29,
+				"listed_count": 1,
+				"created_at": "Sun Dec 06 05:37:34 +0000 2015",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991598594363801600/WdBu-09p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991598594363801600/WdBu-09p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4471849945/1525250326",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "zh"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh"
+	},
+	{
 		"created_at": "Mon Jun 04 03:42:13 +0000 2018",
 		"id": 1003482026165465100,
 		"id_str": "1003482026165465090",
