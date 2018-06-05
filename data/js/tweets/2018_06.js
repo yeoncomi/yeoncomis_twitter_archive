@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 22:53:45 +0000 2018",
+		"id": 1004134205402411000,
+		"id_str": "1004134205402411010",
+		"text": "RT @NormsRespecter: https://t.co/iWBep46XpD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NormsRespecter",
+					"name": "Female Body IRespectHer",
+					"id": 926527317052198900,
+					"id_str": "926527317052198912",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003679642451136500,
+					"id_str": "1003679642451136514",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+					"url": "https://t.co/iWBep46XpD",
+					"display_url": "pic.twitter.com/iWBep46XpD",
+					"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1106,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003679661585559600,
+					"source_status_id_str": "1003679661585559554",
+					"source_user_id": 926527317052198900,
+					"source_user_id_str": "926527317052198912"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003679642451136500,
+					"id_str": "1003679642451136514",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+					"url": "https://t.co/iWBep46XpD",
+					"display_url": "pic.twitter.com/iWBep46XpD",
+					"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1106,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003679661585559600,
+					"source_status_id_str": "1003679661585559554",
+					"source_user_id": 926527317052198900,
+					"source_user_id_str": "926527317052198912"
+				},
+				{
+					"id": 1003679654320988200,
+					"id_str": "1003679654320988160",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/De3JU_AW4AAW9It.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3JU_AW4AAW9It.jpg",
+					"url": "https://t.co/iWBep46XpD",
+					"display_url": "pic.twitter.com/iWBep46XpD",
+					"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 229,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 229,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 229,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003679661585559600,
+					"source_status_id_str": "1003679661585559554",
+					"source_user_id": 926527317052198900,
+					"source_user_id_str": "926527317052198912"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 16:47:33 +0000 2018",
+			"id": 1003679661585559600,
+			"id_str": "1003679661585559554",
+			"text": "https://t.co/iWBep46XpD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003679642451136500,
+						"id_str": "1003679642451136514",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+						"url": "https://t.co/iWBep46XpD",
+						"display_url": "pic.twitter.com/iWBep46XpD",
+						"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1106,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 664,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1106,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003679642451136500,
+						"id_str": "1003679642451136514",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3JUSyXUAIjJR-.jpg",
+						"url": "https://t.co/iWBep46XpD",
+						"display_url": "pic.twitter.com/iWBep46XpD",
+						"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1106,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 664,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1106,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003679654320988200,
+						"id_str": "1003679654320988160",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De3JU_AW4AAW9It.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3JU_AW4AAW9It.jpg",
+						"url": "https://t.co/iWBep46XpD",
+						"display_url": "pic.twitter.com/iWBep46XpD",
+						"expanded_url": "https://twitter.com/NormsRespecter/status/1003679661585559554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 229,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 229,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 229,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 926527317052198900,
+				"id_str": "926527317052198912",
+				"name": "Female Body IRespectHer",
+				"screen_name": "NormsRespecter",
+				"location": "the green line",
+				"description": "admin of Free-Trump-hat dot info",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13314,
+				"friends_count": 463,
+				"listed_count": 108,
+				"created_at": "Fri Nov 03 19:11:41 +0000 2017",
+				"favourites_count": 40305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7857,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926587120457629697/52KU86Ti_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926587120457629697/52KU86Ti_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926527317052198912/1509738905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6397,
+			"favorite_count": 35126,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6397,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jun 05 22:53:10 +0000 2018",
+		"id": 1004134058815774700,
+		"id_str": "1004134058815774721",
+		"text": "RT @trans_Huntress: 난 이 짤 가끔 생각나서 욱김 https://t.co/Rkpa0rJn3u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trans_Huntress",
+					"name": "와인드업 백래시조리사",
+					"id": 851256977464336400,
+					"id_str": "851256977464336384",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003222244850462700,
+					"id_str": "1003222244850462720",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+					"url": "https://t.co/Rkpa0rJn3u",
+					"display_url": "pic.twitter.com/Rkpa0rJn3u",
+					"expanded_url": "https://twitter.com/trans_Huntress/status/1003222253583065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003222253583065100,
+					"source_status_id_str": "1003222253583065088",
+					"source_user_id": 851256977464336400,
+					"source_user_id_str": "851256977464336384"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003222244850462700,
+					"id_str": "1003222244850462720",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+					"url": "https://t.co/Rkpa0rJn3u",
+					"display_url": "pic.twitter.com/Rkpa0rJn3u",
+					"expanded_url": "https://twitter.com/trans_Huntress/status/1003222253583065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003222253583065100,
+					"source_status_id_str": "1003222253583065088",
+					"source_user_id": 851256977464336400,
+					"source_user_id_str": "851256977464336384"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 03 10:29:58 +0000 2018",
+			"id": 1003222253583065100,
+			"id_str": "1003222253583065088",
+			"text": "난 이 짤 가끔 생각나서 욱김 https://t.co/Rkpa0rJn3u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003222244850462700,
+						"id_str": "1003222244850462720",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+						"url": "https://t.co/Rkpa0rJn3u",
+						"display_url": "pic.twitter.com/Rkpa0rJn3u",
+						"expanded_url": "https://twitter.com/trans_Huntress/status/1003222253583065088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 794,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 794,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003222244850462700,
+						"id_str": "1003222244850462720",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DewpUP8U8AAsyfn.jpg",
+						"url": "https://t.co/Rkpa0rJn3u",
+						"display_url": "pic.twitter.com/Rkpa0rJn3u",
+						"expanded_url": "https://twitter.com/trans_Huntress/status/1003222253583065088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 794,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 794,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 851256977464336400,
+				"id_str": "851256977464336384",
+				"name": "와인드업 백래시조리사",
+				"screen_name": "trans_Huntress",
+				"location": "",
+				"description": "애들은 건들지 마라 미친놈들아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1627,
+				"friends_count": 878,
+				"listed_count": 7,
+				"created_at": "Mon Apr 10 02:14:13 +0000 2017",
+				"favourites_count": 8435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33336,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002966534522732545/D-8tZMt8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002966534522732545/D-8tZMt8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/851256977464336384/1527035193",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7962,
+			"favorite_count": 1612,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7962,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jun 05 21:57:16 +0000 2018",
 		"id": 1004119992177053700,
 		"id_str": "1004119992177053696",
