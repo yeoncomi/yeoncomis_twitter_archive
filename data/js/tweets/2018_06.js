@@ -1,6 +1,1081 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 20:02:39 +0000 2018",
+		"id": 1004091150112657400,
+		"id_str": "1004091150112657409",
+		"text": "RT @lorenbouchard: https://t.co/mQCKnsUtmV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lorenbouchard",
+					"name": "loren bouchard",
+					"id": 304692929,
+					"id_str": "304692929",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003740021906595800,
+					"id_str": "1003740021906595841",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+					"url": "https://t.co/mQCKnsUtmV",
+					"display_url": "pic.twitter.com/mQCKnsUtmV",
+					"expanded_url": "https://twitter.com/lorenbouchard/status/1003740044656427008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003740044656427000,
+					"source_status_id_str": "1003740044656427008",
+					"source_user_id": 304692929,
+					"source_user_id_str": "304692929"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003740021906595800,
+					"id_str": "1003740021906595841",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+					"url": "https://t.co/mQCKnsUtmV",
+					"display_url": "pic.twitter.com/mQCKnsUtmV",
+					"expanded_url": "https://twitter.com/lorenbouchard/status/1003740044656427008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003740044656427000,
+					"source_status_id_str": "1003740044656427008",
+					"source_user_id": 304692929,
+					"source_user_id_str": "304692929"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 20:47:29 +0000 2018",
+			"id": 1003740044656427000,
+			"id_str": "1003740044656427008",
+			"text": "https://t.co/mQCKnsUtmV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003740021906595800,
+						"id_str": "1003740021906595841",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+						"url": "https://t.co/mQCKnsUtmV",
+						"display_url": "pic.twitter.com/mQCKnsUtmV",
+						"expanded_url": "https://twitter.com/lorenbouchard/status/1003740044656427008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003740021906595800,
+						"id_str": "1003740021906595841",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De4AO1yV4AEC-HC.jpg",
+						"url": "https://t.co/mQCKnsUtmV",
+						"display_url": "pic.twitter.com/mQCKnsUtmV",
+						"expanded_url": "https://twitter.com/lorenbouchard/status/1003740044656427008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304692929,
+				"id_str": "304692929",
+				"name": "loren bouchard",
+				"screen_name": "lorenbouchard",
+				"location": "",
+				"description": "bob's burgers guy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23534,
+				"friends_count": 151,
+				"listed_count": 136,
+				"created_at": "Tue May 24 23:26:30 +0000 2011",
+				"favourites_count": 3998,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000517229740/13c037588a7c7f72cbcbe96cf0d27c8d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000517229740/13c037588a7c7f72cbcbe96cf0d27c8d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/304692929/1526537324",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17956,
+			"favorite_count": 49606,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17956,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Tue Jun 05 20:02:20 +0000 2018",
+		"id": 1004091067329740800,
+		"id_str": "1004091067329740800",
+		"text": "RT @ItMeIRL: Me_irl https://t.co/B4NZIE7GoC https://t.co/yzAc63L3SV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ItMeIRL",
+					"name": "me irl",
+					"id": 3945972795,
+					"id_str": "3945972795",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4NZIE7GoC",
+					"expanded_url": "https://redd.it/8opv1y",
+					"display_url": "redd.it/8opv1y",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1004085678429409300,
+					"id_str": "1004085678429409281",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+					"url": "https://t.co/yzAc63L3SV",
+					"display_url": "pic.twitter.com/yzAc63L3SV",
+					"expanded_url": "https://twitter.com/ItMeIRL/status/1004085679612100609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 911,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004085679612100600,
+					"source_status_id_str": "1004085679612100609",
+					"source_user_id": 3945972795,
+					"source_user_id_str": "3945972795"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004085678429409300,
+					"id_str": "1004085678429409281",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+					"url": "https://t.co/yzAc63L3SV",
+					"display_url": "pic.twitter.com/yzAc63L3SV",
+					"expanded_url": "https://twitter.com/ItMeIRL/status/1004085679612100609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 911,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004085679612100600,
+					"source_status_id_str": "1004085679612100609",
+					"source_user_id": 3945972795,
+					"source_user_id_str": "3945972795"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 19:40:55 +0000 2018",
+			"id": 1004085679612100600,
+			"id_str": "1004085679612100609",
+			"text": "Me_irl https://t.co/B4NZIE7GoC https://t.co/yzAc63L3SV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B4NZIE7GoC",
+						"expanded_url": "https://redd.it/8opv1y",
+						"display_url": "redd.it/8opv1y",
+						"indices": [
+							7,
+							30
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1004085678429409300,
+						"id_str": "1004085678429409281",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+						"url": "https://t.co/yzAc63L3SV",
+						"display_url": "pic.twitter.com/yzAc63L3SV",
+						"expanded_url": "https://twitter.com/ItMeIRL/status/1004085679612100609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 911,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 911,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004085678429409300,
+						"id_str": "1004085678429409281",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De86msrXkAEiSJo.jpg",
+						"url": "https://t.co/yzAc63L3SV",
+						"display_url": "pic.twitter.com/yzAc63L3SV",
+						"expanded_url": "https://twitter.com/ItMeIRL/status/1004085679612100609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 911,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 911,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/corbindavenport/tootbot\" rel=\"nofollow\">me irl bot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3945972795,
+				"id_str": "3945972795",
+				"name": "me irl",
+				"screen_name": "ItMeIRL",
+				"location": "",
+				"description": "i'm a bot by @corbindavenport that mirrors the latest posts from /r/me_irl.\n\nmastodon account: https://t.co/l6iw7zLxhW",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/l6iw7zLxhW",
+								"expanded_url": "https://mastodon.social/@meirlbot",
+								"display_url": "mastodon.social/@meirlbot",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 387114,
+				"friends_count": 5,
+				"listed_count": 2427,
+				"created_at": "Tue Oct 13 11:30:21 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946108100880171008/ehE7I7Ew_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946108100880171008/ehE7I7Ew_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3945972795/1485331351",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 452,
+			"favorite_count": 1944,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 05 19:52:58 +0000 2018",
+		"id": 1004088711028412400,
+		"id_str": "1004088711028412416",
+		"text": "RT @ben_a_adams: If Oracle bought GitHub it would have been terrible... https://t.co/QhtBHHdYVl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ben_a_adams",
+					"name": "Ben Adams",
+					"id": 409910363,
+					"id_str": "409910363",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003810594020118500,
+					"id_str": "1003810594020118534",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+					"url": "https://t.co/QhtBHHdYVl",
+					"display_url": "pic.twitter.com/QhtBHHdYVl",
+					"expanded_url": "https://twitter.com/ben_a_adams/status/1003810683652395008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003810683652395000,
+					"source_status_id_str": "1003810683652395008",
+					"source_user_id": 409910363,
+					"source_user_id_str": "409910363"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003810594020118500,
+					"id_str": "1003810594020118534",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+					"url": "https://t.co/QhtBHHdYVl",
+					"display_url": "pic.twitter.com/QhtBHHdYVl",
+					"expanded_url": "https://twitter.com/ben_a_adams/status/1003810683652395008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003810683652395000,
+					"source_status_id_str": "1003810683652395008",
+					"source_user_id": 409910363,
+					"source_user_id_str": "409910363"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 01:28:11 +0000 2018",
+			"id": 1003810683652395000,
+			"id_str": "1003810683652395008",
+			"text": "If Oracle bought GitHub it would have been terrible... https://t.co/QhtBHHdYVl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003810594020118500,
+						"id_str": "1003810594020118534",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+						"url": "https://t.co/QhtBHHdYVl",
+						"display_url": "pic.twitter.com/QhtBHHdYVl",
+						"expanded_url": "https://twitter.com/ben_a_adams/status/1003810683652395008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003810594020118500,
+						"id_str": "1003810594020118534",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De5AarZX0AY-6Pd.jpg",
+						"url": "https://t.co/QhtBHHdYVl",
+						"display_url": "pic.twitter.com/QhtBHHdYVl",
+						"expanded_url": "https://twitter.com/ben_a_adams/status/1003810683652395008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 409910363,
+				"id_str": "409910363",
+				"name": "Ben Adams",
+				"screen_name": "ben_a_adams",
+				"location": ")'( The Internet",
+				"description": "British+Canadian Co-founder and CTO of @Illyriad Games, Microsoft MVP - creating @ageofascent in #HTML5 and #WebGL",
+				"url": "https://t.co/ouz1BJPWro",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ouz1BJPWro",
+								"expanded_url": "https://www.ageofascent.com/authors/ben-adams/",
+								"display_url": "ageofascent.com/authors/ben-ad…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4675,
+				"friends_count": 569,
+				"listed_count": 172,
+				"created_at": "Fri Nov 11 11:34:30 +0000 2011",
+				"favourites_count": 7586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758624302803644416/CWN6B50a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758624302803644416/CWN6B50a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/409910363/1513554674",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 737,
+			"favorite_count": 2001,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 05 18:50:16 +0000 2018",
 		"id": 1004072932740436000,
 		"id_str": "1004072932740435968",
