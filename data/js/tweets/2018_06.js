@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 18:50:16 +0000 2018",
+		"id": 1004072932740436000,
+		"id_str": "1004072932740435968",
+		"text": "RT @bezhine: 미친 허재현ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/hSisn9F5b7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bezhine",
+					"name": "쉬는 ㅋㅂㅈ",
+					"id": 2511973291,
+					"id_str": "2511973291",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003958092206202900,
+					"id_str": "1003958092206202884",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+					"url": "https://t.co/hSisn9F5b7",
+					"display_url": "pic.twitter.com/hSisn9F5b7",
+					"expanded_url": "https://twitter.com/bezhine/status/1003958116864544768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1121,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1121,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003958116864544800,
+					"source_status_id_str": "1003958116864544768",
+					"source_user_id": 2511973291,
+					"source_user_id_str": "2511973291"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003958092206202900,
+					"id_str": "1003958092206202884",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+					"url": "https://t.co/hSisn9F5b7",
+					"display_url": "pic.twitter.com/hSisn9F5b7",
+					"expanded_url": "https://twitter.com/bezhine/status/1003958116864544768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1121,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1121,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003958116864544800,
+					"source_status_id_str": "1003958116864544768",
+					"source_user_id": 2511973291,
+					"source_user_id_str": "2511973291"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 11:14:02 +0000 2018",
+			"id": 1003958116864544800,
+			"id_str": "1003958116864544768",
+			"text": "미친 허재현ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/hSisn9F5b7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003958092206202900,
+						"id_str": "1003958092206202884",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+						"url": "https://t.co/hSisn9F5b7",
+						"display_url": "pic.twitter.com/hSisn9F5b7",
+						"expanded_url": "https://twitter.com/bezhine/status/1003958116864544768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003958092206202900,
+						"id_str": "1003958092206202884",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De7GkM9UYAQrGrF.jpg",
+						"url": "https://t.co/hSisn9F5b7",
+						"display_url": "pic.twitter.com/hSisn9F5b7",
+						"expanded_url": "https://twitter.com/bezhine/status/1003958116864544768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1121,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2511973291,
+				"id_str": "2511973291",
+				"name": "쉬는 ㅋㅂㅈ",
+				"screen_name": "bezhine",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2809,
+				"friends_count": 409,
+				"listed_count": 46,
+				"created_at": "Wed May 21 08:31:09 +0000 2014",
+				"favourites_count": 4040,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 427,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994047659382947841/GnREWfrl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994047659382947841/GnREWfrl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511973291/1519806957",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jun 05 18:49:32 +0000 2018",
+		"id": 1004072748346327000,
+		"id_str": "1004072748346327040",
+		"text": "RT @muldoonx9: People need to know that New Game is 100% the truth about working on games. https://t.co/3foHerUUCU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muldoonx9",
+					"name": "Alex Hoffman @ H1Z1 free on PS4",
+					"id": 28699814,
+					"id_str": "28699814",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003450420272877600,
+					"id_str": "1003450420272877568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+					"url": "https://t.co/3foHerUUCU",
+					"display_url": "pic.twitter.com/3foHerUUCU",
+					"expanded_url": "https://twitter.com/muldoonx9/status/1003450425301823488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 495,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 495,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003450425301823500,
+					"source_status_id_str": "1003450425301823488",
+					"source_user_id": 28699814,
+					"source_user_id_str": "28699814"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003450420272877600,
+					"id_str": "1003450420272877568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+					"url": "https://t.co/3foHerUUCU",
+					"display_url": "pic.twitter.com/3foHerUUCU",
+					"expanded_url": "https://twitter.com/muldoonx9/status/1003450425301823488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 495,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 495,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003450425301823500,
+					"source_status_id_str": "1003450425301823488",
+					"source_user_id": 28699814,
+					"source_user_id_str": "28699814"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 01:36:39 +0000 2018",
+			"id": 1003450425301823500,
+			"id_str": "1003450425301823488",
+			"text": "People need to know that New Game is 100% the truth about working on games. https://t.co/3foHerUUCU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003450420272877600,
+						"id_str": "1003450420272877568",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+						"url": "https://t.co/3foHerUUCU",
+						"display_url": "pic.twitter.com/3foHerUUCU",
+						"expanded_url": "https://twitter.com/muldoonx9/status/1003450425301823488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 495,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 495,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003450420272877600,
+						"id_str": "1003450420272877568",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dez41zoU0AAgDL1.jpg",
+						"url": "https://t.co/3foHerUUCU",
+						"display_url": "pic.twitter.com/3foHerUUCU",
+						"expanded_url": "https://twitter.com/muldoonx9/status/1003450425301823488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 495,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 495,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28699814,
+				"id_str": "28699814",
+				"name": "Alex Hoffman @ H1Z1 free on PS4",
+				"screen_name": "muldoonx9",
+				"location": "San Diego",
+				"description": "Programmer for @H1Z1 at @DaybreakGames. Feel free to ask polite questions about it. Also an ice hockey goalie, pro wrestler, referee and anime liker. (he/him)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2301,
+				"friends_count": 384,
+				"listed_count": 63,
+				"created_at": "Sat Apr 04 00:42:49 +0000 2009",
+				"favourites_count": 33406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17950,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955521991389323264/nArCc9RO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955521991389323264/nArCc9RO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28699814/1527815144",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1262,
+			"favorite_count": 3399,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1262,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 05 17:57:22 +0000 2018",
 		"id": 1004059617943384000,
 		"id_str": "1004059617943384069",
