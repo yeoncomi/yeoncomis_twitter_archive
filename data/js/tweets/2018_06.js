@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 20:21:02 +0000 2018",
+		"id": 1004095773695340500,
+		"id_str": "1004095773695340544",
+		"text": "RT @guisebule: https://t.co/uEn3I32yt9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guisebule",
+					"name": "🅱🆄🅻🅴",
+					"id": 98763714,
+					"id_str": "98763714",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003812274258276400,
+					"id_str": "1003812274258276359",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+					"url": "https://t.co/uEn3I32yt9",
+					"display_url": "pic.twitter.com/uEn3I32yt9",
+					"expanded_url": "https://twitter.com/guisebule/status/1003812299323342848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 904,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 904,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003812299323342800,
+					"source_status_id_str": "1003812299323342848",
+					"source_user_id": 98763714,
+					"source_user_id_str": "98763714"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003812274258276400,
+					"id_str": "1003812274258276359",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+					"url": "https://t.co/uEn3I32yt9",
+					"display_url": "pic.twitter.com/uEn3I32yt9",
+					"expanded_url": "https://twitter.com/guisebule/status/1003812299323342848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 904,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 904,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003812299323342800,
+					"source_status_id_str": "1003812299323342848",
+					"source_user_id": 98763714,
+					"source_user_id_str": "98763714"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 01:34:36 +0000 2018",
+			"id": 1003812299323342800,
+			"id_str": "1003812299323342848",
+			"text": "https://t.co/uEn3I32yt9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003812274258276400,
+						"id_str": "1003812274258276359",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+						"url": "https://t.co/uEn3I32yt9",
+						"display_url": "pic.twitter.com/uEn3I32yt9",
+						"expanded_url": "https://twitter.com/guisebule/status/1003812299323342848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 904,
+								"h": 579,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 579,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003812274258276400,
+						"id_str": "1003812274258276359",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De5B8exXcAc3svN.jpg",
+						"url": "https://t.co/uEn3I32yt9",
+						"display_url": "pic.twitter.com/uEn3I32yt9",
+						"expanded_url": "https://twitter.com/guisebule/status/1003812299323342848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 904,
+								"h": 579,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 579,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98763714,
+				"id_str": "98763714",
+				"name": "🅱🆄🅻🅴",
+				"screen_name": "guisebule",
+				"location": "guise.bule@gmail.com",
+				"description": "Founder @Secjuice, co-founder @WEB_GAP and founder @FryUpSociety writing about #infosec & #cybersecurity. Honey trap me with puppies.",
+				"url": "https://t.co/mHRRtwFG52",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mHRRtwFG52",
+								"expanded_url": "http://secjuice.com",
+								"display_url": "secjuice.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2671,
+				"friends_count": 4581,
+				"listed_count": 96,
+				"created_at": "Wed Dec 23 01:31:27 +0000 2009",
+				"favourites_count": 18702,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4876,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961984055087681536/xhRW1Nsv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961984055087681536/xhRW1Nsv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98763714/1518190098",
+				"profile_link_color": "212121",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4824,
+			"favorite_count": 6613,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4824,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jun 05 20:02:39 +0000 2018",
 		"id": 1004091150112657400,
 		"id_str": "1004091150112657409",
