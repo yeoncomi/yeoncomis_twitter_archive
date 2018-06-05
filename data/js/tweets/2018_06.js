@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 05 21:57:16 +0000 2018",
+		"id": 1004119992177053700,
+		"id_str": "1004119992177053696",
+		"text": "RT @eevblog: Ustream are canceling their free streaming service.\n\nIn other news, IBM now own Ustream https://t.co/kzzLv2X4U5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eevblog",
+					"name": "Dave Jones",
+					"id": 77604394,
+					"id_str": "77604394",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004117224313901000,
+					"id_str": "1004117224313901056",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+					"url": "https://t.co/kzzLv2X4U5",
+					"display_url": "pic.twitter.com/kzzLv2X4U5",
+					"expanded_url": "https://twitter.com/eevblog/status/1004117376835702786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1191,
+							"h": 914,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004117376835702800,
+					"source_status_id_str": "1004117376835702786",
+					"source_user_id": 77604394,
+					"source_user_id_str": "77604394"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004117224313901000,
+					"id_str": "1004117224313901056",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+					"url": "https://t.co/kzzLv2X4U5",
+					"display_url": "pic.twitter.com/kzzLv2X4U5",
+					"expanded_url": "https://twitter.com/eevblog/status/1004117376835702786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1191,
+							"h": 914,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004117376835702800,
+					"source_status_id_str": "1004117376835702786",
+					"source_user_id": 77604394,
+					"source_user_id_str": "77604394"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 05 21:46:52 +0000 2018",
+			"id": 1004117376835702800,
+			"id_str": "1004117376835702786",
+			"text": "Ustream are canceling their free streaming service.\n\nIn other news, IBM now own Ustream https://t.co/kzzLv2X4U5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004117224313901000,
+						"id_str": "1004117224313901056",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+						"url": "https://t.co/kzzLv2X4U5",
+						"display_url": "pic.twitter.com/kzzLv2X4U5",
+						"expanded_url": "https://twitter.com/eevblog/status/1004117376835702786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1191,
+								"h": 914,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1191,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004117224313901000,
+						"id_str": "1004117224313901056",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De9XS6QU0AAzAKJ.jpg",
+						"url": "https://t.co/kzzLv2X4U5",
+						"display_url": "pic.twitter.com/kzzLv2X4U5",
+						"expanded_url": "https://twitter.com/eevblog/status/1004117376835702786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1191,
+								"h": 914,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1191,
+								"h": 914,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77604394,
+				"id_str": "77604394",
+				"name": "Dave Jones",
+				"screen_name": "eevblog",
+				"location": "Sydney, Australia",
+				"description": "Professional Engineering Youtuber. Apparently that's a real job these days?\nThis is my personal channel, so expect random crap & waffle, not just electronics.",
+				"url": "http://t.co/HxeNZGi6RM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HxeNZGi6RM",
+								"expanded_url": "http://www.eevblog.com/",
+								"display_url": "eevblog.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32122,
+				"friends_count": 129,
+				"listed_count": 589,
+				"created_at": "Sat Sep 26 23:38:39 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27713,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 05 21:57:03 +0000 2018",
+		"id": 1004119938770980900,
+		"id_str": "1004119938770980865",
+		"text": "RT @nonfarsun: '학교 어디야' 질문에 '왜요?' 말대꾸한 여학생 폭행한 50대 실형\n(https://t.co/YYxo90UBcw) https://t.co/ik1d3txnYo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nonfarsun",
+					"name": "조난실",
+					"id": 1472220277,
+					"id_str": "1472220277",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YYxo90UBcw",
+					"expanded_url": "http://v.media.daum.net/v/20180604140101053",
+					"display_url": "v.media.daum.net/v/201806041401…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1003578608940511200,
+					"id_str": "1003578608940511234",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+					"url": "https://t.co/ik1d3txnYo",
+					"display_url": "pic.twitter.com/ik1d3txnYo",
+					"expanded_url": "https://twitter.com/nonfarsun/status/1003578623654150144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003578623654150100,
+					"source_status_id_str": "1003578623654150144",
+					"source_user_id": 1472220277,
+					"source_user_id_str": "1472220277"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003578608940511200,
+					"id_str": "1003578608940511234",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+					"url": "https://t.co/ik1d3txnYo",
+					"display_url": "pic.twitter.com/ik1d3txnYo",
+					"expanded_url": "https://twitter.com/nonfarsun/status/1003578623654150144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003578623654150100,
+					"source_status_id_str": "1003578623654150144",
+					"source_user_id": 1472220277,
+					"source_user_id_str": "1472220277"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 10:06:04 +0000 2018",
+			"id": 1003578623654150100,
+			"id_str": "1003578623654150144",
+			"text": "'학교 어디야' 질문에 '왜요?' 말대꾸한 여학생 폭행한 50대 실형\n(https://t.co/YYxo90UBcw) https://t.co/ik1d3txnYo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YYxo90UBcw",
+						"expanded_url": "http://v.media.daum.net/v/20180604140101053",
+						"display_url": "v.media.daum.net/v/201806041401…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1003578608940511200,
+						"id_str": "1003578608940511234",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+						"url": "https://t.co/ik1d3txnYo",
+						"display_url": "pic.twitter.com/ik1d3txnYo",
+						"expanded_url": "https://twitter.com/nonfarsun/status/1003578623654150144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003578608940511200,
+						"id_str": "1003578608940511234",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De1tbXoUcAIQ9ys.jpg",
+						"url": "https://t.co/ik1d3txnYo",
+						"display_url": "pic.twitter.com/ik1d3txnYo",
+						"expanded_url": "https://twitter.com/nonfarsun/status/1003578623654150144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1472220277,
+				"id_str": "1472220277",
+				"name": "조난실",
+				"screen_name": "nonfarsun",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/wakhkiE5mW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wakhkiE5mW",
+								"expanded_url": "http://Instagram.com/sillyfluffy",
+								"display_url": "Instagram.com/sillyfluffy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1737,
+				"friends_count": 101,
+				"listed_count": 12,
+				"created_at": "Fri May 31 13:47:56 +0000 2013",
+				"favourites_count": 9399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1142,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945672211569848320/y9NMxLCT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945672211569848320/y9NMxLCT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472220277/1525767060",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6495,
+			"favorite_count": 577,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6495,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jun 05 20:21:02 +0000 2018",
 		"id": 1004095773695340500,
 		"id_str": "1004095773695340544",
