@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 08 08:02:08 +0000 2018",
+		"id": 1004996988260085800,
+		"id_str": "1004996988260085760",
+		"text": "RT @Barun_PC_Store: 아아ㅡ. 영롱하다.\n\n그대는 영롱했습니다.\n\n공방지기 복귀기념, 팔로우 후 이 글을 \nRT 하시면!!\n\n라이젠 장패드 5개 추첨!! https://t.co/kzXEUPEnRo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Barun_PC_Store",
+					"name": "바른 피씨 공방",
+					"id": 866698851989585900,
+					"id_str": "866698851989585920",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004991838892068900,
+					"id_str": "1004991838892068864",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+					"url": "https://t.co/kzXEUPEnRo",
+					"display_url": "pic.twitter.com/kzXEUPEnRo",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1004992153838206977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004992153838207000,
+					"source_status_id_str": "1004992153838206977",
+					"source_user_id": 866698851989585900,
+					"source_user_id_str": "866698851989585920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004991838892068900,
+					"id_str": "1004991838892068864",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+					"url": "https://t.co/kzXEUPEnRo",
+					"display_url": "pic.twitter.com/kzXEUPEnRo",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1004992153838206977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004992153838207000,
+					"source_status_id_str": "1004992153838206977",
+					"source_user_id": 866698851989585900,
+					"source_user_id_str": "866698851989585920",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/pl/HMX27Fe6U4dbcU1b.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/360x640/Rbd63WMbDBwPxZ8L.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/180x320/RwZtg0gtM4XbAi7U.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/720x1280/DozO3GFwcoEi9nsy.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 866698851989585900,
+							"id_str": "866698851989585920",
+							"name": "바른 피씨 공방",
+							"screen_name": "Barun_PC_Store",
+							"location": "선인상가 21동 2층 205호",
+							"description": "트위터 1등 판매처, 바른 PC 공방! // 구입 문의 및 상담은 DM이나 멘션으로 언제든 연락주세요 😀 / 기업 / PC방 / 법인 / 문의 OK / 문의는 오픈 카톡으로! : https://t.co/mZ3HgQdI5u / English, 日本語 Ok!",
+							"url": "https://t.co/DFAE8eyct0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/DFAE8eyct0",
+											"expanded_url": "http://m.storefarm.naver.com/barunpc",
+											"display_url": "m.storefarm.naver.com/barunpc",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/mZ3HgQdI5u",
+											"expanded_url": "https://open.kakao.com/o/sAcBHOx",
+											"display_url": "open.kakao.com/o/sAcBHOx",
+											"indices": [
+												100,
+												123
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 13985,
+							"friends_count": 0,
+							"listed_count": 34,
+							"created_at": "Mon May 22 16:54:43 +0000 2017",
+							"favourites_count": 591,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 5795,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/927730840733229056/f767jV_S_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/927730840733229056/f767jV_S_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/866698851989585920/1510028027",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 07:42:55 +0000 2018",
+			"id": 1004992153838207000,
+			"id_str": "1004992153838206977",
+			"text": "아아ㅡ. 영롱하다.\n\n그대는 영롱했습니다.\n\n공방지기 복귀기념, 팔로우 후 이 글을 \nRT 하시면!!\n\n라이젠 장패드 5개 추첨!! https://t.co/kzXEUPEnRo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004991838892068900,
+						"id_str": "1004991838892068864",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+						"url": "https://t.co/kzXEUPEnRo",
+						"display_url": "pic.twitter.com/kzXEUPEnRo",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1004992153838206977/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004991838892068900,
+						"id_str": "1004991838892068864",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1004991838892068864/pu/img/TtbAxaEZFwwxyast.jpg",
+						"url": "https://t.co/kzXEUPEnRo",
+						"display_url": "pic.twitter.com/kzXEUPEnRo",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1004992153838206977/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 45002,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/pl/HMX27Fe6U4dbcU1b.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/360x640/Rbd63WMbDBwPxZ8L.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/180x320/RwZtg0gtM4XbAi7U.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1004991838892068864/pu/vid/720x1280/DozO3GFwcoEi9nsy.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866698851989585900,
+				"id_str": "866698851989585920",
+				"name": "바른 피씨 공방",
+				"screen_name": "Barun_PC_Store",
+				"location": "선인상가 21동 2층 205호",
+				"description": "트위터 1등 판매처, 바른 PC 공방! // 구입 문의 및 상담은 DM이나 멘션으로 언제든 연락주세요 😀 / 기업 / PC방 / 법인 / 문의 OK / 문의는 오픈 카톡으로! : https://t.co/mZ3HgQdI5u / English, 日本語 Ok!",
+				"url": "https://t.co/DFAE8eyct0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DFAE8eyct0",
+								"expanded_url": "http://m.storefarm.naver.com/barunpc",
+								"display_url": "m.storefarm.naver.com/barunpc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mZ3HgQdI5u",
+								"expanded_url": "https://open.kakao.com/o/sAcBHOx",
+								"display_url": "open.kakao.com/o/sAcBHOx",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13985,
+				"friends_count": 0,
+				"listed_count": 34,
+				"created_at": "Mon May 22 16:54:43 +0000 2017",
+				"favourites_count": 591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5795,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927730840733229056/f767jV_S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927730840733229056/f767jV_S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866698851989585920/1510028027",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 259,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jun 08 07:16:20 +0000 2018",
 		"id": 1004985459976519700,
 		"id_str": "1004985459976519680",
