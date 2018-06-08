@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 08 15:02:22 +0000 2018",
+		"id": 1005102743537659900,
+		"id_str": "1005102743537659904",
+		"text": "RT @xissy: 순간 혹시 텐서플로코리아 그룹 글들로 학습해 질문 생성 모델 만들고 잘 나온 결과를 그룹에 공유한건 아닐까 생각했다. https://t.co/P5mhhYezpR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xissy",
+					"name": "Taeho Kim",
+					"id": 21280561,
+					"id_str": "21280561",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004971717683363800,
+					"id_str": "1004971717683363840",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+					"url": "https://t.co/P5mhhYezpR",
+					"display_url": "pic.twitter.com/P5mhhYezpR",
+					"expanded_url": "https://twitter.com/xissy/status/1004971718887104512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 688,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004971718887104500,
+					"source_status_id_str": "1004971718887104512",
+					"source_user_id": 21280561,
+					"source_user_id_str": "21280561"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004971717683363800,
+					"id_str": "1004971717683363840",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+					"url": "https://t.co/P5mhhYezpR",
+					"display_url": "pic.twitter.com/P5mhhYezpR",
+					"expanded_url": "https://twitter.com/xissy/status/1004971718887104512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 688,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004971718887104500,
+					"source_status_id_str": "1004971718887104512",
+					"source_user_id": 21280561,
+					"source_user_id_str": "21280561"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 06:21:43 +0000 2018",
+			"id": 1004971718887104500,
+			"id_str": "1004971718887104512",
+			"text": "순간 혹시 텐서플로코리아 그룹 글들로 학습해 질문 생성 모델 만들고 잘 나온 결과를 그룹에 공유한건 아닐까 생각했다. https://t.co/P5mhhYezpR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004971717683363800,
+						"id_str": "1004971717683363840",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+						"url": "https://t.co/P5mhhYezpR",
+						"display_url": "pic.twitter.com/P5mhhYezpR",
+						"expanded_url": "https://twitter.com/xissy/status/1004971718887104512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 688,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 688,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004971717683363800,
+						"id_str": "1004971717683363840",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJgc-HUwAAAfIi.jpg",
+						"url": "https://t.co/P5mhhYezpR",
+						"display_url": "pic.twitter.com/P5mhhYezpR",
+						"expanded_url": "https://twitter.com/xissy/status/1004971718887104512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 688,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 688,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21280561,
+				"id_str": "21280561",
+				"name": "Taeho Kim",
+				"screen_name": "xissy",
+				"location": "San Francisco, CA",
+				"description": "A programmer who can code, caffeine to codes machine, former entrepreneur in custody.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 659,
+				"friends_count": 271,
+				"listed_count": 31,
+				"created_at": "Thu Feb 19 07:06:56 +0000 2009",
+				"favourites_count": 2340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1948,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973737229527891969/K5C6RB68_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973737229527891969/K5C6RB68_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21280561/1520992022",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 08 15:02:11 +0000 2018",
+		"id": 1005102697240920000,
+		"id_str": "1005102697240920066",
+		"text": "RT @caesarkmh: 표정ㅋㅋㅋㅋㅋㅋ https://t.co/EAg2inQWJV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caesarkmh",
+					"name": "거북법순이",
+					"id": 168615141,
+					"id_str": "168615141",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004971871522021400,
+					"id_str": "1004971871522021376",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+					"url": "https://t.co/EAg2inQWJV",
+					"display_url": "pic.twitter.com/EAg2inQWJV",
+					"expanded_url": "https://twitter.com/caesarkmh/status/1004971884578988032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004971884578988000,
+					"source_status_id_str": "1004971884578988032",
+					"source_user_id": 168615141,
+					"source_user_id_str": "168615141"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004971871522021400,
+					"id_str": "1004971871522021376",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+					"url": "https://t.co/EAg2inQWJV",
+					"display_url": "pic.twitter.com/EAg2inQWJV",
+					"expanded_url": "https://twitter.com/caesarkmh/status/1004971884578988032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 339,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004971884578988000,
+					"source_status_id_str": "1004971884578988032",
+					"source_user_id": 168615141,
+					"source_user_id_str": "168615141"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 06:22:23 +0000 2018",
+			"id": 1004971884578988000,
+			"id_str": "1004971884578988032",
+			"text": "표정ㅋㅋㅋㅋㅋㅋ https://t.co/EAg2inQWJV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004971871522021400,
+						"id_str": "1004971871522021376",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+						"url": "https://t.co/EAg2inQWJV",
+						"display_url": "pic.twitter.com/EAg2inQWJV",
+						"expanded_url": "https://twitter.com/caesarkmh/status/1004971884578988032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004971871522021400,
+						"id_str": "1004971871522021376",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJgl7NUYAAWyKs.jpg",
+						"url": "https://t.co/EAg2inQWJV",
+						"display_url": "pic.twitter.com/EAg2inQWJV",
+						"expanded_url": "https://twitter.com/caesarkmh/status/1004971884578988032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168615141,
+				"id_str": "168615141",
+				"name": "거북법순이",
+				"screen_name": "caesarkmh",
+				"location": "Seoul, Korea",
+				"description": "[데스윙 / 인간여캐법사 / 작전사령관 거북법순이] 연락은 DM으로",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 214,
+				"friends_count": 208,
+				"listed_count": 10,
+				"created_at": "Tue Jul 20 10:47:20 +0000 2010",
+				"favourites_count": 923,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 141090,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/701251773198020608/zfaHgKlp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/701251773198020608/zfaHgKlp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168615141/1527929827",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4976,
+			"favorite_count": 1726,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4976,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jun 08 08:02:08 +0000 2018",
 		"id": 1004996988260085800,
 		"id_str": "1004996988260085760",
