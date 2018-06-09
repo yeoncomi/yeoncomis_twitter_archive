@@ -1,6 +1,922 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 20:57:32 +0000 2018",
+		"id": 1005554510524133400,
+		"id_str": "1005554510524133376",
+		"text": "RT @RMX_Blast: 이런애들도 예술가로 쳐줘야하냐 https://t.co/Jh3YMekSL4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RMX_Blast",
+					"name": "김글링",
+					"id": 300750925,
+					"id_str": "300750925",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005305975769686000,
+					"id_str": "1005305975769686016",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+					"url": "https://t.co/Jh3YMekSL4",
+					"display_url": "pic.twitter.com/Jh3YMekSL4",
+					"expanded_url": "https://twitter.com/RMX_Blast/status/1005305978424778752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005305978424778800,
+					"source_status_id_str": "1005305978424778752",
+					"source_user_id": 300750925,
+					"source_user_id_str": "300750925"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005305975769686000,
+					"id_str": "1005305975769686016",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+					"url": "https://t.co/Jh3YMekSL4",
+					"display_url": "pic.twitter.com/Jh3YMekSL4",
+					"expanded_url": "https://twitter.com/RMX_Blast/status/1005305978424778752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 371,
+							"h": 136,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005305978424778800,
+					"source_status_id_str": "1005305978424778752",
+					"source_user_id": 300750925,
+					"source_user_id_str": "300750925"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 739,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 04:29:57 +0000 2018",
+			"id": 1005305978424778800,
+			"id_str": "1005305978424778752",
+			"text": "이런애들도 예술가로 쳐줘야하냐 https://t.co/Jh3YMekSL4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005305975769686000,
+						"id_str": "1005305975769686016",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+						"url": "https://t.co/Jh3YMekSL4",
+						"display_url": "pic.twitter.com/Jh3YMekSL4",
+						"expanded_url": "https://twitter.com/RMX_Blast/status/1005305978424778752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 136,
+								"h": 136,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005305975769686000,
+						"id_str": "1005305975769686016",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfOQdWhUYAA-6Q5.jpg",
+						"url": "https://t.co/Jh3YMekSL4",
+						"display_url": "pic.twitter.com/Jh3YMekSL4",
+						"expanded_url": "https://twitter.com/RMX_Blast/status/1005305978424778752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 136,
+								"h": 136,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 371,
+								"h": 136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1005305813215297500,
+			"in_reply_to_status_id_str": "1005305813215297536",
+			"in_reply_to_user_id": 300750925,
+			"in_reply_to_user_id_str": "300750925",
+			"in_reply_to_screen_name": "RMX_Blast",
+			"user": {
+				"id": 300750925,
+				"id_str": "300750925",
+				"name": "김글링",
+				"screen_name": "RMX_Blast",
+				"location": "Sky Babylon",
+				"description": "Who is going to save you now...?",
+				"url": "https://t.co/oJa0vb4hWE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oJa0vb4hWE",
+								"expanded_url": "http://cityescape.tistory.com/",
+								"display_url": "cityescape.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 282,
+				"listed_count": 8,
+				"created_at": "Wed May 18 09:10:28 +0000 2011",
+				"favourites_count": 287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217355,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300750925/1528349781",
+				"profile_link_color": "1045D3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1608,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1608,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 09 20:57:18 +0000 2018",
+		"id": 1005554452474916900,
+		"id_str": "1005554452474916864",
+		"text": "RT @RMX_Blast: 현재 이 사람 인스타는 욕엄청먹고 버로우탐 https://t.co/V5EA04Tb7W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RMX_Blast",
+					"name": "김글링",
+					"id": 300750925,
+					"id_str": "300750925",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005305798904311800,
+					"id_str": "1005305798904311810",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+					"url": "https://t.co/V5EA04Tb7W",
+					"display_url": "pic.twitter.com/V5EA04Tb7W",
+					"expanded_url": "https://twitter.com/RMX_Blast/status/1005305813215297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 626,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005305813215297500,
+					"source_status_id_str": "1005305813215297536",
+					"source_user_id": 300750925,
+					"source_user_id_str": "300750925"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005305798904311800,
+					"id_str": "1005305798904311810",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+					"url": "https://t.co/V5EA04Tb7W",
+					"display_url": "pic.twitter.com/V5EA04Tb7W",
+					"expanded_url": "https://twitter.com/RMX_Blast/status/1005305813215297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 626,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005305813215297500,
+					"source_status_id_str": "1005305813215297536",
+					"source_user_id": 300750925,
+					"source_user_id_str": "300750925"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 739,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 04:29:18 +0000 2018",
+			"id": 1005305813215297500,
+			"id_str": "1005305813215297536",
+			"text": "현재 이 사람 인스타는 욕엄청먹고 버로우탐 https://t.co/V5EA04Tb7W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005305798904311800,
+						"id_str": "1005305798904311810",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+						"url": "https://t.co/V5EA04Tb7W",
+						"display_url": "pic.twitter.com/V5EA04Tb7W",
+						"expanded_url": "https://twitter.com/RMX_Blast/status/1005305813215297536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 626,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 626,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005305798904311800,
+						"id_str": "1005305798904311810",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfOQTDpU8AIdZvL.jpg",
+						"url": "https://t.co/V5EA04Tb7W",
+						"display_url": "pic.twitter.com/V5EA04Tb7W",
+						"expanded_url": "https://twitter.com/RMX_Blast/status/1005305813215297536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 626,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 626,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1005304915223199700,
+			"in_reply_to_status_id_str": "1005304915223199745",
+			"in_reply_to_user_id": 300750925,
+			"in_reply_to_user_id_str": "300750925",
+			"in_reply_to_screen_name": "RMX_Blast",
+			"user": {
+				"id": 300750925,
+				"id_str": "300750925",
+				"name": "김글링",
+				"screen_name": "RMX_Blast",
+				"location": "Sky Babylon",
+				"description": "Who is going to save you now...?",
+				"url": "https://t.co/oJa0vb4hWE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oJa0vb4hWE",
+								"expanded_url": "http://cityescape.tistory.com/",
+								"display_url": "cityescape.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 282,
+				"listed_count": 8,
+				"created_at": "Wed May 18 09:10:28 +0000 2011",
+				"favourites_count": 287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217355,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300750925/1528349781",
+				"profile_link_color": "1045D3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4895,
+			"favorite_count": 545,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4895,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 09 20:57:07 +0000 2018",
+		"id": 1005554404991176700,
+		"id_str": "1005554404991176704",
+		"text": "RT @RMX_Blast: 왠 놈이 서울 청계천에 있는 베를린 시한테 2005년에 서울베를린 교류하면서 독일에 기증 받은 베를린 장벽에다가 동독-서독 분단 시절 새겨졌던 낙서들 지우고 위에 락카칠로 전부지워버리고 본인딴엔 예술과 애국심표현한다고 본인…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RMX_Blast",
+					"name": "김글링",
+					"id": 300750925,
+					"id_str": "300750925",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 739,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 04:25:44 +0000 2018",
+			"id": 1005304915223199700,
+			"id_str": "1005304915223199745",
+			"text": "왠 놈이 서울 청계천에 있는 베를린 시한테 2005년에 서울베를린 교류하면서 독일에 기증 받은 베를린 장벽에다가 동독-서독 분단 시절 새겨졌던 낙서들 지우고 위에 락카칠로 전부지워버리고 본인딴엔 예술과 애국… https://t.co/jwHMbcyFHG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jwHMbcyFHG",
+						"expanded_url": "https://twitter.com/i/web/status/1005304915223199745",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 300750925,
+				"id_str": "300750925",
+				"name": "김글링",
+				"screen_name": "RMX_Blast",
+				"location": "Sky Babylon",
+				"description": "Who is going to save you now...?",
+				"url": "https://t.co/oJa0vb4hWE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oJa0vb4hWE",
+								"expanded_url": "http://cityescape.tistory.com/",
+								"display_url": "cityescape.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 282,
+				"listed_count": 8,
+				"created_at": "Wed May 18 09:10:28 +0000 2011",
+				"favourites_count": 287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217355,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004648828018888704/I3pmywIw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300750925/1528349781",
+				"profile_link_color": "1045D3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15420,
+			"favorite_count": 1562,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15420,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 09 04:25:41 +0000 2018",
 		"id": 1005304903533674500,
 		"id_str": "1005304903533674497",
