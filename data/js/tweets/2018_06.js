@@ -1,6 +1,1074 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 04:25:41 +0000 2018",
+		"id": 1005304903533674500,
+		"id_str": "1005304903533674497",
+		"text": "RT @mayan1969: 元ネタがあったとかスゲエ https://t.co/IuhT8FC1IX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayan1969",
+					"name": "新米先達mayan",
+					"id": 287256648,
+					"id_str": "287256648",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005029281976631300,
+					"id_str": "1005029281976631297",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+					"url": "https://t.co/IuhT8FC1IX",
+					"display_url": "pic.twitter.com/IuhT8FC1IX",
+					"expanded_url": "https://twitter.com/mayan1969/status/1005029365057548288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005029365057548300,
+					"source_status_id_str": "1005029365057548288",
+					"source_user_id": 287256648,
+					"source_user_id_str": "287256648"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005029281976631300,
+					"id_str": "1005029281976631297",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+					"url": "https://t.co/IuhT8FC1IX",
+					"display_url": "pic.twitter.com/IuhT8FC1IX",
+					"expanded_url": "https://twitter.com/mayan1969/status/1005029365057548288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005029365057548300,
+					"source_status_id_str": "1005029365057548288",
+					"source_user_id": 287256648,
+					"source_user_id_str": "287256648"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 10:10:47 +0000 2018",
+			"id": 1005029365057548300,
+			"id_str": "1005029365057548288",
+			"text": "元ネタがあったとかスゲエ https://t.co/IuhT8FC1IX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005029281976631300,
+						"id_str": "1005029281976631297",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+						"url": "https://t.co/IuhT8FC1IX",
+						"display_url": "pic.twitter.com/IuhT8FC1IX",
+						"expanded_url": "https://twitter.com/mayan1969/status/1005029365057548288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 834,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005029281976631300,
+						"id_str": "1005029281976631297",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfKUzp0VQAENKh1.jpg",
+						"url": "https://t.co/IuhT8FC1IX",
+						"display_url": "pic.twitter.com/IuhT8FC1IX",
+						"expanded_url": "https://twitter.com/mayan1969/status/1005029365057548288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 550,
+								"h": 834,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 834,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1004959715606974500,
+			"in_reply_to_status_id_str": "1004959715606974464",
+			"in_reply_to_user_id": 287256648,
+			"in_reply_to_user_id_str": "287256648",
+			"in_reply_to_screen_name": "mayan1969",
+			"user": {
+				"id": 287256648,
+				"id_str": "287256648",
+				"name": "新米先達mayan",
+				"screen_name": "mayan1969",
+				"location": "日本 青森",
+				"description": "職業：修習技術者（経営工学）。産業能率大学生。CSUEB nondegree student。会計修士（専門職）。西国先達。遍路代参。 お大師様ファン。アニメ、マンガが趣味。ＮＴＲ好物。嫁は消失長門。魔除けの呪文は「六四天安門」「釣魚島是日本領」「臺灣是獨立国不是中國」",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3266,
+				"friends_count": 3953,
+				"listed_count": 48,
+				"created_at": "Sun Apr 24 16:43:56 +0000 2011",
+				"favourites_count": 15057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64287,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2729578530/ff2c275a16334d951ebccbed386fd68e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2729578530/ff2c275a16334d951ebccbed386fd68e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/287256648/1446862143",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 117,
+			"favorite_count": 161,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jun 09 04:24:58 +0000 2018",
+		"id": 1005304723128266800,
+		"id_str": "1005304723128266752",
+		"text": "RT @mayan1969: まじであるんだな https://t.co/7ynDCjtI70",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayan1969",
+					"name": "新米先達mayan",
+					"id": 287256648,
+					"id_str": "287256648",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004959707906232300,
+					"id_str": "1004959707906232320",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+					"url": "https://t.co/7ynDCjtI70",
+					"display_url": "pic.twitter.com/7ynDCjtI70",
+					"expanded_url": "https://twitter.com/mayan1969/status/1004959715606974464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004959715606974500,
+					"source_status_id_str": "1004959715606974464",
+					"source_user_id": 287256648,
+					"source_user_id_str": "287256648"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004959707906232300,
+					"id_str": "1004959707906232320",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+					"url": "https://t.co/7ynDCjtI70",
+					"display_url": "pic.twitter.com/7ynDCjtI70",
+					"expanded_url": "https://twitter.com/mayan1969/status/1004959715606974464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004959715606974500,
+					"source_status_id_str": "1004959715606974464",
+					"source_user_id": 287256648,
+					"source_user_id_str": "287256648"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 05:34:02 +0000 2018",
+			"id": 1004959715606974500,
+			"id_str": "1004959715606974464",
+			"text": "まじであるんだな https://t.co/7ynDCjtI70",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004959707906232300,
+						"id_str": "1004959707906232320",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+						"url": "https://t.co/7ynDCjtI70",
+						"display_url": "pic.twitter.com/7ynDCjtI70",
+						"expanded_url": "https://twitter.com/mayan1969/status/1004959715606974464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004959707906232300,
+						"id_str": "1004959707906232320",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfJVh6NU0AASWyF.jpg",
+						"url": "https://t.co/7ynDCjtI70",
+						"display_url": "pic.twitter.com/7ynDCjtI70",
+						"expanded_url": "https://twitter.com/mayan1969/status/1004959715606974464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 287256648,
+				"id_str": "287256648",
+				"name": "新米先達mayan",
+				"screen_name": "mayan1969",
+				"location": "日本 青森",
+				"description": "職業：修習技術者（経営工学）。産業能率大学生。CSUEB nondegree student。会計修士（専門職）。西国先達。遍路代参。 お大師様ファン。アニメ、マンガが趣味。ＮＴＲ好物。嫁は消失長門。魔除けの呪文は「六四天安門」「釣魚島是日本領」「臺灣是獨立国不是中國」",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3266,
+				"friends_count": 3953,
+				"listed_count": 48,
+				"created_at": "Sun Apr 24 16:43:56 +0000 2011",
+				"favourites_count": 15057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64287,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2729578530/ff2c275a16334d951ebccbed386fd68e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2729578530/ff2c275a16334d951ebccbed386fd68e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/287256648/1446862143",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1303,
+			"favorite_count": 1460,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1303,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jun 09 04:19:16 +0000 2018",
+		"id": 1005303287598346200,
+		"id_str": "1005303287598346240",
+		"text": "RT @Magi_co: 새삼 느끼는 거지만 나 가카 저엉말 싫어하고 가카 시절 애국심 다 불타버린 것 같다. 사랑해요 가카 정치의 요정. 덕분에 내가 쬐금이라도 인터네셔널에 침식당해부러써...\n조국을 사랑하니 마음에 조금은 빨강을 품고 살자 읍읍",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Magi_co",
+					"name": "Pade",
+					"id": 307389351,
+					"id_str": "307389351",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 16:32:08 +0000 2018",
+			"id": 1005125332834312200,
+			"id_str": "1005125332834312193",
+			"text": "새삼 느끼는 거지만 나 가카 저엉말 싫어하고 가카 시절 애국심 다 불타버린 것 같다. 사랑해요 가카 정치의 요정. 덕분에 내가 쬐금이라도 인터네셔널에 침식당해부러써...\n조국을 사랑하니 마음에 조금은 빨강을 품고 살자 읍읍",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 307389351,
+				"id_str": "307389351",
+				"name": "Pade",
+				"screen_name": "Magi_co",
+				"location": "전뇌코어",
+				"description": "여러분이 생각하시는 '그' 인물 맞습니다.",
+				"url": "https://t.co/yAI2TimVz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAI2TimVz9",
+								"expanded_url": "http://idiot.nerd.net",
+								"display_url": "idiot.nerd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5498,
+				"friends_count": 1311,
+				"listed_count": 101,
+				"created_at": "Sun May 29 15:07:18 +0000 2011",
+				"favourites_count": 2023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3373,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987286575733063680/VcvrY7sr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987286575733063680/VcvrY7sr_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 09 04:19:07 +0000 2018",
+		"id": 1005303252529774600,
+		"id_str": "1005303252529774592",
+		"text": "RT @Magi_co: 역사를 잊은 민족에게 미래는 없다. 우리 모두 지난 9년을 기억합시다. 알고 보니 무능해서 그랬지 아주 사악한 우익놈들이었어...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Magi_co",
+					"name": "Pade",
+					"id": 307389351,
+					"id_str": "307389351",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 738,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927154637471342593/YTVoBSJC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 16:34:18 +0000 2018",
+			"id": 1005125878500622300,
+			"id_str": "1005125878500622336",
+			"text": "역사를 잊은 민족에게 미래는 없다. 우리 모두 지난 9년을 기억합시다. 알고 보니 무능해서 그랬지 아주 사악한 우익놈들이었어...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1005125332834312200,
+			"in_reply_to_status_id_str": "1005125332834312193",
+			"in_reply_to_user_id": 307389351,
+			"in_reply_to_user_id_str": "307389351",
+			"in_reply_to_screen_name": "Magi_co",
+			"user": {
+				"id": 307389351,
+				"id_str": "307389351",
+				"name": "Pade",
+				"screen_name": "Magi_co",
+				"location": "전뇌코어",
+				"description": "여러분이 생각하시는 '그' 인물 맞습니다.",
+				"url": "https://t.co/yAI2TimVz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAI2TimVz9",
+								"expanded_url": "http://idiot.nerd.net",
+								"display_url": "idiot.nerd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5498,
+				"friends_count": 1311,
+				"listed_count": 101,
+				"created_at": "Sun May 29 15:07:18 +0000 2011",
+				"favourites_count": 2023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3373,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987286575733063680/VcvrY7sr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987286575733063680/VcvrY7sr_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 09 04:16:59 +0000 2018",
 		"id": 1005302715453304800,
 		"id_str": "1005302715453304832",
