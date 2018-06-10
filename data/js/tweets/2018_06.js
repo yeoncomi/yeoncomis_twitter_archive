@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 05:03:39 +0000 2018",
+		"id": 1005676848422875100,
+		"id_str": "1005676848422875136",
+		"text": "RT @PacificNK: '대금 일부는 노르웨이산 미사일과 \"고등어\"로 받는다.'\n\n??? : 김병장님 요즘따라 고등어 반찬이 많이 나오지 말입니다. https://t.co/XPSSYC5bOS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PacificNK",
+					"name": "파다",
+					"id": 2188364334,
+					"id_str": "2188364334",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005352819832938500,
+					"id_str": "1005352819832938497",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+					"url": "https://t.co/XPSSYC5bOS",
+					"display_url": "pic.twitter.com/XPSSYC5bOS",
+					"expanded_url": "https://twitter.com/PacificNK/status/1005352829068795904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005352829068795900,
+					"source_status_id_str": "1005352829068795904",
+					"source_user_id": 2188364334,
+					"source_user_id_str": "2188364334"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005352819832938500,
+					"id_str": "1005352819832938497",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+					"url": "https://t.co/XPSSYC5bOS",
+					"display_url": "pic.twitter.com/XPSSYC5bOS",
+					"expanded_url": "https://twitter.com/PacificNK/status/1005352829068795904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005352829068795900,
+					"source_status_id_str": "1005352829068795904",
+					"source_user_id": 2188364334,
+					"source_user_id_str": "2188364334"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "공산당원 유학생🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 739,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 12834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 07:36:07 +0000 2018",
+			"id": 1005352829068795900,
+			"id_str": "1005352829068795904",
+			"text": "'대금 일부는 노르웨이산 미사일과 \"고등어\"로 받는다.'\n\n??? : 김병장님 요즘따라 고등어 반찬이 많이 나오지 말입니다. https://t.co/XPSSYC5bOS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005352819832938500,
+						"id_str": "1005352819832938497",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+						"url": "https://t.co/XPSSYC5bOS",
+						"display_url": "pic.twitter.com/XPSSYC5bOS",
+						"expanded_url": "https://twitter.com/PacificNK/status/1005352829068795904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005352819832938500,
+						"id_str": "1005352819832938497",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfO7ECQUYAEbgyx.jpg",
+						"url": "https://t.co/XPSSYC5bOS",
+						"display_url": "pic.twitter.com/XPSSYC5bOS",
+						"expanded_url": "https://twitter.com/PacificNK/status/1005352829068795904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 714,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2188364334,
+				"id_str": "2188364334",
+				"name": "파다",
+				"screen_name": "PacificNK",
+				"location": "Gotham City",
+				"description": "트와이스 공식 원스 1기 // !",
+				"url": "https://t.co/IgOAsLQLu5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IgOAsLQLu5",
+								"expanded_url": "http://cafe.daum.net/RKBO",
+								"display_url": "cafe.daum.net/RKBO",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 282,
+				"friends_count": 318,
+				"listed_count": 5,
+				"created_at": "Mon Nov 11 13:14:50 +0000 2013",
+				"favourites_count": 3073,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69608,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981728392755073024/9jeVzlPV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981728392755073024/9jeVzlPV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2188364334/1527512733",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 10 02:30:47 +0000 2018",
 		"id": 1005638377952051200,
 		"id_str": "1005638377952051200",
