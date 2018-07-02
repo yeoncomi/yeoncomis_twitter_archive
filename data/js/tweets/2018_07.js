@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 02 16:37:18 +0000 2018",
+		"id": 1013823943587725300,
+		"id_str": "1013823943587725313",
+		"text": "RT @perillamint: [ko] 스위치 리눅스 전원관리 디버깅 (“Battery desync” 버그 해결) https://t.co/9hXbHV517g https://t.co/ZqKYQ8eFAW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perillamint",
+					"name": "Elf64_Ehdr",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9hXbHV517g",
+					"expanded_url": "https://blog.quendi.moe/2018/07/02/ko-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%a0%84%ec%9b%90%ea%b4%80%eb%a6%ac-%eb%94%94%eb%b2%84%ea%b9%85-battery-desync-bugbusting/",
+					"display_url": "blog.quendi.moe/2018/07/02/ko-…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1013790102156243000,
+					"id_str": "1013790102156242944",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+					"url": "https://t.co/ZqKYQ8eFAW",
+					"display_url": "pic.twitter.com/ZqKYQ8eFAW",
+					"expanded_url": "https://twitter.com/perillamint/status/1013790103829909504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013790103829909500,
+					"source_status_id_str": "1013790103829909504",
+					"source_user_id": 2890022617,
+					"source_user_id_str": "2890022617"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013790102156243000,
+					"id_str": "1013790102156242944",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+					"url": "https://t.co/ZqKYQ8eFAW",
+					"display_url": "pic.twitter.com/ZqKYQ8eFAW",
+					"expanded_url": "https://twitter.com/perillamint/status/1013790103829909504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013790103829909500,
+					"source_status_id_str": "1013790103829909504",
+					"source_user_id": 2890022617,
+					"source_user_id_str": "2890022617"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 14:22:50 +0000 2018",
+			"id": 1013790103829909500,
+			"id_str": "1013790103829909504",
+			"text": "[ko] 스위치 리눅스 전원관리 디버깅 (“Battery desync” 버그 해결) https://t.co/9hXbHV517g https://t.co/ZqKYQ8eFAW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9hXbHV517g",
+						"expanded_url": "https://blog.quendi.moe/2018/07/02/ko-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%a0%84%ec%9b%90%ea%b4%80%eb%a6%ac-%eb%94%94%eb%b2%84%ea%b9%85-battery-desync-bugbusting/",
+						"display_url": "blog.quendi.moe/2018/07/02/ko-…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1013790102156243000,
+						"id_str": "1013790102156242944",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+						"url": "https://t.co/ZqKYQ8eFAW",
+						"display_url": "pic.twitter.com/ZqKYQ8eFAW",
+						"expanded_url": "https://twitter.com/perillamint/status/1013790103829909504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 432,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013790102156243000,
+						"id_str": "1013790102156242944",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhG0ugPUcAAR4Bk.jpg",
+						"url": "https://t.co/ZqKYQ8eFAW",
+						"display_url": "pic.twitter.com/ZqKYQ8eFAW",
+						"expanded_url": "https://twitter.com/perillamint/status/1013790103829909504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 432,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2890022617,
+				"id_str": "2890022617",
+				"name": "Elf64_Ehdr",
+				"screen_name": "perillamint",
+				"location": "시스템 어드민의 지옥",
+				"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer; 웜계 무관용 블락합니다; 더 자세한 건 여기로: https://t.co/TybCe8Gy7c",
+				"url": "https://t.co/fgKVMo9Ohs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fgKVMo9Ohs",
+								"expanded_url": "http://blog.quendi.moe",
+								"display_url": "blog.quendi.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TybCe8Gy7c",
+								"expanded_url": "http://blog.quendi.moe/about-pmint",
+								"display_url": "blog.quendi.moe/about-pmint",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1120,
+				"friends_count": 771,
+				"listed_count": 65,
+				"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+				"favourites_count": 1213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 167210,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631824011073228802/kMJb1UB5_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 02 08:08:34 +0000 2018",
 		"id": 1013695914093867000,
 		"id_str": "1013695914093867008",
