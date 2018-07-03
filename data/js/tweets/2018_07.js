@@ -1,6 +1,1325 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 02 23:52:32 +0000 2018",
+		"id": 1013933471754907600,
+		"id_str": "1013933471754907649",
+		"text": "RT @Ryunan9903: 타 국내저가항공사는 유료위탁수하물이 15키로까지고 그나마도 별도 구매할 경우 가격이 거의 5만원 가까이 나가는데, 이 항공사는 단돈 22400원(인터넷예약가)에 묻지도 따지지도 않고 20키로씩을 실어주는 대인배...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ryunan9903",
+					"name": "Ryunan",
+					"id": 124786198,
+					"id_str": "124786198",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 23:49:27 +0000 2018",
+			"id": 1013932695980666900,
+			"id_str": "1013932695980666880",
+			"text": "타 국내저가항공사는 유료위탁수하물이 15키로까지고 그나마도 별도 구매할 경우 가격이 거의 5만원 가까이 나가는데, 이 항공사는 단돈 22400원(인터넷예약가)에 묻지도 따지지도 않고 20키로씩을 실어주는 대인배...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1013931552625971200,
+			"in_reply_to_status_id_str": "1013931552625971200",
+			"in_reply_to_user_id": 124786198,
+			"in_reply_to_user_id_str": "124786198",
+			"in_reply_to_screen_name": "Ryunan9903",
+			"user": {
+				"id": 124786198,
+				"id_str": "124786198",
+				"name": "Ryunan",
+				"screen_name": "Ryunan9903",
+				"location": "한국",
+				"description": "",
+				"url": "https://t.co/jb66CNsELe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb66CNsELe",
+								"expanded_url": "http://ryunan9903.egloos.com",
+								"display_url": "ryunan9903.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1764,
+				"friends_count": 176,
+				"listed_count": 39,
+				"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+				"favourites_count": 6854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 246944,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 02 23:52:20 +0000 2018",
+		"id": 1013933424313159700,
+		"id_str": "1013933424313159680",
+		"text": "RT @Ryunan9903: 참고로 이 항공사는 어떻게든 승객이 기내에 짐을 필사적(...)으로 반입하려 해서 수하물 적재로 인한 비행기 지연을 줄이고자 기내수하물 반입규정을 7키로로 줄이는 대신 하네다, 나하 등으로 가는 위탁수하물을 기존 4만원대…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ryunan9903",
+					"name": "Ryunan",
+					"id": 124786198,
+					"id_str": "124786198",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 23:44:54 +0000 2018",
+			"id": 1013931552625971200,
+			"id_str": "1013931552625971200",
+			"text": "참고로 이 항공사는 어떻게든 승객이 기내에 짐을 필사적(...)으로 반입하려 해서 수하물 적재로 인한 비행기 지연을 줄이고자 기내수하물 반입규정을 7키로로 줄이는 대신 하네다, 나하 등으로 가는 위탁수하물을… https://t.co/j91TO37Avp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j91TO37Avp",
+						"expanded_url": "https://twitter.com/i/web/status/1013931552625971200",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1013930819054760000,
+			"in_reply_to_status_id_str": "1013930819054759936",
+			"in_reply_to_user_id": 124786198,
+			"in_reply_to_user_id_str": "124786198",
+			"in_reply_to_screen_name": "Ryunan9903",
+			"user": {
+				"id": 124786198,
+				"id_str": "124786198",
+				"name": "Ryunan",
+				"screen_name": "Ryunan9903",
+				"location": "한국",
+				"description": "",
+				"url": "https://t.co/jb66CNsELe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb66CNsELe",
+								"expanded_url": "http://ryunan9903.egloos.com",
+								"display_url": "ryunan9903.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1764,
+				"friends_count": 176,
+				"listed_count": 39,
+				"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+				"favourites_count": 6854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 246944,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 02 23:52:04 +0000 2018",
+		"id": 1013933356373831700,
+		"id_str": "1013933356373831680",
+		"text": "RT @Ryunan9903: 대한항공도, 아시아나항공도 진에어도 못타겠다.\n\n이제 우리에게 남은건 https://t.co/PGEEn4ShZf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ryunan9903",
+					"name": "Ryunan",
+					"id": 124786198,
+					"id_str": "124786198",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013930663831982100,
+					"id_str": "1013930663831982080",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+					"url": "https://t.co/PGEEn4ShZf",
+					"display_url": "pic.twitter.com/PGEEn4ShZf",
+					"expanded_url": "https://twitter.com/Ryunan9903/status/1013930819054759936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013930819054760000,
+					"source_status_id_str": "1013930819054759936",
+					"source_user_id": 124786198,
+					"source_user_id_str": "124786198"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013930663831982100,
+					"id_str": "1013930663831982080",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+					"url": "https://t.co/PGEEn4ShZf",
+					"display_url": "pic.twitter.com/PGEEn4ShZf",
+					"expanded_url": "https://twitter.com/Ryunan9903/status/1013930819054759936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013930819054760000,
+					"source_status_id_str": "1013930819054759936",
+					"source_user_id": 124786198,
+					"source_user_id_str": "124786198"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 23:41:59 +0000 2018",
+			"id": 1013930819054760000,
+			"id_str": "1013930819054759936",
+			"text": "대한항공도, 아시아나항공도 진에어도 못타겠다.\n\n이제 우리에게 남은건 https://t.co/PGEEn4ShZf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013930663831982100,
+						"id_str": "1013930663831982080",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+						"url": "https://t.co/PGEEn4ShZf",
+						"display_url": "pic.twitter.com/PGEEn4ShZf",
+						"expanded_url": "https://twitter.com/Ryunan9903/status/1013930819054759936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013930663831982100,
+						"id_str": "1013930663831982080",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhI0kRSU0AAGDZU.jpg",
+						"url": "https://t.co/PGEEn4ShZf",
+						"display_url": "pic.twitter.com/PGEEn4ShZf",
+						"expanded_url": "https://twitter.com/Ryunan9903/status/1013930819054759936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 550,
+								"h": 476,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124786198,
+				"id_str": "124786198",
+				"name": "Ryunan",
+				"screen_name": "Ryunan9903",
+				"location": "한국",
+				"description": "",
+				"url": "https://t.co/jb66CNsELe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb66CNsELe",
+								"expanded_url": "http://ryunan9903.egloos.com",
+								"display_url": "ryunan9903.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1764,
+				"friends_count": 176,
+				"listed_count": 39,
+				"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+				"favourites_count": 6854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 246944,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 02 23:29:39 +0000 2018",
+		"id": 1013927713361444900,
+		"id_str": "1013927713361444864",
+		"text": "RT @2mu__: https://t.co/poqYkVyTzw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2mu__",
+					"name": "이머",
+					"id": 729524482767888400,
+					"id_str": "729524482767888384",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1013744233407078400,
+					"id_str": "1013744233407078400",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+					"url": "https://t.co/poqYkVyTzw",
+					"display_url": "pic.twitter.com/poqYkVyTzw",
+					"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 1890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013744307226882000,
+					"source_status_id_str": "1013744307226882048",
+					"source_user_id": 729524482767888400,
+					"source_user_id_str": "729524482767888384"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1013744233407078400,
+					"id_str": "1013744233407078400",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+					"url": "https://t.co/poqYkVyTzw",
+					"display_url": "pic.twitter.com/poqYkVyTzw",
+					"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1351,
+							"h": 1890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013744307226882000,
+					"source_status_id_str": "1013744307226882048",
+					"source_user_id": 729524482767888400,
+					"source_user_id_str": "729524482767888384"
+				},
+				{
+					"id": 1013744252570890200,
+					"id_str": "1013744252570890241",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DhGLBtOU8AEJk7H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhGLBtOU8AEJk7H.jpg",
+					"url": "https://t.co/poqYkVyTzw",
+					"display_url": "pic.twitter.com/poqYkVyTzw",
+					"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1351,
+							"h": 1890,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013744307226882000,
+					"source_status_id_str": "1013744307226882048",
+					"source_user_id": 729524482767888400,
+					"source_user_id_str": "729524482767888384"
+				},
+				{
+					"id": 1013744268505071600,
+					"id_str": "1013744268505071618",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DhGLColVQAIej1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhGLColVQAIej1l.jpg",
+					"url": "https://t.co/poqYkVyTzw",
+					"display_url": "pic.twitter.com/poqYkVyTzw",
+					"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1352,
+							"h": 1890,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013744307226882000,
+					"source_status_id_str": "1013744307226882048",
+					"source_user_id": 729524482767888400,
+					"source_user_id_str": "729524482767888384"
+				},
+				{
+					"id": 1013744288977412100,
+					"id_str": "1013744288977412097",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DhGLD02UYAE4iIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhGLD02UYAE4iIB.jpg",
+					"url": "https://t.co/poqYkVyTzw",
+					"display_url": "pic.twitter.com/poqYkVyTzw",
+					"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1351,
+							"h": 1890,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1013744307226882000,
+					"source_status_id_str": "1013744307226882048",
+					"source_user_id": 729524482767888400,
+					"source_user_id_str": "729524482767888384"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 11:20:51 +0000 2018",
+			"id": 1013744307226882000,
+			"id_str": "1013744307226882048",
+			"text": "https://t.co/poqYkVyTzw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1013744233407078400,
+						"id_str": "1013744233407078400",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+						"url": "https://t.co/poqYkVyTzw",
+						"display_url": "pic.twitter.com/poqYkVyTzw",
+						"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1351,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 858,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013744233407078400,
+						"id_str": "1013744233407078400",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhGLAl1UYAAdfcA.jpg",
+						"url": "https://t.co/poqYkVyTzw",
+						"display_url": "pic.twitter.com/poqYkVyTzw",
+						"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1351,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 858,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1013744252570890200,
+						"id_str": "1013744252570890241",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhGLBtOU8AEJk7H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhGLBtOU8AEJk7H.jpg",
+						"url": "https://t.co/poqYkVyTzw",
+						"display_url": "pic.twitter.com/poqYkVyTzw",
+						"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 858,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1351,
+								"h": 1890,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1013744268505071600,
+						"id_str": "1013744268505071618",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhGLColVQAIej1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhGLColVQAIej1l.jpg",
+						"url": "https://t.co/poqYkVyTzw",
+						"display_url": "pic.twitter.com/poqYkVyTzw",
+						"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 858,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1352,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1013744288977412100,
+						"id_str": "1013744288977412097",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DhGLD02UYAE4iIB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhGLD02UYAE4iIB.jpg",
+						"url": "https://t.co/poqYkVyTzw",
+						"display_url": "pic.twitter.com/poqYkVyTzw",
+						"expanded_url": "https://twitter.com/2mu__/status/1013744307226882048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1351,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 858,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729524482767888400,
+				"id_str": "729524482767888384",
+				"name": "이머",
+				"screen_name": "2mu__",
+				"location": "",
+				"description": "어째서 朝潮 figure 발매 않습니까?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88,
+				"friends_count": 60,
+				"listed_count": 1,
+				"created_at": "Mon May 09 04:12:45 +0000 2016",
+				"favourites_count": 2496,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33983,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006036072956977152/TWotnW38_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006036072956977152/TWotnW38_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729524482767888384/1525610201",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jul 02 23:08:20 +0000 2018",
 		"id": 1013922350306168800,
 		"id_str": "1013922350306168832",
