@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 03 02:13:16 +0000 2018",
+		"id": 1013968890802520000,
+		"id_str": "1013968890802520064",
+		"text": "RT @39foreverything: ㅋ\nㅋㅋ\n ㅋㅋㅋㅋㅋ\n파판 하우징 https://t.co/g21V7kdtpl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "39foreverything",
+					"name": "티초이P ~ ティチョイP",
+					"id": 549066158,
+					"id_str": "549066158",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 835203246704767000,
+					"id_str": "835203246704766977",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+					"url": "https://t.co/g21V7kdtpl",
+					"display_url": "pic.twitter.com/g21V7kdtpl",
+					"expanded_url": "https://twitter.com/AeRitP/status/835203252580990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835203252580991000,
+					"source_status_id_str": "835203252580990976",
+					"source_user_id": 549066158,
+					"source_user_id_str": "549066158"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835203246704767000,
+					"id_str": "835203246704766977",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+					"url": "https://t.co/g21V7kdtpl",
+					"display_url": "pic.twitter.com/g21V7kdtpl",
+					"expanded_url": "https://twitter.com/AeRitP/status/835203252580990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 401,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835203252580991000,
+					"source_status_id_str": "835203252580990976",
+					"source_user_id": 549066158,
+					"source_user_id_str": "549066158"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 744,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 19:02:27 +0000 2017",
+			"id": 835203252580991000,
+			"id_str": "835203252580990976",
+			"text": "ㅋ\nㅋㅋ\n ㅋㅋㅋㅋㅋ\n파판 하우징 https://t.co/g21V7kdtpl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835203246704767000,
+						"id_str": "835203246704766977",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+						"url": "https://t.co/g21V7kdtpl",
+						"display_url": "pic.twitter.com/g21V7kdtpl",
+						"expanded_url": "https://twitter.com/AeRitP/status/835203252580990976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835203246704767000,
+						"id_str": "835203246704766977",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5c87YMXMAEI32J.jpg",
+						"url": "https://t.co/g21V7kdtpl",
+						"display_url": "pic.twitter.com/g21V7kdtpl",
+						"expanded_url": "https://twitter.com/AeRitP/status/835203252580990976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 401,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 549066158,
+				"id_str": "549066158",
+				"name": "티초이P ~ ティチョイP",
+				"screen_name": "39foreverything",
+				"location": "",
+				"description": "TYPE-MOON / iM@S (THEATER 위주) /  FinalFantasyXIV (일본섭) - RDM / 히오스 / Battleground",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 68,
+				"listed_count": 1,
+				"created_at": "Mon Apr 09 08:53:53 +0000 2012",
+				"favourites_count": 42,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5854,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875386290123886592/ufR1vALb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875386290123886592/ufR1vALb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/549066158/1492814247",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6348,
+			"favorite_count": 671,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6348,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 02 23:52:32 +0000 2018",
 		"id": 1013933471754907600,
 		"id_str": "1013933471754907649",
