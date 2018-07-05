@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 02:10:27 +0000 2018",
+		"id": 1014692955452403700,
+		"id_str": "1014692955452403712",
+		"text": "RT @ticklecatpaw: 눈알..이 아니고 블루베리 구슬젤리인데.. https://t.co/zk07AjreQl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ticklecatpaw",
+					"name": "우리엄마",
+					"id": 899563680966115300,
+					"id_str": "899563680966115328",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014051205478092800,
+					"id_str": "1014051205478092800",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+					"url": "https://t.co/zk07AjreQl",
+					"display_url": "pic.twitter.com/zk07AjreQl",
+					"expanded_url": "https://twitter.com/ticklecatpaw/status/1014051215968071683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014051215968071700,
+					"source_status_id_str": "1014051215968071683",
+					"source_user_id": 899563680966115300,
+					"source_user_id_str": "899563680966115328"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014051205478092800,
+					"id_str": "1014051205478092800",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+					"url": "https://t.co/zk07AjreQl",
+					"display_url": "pic.twitter.com/zk07AjreQl",
+					"expanded_url": "https://twitter.com/ticklecatpaw/status/1014051215968071683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014051215968071700,
+					"source_status_id_str": "1014051215968071683",
+					"source_user_id": 899563680966115300,
+					"source_user_id_str": "899563680966115328"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 07:40:24 +0000 2018",
+			"id": 1014051215968071700,
+			"id_str": "1014051215968071683",
+			"text": "눈알..이 아니고 블루베리 구슬젤리인데.. https://t.co/zk07AjreQl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014051205478092800,
+						"id_str": "1014051205478092800",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+						"url": "https://t.co/zk07AjreQl",
+						"display_url": "pic.twitter.com/zk07AjreQl",
+						"expanded_url": "https://twitter.com/ticklecatpaw/status/1014051215968071683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014051205478092800,
+						"id_str": "1014051205478092800",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhKiMt6UEAALrXR.jpg",
+						"url": "https://t.co/zk07AjreQl",
+						"display_url": "pic.twitter.com/zk07AjreQl",
+						"expanded_url": "https://twitter.com/ticklecatpaw/status/1014051215968071683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 899563680966115300,
+				"id_str": "899563680966115328",
+				"name": "우리엄마",
+				"screen_name": "ticklecatpaw",
+				"location": "",
+				"description": "(파판얘기 안하는 파판계정) \n고양이를 키우고 음식물 사진을 올리는 것을 좋아하는데 성격도 좋은 사람입니다.\n프로필사진: 바*님이 해준 심즈커마",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 15,
+				"listed_count": 0,
+				"created_at": "Mon Aug 21 09:27:49 +0000 2017",
+				"favourites_count": 592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3747,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009732231303065600/4nEDJKLT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009732231303065600/4nEDJKLT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/899563680966115328/1504154704",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4032,
+			"favorite_count": 1361,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4032,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jul 05 01:29:50 +0000 2018",
+		"id": 1014682734273261600,
+		"id_str": "1014682734273261568",
+		"text": "RT @PasteCat: 채식주의자들의 공격… 정육점 부수고 치즈가게 ‘낙서 테러’ (출처 : 동아일보 | 네이버 뉴스) https://t.co/JrN8RdX2gn\n\n소셜미디어의 발전으로 육식 혐오가 더 손쉽게 확산될 수 있었다는 지적도 있다.  “…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PasteCat",
+					"name": "고양이",
+					"id": 131836015,
+					"id_str": "131836015",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JrN8RdX2gn",
+					"expanded_url": "http://naver.me/FsabuJUx",
+					"display_url": "naver.me/FsabuJUx",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 23:29:05 +0000 2018",
+			"id": 1014652348348559400,
+			"id_str": "1014652348348559361",
+			"text": "채식주의자들의 공격… 정육점 부수고 치즈가게 ‘낙서 테러’ (출처 : 동아일보 | 네이버 뉴스) https://t.co/JrN8RdX2gn\n\n소셜미디어의 발전으로 육식 혐오가 더 손쉽게 확산될 수 있었다는… https://t.co/bEKBeMVEJI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JrN8RdX2gn",
+						"expanded_url": "http://naver.me/FsabuJUx",
+						"display_url": "naver.me/FsabuJUx",
+						"indices": [
+							54,
+							77
+						]
+					},
+					{
+						"url": "https://t.co/bEKBeMVEJI",
+						"expanded_url": "https://twitter.com/i/web/status/1014652348348559361",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131836015,
+				"id_str": "131836015",
+				"name": "고양이",
+				"screen_name": "PasteCat",
+				"location": "서울시 용산구 한남동",
+				"description": "치킨먹고싶지 않아요?",
+				"url": "https://t.co/0vEEuIWhCh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0vEEuIWhCh",
+								"expanded_url": "https://twitter.com/pastecat_photo",
+								"display_url": "twitter.com/pastecat_photo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4986,
+				"friends_count": 243,
+				"listed_count": 79,
+				"created_at": "Sun Apr 11 13:46:45 +0000 2010",
+				"favourites_count": 445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56679,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006159841461600256/FuTalK9V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006159841461600256/FuTalK9V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/131836015/1486887639",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 200,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jul 05 01:29:18 +0000 2018",
+		"id": 1014682601146241000,
+		"id_str": "1014682601146241024",
+		"text": "RT @tfurban: 중국 HNA그룹(하이난 항공이 모회사 격인 곳)의 왕젠 회장 프랑스에서 사고로 사망.\nhttps://t.co/ZblaWQOLvf\n\n하이난 항공은 아시아나 기내식 상황에서 새롭게 투자하기로 한 그 항공사.\n\n왠지 앞으로 아시아나…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tfurban",
+					"name": "서울사람, 티에프 (Mr. TF)",
+					"id": 115627357,
+					"id_str": "115627357",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZblaWQOLvf",
+					"expanded_url": "https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=008&aid=0004074384&date=20180705&type=1&rankingSeq=3&rankingSectionId=104",
+					"display_url": "news.naver.com/main/ranking/r…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 01:04:28 +0000 2018",
+			"id": 1014676351876382700,
+			"id_str": "1014676351876382720",
+			"text": "중국 HNA그룹(하이난 항공이 모회사 격인 곳)의 왕젠 회장 프랑스에서 사고로 사망.\nhttps://t.co/ZblaWQOLvf\n\n하이난 항공은 아시아나 기내식 상황에서 새롭게 투자하기로 한 그 항공사.… https://t.co/8opm1dF7IY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZblaWQOLvf",
+						"expanded_url": "https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=008&aid=0004074384&date=20180705&type=1&rankingSeq=3&rankingSectionId=104",
+						"display_url": "news.naver.com/main/ranking/r…",
+						"indices": [
+							48,
+							71
+						]
+					},
+					{
+						"url": "https://t.co/8opm1dF7IY",
+						"expanded_url": "https://twitter.com/i/web/status/1014676351876382720",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115627357,
+				"id_str": "115627357",
+				"name": "서울사람, 티에프 (Mr. TF)",
+				"screen_name": "tfurban",
+				"location": "Seoul Korea.",
+				"description": "그냥 서울 사람입니다. 서울말 잘합니다\nJust Seoul Citizen.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1760,
+				"friends_count": 1258,
+				"listed_count": 37,
+				"created_at": "Fri Feb 19 09:55:25 +0000 2010",
+				"favourites_count": 460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217464,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897624082979606528/_vqhkQmt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897624082979606528/_vqhkQmt_normal.jpg",
+				"profile_link_color": "0C7196",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 04 19:19:22 +0000 2018",
 		"id": 1014589504240246800,
 		"id_str": "1014589504240246784",
