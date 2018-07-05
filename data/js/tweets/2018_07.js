@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 03:38:44 +0000 2018",
+		"id": 1014715172206678000,
+		"id_str": "1014715172206678016",
+		"text": "RT @Mtuc_sct: ㅇㅅㅇ씨 헤어컷이 2만원짜리 컷인지에 대한 이야기는 집어치우고 일본에서 천엔짜리 컷이면 한국에서 블루클럽보다 못한 급이지 말입니다...\n물티슈랑 빗을 주는 이유는 머리를 못감게 하니까 그렇지!! https://t.co/wnB…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mtuc_sct",
+					"name": "G.Stephenson_86",
+					"id": 181939933,
+					"id_str": "181939933",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25501,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 03:23:27 +0000 2018",
+			"id": 1014711327049187300,
+			"id_str": "1014711327049187328",
+			"text": "ㅇㅅㅇ씨 헤어컷이 2만원짜리 컷인지에 대한 이야기는 집어치우고 일본에서 천엔짜리 컷이면 한국에서 블루클럽보다 못한 급이지 말입니다...\n물티슈랑 빗을 주는 이유는 머리를 못감게 하니까 그렇지!! https://t.co/wnBVVmIh03",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014710807425241100,
+						"id_str": "1014710807425241090",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DhT6GmpU0AInwl7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhT6GmpU0AInwl7.jpg",
+						"url": "https://t.co/wnBVVmIh03",
+						"display_url": "pic.twitter.com/wnBVVmIh03",
+						"expanded_url": "https://twitter.com/Mtuc_sct/status/1014711327049187328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 596,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 596,
+								"h": 1038,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014710807425241100,
+						"id_str": "1014710807425241090",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/DhT6GmpU0AInwl7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhT6GmpU0AInwl7.jpg",
+						"url": "https://t.co/wnBVVmIh03",
+						"display_url": "pic.twitter.com/wnBVVmIh03",
+						"expanded_url": "https://twitter.com/Mtuc_sct/status/1014711327049187328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 596,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 596,
+								"h": 1038,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181939933,
+				"id_str": "181939933",
+				"name": "G.Stephenson_86",
+				"screen_name": "Mtuc_sct",
+				"location": "경기도 부곡군 월암리",
+				"description": "반지하노동희망자",
+				"url": "https://t.co/diujKOKfeq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/diujKOKfeq",
+								"expanded_url": "http://intersect.dcmys.kr",
+								"display_url": "intersect.dcmys.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 360,
+				"friends_count": 419,
+				"listed_count": 20,
+				"created_at": "Mon Aug 23 12:32:54 +0000 2010",
+				"favourites_count": 1281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12755,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733201637972414464/WPYrtNPs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733201637972414464/WPYrtNPs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181939933/1426918075",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jul 05 03:09:33 +0000 2018",
 		"id": 1014707828731154400,
 		"id_str": "1014707828731154432",
