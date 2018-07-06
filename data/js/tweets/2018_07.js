@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 06 15:10:23 +0000 2018",
+		"id": 1015251619187851300,
+		"id_str": "1015251619187851265",
+		"text": "RT @whiteajd: 임원분이 방에서 모든 종류의 AI 스피커를 다 키운다. 호기심에 모두에게 몇 차례 같은 명령어를 줘봤는데 지니가 가장 멍청하고 카카오는 눈치가 없고 알렉사는 설명충, 가장 사람 같은 건 구글미니였다🤖 https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whiteajd",
+					"name": "J I M I N 🐶",
+					"id": 59638539,
+					"id_str": "59638539",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 05 12:57:55 +0000 2018",
+			"id": 1014855897758093300,
+			"id_str": "1014855897758093312",
+			"text": "임원분이 방에서 모든 종류의 AI 스피커를 다 키운다. 호기심에 모두에게 몇 차례 같은 명령어를 줘봤는데 지니가 가장 멍청하고 카카오는 눈치가 없고 알렉사는 설명충, 가장 사람 같은 건 구글미니였다🤖 https://t.co/84wt3QOZYC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014855888945885200,
+						"id_str": "1014855888945885185",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DhV-DdbVMAEDKBp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhV-DdbVMAEDKBp.jpg",
+						"url": "https://t.co/84wt3QOZYC",
+						"display_url": "pic.twitter.com/84wt3QOZYC",
+						"expanded_url": "https://twitter.com/whiteajd/status/1014855897758093312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014855888945885200,
+						"id_str": "1014855888945885185",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DhV-DdbVMAEDKBp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhV-DdbVMAEDKBp.jpg",
+						"url": "https://t.co/84wt3QOZYC",
+						"display_url": "pic.twitter.com/84wt3QOZYC",
+						"expanded_url": "https://twitter.com/whiteajd/status/1014855897758093312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59638539,
+				"id_str": "59638539",
+				"name": "J I M I N 🐶",
+				"screen_name": "whiteajd",
+				"location": "",
+				"description": "쓸데없이 즐거움",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 429,
+				"friends_count": 82,
+				"listed_count": 6,
+				"created_at": "Fri Jul 24 00:31:32 +0000 2009",
+				"favourites_count": 190,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11586,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707581104933306370/DVZZyBqq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707581104933306370/DVZZyBqq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59638539/1430564518",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3313,
+			"favorite_count": 828,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3313,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jul 06 06:26:52 +0000 2018",
 		"id": 1015119873528102900,
 		"id_str": "1015119873528102912",
