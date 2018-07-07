@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 07 06:19:42 +0000 2018",
+		"id": 1015480455972335600,
+		"id_str": "1015480455972335616",
+		"text": "RT @jhsaa: ㅋㅋㅋ  씨발~~~ 아시아나 항공 회장을 위해서  저러구 있다~~~무슨 사이비 종교도 아니고~~~ㅋㅋㅋ  미친다 https://t.co/9GZJggcGmb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jhsaa",
+					"name": "산",
+					"id": 163075520,
+					"id_str": "163075520",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015251351398314000,
+					"id_str": "1015251351398313984",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+					"url": "https://t.co/9GZJggcGmb",
+					"display_url": "pic.twitter.com/9GZJggcGmb",
+					"expanded_url": "https://twitter.com/jhsaa/status/1015251631565242368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015251631565242400,
+					"source_status_id_str": "1015251631565242368",
+					"source_user_id": 163075520,
+					"source_user_id_str": "163075520"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015251351398314000,
+					"id_str": "1015251351398313984",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+					"url": "https://t.co/9GZJggcGmb",
+					"display_url": "pic.twitter.com/9GZJggcGmb",
+					"expanded_url": "https://twitter.com/jhsaa/status/1015251631565242368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015251631565242400,
+					"source_status_id_str": "1015251631565242368",
+					"source_user_id": 163075520,
+					"source_user_id_str": "163075520",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54167,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/vid/320x180/4BNWnfFYJ_FZENa9.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/vid/640x360/dNssSKTdaH0MK5Le.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/pl/5bMu0dsGzeNTYC87.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 163075520,
+							"id_str": "163075520",
+							"name": "산",
+							"screen_name": "jhsaa",
+							"location": "",
+							"description": "고양이 두마리 랑 사는 남자.....( 고양이 채터링 하면은 뻑 갑니다 )",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 797,
+							"friends_count": 1902,
+							"listed_count": 6,
+							"created_at": "Mon Jul 05 13:51:08 +0000 2010",
+							"favourites_count": 1665,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 15504,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "8B542B",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/839976684380180486/gVS5aASa_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/839976684380180486/gVS5aASa_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/163075520/1480589229",
+							"profile_link_color": "333333",
+							"profile_sidebar_border_color": "D9B17E",
+							"profile_sidebar_fill_color": "EADEAA",
+							"profile_text_color": "9D582E",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 749,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 15:10:26 +0000 2018",
+			"id": 1015251631565242400,
+			"id_str": "1015251631565242368",
+			"text": "ㅋㅋㅋ  씨발~~~ 아시아나 항공 회장을 위해서  저러구 있다~~~무슨 사이비 종교도 아니고~~~ㅋㅋㅋ  미친다 https://t.co/9GZJggcGmb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015251351398314000,
+						"id_str": "1015251351398313984",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+						"url": "https://t.co/9GZJggcGmb",
+						"display_url": "pic.twitter.com/9GZJggcGmb",
+						"expanded_url": "https://twitter.com/jhsaa/status/1015251631565242368/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015251351398314000,
+						"id_str": "1015251351398313984",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1015251351398313984/pu/img/_4_Qkr763GVbCi6o.jpg",
+						"url": "https://t.co/9GZJggcGmb",
+						"display_url": "pic.twitter.com/9GZJggcGmb",
+						"expanded_url": "https://twitter.com/jhsaa/status/1015251631565242368/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 54167,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/vid/320x180/4BNWnfFYJ_FZENa9.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/vid/640x360/dNssSKTdaH0MK5Le.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1015251351398313984/pu/pl/5bMu0dsGzeNTYC87.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163075520,
+				"id_str": "163075520",
+				"name": "산",
+				"screen_name": "jhsaa",
+				"location": "",
+				"description": "고양이 두마리 랑 사는 남자.....( 고양이 채터링 하면은 뻑 갑니다 )",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 797,
+				"friends_count": 1902,
+				"listed_count": 6,
+				"created_at": "Mon Jul 05 13:51:08 +0000 2010",
+				"favourites_count": 1665,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15504,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839976684380180486/gVS5aASa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839976684380180486/gVS5aASa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163075520/1480589229",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "9D582E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4165,
+			"favorite_count": 544,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4165,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 07 06:05:40 +0000 2018",
 		"id": 1015476928214515700,
 		"id_str": "1015476928214515712",
