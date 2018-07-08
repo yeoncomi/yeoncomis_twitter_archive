@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 20:24:33 +0000 2018",
+		"id": 1016055460632277000,
+		"id_str": "1016055460632276992",
+		"text": "@_Hoto_Cocoa_ 주무심?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Hoto_Cocoa_",
+					"name": "Cocoa@냥체(~08.07)",
+					"id": 3378121573,
+					"id_str": "3378121573",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3378121573,
+		"in_reply_to_user_id_str": "3378121573",
+		"in_reply_to_screen_name": "_Hoto_Cocoa_",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jul 08 20:23:14 +0000 2018",
+		"id": 1016055127734489100,
+		"id_str": "1016055127734489089",
+		"text": "RT @_Hoto_Cocoa_: 정답은 작곡가=Composer=PHP Package Manager이기 때문이다냥\n엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/7UCKBhfcUV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Hoto_Cocoa_",
+					"name": "Cocoa@냥체(~08.07)",
+					"id": 3378121573,
+					"id_str": "3378121573",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016020820462743600,
+					"id_str": "1016020820462743552",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+					"url": "https://t.co/7UCKBhfcUV",
+					"display_url": "pic.twitter.com/7UCKBhfcUV",
+					"expanded_url": "https://twitter.com/_Hoto_Cocoa_/status/1016020839932747776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 818,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016020839932747800,
+					"source_status_id_str": "1016020839932747776",
+					"source_user_id": 3378121573,
+					"source_user_id_str": "3378121573"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016020820462743600,
+					"id_str": "1016020820462743552",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+					"url": "https://t.co/7UCKBhfcUV",
+					"display_url": "pic.twitter.com/7UCKBhfcUV",
+					"expanded_url": "https://twitter.com/_Hoto_Cocoa_/status/1016020839932747776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 818,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016020839932747800,
+					"source_status_id_str": "1016020839932747776",
+					"source_user_id": 3378121573,
+					"source_user_id_str": "3378121573"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 18:06:59 +0000 2018",
+			"id": 1016020839932747800,
+			"id_str": "1016020839932747776",
+			"text": "정답은 작곡가=Composer=PHP Package Manager이기 때문이다냥\n엌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/7UCKBhfcUV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016020820462743600,
+						"id_str": "1016020820462743552",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+						"url": "https://t.co/7UCKBhfcUV",
+						"display_url": "pic.twitter.com/7UCKBhfcUV",
+						"expanded_url": "https://twitter.com/_Hoto_Cocoa_/status/1016020839932747776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 818,
+								"h": 637,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 818,
+								"h": 637,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 530,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016020820462743600,
+						"id_str": "1016020820462743552",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhmhjZgVMAA_SU9.jpg",
+						"url": "https://t.co/7UCKBhfcUV",
+						"display_url": "pic.twitter.com/7UCKBhfcUV",
+						"expanded_url": "https://twitter.com/_Hoto_Cocoa_/status/1016020839932747776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 818,
+								"h": 637,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 818,
+								"h": 637,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 530,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1016020376126541800,
+			"in_reply_to_status_id_str": "1016020376126541825",
+			"in_reply_to_user_id": 3378121573,
+			"in_reply_to_user_id_str": "3378121573",
+			"in_reply_to_screen_name": "_Hoto_Cocoa_",
+			"user": {
+				"id": 3378121573,
+				"id_str": "3378121573",
+				"name": "Cocoa@냥체(~08.07)",
+				"screen_name": "_Hoto_Cocoa_",
+				"location": "Gyeyang-gu, Republic of Korea",
+				"description": "Lee Sung Jae | Want to live quietly | Private Contact : DM or cocoa@hoto.us or +82-10-7261-0303 | 트윗 기사화 하시기 전에 꼭 연락해주시기 바랍니다. | ᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟ",
+				"url": "https://t.co/TtZshNoZ2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TtZshNoZ2O",
+								"expanded_url": "https://hoto.us",
+								"display_url": "hoto.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 940,
+				"friends_count": 610,
+				"listed_count": 22,
+				"created_at": "Sat Aug 29 05:00:59 +0000 2015",
+				"favourites_count": 13950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015681004202127360/Q6YLeqK4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015681004202127360/Q6YLeqK4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3378121573/1522913610",
+				"profile_link_color": "FFC0CB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jul 08 20:23:11 +0000 2018",
+		"id": 1016055116019822600,
+		"id_str": "1016055116019822592",
+		"text": "RT @_Hoto_Cocoa_: 새벽에 노잼드립 하나 치겠다냥\n어느 동인팀이 게임을 하나 만들고 있었다냥.\n회의 도중 기획자가 \"저희 작곡가가 필요하겠는데요?\" 라고 하자,\n프로그래머가 \"뭐요? 작곡가? 같이 못해먹겠네요!\" 라고 하며 문을 박차고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Hoto_Cocoa_",
+					"name": "Cocoa@냥체(~08.07)",
+					"id": 3378121573,
+					"id_str": "3378121573",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 18:05:09 +0000 2018",
+			"id": 1016020376126541800,
+			"id_str": "1016020376126541825",
+			"text": "새벽에 노잼드립 하나 치겠다냥\n어느 동인팀이 게임을 하나 만들고 있었다냥.\n회의 도중 기획자가 \"저희 작곡가가 필요하겠는데요?\" 라고 하자,\n프로그래머가 \"뭐요? 작곡가? 같이 못해먹겠네요!\" 라고 하며 문을 박차고 나가버렸다냥.\n왤까냥?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3378121573,
+				"id_str": "3378121573",
+				"name": "Cocoa@냥체(~08.07)",
+				"screen_name": "_Hoto_Cocoa_",
+				"location": "Gyeyang-gu, Republic of Korea",
+				"description": "Lee Sung Jae | Want to live quietly | Private Contact : DM or cocoa@hoto.us or +82-10-7261-0303 | 트윗 기사화 하시기 전에 꼭 연락해주시기 바랍니다. | ᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟᅟ",
+				"url": "https://t.co/TtZshNoZ2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TtZshNoZ2O",
+								"expanded_url": "https://hoto.us",
+								"display_url": "hoto.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 940,
+				"friends_count": 610,
+				"listed_count": 22,
+				"created_at": "Sat Aug 29 05:00:59 +0000 2015",
+				"favourites_count": 13950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015681004202127360/Q6YLeqK4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015681004202127360/Q6YLeqK4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3378121573/1522913610",
+				"profile_link_color": "FFC0CB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jul 08 19:33:36 +0000 2018",
 		"id": 1016042638531629000,
 		"id_str": "1016042638531629056",
