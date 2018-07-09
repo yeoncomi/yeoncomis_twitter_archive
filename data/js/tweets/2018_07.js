@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 17:57:58 +0000 2018",
+		"id": 1016380959137017900,
+		"id_str": "1016380959137017856",
+		"text": "RT @HANBINIZM: 지금 일본에서 난리난(?) 아베 총리의 66시간 공백 시간표를 번역해보았습니다. 7월5일밤부터, 7월8일까지 약 66시간의 공백 동안 어떤 일이 있었는지 정리되어 있네요. https://t.co/faMYR5BGlu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HANBINIZM",
+					"name": "THE HANBIN",
+					"id": 139679652,
+					"id_str": "139679652",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016312956898893800,
+					"id_str": "1016312956898893825",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+					"url": "https://t.co/faMYR5BGlu",
+					"display_url": "pic.twitter.com/faMYR5BGlu",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1071,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1071,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016312966512144400,
+					"source_status_id_str": "1016312966512144391",
+					"source_user_id": 139679652,
+					"source_user_id_str": "139679652"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016312956898893800,
+					"id_str": "1016312956898893825",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+					"url": "https://t.co/faMYR5BGlu",
+					"display_url": "pic.twitter.com/faMYR5BGlu",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1071,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1071,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016312966512144400,
+					"source_status_id_str": "1016312966512144391",
+					"source_user_id": 139679652,
+					"source_user_id_str": "139679652"
+				},
+				{
+					"id": 1016312956898824200,
+					"id_str": "1016312956898824194",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqrP-iU0AI0mUv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqrP-iU0AI0mUv.jpg",
+					"url": "https://t.co/faMYR5BGlu",
+					"display_url": "pic.twitter.com/faMYR5BGlu",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 588,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 685,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016312966512144400,
+					"source_status_id_str": "1016312966512144391",
+					"source_user_id": 139679652,
+					"source_user_id_str": "139679652"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 13:27:48 +0000 2018",
+			"id": 1016312966512144400,
+			"id_str": "1016312966512144391",
+			"text": "지금 일본에서 난리난(?) 아베 총리의 66시간 공백 시간표를 번역해보았습니다. 7월5일밤부터, 7월8일까지 약 66시간의 공백 동안 어떤 일이 있었는지 정리되어 있네요. https://t.co/faMYR5BGlu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016312956898893800,
+						"id_str": "1016312956898893825",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+						"url": "https://t.co/faMYR5BGlu",
+						"display_url": "pic.twitter.com/faMYR5BGlu",
+						"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1071,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1071,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 609,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016312956898893800,
+						"id_str": "1016312956898893825",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqrP-iV4AET4xY.jpg",
+						"url": "https://t.co/faMYR5BGlu",
+						"display_url": "pic.twitter.com/faMYR5BGlu",
+						"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1071,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1071,
+								"h": 1196,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 609,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1016312956898824200,
+						"id_str": "1016312956898824194",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqrP-iU0AI0mUv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqrP-iU0AI0mUv.jpg",
+						"url": "https://t.co/faMYR5BGlu",
+						"display_url": "pic.twitter.com/faMYR5BGlu",
+						"expanded_url": "https://twitter.com/HANBINIZM/status/1016312966512144391/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 588,
+								"h": 685,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 588,
+								"h": 685,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139679652,
+				"id_str": "139679652",
+				"name": "THE HANBIN",
+				"screen_name": "HANBINIZM",
+				"location": "",
+				"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1508,
+				"friends_count": 384,
+				"listed_count": 35,
+				"created_at": "Mon May 03 10:35:31 +0000 2010",
+				"favourites_count": 8030,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 103867,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 394,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 09 15:07:40 +0000 2018",
 		"id": 1016338099226361900,
 		"id_str": "1016338099226361862",
