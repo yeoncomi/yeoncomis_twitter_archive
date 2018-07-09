@@ -1,6 +1,786 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 19:15:33 +0000 2018",
+		"id": 1016400480686071800,
+		"id_str": "1016400480686071808",
+		"text": "RT @warden_snyder: #닉네임_앞을_사로_바꾸면_사랑스럽다\n\n사든\n\n사든....?\n\n서든...어택...? \n\n서든어택2? \n\n적은 아직 살아있다 \n킹든갓택2 7월 6일 정식 오픈! https://t.co/H6FeJNiUfP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닉네임_앞을_사로_바꾸면_사랑스럽다",
+					"indices": [
+						19,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "warden_snyder",
+					"name": "빅 워든맨",
+					"id": 832459955030487000,
+					"id_str": "832459955030487042",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016374218244567000,
+					"id_str": "1016374218244567040",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+					"url": "https://t.co/H6FeJNiUfP",
+					"display_url": "pic.twitter.com/H6FeJNiUfP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 414,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016374285156286500,
+					"source_status_id_str": "1016374285156286465",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016374218244567000,
+					"id_str": "1016374218244567040",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+					"url": "https://t.co/H6FeJNiUfP",
+					"display_url": "pic.twitter.com/H6FeJNiUfP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 414,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016374285156286500,
+					"source_status_id_str": "1016374285156286465",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				},
+				{
+					"id": 1016374272174972900,
+					"id_str": "1016374272174972928",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DhrjA_vV4AAZk1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhrjA_vV4AAZk1R.jpg",
+					"url": "https://t.co/H6FeJNiUfP",
+					"display_url": "pic.twitter.com/H6FeJNiUfP",
+					"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 401,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016374285156286500,
+					"source_status_id_str": "1016374285156286465",
+					"source_user_id": 832459955030487000,
+					"source_user_id_str": "832459955030487042"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 17:31:27 +0000 2018",
+			"id": 1016374285156286500,
+			"id_str": "1016374285156286465",
+			"text": "#닉네임_앞을_사로_바꾸면_사랑스럽다\n\n사든\n\n사든....?\n\n서든...어택...? \n\n서든어택2? \n\n적은 아직 살아있다 \n킹든갓택2 7월 6일 정식 오픈! https://t.co/H6FeJNiUfP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "닉네임_앞을_사로_바꾸면_사랑스럽다",
+						"indices": [
+							0,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016374218244567000,
+						"id_str": "1016374218244567040",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+						"url": "https://t.co/H6FeJNiUfP",
+						"display_url": "pic.twitter.com/H6FeJNiUfP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 414,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016374218244567000,
+						"id_str": "1016374218244567040",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhri921VMAAYjwJ.jpg",
+						"url": "https://t.co/H6FeJNiUfP",
+						"display_url": "pic.twitter.com/H6FeJNiUfP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 352,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 414,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1016374272174972900,
+						"id_str": "1016374272174972928",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DhrjA_vV4AAZk1R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhrjA_vV4AAZk1R.jpg",
+						"url": "https://t.co/H6FeJNiUfP",
+						"display_url": "pic.twitter.com/H6FeJNiUfP",
+						"expanded_url": "https://twitter.com/warden_snyder/status/1016374285156286465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 401,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 401,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 401,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 832459955030487000,
+				"id_str": "832459955030487042",
+				"name": "빅 워든맨",
+				"screen_name": "warden_snyder",
+				"location": "",
+				"description": "디시필름유니버스땜에 레드랜턴됨/디시코믹스/아이마스 마미 프로듀서/미애니,스타워즈, 닥터후, 스타트렉등 양덕질 잘함/뻘짓 잘함 스위치 스팀 매진중",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1064,
+				"friends_count": 375,
+				"listed_count": 6,
+				"created_at": "Fri Feb 17 05:21:34 +0000 2017",
+				"favourites_count": 877,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013458390159224833/yKi-6hnW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013458390159224833/yKi-6hnW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/832459955030487042/1511320760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 09 19:08:39 +0000 2018",
+		"id": 1016398745024356400,
+		"id_str": "1016398745024356354",
+		"text": "RT @burn_in_hell17: 오늘 환자 암슬링 다시 해주다가 human bite 당해서 감염내과 외래보구 파상풍주사 이뮤노글로불린 맞구왔따,, 가노사란 얼마만큼 어디까지 극한이어야 할까,,😥 https://t.co/FgXwWaqJmk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burn_in_hell17",
+					"name": "♨️불타♨️",
+					"id": 836839958270918700,
+					"id_str": "836839958270918657",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016277099248693200,
+					"id_str": "1016277099248693248",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+					"url": "https://t.co/FgXwWaqJmk",
+					"display_url": "pic.twitter.com/FgXwWaqJmk",
+					"expanded_url": "https://twitter.com/burn_in_hell17/status/1016277144945610752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016277144945610800,
+					"source_status_id_str": "1016277144945610752",
+					"source_user_id": 836839958270918700,
+					"source_user_id_str": "836839958270918657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016277099248693200,
+					"id_str": "1016277099248693248",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+					"url": "https://t.co/FgXwWaqJmk",
+					"display_url": "pic.twitter.com/FgXwWaqJmk",
+					"expanded_url": "https://twitter.com/burn_in_hell17/status/1016277144945610752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016277144945610800,
+					"source_status_id_str": "1016277144945610752",
+					"source_user_id": 836839958270918700,
+					"source_user_id_str": "836839958270918657"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 11:05:27 +0000 2018",
+			"id": 1016277144945610800,
+			"id_str": "1016277144945610752",
+			"text": "오늘 환자 암슬링 다시 해주다가 human bite 당해서 감염내과 외래보구 파상풍주사 이뮤노글로불린 맞구왔따,, 가노사란 얼마만큼 어디까지 극한이어야 할까,,😥 https://t.co/FgXwWaqJmk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016277099248693200,
+						"id_str": "1016277099248693248",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+						"url": "https://t.co/FgXwWaqJmk",
+						"display_url": "pic.twitter.com/FgXwWaqJmk",
+						"expanded_url": "https://twitter.com/burn_in_hell17/status/1016277144945610752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016277099248693200,
+						"id_str": "1016277099248693248",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqKoyYVMAAUU3u.jpg",
+						"url": "https://t.co/FgXwWaqJmk",
+						"display_url": "pic.twitter.com/FgXwWaqJmk",
+						"expanded_url": "https://twitter.com/burn_in_hell17/status/1016277144945610752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836839958270918700,
+				"id_str": "836839958270918657",
+				"name": "♨️불타♨️",
+				"screen_name": "burn_in_hell17",
+				"location": "대한민국",
+				"description": "반짝거리고 예쁜 쓰레기에 월급을 탕진하는 방탕한 삶을 지향합니다🌸🤗🌸 내과탈출원티드 RN ✨👄💅🏻💄✨🎬✨📼✨🐈✨🍻✨✈️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310,
+				"friends_count": 168,
+				"listed_count": 0,
+				"created_at": "Wed Mar 01 07:26:08 +0000 2017",
+				"favourites_count": 4539,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 873,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016278688130785281/qr46ASyE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016278688130785281/qr46ASyE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836839958270918657/1519314443",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 09 17:57:58 +0000 2018",
 		"id": 1016380959137017900,
 		"id_str": "1016380959137017856",
