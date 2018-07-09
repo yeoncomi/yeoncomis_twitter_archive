@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 03:16:53 +0000 2018",
+		"id": 1016159224177410000,
+		"id_str": "1016159224177410049",
+		"text": "RT @CanEmbROK: 오는 7월 14일 토요일, 주한캐나다대사관은 서울 광장에서 열리는  &lt;2018 제 19회 #서울퀴어페스티벌(@sqcforg)&gt;에 참여합니다. #캐나다대사관 부스에서는 #캐나다프라이드 기념품과 함께 인스타그램 인증샷 이벤트도…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울퀴어페스티벌",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "캐나다대사관",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "캐나다프라이드",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CanEmbROK",
+					"name": "주한캐나다대사관",
+					"id": 187109046,
+					"id_str": "187109046",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "sqcforg",
+					"name": "서울퀴어문화축제 Seoul Queer Culture Festival",
+					"id": 127447244,
+					"id_str": "127447244",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 02:15:05 +0000 2018",
+			"id": 1016143673761960000,
+			"id_str": "1016143673761959936",
+			"text": "오는 7월 14일 토요일, 주한캐나다대사관은 서울 광장에서 열리는  &lt;2018 제 19회 #서울퀴어페스티벌(@sqcforg)&gt;에 참여합니다. #캐나다대사관 부스에서는 #캐나다프라이드 기념품과 함께 인스타그램… https://t.co/rkCvO24d9o",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "서울퀴어페스티벌",
+						"indices": [
+							53,
+							62
+						]
+					},
+					{
+						"text": "캐나다대사관",
+						"indices": [
+							85,
+							92
+						]
+					},
+					{
+						"text": "캐나다프라이드",
+						"indices": [
+							99,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sqcforg",
+						"name": "서울퀴어문화축제 Seoul Queer Culture Festival",
+						"id": 127447244,
+						"id_str": "127447244",
+						"indices": [
+							63,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rkCvO24d9o",
+						"expanded_url": "https://twitter.com/i/web/status/1016143673761959936",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187109046,
+				"id_str": "187109046",
+				"name": "주한캐나다대사관",
+				"screen_name": "CanEmbROK",
+				"location": "대한민국",
+				"description": "주한캐나다대사관 - English : @CanEmbKorea - http://t.co/YcijzugMJP / Français : @AmbCanCoree - http://t.co/1WWjVLLuED",
+				"url": "http://t.co/F0Kv71TcER",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F0Kv71TcER",
+								"expanded_url": "http://www.korea.gc.ca",
+								"display_url": "korea.gc.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/YcijzugMJP",
+								"expanded_url": "http://international.gc.ca/SocialMedia",
+								"display_url": "international.gc.ca/SocialMedia",
+								"indices": [
+									36,
+									58
+								]
+							},
+							{
+								"url": "http://t.co/1WWjVLLuED",
+								"expanded_url": "http://international.gc.ca/MediasSociaux",
+								"display_url": "international.gc.ca/MediasSociaux",
+								"indices": [
+									87,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6108,
+				"friends_count": 2153,
+				"listed_count": 72,
+				"created_at": "Sun Sep 05 08:23:41 +0000 2010",
+				"favourites_count": 129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187109046/1515399045",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 09 02:23:27 +0000 2018",
+		"id": 1016145780426489900,
+		"id_str": "1016145780426489856",
+		"text": "yeoncomi\nツイート数:54(前日比:+4)\nRTした数:43(前日比:+10)\nRTされた数:0(前日比:0)\n送ったリプライ数:3(前日比:+1)\n受け取ったリプライ数:2(前日比:+2)\nいいねされた数:0(前日比:-… https://t.co/7WGoyo3BfL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7WGoyo3BfL",
+					"expanded_url": "https://twitter.com/i/web/status/1016145780426489856",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Mon Jul 09 01:37:46 +0000 2018",
 		"id": 1016134281146523600,
 		"id_str": "1016134281146523648",
