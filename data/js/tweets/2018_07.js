@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 10 20:06:48 +0000 2018",
+		"id": 1016775768850890800,
+		"id_str": "1016775768850890752",
+		"text": "RT @singingdot: 하지만 한국 가톨릭이 제대로 된 조직이라면 또라이를 욕하기 전에 왜 굳이 이런 또라이 짓을 하게 되었나 묻고 성찰 해야 하지 않겠냐고요.\n이 일을 그간 국가 권력과 전면전 해온 수녀님 신부님들 고생과 비교하는 건 정말 어…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "singingdot",
+					"name": "Cing the 으아아아!",
+					"id": 2159772529,
+					"id_str": "2159772529",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 749,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 15:49:44 +0000 2018",
+			"id": 1016711073053851600,
+			"id_str": "1016711073053851648",
+			"text": "하지만 한국 가톨릭이 제대로 된 조직이라면 또라이를 욕하기 전에 왜 굳이 이런 또라이 짓을 하게 되었나 묻고 성찰 해야 하지 않겠냐고요.\n이 일을 그간 국가 권력과 전면전 해온 수녀님 신부님들 고생과 비교하는 건 정말 어불성설이고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1016710283199332400,
+			"in_reply_to_status_id_str": "1016710283199332353",
+			"in_reply_to_user_id": 2159772529,
+			"in_reply_to_user_id_str": "2159772529",
+			"in_reply_to_screen_name": "singingdot",
+			"user": {
+				"id": 2159772529,
+				"id_str": "2159772529",
+				"name": "Cing the 으아아아!",
+				"screen_name": "singingdot",
+				"location": "",
+				"description": "놀 거다!!!!!!!!!!!!!!!",
+				"url": "https://t.co/9z3RZugaxG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9z3RZugaxG",
+								"expanded_url": "http://twig13th.tistory.com/",
+								"display_url": "twig13th.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 426,
+				"friends_count": 101,
+				"listed_count": 13,
+				"created_at": "Sun Oct 27 22:50:54 +0000 2013",
+				"favourites_count": 38096,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63214,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983862774655696896/j7j3lx7r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983862774655696896/j7j3lx7r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2159772529/1523407191",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 20:01:14 +0000 2018",
+		"id": 1016774365340360700,
+		"id_str": "1016774365340360704",
+		"text": "RT @chw313: 마, 지금 성체 훼손건은 성하가 말한 때려도 되는 상황이란거지? https://t.co/03sf87h5cC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chw313",
+					"name": "미샤(Миша)",
+					"id": 2995814990,
+					"id_str": "2995814990",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016685354043170800,
+					"id_str": "1016685354043170817",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+					"url": "https://t.co/03sf87h5cC",
+					"display_url": "pic.twitter.com/03sf87h5cC",
+					"expanded_url": "https://twitter.com/chw313/status/1016685357541175296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 396,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016685357541175300,
+					"source_status_id_str": "1016685357541175296",
+					"source_user_id": 2995814990,
+					"source_user_id_str": "2995814990"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016685354043170800,
+					"id_str": "1016685354043170817",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+					"url": "https://t.co/03sf87h5cC",
+					"display_url": "pic.twitter.com/03sf87h5cC",
+					"expanded_url": "https://twitter.com/chw313/status/1016685357541175296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 396,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016685357541175300,
+					"source_status_id_str": "1016685357541175296",
+					"source_user_id": 2995814990,
+					"source_user_id_str": "2995814990"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 749,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 14:07:32 +0000 2018",
+			"id": 1016685357541175300,
+			"id_str": "1016685357541175296",
+			"text": "마, 지금 성체 훼손건은 성하가 말한 때려도 되는 상황이란거지? https://t.co/03sf87h5cC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016685354043170800,
+						"id_str": "1016685354043170817",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+						"url": "https://t.co/03sf87h5cC",
+						"display_url": "pic.twitter.com/03sf87h5cC",
+						"expanded_url": "https://twitter.com/chw313/status/1016685357541175296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 710,
+								"h": 396,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016685354043170800,
+						"id_str": "1016685354043170817",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhv98WAV4AECdKG.jpg",
+						"url": "https://t.co/03sf87h5cC",
+						"display_url": "pic.twitter.com/03sf87h5cC",
+						"expanded_url": "https://twitter.com/chw313/status/1016685357541175296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 710,
+								"h": 396,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2995814990,
+				"id_str": "2995814990",
+				"name": "미샤(Миша)",
+				"screen_name": "chw313",
+				"location": "",
+				"description": "평범한 덕후",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1468,
+				"friends_count": 393,
+				"listed_count": 15,
+				"created_at": "Sun Jan 25 12:02:55 +0000 2015",
+				"favourites_count": 3783,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21104,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009037141039411202/fD2i_0-a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009037141039411202/fD2i_0-a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2995814990/1528650124",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 114,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jul 10 18:50:22 +0000 2018",
 		"id": 1016756531952435200,
 		"id_str": "1016756531952435200",
