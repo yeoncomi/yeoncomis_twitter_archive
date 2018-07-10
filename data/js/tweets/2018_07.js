@@ -1,6 +1,3847 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 10 04:13:34 +0000 2018",
+		"id": 1016535880150839300,
+		"id_str": "1016535880150839302",
+		"text": "RT @miskyym: 보험은 사고를 당했을 때를 대비하는 겁니다 https://t.co/Fm9YcBMt0r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "miskyym",
+					"name": "격언P",
+					"id": 766100459656536000,
+					"id_str": "766100459656536065",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fm9YcBMt0r",
+					"expanded_url": "https://twitter.com/silkroad2011/status/1016471338226073600",
+					"display_url": "twitter.com/silkroad2011/s…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 00:03:19 +0000 2018",
+			"id": 1016472902315601900,
+			"id_str": "1016472902315601920",
+			"text": "보험은 사고를 당했을 때를 대비하는 겁니다 https://t.co/Fm9YcBMt0r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Fm9YcBMt0r",
+						"expanded_url": "https://twitter.com/silkroad2011/status/1016471338226073600",
+						"display_url": "twitter.com/silkroad2011/s…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 766100459656536000,
+				"id_str": "766100459656536065",
+				"name": "격언P",
+				"screen_name": "miskyym",
+				"location": "",
+				"description": "이러한 격언을 알고 계시는지?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 413,
+				"friends_count": 470,
+				"listed_count": 6,
+				"created_at": "Thu Aug 18 02:32:37 +0000 2016",
+				"favourites_count": 6413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19185,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958374282874167301/I_rhB6ai_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958374282874167301/I_rhB6ai_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/766100459656536065/1496212785",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1016471338226073600,
+			"quoted_status_id_str": "1016471338226073600",
+			"quoted_status": {
+				"created_at": "Mon Jul 09 23:57:06 +0000 2018",
+				"id": 1016471338226073600,
+				"id_str": "1016471338226073600",
+				"text": "@marielee88 @miskyym 자동차를 가진 사람은 모두 자동차 사고에 대비해서 보험을 듭니다. 모든 사람은 잘못을 저지를 수 있고 그에 맞춰 가해자 가 될 가능성이 높은 쪽에서 더 조심해야 합니다.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "marielee88",
+							"name": "Marie LEE",
+							"id": 166520643,
+							"id_str": "166520643",
+							"indices": [
+								0,
+								11
+							]
+						},
+						{
+							"screen_name": "miskyym",
+							"name": "격언P",
+							"id": 766100459656536000,
+							"id_str": "766100459656536065",
+							"indices": [
+								12,
+								20
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 1016467677882114000,
+				"in_reply_to_status_id_str": "1016467677882114048",
+				"in_reply_to_user_id": 166520643,
+				"in_reply_to_user_id_str": "166520643",
+				"in_reply_to_screen_name": "marielee88",
+				"user": {
+					"id": 156126147,
+					"id_str": "156126147",
+					"name": "등푸른 고등어!🎗",
+					"screen_name": "silkroad2011",
+					"location": "",
+					"description": "프로불만러. 주로 불만을 표합니다.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 459,
+					"friends_count": 1140,
+					"listed_count": 1,
+					"created_at": "Wed Jun 16 02:44:31 +0000 2010",
+					"favourites_count": 1276,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5469,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/744313145934512128/1JL_PFNm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/744313145934512128/1JL_PFNm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/156126147/1466293039",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 15,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 14,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1016471338226073600,
+		"quoted_status_id_str": "1016471338226073600",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 04:09:30 +0000 2018",
+		"id": 1016534853385314300,
+		"id_str": "1016534853385314304",
+		"text": "RT @if1live: #전공을_살려서\n\nPHP는 갓언어입니다\n\n근데 니가 신이 아닙니다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전공을_살려서",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "if1live",
+					"name": "씨언",
+					"id": 63709382,
+					"id_str": "63709382",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 19 10:50:18 +0000 2017",
+			"id": 898859663411654700,
+			"id_str": "898859663411654656",
+			"text": "#전공을_살려서\n\nPHP는 갓언어입니다\n\n근데 니가 신이 아닙니다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "전공을_살려서",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63709382,
+				"id_str": "63709382",
+				"name": "씨언",
+				"screen_name": "if1live",
+				"location": "Unknown",
+				"description": "헤이 츄라이 츄라이\nSteamVR:https://t.co/wjF6SpvPRw GoogleDaydream:https://t.co/kr2WIYJQEr\nGearVR:https://t.co/IulxZxxRxO iOS: https://t.co/wrQzHknrjs WinMR:https://t.co/M0N1OisfFd Rift: https://t.co/w3Lwzkjhid",
+				"url": "https://t.co/S1W5wgDjew",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S1W5wgDjew",
+								"expanded_url": "http://libsora.so",
+								"display_url": "libsora.so",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wjF6SpvPRw",
+								"expanded_url": "http://goo.gl/C2vNLJ",
+								"display_url": "goo.gl/C2vNLJ",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/kr2WIYJQEr",
+								"expanded_url": "http://goo.gl/d4oAUR",
+								"display_url": "goo.gl/d4oAUR",
+								"indices": [
+									58,
+									81
+								]
+							},
+							{
+								"url": "https://t.co/IulxZxxRxO",
+								"expanded_url": "http://goo.gl/m7hfRF",
+								"display_url": "goo.gl/m7hfRF",
+								"indices": [
+									89,
+									112
+								]
+							},
+							{
+								"url": "https://t.co/wrQzHknrjs",
+								"expanded_url": "http://goo.gl/KawvPP",
+								"display_url": "goo.gl/KawvPP",
+								"indices": [
+									118,
+									141
+								]
+							},
+							{
+								"url": "https://t.co/M0N1OisfFd",
+								"expanded_url": "http://goo.gl/ivM7yU",
+								"display_url": "goo.gl/ivM7yU",
+								"indices": [
+									148,
+									171
+								]
+							},
+							{
+								"url": "https://t.co/w3Lwzkjhid",
+								"expanded_url": "https://goo.gl/uVC1Rv",
+								"display_url": "goo.gl/uVC1Rv",
+								"indices": [
+									178,
+									201
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1150,
+				"friends_count": 938,
+				"listed_count": 74,
+				"created_at": "Fri Aug 07 12:43:46 +0000 2009",
+				"favourites_count": 604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75049,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63709382/1466133215",
+				"profile_link_color": "49A7DE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:58:37 +0000 2018",
+		"id": 1016532116266291200,
+		"id_str": "1016532116266291202",
+		"text": "RT @gaejakkdoo: 저번에 부루마블하는데\n은행장이 어느순간 아무도 모르게 조금씩 월급을 남보다 더 많이 주는걸 깨닫고나서\n너무 기쁘고 희열느끼고 비리 저지르는게 이런맛이구나 이게 횡령이구나 싶어서 계속 돈좀 잔돈으로 바꿔주세요 하면서 돈 더…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaejakkdoo",
+					"name": "강춘화박사",
+					"id": 801831043607035900,
+					"id_str": "801831043607035905",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 12:15:38 +0000 2018",
+			"id": 1016294805268131800,
+			"id_str": "1016294805268131840",
+			"text": "저번에 부루마블하는데\n은행장이 어느순간 아무도 모르게 조금씩 월급을 남보다 더 많이 주는걸 깨닫고나서\n너무 기쁘고 희열느끼고 비리 저지르는게 이런맛이구나 이게 횡령이구나 싶어서 계속 돈좀 잔돈으로 바꿔주세요… https://t.co/dKmCQadJiy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dKmCQadJiy",
+						"expanded_url": "https://twitter.com/i/web/status/1016294805268131840",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801831043607035900,
+				"id_str": "801831043607035905",
+				"name": "강춘화박사",
+				"screen_name": "gaejakkdoo",
+				"location": "",
+				"description": "존나동글이",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 180,
+				"friends_count": 233,
+				"listed_count": 0,
+				"created_at": "Thu Nov 24 16:53:12 +0000 2016",
+				"favourites_count": 8016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13504,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004077870656905216/SGoFoGmZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004077870656905216/SGoFoGmZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801831043607035905/1529719002",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 506,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:57:39 +0000 2018",
+		"id": 1016531874569601000,
+		"id_str": "1016531874569601024",
+		"text": "콘솔이 무슨 벼슬인가",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:55:29 +0000 2018",
+		"id": 1016531327829487600,
+		"id_str": "1016531327829487617",
+		"text": "갑자기 분위기 방맣희",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:55:09 +0000 2018",
+		"id": 1016531242894803000,
+		"id_str": "1016531242894802944",
+		"text": "RT @instiz: 일본 공주 협박한 한국인 잡고보니 https://t.co/Xc2hBufRSp https://t.co/BZpbiiNGBz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "instiz",
+					"name": "인스티즈 연예소식",
+					"id": 184363884,
+					"id_str": "184363884",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xc2hBufRSp",
+					"expanded_url": "http://instiz.net/pt/5739604",
+					"display_url": "instiz.net/pt/5739604",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1015956305754796000,
+					"id_str": "1015956305754796033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+					"url": "https://t.co/BZpbiiNGBz",
+					"display_url": "pic.twitter.com/BZpbiiNGBz",
+					"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 704,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 704,
+							"h": 760,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015956325509951500,
+					"source_status_id_str": "1015956325509951488",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015956305754796000,
+					"id_str": "1015956305754796033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+					"url": "https://t.co/BZpbiiNGBz",
+					"display_url": "pic.twitter.com/BZpbiiNGBz",
+					"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 704,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 704,
+							"h": 760,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015956325509951500,
+					"source_status_id_str": "1015956325509951488",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 1015956305754800100,
+					"id_str": "1015956305754800129",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhlm4JfVQAEDm5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVQAEDm5_.jpg",
+					"url": "https://t.co/BZpbiiNGBz",
+					"display_url": "pic.twitter.com/BZpbiiNGBz",
+					"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 731,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 731,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015956325509951500,
+					"source_status_id_str": "1015956325509951488",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 1015956305587011600,
+					"id_str": "1015956305587011586",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhlm4I3VAAIuavt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhlm4I3VAAIuavt.jpg",
+					"url": "https://t.co/BZpbiiNGBz",
+					"display_url": "pic.twitter.com/BZpbiiNGBz",
+					"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015956325509951500,
+					"source_status_id_str": "1015956325509951488",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 1015956305503137800,
+					"id_str": "1015956305503137793",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhlm4IjVMAE_vab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhlm4IjVMAE_vab.jpg",
+					"url": "https://t.co/BZpbiiNGBz",
+					"display_url": "pic.twitter.com/BZpbiiNGBz",
+					"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015956325509951500,
+					"source_status_id_str": "1015956325509951488",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 13:50:38 +0000 2018",
+			"id": 1015956325509951500,
+			"id_str": "1015956325509951488",
+			"text": "일본 공주 협박한 한국인 잡고보니 https://t.co/Xc2hBufRSp https://t.co/BZpbiiNGBz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xc2hBufRSp",
+						"expanded_url": "http://instiz.net/pt/5739604",
+						"display_url": "instiz.net/pt/5739604",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1015956305754796000,
+						"id_str": "1015956305754796033",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+						"url": "https://t.co/BZpbiiNGBz",
+						"display_url": "pic.twitter.com/BZpbiiNGBz",
+						"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 704,
+								"h": 760,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 704,
+								"h": 760,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015956305754796000,
+						"id_str": "1015956305754796033",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVMAEEJzb.jpg",
+						"url": "https://t.co/BZpbiiNGBz",
+						"display_url": "pic.twitter.com/BZpbiiNGBz",
+						"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 704,
+								"h": 760,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 704,
+								"h": 760,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015956305754800100,
+						"id_str": "1015956305754800129",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhlm4JfVQAEDm5_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhlm4JfVQAEDm5_.jpg",
+						"url": "https://t.co/BZpbiiNGBz",
+						"display_url": "pic.twitter.com/BZpbiiNGBz",
+						"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 704,
+								"h": 731,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 731,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 655,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015956305587011600,
+						"id_str": "1015956305587011586",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhlm4I3VAAIuavt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhlm4I3VAAIuavt.jpg",
+						"url": "https://t.co/BZpbiiNGBz",
+						"display_url": "pic.twitter.com/BZpbiiNGBz",
+						"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 704,
+								"h": 392,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1015956305503137800,
+						"id_str": "1015956305503137793",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhlm4IjVMAE_vab.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhlm4IjVMAE_vab.jpg",
+						"url": "https://t.co/BZpbiiNGBz",
+						"display_url": "pic.twitter.com/BZpbiiNGBz",
+						"expanded_url": "https://twitter.com/instiz/status/1015956325509951488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 704,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 704,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 448,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184363884,
+				"id_str": "184363884",
+				"name": "인스티즈 연예소식",
+				"screen_name": "instiz",
+				"location": "많은 연예계 이슈가 여기서 시작!",
+				"description": "국내 최대의 연예오락 커뮤니티 인스티즈(instiz, 音思提资)",
+				"url": "https://t.co/kA7Yyj98FV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kA7Yyj98FV",
+								"expanded_url": "http://www.instiz.net",
+								"display_url": "instiz.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 965257,
+				"friends_count": 434962,
+				"listed_count": 972,
+				"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67950,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970955116260990976/jQbZRz2b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970955116260990976/jQbZRz2b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1526039133",
+				"profile_link_color": "0DAB57",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 750,
+			"favorite_count": 137,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:54:38 +0000 2018",
+		"id": 1016531112485478400,
+		"id_str": "1016531112485478401",
+		"text": "RT @aheui: 안녕하세요. 나는 Aheui Dabiri다. 번역기 도움 써요.\n\n최근 Korean 프로그래머가 아희를 몰라요?\n그들은 알아야 한다 그것은 beautiful 언어 Hangul 안에 있는.\nuseful 코드가 있다 밯망희를 호출.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aheui",
+					"name": "아희 Aesthetics",
+					"id": 472679452,
+					"id_str": "472679452",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 29 03:44:55 +0000 2018",
+			"id": 1012542402769256400,
+			"id_str": "1012542402769256453",
+			"text": "안녕하세요. 나는 Aheui Dabiri다. 번역기 도움 써요.\n\n최근 Korean 프로그래머가 아희를 몰라요?\n그들은 알아야 한다 그것은 beautiful 언어 Hangul 안에 있는.\nuseful 코드가… https://t.co/AdbHHroo0u",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AdbHHroo0u",
+						"expanded_url": "https://twitter.com/i/web/status/1012542402769256453",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 472679452,
+				"id_str": "472679452",
+				"name": "아희 Aesthetics",
+				"screen_name": "aheui",
+				"location": "",
+				"description": "사용법:  @aheui 밝밦따망희 → 42 //  @aheui 방맣희 45678 → 뉮 //  줄바꿈('\\n') 띄어쓰기(' ') 구분하므로 여러 줄로 코드 쓸 때 주의",
+				"url": "https://t.co/mqKZrG5BpV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mqKZrG5BpV",
+								"expanded_url": "http://aheui.github.io",
+								"display_url": "aheui.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 615,
+				"friends_count": 0,
+				"listed_count": 4,
+				"created_at": "Tue Jan 24 05:56:24 +0000 2012",
+				"favourites_count": 239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3825,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980458764913360897/XXuPeAth_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980458764913360897/XXuPeAth_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:51:37 +0000 2018",
+		"id": 1016530354100846600,
+		"id_str": "1016530354100846592",
+		"text": "ITS FUN TO BE ON THE DDLC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 03:51:26 +0000 2018",
+		"id": 1016530309511196700,
+		"id_str": "1016530309511196672",
+		"text": "DDLC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 03:51:22 +0000 2018",
+		"id": 1016530293971304400,
+		"id_str": "1016530293971304451",
+		"text": "RT @hk198101: 내가 올해 들었던 말중에 가장 개소리닼ㅋㅋㅋㅋㅋㅋ https://t.co/x1hJIBdFg9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hk198101",
+					"name": "요일/YOIL/ヨイル",
+					"id": 723858851397656600,
+					"id_str": "723858851397656576",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016454915164532700,
+					"id_str": "1016454915164532736",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+					"url": "https://t.co/x1hJIBdFg9",
+					"display_url": "pic.twitter.com/x1hJIBdFg9",
+					"expanded_url": "https://twitter.com/hk198101/status/1016454924916281344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 912,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016454924916281300,
+					"source_status_id_str": "1016454924916281344",
+					"source_user_id": 723858851397656600,
+					"source_user_id_str": "723858851397656576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016454915164532700,
+					"id_str": "1016454915164532736",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+					"url": "https://t.co/x1hJIBdFg9",
+					"display_url": "pic.twitter.com/x1hJIBdFg9",
+					"expanded_url": "https://twitter.com/hk198101/status/1016454924916281344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 912,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016454924916281300,
+					"source_status_id_str": "1016454924916281344",
+					"source_user_id": 723858851397656600,
+					"source_user_id_str": "723858851397656576"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 22:51:53 +0000 2018",
+			"id": 1016454924916281300,
+			"id_str": "1016454924916281344",
+			"text": "내가 올해 들었던 말중에 가장 개소리닼ㅋㅋㅋㅋㅋㅋ https://t.co/x1hJIBdFg9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016454915164532700,
+						"id_str": "1016454915164532736",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+						"url": "https://t.co/x1hJIBdFg9",
+						"display_url": "pic.twitter.com/x1hJIBdFg9",
+						"expanded_url": "https://twitter.com/hk198101/status/1016454924916281344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1438,
+								"h": 912,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016454915164532700,
+						"id_str": "1016454915164532736",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhssXCSU8AAR8xQ.jpg",
+						"url": "https://t.co/x1hJIBdFg9",
+						"display_url": "pic.twitter.com/x1hJIBdFg9",
+						"expanded_url": "https://twitter.com/hk198101/status/1016454924916281344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1438,
+								"h": 912,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 723858851397656600,
+				"id_str": "723858851397656576",
+				"name": "요일/YOIL/ヨイル",
+				"screen_name": "hk198101",
+				"location": "韓国 大田  대전",
+				"description": "VAPE(Mod),기타,백수짓을 주력으로 달리는 고인물이에여!! 팔로잉주시면 달려가겠습니다!! 반모,카톡 등 친해지는 기회는 연중무효!!24시간 대기랍니다!日本語でもokです!",
+				"url": "https://t.co/ym11f43u3Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ym11f43u3Z",
+								"expanded_url": "https://www.youtube.com/channel/UC-ri1fUZoA2XsArgy20p2cg",
+								"display_url": "youtube.com/channel/UC-ri1…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 123,
+				"listed_count": 1,
+				"created_at": "Sat Apr 23 12:59:33 +0000 2016",
+				"favourites_count": 3277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5388,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980242475418701827/gdm3LKvM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980242475418701827/gdm3LKvM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/723858851397656576/1522542994",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1294,
+			"favorite_count": 107,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1294,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:50:40 +0000 2018",
+		"id": 1016530114954256400,
+		"id_str": "1016530114954256384",
+		"text": "RT @angbffff: 포르자 켰다 https://t.co/siccJfDJdb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "angbffff",
+					"name": "무휼",
+					"id": 804136380,
+					"id_str": "804136380",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015204904955043800,
+					"id_str": "1015204904955043840",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+					"url": "https://t.co/siccJfDJdb",
+					"display_url": "pic.twitter.com/siccJfDJdb",
+					"expanded_url": "https://twitter.com/angbffff/status/1015204944511553537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015204944511553500,
+					"source_status_id_str": "1015204944511553537",
+					"source_user_id": 804136380,
+					"source_user_id_str": "804136380"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015204904955043800,
+					"id_str": "1015204904955043840",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+					"url": "https://t.co/siccJfDJdb",
+					"display_url": "pic.twitter.com/siccJfDJdb",
+					"expanded_url": "https://twitter.com/angbffff/status/1015204944511553537/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015204944511553500,
+					"source_status_id_str": "1015204944511553537",
+					"source_user_id": 804136380,
+					"source_user_id_str": "804136380",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dha7e3YUYAAexP8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 06 12:04:55 +0000 2018",
+			"id": 1015204944511553500,
+			"id_str": "1015204944511553537",
+			"text": "포르자 켰다 https://t.co/siccJfDJdb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015204904955043800,
+						"id_str": "1015204904955043840",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+						"url": "https://t.co/siccJfDJdb",
+						"display_url": "pic.twitter.com/siccJfDJdb",
+						"expanded_url": "https://twitter.com/angbffff/status/1015204944511553537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015204904955043800,
+						"id_str": "1015204904955043840",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dha7e3YUYAAexP8.jpg",
+						"url": "https://t.co/siccJfDJdb",
+						"display_url": "pic.twitter.com/siccJfDJdb",
+						"expanded_url": "https://twitter.com/angbffff/status/1015204944511553537/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dha7e3YUYAAexP8.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804136380,
+				"id_str": "804136380",
+				"name": "무휼",
+				"screen_name": "angbffff",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 12,
+				"listed_count": 7,
+				"created_at": "Wed Sep 05 08:22:10 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6893,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848724755972620288/iGL3W-if_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848724755972620288/iGL3W-if_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:48:59 +0000 2018",
+		"id": 1016529693468647400,
+		"id_str": "1016529693468647424",
+		"text": "RT @sungchi: 삼성증권 배당사고 당일 직원 단톡방 ㅋㅋㅋㅋㅋ (구속 기소된 분들) https://t.co/QbptY5LjLw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sungchi",
+					"name": "사이버 요정 성치",
+					"id": 14696334,
+					"id_str": "14696334",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016302291404505100,
+					"id_str": "1016302291404505088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+					"url": "https://t.co/QbptY5LjLw",
+					"display_url": "pic.twitter.com/QbptY5LjLw",
+					"expanded_url": "https://twitter.com/sungchi/status/1016302298002124800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016302298002124800,
+					"source_status_id_str": "1016302298002124800",
+					"source_user_id": 14696334,
+					"source_user_id_str": "14696334"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016302291404505100,
+					"id_str": "1016302291404505088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+					"url": "https://t.co/QbptY5LjLw",
+					"display_url": "pic.twitter.com/QbptY5LjLw",
+					"expanded_url": "https://twitter.com/sungchi/status/1016302298002124800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016302298002124800,
+					"source_status_id_str": "1016302298002124800",
+					"source_user_id": 14696334,
+					"source_user_id_str": "14696334"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 12:45:24 +0000 2018",
+			"id": 1016302298002124800,
+			"id_str": "1016302298002124800",
+			"text": "삼성증권 배당사고 당일 직원 단톡방 ㅋㅋㅋㅋㅋ (구속 기소된 분들) https://t.co/QbptY5LjLw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016302291404505100,
+						"id_str": "1016302291404505088",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+						"url": "https://t.co/QbptY5LjLw",
+						"display_url": "pic.twitter.com/QbptY5LjLw",
+						"expanded_url": "https://twitter.com/sungchi/status/1016302298002124800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 849,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016302291404505100,
+						"id_str": "1016302291404505088",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhqhjKeUwAAR-AC.jpg",
+						"url": "https://t.co/QbptY5LjLw",
+						"display_url": "pic.twitter.com/QbptY5LjLw",
+						"expanded_url": "https://twitter.com/sungchi/status/1016302298002124800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 849,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14696334,
+				"id_str": "14696334",
+				"name": "사이버 요정 성치",
+				"screen_name": "sungchi",
+				"location": "seoul",
+				"description": "폭두직딩 성치 (19XX ~ 21XX)",
+				"url": "http://t.co/chVqYOJQ8J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/chVqYOJQ8J",
+								"expanded_url": "http://plan9.kr",
+								"display_url": "plan9.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3961,
+				"friends_count": 643,
+				"listed_count": 148,
+				"created_at": "Thu May 08 04:47:43 +0000 2008",
+				"favourites_count": 36305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 71871,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14696334/1348057641",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1129,
+			"favorite_count": 148,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1129,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:46:11 +0000 2018",
+		"id": 1016528988980764700,
+		"id_str": "1016528988980764672",
+		"text": "RT @wns428: '일본어를 애니로만 배워서 꼬마여자애 말투 쓰는 씹타쿠의 존재'를 그동안 웹상에서만 떠도는 도시전설 쯤으로 여겼는데\n실제로 있었다. 그것도 생각보다 가까운 곳에 있었다. 2X세의 한국남자가 '~다몽'이라고 하는걸 직접 들으니 머…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wns428",
+					"name": "나츠메",
+					"id": 720085141,
+					"id_str": "720085141",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 22 09:18:32 +0000 2015",
+			"id": 657123865315835900,
+			"id_str": "657123865315835905",
+			"text": "'일본어를 애니로만 배워서 꼬마여자애 말투 쓰는 씹타쿠의 존재'를 그동안 웹상에서만 떠도는 도시전설 쯤으로 여겼는데\n실제로 있었다. 그것도 생각보다 가까운 곳에 있었다. 2X세의 한국남자가 '~다몽'이라고 하는걸 직접 들으니 머리속이 새하얘지더라.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720085141,
+				"id_str": "720085141",
+				"name": "나츠메",
+				"screen_name": "wns428",
+				"location": "",
+				"description": "저지방우유가 일반우유보다 싼 나라에서 살고 싶다",
+				"url": "https://t.co/UfcyMfSHGh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UfcyMfSHGh",
+								"expanded_url": "https://www.youtube.com/watch?v=UX2xxOTA8f4",
+								"display_url": "youtube.com/watch?v=UX2xxO…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2519,
+				"friends_count": 469,
+				"listed_count": 41,
+				"created_at": "Fri Jul 27 12:39:21 +0000 2012",
+				"favourites_count": 9734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 249541,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2783654061/a0177cae51a16a62a95040cedb7bad33_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2783654061/a0177cae51a16a62a95040cedb7bad33_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720085141/1512809872",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1030,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1030,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:45:46 +0000 2018",
+		"id": 1016528882344710100,
+		"id_str": "1016528882344710145",
+		"text": "RT @Bexter_twit: 살인마 에드 게인은 이런 마인드를 가진 부모가 있었기에 완성되었다 합니다. https://t.co/nn3qwkRFc9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bexter_twit",
+					"name": "BEXTER (2011 ~ 2018)",
+					"id": 528502831,
+					"id_str": "528502831",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nn3qwkRFc9",
+					"expanded_url": "https://twitter.com/ytsdream/status/1016507843946545153",
+					"display_url": "twitter.com/ytsdream/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 03:40:28 +0000 2018",
+			"id": 1016527548140798000,
+			"id_str": "1016527548140797952",
+			"text": "살인마 에드 게인은 이런 마인드를 가진 부모가 있었기에 완성되었다 합니다. https://t.co/nn3qwkRFc9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nn3qwkRFc9",
+						"expanded_url": "https://twitter.com/ytsdream/status/1016507843946545153",
+						"display_url": "twitter.com/ytsdream/statu…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 528502831,
+				"id_str": "528502831",
+				"name": "BEXTER (2011 ~ 2018)",
+				"screen_name": "Bexter_twit",
+				"location": "",
+				"description": "묘비명 : 나는 틀린거 없다.",
+				"url": "https://t.co/dOwLlv3EG4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dOwLlv3EG4",
+								"expanded_url": "http://SanAndreas.CO.KR",
+								"display_url": "SanAndreas.CO.KR",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 571,
+				"friends_count": 543,
+				"listed_count": 11,
+				"created_at": "Sun Mar 18 13:09:57 +0000 2012",
+				"favourites_count": 22200,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 220465,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005410078311133185/UZTD94Zx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005410078311133185/UZTD94Zx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/528502831/1418710986",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1016507843946545200,
+			"quoted_status_id_str": "1016507843946545153",
+			"quoted_status": {
+				"created_at": "Tue Jul 10 02:22:10 +0000 2018",
+				"id": 1016507843946545200,
+				"id_str": "1016507843946545153",
+				"text": "성범죄자는 하늘에서 뚝 떨어진 괴물도 악마도 아니고 평범한 보통사람이니. 아이의 양육에 대해 고민하는 부모라면, 자식이 그렇게 되지 않도록 주의하며 키우겠다고 생각하는 건 너무나 당연한 거죠. 책임감 있는 행동입니다.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 1016506067419783200,
+				"in_reply_to_status_id_str": "1016506067419783168",
+				"in_reply_to_user_id": 161541993,
+				"in_reply_to_user_id_str": "161541993",
+				"in_reply_to_screen_name": "ytsdream",
+				"user": {
+					"id": 161541993,
+					"id_str": "161541993",
+					"name": "y.t",
+					"screen_name": "ytsdream",
+					"location": "",
+					"description": "페미니스트/ 구독,잠금계 팔로 받지 않습니다/이것이 마음이다",
+					"url": "https://t.co/JTHlKEmBRZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/JTHlKEmBRZ",
+									"expanded_url": "http://ytsdream.byus.net",
+									"display_url": "ytsdream.byus.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2281,
+					"friends_count": 199,
+					"listed_count": 43,
+					"created_at": "Thu Jul 01 03:27:05 +0000 2010",
+					"favourites_count": 15611,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 29971,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/865520158755799041/M5k8UP0O_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/865520158755799041/M5k8UP0O_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/161541993/1525831595",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 321,
+				"favorite_count": 68,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1016507843946545200,
+		"quoted_status_id_str": "1016507843946545153",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 10 03:36:50 +0000 2018",
+		"id": 1016526634025775100,
+		"id_str": "1016526634025775105",
+		"text": "RT @piloteerpax: [object Object] https://t.co/Xl65LSPXt9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "piloteerpax",
+					"name": "PHY_loteer",
+					"id": 53316963,
+					"id_str": "53316963",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016139024929513500,
+					"id_str": "1016139024929513472",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+					"url": "https://t.co/Xl65LSPXt9",
+					"display_url": "pic.twitter.com/Xl65LSPXt9",
+					"expanded_url": "https://twitter.com/piloteerpax/status/1016139039131426816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016139039131426800,
+					"source_status_id_str": "1016139039131426816",
+					"source_user_id": 53316963,
+					"source_user_id_str": "53316963"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016139024929513500,
+					"id_str": "1016139024929513472",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+					"url": "https://t.co/Xl65LSPXt9",
+					"display_url": "pic.twitter.com/Xl65LSPXt9",
+					"expanded_url": "https://twitter.com/piloteerpax/status/1016139039131426816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016139039131426800,
+					"source_status_id_str": "1016139039131426816",
+					"source_user_id": 53316963,
+					"source_user_id_str": "53316963"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 01:56:40 +0000 2018",
+			"id": 1016139039131426800,
+			"id_str": "1016139039131426816",
+			"text": "[object Object] https://t.co/Xl65LSPXt9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016139024929513500,
+						"id_str": "1016139024929513472",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+						"url": "https://t.co/Xl65LSPXt9",
+						"display_url": "pic.twitter.com/Xl65LSPXt9",
+						"expanded_url": "https://twitter.com/piloteerpax/status/1016139039131426816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016139024929513500,
+						"id_str": "1016139024929513472",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhoNDzdV4AAphvv.jpg",
+						"url": "https://t.co/Xl65LSPXt9",
+						"display_url": "pic.twitter.com/Xl65LSPXt9",
+						"expanded_url": "https://twitter.com/piloteerpax/status/1016139039131426816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53316963,
+				"id_str": "53316963",
+				"name": "PHY_loteer",
+				"screen_name": "piloteerpax",
+				"location": "@Tau_loteer@twingyeo.kr",
+				"description": "not in the sudoers file.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51,
+				"friends_count": 58,
+				"listed_count": 3,
+				"created_at": "Fri Jul 03 06:44:43 +0000 2009",
+				"favourites_count": 72,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2680,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875575218957197312/g58at-YI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875575218957197312/g58at-YI_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 10 03:05:19 +0000 2018",
 		"id": 1016518704866054100,
 		"id_str": "1016518704866054145",
