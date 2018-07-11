@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 15:20:03 +0000 2018",
+		"id": 1017065992432697300,
+		"id_str": "1017065992432697345",
+		"text": "RT @duckfe: 이타샤했음ㅎ https://t.co/LFcOdSA26p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duckfe",
+					"name": "오덕페이트",
+					"id": 1394877054,
+					"id_str": "1394877054",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016962545297395700,
+					"id_str": "1016962545297395712",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+					"url": "https://t.co/LFcOdSA26p",
+					"display_url": "pic.twitter.com/LFcOdSA26p",
+					"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016962643926532100,
+					"source_status_id_str": "1016962643926532097",
+					"source_user_id": 1394877054,
+					"source_user_id_str": "1394877054"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016962545297395700,
+					"id_str": "1016962545297395712",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+					"url": "https://t.co/LFcOdSA26p",
+					"display_url": "pic.twitter.com/LFcOdSA26p",
+					"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016962643926532100,
+					"source_status_id_str": "1016962643926532097",
+					"source_user_id": 1394877054,
+					"source_user_id_str": "1394877054"
+				},
+				{
+					"id": 1016962570010292200,
+					"id_str": "1016962570010292224",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6Eb9U8AAcp1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6Eb9U8AAcp1l.jpg",
+					"url": "https://t.co/LFcOdSA26p",
+					"display_url": "pic.twitter.com/LFcOdSA26p",
+					"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016962643926532100,
+					"source_status_id_str": "1016962643926532097",
+					"source_user_id": 1394877054,
+					"source_user_id_str": "1394877054"
+				},
+				{
+					"id": 1016962600066641900,
+					"id_str": "1016962600066641920",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6GL7UcAAHGrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6GL7UcAAHGrg.jpg",
+					"url": "https://t.co/LFcOdSA26p",
+					"display_url": "pic.twitter.com/LFcOdSA26p",
+					"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016962643926532100,
+					"source_status_id_str": "1016962643926532097",
+					"source_user_id": 1394877054,
+					"source_user_id_str": "1394877054"
+				},
+				{
+					"id": 1016962621696720900,
+					"id_str": "1016962621696720896",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6HcgVQAAYW6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6HcgVQAAYW6w.jpg",
+					"url": "https://t.co/LFcOdSA26p",
+					"display_url": "pic.twitter.com/LFcOdSA26p",
+					"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016962643926532100,
+					"source_status_id_str": "1016962643926532097",
+					"source_user_id": 1394877054,
+					"source_user_id_str": "1394877054"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 748,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 13992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 11 08:29:23 +0000 2018",
+			"id": 1016962643926532100,
+			"id_str": "1016962643926532097",
+			"text": "이타샤했음ㅎ https://t.co/LFcOdSA26p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016962545297395700,
+						"id_str": "1016962545297395712",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+						"url": "https://t.co/LFcOdSA26p",
+						"display_url": "pic.twitter.com/LFcOdSA26p",
+						"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016962545297395700,
+						"id_str": "1016962545297395712",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6C_5UEAAy6aJ.jpg",
+						"url": "https://t.co/LFcOdSA26p",
+						"display_url": "pic.twitter.com/LFcOdSA26p",
+						"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1016962570010292200,
+						"id_str": "1016962570010292224",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6Eb9U8AAcp1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6Eb9U8AAcp1l.jpg",
+						"url": "https://t.co/LFcOdSA26p",
+						"display_url": "pic.twitter.com/LFcOdSA26p",
+						"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1016962600066641900,
+						"id_str": "1016962600066641920",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6GL7UcAAHGrg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6GL7UcAAHGrg.jpg",
+						"url": "https://t.co/LFcOdSA26p",
+						"display_url": "pic.twitter.com/LFcOdSA26p",
+						"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1016962621696720900,
+						"id_str": "1016962621696720896",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6HcgVQAAYW6w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6HcgVQAAYW6w.jpg",
+						"url": "https://t.co/LFcOdSA26p",
+						"display_url": "pic.twitter.com/LFcOdSA26p",
+						"expanded_url": "https://twitter.com/duckfe/status/1016962643926532097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1394877054,
+				"id_str": "1394877054",
+				"name": "오덕페이트",
+				"screen_name": "duckfe",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2341,
+				"friends_count": 303,
+				"listed_count": 16,
+				"created_at": "Wed May 01 15:27:19 +0000 2013",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672960078954151936/CMRgnTtf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672960078954151936/CMRgnTtf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394877054/1399862231",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 11 15:02:34 +0000 2018",
 		"id": 1017061591760625700,
 		"id_str": "1017061591760625669",
