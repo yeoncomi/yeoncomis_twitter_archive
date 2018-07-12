@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 12 00:36:45 +0000 2018",
+		"id": 1017206090042183700,
+		"id_str": "1017206090042183681",
+		"text": "RT @srcordis: 레이디 버드가 친구랑 누워서 과자 먹듯 집어먹는 것은 성체가 아니라 제병이고 축성된 성체가 아니지. 그건 성체 훼손이 아니라 그냥 밀과자 먹는 거. 아마존에서 홀윗호스츠나 알터브레드로 살 수도 있지. 영화에서 사제가 밤마다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srcordis",
+					"name": "🎗깊이에의 강요",
+					"id": 255571232,
+					"id_str": "255571232",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 750,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 14002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 11 04:45:28 +0000 2018",
+			"id": 1016906295092187100,
+			"id_str": "1016906295092187136",
+			"text": "레이디 버드가 친구랑 누워서 과자 먹듯 집어먹는 것은 성체가 아니라 제병이고 축성된 성체가 아니지. 그건 성체 훼손이 아니라 그냥 밀과자 먹는 거. 아마존에서 홀윗호스츠나 알터브레드로 살 수도 있지. 영화에… https://t.co/aPbrk5w64w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aPbrk5w64w",
+						"expanded_url": "https://twitter.com/i/web/status/1016906295092187136",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 255571232,
+				"id_str": "255571232",
+				"name": "🎗깊이에의 강요",
+				"screen_name": "srcordis",
+				"location": "여기가 어디더라......?",
+				"description": "나는 어쩌다 이렇게 먼 곳까지 흘러왔을까. 세상이 아파 저도 약간 기울었습니다. 수녀입니다. #Tolle_Lege #dailyreading",
+				"url": "https://t.co/wbTaNNgh5W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wbTaNNgh5W",
+								"expanded_url": "http://singthelord.tistory.com/m",
+								"display_url": "singthelord.tistory.com/m",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11968,
+				"friends_count": 419,
+				"listed_count": 189,
+				"created_at": "Mon Feb 21 16:54:02 +0000 2011",
+				"favourites_count": 2500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47635,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992762259716763651/6hDZoymg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992762259716763651/6hDZoymg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/255571232/1523682654",
+				"profile_link_color": "55107D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 240,
+			"favorite_count": 104,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jul 12 00:35:54 +0000 2018",
+		"id": 1017205877160284200,
+		"id_str": "1017205877160284161",
+		"text": "RT @Kukurumi699: 사람인 모집공고 찾는데 ㅁㅊ 제목보고 설마설마 하고 봤더니 진짜ㅋㅋㅋ일베ㅋㅋㅋ https://t.co/BUqE7OeXz8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kukurumi699",
+					"name": "MC. 또로밍🍭🎤",
+					"id": 764023023997300700,
+					"id_str": "764023023997300737",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1016963232714510300,
+					"id_str": "1016963232714510336",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+					"url": "https://t.co/BUqE7OeXz8",
+					"display_url": "pic.twitter.com/BUqE7OeXz8",
+					"expanded_url": "https://twitter.com/Kukurumi699/status/1016963244563443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2030,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016963244563443700,
+					"source_status_id_str": "1016963244563443712",
+					"source_user_id": 764023023997300700,
+					"source_user_id_str": "764023023997300737"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1016963232714510300,
+					"id_str": "1016963232714510336",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+					"url": "https://t.co/BUqE7OeXz8",
+					"display_url": "pic.twitter.com/BUqE7OeXz8",
+					"expanded_url": "https://twitter.com/Kukurumi699/status/1016963244563443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2030,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1016963244563443700,
+					"source_status_id_str": "1016963244563443712",
+					"source_user_id": 764023023997300700,
+					"source_user_id_str": "764023023997300737"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "유학생 아야🎗🌈△",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|급하면 yeoncomi@gmail.com|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다. |#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 750,
+			"listed_count": 5,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 14002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005635601188524032/whJyMUEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 11 08:31:46 +0000 2018",
+			"id": 1016963244563443700,
+			"id_str": "1016963244563443712",
+			"text": "사람인 모집공고 찾는데 ㅁㅊ 제목보고 설마설마 하고 봤더니 진짜ㅋㅋㅋ일베ㅋㅋㅋ https://t.co/BUqE7OeXz8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1016963232714510300,
+						"id_str": "1016963232714510336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+						"url": "https://t.co/BUqE7OeXz8",
+						"display_url": "pic.twitter.com/BUqE7OeXz8",
+						"expanded_url": "https://twitter.com/Kukurumi699/status/1016963244563443712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 2030,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1016963232714510300,
+						"id_str": "1016963232714510336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dhz6rAuU0AAda8i.jpg",
+						"url": "https://t.co/BUqE7OeXz8",
+						"display_url": "pic.twitter.com/BUqE7OeXz8",
+						"expanded_url": "https://twitter.com/Kukurumi699/status/1016963244563443712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 362,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 2030,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764023023997300700,
+				"id_str": "764023023997300737",
+				"name": "MC. 또로밍🍭🎤",
+				"screen_name": "Kukurumi699",
+				"location": "우리 아츄시와의 디엠방💜",
+				"description": "🏀올캐러(쵀애컾자빙러/차애컾챠리조)/🌈간바루 죠지💕💕/히프마이-시부야(라무다❤)/🎾아토베♡ 좋아합니다😍/🌙🎤/가히리 등등\n※테니라비 버닝중\n※ 소비러\n※FUB FREE\n※자빙러입니다///💜❄\n※여캐지뢰인 분 지뢰☠\n헤더 캘리-이우님\nH-챙님💞💞",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 338,
+				"friends_count": 301,
+				"listed_count": 1,
+				"created_at": "Fri Aug 12 08:57:38 +0000 2016",
+				"favourites_count": 20264,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21682,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012601612513128448/fYxYp2x8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012601612513128448/fYxYp2x8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764023023997300737/1530212417",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 554,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 554,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 11 20:01:23 +0000 2018",
 		"id": 1017136793362108400,
 		"id_str": "1017136793362108416",
@@ -695,7 +1240,7 @@ Grailbird.data.tweets_2018_07 =
 			"user_mentions": [
 				{
 					"screen_name": "Ryuten_98",
-					"name": "🌈서퀴가는 류텐🏳️‍🌈",
+					"name": "🌈서퀴가는 류텐🏳️🌈",
 					"id": 739796785040785400,
 					"id_str": "739796785040785412",
 					"indices": [
@@ -1190,7 +1735,7 @@ Grailbird.data.tweets_2018_07 =
 			"user": {
 				"id": 739796785040785400,
 				"id_str": "739796785040785412",
-				"name": "🌈서퀴가는 류텐🏳️‍🌈",
+				"name": "🌈서퀴가는 류텐🏳️🌈",
 				"screen_name": "Ryuten_98",
 				"location": "경상남도 진주(Republic of Korea)",
 				"description": "#본계 | 구)하준 | 21G | Queer | 사진찍는 호모 | 철도 | 정의당 |✌생각하고 말하세요✌ |🎗| 자세한건 메인트윗 | 110-469-051897 신한 | 사진계 @PT_Ryuten | @Daegun_G",
