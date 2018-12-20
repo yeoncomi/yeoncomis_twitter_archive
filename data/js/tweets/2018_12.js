@@ -122,6 +122,175 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 693,
+			"friends_count": 542,
+			"listed_count": 60,
+			"created_at": "Mon Nov 27 12:18:01 +0000 2017",
+			"favourites_count": 16554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41006,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072036915333881857/ApyPIVEy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072036915333881857/ApyPIVEy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935120525222744064/1541308993",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나랑_친해지고_싶다_rt_나랑_반모하고_싶다_마음_짱친확인_멘션_사귀자_디엠\n\n교류를 \n시작하지 \n네덕새끼들죽이고십다 https://t.co/6JlFcDxV1z"
+	},
+	{
+		"created_at": "Thu Dec 20 06:34:12 +0000 2018",
+		"id": 1075640493948555300,
+		"id_str": "1075640493948555265",
+		"full_text": "#나랑_친해지고_싶다_rt_나랑_반모하고_싶다_마음_짱친확인_멘션_사귀자_디엠\n\n교류를 \n시작하지 \n네덕새끼들죽이고십다 https://t.co/6JlFcDxV1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나랑_친해지고_싶다_rt_나랑_반모하고_싶다_마음_짱친확인_멘션_사귀자_디엠",
+					"indices": [
+						0,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075640398205280300,
+					"id_str": "1075640398205280257",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1xPkEV4AEX5UC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1xPkEV4AEX5UC.jpg",
+					"url": "https://t.co/6JlFcDxV1z",
+					"display_url": "pic.twitter.com/6JlFcDxV1z",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1075640493948555265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075640398205280300,
+					"id_str": "1075640398205280257",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1xPkEV4AEX5UC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1xPkEV4AEX5UC.jpg",
+					"url": "https://t.co/6JlFcDxV1z",
+					"display_url": "pic.twitter.com/6JlFcDxV1z",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1075640493948555265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935120525222744000,
+			"id_str": "935120525222744064",
+			"name": "yanderen.🌙",
+			"screen_name": "SATAN_KOHAI",
+			"location": "@zed__of__ren",
+			"description": "얀데레도 얼굴 가려가면서 집착해 일단 넌 아냐 걱정마.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 691,
 			"friends_count": 541,
 			"listed_count": 60,
