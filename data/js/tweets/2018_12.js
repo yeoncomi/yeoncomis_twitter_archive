@@ -1,6 +1,735 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 04:58:54 +0000 2018",
+		"id": 1075616507390877700,
+		"id_str": "1075616507390877697",
+		"full_text": "폭... 동????????????? 5.18은 민주화운동이지 전두환새끼가 하는말이 폭동인데요\n미쳤나진짜 https://t.co/xkCtsmFiYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xkCtsmFiYr",
+					"expanded_url": "https://twitter.com/our_democracy__/status/1075595467294007296",
+					"display_url": "twitter.com/our_democracy_…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 901,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 19549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30952,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050261116545163264/stLBn3ih_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050261116545163264/stLBn3ih_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075595467294007300,
+		"quoted_status_id_str": "1075595467294007296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xkCtsmFiYr",
+			"expanded": "https://twitter.com/our_democracy__/status/1075595467294007296",
+			"display": "twitter.com/our_democracy_…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 03:35:17 +0000 2018",
+			"id": 1075595467294007300,
+			"id_str": "1075595467294007296",
+			"full_text": "1차 홍보::RT❤️\n\n자유와 평화를 위해, 우리는 일어서야만 한다.\n\n518 민주화 운동/01/ALL CP/글그림 복합/2019년 1월 개장 예정/일주일 단기 https://t.co/TsHArQWaGx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075595449333993500,
+						"id_str": "1075595449333993473",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Du1IXMeUUAErzmE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du1IXMeUUAErzmE.jpg",
+						"url": "https://t.co/TsHArQWaGx",
+						"display_url": "pic.twitter.com/TsHArQWaGx",
+						"expanded_url": "https://twitter.com/our_democracy__/status/1075595467294007296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075595449333993500,
+						"id_str": "1075595449333993473",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Du1IXMeUUAErzmE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du1IXMeUUAErzmE.jpg",
+						"url": "https://t.co/TsHArQWaGx",
+						"display_url": "pic.twitter.com/TsHArQWaGx",
+						"expanded_url": "https://twitter.com/our_democracy__/status/1075595467294007296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822776404634845200,
+				"id_str": "822776404634845186",
+				"name": "우리들의 폭동",
+				"screen_name": "our_democracy__",
+				"location": "",
+				"description": "518 민주화 운동/01/ALL CP/글그림 복합/일상 후 시리/2019년 1월 개장 예정/일주일 단기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 0,
+				"listed_count": 1,
+				"created_at": "Sat Jan 21 12:02:36 +0000 2017",
+				"favourites_count": 84,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822776404634845186/1545277168",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 853,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폭... 동????????????? 5.18은 민주화운동이지 전두환새끼가 하는말이 폭동인데요\n미쳤나진짜 https://t.co/xkCtsmFiYr"
+	},
+	{
+		"created_at": "Thu Dec 20 04:26:54 +0000 2018",
+		"id": 1075608455392616400,
+		"id_str": "1075608455392616448",
+		"full_text": "이 사람은 왜 아는게 하나도 없습니까?\n공교육 필요성에대해 다시한번 토론해야될듯 https://t.co/0EbsFTDFQ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075608446416740400,
+					"id_str": "1075608446416740354",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1ULuYUYAI7M1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1ULuYUYAI7M1g.jpg",
+					"url": "https://t.co/0EbsFTDFQ2",
+					"display_url": "pic.twitter.com/0EbsFTDFQ2",
+					"expanded_url": "https://twitter.com/berserkertr19/status/1075608455392616448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 607,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 202,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075608446416740400,
+					"id_str": "1075608446416740354",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1ULuYUYAI7M1g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1ULuYUYAI7M1g.jpg",
+					"url": "https://t.co/0EbsFTDFQ2",
+					"display_url": "pic.twitter.com/0EbsFTDFQ2",
+					"expanded_url": "https://twitter.com/berserkertr19/status/1075608455392616448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 607,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 202,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798930790650236900,
+			"id_str": "798930790650236928",
+			"name": "狂龜🔞R19",
+			"screen_name": "berserkertr19",
+			"location": "",
+			"description": "팀 : 음모론자",
+			"url": "https://t.co/4K3CqIzXwm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K3CqIzXwm",
+							"expanded_url": "https://www.pixiv.net/member.php?id=2853714",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2325,
+			"friends_count": 483,
+			"listed_count": 31,
+			"created_at": "Wed Nov 16 16:48:38 +0000 2016",
+			"favourites_count": 26635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072727150497656832/S5BS_n3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072727150497656832/S5BS_n3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798930790650236928/1542472227",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 사람은 왜 아는게 하나도 없습니까?\n공교육 필요성에대해 다시한번 토론해야될듯 https://t.co/0EbsFTDFQ2"
+	},
+	{
+		"created_at": "Wed Dec 19 04:45:15 +0000 2018",
+		"id": 1075250687351545900,
+		"id_str": "1075250687351545856",
+		"full_text": "헬메리카의 의료서비스 https://t.co/dvDBRfrXPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075250640958312400,
+					"id_str": "1075250640958312448",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DuwOwtLU0AAKDwf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuwOwtLU0AAKDwf.jpg",
+					"url": "https://t.co/dvDBRfrXPQ",
+					"display_url": "pic.twitter.com/dvDBRfrXPQ",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1075250687351545856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 2016,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075250640958312400,
+					"id_str": "1075250640958312448",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DuwOwtLU0AAKDwf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuwOwtLU0AAKDwf.jpg",
+					"url": "https://t.co/dvDBRfrXPQ",
+					"display_url": "pic.twitter.com/dvDBRfrXPQ",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1075250687351545856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 2016,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075250654094848000,
+					"id_str": "1075250654094848000",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DuwOxeHUcAAiadJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuwOxeHUcAAiadJ.jpg",
+					"url": "https://t.co/dvDBRfrXPQ",
+					"display_url": "pic.twitter.com/dvDBRfrXPQ",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1075250687351545856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 2017,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075250665234919400,
+					"id_str": "1075250665234919424",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DuwOyHnUcAAot_O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuwOyHnUcAAot_O.jpg",
+					"url": "https://t.co/dvDBRfrXPQ",
+					"display_url": "pic.twitter.com/dvDBRfrXPQ",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1075250687351545856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 2019,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075250676970676200,
+					"id_str": "1075250676970676224",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DuwOyzVV4AAQwpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuwOyzVV4AAQwpK.jpg",
+					"url": "https://t.co/dvDBRfrXPQ",
+					"display_url": "pic.twitter.com/dvDBRfrXPQ",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1075250687351545856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 2018,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/NFgNKsYBhJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NFgNKsYBhJ",
+							"expanded_url": "https://www.youtube.com/watch?v=Y2V6yjjPbX0&list=RDMMKwwl9jiJ1A4&index=15",
+							"display_url": "youtube.com/watch?v=Y2V6yj…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1288,
+			"friends_count": 382,
+			"listed_count": 20,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 127893,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072044746971856896/AhTU2p_c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072044746971856896/AhTU2p_c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1531568658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3272,
+		"favorite_count": 747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헬메리카의 의료서비스 https://t.co/dvDBRfrXPQ"
+	},
+	{
 		"created_at": "Thu Dec 20 02:27:15 +0000 2018",
 		"id": 1075578345281048600,
 		"id_str": "1075578345281048576",
