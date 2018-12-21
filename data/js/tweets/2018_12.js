@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 03:31:11 +0000 2018",
+		"id": 1075956823025365000,
+		"id_str": "1075956823025364993",
+		"full_text": "마르크스 축축크스 https://t.co/Z2piIZzrPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075956814263382000,
+					"id_str": "1075956814263382018",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"url": "https://t.co/Z2piIZzrPM",
+					"display_url": "pic.twitter.com/Z2piIZzrPM",
+					"expanded_url": "https://twitter.com/crazyotacu/status/1075956823025364993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075956814263382000,
+					"id_str": "1075956814263382018",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"url": "https://t.co/Z2piIZzrPM",
+					"display_url": "pic.twitter.com/Z2piIZzrPM",
+					"expanded_url": "https://twitter.com/crazyotacu/status/1075956823025364993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057273765778743300,
+			"id_str": "1057273765778743296",
+			"name": "유니카 (택배3)",
+			"screen_name": "crazyotacu",
+			"location": "❤내 수호신(@Noya_for_annew)❤",
+			"description": "ゆにか | 열혈캐 소나무",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 119,
+			"listed_count": 0,
+			"created_at": "Tue Oct 30 14:11:23 +0000 2018",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4118,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057653066634211330/FPwkT6_e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057653066634211330/FPwkT6_e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057273765778743296/1542286298",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마르크스 축축크스 https://t.co/Z2piIZzrPM"
+	},
+	{
+		"created_at": "Fri Dec 21 03:27:14 +0000 2018",
+		"id": 1075955826899148800,
+		"id_str": "1075955826899148801",
+		"full_text": "띠예 영상 다 삭제당함 https://t.co/f8JSqxb9Ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075955785279012900,
+					"id_str": "1075955785279012864",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1337,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075955785279012900,
+					"id_str": "1075955785279012864",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1337,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955793021657100,
+					"id_str": "1075955793021657088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QF9UUYAA0brn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QF9UUYAA0brn.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1408,
+							"h": 878,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955802509209600,
+					"id_str": "1075955802509209600",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QGgqU8AAJzG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QGgqU8AAJzG3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955816744681500,
+					"id_str": "1075955816744681472",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QHVsVAAA26_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QHVsVAAA26_L.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871763646464098300,
+			"id_str": "871763646464098304",
+			"name": "밀깅",
+			"screen_name": "kimhemil",
+			"location": "하필 K듣보돌을 좋아한 게 저의 큰 죄입니다.",
+			"description": "무기력 네트워크 인간 김-해밀깅 🔇",
+			"url": "https://t.co/CYaOS8djLi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CYaOS8djLi",
+							"expanded_url": "http://naver.me/G6KREUZY",
+							"display_url": "naver.me/G6KREUZY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872,
+			"friends_count": 316,
+			"listed_count": 16,
+			"created_at": "Mon Jun 05 16:20:24 +0000 2017",
+			"favourites_count": 31454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86524,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075018673801224193/m-v75nxA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075018673801224193/m-v75nxA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871763646464098304/1543310510",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3252,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띠예 영상 다 삭제당함 https://t.co/f8JSqxb9Ki"
+	},
+	{
 		"created_at": "Fri Dec 21 02:27:21 +0000 2018",
 		"id": 1075940757540724700,
 		"id_str": "1075940757540724736",
