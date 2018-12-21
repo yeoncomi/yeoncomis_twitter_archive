@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 05:20:33 +0000 2018",
+		"id": 1075984344047468500,
+		"id_str": "1075984344047468544",
+		"full_text": "@perillamint 음.. 맛점님이 그래서 모델심을 쓰셨구나..",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perillamint",
+					"name": "riscv32-unknown-elf-gcc🧝🧙⚧",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075983955214528500,
+		"in_reply_to_status_id_str": "1075983955214528512",
+		"in_reply_to_user_id": 2890022617,
+		"in_reply_to_user_id_str": "2890022617",
+		"in_reply_to_screen_name": "perillamint",
+		"user": {
+			"id": 91305435,
+			"id_str": "91305435",
+			"name": "Yunho Kim",
+			"screen_name": "cocaas",
+			"location": "Daejeon, Republic of Korea",
+			"description": "Yunho Kim, a.k.a. cocas\r\nSWTV group @ KAIST CS Dept./KAIST CS 03/GoN",
+			"url": "https://t.co/qAXlpH9Inn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qAXlpH9Inn",
+							"expanded_url": "https://yunho-kim.github.io/",
+							"display_url": "yunho-kim.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 488,
+			"friends_count": 267,
+			"listed_count": 23,
+			"created_at": "Fri Nov 20 09:29:35 +0000 2009",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33434,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/511798552746422272/3NjL0zEc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/511798552746422272/3NjL0zEc_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@perillamint 음.. 맛점님이 그래서 모델심을 쓰셨구나.."
+	},
+	{
+		"created_at": "Fri Dec 21 05:19:00 +0000 2018",
+		"id": 1075983955214528500,
+		"id_str": "1075983955214528512",
+		"full_text": "디스코드 방에서 FPGA 툴 간증 바랍니다 라면서 핑 날리니까\n\n맛점: 모델심은 사람이 쓰는 거 아니에요\n어리: Yosys 믿고 천국갑시다\n애인님: 누가 좆바도 소리를 내었는가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "riscv32-unknown-elf-gcc🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Gy7c",
+			"url": "https://t.co/QpiTBhQCUM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBhQCUM",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Gy7c",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1227,
+			"friends_count": 842,
+			"listed_count": 66,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "디스코드 방에서 FPGA 툴 간증 바랍니다 라면서 핑 날리니까\n\n맛점: 모델심은 사람이 쓰는 거 아니에요\n어리: Yosys 믿고 천국갑시다\n애인님: 누가 좆바도 소리를 내었는가"
+	},
+	{
+		"created_at": "Thu Dec 20 16:49:31 +0000 2018",
+		"id": 1075795342107398100,
+		"id_str": "1075795342107398146",
+		"full_text": "여러분, 프로그래밍 언어 파이썬이 1989년 크리스마스 연휴에 개발하기 시작했다는 사실을 아시나요.\n\n그러니까 크리스마스엔 코딩, 코딩입니다. 크리스마스엔 코딩을 하십시오. (?)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594273106,
+			"id_str": "2594273106",
+			"name": "가을별",
+			"screen_name": "gaeulbyul",
+			"location": "인터넷",
+			"description": "미러블락·블루마크·락피커 개발자.",
+			"url": "https://t.co/DRsWPBFrRG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DRsWPBFrRG",
+							"expanded_url": "https://github.com/gaeulbyul",
+							"display_url": "github.com/gaeulbyul",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 2835,
+			"listed_count": 9,
+			"created_at": "Sun Jun 29 05:52:09 +0000 2014",
+			"favourites_count": 68160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74467,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059285779036364800/3ygUbVdg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059285779036364800/3ygUbVdg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594273106/1544330427",
+			"profile_link_color": "369900",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분, 프로그래밍 언어 파이썬이 1989년 크리스마스 연휴에 개발하기 시작했다는 사실을 아시나요.\n\n그러니까 크리스마스엔 코딩, 코딩입니다. 크리스마스엔 코딩을 하십시오. (?)"
+	},
+	{
+		"created_at": "Fri Dec 21 02:44:22 +0000 2018",
+		"id": 1075945040361320400,
+		"id_str": "1075945040361320448",
+		"full_text": "PX에서 파는 좆같은 상품 https://t.co/kvWNPln3hi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075945015006814200,
+					"id_str": "1075945015006814208",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6GSmFVYAAxgH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6GSmFVYAAxgH3.jpg",
+					"url": "https://t.co/kvWNPln3hi",
+					"display_url": "pic.twitter.com/kvWNPln3hi",
+					"expanded_url": "https://twitter.com/dvC4e6QbrZPQ5sV/status/1075945040361320448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075945015006814200,
+					"id_str": "1075945015006814208",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6GSmFVYAAxgH3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6GSmFVYAAxgH3.jpg",
+					"url": "https://t.co/kvWNPln3hi",
+					"display_url": "pic.twitter.com/kvWNPln3hi",
+					"expanded_url": "https://twitter.com/dvC4e6QbrZPQ5sV/status/1075945040361320448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075945026658529300,
+					"id_str": "1075945026658529280",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6GTRfUcAA3Rez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6GTRfUcAA3Rez.jpg",
+					"url": "https://t.co/kvWNPln3hi",
+					"display_url": "pic.twitter.com/kvWNPln3hi",
+					"expanded_url": "https://twitter.com/dvC4e6QbrZPQ5sV/status/1075945040361320448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073662360378851300,
+			"id_str": "1073662360378851328",
+			"name": "우울할때보는계정",
+			"screen_name": "dvC4e6QbrZPQ5sV",
+			"location": "",
+			"description": "혼자보려고판계정인데님들도보고싶어요? 깔깔짤만올리는거아닌데?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12573,
+			"friends_count": 0,
+			"listed_count": 35,
+			"created_at": "Fri Dec 14 19:33:49 +0000 2018",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PX에서 파는 좆같은 상품 https://t.co/kvWNPln3hi"
+	},
+	{
+		"created_at": "Fri Dec 21 03:31:11 +0000 2018",
+		"id": 1075956823025365000,
+		"id_str": "1075956823025364993",
+		"full_text": "마르크스 축축크스 https://t.co/Z2piIZzrPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075956814263382000,
+					"id_str": "1075956814263382018",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"url": "https://t.co/Z2piIZzrPM",
+					"display_url": "pic.twitter.com/Z2piIZzrPM",
+					"expanded_url": "https://twitter.com/crazyotacu/status/1075956823025364993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075956814263382000,
+					"id_str": "1075956814263382018",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6RBZvUcAIzSxh.jpg",
+					"url": "https://t.co/Z2piIZzrPM",
+					"display_url": "pic.twitter.com/Z2piIZzrPM",
+					"expanded_url": "https://twitter.com/crazyotacu/status/1075956823025364993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057273765778743300,
+			"id_str": "1057273765778743296",
+			"name": "유니카 (택배3)",
+			"screen_name": "crazyotacu",
+			"location": "❤내 수호신(@Noya_for_annew)❤",
+			"description": "ゆにか | 열혈캐 소나무",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 119,
+			"listed_count": 0,
+			"created_at": "Tue Oct 30 14:11:23 +0000 2018",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4121,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057653066634211330/FPwkT6_e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057653066634211330/FPwkT6_e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057273765778743296/1542286298",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마르크스 축축크스 https://t.co/Z2piIZzrPM"
+	},
+	{
+		"created_at": "Fri Dec 21 03:27:14 +0000 2018",
+		"id": 1075955826899148800,
+		"id_str": "1075955826899148801",
+		"full_text": "띠예 영상 다 삭제당함 https://t.co/f8JSqxb9Ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075955785279012900,
+					"id_str": "1075955785279012864",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1337,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075955785279012900,
+					"id_str": "1075955785279012864",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QFgeVAAAYCV3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1337,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955793021657100,
+					"id_str": "1075955793021657088",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QF9UUYAA0brn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QF9UUYAA0brn.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1408,
+							"h": 878,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955802509209600,
+					"id_str": "1075955802509209600",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QGgqU8AAJzG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QGgqU8AAJzG3.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075955816744681500,
+					"id_str": "1075955816744681472",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6QHVsVAAA26_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6QHVsVAAA26_L.jpg",
+					"url": "https://t.co/f8JSqxb9Ki",
+					"display_url": "pic.twitter.com/f8JSqxb9Ki",
+					"expanded_url": "https://twitter.com/kimhemil/status/1075955826899148801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871763646464098300,
+			"id_str": "871763646464098304",
+			"name": "밀깅",
+			"screen_name": "kimhemil",
+			"location": "하필 K듣보돌을 좋아한 게 저의 큰 죄입니다.",
+			"description": "무기력 네트워크 인간 김-해밀깅 🔇",
+			"url": "https://t.co/CYaOS8djLi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CYaOS8djLi",
+							"expanded_url": "http://naver.me/G6KREUZY",
+							"display_url": "naver.me/G6KREUZY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872,
+			"friends_count": 316,
+			"listed_count": 16,
+			"created_at": "Mon Jun 05 16:20:24 +0000 2017",
+			"favourites_count": 31454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86526,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075018673801224193/m-v75nxA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075018673801224193/m-v75nxA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871763646464098304/1543310510",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6002,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띠예 영상 다 삭제당함 https://t.co/f8JSqxb9Ki"
+	},
+	{
 		"created_at": "Fri Dec 21 03:31:11 +0000 2018",
 		"id": 1075956823025365000,
 		"id_str": "1075956823025364993",
