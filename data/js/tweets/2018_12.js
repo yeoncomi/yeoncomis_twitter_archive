@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 04:03:15 +0000 2018",
+		"id": 1076327279830028300,
+		"id_str": "1076327279830028288",
+		"full_text": "@elsendeer 마더보드 사야해서 좀 기다려야해요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elsendeer",
+					"name": "Unrestricted",
+					"id": 1047755020379115500,
+					"id_str": "1047755020379115521",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1076325251355598800,
+		"in_reply_to_status_id_str": "1076325251355598849",
+		"in_reply_to_user_id": 1047755020379115500,
+		"in_reply_to_user_id_str": "1047755020379115521",
+		"in_reply_to_screen_name": "elsendeer",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 903,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 19626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@elsendeer 마더보드 사야해서 좀 기다려야해요"
+	},
+	{
+		"created_at": "Fri Dec 21 12:26:25 +0000 2018",
+		"id": 1076091518652313600,
+		"id_str": "1076091518652313600",
+		"full_text": "트이타 비건 https://t.co/G1W8lv5PBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076091509588426800,
+					"id_str": "1076091509588426752",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/Du8Lhs7VAAAVwCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du8Lhs7VAAAVwCK.jpg",
+					"url": "https://t.co/G1W8lv5PBd",
+					"display_url": "pic.twitter.com/G1W8lv5PBd",
+					"expanded_url": "https://twitter.com/BlackPoloDress/status/1076091518652313600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076091509588426800,
+					"id_str": "1076091509588426752",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/Du8Lhs7VAAAVwCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du8Lhs7VAAAVwCK.jpg",
+					"url": "https://t.co/G1W8lv5PBd",
+					"display_url": "pic.twitter.com/G1W8lv5PBd",
+					"expanded_url": "https://twitter.com/BlackPoloDress/status/1076091518652313600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2995466750,
+			"id_str": "2995466750",
+			"name": "BlackPoloDress❄",
+			"screen_name": "BlackPoloDress",
+			"location": "구글",
+			"description": "귀여운게 좋은 사람",
+			"url": "https://t.co/twxHxObKhq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/twxHxObKhq",
+							"expanded_url": "http://www.google.com",
+							"display_url": "google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4654,
+			"friends_count": 273,
+			"listed_count": 86,
+			"created_at": "Sun Jan 25 06:09:03 +0000 2015",
+			"favourites_count": 189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 200365,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076054357483737088/C0_2idrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076054357483737088/C0_2idrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2995466750/1464058136",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 354,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트이타 비건 https://t.co/G1W8lv5PBd"
+	},
+	{
+		"created_at": "Sat Dec 22 03:21:29 +0000 2018",
+		"id": 1076316769373974500,
+		"id_str": "1076316769373974530",
+		"full_text": "@XecaChan 선물받은거긴한데 고마워용",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XecaChan",
+					"name": "쩨카짱🏳️‍🌈",
+					"id": 2397782161,
+					"id_str": "2397782161",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1076316325385986000,
+		"in_reply_to_status_id_str": "1076316325385986049",
+		"in_reply_to_user_id": 2397782161,
+		"in_reply_to_user_id_str": "2397782161",
+		"in_reply_to_screen_name": "XecaChan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 903,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 19626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@XecaChan 선물받은거긴한데 고마워용"
+	},
+	{
+		"created_at": "Sat Dec 22 03:18:45 +0000 2018",
+		"id": 1076316080312709100,
+		"id_str": "1076316080312709120",
+		"full_text": "@XecaChan 그러게요 읍읍 방금뜯은거라서",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XecaChan",
+					"name": "쩨카짱🏳️‍🌈",
+					"id": 2397782161,
+					"id_str": "2397782161",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1076315791555850200,
+		"in_reply_to_status_id_str": "1076315791555850241",
+		"in_reply_to_user_id": 2397782161,
+		"in_reply_to_user_id_str": "2397782161",
+		"in_reply_to_screen_name": "XecaChan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 903,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 19626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@XecaChan 그러게요 읍읍 방금뜯은거라서"
+	},
+	{
 		"created_at": "Sat Dec 22 03:15:17 +0000 2018",
 		"id": 1076315211114528800,
 		"id_str": "1076315211114528769",
