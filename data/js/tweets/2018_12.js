@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 13:51:37 +0000 2018",
+		"id": 1076112961654018000,
+		"id_str": "1076112961654018048",
+		"full_text": "않아요 https://t.co/VUHpQ6y9Qk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076112512632778800,
+					"id_str": "1076112512632778754",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Du8eoPXUcAIZ-Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du8eoPXUcAIZ-Jo.jpg",
+					"url": "https://t.co/VUHpQ6y9Qk",
+					"display_url": "pic.twitter.com/VUHpQ6y9Qk",
+					"expanded_url": "https://twitter.com/kosobin_/status/1076112961654018048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 778,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076112512632778800,
+					"id_str": "1076112512632778754",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Du8eoPXUcAIZ-Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du8eoPXUcAIZ-Jo.jpg",
+					"url": "https://t.co/VUHpQ6y9Qk",
+					"display_url": "pic.twitter.com/VUHpQ6y9Qk",
+					"expanded_url": "https://twitter.com/kosobin_/status/1076112961654018048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 778,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 883568129221185500,
+			"id_str": "883568129221185536",
+			"name": "코소빈🌸",
+			"screen_name": "kosobin_",
+			"location": "연어 퐁당퐁당",
+			"description": "그림그림쟁이 💮~💮 FUB FREE / 소전 스타 등등 해요 / 인장,헤더:@kosobin_ 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 308,
+			"listed_count": 13,
+			"created_at": "Sat Jul 08 06:07:12 +0000 2017",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065819787681443845/yKwq_SxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065819787681443845/yKwq_SxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/883568129221185536/1526966423",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "않아요 https://t.co/VUHpQ6y9Qk"
+	},
+	{
 		"created_at": "Sat Dec 22 17:10:56 +0000 2018",
 		"id": 1076525505858289700,
 		"id_str": "1076525505858289664",
