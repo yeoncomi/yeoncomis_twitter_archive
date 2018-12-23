@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 02:38:39 +0000 2018",
+		"id": 1075943601408860200,
+		"id_str": "1075943601408860161",
+		"full_text": "오늘 다운타운에서 발견한 트럼프 임기 카운트다운 시계ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/NhF5GAkS8P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075943563370717200,
+					"id_str": "1075943563370717184",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6E-GUUYAAlzEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6E-GUUYAAlzEI.jpg",
+					"url": "https://t.co/NhF5GAkS8P",
+					"display_url": "pic.twitter.com/NhF5GAkS8P",
+					"expanded_url": "https://twitter.com/sibu_owl/status/1075943601408860161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075943563370717200,
+					"id_str": "1075943563370717184",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Du6E-GUUYAAlzEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du6E-GUUYAAlzEI.jpg",
+					"url": "https://t.co/NhF5GAkS8P",
+					"display_url": "pic.twitter.com/NhF5GAkS8P",
+					"expanded_url": "https://twitter.com/sibu_owl/status/1075943601408860161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 379438295,
+			"id_str": "379438295",
+			"name": "카린ಠ_ಠ",
+			"screen_name": "sibu_owl",
+			"location": "",
+			"description": "천방지축 어리둥절 빙글빙글 돌아가는 이민생활",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 84,
+			"listed_count": 3,
+			"created_at": "Sat Sep 24 23:51:10 +0000 2011",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57305,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006505192978669568/ie270E_8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006505192978669568/ie270E_8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/379438295/1410494368",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 704,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 다운타운에서 발견한 트럼프 임기 카운트다운 시계ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/NhF5GAkS8P"
+	},
+	{
+		"created_at": "Sun Dec 23 02:29:33 +0000 2018",
+		"id": 1076666089101156400,
+		"id_str": "1076666089101156353",
+		"full_text": "ㅁㅊ 일본 식민지 미화교육 너무 시켜서 이 지경 되어벌임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n(출처 네이트판 https://t.co/pq0FY361Vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076666081819865100,
+					"id_str": "1076666081819865089",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"url": "https://t.co/pq0FY361Vd",
+					"display_url": "pic.twitter.com/pq0FY361Vd",
+					"expanded_url": "https://twitter.com/ALD8J1rjIghOQiW/status/1076666089101156353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076666081819865100,
+					"id_str": "1076666081819865089",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"url": "https://t.co/pq0FY361Vd",
+					"display_url": "pic.twitter.com/pq0FY361Vd",
+					"expanded_url": "https://twitter.com/ALD8J1rjIghOQiW/status/1076666089101156353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017833152465653800,
+			"id_str": "1017833152465653762",
+			"name": "율무",
+			"screen_name": "ALD8J1rjIghOQiW",
+			"location": "",
+			"description": "•취준생 •공부정보 •패션,메이크업정보 공유해요 :)  • BTS에 점점 빠지는 중...🙄",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 529,
+			"listed_count": 3,
+			"created_at": "Fri Jul 13 18:08:28 +0000 2018",
+			"favourites_count": 3650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076669126779629569/Q-zXVQuA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076669126779629569/Q-zXVQuA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017833152465653762/1545545189",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2589,
+		"favorite_count": 379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅁㅊ 일본 식민지 미화교육 너무 시켜서 이 지경 되어벌임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n(출처 네이트판 https://t.co/pq0FY361Vd"
+	},
+	{
 		"created_at": "Sun Dec 23 02:29:33 +0000 2018",
 		"id": 1076666089101156400,
 		"id_str": "1076666089101156353",
