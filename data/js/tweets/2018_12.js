@@ -106,6 +106,167 @@ Grailbird.data.tweets_2018_12 =
 			"name": "율무",
 			"screen_name": "ALD8J1rjIghOQiW",
 			"location": "",
+			"description": "취준생/공부정보/패션•메이크업정보/공유해요 :)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 529,
+			"listed_count": 3,
+			"created_at": "Fri Jul 13 18:08:28 +0000 2018",
+			"favourites_count": 3649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076669126779629569/Q-zXVQuA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076669126779629569/Q-zXVQuA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017833152465653762/1545508825",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1276,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅁㅊ 일본 식민지 미화교육 너무 시켜서 이 지경 되어벌임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n(출처 네이트판 https://t.co/pq0FY361Vd"
+	},
+	{
+		"created_at": "Sun Dec 23 02:29:33 +0000 2018",
+		"id": 1076666089101156400,
+		"id_str": "1076666089101156353",
+		"full_text": "ㅁㅊ 일본 식민지 미화교육 너무 시켜서 이 지경 되어벌임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\n(출처 네이트판 https://t.co/pq0FY361Vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076666081819865100,
+					"id_str": "1076666081819865089",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"url": "https://t.co/pq0FY361Vd",
+					"display_url": "pic.twitter.com/pq0FY361Vd",
+					"expanded_url": "https://twitter.com/ALD8J1rjIghOQiW/status/1076666089101156353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076666081819865100,
+					"id_str": "1076666081819865089",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvEWGNSVsAE8aI4.jpg",
+					"url": "https://t.co/pq0FY361Vd",
+					"display_url": "pic.twitter.com/pq0FY361Vd",
+					"expanded_url": "https://twitter.com/ALD8J1rjIghOQiW/status/1076666089101156353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017833152465653800,
+			"id_str": "1017833152465653762",
+			"name": "율무",
+			"screen_name": "ALD8J1rjIghOQiW",
+			"location": "",
 			"description": "논페미/취준생/공부정보/패션•메이크업정보/공유해요 :)",
 			"url": null,
 			"entities": {
