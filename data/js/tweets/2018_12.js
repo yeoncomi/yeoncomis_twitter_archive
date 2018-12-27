@@ -136,6 +136,180 @@ Grailbird.data.tweets_2018_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
+			"statuses_count": 365907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062526233852882944/Agor2zFB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062526233852882944/Agor2zFB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191681181/1539782848",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 코인도 거래소에 상장이 되는 걸 보면 코인판은 정말 끝났다 https://t.co/vTviJL3icF"
+	},
+	{
+		"created_at": "Thu Dec 27 08:16:19 +0000 2018",
+		"id": 1078202907806167000,
+		"id_str": "1078202907806167040",
+		"full_text": "이런 코인도 거래소에 상장이 되는 걸 보면 코인판은 정말 끝났다 https://t.co/vTviJL3icF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078202902005436400,
+					"id_str": "1078202902005436416",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DvaL06nUUAA6bfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvaL06nUUAA6bfJ.jpg",
+					"url": "https://t.co/vTviJL3icF",
+					"display_url": "pic.twitter.com/vTviJL3icF",
+					"expanded_url": "https://twitter.com/massgame/status/1078202907806167040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 940,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 940,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078202902005436400,
+					"id_str": "1078202902005436416",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DvaL06nUUAA6bfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvaL06nUUAA6bfJ.jpg",
+					"url": "https://t.co/vTviJL3icF",
+					"display_url": "pic.twitter.com/vTviJL3icF",
+					"expanded_url": "https://twitter.com/massgame/status/1078202907806167040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 940,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 940,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191681181,
+			"id_str": "191681181",
+			"name": "マスゲーム",
+			"screen_name": "massgame",
+			"location": "成田空港直通2時間",
+			"description": "立花理香麻倉もも小倉唯TrySail豊田萌絵亜咲花和氣あず未Pyxis伊藤美来汐入あすかevery♥ing!内田真礼Aqoursμ’ｓ山崎エリイ三森すずこスフィア夏川椎菜雨宮天南早紀戸松遥Altima大橋彩香LiveRevolt鈴木みのりORESAMAアイカツ!雨宮天に興味ある(DDではない",
+			"url": "https://t.co/OYUfyRmHO8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYUfyRmHO8",
+							"expanded_url": "http://twpf.jp/massgame",
+							"display_url": "twpf.jp/massgame",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6958,
+			"friends_count": 799,
+			"listed_count": 50,
+			"created_at": "Fri Sep 17 02:04:06 +0000 2010",
+			"favourites_count": 6283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
 			"statuses_count": 365902,
 			"lang": "en",
 			"contributors_enabled": false,
