@@ -114,6 +114,167 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1904470,
+			"friends_count": 0,
+			"listed_count": 5137,
+			"created_at": "Sat May 10 04:08:46 +0000 2014",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2538322138/1534220325",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2515,
+		"favorite_count": 13125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ajbnpzQ8vb"
+	},
+	{
+		"created_at": "Thu Dec 27 21:52:00 +0000 2018",
+		"id": 1078408179820752900,
+		"id_str": "1078408179820752901",
+		"full_text": "https://t.co/ajbnpzQ8vb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078408155808362500,
+					"id_str": "1078408155808362501",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DvdGgQnXcAU-9E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvdGgQnXcAU-9E3.jpg",
+					"url": "https://t.co/ajbnpzQ8vb",
+					"display_url": "pic.twitter.com/ajbnpzQ8vb",
+					"expanded_url": "https://twitter.com/PicturesFoIder/status/1078408179820752901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078408155808362500,
+					"id_str": "1078408155808362501",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DvdGgQnXcAU-9E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvdGgQnXcAU-9E3.jpg",
+					"url": "https://t.co/ajbnpzQ8vb",
+					"display_url": "pic.twitter.com/ajbnpzQ8vb",
+					"expanded_url": "https://twitter.com/PicturesFoIder/status/1078408179820752901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2538322138,
+			"id_str": "2538322138",
+			"name": "non aesthetic things",
+			"screen_name": "PicturesFoIder",
+			"location": "Dm promo",
+			"description": "Best page in the world. Parody account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1904124,
 			"friends_count": 0,
 			"listed_count": 5236,
