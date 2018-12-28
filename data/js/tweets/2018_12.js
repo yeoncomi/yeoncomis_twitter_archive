@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 09:26:09 +0000 2018",
+		"id": 1078220480174125000,
+		"id_str": "1078220480174125056",
+		"full_text": "야 솔직히 회사에서 한국인 나 밖에 없는데 이런 “한국인으로 안 태어나서 다행이다”같은 제목의 책이 있는 거 무례하지 않냐. 일본이 이래요. https://t.co/wISgtNjkN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078220459693334500,
+					"id_str": "1078220459693334529",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvaby6GUYAENzOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvaby6GUYAENzOQ.jpg",
+					"url": "https://t.co/wISgtNjkN6",
+					"display_url": "pic.twitter.com/wISgtNjkN6",
+					"expanded_url": "https://twitter.com/mashox101/status/1078220480174125056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078220459693334500,
+					"id_str": "1078220459693334529",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvaby6GUYAENzOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvaby6GUYAENzOQ.jpg",
+					"url": "https://t.co/wISgtNjkN6",
+					"display_url": "pic.twitter.com/wISgtNjkN6",
+					"expanded_url": "https://twitter.com/mashox101/status/1078220480174125056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1989,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078220459676655600,
+					"id_str": "1078220459676655617",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvaby6CV4AEs7ID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvaby6CV4AEs7ID.jpg",
+					"url": "https://t.co/wISgtNjkN6",
+					"display_url": "pic.twitter.com/wISgtNjkN6",
+					"expanded_url": "https://twitter.com/mashox101/status/1078220480174125056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2012,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1179,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233420274,
+			"id_str": "233420274",
+			"name": "Mashox",
+			"screen_name": "mashox101",
+			"location": "섬나라 가운데 쪽",
+			"description": "대륙과 섬나라에서 인생 반 이상 거주 했지만 어쩌라고 이제 질렸다.유일한 친구는 아내와 두 강아지.내가 탈본한다는데 네가 뭔데 딴지를 거니.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 151,
+			"listed_count": 10,
+			"created_at": "Mon Jan 03 05:13:59 +0000 2011",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8361,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074652938549653504/wnevTFam_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074652938549653504/wnevTFam_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233420274/1545052566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 솔직히 회사에서 한국인 나 밖에 없는데 이런 “한국인으로 안 태어나서 다행이다”같은 제목의 책이 있는 거 무례하지 않냐. 일본이 이래요. https://t.co/wISgtNjkN6"
+	},
+	{
 		"created_at": "Fri Dec 28 09:41:38 +0000 2018",
 		"id": 1078586763600453600,
 		"id_str": "1078586763600453632",
