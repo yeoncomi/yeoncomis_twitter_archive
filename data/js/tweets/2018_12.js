@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 06:16:22 +0000 2018",
+		"id": 1078535106187251700,
+		"id_str": "1078535106187251712",
+		"full_text": "음 아래와 같은 사유로 알티이벤투 함니다,,전교1등 해버려섷,, 알티하신분 한분 뽑아서 만원드릴게용❤️ https://t.co/fEvTDDPxBz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078535092044058600,
+					"id_str": "1078535092044058624",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dve5868UUAApDYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dve5868UUAApDYW.jpg",
+					"url": "https://t.co/fEvTDDPxBz",
+					"display_url": "pic.twitter.com/fEvTDDPxBz",
+					"expanded_url": "https://twitter.com/pepe_cos/status/1078535106187251712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078535092044058600,
+					"id_str": "1078535092044058624",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dve5868UUAApDYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dve5868UUAApDYW.jpg",
+					"url": "https://t.co/fEvTDDPxBz",
+					"display_url": "pic.twitter.com/fEvTDDPxBz",
+					"expanded_url": "https://twitter.com/pepe_cos/status/1078535106187251712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078535092052447200,
+					"id_str": "1078535092052447232",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dve586-UUAAnfod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dve586-UUAAnfod.jpg",
+					"url": "https://t.co/fEvTDDPxBz",
+					"display_url": "pic.twitter.com/fEvTDDPxBz",
+					"expanded_url": "https://twitter.com/pepe_cos/status/1078535106187251712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843711598778761200,
+			"id_str": "843711598778761216",
+			"name": "페페💜",
+			"screen_name": "pepe_cos",
+			"location": "",
+			"description": "맞팔은멘션주시길! / 이별은 블언블입니댜 / 롤 위주 잡덕💕 / 이상한사람/쟈기❤️@paa_siaru 181027~ / 얘 쥬인임👉🏻@Sagiri_kawai 접률 낮출게용 ㅜ 블언블맴대루해",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 786,
+			"friends_count": 715,
+			"listed_count": 31,
+			"created_at": "Mon Mar 20 06:31:35 +0000 2017",
+			"favourites_count": 12272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25475,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077224253911576576/yCc3VSwl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077224253911576576/yCc3VSwl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843711598778761216/1545665476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "음 아래와 같은 사유로 알티이벤투 함니다,,전교1등 해버려섷,, 알티하신분 한분 뽑아서 만원드릴게용❤️ https://t.co/fEvTDDPxBz"
+	},
+	{
+		"created_at": "Thu Dec 27 04:40:06 +0000 2018",
+		"id": 1078148493871599600,
+		"id_str": "1078148493871599621",
+		"full_text": "Spider-Man: Into the Spider-Verse https://t.co/loIbGIbpsl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078148478432350200,
+					"id_str": "1078148478432350208",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DvZaVDAWkAAVpAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvZaVDAWkAAVpAf.jpg",
+					"url": "https://t.co/loIbGIbpsl",
+					"display_url": "pic.twitter.com/loIbGIbpsl",
+					"expanded_url": "https://twitter.com/glhrmww/status/1078148493871599621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1122,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078148478432350200,
+					"id_str": "1078148478432350208",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DvZaVDAWkAAVpAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvZaVDAWkAAVpAf.jpg",
+					"url": "https://t.co/loIbGIbpsl",
+					"display_url": "pic.twitter.com/loIbGIbpsl",
+					"expanded_url": "https://twitter.com/glhrmww/status/1078148493871599621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1122,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078115090732380200,
+			"id_str": "1078115090732380161",
+			"name": "gu¡rrr",
+			"screen_name": "glhrmww",
+			"location": "",
+			"description": "falo de séries, animes e coisas",
+			"url": "https://t.co/jin81dyXGm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jin81dyXGm",
+							"expanded_url": "https://curiouscat.me/gurlmr",
+							"display_url": "curiouscat.me/gurlmr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Dec 27 02:27:22 +0000 2018",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": "pt",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078351073167986688/Y94zbhC0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078351073167986688/Y94zbhC0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078115090732380161/1545933942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9016,
+		"favorite_count": 23564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spider-Man: Into the Spider-Verse https://t.co/loIbGIbpsl"
+	},
+	{
 		"created_at": "Fri Dec 28 06:40:45 +0000 2018",
 		"id": 1078541241879388200,
 		"id_str": "1078541241879388160",
