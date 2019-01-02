@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 02 05:36:55 +0000 2019",
+		"id": 1080337119795503100,
+		"id_str": "1080337119795503104",
+		"full_text": "그.........부대정모 설문에 이상한 게 있는데요 https://t.co/DAruFcq8WJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080337102103994400,
+					"id_str": "1080337102103994368",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv4g3tiVYAAnYv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv4g3tiVYAAnYv9.jpg",
+					"url": "https://t.co/DAruFcq8WJ",
+					"display_url": "pic.twitter.com/DAruFcq8WJ",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1080337119795503104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 219,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080337102103994400,
+					"id_str": "1080337102103994368",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv4g3tiVYAAnYv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv4g3tiVYAAnYv9.jpg",
+					"url": "https://t.co/DAruFcq8WJ",
+					"display_url": "pic.twitter.com/DAruFcq8WJ",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1080337119795503104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 219,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "AAのAのAAA",
+			"screen_name": "hibiyasleep",
+			"location": "귀걸이줄도 달지 그러냐",
+			"description": "heavensward / rootage / festo / #TransRightsAreHumanRights / #WontBeErased",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 880,
+			"friends_count": 987,
+			"listed_count": 23,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 733892,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058736257566629890/tnyb0fgU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058736257566629890/tnyb0fgU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1546143113",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그.........부대정모 설문에 이상한 게 있는데요 https://t.co/DAruFcq8WJ"
+	},
+	{
+		"created_at": "Tue Jan 01 16:26:12 +0000 2019",
+		"id": 1080138130320089100,
+		"id_str": "1080138130320089089",
+		"full_text": "페르브이 카날에 올라온 푸틴 신년인사\n\n분명히 알바 풀었는데도, 압도적인 싫어요와 저주로만 140% 담긴 댓글 (니 외국좆집 딸내미년 보이면 죽여버리겠다. 영혼과 조국을 팔아먹은 진정한 개새끼, 블라디미르 보지경련, 옐친의 훌륭한 후계자 새끼... 등등.. )\n\n결국 댓글창 폐쇄 https://t.co/DtLKDZocBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080137997004111900,
+					"id_str": "1080137997004111872",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1ryRPVAAAgZ7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1ryRPVAAAgZ7B.jpg",
+					"url": "https://t.co/DtLKDZocBd",
+					"display_url": "pic.twitter.com/DtLKDZocBd",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1080138130320089089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080137997004111900,
+					"id_str": "1080137997004111872",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1ryRPVAAAgZ7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1ryRPVAAAgZ7B.jpg",
+					"url": "https://t.co/DtLKDZocBd",
+					"display_url": "pic.twitter.com/DtLKDZocBd",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1080138130320089089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1080138022744539100,
+					"id_str": "1080138022744539136",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1rzxIUwAARSex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1rzxIUwAARSex.jpg",
+					"url": "https://t.co/DtLKDZocBd",
+					"display_url": "pic.twitter.com/DtLKDZocBd",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1080138130320089089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 538,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/상식이 살아숨쉬는 세상",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 672,
+			"listed_count": 37,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 14554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 305958,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033565604714668032/tpLZ6ftK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033565604714668032/tpLZ6ftK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1545696573",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페르브이 카날에 올라온 푸틴 신년인사\n\n분명히 알바 풀었는데도, 압도적인 싫어요와 저주로만 140% 담긴 댓글 (니 외국좆집 딸내미년 보이면 죽여버리겠다. 영혼과 조국을 팔아먹은 진정한 개새끼, 블라디미르 보지경련, 옐친의 훌륭한 후계자 새끼... 등등.. )\n\n결국 댓글창 폐쇄 https://t.co/DtLKDZocBd"
+	},
+	{
 		"created_at": "Wed Jan 02 02:29:13 +0000 2019",
 		"id": 1080289881031553000,
 		"id_str": "1080289881031553025",
