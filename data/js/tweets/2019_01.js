@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 02 01:05:33 +0000 2019",
+		"id": 1080268825529077800,
+		"id_str": "1080268825529077762",
+		"full_text": "7th buffet (@ HomeTown Buffet in Turlock, CA) https://t.co/HYepgNeUoM https://t.co/sk266r1wXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HYepgNeUoM",
+					"expanded_url": "https://www.swarmapp.com/c/2d1DXg6JPD4",
+					"display_url": "swarmapp.com/c/2d1DXg6JPD4",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1080268824174309400,
+					"id_str": "1080268824174309377",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv3ixabWsAEU44j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv3ixabWsAEU44j.jpg",
+					"url": "https://t.co/sk266r1wXm",
+					"display_url": "pic.twitter.com/sk266r1wXm",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1080268825529077762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080268824174309400,
+					"id_str": "1080268824174309377",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv3ixabWsAEU44j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv3ixabWsAEU44j.jpg",
+					"url": "https://t.co/sk266r1wXm",
+					"display_url": "pic.twitter.com/sk266r1wXm",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1080268825529077762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 908,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.5081088,
+				-120.8772254
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-120.8772254,
+				37.5081088
+			]
+		},
+		"place": {
+			"id": "ee2cfc9feb061a08",
+			"url": "https://api.twitter.com/1.1/geo/id/ee2cfc9feb061a08.json",
+			"place_type": "city",
+			"name": "Turlock",
+			"full_name": "Turlock, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-120.912851,
+							37.459822
+						],
+						[
+							-120.812106,
+							37.459822
+						],
+						[
+							-120.812106,
+							37.53937
+						],
+						[
+							-120.912851,
+							37.53937
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7th buffet (@ HomeTown Buffet in Turlock, CA) https://t.co/HYepgNeUoM https://t.co/sk266r1wXm"
+	},
+	{
 		"created_at": "Tue Jan 01 20:48:27 +0000 2019",
 		"id": 1080204127077048300,
 		"id_str": "1080204127077048321",
