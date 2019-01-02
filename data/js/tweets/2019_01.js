@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 01 15:14:53 +0000 2019",
+		"id": 1080120180930273300,
+		"id_str": "1080120180930273280",
+		"full_text": "멋지당 https://t.co/nIljwm5R8Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080120170956316700,
+					"id_str": "1080120170956316672",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1bkqCV4AA_Ldm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1bkqCV4AA_Ldm.jpg",
+					"url": "https://t.co/nIljwm5R8Q",
+					"display_url": "pic.twitter.com/nIljwm5R8Q",
+					"expanded_url": "https://twitter.com/Kummy_Gummy/status/1080120180930273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 664,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080120170956316700,
+					"id_str": "1080120170956316672",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1bkqCV4AA_Ldm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1bkqCV4AA_Ldm.jpg",
+					"url": "https://t.co/nIljwm5R8Q",
+					"display_url": "pic.twitter.com/nIljwm5R8Q",
+					"expanded_url": "https://twitter.com/Kummy_Gummy/status/1080120180930273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 664,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1080120170943701000,
+					"id_str": "1080120170943700992",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1bkp_VYAAui_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1bkp_VYAAui_h.jpg",
+					"url": "https://t.co/nIljwm5R8Q",
+					"display_url": "pic.twitter.com/nIljwm5R8Q",
+					"expanded_url": "https://twitter.com/Kummy_Gummy/status/1080120180930273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 743,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1080120170939506700,
+					"id_str": "1080120170939506688",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1bkp-VYAAOz89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1bkp-VYAAOz89.jpg",
+					"url": "https://t.co/nIljwm5R8Q",
+					"display_url": "pic.twitter.com/nIljwm5R8Q",
+					"expanded_url": "https://twitter.com/Kummy_Gummy/status/1080120180930273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1080120170939465700,
+					"id_str": "1080120170939465728",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv1bkp-UwAAk824.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv1bkp-UwAAk824.jpg",
+					"url": "https://t.co/nIljwm5R8Q",
+					"display_url": "pic.twitter.com/nIljwm5R8Q",
+					"expanded_url": "https://twitter.com/Kummy_Gummy/status/1080120180930273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899746635911016400,
+			"id_str": "899746635911016449",
+			"name": "이̶̙̼͎͖̙̟̉̎̐̔̑̓̚금̶̡̤̪̮̦̬̈̈̓̆̑̔͞희̢̟̦͍̰͆̏͐̈̎̏̀̀͢^^",
+			"screen_name": "Kummy_Gummy",
+			"location": "",
+			"description": "분̸͔͍̝̭̥̮͉͙̜̈́̑̓̿̿͌̉̒͠노̴̱̬͈̳̞̀͑̒͛͑͌͘͜와̨͚̻̲̳́͛͗́́͛̊̈́͌͟증̷̺̣̭̠̣͎͓͓̞̮̀̅͑̈́̔͘͞오̸̢͚̫̲̪̪̺̐̇͊̋̍͆͋̕͘͠ͅ의̸̛̼̱͙̱̲̰͛͒͋̈계̶̦͚̼̼͙̙̣̲͚̱̓̓̉̒͑̚͡시͉̜͙̰͔̥̖̯̳̑̓̏͛̑̋̉̇͠록̵̛̖̗͍̳̺̌̿͐͒͒̋̚͘͢",
+			"url": "https://t.co/RTMDQjloLz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RTMDQjloLz",
+							"expanded_url": "https://ask.fm/PE_TE_KO?utm_source=copy_link&utm_medium=iOS&shareBy=PE_TE_KO",
+							"display_url": "ask.fm/PE_TE_KO?utm_s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1013,
+			"friends_count": 766,
+			"listed_count": 13,
+			"created_at": "Mon Aug 21 21:34:49 +0000 2017",
+			"favourites_count": 60596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4456,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080173076254343168/DgptRzof_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080173076254343168/DgptRzof_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899746635911016449/1546410878",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멋지당 https://t.co/nIljwm5R8Q"
+	},
+	{
+		"created_at": "Wed Jan 02 14:12:40 +0000 2019",
+		"id": 1080466913057095700,
+		"id_str": "1080466913057095682",
+		"full_text": "연말파티 후기\n: @64bitfox 가 귤을 한번에 절반먹었어요. 네. 껍질도요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "64bitfox",
+					"name": "64비트여우",
+					"id": 244330027,
+					"id_str": "244330027",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 571420512,
+			"id_str": "571420512",
+			"name": "라게",
+			"screen_name": "raghe_o",
+			"location": "11.12.16",
+			"description": "동결건조되었읍니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 899,
+			"listed_count": 13,
+			"created_at": "Sat May 05 01:55:39 +0000 2012",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52881,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033349691851722753/ng2TLob-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033349691851722753/ng2TLob-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/571420512/1509974510",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "연말파티 후기\n: @64bitfox 가 귤을 한번에 절반먹었어요. 네. 껍질도요."
+	},
+	{
 		"created_at": "Wed Jan 02 07:24:29 +0000 2019",
 		"id": 1080364187539259400,
 		"id_str": "1080364187539259392",
