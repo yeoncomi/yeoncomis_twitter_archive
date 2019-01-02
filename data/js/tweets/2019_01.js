@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 02 20:38:01 +0000 2019",
+		"id": 1080563890025574400,
+		"id_str": "1080563890025574400",
+		"full_text": "I'm at Sea Lions at @Pier39 in San Francisco, CA https://t.co/4c6Kza4zZC https://t.co/rgTDqjOC4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PIER39",
+					"name": "PIER 39",
+					"id": 21808029,
+					"id_str": "21808029",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4c6Kza4zZC",
+					"expanded_url": "https://www.swarmapp.com/c/jFH0KdmjK2u",
+					"display_url": "swarmapp.com/c/jFH0KdmjK2u",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1080563888037527600,
+					"id_str": "1080563888037527552",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv7vIY-XgAAXlvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv7vIY-XgAAXlvb.jpg",
+					"url": "https://t.co/rgTDqjOC4j",
+					"display_url": "pic.twitter.com/rgTDqjOC4j",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1080563890025574400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080563888037527600,
+					"id_str": "1080563888037527552",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv7vIY-XgAAXlvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv7vIY-XgAAXlvb.jpg",
+					"url": "https://t.co/rgTDqjOC4j",
+					"display_url": "pic.twitter.com/rgTDqjOC4j",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1080563890025574400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 910,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31094,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.81061783,
+				-122.41106858
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-122.41106858,
+				37.81061783
+			]
+		},
+		"place": {
+			"id": "5a110d312052166f",
+			"url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+			"place_type": "city",
+			"name": "San Francisco",
+			"full_name": "San Francisco, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.514926,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.708075
+						],
+						[
+							-122.357031,
+							37.833238
+						],
+						[
+							-122.514926,
+							37.833238
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm at Sea Lions at @Pier39 in San Francisco, CA https://t.co/4c6Kza4zZC https://t.co/rgTDqjOC4j"
+	},
+	{
 		"created_at": "Wed Jan 02 17:54:41 +0000 2019",
 		"id": 1080522782444830700,
 		"id_str": "1080522782444830721",
