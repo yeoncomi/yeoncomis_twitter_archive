@@ -135,6 +135,188 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 394,
+			"friends_count": 462,
+			"listed_count": 4,
+			"created_at": "Fri Jan 27 07:05:27 +0000 2017",
+			"favourites_count": 21464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072453312635650048/Lh7mYiNv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072453312635650048/Lh7mYiNv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824875953629257728/1546366048",
+			"profile_link_color": "E3E5FC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#RT한_트친에게_익명으로_솔직하게_체크\n\n유행은 따라가야 https://t.co/5a3qGAeA8m"
+	},
+	{
+		"created_at": "Thu Jan 03 10:19:45 +0000 2019",
+		"id": 1080770684010164200,
+		"id_str": "1080770684010164224",
+		"full_text": "#RT한_트친에게_익명으로_솔직하게_체크\n\n유행은 따라가야 https://t.co/5a3qGAeA8m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT한_트친에게_익명으로_솔직하게_체크",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080770656868814800,
+					"id_str": "1080770656868814848",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv-rL65U0AAEbky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv-rL65U0AAEbky.jpg",
+					"url": "https://t.co/5a3qGAeA8m",
+					"display_url": "pic.twitter.com/5a3qGAeA8m",
+					"expanded_url": "https://twitter.com/ITSYOURKME/status/1080770684010164224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080770656868814800,
+					"id_str": "1080770656868814848",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv-rL65U0AAEbky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv-rL65U0AAEbky.jpg",
+					"url": "https://t.co/5a3qGAeA8m",
+					"display_url": "pic.twitter.com/5a3qGAeA8m",
+					"expanded_url": "https://twitter.com/ITSYOURKME/status/1080770684010164224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824875953629257700,
+			"id_str": "824875953629257728",
+			"name": "유크@자신의귀여움을인정한 黒炎竜의 새해 축하",
+			"screen_name": "ITSYOURKME",
+			"location": "馬山",
+			"description": "창원에 사는 거지 버그 크리에이터 / +82 10-5914-4211",
+			"url": "https://t.co/HXGvA2hmwI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HXGvA2hmwI",
+							"expanded_url": "http://www.yourk.me",
+							"display_url": "yourk.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 393,
 			"friends_count": 462,
 			"listed_count": 4,
