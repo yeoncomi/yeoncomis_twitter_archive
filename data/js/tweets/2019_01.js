@@ -59,6 +59,592 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 3899,
+			"friends_count": 382,
+			"listed_count": 91,
+			"created_at": "Sat Jan 17 07:44:44 +0000 2009",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 289986,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19104463/1531217391",
+			"profile_link_color": "B0E3FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "633119",
+			"profile_text_color": "91551C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080356389606744000,
+		"quoted_status_id_str": "1080356389606744064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pzanzeVCO0",
+			"expanded": "https://twitter.com/chuLa_official/status/1080356389606744064",
+			"display": "twitter.com/chuLa_official…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 02 06:53:29 +0000 2019",
+			"id": 1080356389606744000,
+			"id_str": "1080356389606744064",
+			"full_text": "【chuLaから新年のお知らせ②】\n\n夏目みさきですが、通っている高校のテストの点が芳しくなく\n【学年164位最下位/164人中、偏差値34.6 ※画像参照】\n1月いっぱいは補講の為 平日の活動をお休みさせて頂きます。\n卒業を控えて本人とても大切な時期ですので是非 応援頂けましたら幸いです。\n\n#ちゅら https://t.co/dKjb1zk77s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ちゅら",
+						"indices": [
+							148,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1080356360863154200,
+						"id_str": "1080356360863154182",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Dv4yYuAVAAYGRQ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dv4yYuAVAAYGRQ6.jpg",
+						"url": "https://t.co/dKjb1zk77s",
+						"display_url": "pic.twitter.com/dKjb1zk77s",
+						"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 681,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1080356360863154200,
+						"id_str": "1080356360863154182",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Dv4yYuAVAAYGRQ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dv4yYuAVAAYGRQ6.jpg",
+						"url": "https://t.co/dKjb1zk77s",
+						"display_url": "pic.twitter.com/dKjb1zk77s",
+						"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 681,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 996,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1080356369570525200,
+						"id_str": "1080356369570525184",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Dv4yZOcU8AAL7aR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dv4yZOcU8AAL7aR.jpg",
+						"url": "https://t.co/dKjb1zk77s",
+						"display_url": "pic.twitter.com/dKjb1zk77s",
+						"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 890,
+								"h": 1188,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 890,
+								"h": 1188,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1080356378835730400,
+						"id_str": "1080356378835730434",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Dv4yZw9UwAIU8NW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dv4yZw9UwAIU8NW.jpg",
+						"url": "https://t.co/dKjb1zk77s",
+						"display_url": "pic.twitter.com/dKjb1zk77s",
+						"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1066,
+								"h": 1299,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 985,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1080356387228573700,
+						"id_str": "1080356387228573696",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/Dv4yaQOVYAAT42K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dv4yaQOVYAAT42K.jpg",
+						"url": "https://t.co/dKjb1zk77s",
+						"display_url": "pic.twitter.com/dKjb1zk77s",
+						"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 102,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 162,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 162,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 848141865551413200,
+				"id_str": "848141865551413248",
+				"name": "【公式】chuLa@初リリース東名ツアー決定！",
+				"screen_name": "chuLa_official",
+				"location": "東京都",
+				"description": "(株)FreeK所属。2017/5/7LIVEデビュー！BPM200！超ハイテンポなアッパーチューンで元気を届ける渋谷原宿系アイドルユニット《1stワンマン：2017/12/27青山RizM》《2nd：8/16新宿ReNY》《3rd：12/11新宿BLAZE》《2019/3/2名古屋ReNY&4/2新宿BLAZE》",
+				"url": "https://t.co/NyuU6zNw0w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NyuU6zNw0w",
+								"expanded_url": "https://ws.formzu.net/fgen/S26574238",
+								"display_url": "ws.formzu.net/fgen/S26574238",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2807,
+				"friends_count": 34,
+				"listed_count": 91,
+				"created_at": "Sat Apr 01 11:55:53 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1985,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045494805705371649/M9SfMGQc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045494805705371649/M9SfMGQc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/848141865551413248/1546475989",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5092,
+			"favorite_count": 8091,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "일본 여성 아이돌그룹 chuLa의 멤버 나츠메 미사키가 학업을 위해 아이돌 활동을 일시 중단.\n\n지난번 시험에서 학년 164명중 164등을 기록했다고. https://t.co/pzanzeVCO0"
+	},
+	{
+		"created_at": "Thu Jan 03 14:08:22 +0000 2019",
+		"id": 1080828215621550100,
+		"id_str": "1080828215621550080",
+		"full_text": "Jerk 😡 https://t.co/qL7QcflFjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080828204796051500,
+					"id_str": "1080828204796051456",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv_fhpoXgAAZ565.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv_fhpoXgAAZ565.jpg",
+					"url": "https://t.co/qL7QcflFjN",
+					"display_url": "pic.twitter.com/qL7QcflFjN",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/1080828215621550080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080828204796051500,
+					"id_str": "1080828204796051456",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/Dv_fhpoXgAAZ565.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dv_fhpoXgAAZ565.jpg",
+					"url": "https://t.co/qL7QcflFjN",
+					"display_url": "pic.twitter.com/qL7QcflFjN",
+					"expanded_url": "https://twitter.com/_youhadonejob1/status/1080828215621550080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3898598357,
+			"id_str": "3898598357",
+			"name": "You Had One Job",
+			"screen_name": "_youhadonejob1",
+			"location": "",
+			"description": "Fun pics. Do not own any content just a fan/parody* will remove content @ copyright holders request. Support us @ https://t.co/Adqm2IgH5K.",
+			"url": "https://t.co/sxMoc0BHpO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sxMoc0BHpO",
+							"expanded_url": "https://bit.ly/2CBshJG",
+							"display_url": "bit.ly/2CBshJG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Adqm2IgH5K",
+							"expanded_url": "https://www.patreon.com/Youhadonejob1",
+							"display_url": "patreon.com/Youhadonejob1",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 683237,
+			"friends_count": 336,
+			"listed_count": 4008,
+			"created_at": "Thu Oct 08 10:23:15 +0000 2015",
+			"favourites_count": 1151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4887,
+			"lang": "en-GB",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/703223013551022080/u6mVd-Tk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3898598357/1444300597",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 2117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "in",
+		"text": "Jerk 😡 https://t.co/qL7QcflFjN"
+	},
+	{
+		"created_at": "Thu Jan 03 14:08:15 +0000 2019",
+		"id": 1080828187175612400,
+		"id_str": "1080828187175612417",
+		"full_text": "일본 여성 아이돌그룹 chuLa의 멤버 나츠메 미사키가 학업을 위해 아이돌 활동을 일시 중단.\n\n지난번 시험에서 학년 164명중 164등을 기록했다고. https://t.co/pzanzeVCO0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pzanzeVCO0",
+					"expanded_url": "https://twitter.com/chuLa_official/status/1080356389606744064",
+					"display_url": "twitter.com/chuLa_official…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19104463,
+			"id_str": "19104463",
+			"name": "Cailia",
+			"screen_name": "cailia",
+			"location": "ritsuko@765.productions",
+			"description": "검은창에 알록달록한 글자를 쓰는 일을 합니다.",
+			"url": "https://t.co/oP5kuZQwGd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oP5kuZQwGd",
+							"expanded_url": "http://www.765.productions/diary",
+							"display_url": "765.productions/diary",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 3900,
 			"friends_count": 382,
 			"listed_count": 91,
