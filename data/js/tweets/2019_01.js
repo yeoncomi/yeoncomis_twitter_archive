@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 06:31:18 +0000 2019",
+		"id": 1081075582253785100,
+		"id_str": "1081075582253785088",
+		"full_text": "아니 이거 암만봐도 나무위키잖아 https://t.co/5nztiUSMgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081075569574391800,
+					"id_str": "1081075569574391808",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DwDAgLPVsAAyHjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwDAgLPVsAAyHjZ.jpg",
+					"url": "https://t.co/5nztiUSMgb",
+					"display_url": "pic.twitter.com/5nztiUSMgb",
+					"expanded_url": "https://twitter.com/_airtaxi/status/1081075582253785088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081075569574391800,
+					"id_str": "1081075569574391808",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DwDAgLPVsAAyHjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwDAgLPVsAAyHjZ.jpg",
+					"url": "https://t.co/5nztiUSMgb",
+					"display_url": "pic.twitter.com/5nztiUSMgb",
+					"expanded_url": "https://twitter.com/_airtaxi/status/1081075582253785088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3272514824,
+			"id_str": "3272514824",
+			"name": "이호원/kck4156(hoyo321)",
+			"screen_name": "_airtaxi",
+			"location": "대한민국 서울 동작구 사당1동",
+			"description": "Team Arcstar Team Member / OverRapid Game Client Programmer / 웬만하면 맞팔해드립니다! 알림 뜨면요 ㅋㅋ\n카카오스토리 : https://t.co/9fsskoCjpQ",
+			"url": "https://t.co/Ch4rNBR86K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ch4rNBR86K",
+							"expanded_url": "http://kagamine-rin.com",
+							"display_url": "kagamine-rin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9fsskoCjpQ",
+							"expanded_url": "http://kagamine-rin.com/story",
+							"display_url": "kagamine-rin.com/story",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 416,
+			"friends_count": 393,
+			"listed_count": 0,
+			"created_at": "Thu Jul 09 03:42:37 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3303,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818747688220913665/NlWS07lL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818747688220913665/NlWS07lL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3272514824/1484039758",
+			"profile_link_color": "5090AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 이거 암만봐도 나무위키잖아 https://t.co/5nztiUSMgb"
+	},
+	{
+		"created_at": "Fri Jan 04 15:03:50 +0000 2019",
+		"id": 1081204564966047700,
+		"id_str": "1081204564966047745",
+		"full_text": "곧 변경되는 운전면허증...jpg\n\n뭔 태극을 저렇게 정신사납게 박아놨냐;;; https://t.co/t00OtKwvT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081204330349252600,
+					"id_str": "1081204330349252608",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DwE1nCgU0AACvS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwE1nCgU0AACvS9.jpg",
+					"url": "https://t.co/t00OtKwvT7",
+					"display_url": "pic.twitter.com/t00OtKwvT7",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1081204564966047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081204330349252600,
+					"id_str": "1081204330349252608",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DwE1nCgU0AACvS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwE1nCgU0AACvS9.jpg",
+					"url": "https://t.co/t00OtKwvT7",
+					"display_url": "pic.twitter.com/t00OtKwvT7",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1081204564966047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081204432728027100,
+					"id_str": "1081204432728027136",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DwE1s_5U8AAOfUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwE1s_5U8AAOfUp.jpg",
+					"url": "https://t.co/t00OtKwvT7",
+					"display_url": "pic.twitter.com/t00OtKwvT7",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1081204564966047745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 574,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 574,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/상식이 살아숨쉬는 세상",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1944,
+			"friends_count": 669,
+			"listed_count": 37,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 14604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 306482,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033565604714668032/tpLZ6ftK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033565604714668032/tpLZ6ftK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1545696573",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "곧 변경되는 운전면허증...jpg\n\n뭔 태극을 저렇게 정신사납게 박아놨냐;;; https://t.co/t00OtKwvT7"
+	},
+	{
+		"created_at": "Fri Jan 04 04:29:27 +0000 2019",
+		"id": 1081044916174708700,
+		"id_str": "1081044916174708736",
+		"full_text": "46세의 한국 아빠, 캐나다인 모두의 아빠가 되다.\nhttps://t.co/VgDbRMIp7b\n와 이게 이렇게 커졌다고... https://t.co/gQr7cYywzG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VgDbRMIp7b",
+					"expanded_url": "https://www.dogdrip.net/191217061",
+					"display_url": "dogdrip.net/191217061",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081044639807811600,
+					"id_str": "1081044639807811585",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DwCkX04VsAE58BE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwCkX04VsAE58BE.jpg",
+					"url": "https://t.co/gQr7cYywzG",
+					"display_url": "pic.twitter.com/gQr7cYywzG",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1081044916174708736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081044639807811600,
+					"id_str": "1081044639807811585",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DwCkX04VsAE58BE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwCkX04VsAE58BE.jpg",
+					"url": "https://t.co/gQr7cYywzG",
+					"display_url": "pic.twitter.com/gQr7cYywzG",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1081044916174708736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081044728773107700,
+					"id_str": "1081044728773107712",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DwCkdATUYAAbfAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwCkdATUYAAbfAh.jpg",
+					"url": "https://t.co/gQr7cYywzG",
+					"display_url": "pic.twitter.com/gQr7cYywzG",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1081044916174708736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 482,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081044826722684900,
+					"id_str": "1081044826722684928",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DwCkitMUUAAFSKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwCkitMUUAAFSKP.jpg",
+					"url": "https://t.co/gQr7cYywzG",
+					"display_url": "pic.twitter.com/gQr7cYywzG",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1081044916174708736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 481,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 481,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081044905886023700,
+					"id_str": "1081044905886023680",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DwCknUGVAAA0M1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwCknUGVAAA0M1T.jpg",
+					"url": "https://t.co/gQr7cYywzG",
+					"display_url": "pic.twitter.com/gQr7cYywzG",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1081044916174708736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 486,
+							"h": 967,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 967,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1825,
+			"friends_count": 1502,
+			"listed_count": 35,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 58096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 185411,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "46세의 한국 아빠, 캐나다인 모두의 아빠가 되다.\nhttps://t.co/VgDbRMIp7b\n와 이게 이렇게 커졌다고... https://t.co/gQr7cYywzG"
+	},
+	{
 		"created_at": "Fri Jan 04 04:29:27 +0000 2019",
 		"id": 1081044916174708700,
 		"id_str": "1081044916174708736",
