@@ -123,6 +123,167 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
+			"statuses_count": 103952,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080099525077815296/HNYYI4rA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080099525077815296/HNYYI4rA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19951792/1432380938",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북한도 쓰는 갓언어 php https://t.co/LcZ7ZYWYyG"
+	},
+	{
+		"created_at": "Sat Jan 05 16:31:20 +0000 2019",
+		"id": 1081588972973785100,
+		"id_str": "1081588972973785089",
+		"full_text": "북한도 쓰는 갓언어 php https://t.co/LcZ7ZYWYyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081588945186484200,
+					"id_str": "1081588945186484224",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"url": "https://t.co/LcZ7ZYWYyG",
+					"display_url": "pic.twitter.com/LcZ7ZYWYyG",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/1081588972973785089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081588945186484200,
+					"id_str": "1081588945186484224",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"url": "https://t.co/LcZ7ZYWYyG",
+					"display_url": "pic.twitter.com/LcZ7ZYWYyG",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/1081588972973785089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19951792,
+			"id_str": "19951792",
+			"name": "꼬왁맨",
+			"screen_name": "ReallyiAmGhost",
+			"location": "Pleiades Star Cluster",
+			"description": "❤️@ensilion❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 1012,
+			"listed_count": 40,
+			"created_at": "Tue Feb 03 03:28:59 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
 			"statuses_count": 103956,
 			"lang": "ko",
 			"contributors_enabled": false,
