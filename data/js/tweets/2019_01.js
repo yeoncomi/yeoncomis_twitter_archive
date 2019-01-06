@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 13:39:29 +0000 2019",
+		"id": 1081908113219870700,
+		"id_str": "1081908113219870721",
+		"full_text": "https://t.co/nDIMaT1AbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081908099756154900,
+					"id_str": "1081908099756154881",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DwO1rz2VYAELG71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwO1rz2VYAELG71.jpg",
+					"url": "https://t.co/nDIMaT1AbN",
+					"display_url": "pic.twitter.com/nDIMaT1AbN",
+					"expanded_url": "https://twitter.com/sangba4u/status/1081908113219870721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081908099756154900,
+					"id_str": "1081908099756154881",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DwO1rz2VYAELG71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwO1rz2VYAELG71.jpg",
+					"url": "https://t.co/nDIMaT1AbN",
+					"display_url": "pic.twitter.com/nDIMaT1AbN",
+					"expanded_url": "https://twitter.com/sangba4u/status/1081908113219870721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 355202133,
+			"id_str": "355202133",
+			"name": "상바",
+			"screen_name": "sangba4u",
+			"location": "조선 동래부",
+			"description": "부드럽지 않은 남학생 / 애스크: https://t.co/WwdkhWR0SV",
+			"url": "https://t.co/mTCwVREe7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTCwVREe7U",
+							"expanded_url": "https://www.youtube.com/channel/UCMEK144tOzYB6gAKMVaPlEQ",
+							"display_url": "youtube.com/channel/UCMEK1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WwdkhWR0SV",
+							"expanded_url": "http://ask.fm/sangba4u",
+							"display_url": "ask.fm/sangba4u",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 357,
+			"friends_count": 325,
+			"listed_count": 2,
+			"created_at": "Mon Aug 15 00:31:03 +0000 2011",
+			"favourites_count": 3677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20942,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081815813558956032/3-7N4g_L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081815813558956032/3-7N4g_L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/355202133/1546744732",
+			"profile_link_color": "215E4E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01ae9def49693919",
+			"url": "https://api.twitter.com/1.1/geo/id/01ae9def49693919.json",
+			"place_type": "city",
+			"name": "Dongnae-gu",
+			"full_name": "Dongnae-gu, Republic of Korea",
+			"country_code": "KR",
+			"country": "Republic of Korea",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							129.050998434355,
+							35.1806356304451
+						],
+						[
+							129.121475266393,
+							35.1806356304451
+						],
+						[
+							129.121475266393,
+							35.2261822719539
+						],
+						[
+							129.050998434355,
+							35.2261822719539
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/nDIMaT1AbN"
+	},
+	{
+		"created_at": "Sun Jan 06 21:25:40 +0000 2019",
+		"id": 1082025432885723100,
+		"id_str": "1082025432885723139",
+		"full_text": "CUSTOMER SERVICE https://t.co/S2vUEBigkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082025425369321500,
+					"id_str": "1082025425369321472",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQgZD0UUAAMwQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQgZD0UUAAMwQd.jpg",
+					"url": "https://t.co/S2vUEBigkA",
+					"display_url": "pic.twitter.com/S2vUEBigkA",
+					"expanded_url": "https://twitter.com/devolverdigital/status/1082025432885723139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082025425369321500,
+					"id_str": "1082025425369321472",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQgZD0UUAAMwQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQgZD0UUAAMwQd.jpg",
+					"url": "https://t.co/S2vUEBigkA",
+					"display_url": "pic.twitter.com/S2vUEBigkA",
+					"expanded_url": "https://twitter.com/devolverdigital/status/1082025432885723139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41609275,
+			"id_str": "41609275",
+			"name": "Devolver Digital",
+			"screen_name": "devolverdigital",
+			"location": "Austin, TX & London, UK",
+			"description": "Voted 'Best Video Game Label Ever' 2011, 2013, 2019 | Support: support@devolverdigital.com | https://t.co/1zCdAH8aCl",
+			"url": "https://t.co/bMdDpmYNJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bMdDpmYNJ5",
+							"expanded_url": "http://www.devolverdigital.com",
+							"display_url": "devolverdigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1zCdAH8aCl",
+							"expanded_url": "https://discord.gg/devolverdigital",
+							"display_url": "discord.gg/devolverdigital",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 141486,
+			"friends_count": 322,
+			"listed_count": 1233,
+			"created_at": "Thu May 21 15:37:36 +0000 2009",
+			"favourites_count": 20912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744613046971043840/XZ9lmNLj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744613046971043840/XZ9lmNLj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41609275/1529152132",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2099,
+		"favorite_count": 5919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CUSTOMER SERVICE https://t.co/S2vUEBigkA"
+	},
+	{
 		"created_at": "Sun Jan 06 20:52:50 +0000 2019",
 		"id": 1082017169154572300,
 		"id_str": "1082017169154572288",
