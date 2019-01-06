@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 23:30:01 +0000 2019",
+		"id": 1081694338260893700,
+		"id_str": "1081694338260893703",
+		"full_text": "Disney, WarnerMedia launching streaming services in 2019 to challenge Netflix's dominance. https://t.co/4CkFQE5eb1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4CkFQE5eb1",
+					"expanded_url": "http://cbc.ca/1.4967344",
+					"display_url": "cbc.ca/1.4967344",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6433472,
+			"id_str": "6433472",
+			"name": "CBC News",
+			"screen_name": "CBCNews",
+			"location": "Canada",
+			"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+			"url": "http://t.co/ZLZObOnET1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZLZObOnET1",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665560,
+			"friends_count": 999,
+			"listed_count": 14463,
+			"created_at": "Wed May 30 05:20:39 +0000 2007",
+			"favourites_count": 5882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 209788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Disney, WarnerMedia launching streaming services in 2019 to challenge Netflix's dominance. https://t.co/4CkFQE5eb1"
+	},
+	{
+		"created_at": "Sat Jan 05 14:01:04 +0000 2019",
+		"id": 1081551157682716700,
+		"id_str": "1081551157682716672",
+		"full_text": "빙 번역이 이걸 또... https://t.co/N3i9NKYWEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081551145502425100,
+					"id_str": "1081551145502425089",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwJxCVoWwAE78Os.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwJxCVoWwAE78Os.jpg",
+					"url": "https://t.co/N3i9NKYWEP",
+					"display_url": "pic.twitter.com/N3i9NKYWEP",
+					"expanded_url": "https://twitter.com/perillamint/status/1081551157682716672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081551145502425100,
+					"id_str": "1081551145502425089",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwJxCVoWwAE78Os.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwJxCVoWwAE78Os.jpg",
+					"url": "https://t.co/N3i9NKYWEP",
+					"display_url": "pic.twitter.com/N3i9NKYWEP",
+					"expanded_url": "https://twitter.com/perillamint/status/1081551157682716672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1239,
+			"friends_count": 848,
+			"listed_count": 66,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빙 번역이 이걸 또... https://t.co/N3i9NKYWEP"
+	},
+	{
+		"created_at": "Sat Jan 05 16:31:20 +0000 2019",
+		"id": 1081588972973785100,
+		"id_str": "1081588972973785089",
+		"full_text": "북한도 쓰는 갓언어 php https://t.co/LcZ7ZYWYyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081588945186484200,
+					"id_str": "1081588945186484224",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"url": "https://t.co/LcZ7ZYWYyG",
+					"display_url": "pic.twitter.com/LcZ7ZYWYyG",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/1081588972973785089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081588945186484200,
+					"id_str": "1081588945186484224",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwKTakbUcAAwCbX.jpg",
+					"url": "https://t.co/LcZ7ZYWYyG",
+					"display_url": "pic.twitter.com/LcZ7ZYWYyG",
+					"expanded_url": "https://twitter.com/ReallyiAmGhost/status/1081588972973785089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19951792,
+			"id_str": "19951792",
+			"name": "꼬왁맨",
+			"screen_name": "ReallyiAmGhost",
+			"location": "Pleiades Star Cluster",
+			"description": "❤️@ensilion❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 1012,
+			"listed_count": 40,
+			"created_at": "Tue Feb 03 03:28:59 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 103951,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080099525077815296/HNYYI4rA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080099525077815296/HNYYI4rA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19951792/1432380938",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북한도 쓰는 갓언어 php https://t.co/LcZ7ZYWYyG"
+	},
+	{
 		"created_at": "Sat Jan 05 16:31:20 +0000 2019",
 		"id": 1081588972973785100,
 		"id_str": "1081588972973785089",
