@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 02:19:13 +0000 2019",
+		"id": 1081736916666470400,
+		"id_str": "1081736916666470401",
+		"full_text": "끔찍하다 정말로 https://t.co/q4f82G5kCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081736910945435600,
+					"id_str": "1081736910945435648",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMZ_T1UwAAo0Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMZ_T1UwAAo0Kl.jpg",
+					"url": "https://t.co/q4f82G5kCR",
+					"display_url": "pic.twitter.com/q4f82G5kCR",
+					"expanded_url": "https://twitter.com/64bitfox/status/1081736916666470401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081736910945435600,
+					"id_str": "1081736910945435648",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMZ_T1UwAAo0Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMZ_T1UwAAo0Kl.jpg",
+					"url": "https://t.co/q4f82G5kCR",
+					"display_url": "pic.twitter.com/q4f82G5kCR",
+					"expanded_url": "https://twitter.com/64bitfox/status/1081736916666470401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1081736374531702800,
+		"in_reply_to_status_id_str": "1081736374531702786",
+		"in_reply_to_user_id": 244330027,
+		"in_reply_to_user_id_str": "244330027",
+		"in_reply_to_screen_name": "64bitfox",
+		"user": {
+			"id": 244330027,
+			"id_str": "244330027",
+			"name": "64비트여우",
+			"screen_name": "64bitfox",
+			"location": "",
+			"description": "내 CPU 32비트, 네 CPU 32비트, 총 64비트의 CPU로 완벽한 작전을 짜야 해",
+			"url": "https://t.co/7CoKOerz9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7CoKOerz9G",
+							"expanded_url": "https://planet.moe/@64bitfox",
+							"display_url": "planet.moe/@64bitfox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1297,
+			"friends_count": 757,
+			"listed_count": 44,
+			"created_at": "Sat Jan 29 02:18:51 +0000 2011",
+			"favourites_count": 6148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46594,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067738413191725057/XFS3Ipa4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067738413191725057/XFS3Ipa4_normal.jpg",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "끔찍하다 정말로 https://t.co/q4f82G5kCR"
+	},
+	{
 		"created_at": "Sun Jan 06 02:27:20 +0000 2019",
 		"id": 1081738959032508400,
 		"id_str": "1081738959032508416",
