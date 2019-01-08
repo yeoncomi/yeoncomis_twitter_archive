@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 02:33:45 +0000 2019",
+		"id": 1082465350120161300,
+		"id_str": "1082465350120161281",
+		"full_text": "아이유 소속사가 투기의혹 해명한다고 건물 내부를 공개했는데\n\n팬들이 챙겨줬던 선물들 다 고이 간직하고있던게 포착됨\n\n인성갑 빛빛빛... https://t.co/B8X9qEfVMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082465326325891100,
+					"id_str": "1082465326325891072",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWweqlVAAAK1qk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWweqlVAAAK1qk.jpg",
+					"url": "https://t.co/B8X9qEfVMI",
+					"display_url": "pic.twitter.com/B8X9qEfVMI",
+					"expanded_url": "https://twitter.com/Violetgear_/status/1082465350120161281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082465326325891100,
+					"id_str": "1082465326325891072",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWweqlVAAAK1qk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWweqlVAAAK1qk.jpg",
+					"url": "https://t.co/B8X9qEfVMI",
+					"display_url": "pic.twitter.com/B8X9qEfVMI",
+					"expanded_url": "https://twitter.com/Violetgear_/status/1082465350120161281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082465333116465200,
+					"id_str": "1082465333116465152",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWwfD4U8AA3gZf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWwfD4U8AA3gZf.jpg",
+					"url": "https://t.co/B8X9qEfVMI",
+					"display_url": "pic.twitter.com/B8X9qEfVMI",
+					"expanded_url": "https://twitter.com/Violetgear_/status/1082465350120161281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 670,
+							"h": 1613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 282,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082465342310346800,
+					"id_str": "1082465342310346754",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWwfmIUcAIFvqQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWwfmIUcAIFvqQ.jpg",
+					"url": "https://t.co/B8X9qEfVMI",
+					"display_url": "pic.twitter.com/B8X9qEfVMI",
+					"expanded_url": "https://twitter.com/Violetgear_/status/1082465350120161281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 670,
+							"h": 615,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 723197144539091000,
+			"id_str": "723197144539090944",
+			"name": "𝑴𝒆𝑻𝒂𝒍𝑮𝒆𝒂𝒓💜",
+			"screen_name": "Violetgear_",
+			"location": "대한민국 종로구",
+			"description": "노조미 좋아하시나요? / 東條希 / のんたん / 태고&댄스러시 / 롤  / 백합 / 녹음 / 귀여운거 / 일상트 많아요 / 04년생 남자\n                                 \n             러브라이브 팬픽 : https://t.co/ZdkmDQqMHl",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdkmDQqMHl",
+							"expanded_url": "http://enazmfor1.postype.com",
+							"display_url": "enazmfor1.postype.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 982,
+			"listed_count": 7,
+			"created_at": "Thu Apr 21 17:10:10 +0000 2016",
+			"favourites_count": 28154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121679,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081826314691108864/V4jpV43r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081826314691108864/V4jpV43r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723197144539090944/1461259518",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8835,
+		"favorite_count": 3668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유 소속사가 투기의혹 해명한다고 건물 내부를 공개했는데\n\n팬들이 챙겨줬던 선물들 다 고이 간직하고있던게 포착됨\n\n인성갑 빛빛빛... https://t.co/B8X9qEfVMI"
+	},
+	{
 		"created_at": "Tue Jan 08 07:40:09 +0000 2019",
 		"id": 1082542459714920400,
 		"id_str": "1082542459714920449",
