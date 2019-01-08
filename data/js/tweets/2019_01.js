@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 03:22:32 +0000 2019",
+		"id": 1082477627942744000,
+		"id_str": "1082477627942744065",
+		"full_text": "아 따끈한 개존맛 해물부침개 한조각 씹으면서 약탈의 붉은 국물 호로록 마시고 싶다. https://t.co/23l0KIke8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082476279083937800,
+					"id_str": "1082476279083937792",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW6cMyVsAA-4By.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW6cMyVsAA-4By.jpg",
+					"url": "https://t.co/23l0KIke8K",
+					"display_url": "pic.twitter.com/23l0KIke8K",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1082477627942744065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 703,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082476279083937800,
+					"id_str": "1082476279083937792",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW6cMyVsAA-4By.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW6cMyVsAA-4By.jpg",
+					"url": "https://t.co/23l0KIke8K",
+					"display_url": "pic.twitter.com/23l0KIke8K",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1082477627942744065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 703,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082476287485108200,
+					"id_str": "1082476287485108225",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW6csFVYAEQ5OR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW6csFVYAEQ5OR.jpg",
+					"url": "https://t.co/23l0KIke8K",
+					"display_url": "pic.twitter.com/23l0KIke8K",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1082477627942744065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 669,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082476866030645200,
+					"id_str": "1082476866030645250",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW6-XVVsAI22SP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW6-XVVsAI22SP.jpg",
+					"url": "https://t.co/23l0KIke8K",
+					"display_url": "pic.twitter.com/23l0KIke8K",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1082477627942744065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 416,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 416,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213918,
+			"friends_count": 499,
+			"listed_count": 322,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37198,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1505312907",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 따끈한 개존맛 해물부침개 한조각 씹으면서 약탈의 붉은 국물 호로록 마시고 싶다. https://t.co/23l0KIke8K"
+	},
+	{
+		"created_at": "Tue Jan 08 07:15:24 +0000 2019",
+		"id": 1082536229374062600,
+		"id_str": "1082536229374062592",
+		"full_text": "@SacredPaladin @TheMGofR 넹넹",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SacredPaladin",
+					"name": "♘ 기사",
+					"id": 880392623256555500,
+					"id_str": "880392623256555520",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TheMGofR",
+					"name": "준치류🇺🇸",
+					"id": 236726805,
+					"id_str": "236726805",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1082532716946481200,
+		"in_reply_to_status_id_str": "1082532716946481152",
+		"in_reply_to_user_id": 880392623256555500,
+		"in_reply_to_user_id_str": "880392623256555520",
+		"in_reply_to_screen_name": "SacredPaladin",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 913,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@SacredPaladin @TheMGofR 넹넹"
+	},
+	{
+		"created_at": "Tue Jan 08 07:15:16 +0000 2019",
+		"id": 1082536196796907500,
+		"id_str": "1082536196796907526",
+		"full_text": "@shiftpsh 당근빠따 고대",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shiftpsh",
+					"name": "시프트 @ 1/18~20 東京",
+					"id": 179891008,
+					"id_str": "179891008",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1082536034154336300,
+		"in_reply_to_status_id_str": "1082536034154336256",
+		"in_reply_to_user_id": 179891008,
+		"in_reply_to_user_id_str": "179891008",
+		"in_reply_to_screen_name": "shiftpsh",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 913,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@shiftpsh 당근빠따 고대"
+	},
+	{
 		"created_at": "Tue Jan 08 05:58:32 +0000 2019",
 		"id": 1082516886296891400,
 		"id_str": "1082516886296891392",
