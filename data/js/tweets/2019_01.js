@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 14:23:00 +0000 2019",
+		"id": 1082643839943434200,
+		"id_str": "1082643839943434241",
+		"full_text": "원 하나로 군기강 망치기 https://t.co/LJ3Z1aV6Es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082643768992424000,
+					"id_str": "1082643768992423937",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZSxZUVYAEdBv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZSxZUVYAEdBv6.jpg",
+					"url": "https://t.co/LJ3Z1aV6Es",
+					"display_url": "pic.twitter.com/LJ3Z1aV6Es",
+					"expanded_url": "https://twitter.com/karepack529/status/1082643839943434241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082643768992424000,
+					"id_str": "1082643768992423937",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZSxZUVYAEdBv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZSxZUVYAEdBv6.jpg",
+					"url": "https://t.co/LJ3Z1aV6Es",
+					"display_url": "pic.twitter.com/LJ3Z1aV6Es",
+					"expanded_url": "https://twitter.com/karepack529/status/1082643839943434241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830062825158553600,
+			"id_str": "830062825158553600",
+			"name": "karepack",
+			"screen_name": "karepack529",
+			"location": "대한민국 화천군",
+			"description": "군인 그리는 그림",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 247,
+			"listed_count": 4,
+			"created_at": "Fri Feb 10 14:36:14 +0000 2017",
+			"favourites_count": 1890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3034,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077917645859479553/wL5_2fG9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077917645859479553/wL5_2fG9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830062825158553600/1544709397",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원 하나로 군기강 망치기 https://t.co/LJ3Z1aV6Es"
+	},
+	{
+		"created_at": "Tue Jan 08 16:53:36 +0000 2019",
+		"id": 1082681737719640000,
+		"id_str": "1082681737719640064",
+		"full_text": "뭐래 군인등처먹던새끼들이 https://t.co/MfWS4MyaSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082681732086681600,
+					"id_str": "1082681732086681600",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ1TI3U0AA_LTZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ1TI3U0AA_LTZ.jpg",
+					"url": "https://t.co/MfWS4MyaSu",
+					"display_url": "pic.twitter.com/MfWS4MyaSu",
+					"expanded_url": "https://twitter.com/Seitsu_Hy/status/1082681737719640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082681732086681600,
+					"id_str": "1082681732086681600",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ1TI3U0AA_LTZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ1TI3U0AA_LTZ.jpg",
+					"url": "https://t.co/MfWS4MyaSu",
+					"display_url": "pic.twitter.com/MfWS4MyaSu",
+					"expanded_url": "https://twitter.com/Seitsu_Hy/status/1082681737719640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082681732103495700,
+					"id_str": "1082681732103495686",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ1TI7VYAYNSNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ1TI7VYAYNSNz.jpg",
+					"url": "https://t.co/MfWS4MyaSu",
+					"display_url": "pic.twitter.com/MfWS4MyaSu",
+					"expanded_url": "https://twitter.com/Seitsu_Hy/status/1082681737719640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082681732082462700,
+					"id_str": "1082681732082462720",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ1TI2UcAAvyyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ1TI2UcAAvyyo.jpg",
+					"url": "https://t.co/MfWS4MyaSu",
+					"display_url": "pic.twitter.com/MfWS4MyaSu",
+					"expanded_url": "https://twitter.com/Seitsu_Hy/status/1082681737719640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082681732078362600,
+					"id_str": "1082681732078362624",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ1TI1V4AACObU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ1TI1V4AACObU.jpg",
+					"url": "https://t.co/MfWS4MyaSu",
+					"display_url": "pic.twitter.com/MfWS4MyaSu",
+					"expanded_url": "https://twitter.com/Seitsu_Hy/status/1082681737719640064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1012,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3314149188,
+			"id_str": "3314149188",
+			"name": "セイツ",
+			"screen_name": "Seitsu_Hy",
+			"location": "",
+			"description": "히나뿌",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 348,
+			"friends_count": 680,
+			"listed_count": 79,
+			"created_at": "Thu Aug 13 09:42:44 +0000 2015",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 122183,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080512981828419584/V1Igx2Hb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080512981828419584/V1Igx2Hb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3314149188/1546864298",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭐래 군인등처먹던새끼들이 https://t.co/MfWS4MyaSu"
+	},
+	{
 		"created_at": "Tue Jan 08 18:20:38 +0000 2019",
 		"id": 1082703642195566600,
 		"id_str": "1082703642195566592",
