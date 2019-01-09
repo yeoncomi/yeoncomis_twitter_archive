@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 05:20:03 +0000 2019",
+		"id": 1082869590047248400,
+		"id_str": "1082869590047248384",
+		"full_text": "Bell wants to track everything its customers do online, to create a better ad experience, it says https://t.co/RZgwmNg0Rq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RZgwmNg0Rq",
+					"expanded_url": "http://huffp.st/lOjSxeu",
+					"display_url": "huffp.st/lOjSxeu",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289998339,
+			"id_str": "289998339",
+			"name": "HuffPost Canada",
+			"screen_name": "HuffPostCanada",
+			"location": "Canada",
+			"description": "Informing, engaging, and amplifying Canadians. Breaking news, analysis, opinion and more. DMs are open. Or email us: canada@huffpost.com.",
+			"url": "https://t.co/oC96egtnle",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oC96egtnle",
+							"expanded_url": "http://huffingtonpost.ca",
+							"display_url": "huffingtonpost.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395934,
+			"friends_count": 2287,
+			"listed_count": 3673,
+			"created_at": "Fri Apr 29 15:42:44 +0000 2011",
+			"favourites_count": 1227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 230717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289998339/1476141226",
+			"profile_link_color": "DD1A20",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bell wants to track everything its customers do online, to create a better ad experience, it says https://t.co/RZgwmNg0Rq"
+	},
+	{
 		"created_at": "Wed Jan 09 05:08:42 +0000 2019",
 		"id": 1082866731159150600,
 		"id_str": "1082866731159150593",
@@ -104,6 +210,167 @@ Grailbird.data.tweets_2019_01 =
 			"id": 3302241236,
 			"id_str": "3302241236",
 			"name": "∮Ратн Iптеgяаl∮👨‍💻🥂🎉",
+			"screen_name": "mchldjrznsk2",
+			"location": "도쿄도 치요다구 여의도동 14-26",
+			"description": "힘을 숭상하는자 으랴앗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 633,
+			"listed_count": 5,
+			"created_at": "Fri Jul 31 08:13:47 +0000 2015",
+			"favourites_count": 9262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32169,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081144254640971776/M0F7_LhZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081144254640971776/M0F7_LhZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3302241236/1546587735",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "준석이 진짜 하고싶은말은 첫째줄 아니냐? https://t.co/sqDJSM6Tx9"
+	},
+	{
+		"created_at": "Wed Jan 09 05:08:42 +0000 2019",
+		"id": 1082866731159150600,
+		"id_str": "1082866731159150593",
+		"full_text": "준석이 진짜 하고싶은말은 첫째줄 아니냐? https://t.co/sqDJSM6Tx9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082866725857550300,
+					"id_str": "1082866725857550337",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcdjMXUYAEZ1RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcdjMXUYAEZ1RS.jpg",
+					"url": "https://t.co/sqDJSM6Tx9",
+					"display_url": "pic.twitter.com/sqDJSM6Tx9",
+					"expanded_url": "https://twitter.com/mchldjrznsk2/status/1082866731159150593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 985,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082866725857550300,
+					"id_str": "1082866725857550337",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcdjMXUYAEZ1RS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcdjMXUYAEZ1RS.jpg",
+					"url": "https://t.co/sqDJSM6Tx9",
+					"display_url": "pic.twitter.com/sqDJSM6Tx9",
+					"expanded_url": "https://twitter.com/mchldjrznsk2/status/1082866731159150593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 985,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3302241236,
+			"id_str": "3302241236",
+			"name": "∮Ратн Iптеgяаl∮👨💻🥂🎉",
 			"screen_name": "mchldjrznsk2",
 			"location": "도쿄도 치요다구 여의도동 14-26",
 			"description": "힘을 숭상하는자 으랴앗",
