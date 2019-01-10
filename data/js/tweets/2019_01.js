@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 11:38:46 +0000 2019",
+		"id": 1082964898546499600,
+		"id_str": "1082964898546499585",
+		"full_text": "K/DA를 씹어먹는 블리자드의 4인조 걸그룹 https://t.co/A6s4jLq5cv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082964867902914600,
+					"id_str": "1082964867902914561",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd2zz-UwAElI78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd2zz-UwAElI78.jpg",
+					"url": "https://t.co/A6s4jLq5cv",
+					"display_url": "pic.twitter.com/A6s4jLq5cv",
+					"expanded_url": "https://twitter.com/gunfilyeogosang/status/1082964898546499585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082964867902914600,
+					"id_str": "1082964867902914561",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd2zz-UwAElI78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd2zz-UwAElI78.jpg",
+					"url": "https://t.co/A6s4jLq5cv",
+					"display_url": "pic.twitter.com/A6s4jLq5cv",
+					"expanded_url": "https://twitter.com/gunfilyeogosang/status/1082964898546499585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082964874756386800,
+					"id_str": "1082964874756386817",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd20NgUcAEN7Qp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd20NgUcAEN7Qp.jpg",
+					"url": "https://t.co/A6s4jLq5cv",
+					"display_url": "pic.twitter.com/A6s4jLq5cv",
+					"expanded_url": "https://twitter.com/gunfilyeogosang/status/1082964898546499585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082964882176102400,
+					"id_str": "1082964882176102400",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd20pJUUAAnR78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd20pJUUAAnR78.jpg",
+					"url": "https://t.co/A6s4jLq5cv",
+					"display_url": "pic.twitter.com/A6s4jLq5cv",
+					"expanded_url": "https://twitter.com/gunfilyeogosang/status/1082964898546499585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082964890728296400,
+					"id_str": "1082964890728296449",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd21JAUcAEw7G1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd21JAUcAEw7G1.jpg",
+					"url": "https://t.co/A6s4jLq5cv",
+					"display_url": "pic.twitter.com/A6s4jLq5cv",
+					"expanded_url": "https://twitter.com/gunfilyeogosang/status/1082964898546499585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 900713766429507600,
+			"id_str": "900713766429507586",
+			"name": "고레",
+			"screen_name": "gunfilyeogosang",
+			"location": "대한민국 경상북도",
+			"description": "I.O.P SRT/톰슨 빌런을 담당 /겜덕 (롤 소녀전선 데레스테), 뮤지컬덕, 배우덕(변요한 외 다수)/\n\nhttps://t.co/CCPZKpe0i6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CCPZKpe0i6",
+							"expanded_url": "http://open.kakao.com/o/sFnsAl7",
+							"display_url": "open.kakao.com/o/sFnsAl7",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 473,
+			"listed_count": 14,
+			"created_at": "Thu Aug 24 13:37:51 +0000 2017",
+			"favourites_count": 9173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30385,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083144889280286721/MzPx3Cnq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083144889280286721/MzPx3Cnq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/900713766429507586/1546159728",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2538,
+		"favorite_count": 756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "K/DA를 씹어먹는 블리자드의 4인조 걸그룹 https://t.co/A6s4jLq5cv"
+	},
+	{
+		"created_at": "Thu Jan 10 05:01:18 +0000 2019",
+		"id": 1083227260352692200,
+		"id_str": "1083227260352692224",
+		"full_text": "CW: R-18 (성인용품) … https://t.co/tnQJ9bYVGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tnQJ9bYVGP",
+					"expanded_url": "https://twingyeo.kr/@yeoncomi/101390511122163225",
+					"display_url": "twingyeo.kr/@yeoncomi/1013…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 914,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CW: R-18 (성인용품) … https://t.co/tnQJ9bYVGP"
+	},
+	{
+		"created_at": "Wed Jan 09 12:21:42 +0000 2019",
+		"id": 1082975702549356500,
+		"id_str": "1082975702549356546",
+		"full_text": "학교에 무료 콘돔 자판기를 설치했다. https://t.co/lJRJAsL0WT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082974019496734700,
+					"id_str": "1082974019496734721",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd_IgUUcAE2Hui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd_IgUUcAE2Hui.jpg",
+					"url": "https://t.co/lJRJAsL0WT",
+					"display_url": "pic.twitter.com/lJRJAsL0WT",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1082975702549356546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 558,
+							"h": 903,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082974019496734700,
+					"id_str": "1082974019496734721",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd_IgUUcAE2Hui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd_IgUUcAE2Hui.jpg",
+					"url": "https://t.co/lJRJAsL0WT",
+					"display_url": "pic.twitter.com/lJRJAsL0WT",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1082975702549356546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 558,
+							"h": 903,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/02BsPxVhfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/02BsPxVhfW",
+							"expanded_url": "https://youtu.be/B85IzWVXs-A",
+							"display_url": "youtu.be/B85IzWVXs-A",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1350,
+			"friends_count": 385,
+			"listed_count": 20,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128538,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078588135833911298/p8k0z1Yc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078588135833911298/p8k0z1Yc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1136,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학교에 무료 콘돔 자판기를 설치했다. https://t.co/lJRJAsL0WT"
+	},
+	{
 		"created_at": "Thu Jan 10 02:40:29 +0000 2019",
 		"id": 1083191820228616200,
 		"id_str": "1083191820228616192",
@@ -834,7 +1393,7 @@ Grailbird.data.tweets_2019_01 =
 		"user": {
 			"id": 3302241236,
 			"id_str": "3302241236",
-			"name": "∮Ратн Iптеgяаl∮👨‍💻🥂🎉",
+			"name": "∮Ратн Iптеgяаl∮👨💻🥂🎉",
 			"screen_name": "mchldjrznsk2",
 			"location": "도쿄도 치요다구 여의도동 14-26",
 			"description": "힘을 숭상하는자 으랴앗",
