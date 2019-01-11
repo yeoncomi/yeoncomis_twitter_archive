@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 16:03:56 +0000 2019",
+		"id": 1083756402261123100,
+		"id_str": "1083756402261123074",
+		"full_text": "태보 포르투갈어 자막 Python이잖아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "",
+			"description": "heavensward / rootage / festo / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 23,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 735520,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1546799942",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "태보 포르투갈어 자막 Python이잖아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Fri Jan 11 16:05:45 +0000 2019",
+		"id": 1083756861214474200,
+		"id_str": "1083756861214474240",
+		"full_text": "\"따라만 하세요, 따라만 하세요!\" https://t.co/OGa7DpgVTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083756844961517600,
+					"id_str": "1083756844961517568",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DwpHG8bUUAAx119.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwpHG8bUUAAx119.jpg",
+					"url": "https://t.co/OGa7DpgVTk",
+					"display_url": "pic.twitter.com/OGa7DpgVTk",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083756861214474240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1185,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1185,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083756844961517600,
+					"id_str": "1083756844961517568",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DwpHG8bUUAAx119.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwpHG8bUUAAx119.jpg",
+					"url": "https://t.co/OGa7DpgVTk",
+					"display_url": "pic.twitter.com/OGa7DpgVTk",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083756861214474240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1185,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1185,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1083756402261123100,
+		"in_reply_to_status_id_str": "1083756402261123074",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "",
+			"description": "heavensward / rootage / festo / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 23,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 735520,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1546799942",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"따라만 하세요, 따라만 하세요!\" https://t.co/OGa7DpgVTk"
+	},
+	{
+		"created_at": "Fri Jan 11 06:35:54 +0000 2019",
+		"id": 1083613451518279700,
+		"id_str": "1083613451518279682",
+		"full_text": "총알택시 썰 생각나네.. 실장님이 그 유명한 레인보우 택시 탔을때 기사님이 그랬대.. '내가 대구에서 세번째로 빨라! 근데 첫번째 두번째는 죽었어!'하시면서 밟으셨다고..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1045347507180462100,
+			"id_str": "1045347507180462080",
+			"name": "도레마파술",
+			"screen_name": "rema_negroni",
+			"location": "대한민국 관악구",
+			"description": "레마는 선량한 게이입니다\nQIS\n\n22쨜",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343,
+			"friends_count": 263,
+			"listed_count": 0,
+			"created_at": "Thu Sep 27 16:20:42 +0000 2018",
+			"favourites_count": 7221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12196,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082725339489394689/-AE7huiT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082725339489394689/-AE7huiT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045347507180462080/1546755431",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4680,
+		"favorite_count": 927,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "총알택시 썰 생각나네.. 실장님이 그 유명한 레인보우 택시 탔을때 기사님이 그랬대.. '내가 대구에서 세번째로 빨라! 근데 첫번째 두번째는 죽었어!'하시면서 밟으셨다고.."
+	},
+	{
+		"created_at": "Fri Jan 11 14:27:22 +0000 2019",
+		"id": 1083732101009047600,
+		"id_str": "1083732101009047552",
+		"full_text": "속보 태보자막 137개 https://t.co/77JH41qgzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083732096466575400,
+					"id_str": "1083732096466575360",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DwowmZGUYAA4CZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwowmZGUYAA4CZD.jpg",
+					"url": "https://t.co/77JH41qgzV",
+					"display_url": "pic.twitter.com/77JH41qgzV",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083732101009047552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083732096466575400,
+					"id_str": "1083732096466575360",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DwowmZGUYAA4CZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwowmZGUYAA4CZD.jpg",
+					"url": "https://t.co/77JH41qgzV",
+					"display_url": "pic.twitter.com/77JH41qgzV",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083732101009047552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 197,
+							"h": 179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "",
+			"description": "heavensward / rootage / festo / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 23,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 735520,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1546799942",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보 태보자막 137개 https://t.co/77JH41qgzV"
+	},
+	{
+		"created_at": "Fri Jan 11 14:36:25 +0000 2019",
+		"id": 1083734380927799300,
+		"id_str": "1083734380927799296",
+		"full_text": "@==(^0^)@aheui https://t.co/nYKNH0IJ1k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aheui",
+					"name": "아희 미안 랩소디",
+					"id": 472679452,
+					"id_str": "472679452",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083734329937686500,
+					"id_str": "1083734329937686528",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoyoZbU8AAf16f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoyoZbU8AAf16f.jpg",
+					"url": "https://t.co/nYKNH0IJ1k",
+					"display_url": "pic.twitter.com/nYKNH0IJ1k",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083734380927799296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083734329937686500,
+					"id_str": "1083734329937686528",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoyoZbU8AAf16f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoyoZbU8AAf16f.jpg",
+					"url": "https://t.co/nYKNH0IJ1k",
+					"display_url": "pic.twitter.com/nYKNH0IJ1k",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1083734380927799296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 301,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083732226511011800,
+		"in_reply_to_status_id_str": "1083732226511011840",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "",
+			"description": "heavensward / rootage / festo / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 23,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 735520,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082145397772976128/U6CtuUJJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1546799942",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@==(^0^)@aheui https://t.co/nYKNH0IJ1k"
+	},
+	{
 		"created_at": "Fri Jan 11 14:27:22 +0000 2019",
 		"id": 1083732101009047600,
 		"id_str": "1083732101009047552",
