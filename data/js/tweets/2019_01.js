@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 12:55:30 +0000 2019",
+		"id": 1083346595607765000,
+		"id_str": "1083346595607764992",
+		"full_text": "\"올림픽에 맞춰 서머타임 도입 완전포기\"\n\"올림픽 투입 세금 8011억엔 중 6286엔이 비정상 날조\"\n\"조직위,자원봉사는 좋은경험이니 교통비는 선불카드 천엔,숙박여비는 자기부담\"\n\"외신'너무더워위험'일본미디어'더위는 일본에 유리!\"\n저 기사 밑으로 나오는 관련 기사 제목만 봐도 주옥같은 명언들 https://t.co/T5hBzyElqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083345813995016200,
+					"id_str": "1083345813995016192",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjRRywUUAAr4Qp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjRRywUUAAr4Qp.jpg",
+					"url": "https://t.co/T5hBzyElqZ",
+					"display_url": "pic.twitter.com/T5hBzyElqZ",
+					"expanded_url": "https://twitter.com/mizuumiy/status/1083346595607764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083345813995016200,
+					"id_str": "1083345813995016192",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjRRywUUAAr4Qp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjRRywUUAAr4Qp.jpg",
+					"url": "https://t.co/T5hBzyElqZ",
+					"display_url": "pic.twitter.com/T5hBzyElqZ",
+					"expanded_url": "https://twitter.com/mizuumiy/status/1083346595607764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60023014,
+			"id_str": "60023014",
+			"name": "水海유세현",
+			"screen_name": "mizuumiy",
+			"location": "오다이바를 바라보는 니지가사키의 저편",
+			"description": "천사를 동경하는 정의의 마법사/Chemical Engineer/호리에 유이/D.C.~다카포~/LoveLive!요우치카anshk/SSA11/ProtestantChristian/日本アカウント @Asahi_You_",
+			"url": "https://t.co/b3A99eeGI8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b3A99eeGI8",
+							"expanded_url": "http://mizuumiy.tistory.com/2051",
+							"display_url": "mizuumiy.tistory.com/2051",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 190,
+			"listed_count": 31,
+			"created_at": "Sat Jul 25 09:27:27 +0000 2009",
+			"favourites_count": 6973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132135,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078442522630705152/uEhnDcOK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078442522630705152/uEhnDcOK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60023014/1522244412",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"올림픽에 맞춰 서머타임 도입 완전포기\"\n\"올림픽 투입 세금 8011억엔 중 6286엔이 비정상 날조\"\n\"조직위,자원봉사는 좋은경험이니 교통비는 선불카드 천엔,숙박여비는 자기부담\"\n\"외신'너무더워위험'일본미디어'더위는 일본에 유리!\"\n저 기사 밑으로 나오는 관련 기사 제목만 봐도 주옥같은 명언들 https://t.co/T5hBzyElqZ"
+	},
+	{
 		"created_at": "Fri Jan 11 02:34:16 +0000 2019",
 		"id": 1083552644214472700,
 		"id_str": "1083552644214472704",
