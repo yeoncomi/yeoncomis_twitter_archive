@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 15:46:29 +0000 2019",
+		"id": 1083389622648954900,
+		"id_str": "1083389622648954881",
+		"full_text": "저처럼 빨리 태보에 25분만 투자하십시오\n\n저는 다 봤습니다 인증까지 할수있다고여 태보 25분만 하시면 조혜련처럼 멋진 몸매를 만들수있습니다\n\n절 대 태 보 해 https://t.co/vlkOggj6WM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083389616156172300,
+					"id_str": "1083389616156172288",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwj5HahV4AALJ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwj5HahV4AALJ7I.jpg",
+					"url": "https://t.co/vlkOggj6WM",
+					"display_url": "pic.twitter.com/vlkOggj6WM",
+					"expanded_url": "https://twitter.com/jjvvjjvv51/status/1083389622648954881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083389616156172300,
+					"id_str": "1083389616156172288",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwj5HahV4AALJ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwj5HahV4AALJ7I.jpg",
+					"url": "https://t.co/vlkOggj6WM",
+					"display_url": "pic.twitter.com/vlkOggj6WM",
+					"expanded_url": "https://twitter.com/jjvvjjvv51/status/1083389622648954881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1030826138413686800,
+			"id_str": "1030826138413686784",
+			"name": "다이어트 하는 조봉래P",
+			"screen_name": "jjvvjjvv51",
+			"location": "",
+			"description": "제어불능의 카리스마 Tranquilo   섹트 욕트 빻은 RT 주의 RT 보기가 불편하시면 RT 끄기 부탁드려요 트러블이 없는 평화가 제일",
+			"url": "https://t.co/db85UMqR2J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/db85UMqR2J",
+							"expanded_url": "https://www.youtube.com/channel/UCvS6MxHdJPFDkNDuy8uWZng",
+							"display_url": "youtube.com/channel/UCvS6M…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 540,
+			"listed_count": 21,
+			"created_at": "Sat Aug 18 14:37:58 +0000 2018",
+			"favourites_count": 6134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22701,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077295369921343492/AOzrzTP4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077295369921343492/AOzrzTP4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030826138413686784/1546572786",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저처럼 빨리 태보에 25분만 투자하십시오\n\n저는 다 봤습니다 인증까지 할수있다고여 태보 25분만 하시면 조혜련처럼 멋진 몸매를 만들수있습니다\n\n절 대 태 보 해 https://t.co/vlkOggj6WM"
+	},
+	{
+		"created_at": "Thu Jan 10 13:25:46 +0000 2019",
+		"id": 1083354212036046800,
+		"id_str": "1083354212036046848",
+		"full_text": "30만 농인, 청각장애인의 응급상황 신고 수단인 “107 손말이음센터”를 한국정보화진흥원에서 아무런 상의도 없이 막아버렸다고 합니다. 또한 그곳에서 일하시던 농인분들도 부당해고 당했고요. 아래 글 읽으신 후, 아래 청원 부탁드립니다. 아직 3000여명만 서명했습니다.\nhttps://t.co/fLAF4nXvoq https://t.co/kM2qpJ9AyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLAF4nXvoq",
+					"expanded_url": "https://www1.president.go.kr/petitions/484344",
+					"display_url": "www1.president.go.kr/petitions/4843…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083354200128380900,
+					"id_str": "1083354200128380930",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjY57iUYAI3rhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjY57iUYAI3rhA.jpg",
+					"url": "https://t.co/kM2qpJ9AyQ",
+					"display_url": "pic.twitter.com/kM2qpJ9AyQ",
+					"expanded_url": "https://twitter.com/dhtn0814/status/1083354212036046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083354200128380900,
+					"id_str": "1083354200128380930",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjY57iUYAI3rhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjY57iUYAI3rhA.jpg",
+					"url": "https://t.co/kM2qpJ9AyQ",
+					"display_url": "pic.twitter.com/kM2qpJ9AyQ",
+					"expanded_url": "https://twitter.com/dhtn0814/status/1083354212036046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083354200141062100,
+					"id_str": "1083354200141062144",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjY57lV4AAkWtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjY57lV4AAkWtv.jpg",
+					"url": "https://t.co/kM2qpJ9AyQ",
+					"display_url": "pic.twitter.com/kM2qpJ9AyQ",
+					"expanded_url": "https://twitter.com/dhtn0814/status/1083354212036046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1090,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083354200111669200,
+					"id_str": "1083354200111669248",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DwjY57eVYAAWGLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwjY57eVYAAWGLK.jpg",
+					"url": "https://t.co/kM2qpJ9AyQ",
+					"display_url": "pic.twitter.com/kM2qpJ9AyQ",
+					"expanded_url": "https://twitter.com/dhtn0814/status/1083354212036046848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 889507679277686800,
+			"id_str": "889507679277686784",
+			"name": "연",
+			"screen_name": "dhtn0814",
+			"location": "대한민국 서울",
+			"description": "이런 것도 하고, 저런 것도 하는 사람/🌈Feminist/모든 사회적소수자를 지지합니다/이별은 블언블/Instagram : @y_eo__n/멘션 삭제 가끔 해요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 98,
+			"listed_count": 2,
+			"created_at": "Mon Jul 24 15:28:51 +0000 2017",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 935,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066555050087002113/PdHGk-R4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066555050087002113/PdHGk-R4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/889507679277686784/1545479812",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "30만 농인, 청각장애인의 응급상황 신고 수단인 “107 손말이음센터”를 한국정보화진흥원에서 아무런 상의도 없이 막아버렸다고 합니다. 또한 그곳에서 일하시던 농인분들도 부당해고 당했고요. 아래 글 읽으신 후, 아래 청원 부탁드립니다. 아직 3000여명만 서명했습니다.\nhttps://t.co/fLAF4nXvoq https://t.co/kM2qpJ9AyQ"
+	},
+	{
+		"created_at": "Thu Jan 10 23:06:34 +0000 2019",
+		"id": 1083500375808794600,
+		"id_str": "1083500375808794624",
+		"full_text": "Great, thanks @TeamYouTube \njust remove one of the most valuable and time saving features, that really helps creators.\n#FacePalm https://t.co/7rdyuZTEyL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FacePalm",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamYouTube",
+					"name": "Team YouTube",
+					"id": 3031071234,
+					"id_str": "3031071234",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083500252953362400,
+					"id_str": "1083500252953362432",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DwldvUtUwAAI-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwldvUtUwAAI-5r.jpg",
+					"url": "https://t.co/7rdyuZTEyL",
+					"display_url": "pic.twitter.com/7rdyuZTEyL",
+					"expanded_url": "https://twitter.com/eevblog/status/1083500375808794624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1971,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 86,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083500252953362400,
+					"id_str": "1083500252953362432",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DwldvUtUwAAI-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwldvUtUwAAI-5r.jpg",
+					"url": "https://t.co/7rdyuZTEyL",
+					"display_url": "pic.twitter.com/7rdyuZTEyL",
+					"expanded_url": "https://twitter.com/eevblog/status/1083500375808794624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1971,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 86,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77604394,
+			"id_str": "77604394",
+			"name": "Dave Jones",
+			"screen_name": "eevblog",
+			"location": "Sydney, Australia",
+			"description": "Professional Engineering Youtuber. Apparently that's a real job these days?\nThis is my personal channel, so expect random crap & waffle, not just electronics.",
+			"url": "http://t.co/HxeNZGi6RM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HxeNZGi6RM",
+							"expanded_url": "http://www.eevblog.com/",
+							"display_url": "eevblog.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34030,
+			"friends_count": 135,
+			"listed_count": 615,
+			"created_at": "Sat Sep 26 23:38:39 +0000 2009",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29459,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great, thanks @TeamYouTube \njust remove one of the most valuable and time saving features, that really helps creators.\n#FacePalm https://t.co/7rdyuZTEyL"
+	},
+	{
+		"created_at": "Thu Jan 10 22:22:37 +0000 2019",
+		"id": 1083489315399835600,
+		"id_str": "1083489315399835648",
+		"full_text": "Live long and prosper 🖖 https://t.co/gPlW1Bdcsq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083489298274549800,
+					"id_str": "1083489298274549760",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwlTxrWXgAA2r1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwlTxrWXgAA2r1H.jpg",
+					"url": "https://t.co/gPlW1Bdcsq",
+					"display_url": "pic.twitter.com/gPlW1Bdcsq",
+					"expanded_url": "https://twitter.com/CrazyinRussia/status/1083489315399835648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083489298274549800,
+					"id_str": "1083489298274549760",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwlTxrWXgAA2r1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwlTxrWXgAA2r1H.jpg",
+					"url": "https://t.co/gPlW1Bdcsq",
+					"display_url": "pic.twitter.com/gPlW1Bdcsq",
+					"expanded_url": "https://twitter.com/CrazyinRussia/status/1083489315399835648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 597,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904195838,
+			"id_str": "2904195838",
+			"name": "🇷🇺Only In Russia 🇷🇺",
+			"screen_name": "CrazyinRussia",
+			"location": "",
+			"description": "Every day in Russia is crazy. We're FANS/ Parody*of the posts/videos do not claim any ownership or copywrites. Buy me a coffee @ https://t.co/23jrKX1acc TY",
+			"url": "https://t.co/zHp1eca7Z7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zHp1eca7Z7",
+							"expanded_url": "https://m.facebook.com/Crazyinrussia/",
+							"display_url": "m.facebook.com/Crazyinrussia/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/23jrKX1acc",
+							"expanded_url": "https://bit.ly/2O1S671",
+							"display_url": "bit.ly/2O1S671",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 439839,
+			"friends_count": 200,
+			"listed_count": 3142,
+			"created_at": "Wed Dec 03 19:24:24 +0000 2014",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904195838/1460512376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Live long and prosper 🖖 https://t.co/gPlW1Bdcsq"
+	},
+	{
 		"created_at": "Thu Jan 10 22:22:37 +0000 2019",
 		"id": 1083489315399835600,
 		"id_str": "1083489315399835648",
