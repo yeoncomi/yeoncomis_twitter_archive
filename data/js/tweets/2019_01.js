@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 05:50:07 +0000 2019",
+		"id": 1083601930411159600,
+		"id_str": "1084016210616868864",
+		"full_text": "지랄도 작작좀\n@Healing37 https://t.co/T064b4vJmV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Healing37",
+					"name": "💌결하서윤 쌍방계살연함💌 ĦYoon 🌷 🍤",
+					"id": 3273431232,
+					"id_str": "3273431232",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083601920739106800,
+					"id_str": "1083601920739106816",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm6NKuV4AAEM4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm6NKuV4AAEM4a.jpg",
+					"url": "https://t.co/T064b4vJmV",
+					"display_url": "pic.twitter.com/T064b4vJmV",
+					"expanded_url": "https://twitter.com/cleangirl1118/status/1083601930411159553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1059,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083601920739106800,
+					"id_str": "1083601920739106816",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm6NKuV4AAEM4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm6NKuV4AAEM4a.jpg",
+					"url": "https://t.co/T064b4vJmV",
+					"display_url": "pic.twitter.com/T064b4vJmV",
+					"expanded_url": "https://twitter.com/cleangirl1118/status/1083601930411159553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1059,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 981095443336609800,
+			"id_str": "981095443336609795",
+			"name": "애옹(19/5/1일까지 냥체)",
+			"screen_name": "cleangirl1118",
+			"location": "",
+			"description": "고추폭파의 달인 / 프사 @sIlentIum0110 / 맞팔원하시면 받아요! / @meiringring",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 657,
+			"listed_count": 54,
+			"created_at": "Tue Apr 03 09:05:56 +0000 2018",
+			"favourites_count": 19357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44571,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981095443336609795/1546866875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지랄도 작작좀\n@Healing37 https://t.co/T064b4vJmV"
+	},
+	{
 		"created_at": "Fri Jan 11 02:45:16 +0000 2019",
 		"id": 1083555412765364200,
 		"id_str": "1083944899215421441",
