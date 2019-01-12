@@ -1,6 +1,913 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 02:45:16 +0000 2019",
+		"id": 1083555412765364200,
+		"id_str": "1083944899215421441",
+		"full_text": "흑역사 하나 고백하자면, 선본 남자중에 엄마랑 같이 나온 분이 있었다. 그 엄마 왈 자기 아들은 연애나 여자쪽은 어리숙해서 잘 모른다면서 자기가 여자를 만나보고 결정해 준다며. ㅈㄴ 크리피 했음. 그리고 내가 보는 앞에서 자기 아들의 (실제) 떡두꺼비 같은 얼굴을 쓰담쓰담하심. 남자나이39세",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 812942030728876000,
+			"id_str": "812942030728876032",
+			"name": "foodcollector",
+			"screen_name": "earthiso",
+			"location": "",
+			"description": "스크랩 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 271,
+			"listed_count": 0,
+			"created_at": "Sun Dec 25 08:44:18 +0000 2016",
+			"favourites_count": 7401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072442013965082624/kBF2GmPC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072442013965082624/kBF2GmPC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/812942030728876032/1544524283",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2626,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "흑역사 하나 고백하자면, 선본 남자중에 엄마랑 같이 나온 분이 있었다. 그 엄마 왈 자기 아들은 연애나 여자쪽은 어리숙해서 잘 모른다면서 자기가 여자를 만나보고 결정해 준다며. ㅈㄴ 크리피 했음. 그리고 내가 보는 앞에서 자기 아들의 (실제) 떡두꺼비 같은 얼굴을 쓰담쓰담하심. 남자나이39세"
+	},
+	{
+		"created_at": "Sat Jan 12 04:29:32 +0000 2019",
+		"id": 1083944039743770600,
+		"id_str": "1083944039743770624",
+		"full_text": "지랄좀 자제좀.... https://t.co/cgcpZIWOoa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cgcpZIWOoa",
+					"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808",
+					"display_url": "twitter.com/sweetpersonify…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273,
+			"friends_count": 920,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083741706111991800,
+		"quoted_status_id_str": "1083741706111991808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cgcpZIWOoa",
+			"expanded": "https://twitter.com/sweetpersonify/status/1083741706111991808",
+			"display": "twitter.com/sweetpersonify…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 15:05:32 +0000 2019",
+			"id": 1083741706111991800,
+			"id_str": "1083741706111991808",
+			"full_text": "대체 서울여대 문제로 왜 까지ㅋㅋㅋ 방탄이 단순한 가수에서 그치는 게 아니라 전무후무한 사회적, 경제적, 문화적 신드롬이니까 대학입시문제로 나오는 거지ㅋㅋㅋ 모르는 사람은 어쩌냐고? 그럼 다른 사회적 인물이 문제로 나오면? 그거 몰라도 항의할거야? 뉴스 한번이라도 봤으면 알았겠지ㅋㅋ https://t.co/AHkZrd9Q39",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083741699023618000,
+						"id_str": "1083741699023618048",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"url": "https://t.co/AHkZrd9Q39",
+						"display_url": "pic.twitter.com/AHkZrd9Q39",
+						"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083741699023618000,
+						"id_str": "1083741699023618048",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"url": "https://t.co/AHkZrd9Q39",
+						"display_url": "pic.twitter.com/AHkZrd9Q39",
+						"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1321943952,
+				"id_str": "1321943952",
+				"name": "스윗의의인화",
+				"screen_name": "sweetpersonify",
+				"location": "🔕하고 싶은 말 합니다/인장 래몬님",
+				"description": "𝙥𝙚𝙧𝙨𝙤𝙣𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙨𝙬𝙚𝙚𝙩 𝙍𝙈 #김남준_나라세워",
+				"url": "https://t.co/q3iScePBTQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q3iScePBTQ",
+								"expanded_url": "https://ask.fm/sweetpersonify",
+								"display_url": "ask.fm/sweetpersonify",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16068,
+				"friends_count": 294,
+				"listed_count": 63,
+				"created_at": "Tue Apr 02 07:27:48 +0000 2013",
+				"favourites_count": 8661,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29731,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083725262942986240/X1o0fsjx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083725262942986240/X1o0fsjx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321943952/1546945157",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4475,
+			"favorite_count": 1484,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지랄좀 자제좀.... https://t.co/cgcpZIWOoa"
+	},
+	{
+		"created_at": "Fri Jan 11 16:58:53 +0000 2019",
+		"id": 1083770232303321100,
+		"id_str": "1083943996135632897",
+		"full_text": "모두가 모르는걸 내던가 모두가 아는걸 내던가 이건 입시생 중에 방탄팬덤, 특정인들에게 유리하게 작용할 수 있는 사항인데 어떻게 안빡쳐?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1083769911686516700,
+		"in_reply_to_status_id_str": "1083769911686516736",
+		"in_reply_to_user_id": 2607808116,
+		"in_reply_to_user_id_str": "2607808116",
+		"in_reply_to_screen_name": "___SUJI___",
+		"user": {
+			"id": 2607808116,
+			"id_str": "2607808116",
+			"name": "︎☃︎ SUJI ☃︎",
+			"screen_name": "___SUJI___",
+			"location": "최애가 1978372963명",
+			"description": "💕@___K01___의 애완인간 📸 @thesueji_kr",
+			"url": "http://ask.fm/sssuuuji",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://ask.fm/sssuuuji",
+							"expanded_url": null,
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 136,
+			"listed_count": 7,
+			"created_at": "Sun Jul 06 16:35:57 +0000 2014",
+			"favourites_count": 35253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059485281684938752/qx6-XRqc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059485281684938752/qx6-XRqc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2607808116/1546841894",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모두가 모르는걸 내던가 모두가 아는걸 내던가 이건 입시생 중에 방탄팬덤, 특정인들에게 유리하게 작용할 수 있는 사항인데 어떻게 안빡쳐?"
+	},
+	{
+		"created_at": "Fri Jan 11 16:54:48 +0000 2019",
+		"id": 1083769204732358700,
+		"id_str": "1083943985008132096",
+		"full_text": "미대입시가 장난도 아니고 한번에 무료로 접수받는것도 아니고 접수 한번에 수험료 10만원씩 내고 지방인들은 교통비, 숙박비까지 최소 수험 한번에 20이 드는데 실제 인물로 출제를 할 경우 객관적인 평가가 아닌 감독관의 주관적 평가인 “닮음”이 추가로 들어가게 되는데 안까게 생겼나요 ㅋㅋ https://t.co/0C2BKmFCSo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0C2BKmFCSo",
+					"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808",
+					"display_url": "twitter.com/sweetpersonify…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2607808116,
+			"id_str": "2607808116",
+			"name": "︎☃︎ SUJI ☃︎",
+			"screen_name": "___SUJI___",
+			"location": "최애가 1978372963명",
+			"description": "💕@___K01___의 애완인간 📸 @thesueji_kr",
+			"url": "http://ask.fm/sssuuuji",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://ask.fm/sssuuuji",
+							"expanded_url": null,
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 136,
+			"listed_count": 7,
+			"created_at": "Sun Jul 06 16:35:57 +0000 2014",
+			"favourites_count": 35253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059485281684938752/qx6-XRqc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059485281684938752/qx6-XRqc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2607808116/1546841894",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083741706111991800,
+		"quoted_status_id_str": "1083741706111991808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0C2BKmFCSo",
+			"expanded": "https://twitter.com/sweetpersonify/status/1083741706111991808",
+			"display": "twitter.com/sweetpersonify…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 15:05:32 +0000 2019",
+			"id": 1083741706111991800,
+			"id_str": "1083741706111991808",
+			"full_text": "대체 서울여대 문제로 왜 까지ㅋㅋㅋ 방탄이 단순한 가수에서 그치는 게 아니라 전무후무한 사회적, 경제적, 문화적 신드롬이니까 대학입시문제로 나오는 거지ㅋㅋㅋ 모르는 사람은 어쩌냐고? 그럼 다른 사회적 인물이 문제로 나오면? 그거 몰라도 항의할거야? 뉴스 한번이라도 봤으면 알았겠지ㅋㅋ https://t.co/AHkZrd9Q39",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083741699023618000,
+						"id_str": "1083741699023618048",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"url": "https://t.co/AHkZrd9Q39",
+						"display_url": "pic.twitter.com/AHkZrd9Q39",
+						"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083741699023618000,
+						"id_str": "1083741699023618048",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dwo5VVaUwAAWOKW.jpg",
+						"url": "https://t.co/AHkZrd9Q39",
+						"display_url": "pic.twitter.com/AHkZrd9Q39",
+						"expanded_url": "https://twitter.com/sweetpersonify/status/1083741706111991808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1321943952,
+				"id_str": "1321943952",
+				"name": "스윗의의인화",
+				"screen_name": "sweetpersonify",
+				"location": "🔕하고 싶은 말 합니다/인장 래몬님",
+				"description": "𝙥𝙚𝙧𝙨𝙤𝙣𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙨𝙬𝙚𝙚𝙩 𝙍𝙈 #김남준_나라세워",
+				"url": "https://t.co/q3iScePBTQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q3iScePBTQ",
+								"expanded_url": "https://ask.fm/sweetpersonify",
+								"display_url": "ask.fm/sweetpersonify",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16068,
+				"friends_count": 294,
+				"listed_count": 63,
+				"created_at": "Tue Apr 02 07:27:48 +0000 2013",
+				"favourites_count": 8661,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29731,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083725262942986240/X1o0fsjx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083725262942986240/X1o0fsjx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321943952/1546945157",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4475,
+			"favorite_count": 1484,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 937,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미대입시가 장난도 아니고 한번에 무료로 접수받는것도 아니고 접수 한번에 수험료 10만원씩 내고 지방인들은 교통비, 숙박비까지 최소 수험 한번에 20이 드는데 실제 인물로 출제를 할 경우 객관적인 평가가 아닌 감독관의 주관적 평가인 “닮음”이 추가로 들어가게 되는데 안까게 생겼나요 ㅋㅋ https://t.co/0C2BKmFCSo"
+	},
+	{
+		"created_at": "Sat Jan 12 02:52:27 +0000 2019",
+		"id": 1083919606186532900,
+		"id_str": "1083941721921048577",
+		"full_text": "아니씹 349달러짜리잖아요 이 씨발쌔끼들아 https://t.co/vVIdzSoy8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083919598410317800,
+					"id_str": "1083919598410317833",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrbIcRUwAkXzfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrbIcRUwAkXzfn.jpg",
+					"url": "https://t.co/vVIdzSoy8Y",
+					"display_url": "pic.twitter.com/vVIdzSoy8Y",
+					"expanded_url": "https://twitter.com/cvcvcccd/status/1083919606186532864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083919598410317800,
+					"id_str": "1083919598410317833",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrbIcRUwAkXzfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrbIcRUwAkXzfn.jpg",
+					"url": "https://t.co/vVIdzSoy8Y",
+					"display_url": "pic.twitter.com/vVIdzSoy8Y",
+					"expanded_url": "https://twitter.com/cvcvcccd/status/1083919606186532864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1753,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3697013892,
+			"id_str": "3697013892",
+			"name": "셔먼냥",
+			"screen_name": "cvcvcccd",
+			"location": "",
+			"description": "착한사람 아님\n셔먼 커여워!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396,
+			"friends_count": 704,
+			"listed_count": 6,
+			"created_at": "Sat Sep 26 22:23:58 +0000 2015",
+			"favourites_count": 2866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36746,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079264607674351618/havvGtqd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079264607674351618/havvGtqd_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니씹 349달러짜리잖아요 이 씨발쌔끼들아 https://t.co/vVIdzSoy8Y"
+	},
+	{
 		"created_at": "Sat Jan 12 02:28:09 +0000 2019",
 		"id": 1083913492057321500,
 		"id_str": "1083913492057321472",
