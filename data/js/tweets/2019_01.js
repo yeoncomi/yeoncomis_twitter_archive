@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 04:27:07 +0000 2019",
+		"id": 1083943431389339600,
+		"id_str": "1084252367179010048",
+		"full_text": "비건이고 동물보호고 제정신박힌새끼들 단 한명도 못봄.\n업진살좌부터 시작해서 트위터비건들 거쳐서 지금 보호단체이름걸고 치킨행사장 난입해서 지랄염병하던 새끼들이 뒤로는 지들 손으로 죽이고 있었음 ㅋㅋㅋ\n\n그래놓고 공론화되니까 입장발표 ㅋㅋㅋㅋ\n\n개소릴 존나 길게도 써둔다 https://t.co/qmMKt5KsZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083943413769109500,
+					"id_str": "1083943413769109504",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrwyrZVAAAgve0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrwyrZVAAAgve0.jpg",
+					"url": "https://t.co/qmMKt5KsZ1",
+					"display_url": "pic.twitter.com/qmMKt5KsZ1",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1083943431389339649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083943413769109500,
+					"id_str": "1083943413769109504",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DwrwyrZVAAAgve0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwrwyrZVAAAgve0.jpg",
+					"url": "https://t.co/qmMKt5KsZ1",
+					"display_url": "pic.twitter.com/qmMKt5KsZ1",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1083943431389339649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, Engl",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 사진과 여행, 먹고 마시는 것이 취미, 도쿄거주 중 // 사진계 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1310,
+			"friends_count": 465,
+			"listed_count": 65,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 16855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082224411086733312/Y7vHctZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082224411086733312/Y7vHctZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "비건이고 동물보호고 제정신박힌새끼들 단 한명도 못봄.\n업진살좌부터 시작해서 트위터비건들 거쳐서 지금 보호단체이름걸고 치킨행사장 난입해서 지랄염병하던 새끼들이 뒤로는 지들 손으로 죽이고 있었음 ㅋㅋㅋ\n\n그래놓고 공론화되니까 입장발표 ㅋㅋㅋㅋ\n\n개소릴 존나 길게도 써둔다 https://t.co/qmMKt5KsZ1"
+	},
+	{
 		"created_at": "Sat Jan 12 21:50:04 +0000 2019",
 		"id": 1084205896803196900,
 		"id_str": "1084241052012179456",
