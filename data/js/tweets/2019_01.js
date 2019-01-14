@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 16:23:06 +0000 2019",
+		"id": 1084123616172601300,
+		"id_str": "1084719391223144448",
+		"full_text": "[유머] 기관장에게 속아 장례식 끝까지 못치룬 공익 https://t.co/JjZQFZOu6Y\n\n미쳤구만 https://t.co/aUGFFaUXt6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjZQFZOu6Y",
+					"expanded_url": "https://bbs.ruliweb.com/best/board/300143/read/40684495",
+					"display_url": "bbs.ruliweb.com/best/board/300…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084123542680006700,
+					"id_str": "1084123542680006656",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuUnj4UcAAvKHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuUnj4UcAAvKHs.jpg",
+					"url": "https://t.co/aUGFFaUXt6",
+					"display_url": "pic.twitter.com/aUGFFaUXt6",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1084123616172601346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084123542680006700,
+					"id_str": "1084123542680006656",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuUnj4UcAAvKHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuUnj4UcAAvKHs.jpg",
+					"url": "https://t.co/aUGFFaUXt6",
+					"display_url": "pic.twitter.com/aUGFFaUXt6",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1084123616172601346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084123561197891600,
+					"id_str": "1084123561197891584",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuUoo3U8AAIldf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuUoo3U8AAIldf.jpg",
+					"url": "https://t.co/aUGFFaUXt6",
+					"display_url": "pic.twitter.com/aUGFFaUXt6",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1084123616172601346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 966,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 966,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084123580541980700,
+					"id_str": "1084123580541980675",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuUpw7UUAMokZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuUpw7UUAMokZy.jpg",
+					"url": "https://t.co/aUGFFaUXt6",
+					"display_url": "pic.twitter.com/aUGFFaUXt6",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1084123616172601346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 759,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084123603598159900,
+					"id_str": "1084123603598159873",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuUrG0VsAEBUQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuUrG0VsAEBUQE.jpg",
+					"url": "https://t.co/aUGFFaUXt6",
+					"display_url": "pic.twitter.com/aUGFFaUXt6",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1084123616172601346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 887,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1837,
+			"friends_count": 1506,
+			"listed_count": 0,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 58728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186538,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유머] 기관장에게 속아 장례식 끝까지 못치룬 공익 https://t.co/JjZQFZOu6Y\n\n미쳤구만 https://t.co/aUGFFaUXt6"
+	},
+	{
+		"created_at": "Sun Jan 13 17:09:02 +0000 2019",
+		"id": 1084497561887465500,
+		"id_str": "1084719022359248896",
+		"full_text": "착한 중국인.txt https://t.co/bnYFDmCIo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084497554920824800,
+					"id_str": "1084497554920824833",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwzox8DV4AEOx0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwzox8DV4AEOx0n.jpg",
+					"url": "https://t.co/bnYFDmCIo2",
+					"display_url": "pic.twitter.com/bnYFDmCIo2",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1084497561887465472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084497554920824800,
+					"id_str": "1084497554920824833",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwzox8DV4AEOx0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwzox8DV4AEOx0n.jpg",
+					"url": "https://t.co/bnYFDmCIo2",
+					"display_url": "pic.twitter.com/bnYFDmCIo2",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1084497561887465472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, Engl",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 사진과 여행, 먹고 마시는 것이 취미, 도쿄거주 중 // 사진계 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1319,
+			"friends_count": 466,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 16847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80871,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082224411086733312/Y7vHctZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082224411086733312/Y7vHctZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2841,
+		"favorite_count": 978,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "착한 중국인.txt https://t.co/bnYFDmCIo2"
+	},
+	{
 		"created_at": "Mon Jan 14 05:05:29 +0000 2019",
 		"id": 1084677861158449200,
 		"id_str": "1084677861158449152",
