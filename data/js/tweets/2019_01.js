@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 18:37:30 +0000 2019",
+		"id": 1084157439446896600,
+		"id_str": "1084653781520769030",
+		"full_text": "성욕이 올라와서 아우\n그래서 카톡가능?\n아 미안해ㅠ내가 성욕이ㅠ\n그래서 카톡가능?\n진짜미안해ㅠ\n그래서 카톡가능?\n\n시발!!!!! https://t.co/2KRDSJkrf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084157427673485300,
+					"id_str": "1084157427673485312",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwuzb7UUUAA9Llp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwuzb7UUUAA9Llp.jpg",
+					"url": "https://t.co/2KRDSJkrf2",
+					"display_url": "pic.twitter.com/2KRDSJkrf2",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1084157439446896640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084157427673485300,
+					"id_str": "1084157427673485312",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwuzb7UUUAA9Llp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwuzb7UUUAA9Llp.jpg",
+					"url": "https://t.co/2KRDSJkrf2",
+					"display_url": "pic.twitter.com/2KRDSJkrf2",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1084157439446896640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084157427673489400,
+					"id_str": "1084157427673489411",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwuzb7UUYAM-VdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwuzb7UUYAM-VdW.jpg",
+					"url": "https://t.co/2KRDSJkrf2",
+					"display_url": "pic.twitter.com/2KRDSJkrf2",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1084157439446896640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084157427673526300,
+					"id_str": "1084157427673526272",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwuzb7UU8AAklEe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwuzb7UU8AAklEe.jpg",
+					"url": "https://t.co/2KRDSJkrf2",
+					"display_url": "pic.twitter.com/2KRDSJkrf2",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1084157439446896640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084157427677683700,
+					"id_str": "1084157427677683712",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwuzb7VUYAAA83-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwuzb7VUYAAA83-.jpg",
+					"url": "https://t.co/2KRDSJkrf2",
+					"display_url": "pic.twitter.com/2KRDSJkrf2",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1084157439446896640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055138790619004900,
+			"id_str": "1055138790619004928",
+			"name": "𝘉𝘈𝘌𝘊𝘏𝘜 *",
+			"screen_name": "_BAECHUU_",
+			"location": "㋂",
+			"description": "노잼인간 프사헤더 @M_ON_K_E_Y 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 409,
+			"friends_count": 286,
+			"listed_count": 21,
+			"created_at": "Wed Oct 24 16:47:45 +0000 2018",
+			"favourites_count": 617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17887,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083608193324875776/5LgKkPa-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083608193324875776/5LgKkPa-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055138790619004928/1547187301",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1279,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성욕이 올라와서 아우\n그래서 카톡가능?\n아 미안해ㅠ내가 성욕이ㅠ\n그래서 카톡가능?\n진짜미안해ㅠ\n그래서 카톡가능?\n\n시발!!!!! https://t.co/2KRDSJkrf2"
+	},
+	{
+		"created_at": "Sat Jan 12 22:24:45 +0000 2019",
+		"id": 1084214627129389000,
+		"id_str": "1084651908034220032",
+		"full_text": "그거니살에부어도충격적인결과일어날걸 https://t.co/N1MuptXbU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084214616396365800,
+					"id_str": "1084214616396365825",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwvncv6XgAEBpQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwvncv6XgAEBpQc.jpg",
+					"url": "https://t.co/N1MuptXbU2",
+					"display_url": "pic.twitter.com/N1MuptXbU2",
+					"expanded_url": "https://twitter.com/Poke_LuckyGuy/status/1084214627129389056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1021,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084214616396365800,
+					"id_str": "1084214616396365825",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwvncv6XgAEBpQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwvncv6XgAEBpQc.jpg",
+					"url": "https://t.co/N1MuptXbU2",
+					"display_url": "pic.twitter.com/N1MuptXbU2",
+					"expanded_url": "https://twitter.com/Poke_LuckyGuy/status/1084214627129389056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 864,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1021,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875680185843990500,
+			"id_str": "875680185843990529",
+			"name": "LuckyGuy",
+			"screen_name": "happylucky_guy",
+			"location": "세이쇼 지하극장",
+			"description": "Korean Pokemon VGC / TCG Player 오타쿠 아님",
+			"url": "https://t.co/gZpSgGll85",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gZpSgGll85",
+							"expanded_url": "http://gall.dcinside.com/argonavis",
+							"display_url": "gall.dcinside.com/argonavis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 306,
+			"listed_count": 0,
+			"created_at": "Fri Jun 16 11:43:20 +0000 2017",
+			"favourites_count": 4147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17099,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084619109231284224/LATbV6ej_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084619109231284224/LATbV6ej_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875680185843990529/1546444118",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그거니살에부어도충격적인결과일어날걸 https://t.co/N1MuptXbU2"
+	},
+	{
 		"created_at": "Mon Jan 14 02:26:49 +0000 2019",
 		"id": 1084637932755968000,
 		"id_str": "1084637932755968000",
