@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 13:03:59 +0000 2019",
+		"id": 1084798281123680300,
+		"id_str": "1084925820064325632",
+		"full_text": "프린터 고치는 법이 5인치 높이에서 떨어뜨리기 ㅋㅋㅋㅋ 근데 해결되었다고 감사하다는 댓글이 가득해\nhttps://t.co/qbPbHZEHeA https://t.co/dxjzxLiVMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbPbHZEHeA",
+					"expanded_url": "https://m.blog.naver.com/PostView.nhn?blogId=warmsnow12&logNo=220870635883&proxyReferer=https%3A%2F%2Ft.co%2F4FvV3Y5atB%3Famp%3D1",
+					"display_url": "m.blog.naver.com/PostView.nhn?b…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084798239587557400,
+					"id_str": "1084798239587557376",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw36QFuV4AAOm3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw36QFuV4AAOm3u.jpg",
+					"url": "https://t.co/dxjzxLiVMX",
+					"display_url": "pic.twitter.com/dxjzxLiVMX",
+					"expanded_url": "https://twitter.com/sokcuri/status/1084798281123680256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084798239587557400,
+					"id_str": "1084798239587557376",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw36QFuV4AAOm3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw36QFuV4AAOm3u.jpg",
+					"url": "https://t.co/dxjzxLiVMX",
+					"display_url": "pic.twitter.com/dxjzxLiVMX",
+					"expanded_url": "https://twitter.com/sokcuri/status/1084798281123680256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084798251700609000,
+					"id_str": "1084798251700609026",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw36Qy2UYAI3Slo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw36Qy2UYAI3Slo.jpg",
+					"url": "https://t.co/dxjzxLiVMX",
+					"display_url": "pic.twitter.com/dxjzxLiVMX",
+					"expanded_url": "https://twitter.com/sokcuri/status/1084798281123680256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084798261561417700,
+					"id_str": "1084798261561417728",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw36RXlUYAA89PL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw36RXlUYAA89PL.jpg",
+					"url": "https://t.co/dxjzxLiVMX",
+					"display_url": "pic.twitter.com/dxjzxLiVMX",
+					"expanded_url": "https://twitter.com/sokcuri/status/1084798281123680256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084798272500162600,
+					"id_str": "1084798272500162560",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw36SAVUYAAGGtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw36SAVUYAAGGtT.jpg",
+					"url": "https://t.co/dxjzxLiVMX",
+					"display_url": "pic.twitter.com/dxjzxLiVMX",
+					"expanded_url": "https://twitter.com/sokcuri/status/1084798281123680256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1083486550132834300,
+			"id_str": "1083486550132834305",
+			"name": "소쿠릿",
+			"screen_name": "sokcuri",
+			"location": "",
+			"description": "pic by @rikatantan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 395,
+			"listed_count": 0,
+			"created_at": "Thu Jan 10 22:11:38 +0000 2019",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083502538958094337/oZo8nwoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083502538958094337/oZo8nwoF_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 767,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "프린터 고치는 법이 5인치 높이에서 떨어뜨리기 ㅋㅋㅋㅋ 근데 해결되었다고 감사하다는 댓글이 가득해\nhttps://t.co/qbPbHZEHeA https://t.co/dxjzxLiVMX"
+	},
+	{
 		"created_at": "Mon Jan 14 21:02:16 +0000 2019",
 		"id": 1084918645241929700,
 		"id_str": "1084919513471057920",
