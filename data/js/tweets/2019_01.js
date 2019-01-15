@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 20:49:17 +0000 2019",
+		"id": 1085277765660635100,
+		"id_str": "1085277765660635136",
+		"full_text": "영국 졸라웃기네 테레사메이 ㅉㅉ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 929,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "영국 졸라웃기네 테레사메이 ㅉㅉ"
+	},
+	{
+		"created_at": "Tue Jan 15 19:53:45 +0000 2019",
+		"id": 1085263788490833900,
+		"id_str": "1085277714817273856",
+		"full_text": "Labour leader Jeremy Corbyn tables no confidence motion in Theresa May's government after #BrexitVote defeat\n\nhttps://t.co/yP9wknEBDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrexitVote",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yP9wknEBDq",
+					"expanded_url": "https://bbc.in/2ClHknI",
+					"display_url": "bbc.in/2ClHknI",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085260422935208000,
+		"in_reply_to_status_id_str": "1085260422935207937",
+		"in_reply_to_user_id": 5402612,
+		"in_reply_to_user_id_str": "5402612",
+		"in_reply_to_screen_name": "BBCBreaking",
+		"user": {
+			"id": 5402612,
+			"id_str": "5402612",
+			"name": "BBC Breaking News",
+			"screen_name": "BBCBreaking",
+			"location": "London, UK",
+			"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+			"url": "http://t.co/vBzl7LOaso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vBzl7LOaso",
+							"expanded_url": "http://www.bbc.co.uk/news",
+							"display_url": "bbc.co.uk/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38778660,
+			"friends_count": 3,
+			"listed_count": 134144,
+			"created_at": "Sun Apr 22 14:42:37 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1398336837",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1337,
+		"favorite_count": 2253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Labour leader Jeremy Corbyn tables no confidence motion in Theresa May's government after #BrexitVote defeat\n\nhttps://t.co/yP9wknEBDq"
+	},
+	{
+		"created_at": "Tue Jan 15 20:02:02 +0000 2019",
+		"id": 1085265874603241500,
+		"id_str": "1085277669070000128",
+		"full_text": "Labour leader Jeremy Corbyn tables motion of no confidence in UK PM Theresa May's government after heavy defeat in MPs' #BrexitVote\n\nLatest: https://t.co/JXfWlrcIzk https://t.co/DbHiJcQVMZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrexitVote",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXfWlrcIzk",
+					"expanded_url": "http://bbc.in/2DaADGH",
+					"display_url": "bbc.in/2DaADGH",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085265771591127000,
+					"id_str": "1085265771591127040",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-jjlUU8AAYBSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-jjlUU8AAYBSm.jpg",
+					"url": "https://t.co/DbHiJcQVMZ",
+					"display_url": "pic.twitter.com/DbHiJcQVMZ",
+					"expanded_url": "https://twitter.com/BBCBreaking/status/1085265874603241472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085265771591127000,
+					"id_str": "1085265771591127040",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-jjlUU8AAYBSm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-jjlUU8AAYBSm.jpg",
+					"url": "https://t.co/DbHiJcQVMZ",
+					"display_url": "pic.twitter.com/DbHiJcQVMZ",
+					"expanded_url": "https://twitter.com/BBCBreaking/status/1085265874603241472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58367,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1085265771591127040/vid/640x360/EqeCab_SjpRj2wWf.mp4?tag=11"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1085265771591127040/vid/1280x720/Vyyg2OtIZGT0S_4V.mp4?tag=11"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1085265771591127040/vid/320x180/HEPDKju-vzjhE6N4.mp4?tag=11"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1085265771591127040/pl/lMc36eEX5WuVXUGQ.m3u8?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Jeremy Corbyn tables motion of no confidence in the government",
+						"description": "BBC News",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "http://www.bbc.co.uk/news/10318089"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5402612,
+			"id_str": "5402612",
+			"name": "BBC Breaking News",
+			"screen_name": "BBCBreaking",
+			"location": "London, UK",
+			"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+			"url": "http://t.co/vBzl7LOaso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vBzl7LOaso",
+							"expanded_url": "http://www.bbc.co.uk/news",
+							"display_url": "bbc.co.uk/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38778660,
+			"friends_count": 3,
+			"listed_count": 134144,
+			"created_at": "Sun Apr 22 14:42:37 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1398336837",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1263,
+		"favorite_count": 2082,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Labour leader Jeremy Corbyn tables motion of no confidence in UK PM Theresa May's government after heavy defeat in MPs' #BrexitVote\n\nLatest: https://t.co/JXfWlrcIzk https://t.co/DbHiJcQVMZ"
+	},
+	{
+		"created_at": "Tue Jan 15 20:48:09 +0000 2019",
+		"id": 1085277481442017300,
+		"id_str": "1085277531463282688",
+		"full_text": "Canada has asked for clemency in case of B.C. man facing death sentence in China: Freeland https://t.co/pb8Y7te5aA https://t.co/cWublZ6SDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pb8Y7te5aA",
+					"expanded_url": "http://dlvr.it/QwlWsw",
+					"display_url": "dlvr.it/QwlWsw",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085277479462260700,
+					"id_str": "1085277479462260736",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-uHhYUUAAX-_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-uHhYUUAAX-_1.jpg",
+					"url": "https://t.co/cWublZ6SDy",
+					"display_url": "pic.twitter.com/cWublZ6SDy",
+					"expanded_url": "https://twitter.com/globeandmail/status/1085277481442017280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 865,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085277479462260700,
+					"id_str": "1085277479462260736",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-uHhYUUAAX-_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-uHhYUUAAX-_1.jpg",
+					"url": "https://t.co/cWublZ6SDy",
+					"display_url": "pic.twitter.com/cWublZ6SDy",
+					"expanded_url": "https://twitter.com/globeandmail/status/1085277481442017280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 865,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1740114,
+			"friends_count": 555,
+			"listed_count": 14185,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 445803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Canada has asked for clemency in case of B.C. man facing death sentence in China: Freeland https://t.co/pb8Y7te5aA https://t.co/cWublZ6SDy"
+	},
+	{
 		"created_at": "Tue Jan 15 20:13:15 +0000 2019",
 		"id": 1085268698112307200,
 		"id_str": "1085268698112307200",
