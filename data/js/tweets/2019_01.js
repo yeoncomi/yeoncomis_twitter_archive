@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 03:05:50 +0000 2019",
+		"id": 1085010140489809900,
+		"id_str": "1085040195022467072",
+		"full_text": "이사진 완전 합성같다 https://t.co/0x2nGAG7Oc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085010135611715600,
+					"id_str": "1085010135611715585",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw66-D7VsAEP2u6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw66-D7VsAEP2u6.jpg",
+					"url": "https://t.co/0x2nGAG7Oc",
+					"display_url": "pic.twitter.com/0x2nGAG7Oc",
+					"expanded_url": "https://twitter.com/gomzzanji/status/1085010140489809920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 589,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085010135611715600,
+					"id_str": "1085010135611715585",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw66-D7VsAEP2u6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw66-D7VsAEP2u6.jpg",
+					"url": "https://t.co/0x2nGAG7Oc",
+					"display_url": "pic.twitter.com/0x2nGAG7Oc",
+					"expanded_url": "https://twitter.com/gomzzanji/status/1085010140489809920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 589,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816432063435841500,
+			"id_str": "816432063435841536",
+			"name": "김짠지",
+			"screen_name": "gomzzanji",
+			"location": "",
+			"description": "일상계",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3824,
+			"friends_count": 85,
+			"listed_count": 33,
+			"created_at": "Tue Jan 03 23:52:27 +0000 2017",
+			"favourites_count": 4754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33773,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898013794135404545/iIEg0MtK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898013794135404545/iIEg0MtK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816432063435841536/1526569461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이사진 완전 합성같다 https://t.co/0x2nGAG7Oc"
+	},
+	{
+		"created_at": "Mon Jan 14 08:53:53 +0000 2019",
+		"id": 1084735340949061600,
+		"id_str": "1085037783050182656",
+		"full_text": "[H/W] AMD, 기존 AM4 메인보드에서 PCIe 4.0 업데이트 가능 https://t.co/PB9u158qnz\n\n진짜 좆텔하고는 차원이 다르네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PB9u158qnz",
+					"expanded_url": "http://bbs.ruliweb.com/pc/board/1003/read/2175163",
+					"display_url": "bbs.ruliweb.com/pc/board/1003/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1331035980,
+			"id_str": "1331035980",
+			"name": "스코",
+			"screen_name": "Sco_koro",
+			"location": "765プロ劇場",
+			"description": "ヤマノススメ/ Fuan Zoo / https://t.co/y0hb3ipqjc",
+			"url": "https://t.co/77ESbKk0Yp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/77ESbKk0Yp",
+							"expanded_url": "http://spacecore.tistory.com",
+							"display_url": "spacecore.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/y0hb3ipqjc",
+							"expanded_url": "http://eventernote.com/users/SpaceCore",
+							"display_url": "eventernote.com/users/SpaceCore",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 392,
+			"friends_count": 532,
+			"listed_count": 19,
+			"created_at": "Sat Apr 06 08:24:19 +0000 2013",
+			"favourites_count": 16943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279481,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084903448313704448/kPzBkiUr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084903448313704448/kPzBkiUr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1331035980/1538818558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[H/W] AMD, 기존 AM4 메인보드에서 PCIe 4.0 업데이트 가능 https://t.co/PB9u158qnz\n\n진짜 좆텔하고는 차원이 다르네 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Tue Jan 15 04:32:22 +0000 2019",
+		"id": 1085031916661727200,
+		"id_str": "1085037447237390337",
+		"full_text": "유우키씨 일본으로 돌아간 이후 뇌내 발언을 트윗함에 있어 필터를 그냥 꺼버린것 같은데, 그냥...말을 마시죠?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085031605243019300,
+		"in_reply_to_status_id_str": "1085031605243019265",
+		"in_reply_to_user_id": 19104463,
+		"in_reply_to_user_id_str": "19104463",
+		"in_reply_to_screen_name": "cailia",
+		"user": {
+			"id": 19104463,
+			"id_str": "19104463",
+			"name": "Cailia",
+			"screen_name": "cailia",
+			"location": "ritsuko@765.productions",
+			"description": "검은창에 알록달록한 글자를 쓰는 일을 합니다.",
+			"url": "https://t.co/oP5kuZQwGd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oP5kuZQwGd",
+							"expanded_url": "http://www.765.productions/diary",
+							"display_url": "765.productions/diary",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878,
+			"friends_count": 381,
+			"listed_count": 89,
+			"created_at": "Sat Jan 17 07:44:44 +0000 2009",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 290600,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19104463/1531217391",
+			"profile_link_color": "B0E3FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "633119",
+			"profile_text_color": "91551C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "유우키씨 일본으로 돌아간 이후 뇌내 발언을 트윗함에 있어 필터를 그냥 꺼버린것 같은데, 그냥...말을 마시죠?"
+	},
+	{
+		"created_at": "Tue Jan 15 04:31:08 +0000 2019",
+		"id": 1085031605243019300,
+		"id_str": "1085037435015225344",
+		"full_text": "그 일본인이 또 뻘소리 했는데, 그렇게 따지면 일제강점기 시작전 마지막 국가는 대한제국이잖아?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19104463,
+			"id_str": "19104463",
+			"name": "Cailia",
+			"screen_name": "cailia",
+			"location": "ritsuko@765.productions",
+			"description": "검은창에 알록달록한 글자를 쓰는 일을 합니다.",
+			"url": "https://t.co/oP5kuZQwGd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oP5kuZQwGd",
+							"expanded_url": "http://www.765.productions/diary",
+							"display_url": "765.productions/diary",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878,
+			"friends_count": 381,
+			"listed_count": 89,
+			"created_at": "Sat Jan 17 07:44:44 +0000 2009",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 290600,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016625533977677830/osLExwoV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19104463/1531217391",
+			"profile_link_color": "B0E3FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "633119",
+			"profile_text_color": "91551C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 일본인이 또 뻘소리 했는데, 그렇게 따지면 일제강점기 시작전 마지막 국가는 대한제국이잖아?"
+	},
+	{
 		"created_at": "Tue Jan 15 03:37:43 +0000 2019",
 		"id": 1085018164734226400,
 		"id_str": "1085018164734226433",
