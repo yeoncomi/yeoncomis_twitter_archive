@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 07:14:16 +0000 2019",
+		"id": 1085072661116375000,
+		"id_str": "1085072888569376769",
+		"full_text": "컨셉을 위해 폐륜을 마다하지 않는다. 엄마는 아들 생각해서 뼈빠지게 일하시고 집 오시는 길에 아들 좋아하는 고기 김치찌개에 넣어주시겠다고 시장 들렸다 오시는데 집구석에 틀어박혀서 이러고있니. https://t.co/g44558cwZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g44558cwZm",
+					"expanded_url": "https://twitter.com/coco0nyang/status/1085067749158617089",
+					"display_url": "twitter.com/coco0nyang/sta…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935120525222744000,
+			"id_str": "935120525222744064",
+			"name": "yanderen.🌙",
+			"screen_name": "SATAN_KOHAI",
+			"location": "tag: @pipe_scottie",
+			"description": "얀데레도 얼굴 가려가면서 집착해 일단 넌 아냐 걱정마.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 535,
+			"listed_count": 62,
+			"created_at": "Mon Nov 27 12:18:01 +0000 2017",
+			"favourites_count": 16955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43443,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077487550854356992/fK2updC0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077487550854356992/fK2updC0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935120525222744064/1546773744",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085067749158617100,
+		"quoted_status_id_str": "1085067749158617089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g44558cwZm",
+			"expanded": "https://twitter.com/coco0nyang/status/1085067749158617089",
+			"display": "twitter.com/coco0nyang/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 06:54:45 +0000 2019",
+			"id": 1085067749158617100,
+			"id_str": "1085067749158617089",
+			"full_text": "@pipe_scottie 부모님 없어요오... 😭",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pipe_scottie",
+						"name": "수12덕",
+						"id": 1067178911061045200,
+						"id_str": "1067178911061045249",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1085067387693494300,
+			"in_reply_to_status_id_str": "1085067387693494272",
+			"in_reply_to_user_id": 1067178911061045200,
+			"in_reply_to_user_id_str": "1067178911061045249",
+			"in_reply_to_screen_name": "pipe_scottie",
+			"user": {
+				"id": 1016968710714638300,
+				"id_str": "1016968710714638337",
+				"name": "코코링💕",
+				"screen_name": "coco0nyang",
+				"location": "",
+				"description": "06년생... 일단은 여중생일려나-? 후에...토모다치가 생기면 무지 기쁠텐데💕... 야한것과 아기자기한걸 다이스키-! 요로시쿠네~❣",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34,
+				"friends_count": 43,
+				"listed_count": 1,
+				"created_at": "Wed Jul 11 08:53:29 +0000 2018",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084671342782238722/JiMkn89m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084671342782238722/JiMkn89m_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컨셉을 위해 폐륜을 마다하지 않는다. 엄마는 아들 생각해서 뼈빠지게 일하시고 집 오시는 길에 아들 좋아하는 고기 김치찌개에 넣어주시겠다고 시장 들렸다 오시는데 집구석에 틀어박혀서 이러고있니. https://t.co/g44558cwZm"
+	},
+	{
+		"created_at": "Tue Jan 15 07:14:13 +0000 2019",
+		"id": 1085072645425512400,
+		"id_str": "1085072645425512450",
+		"full_text": "HTC VIVE 사버렸다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 927,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 20769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076210431549628416/JpoymXDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "HTC VIVE 사버렸다"
+	},
+	{
+		"created_at": "Mon Jan 14 05:47:05 +0000 2019",
+		"id": 1084688331009478700,
+		"id_str": "1085061788528300032",
+		"full_text": "10. 동백미쿠 넨도로이드\n\n팔려다가 안팔려서 무나합니다 표정은 두개밖에 없어요! https://t.co/HfYmutI10M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084688302647664600,
+					"id_str": "1084688302647664640",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2WQ6tV4AAq1PB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2WQ6tV4AAq1PB.jpg",
+					"url": "https://t.co/HfYmutI10M",
+					"display_url": "pic.twitter.com/HfYmutI10M",
+					"expanded_url": "https://twitter.com/beronica_ovo/status/1084688331009478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084688302647664600,
+					"id_str": "1084688302647664640",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2WQ6tV4AAq1PB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2WQ6tV4AAq1PB.jpg",
+					"url": "https://t.co/HfYmutI10M",
+					"display_url": "pic.twitter.com/HfYmutI10M",
+					"expanded_url": "https://twitter.com/beronica_ovo/status/1084688331009478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084688312445460500,
+					"id_str": "1084688312445460480",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2WRfNUYAAXZ6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2WRfNUYAAXZ6G.jpg",
+					"url": "https://t.co/HfYmutI10M",
+					"display_url": "pic.twitter.com/HfYmutI10M",
+					"expanded_url": "https://twitter.com/beronica_ovo/status/1084688331009478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084688321064820700,
+					"id_str": "1084688321064820743",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2WR_UVYAcf0lz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2WR_UVYAcf0lz.jpg",
+					"url": "https://t.co/HfYmutI10M",
+					"display_url": "pic.twitter.com/HfYmutI10M",
+					"expanded_url": "https://twitter.com/beronica_ovo/status/1084688331009478657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1082996962704543700,
+		"in_reply_to_status_id_str": "1082996962704543744",
+		"in_reply_to_user_id": 859228488192086000,
+		"in_reply_to_user_id_str": "859228488192086016",
+		"in_reply_to_screen_name": "beronica_ovo",
+		"user": {
+			"id": 859228488192086000,
+			"id_str": "859228488192086016",
+			"name": "로니로니로니",
+			"screen_name": "beronica_ovo",
+			"location": "",
+			"description": "You are my love./155cm.64.9kg👉55kg 9.9kg감량 목표 정상체중까지 화이팅",
+			"url": "https://t.co/cnfpu46nlP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cnfpu46nlP",
+							"expanded_url": "http://asked.kr/celia803",
+							"display_url": "asked.kr/celia803",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 183,
+			"listed_count": 0,
+			"created_at": "Tue May 02 02:10:10 +0000 2017",
+			"favourites_count": 2819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16027,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048453769212485632/7cb4l1LK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048453769212485632/7cb4l1LK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859228488192086016/1545412863",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10. 동백미쿠 넨도로이드\n\n팔려다가 안팔려서 무나합니다 표정은 두개밖에 없어요! https://t.co/HfYmutI10M"
+	},
+	{
+		"created_at": "Tue Jan 15 06:23:11 +0000 2019",
+		"id": 1085059802684829700,
+		"id_str": "1085061631757959168",
+		"full_text": "공포의 오나홀 직거래... https://t.co/bWYiNvXDqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085059779871952900,
+					"id_str": "1085059779871952896",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw7oHvNU0AA1_69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw7oHvNU0AA1_69.jpg",
+					"url": "https://t.co/bWYiNvXDqa",
+					"display_url": "pic.twitter.com/bWYiNvXDqa",
+					"expanded_url": "https://twitter.com/__Kasikoi/status/1085059802684829698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 925,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085059779871952900,
+					"id_str": "1085059779871952896",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw7oHvNU0AA1_69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw7oHvNU0AA1_69.jpg",
+					"url": "https://t.co/bWYiNvXDqa",
+					"display_url": "pic.twitter.com/bWYiNvXDqa",
+					"expanded_url": "https://twitter.com/__Kasikoi/status/1085059802684829698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 925,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1085059782283673600,
+					"id_str": "1085059782283673600",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw7oH4MUwAAZJul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw7oH4MUwAAZJul.jpg",
+					"url": "https://t.co/bWYiNvXDqa",
+					"display_url": "pic.twitter.com/bWYiNvXDqa",
+					"expanded_url": "https://twitter.com/__Kasikoi/status/1085059802684829698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 783,
+							"h": 497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 783,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 374986728,
+			"id_str": "374986728",
+			"name": "짭병히",
+			"screen_name": "__Kasikoi",
+			"location": "",
+			"description": "성인이 성인물을 볼 수 있는 나라에서 살고싶다",
+			"url": "https://t.co/AFxJEFFgxM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AFxJEFFgxM",
+							"expanded_url": "https://www.youtube.com/channel/UCcN3KG_O9oEhpWrW-7-viYA?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCcN3K…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211,
+			"friends_count": 160,
+			"listed_count": 1,
+			"created_at": "Sat Sep 17 09:24:16 +0000 2011",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18629,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080021854268489728/9fRZmve8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080021854268489728/9fRZmve8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/374986728/1546761395",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공포의 오나홀 직거래... https://t.co/bWYiNvXDqa"
+	},
+	{
 		"created_at": "Mon Jan 14 05:53:38 +0000 2019",
 		"id": 1084689978318237700,
 		"id_str": "1085058046013800449",
