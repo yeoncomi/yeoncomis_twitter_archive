@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 05:53:38 +0000 2019",
+		"id": 1084689978318237700,
+		"id_str": "1085058046013800449",
+		"full_text": "BTS(방탄)\n-7명밖에없음\n-걷기만 함.속도와 수영은 수치가 각각 다름\n-장갑으로 보호안됨\n-'아직 징집되지 않음'\n-실질적인 군대를 가지고있지 않음\nBTR\n-10명을 태울수 있음\n-지상에서 80 km/h, 9 km/h로 수영할수있음\n-9mm의 전면장갑과 7mm의 측면장갑\n-14.5mm KPVT나 12.7mm DSHK로 무장할수있음 https://t.co/v0xYHKvgk6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084688645418696700,
+					"id_str": "1084688645418696704",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2Wk3oUwAApvhQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2Wk3oUwAApvhQ.jpg",
+					"url": "https://t.co/v0xYHKvgk6",
+					"display_url": "pic.twitter.com/v0xYHKvgk6",
+					"expanded_url": "https://twitter.com/atamonica0123/status/1084689978318237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084688645418696700,
+					"id_str": "1084688645418696704",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2Wk3oUwAApvhQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2Wk3oUwAApvhQ.jpg",
+					"url": "https://t.co/v0xYHKvgk6",
+					"display_url": "pic.twitter.com/v0xYHKvgk6",
+					"expanded_url": "https://twitter.com/atamonica0123/status/1084689978318237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 761137555,
+			"id_str": "761137555",
+			"name": "Atamonica",
+			"screen_name": "atamonica0123",
+			"location": "",
+			"description": "유사그림쟁이 잘놀러댕기는 비창,겜창잉간  :)\n=KVFS=",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 107,
+			"listed_count": 0,
+			"created_at": "Thu Aug 16 08:30:01 +0000 2012",
+			"favourites_count": 1004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 537,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071633384454021121/bZxVJm_0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071633384454021121/bZxVJm_0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/761137555/1546741408",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS(방탄)\n-7명밖에없음\n-걷기만 함.속도와 수영은 수치가 각각 다름\n-장갑으로 보호안됨\n-'아직 징집되지 않음'\n-실질적인 군대를 가지고있지 않음\nBTR\n-10명을 태울수 있음\n-지상에서 80 km/h, 9 km/h로 수영할수있음\n-9mm의 전면장갑과 7mm의 측면장갑\n-14.5mm KPVT나 12.7mm DSHK로 무장할수있음 https://t.co/v0xYHKvgk6"
+	},
+	{
 		"created_at": "Tue Jan 15 03:05:50 +0000 2019",
 		"id": 1085010140489809900,
 		"id_str": "1085040195022467072",
