@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 23:57:28 +0000 2019",
+		"id": 1085325122687258600,
+		"id_str": "1085390438499078144",
+		"full_text": "ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/5McGC639NF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085325112885137400,
+					"id_str": "1085325112885137409",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw_ZcJtUUAEqMd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw_ZcJtUUAEqMd_.jpg",
+					"url": "https://t.co/5McGC639NF",
+					"display_url": "pic.twitter.com/5McGC639NF",
+					"expanded_url": "https://twitter.com/d57pub_/status/1085325122687258625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085325112885137400,
+					"id_str": "1085325112885137409",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw_ZcJtUUAEqMd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw_ZcJtUUAEqMd_.jpg",
+					"url": "https://t.co/5McGC639NF",
+					"display_url": "pic.twitter.com/5McGC639NF",
+					"expanded_url": "https://twitter.com/d57pub_/status/1085325122687258625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4880656034,
+			"id_str": "4880656034",
+			"name": "Dalgona💕",
+			"screen_name": "d57pub_",
+			"location": "대한민국",
+			"description": "Public account of @d57_kr",
+			"url": "https://t.co/upI4pv92WD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/upI4pv92WD",
+							"expanded_url": "http://dalgona.hontou.moe",
+							"display_url": "dalgona.hontou.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 36,
+			"listed_count": 5,
+			"created_at": "Tue Feb 09 01:18:31 +0000 2016",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 724,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045626209638338560/Q2-Q9NoY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045626209638338560/Q2-Q9NoY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4880656034/1538131672",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/5McGC639NF"
+	},
+	{
 		"created_at": "Wed Jan 16 02:25:01 +0000 2019",
 		"id": 1085362257125531600,
 		"id_str": "1085362257125531649",
