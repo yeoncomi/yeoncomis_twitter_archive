@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 14:39:28 +0000 2019",
+		"id": 1085909474102063100,
+		"id_str": "1085937764003004417",
+		"full_text": "오늘 성소수자 선임 캡쳐했다던 친구 결말인가봄 https://t.co/Y2nDPOfogI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085909465231028200,
+					"id_str": "1085909465231028230",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxHs571UcAY9jpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxHs571UcAY9jpd.jpg",
+					"url": "https://t.co/Y2nDPOfogI",
+					"display_url": "pic.twitter.com/Y2nDPOfogI",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1085909474102063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085909465231028200,
+					"id_str": "1085909465231028230",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxHs571UcAY9jpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxHs571UcAY9jpd.jpg",
+					"url": "https://t.co/Y2nDPOfogI",
+					"display_url": "pic.twitter.com/Y2nDPOfogI",
+					"expanded_url": "https://twitter.com/_BAECHUU_/status/1085909474102063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055138790619004900,
+			"id_str": "1055138790619004928",
+			"name": "𝘉𝘈𝘌𝘊𝘏𝘜 *",
+			"screen_name": "_BAECHUU_",
+			"location": "㋂",
+			"description": "노잼인간 프사헤더 @M_ON_K_E_Y 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 283,
+			"listed_count": 20,
+			"created_at": "Wed Oct 24 16:47:45 +0000 2018",
+			"favourites_count": 642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18348,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083608193324875776/5LgKkPa-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083608193324875776/5LgKkPa-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055138790619004928/1547187301",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 성소수자 선임 캡쳐했다던 친구 결말인가봄 https://t.co/Y2nDPOfogI"
+	},
+	{
 		"created_at": "Thu Jan 17 14:07:19 +0000 2019",
 		"id": 1085901382891200500,
 		"id_str": "1085901703453433864",
