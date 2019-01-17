@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 11:09:16 +0000 2019",
+		"id": 1085494187263385600,
+		"id_str": "1085767359325822976",
+		"full_text": "＇나침반 북극＇, 연간 55km 속도로 캐나다서 시베리아로 이동 중 https://t.co/S4Kxglbz8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S4Kxglbz8c",
+					"expanded_url": "https://news.v.daum.net/v/20190116172725785",
+					"display_url": "news.v.daum.net/v/201901161727…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022207629,
+			"id_str": "1022207629",
+			"name": "단순한생각 (망했음)",
+			"screen_name": "lemay_wp",
+			"location": "FE Warren / 33 EOR",
+			"description": "덕질 하고 싶은 계정 / 커미션 물품 질러야함 / 19겨울 원페스 지갑털릴 예정 / MAKE PENTAX GREAT AGAIN /",
+			"url": "https://t.co/SHrXTMmOdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHrXTMmOdL",
+							"expanded_url": "https://youtu.be/FM7MFYoylVs",
+							"display_url": "youtu.be/FM7MFYoylVs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 482,
+			"listed_count": 8,
+			"created_at": "Wed Dec 19 14:34:02 +0000 2012",
+			"favourites_count": 2873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11149,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022207629/1522067869",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "＇나침반 북극＇, 연간 55km 속도로 캐나다서 시베리아로 이동 중 https://t.co/S4Kxglbz8c"
+	},
+	{
+		"created_at": "Mon Jan 14 14:51:16 +0000 2019",
+		"id": 1084825277996228600,
+		"id_str": "1085767261984452608",
+		"full_text": "[호무라@기글하드] 군대에서 폰 쓸때 설치해야 하는 앱\nhttps://t.co/zr4qHD7JuY\n데이터 초기화, 앱 관리, 화면 잠금 변경, 계정 관리, 앱 데이터 관리, 다중유저, 인증서 관리, 웹브라우저 제한 설정, 기능 제한, 원격제어, 클립보드 관리. 합법적이고 노골적인 백도어. 아이폰도 가능 https://t.co/y9Cs19VvMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zr4qHD7JuY",
+					"expanded_url": "https://gigglehd.com/gg/bbs/4173775",
+					"display_url": "gigglehd.com/gg/bbs/4173775",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084825269955776500,
+					"id_str": "1084825269955776513",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4S1dsU0AE2LNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4S1dsU0AE2LNy.jpg",
+					"url": "https://t.co/y9Cs19VvMA",
+					"display_url": "pic.twitter.com/y9Cs19VvMA",
+					"expanded_url": "https://twitter.com/LaruYan/status/1084825277996228609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 196,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 334,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 111,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084825269955776500,
+					"id_str": "1084825269955776513",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4S1dsU0AE2LNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4S1dsU0AE2LNy.jpg",
+					"url": "https://t.co/y9Cs19VvMA",
+					"display_url": "pic.twitter.com/y9Cs19VvMA",
+					"expanded_url": "https://twitter.com/LaruYan/status/1084825277996228609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 196,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 334,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 111,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749257340533153800,
+			"id_str": "749257340533153792",
+			"name": "라루얀/말썽쟁이 구운 경단",
+			"screen_name": "LaruYan",
+			"location": "",
+			"description": "\"기쁜 일도 슬픈일도 전부 동그랗게\"\n\n초면죄송 안하셔도 되요. 불편하시다면 속으로 삭히는 대신, 말로 제보해주세요. 말 안걸어주시면 구독이라 생각할게요.\n자세한 것은 웹사이트에서. for English, refer website.\n\n블언블 의심 전에: @LaruYanKaPothoa",
+			"url": "https://t.co/Jo8lpf8fXq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jo8lpf8fXq",
+							"expanded_url": "https://blog.laruyan.moe/2018/12/blog-post_64.html",
+							"display_url": "blog.laruyan.moe/2018/12/blog-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 94,
+			"listed_count": 22,
+			"created_at": "Sat Jul 02 15:04:05 +0000 2016",
+			"favourites_count": 3504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749257340533153792/1467474106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[호무라@기글하드] 군대에서 폰 쓸때 설치해야 하는 앱\nhttps://t.co/zr4qHD7JuY\n데이터 초기화, 앱 관리, 화면 잠금 변경, 계정 관리, 앱 데이터 관리, 다중유저, 인증서 관리, 웹브라우저 제한 설정, 기능 제한, 원격제어, 클립보드 관리. 합법적이고 노골적인 백도어. 아이폰도 가능 https://t.co/y9Cs19VvMA"
+	},
+	{
+		"created_at": "Wed Jan 16 13:29:09 +0000 2019",
+		"id": 1085529388777594900,
+		"id_str": "1085766517923311616",
+		"full_text": "2D인권 흠터레스팅..\n\n그렇게 따지면 오른쪽도 웃긴 장면은 아닌거 같은데 https://t.co/6gm204vmCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085529235882598400,
+					"id_str": "1085529235882598401",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxCTFrIVYAE2krW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxCTFrIVYAE2krW.jpg",
+					"url": "https://t.co/6gm204vmCH",
+					"display_url": "pic.twitter.com/6gm204vmCH",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1085529388777594881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 581,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 581,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085529235882598400,
+					"id_str": "1085529235882598401",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxCTFrIVYAE2krW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxCTFrIVYAE2krW.jpg",
+					"url": "https://t.co/6gm204vmCH",
+					"display_url": "pic.twitter.com/6gm204vmCH",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1085529388777594881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 581,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 581,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1085529290853146600,
+					"id_str": "1085529290853146624",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxCTI36VYAAZP-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxCTI36VYAAZP-K.jpg",
+					"url": "https://t.co/6gm204vmCH",
+					"display_url": "pic.twitter.com/6gm204vmCH",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1085529388777594881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Warframe-Mesa Prime",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "무려 프라임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447,
+			"friends_count": 164,
+			"listed_count": 5,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 28732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28128,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080371500245372928/iu_C4YQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080371500245372928/iu_C4YQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1546414255",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2D인권 흠터레스팅..\n\n그렇게 따지면 오른쪽도 웃긴 장면은 아닌거 같은데 https://t.co/6gm204vmCH"
+	},
+	{
+		"created_at": "Thu Jan 17 04:03:26 +0000 2019",
+		"id": 1085749412888862700,
+		"id_str": "1085760121504915456",
+		"full_text": "직원이 ‘어떻게 그렇게 비거리가 많이 나가세요?’, 전두환이 자기가 아침에 일어나서 침대에서 손목 운동부터 시작해서 전신 운동을 2시간 한다고\n\n“전두환이 걷는 걸 좋아하다 보니까 파5홀 같은 곳도 카트 놓고 걸어 다닌다. 신체적으로는 건강하고, 아주 활기차다. 누가 봐도 그 나이 같지 않다”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1085747547379880000,
+		"in_reply_to_status_id_str": "1085747547379879936",
+		"in_reply_to_user_id": 1061444353,
+		"in_reply_to_user_id_str": "1061444353",
+		"in_reply_to_screen_name": "Chateau_Margaux",
+		"user": {
+			"id": 1061444353,
+			"id_str": "1061444353",
+			"name": "🎗🍷ᶜʰᵃᵗᵉᵃᵘ ℳargaux🍷🎗",
+			"screen_name": "Chateau_Margaux",
+			"location": "마누라와 아들 사이",
+			"description": "안녕? 난 마고라고 해, 샤또 마고. 탐라에서 유머짤을 담당하고 있지. \n※프사는 완소 서나래작가님 캐릭 낢입니다.\n※먹짤을 제외한 대부분의 짤은 해외사이트에서 퍼옵니다.\n#withyou",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22901,
+			"friends_count": 487,
+			"listed_count": 244,
+			"created_at": "Fri Jan 04 21:06:43 +0000 2013",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 224199,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077388576038383616/s9GwG-ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077388576038383616/s9GwG-ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061444353/1471700487",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "직원이 ‘어떻게 그렇게 비거리가 많이 나가세요?’, 전두환이 자기가 아침에 일어나서 침대에서 손목 운동부터 시작해서 전신 운동을 2시간 한다고\n\n“전두환이 걷는 걸 좋아하다 보니까 파5홀 같은 곳도 카트 놓고 걸어 다닌다. 신체적으로는 건강하고, 아주 활기차다. 누가 봐도 그 나이 같지 않다”"
+	},
+	{
 		"created_at": "Tue Jan 15 08:25:30 +0000 2019",
 		"id": 1085090585046741000,
 		"id_str": "1085741555493699584",
