@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 05:39:45 +0000 2019",
+		"id": 1085773650232410100,
+		"id_str": "1085777543809003520",
+		"full_text": "사기주의잼 @SATAN_KOHAI https://t.co/rqKWLL4BkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SATAN_KOHAI",
+					"name": "yanderen.🌙",
+					"id": 935120525222744000,
+					"id_str": "935120525222744064",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085773643848638500,
+					"id_str": "1085773643848638465",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFxYFwUYAEjIwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFxYFwUYAEjIwQ.jpg",
+					"url": "https://t.co/rqKWLL4BkA",
+					"display_url": "pic.twitter.com/rqKWLL4BkA",
+					"expanded_url": "https://twitter.com/momonography/status/1085773650232410112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085773643848638500,
+					"id_str": "1085773643848638465",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFxYFwUYAEjIwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFxYFwUYAEjIwQ.jpg",
+					"url": "https://t.co/rqKWLL4BkA",
+					"display_url": "pic.twitter.com/rqKWLL4BkA",
+					"expanded_url": "https://twitter.com/momonography/status/1085773650232410112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 726,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 775444968957587500,
+			"id_str": "775444968957587456",
+			"name": "momo is",
+			"screen_name": "momonography",
+			"location": "대한민국 부천시",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 138,
+			"listed_count": 11,
+			"created_at": "Mon Sep 12 21:24:22 +0000 2016",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14579,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085473614609039360/q2lAC1eF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085473614609039360/q2lAC1eF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/775444968957587456/1542071680",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사기주의잼 @SATAN_KOHAI https://t.co/rqKWLL4BkA"
+	},
+	{
+		"created_at": "Thu Jan 17 05:31:00 +0000 2019",
+		"id": 1085771448457687000,
+		"id_str": "1085775382559711233",
+		"full_text": "https://t.co/ve1iO0VCtc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085771436092940300,
+					"id_str": "1085771436092940288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFvXlOV4AA4iX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFvXlOV4AA4iX7.jpg",
+					"url": "https://t.co/ve1iO0VCtc",
+					"display_url": "pic.twitter.com/ve1iO0VCtc",
+					"expanded_url": "https://twitter.com/Creta5164/status/1085771448457687041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085771436092940300,
+					"id_str": "1085771436092940288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFvXlOV4AA4iX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFvXlOV4AA4iX7.jpg",
+					"url": "https://t.co/ve1iO0VCtc",
+					"display_url": "pic.twitter.com/ve1iO0VCtc",
+					"expanded_url": "https://twitter.com/Creta5164/status/1085771448457687041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1085771445458763800,
+					"id_str": "1085771445458763776",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFvYIHVAAAPm8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFvYIHVAAAPm8m.jpg",
+					"url": "https://t.co/ve1iO0VCtc",
+					"display_url": "pic.twitter.com/ve1iO0VCtc",
+					"expanded_url": "https://twitter.com/Creta5164/status/1085771448457687041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3014261994,
+			"id_str": "3014261994",
+			"name": "CretaPark",
+			"screen_name": "Creta5164",
+			"location": "Republic of Korea",
+			"description": "Indie game dev, blog : https://t.co/jruf9hACsd 또는 https://t.co/VGBQVSRLq4",
+			"url": "https://t.co/1J2zXBOD6v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1J2zXBOD6v",
+							"expanded_url": "http://creffect.com/?me=cretapark",
+							"display_url": "creffect.com/?me=cretapark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jruf9hACsd",
+							"expanded_url": "http://creta5164.tumblr.com",
+							"display_url": "creta5164.tumblr.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/VGBQVSRLq4",
+							"expanded_url": "http://blog.naver.com/hd3306",
+							"display_url": "blog.naver.com/hd3306",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 232,
+			"listed_count": 7,
+			"created_at": "Mon Feb 09 12:03:06 +0000 2015",
+			"favourites_count": 6635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980444407412359168/NzhAeJjd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980444407412359168/NzhAeJjd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3014261994/1547112806",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ve1iO0VCtc"
+	},
+	{
+		"created_at": "Wed Jan 16 15:41:15 +0000 2019",
+		"id": 1085562633237848000,
+		"id_str": "1085768414189088768",
+		"full_text": "아내에게 60초 생존게임을 시켜보았습니다. https://t.co/MSGz4uztJr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085562582788845600,
+					"id_str": "1085562582788845569",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DxCxauCVsAE8GRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxCxauCVsAE8GRL.jpg",
+					"url": "https://t.co/MSGz4uztJr",
+					"display_url": "pic.twitter.com/MSGz4uztJr",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1085562633237848064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1307,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085562582788845600,
+					"id_str": "1085562582788845569",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DxCxauCVsAE8GRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxCxauCVsAE8GRL.jpg",
+					"url": "https://t.co/MSGz4uztJr",
+					"display_url": "pic.twitter.com/MSGz4uztJr",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1085562633237848064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1307,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Warframe-Mesa Prime",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "무려 프라임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447,
+			"friends_count": 164,
+			"listed_count": 5,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 28732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28128,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080371500245372928/iu_C4YQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080371500245372928/iu_C4YQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1546414255",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1547,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아내에게 60초 생존게임을 시켜보았습니다. https://t.co/MSGz4uztJr"
+	},
+	{
 		"created_at": "Wed Jan 16 11:09:16 +0000 2019",
 		"id": 1085494187263385600,
 		"id_str": "1085767359325822976",
