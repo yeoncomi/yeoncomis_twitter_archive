@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 10:35:06 +0000 2019",
+		"id": 1086210364499316700,
+		"id_str": "1086400798068600832",
+		"full_text": "와씨 앉을뻔 https://t.co/kzfkkF1b9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086210354198134800,
+					"id_str": "1086210354198134784",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DxL-j-lUwAA0PQJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxL-j-lUwAA0PQJ.jpg",
+					"url": "https://t.co/kzfkkF1b9R",
+					"display_url": "pic.twitter.com/kzfkkF1b9R",
+					"expanded_url": "https://twitter.com/mlrlnc/status/1086210364499316741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086210354198134800,
+					"id_str": "1086210354198134784",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DxL-j-lUwAA0PQJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxL-j-lUwAA0PQJ.jpg",
+					"url": "https://t.co/kzfkkF1b9R",
+					"display_url": "pic.twitter.com/kzfkkF1b9R",
+					"expanded_url": "https://twitter.com/mlrlnc/status/1086210364499316741/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66579599,
+			"id_str": "66579599",
+			"name": "마유쨔마 ✖︎✖︎✖︎🍤🍓🍁",
+			"screen_name": "mlrlnc",
+			"location": "Witches’ Forest",
+			"description": "《Minacle/마유쨔마!!》 🇯🇵🇰🇷👩‍💻 https://t.co/53o7ZFxGaf SW→3882-0475-6504 〈@_KaguyaLuna🍤〉 〔@project_ms♥️〕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/53o7ZFxGaf",
+							"expanded_url": "http://pronoun.is/she/her",
+							"display_url": "pronoun.is/she/her",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1301,
+			"friends_count": 991,
+			"listed_count": 37,
+			"created_at": "Tue Aug 18 03:10:52 +0000 2009",
+			"favourites_count": 16645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 201273,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "841044",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032438144640008192/WpFlT6kQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032438144640008192/WpFlT6kQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66579599/1534788402",
+			"profile_link_color": "00AF81",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와씨 앉을뻔 https://t.co/kzfkkF1b9R"
+	},
+	{
+		"created_at": "Fri Jan 18 12:16:58 +0000 2019",
+		"id": 1086236000005836800,
+		"id_str": "1086400622008532994",
+		"full_text": "야 진짜 누굴파던지  상관은 안하는데 이건 좀 심했잖아 세월호 추모한다고 그려논곳에  이름적고있어;; https://t.co/57hxtr3wtS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086235986214993900,
+					"id_str": "1086235986214993920",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMV39SXQAA-l4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMV39SXQAA-l4v.jpg",
+					"url": "https://t.co/57hxtr3wtS",
+					"display_url": "pic.twitter.com/57hxtr3wtS",
+					"expanded_url": "https://twitter.com/jiu1125/status/1086236000005836800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 1858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086235986214993900,
+					"id_str": "1086235986214993920",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMV39SXQAA-l4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMV39SXQAA-l4v.jpg",
+					"url": "https://t.co/57hxtr3wtS",
+					"display_url": "pic.twitter.com/57hxtr3wtS",
+					"expanded_url": "https://twitter.com/jiu1125/status/1086236000005836800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 1858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1021095706260590600,
+			"id_str": "1021095706260590593",
+			"name": "지유💩",
+			"screen_name": "jiu1125",
+			"location": "",
+			"description": "💕FUB FREE||한국어/English/Deutsch||05년생|| 그림쟁이 ||앙스타, 힢마, free!|| 1차도 자주 파용|| gl, bl || 해외러",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 225,
+			"listed_count": 1,
+			"created_at": "Sun Jul 22 18:12:42 +0000 2018",
+			"favourites_count": 3082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085639047169654784/S6soDCu__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085639047169654784/S6soDCu__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1021095706260590593/1547845705",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1406,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 진짜 누굴파던지  상관은 안하는데 이건 좀 심했잖아 세월호 추모한다고 그려논곳에  이름적고있어;; https://t.co/57hxtr3wtS"
+	},
+	{
 		"created_at": "Fri Jan 18 03:01:40 +0000 2019",
 		"id": 1086096256240255000,
 		"id_str": "1086312368190058497",
