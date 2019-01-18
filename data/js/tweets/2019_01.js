@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 03:01:40 +0000 2019",
+		"id": 1086096256240255000,
+		"id_str": "1086312368190058497",
+		"full_text": "실시간 물리학과 교수님의 코멘트... https://t.co/o06VfpVhL0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086096246215868400,
+					"id_str": "1086096246215868416",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DxKWyBOVAAAmvzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxKWyBOVAAAmvzk.jpg",
+					"url": "https://t.co/o06VfpVhL0",
+					"display_url": "pic.twitter.com/o06VfpVhL0",
+					"expanded_url": "https://twitter.com/Hs_1803/status/1086096256240254976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086096246215868400,
+					"id_str": "1086096246215868416",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DxKWyBOVAAAmvzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxKWyBOVAAAmvzk.jpg",
+					"url": "https://t.co/o06VfpVhL0",
+					"display_url": "pic.twitter.com/o06VfpVhL0",
+					"expanded_url": "https://twitter.com/Hs_1803/status/1086096256240254976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1086045954661208000,
+		"in_reply_to_status_id_str": "1086045954661208064",
+		"in_reply_to_user_id": 1003207003966074900,
+		"in_reply_to_user_id_str": "1003207003966074880",
+		"in_reply_to_screen_name": "Hs_1803",
+		"user": {
+			"id": 1003207003966074900,
+			"id_str": "1003207003966074880",
+			"name": "Hassium /토익 신청하기",
+			"screen_name": "Hs_1803",
+			"location": "",
+			"description": "Hassium a.k.a. GRaY(@gray07039) / 글, 그림, 작곡 등 창작활동 전반을 즐깁니다. / 맞팔은 멘션 주세요! / @Hs_Cytus2 / @Hs_Project_R / FUB FREE",
+			"url": "https://t.co/culoa5mCui",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/culoa5mCui",
+							"expanded_url": "https://soundcloud.com/gray07039",
+							"display_url": "soundcloud.com/gray07039",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 116,
+			"listed_count": 0,
+			"created_at": "Sun Jun 03 09:29:23 +0000 2018",
+			"favourites_count": 3492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7448,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079072250987302912/g43gVIOS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079072250987302912/g43gVIOS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003207003966074880/1547239843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4903,
+		"favorite_count": 757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실시간 물리학과 교수님의 코멘트... https://t.co/o06VfpVhL0"
+	},
+	{
+		"created_at": "Fri Jan 18 07:17:28 +0000 2019",
+		"id": 1086160627486216200,
+		"id_str": "1086309335259537409",
+		"full_text": "사실:그언론이 그언론했다. https://t.co/EuqRNWsNmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086160608527933400,
+					"id_str": "1086160608527933440",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DxLRUZhUYAAb58B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxLRUZhUYAAb58B.jpg",
+					"url": "https://t.co/EuqRNWsNmg",
+					"display_url": "pic.twitter.com/EuqRNWsNmg",
+					"expanded_url": "https://twitter.com/Protoss_hiropon/status/1086160627486216192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086160608527933400,
+					"id_str": "1086160608527933440",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DxLRUZhUYAAb58B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxLRUZhUYAAb58B.jpg",
+					"url": "https://t.co/EuqRNWsNmg",
+					"display_url": "pic.twitter.com/EuqRNWsNmg",
+					"expanded_url": "https://twitter.com/Protoss_hiropon/status/1086160627486216192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086160617889648600,
+					"id_str": "1086160617889648641",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DxLRU8ZU0AEbkr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxLRU8ZU0AEbkr4.jpg",
+					"url": "https://t.co/EuqRNWsNmg",
+					"display_url": "pic.twitter.com/EuqRNWsNmg",
+					"expanded_url": "https://twitter.com/Protoss_hiropon/status/1086160627486216192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1094,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1438,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719073982700335100,
+			"id_str": "719073982700335104",
+			"name": "미쳤습니까 군주님?",
+			"screen_name": "Protoss_hiropon",
+			"location": "",
+			"description": "저는 유해합니다. 특히 외계인들에게는요, NSFW @protossdesire\n\n주컾:알라아르알라, 아르보라, 알라보라, 알라지나",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 73,
+			"listed_count": 3,
+			"created_at": "Sun Apr 10 08:06:12 +0000 2016",
+			"favourites_count": 2539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18739,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086243023720046593/fVxWDC8o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086243023720046593/fVxWDC8o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719073982700335104/1461074100",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2096,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실:그언론이 그언론했다. https://t.co/EuqRNWsNmg"
+	},
+	{
 		"created_at": "Wed Jan 16 09:47:33 +0000 2019",
 		"id": 1085473624843120600,
 		"id_str": "1086124151390097408",
@@ -388,7 +759,7 @@ Grailbird.data.tweets_2019_01 =
 			"name": "❣️kylie❣️",
 			"screen_name": "kckc2018k",
 			"location": "Somewhere inside hell",
-			"description": "Ni Una Menos\n💇🏻‍♀️\n페미 관련언급 많이함.\n우주최강 잡덕임.(해연+?)\n시비걸면 나도 몰라ㅠㅠ",
+			"description": "Ni Una Menos\n💇🏻♀️\n페미 관련언급 많이함.\n우주최강 잡덕임.(해연+?)\n시비걸면 나도 몰라ㅠㅠ",
 			"url": null,
 			"entities": {
 				"description": {
