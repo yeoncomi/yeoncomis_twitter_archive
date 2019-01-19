@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 17:52:43 +0000 2019",
+		"id": 1084870944823361500,
+		"id_str": "1086657982320959488",
+		"full_text": "#2009vs2019 https://t.co/Vwox3S7LvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2009vs2019",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084870941476380700,
+					"id_str": "1084870941476380672",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw48X5XX4AAsfw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw48X5XX4AAsfw3.jpg",
+					"url": "https://t.co/Vwox3S7LvE",
+					"display_url": "pic.twitter.com/Vwox3S7LvE",
+					"expanded_url": "https://twitter.com/CBC/status/1084870944823361536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084870941476380700,
+					"id_str": "1084870941476380672",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw48X5XX4AAsfw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw48X5XX4AAsfw3.jpg",
+					"url": "https://t.co/Vwox3S7LvE",
+					"display_url": "pic.twitter.com/Vwox3S7LvE",
+					"expanded_url": "https://twitter.com/CBC/status/1084870944823361536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1084870941476302800,
+					"id_str": "1084870941476302849",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw48X5XWsAEj4xO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw48X5XWsAEj4xO.jpg",
+					"url": "https://t.co/Vwox3S7LvE",
+					"display_url": "pic.twitter.com/Vwox3S7LvE",
+					"expanded_url": "https://twitter.com/CBC/status/1084870944823361536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16034244,
+			"id_str": "16034244",
+			"name": "CBC",
+			"screen_name": "CBC",
+			"location": "Canada",
+			"description": "Canadian Broadcasting Corporation",
+			"url": "http://t.co/r6FyHQK69r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/r6FyHQK69r",
+							"expanded_url": "http://www.cbc.ca",
+							"display_url": "cbc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433680,
+			"friends_count": 83644,
+			"listed_count": 2902,
+			"created_at": "Thu Aug 28 23:08:39 +0000 2008",
+			"favourites_count": 40720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BB1500",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068187817375932417/GvePoLQ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068187817375932417/GvePoLQ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16034244/1547477195",
+			"profile_link_color": "0073FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 2532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#2009vs2019 https://t.co/Vwox3S7LvE"
+	},
+	{
 		"created_at": "Sat Jan 19 04:10:18 +0000 2019",
 		"id": 1086475916203585500,
 		"id_str": "1086475916203585537",
