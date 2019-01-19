@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 10:49:19 +0000 2019",
+		"id": 1086576332526350300,
+		"id_str": "1086672253519970304",
+		"full_text": "여친이 임신했대... 뭔소리니...jpg\n\n????? https://t.co/8xywmuxIjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086576276935045100,
+					"id_str": "1086576276935045120",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DxRLXfAUcAA6PMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxRLXfAUcAA6PMZ.jpg",
+					"url": "https://t.co/8xywmuxIjF",
+					"display_url": "pic.twitter.com/8xywmuxIjF",
+					"expanded_url": "https://twitter.com/momonography/status/1086576332526350337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086576276935045100,
+					"id_str": "1086576276935045120",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DxRLXfAUcAA6PMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxRLXfAUcAA6PMZ.jpg",
+					"url": "https://t.co/8xywmuxIjF",
+					"display_url": "pic.twitter.com/8xywmuxIjF",
+					"expanded_url": "https://twitter.com/momonography/status/1086576332526350337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 437,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 775444968957587500,
+			"id_str": "775444968957587456",
+			"name": "momo is",
+			"screen_name": "momonography",
+			"location": "대한민국 부천시",
+			"description": "고양이를 부르는 남자1지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156,
+			"friends_count": 142,
+			"listed_count": 11,
+			"created_at": "Mon Sep 12 21:24:22 +0000 2016",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14475,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086221314350669829/O3RiPFyw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086221314350669829/O3RiPFyw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/775444968957587456/1542071680",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여친이 임신했대... 뭔소리니...jpg\n\n????? https://t.co/8xywmuxIjF"
+	},
+	{
+		"created_at": "Sat Jan 19 09:16:35 +0000 2019",
+		"id": 1086552992218722300,
+		"id_str": "1086672073542389760",
+		"full_text": "야 나도 정치인할래 https://t.co/DuyviBVXU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086552980982091800,
+					"id_str": "1086552980982091776",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DxQ2Le0UUAA3v0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxQ2Le0UUAA3v0Z.jpg",
+					"url": "https://t.co/DuyviBVXU8",
+					"display_url": "pic.twitter.com/DuyviBVXU8",
+					"expanded_url": "https://twitter.com/knkdhnmr_/status/1086552992218722304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086552980982091800,
+					"id_str": "1086552980982091776",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DxQ2Le0UUAA3v0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxQ2Le0UUAA3v0Z.jpg",
+					"url": "https://t.co/DuyviBVXU8",
+					"display_url": "pic.twitter.com/DuyviBVXU8",
+					"expanded_url": "https://twitter.com/knkdhnmr_/status/1086552992218722304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3014397811,
+			"id_str": "3014397811",
+			"name": "농경소녀",
+			"screen_name": "knkdhnmr_",
+			"location": "",
+			"description": "소녀시대 고양이 러브라이브(뮤즈, 아쿠아) 판빙빙 전자오락수호대 머독 등등",
+			"url": "https://t.co/31C4FnwCov",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/31C4FnwCov",
+							"expanded_url": "http://shdrudthsu.postype.com/",
+							"display_url": "shdrudthsu.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 491,
+			"friends_count": 308,
+			"listed_count": 9,
+			"created_at": "Mon Feb 09 13:24:36 +0000 2015",
+			"favourites_count": 10458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107885,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980410617516343296/aKRal9TJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980410617516343296/aKRal9TJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3014397811/1542625115",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 나도 정치인할래 https://t.co/DuyviBVXU8"
+	},
+	{
 		"created_at": "Mon Jan 14 17:52:43 +0000 2019",
 		"id": 1084870944823361500,
 		"id_str": "1086657982320959488",
