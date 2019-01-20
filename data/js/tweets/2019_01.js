@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 04:02:02 +0000 2019",
+		"id": 1086473833341538300,
+		"id_str": "1086822476011589638",
+		"full_text": "구글: 대단하다(빈정) https://t.co/GXYh1w1vCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086473825183719400,
+					"id_str": "1086473825183719424",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPuMAfV4AAFdwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPuMAfV4AAFdwx.jpg",
+					"url": "https://t.co/GXYh1w1vCj",
+					"display_url": "pic.twitter.com/GXYh1w1vCj",
+					"expanded_url": "https://twitter.com/nerfThisRabbit/status/1086473833341538304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 613,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086473825183719400,
+					"id_str": "1086473825183719424",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPuMAfV4AAFdwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPuMAfV4AAFdwx.jpg",
+					"url": "https://t.co/GXYh1w1vCj",
+					"display_url": "pic.twitter.com/GXYh1w1vCj",
+					"expanded_url": "https://twitter.com/nerfThisRabbit/status/1086473833341538304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 613,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 867279904303267800,
+			"id_str": "867279904303267840",
+			"name": "[몬덴킨트 KR] 치하야네 옴닉토끼",
+			"screen_name": "nerfThisRabbit",
+			"location": "치하야네 침대밑",
+			"description": "치하야로부터 마음을 받은 옴닉토끼. 우울증 걸린 옴닉토끼는 자폭을 즐깁니다. 주로 임벨 코어에 과부하를 걸어 폭발합니다. 일단 프로듀서인 것 같습니다.",
+			"url": "https://t.co/hoSXO9Ts0J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hoSXO9Ts0J",
+							"expanded_url": "https://ask.fm/nerfThisRabbit",
+							"display_url": "ask.fm/nerfThisRabbit",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139,
+			"friends_count": 209,
+			"listed_count": 0,
+			"created_at": "Wed May 24 07:23:37 +0000 2017",
+			"favourites_count": 3847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8042,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015884220512681984/LE3sbRuO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015884220512681984/LE3sbRuO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867279904303267840/1529840639",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글: 대단하다(빈정) https://t.co/GXYh1w1vCj"
+	},
+	{
+		"created_at": "Sat Jan 19 05:58:36 +0000 2019",
+		"id": 1086503167926296600,
+		"id_str": "1086822305911590912",
+		"full_text": "전국노래자랑 입구컷 https://t.co/FYpZI8ohl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086503157683806200,
+					"id_str": "1086503157683806208",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DxQI3YkVYAAwixC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxQI3YkVYAAwixC.jpg",
+					"url": "https://t.co/FYpZI8ohl1",
+					"display_url": "pic.twitter.com/FYpZI8ohl1",
+					"expanded_url": "https://twitter.com/hukbaeg__22/status/1086503167926296576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086503157683806200,
+					"id_str": "1086503157683806208",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DxQI3YkVYAAwixC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxQI3YkVYAAwixC.jpg",
+					"url": "https://t.co/FYpZI8ohl1",
+					"display_url": "pic.twitter.com/FYpZI8ohl1",
+					"expanded_url": "https://twitter.com/hukbaeg__22/status/1086503167926296576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081857880502853600,
+			"id_str": "1081857880502853633",
+			"name": "〈(＊´ｖ`＊)〉 꿀꽈백이",
+			"screen_name": "hukbaeg__22",
+			"location": "",
+			"description": "개꿀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 236,
+			"listed_count": 0,
+			"created_at": "Sun Jan 06 10:19:53 +0000 2019",
+			"favourites_count": 659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1459,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082208009957195776/QB6Ch7sh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082208009957195776/QB6Ch7sh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081857880502853633/1546853393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2685,
+		"favorite_count": 707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국노래자랑 입구컷 https://t.co/FYpZI8ohl1"
+	},
+	{
+		"created_at": "Fri Jan 18 04:42:57 +0000 2019",
+		"id": 1086121745612865500,
+		"id_str": "1086821894450376704",
+		"full_text": "사진상 메이드복 무나함\n트친한정X\n택비 선불5천원 가능하신분만 알티\n의상+앞치마+목장식+머리띠 구성\nM사이즈로 보시면될듯\n참여 저조하면 그냥 버림....\n추첨은 이번주 내로(~20일) https://t.co/5CdKTvrh4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086121733331988500,
+					"id_str": "1086121733331988480",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DxKt9kIVsAAvRhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxKt9kIVsAAvRhn.jpg",
+					"url": "https://t.co/5CdKTvrh4Q",
+					"display_url": "pic.twitter.com/5CdKTvrh4Q",
+					"expanded_url": "https://twitter.com/Jumal_cos/status/1086121745612865540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086121733331988500,
+					"id_str": "1086121733331988480",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DxKt9kIVsAAvRhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxKt9kIVsAAvRhn.jpg",
+					"url": "https://t.co/5CdKTvrh4Q",
+					"display_url": "pic.twitter.com/5CdKTvrh4Q",
+					"expanded_url": "https://twitter.com/Jumal_cos/status/1086121745612865540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 844854876978921500,
+			"id_str": "844854876978921472",
+			"name": "메인트 팀코모집중인 🌸주말님🌸",
+			"screen_name": "Jumal_cos",
+			"location": "",
+			"description": "❤FUB free❤\n💛이별은 블언블💛\n💚20⬆/송주말💚\n💙보정심해요.고나리X💙\n💜게임&애니&드라마좋아합니다💜\n중부권/영업대환영/욕트△/폭트O/맞팔강요X/고의오타O/\n언팔은 오류.풀려있다면 디엠이나 멘션주세요\n/공구계 @Jumal_buy\n인장. 쥰님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 140,
+			"listed_count": 3,
+			"created_at": "Thu Mar 23 10:14:34 +0000 2017",
+			"favourites_count": 6074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23523,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083006290085830656/vg8ONvnc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083006290085830656/vg8ONvnc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 859,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진상 메이드복 무나함\n트친한정X\n택비 선불5천원 가능하신분만 알티\n의상+앞치마+목장식+머리띠 구성\nM사이즈로 보시면될듯\n참여 저조하면 그냥 버림....\n추첨은 이번주 내로(~20일) https://t.co/5CdKTvrh4Q"
+	},
+	{
+		"created_at": "Fri Jan 18 10:54:54 +0000 2019",
+		"id": 1086215346938273800,
+		"id_str": "1086820995229315072",
+		"full_text": "아닠ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ푸드코너 미친놈앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ개뿜었넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/pmFwx0umy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086215338297970700,
+					"id_str": "1086215338297970689",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMDGFzU0AEtbSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMDGFzU0AEtbSs.jpg",
+					"url": "https://t.co/pmFwx0umy7",
+					"display_url": "pic.twitter.com/pmFwx0umy7",
+					"expanded_url": "https://twitter.com/killercat4747/status/1086215346938273794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086215338297970700,
+					"id_str": "1086215338297970689",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMDGFzU0AEtbSs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMDGFzU0AEtbSs.jpg",
+					"url": "https://t.co/pmFwx0umy7",
+					"display_url": "pic.twitter.com/pmFwx0umy7",
+					"expanded_url": "https://twitter.com/killercat4747/status/1086215346938273794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719542219972038700,
+			"id_str": "719542219972038661",
+			"name": "Killercat!",
+			"screen_name": "killercat4747",
+			"location": "",
+			"description": "소전 한섭UID:707028 6숙 / 하와와 19세 이과계 예체능? 고교생쟝 / 픽시브 / 취미로 그림과 만화를 그리는 지휘조무사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 494,
+			"listed_count": 9,
+			"created_at": "Mon Apr 11 15:06:48 +0000 2016",
+			"favourites_count": 38204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41035,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060297199492325376/AikO5am1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060297199492325376/AikO5am1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719542219972038661/1546781925",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아닠ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ푸드코너 미친놈앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ개뿜었넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/pmFwx0umy7"
+	},
+	{
 		"created_at": "Sat Jan 19 14:57:04 +0000 2019",
 		"id": 1086638679815155700,
 		"id_str": "1086677510283177984",
