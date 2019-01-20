@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 12:02:46 +0000 2019",
+		"id": 1086232426739773400,
+		"id_str": "1086865950660485121",
+		"full_text": "밤푸딩님 Merryweather 앨범을 구하고 있습니다. 혹시 가지고 계신 분 중 판매 의향이 있으신 분들은 DM으로 연락주시면 감사하겠습니다!! ㅠㅠ 2018년 중순부터 구하고 있었는데 매물 찾기가 힘들어 트위터에 올려봅니다\nRT해주시면 감사하겠습니다. https://t.co/oAXRZsEU8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086232150020517900,
+					"id_str": "1086232150020517888",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMSYqWU8AAcfTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMSYqWU8AAcfTb.jpg",
+					"url": "https://t.co/oAXRZsEU8u",
+					"display_url": "pic.twitter.com/oAXRZsEU8u",
+					"expanded_url": "https://twitter.com/cocoLatte_S2/status/1086232426739773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086232150020517900,
+					"id_str": "1086232150020517888",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMSYqWU8AAcfTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMSYqWU8AAcfTb.jpg",
+					"url": "https://t.co/oAXRZsEU8u",
+					"display_url": "pic.twitter.com/oAXRZsEU8u",
+					"expanded_url": "https://twitter.com/cocoLatte_S2/status/1086232426739773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028383620719730700,
+			"id_str": "1028383620719730688",
+			"name": "현솜맛 서하담",
+			"screen_name": "cocoLatte_S2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Sat Aug 11 20:52:16 +0000 2018",
+			"favourites_count": 976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084944632817930240/owfrhebI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084944632817930240/owfrhebI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028383620719730688/1545309636",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밤푸딩님 Merryweather 앨범을 구하고 있습니다. 혹시 가지고 계신 분 중 판매 의향이 있으신 분들은 DM으로 연락주시면 감사하겠습니다!! ㅠㅠ 2018년 중순부터 구하고 있었는데 매물 찾기가 힘들어 트위터에 올려봅니다\nRT해주시면 감사하겠습니다. https://t.co/oAXRZsEU8u"
+	},
+	{
+		"created_at": "Sun Jan 20 05:58:41 +0000 2019",
+		"id": 1086865577753432000,
+		"id_str": "1086865577753432064",
+		"full_text": "VR세카이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 938,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "VR세카이"
+	},
+	{
+		"created_at": "Sun Jan 20 05:18:48 +0000 2019",
+		"id": 1086855539647176700,
+		"id_str": "1086859558302015490",
+		"full_text": "#트친소\n#트친소_했는데_트친이_생겼으면_좋겠다 \n#트친소를했는데트친이생기고싶다아무도트친안해준다고할까봐무섭지만그래도돌려본다트친소 \n코스프레하는 사이버맨 대학교 홍보대사입니다! 알티 마음만 남겨주시면 무멘팔로 찾아갈께요! 일상트나 게임트가 많아요~~ https://t.co/6bBzRui7U1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트친소",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "트친소_했는데_트친이_생겼으면_좋겠다",
+					"indices": [
+						5,
+						26
+					]
+				},
+				{
+					"text": "트친소를했는데트친이생기고싶다아무도트친안해준다고할까봐무섭지만그래도돌려본다트친소",
+					"indices": [
+						28,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086855474824114200,
+					"id_str": "1086855474824114176",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVJS8MUcAAICkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVJS8MUcAAICkb.jpg",
+					"url": "https://t.co/6bBzRui7U1",
+					"display_url": "pic.twitter.com/6bBzRui7U1",
+					"expanded_url": "https://twitter.com/cos_Primaris/status/1086855539647176706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086855474824114200,
+					"id_str": "1086855474824114176",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVJS8MUcAAICkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVJS8MUcAAICkb.jpg",
+					"url": "https://t.co/6bBzRui7U1",
+					"display_url": "pic.twitter.com/6bBzRui7U1",
+					"expanded_url": "https://twitter.com/cos_Primaris/status/1086855539647176706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086855492595441700,
+					"id_str": "1086855492595441664",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVJT-ZVYAA2Cox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVJT-ZVYAA2Cox.jpg",
+					"url": "https://t.co/6bBzRui7U1",
+					"display_url": "pic.twitter.com/6bBzRui7U1",
+					"expanded_url": "https://twitter.com/cos_Primaris/status/1086855539647176706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 908,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086855516184207400,
+					"id_str": "1086855516184207360",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVJVWRVYAA3Lh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVJVWRVYAA3Lh5.jpg",
+					"url": "https://t.co/6bBzRui7U1",
+					"display_url": "pic.twitter.com/6bBzRui7U1",
+					"expanded_url": "https://twitter.com/cos_Primaris/status/1086855539647176706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086855528838357000,
+					"id_str": "1086855528838356992",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVJWFaUYAAGPhZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVJWFaUYAAGPhZ.jpg",
+					"url": "https://t.co/6bBzRui7U1",
+					"display_url": "pic.twitter.com/6bBzRui7U1",
+					"expanded_url": "https://twitter.com/cos_Primaris/status/1086855539647176706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882384442110562300,
+			"id_str": "882384442110562304",
+			"name": "(트친소 무멘팔)프머챠🌟",
+			"screen_name": "cos_Primaris",
+			"location": "",
+			"description": "Cosplayer/R6S/Destiny guardians/ @SIN_Star_15_ 우리 귀요미!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465,
+			"friends_count": 386,
+			"listed_count": 11,
+			"created_at": "Tue Jul 04 23:43:39 +0000 2017",
+			"favourites_count": 10905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12794,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086189053744078849/KlTuTvSO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086189053744078849/KlTuTvSO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882384442110562304/1546163246",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#트친소\n#트친소_했는데_트친이_생겼으면_좋겠다 \n#트친소를했는데트친이생기고싶다아무도트친안해준다고할까봐무섭지만그래도돌려본다트친소 \n코스프레하는 사이버맨 대학교 홍보대사입니다! 알티 마음만 남겨주시면 무멘팔로 찾아갈께요! 일상트나 게임트가 많아요~~ https://t.co/6bBzRui7U1"
+	},
+	{
+		"created_at": "Fri Jan 18 10:59:54 +0000 2019",
+		"id": 1086216606357704700,
+		"id_str": "1086859537682882560",
+		"full_text": "내 이럴 줄 알았다\n무한 RT바람 ㅋㅋㅋ https://t.co/oYU7t30bec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086216596345970700,
+					"id_str": "1086216596345970689",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMEPUZV4AE77lg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMEPUZV4AE77lg.jpg",
+					"url": "https://t.co/oYU7t30bec",
+					"display_url": "pic.twitter.com/oYU7t30bec",
+					"expanded_url": "https://twitter.com/everjhs/status/1086216606357704705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1416,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1141,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086216596345970700,
+					"id_str": "1086216596345970689",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DxMEPUZV4AE77lg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxMEPUZV4AE77lg.jpg",
+					"url": "https://t.co/oYU7t30bec",
+					"display_url": "pic.twitter.com/oYU7t30bec",
+					"expanded_url": "https://twitter.com/everjhs/status/1086216606357704705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1416,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1141,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109026112,
+			"id_str": "109026112",
+			"name": "y034229",
+			"screen_name": "everjhs",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1045,
+			"friends_count": 1603,
+			"listed_count": 0,
+			"created_at": "Wed Jan 27 18:57:10 +0000 2010",
+			"favourites_count": 8596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16207,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011790298094030848/6IWj20MJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011790298094030848/6IWj20MJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109026112/1530064618",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13294,
+		"favorite_count": 1577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 이럴 줄 알았다\n무한 RT바람 ㅋㅋㅋ https://t.co/oYU7t30bec"
+	},
+	{
 		"created_at": "Sat Jan 19 04:02:02 +0000 2019",
 		"id": 1086473833341538300,
 		"id_str": "1086822476011589638",
