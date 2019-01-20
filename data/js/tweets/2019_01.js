@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 20:32:49 +0000 2019",
+		"id": 1087085559267307500,
+		"id_str": "1087086936076869632",
+		"full_text": "5G에 대한 사용자 최대 우려는 '요금인상'이지..배터리나 안정성같은건 부차적인 문제고.까놓고 말해서 사용자 입장에서는 3G든 4G든 5G든 알바가 아님...\n단말기 가격은 지금도 뷁만원인데 뭐? 5G에 사용자들은 배터리나 안정성이 우위라 더 올려도 괜찮다고 생각하는건 아니겠지 ㅋ https://t.co/5K4dnEmSky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5K4dnEmSky",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1087084891152486400",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1841,
+			"friends_count": 1510,
+			"listed_count": 34,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 59072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187153,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087084891152486400,
+		"quoted_status_id_str": "1087084891152486400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5K4dnEmSky",
+			"expanded": "https://twitter.com/yonhaptweet/status/1087084891152486400",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 20 20:30:09 +0000 2019",
+			"id": 1087084891152486400,
+			"id_str": "1087084891152486400",
+			"full_text": "\"5G 스마트폰, 사용자 최대 우려는 배터리·안정성\"\nhttps://t.co/5ISrKLSMKz\n\n곧 출시를 앞둔 5G 스마트폰에 대해 사용자가 가장 우려하는 점은 배터리 사용 시간과 발열·내구성 등 안정성이라는 조사 결과가 나왔습니다 https://t.co/65FaZcxKVE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5ISrKLSMKz",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20190120011900017?input=tw",
+						"display_url": "yna.co.kr/view/AKR201901…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1087084889420161000,
+						"id_str": "1087084889420161025",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/DxYZ8oKVYAEv3xF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxYZ8oKVYAEv3xF.jpg",
+						"url": "https://t.co/65FaZcxKVE",
+						"display_url": "pic.twitter.com/65FaZcxKVE",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1087084891152486400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087084889420161000,
+						"id_str": "1087084889420161025",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/DxYZ8oKVYAEv3xF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxYZ8oKVYAEv3xF.jpg",
+						"url": "https://t.co/65FaZcxKVE",
+						"display_url": "pic.twitter.com/65FaZcxKVE",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1087084891152486400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈피] https://t.co/gHNvfJtNWt  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "http://t.co/F5rmnA27RN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F5rmnA27RN",
+								"expanded_url": "http://yonhapnews.co.kr/",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gHNvfJtNWt",
+								"expanded_url": "http://www.yonhapnews.co.kr",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									5,
+									28
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 310925,
+				"friends_count": 74908,
+				"listed_count": 4864,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 43,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 178184,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1544588845",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5G에 대한 사용자 최대 우려는 '요금인상'이지..배터리나 안정성같은건 부차적인 문제고.까놓고 말해서 사용자 입장에서는 3G든 4G든 5G든 알바가 아님...\n단말기 가격은 지금도 뷁만원인데 뭐? 5G에 사용자들은 배터리나 안정성이 우위라 더 올려도 괜찮다고 생각하는건 아니겠지 ㅋ https://t.co/5K4dnEmSky"
+	},
+	{
 		"created_at": "Sun Jan 20 17:01:22 +0000 2019",
 		"id": 1087032349718540300,
 		"id_str": "1087032349718540288",
