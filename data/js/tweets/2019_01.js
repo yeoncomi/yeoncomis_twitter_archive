@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 21:34:40 +0000 2019",
+		"id": 1087463513390370800,
+		"id_str": "1087470265926246401",
+		"full_text": "So @Apple's patent drawings are horrifying. https://t.co/ZaRCzJWd39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087428383837831200,
+					"id_str": "1087428383837831168",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DxdSWolUwAAvSiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxdSWolUwAAvSiG.jpg",
+					"url": "https://t.co/ZaRCzJWd39",
+					"display_url": "pic.twitter.com/ZaRCzJWd39",
+					"expanded_url": "https://twitter.com/LinusTech/status/1087463513390370816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087428383837831200,
+					"id_str": "1087428383837831168",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DxdSWolUwAAvSiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxdSWolUwAAvSiG.jpg",
+					"url": "https://t.co/ZaRCzJWd39",
+					"display_url": "pic.twitter.com/ZaRCzJWd39",
+					"expanded_url": "https://twitter.com/LinusTech/status/1087463513390370816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403614288,
+			"id_str": "403614288",
+			"name": "Linus Tech Tips",
+			"screen_name": "LinusTech",
+			"location": "Vancouver, BC",
+			"description": "The official Twitter of the Linus Tech Tips and Techquickie YouTube channels. Run by the entire Linus Media Group crew. https://t.co/8FxbyQga7F",
+			"url": "https://t.co/avXGSXi7Up",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/avXGSXi7Up",
+							"expanded_url": "http://www.youtube.com/LinusTechTips",
+							"display_url": "youtube.com/LinusTechTips",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8FxbyQga7F",
+							"expanded_url": "http://linustechtips.com",
+							"display_url": "linustechtips.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 769511,
+			"friends_count": 216,
+			"listed_count": 2486,
+			"created_at": "Wed Nov 02 19:04:43 +0000 2011",
+			"favourites_count": 2936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41994,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403614288/1535477488",
+			"profile_link_color": "FC5331",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So @Apple's patent drawings are horrifying. https://t.co/ZaRCzJWd39"
+	},
+	{
 		"created_at": "Mon Jan 21 17:10:59 +0000 2019",
 		"id": 1087397154681843700,
 		"id_str": "1087397154681843712",
