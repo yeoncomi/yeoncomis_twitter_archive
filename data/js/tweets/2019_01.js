@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 06:14:55 +0000 2019",
+		"id": 1087594440590450700,
+		"id_str": "1087594440590450688",
+		"full_text": "마약?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 942,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마약?"
+	},
+	{
+		"created_at": "Sun Jan 20 07:53:03 +0000 2019",
+		"id": 1086894361260904400,
+		"id_str": "1087594414417956864",
+		"full_text": "드디어 피트니스계의 어두운 부분이 서서히 수면 위로 올라오는 듯... 동종업계라 정말 레알 공감간다.. 동료들 조차 속이는 로이더들 이번 기회에 싹다 사라지기를.. #약투 #간고 #로이더 #피티 #강남피티 #강남PT #PT #근육증가 #벌크업 #보디빌더 #bodybuilder #bodybuilding #보디빌딩 #피트니스 https://t.co/SeC7b8n2kc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "약투",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "간고",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "로이더",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "피티",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "강남피티",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "강남PT",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "PT",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "근육증가",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "벌크업",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "보디빌더",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "bodybuilder",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "bodybuilding",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"text": "보디빌딩",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "피트니스",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086894346442395600,
+					"id_str": "1086894346442395648",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVspkQUUAAh9-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVspkQUUAAh9-W.jpg",
+					"url": "https://t.co/SeC7b8n2kc",
+					"display_url": "pic.twitter.com/SeC7b8n2kc",
+					"expanded_url": "https://twitter.com/PTgangnam/status/1086894361260904449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086894346442395600,
+					"id_str": "1086894346442395648",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DxVspkQUUAAh9-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxVspkQUUAAh9-W.jpg",
+					"url": "https://t.co/SeC7b8n2kc",
+					"display_url": "pic.twitter.com/SeC7b8n2kc",
+					"expanded_url": "https://twitter.com/PTgangnam/status/1086894361260904449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053924156692033500,
+			"id_str": "1053924156692033536",
+			"name": "강남P.T",
+			"screen_name": "PTgangnam",
+			"location": "Republic of Korea",
+			"description": "양성애자 / PT전문 트레이너 / 강남지역 최저가 PT / 라인 imyourpt / 불건전과 퇴폐성 문의 사양",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344,
+			"friends_count": 643,
+			"listed_count": 0,
+			"created_at": "Sun Oct 21 08:21:14 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053929118213931008/EM1oWLDm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053929118213931008/EM1oWLDm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053924156692033536/1546630435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 피트니스계의 어두운 부분이 서서히 수면 위로 올라오는 듯... 동종업계라 정말 레알 공감간다.. 동료들 조차 속이는 로이더들 이번 기회에 싹다 사라지기를.. #약투 #간고 #로이더 #피티 #강남피티 #강남PT #PT #근육증가 #벌크업 #보디빌더 #bodybuilder #bodybuilding #보디빌딩 #피트니스 https://t.co/SeC7b8n2kc"
+	},
+	{
 		"created_at": "Tue Jan 22 02:25:11 +0000 2019",
 		"id": 1087536624274104300,
 		"id_str": "1087536624274104321",
