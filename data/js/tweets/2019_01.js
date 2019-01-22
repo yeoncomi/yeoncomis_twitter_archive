@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 11:17:44 +0000 2019",
+		"id": 1087670645675049000,
+		"id_str": "1087826922040508416",
+		"full_text": "로케일 영어로 하면 다 깨져가지고 멍청이되는 보안프로그램들 뒤로 보이는 한글 잘 나오는 구라제거기 https://t.co/QUaG6R9ZOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087670318754218000,
+					"id_str": "1087670318754217984",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DxguZGYUwAAgf7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxguZGYUwAAgf7r.jpg",
+					"url": "https://t.co/QUaG6R9ZOC",
+					"display_url": "pic.twitter.com/QUaG6R9ZOC",
+					"expanded_url": "https://twitter.com/Harunene/status/1087670645675048962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087670318754218000,
+					"id_str": "1087670318754217984",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DxguZGYUwAAgf7r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxguZGYUwAAgf7r.jpg",
+					"url": "https://t.co/QUaG6R9ZOC",
+					"display_url": "pic.twitter.com/QUaG6R9ZOC",
+					"expanded_url": "https://twitter.com/Harunene/status/1087670645675048962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 551,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237322487,
+			"id_str": "237322487",
+			"name": "하루네네",
+			"screen_name": "Harunene",
+			"location": "모오던씨쁠쁠로 밥벌어먹고싶다",
+			"description": "x86 바이너리 크리에이터",
+			"url": "https://t.co/5YepPhYdVc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5YepPhYdVc",
+							"expanded_url": "http://nene.moe",
+							"display_url": "nene.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 400,
+			"listed_count": 23,
+			"created_at": "Wed Jan 12 15:46:41 +0000 2011",
+			"favourites_count": 13000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89916,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063836515418091520/wHwNfzIy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063836515418091520/wHwNfzIy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237322487/1513796379",
+			"profile_link_color": "6495ED",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로케일 영어로 하면 다 깨져가지고 멍청이되는 보안프로그램들 뒤로 보이는 한글 잘 나오는 구라제거기 https://t.co/QUaG6R9ZOC"
+	},
+	{
 		"created_at": "Mon Jan 21 13:16:38 +0000 2019",
 		"id": 1087338178199998500,
 		"id_str": "1087819427171561473",
@@ -38,7 +212,7 @@ Grailbird.data.tweets_2019_01 =
 			"name": "역보",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgAlEp",
 			"entities": {
 				"url": {
