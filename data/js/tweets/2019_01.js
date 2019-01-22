@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 08:36:23 +0000 2019",
+		"id": 1087267651074678800,
+		"id_str": "1087515226520543232",
+		"full_text": "티웨이항공 절대로 이용하지마라.\n\n캐리어 안에 든게 뭐든간에 파손된건 1주내에 보상신청해도 절대 보상안해줌.\n\n포장 전 후 촬영한 사진? 그런거 다 필요없다.\n\n상급자 통화 요청했는데 \"고객 과실이라 상급자와 통화할 수 있는 이유가 안되서 못바꿔준다\" 라고함 ㅋㅋㅋㅋㅋ\n\n개애미없는 항공사 https://t.co/I5UoO9Zrlf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087267642363207700,
+					"id_str": "1087267642363207681",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/DxbAKP7V4AEBxsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxbAKP7V4AEBxsE.jpg",
+					"url": "https://t.co/I5UoO9Zrlf",
+					"display_url": "pic.twitter.com/I5UoO9Zrlf",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1087267651074678784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087267642363207700,
+					"id_str": "1087267642363207681",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/DxbAKP7V4AEBxsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxbAKP7V4AEBxsE.jpg",
+					"url": "https://t.co/I5UoO9Zrlf",
+					"display_url": "pic.twitter.com/I5UoO9Zrlf",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1087267651074678784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, Engl",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 사진과 여행, 먹고 마시는 것이 취미, 도쿄거주 중 // 사진계 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1335,
+			"friends_count": 471,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 17351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "티웨이항공 절대로 이용하지마라.\n\n캐리어 안에 든게 뭐든간에 파손된건 1주내에 보상신청해도 절대 보상안해줌.\n\n포장 전 후 촬영한 사진? 그런거 다 필요없다.\n\n상급자 통화 요청했는데 \"고객 과실이라 상급자와 통화할 수 있는 이유가 안되서 못바꿔준다\" 라고함 ㅋㅋㅋㅋㅋ\n\n개애미없는 항공사 https://t.co/I5UoO9Zrlf"
+	},
+	{
 		"created_at": "Mon Jan 21 21:34:40 +0000 2019",
 		"id": 1087463513390370800,
 		"id_str": "1087470265926246401",
