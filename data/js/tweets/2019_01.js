@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 13:16:38 +0000 2019",
+		"id": 1087338178199998500,
+		"id_str": "1087819427171561473",
+		"full_text": "112 문자 신고 서비스 시행된게 6년쯤 되는데 여태 45자 제한이 걸려있다가 경찰청장이 해결하라고 하니까 7시간 만에 해결됐다고(…) https://t.co/m6XBISyJfz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m6XBISyJfz",
+					"expanded_url": "https://news.joins.com/article/23309855",
+					"display_url": "news.joins.com/article/233098…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134986465,
+			"id_str": "134986465",
+			"name": "역보",
+			"screen_name": "yeokbo",
+			"location": "대한민국 경기도",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"url": "https://t.co/RwhrPgAlEp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RwhrPgAlEp",
+							"expanded_url": "http://yeokbo.tistory.com",
+							"display_url": "yeokbo.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1744,
+			"friends_count": 785,
+			"listed_count": 39,
+			"created_at": "Tue Apr 20 01:17:50 +0000 2010",
+			"favourites_count": 68034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 317276,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AACBB0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857130656127741952/XBtWss3g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857130656127741952/XBtWss3g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134986465/1526134158",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "152429",
+			"profile_sidebar_fill_color": "253836",
+			"profile_text_color": "4D5D5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1585,
+		"favorite_count": 169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "112 문자 신고 서비스 시행된게 6년쯤 되는데 여태 45자 제한이 걸려있다가 경찰청장이 해결하라고 하니까 7시간 만에 해결됐다고(…) https://t.co/m6XBISyJfz"
+	},
+	{
 		"created_at": "Tue Jan 22 19:35:54 +0000 2019",
 		"id": 1087796014369497100,
 		"id_str": "1087796014369497089",
