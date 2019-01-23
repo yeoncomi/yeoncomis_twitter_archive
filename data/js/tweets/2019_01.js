@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 18:02:09 +0000 2019",
+		"id": 1087772420776161300,
+		"id_str": "1088096408123596801",
+		"full_text": "옛날계정에서 발굴\n@shiftpsh https://t.co/i2Q6O0kXyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shiftpsh",
+					"name": "시프트 / shift*",
+					"id": 179891008,
+					"id_str": "179891008",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087772411502579700,
+					"id_str": "1087772411502579713",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DxiLPrgU0AEOhMW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxiLPrgU0AEOhMW.jpg",
+					"url": "https://t.co/i2Q6O0kXyX",
+					"display_url": "pic.twitter.com/i2Q6O0kXyX",
+					"expanded_url": "https://twitter.com/RYUUSEIKANG/status/1087772420776161280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087772411502579700,
+					"id_str": "1087772411502579713",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DxiLPrgU0AEOhMW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxiLPrgU0AEOhMW.jpg",
+					"url": "https://t.co/i2Q6O0kXyX",
+					"display_url": "pic.twitter.com/i2Q6O0kXyX",
+					"expanded_url": "https://twitter.com/RYUUSEIKANG/status/1087772420776161280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 907554384002744300,
+			"id_str": "907554384002744320",
+			"name": "RYUUSEI",
+			"screen_name": "RYUUSEIKANG",
+			"location": "대한민국 성북구",
+			"description": "@melon_farming 💕",
+			"url": "https://t.co/fFGHvgItF2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fFGHvgItF2",
+							"expanded_url": "http://Ryuusei.io",
+							"display_url": "Ryuusei.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 245,
+			"listed_count": 2,
+			"created_at": "Tue Sep 12 10:40:01 +0000 2017",
+			"favourites_count": 25956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75995,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081160192471920641/x6PIa6zf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081160192471920641/x6PIa6zf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/907554384002744320/1548087419",
+			"profile_link_color": "1B2836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옛날계정에서 발굴\n@shiftpsh https://t.co/i2Q6O0kXyX"
+	},
+	{
 		"created_at": "Wed Jan 23 12:13:00 +0000 2019",
 		"id": 1088046940938358800,
 		"id_str": "1088086609319288834",
