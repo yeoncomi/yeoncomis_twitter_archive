@@ -1,6 +1,1282 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 12:13:00 +0000 2019",
+		"id": 1088046940938358800,
+		"id_str": "1088086609319288834",
+		"full_text": "윾튜브가 진짜 큰일 난 이유.. https://t.co/5hvK1R7VJj https://t.co/8LyVnz0YqP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5hvK1R7VJj",
+					"expanded_url": "https://inti.kr/pt/5970168",
+					"display_url": "inti.kr/pt/5970168",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088046927734657000,
+					"id_str": "1088046927734657029",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmE6oKUUAUrNBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmE6oKUUAUrNBI.jpg",
+					"url": "https://t.co/8LyVnz0YqP",
+					"display_url": "pic.twitter.com/8LyVnz0YqP",
+					"expanded_url": "https://twitter.com/instiz/status/1088046940938358784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088046927734657000,
+					"id_str": "1088046927734657029",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmE6oKUUAUrNBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmE6oKUUAUrNBI.jpg",
+					"url": "https://t.co/8LyVnz0YqP",
+					"display_url": "pic.twitter.com/8LyVnz0YqP",
+					"expanded_url": "https://twitter.com/instiz/status/1088046940938358784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088046927801794600,
+					"id_str": "1088046927801794562",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmE6oaUwAIOj0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmE6oaUwAIOj0c.jpg",
+					"url": "https://t.co/8LyVnz0YqP",
+					"display_url": "pic.twitter.com/8LyVnz0YqP",
+					"expanded_url": "https://twitter.com/instiz/status/1088046940938358784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 977,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088046927675969500,
+					"id_str": "1088046927675969536",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmE6n8U0AAW2ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmE6n8U0AAW2ue.jpg",
+					"url": "https://t.co/8LyVnz0YqP",
+					"display_url": "pic.twitter.com/8LyVnz0YqP",
+					"expanded_url": "https://twitter.com/instiz/status/1088046940938358784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184363884,
+			"id_str": "184363884",
+			"name": "인스티즈 연예소식",
+			"screen_name": "instiz",
+			"location": "많은 연예계 이슈가 여기서 시작!",
+			"description": "국내 최대의 연예오락 커뮤니티 인스티즈(instiz, 音思提资)",
+			"url": "https://t.co/kA7Yyj98FV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kA7Yyj98FV",
+							"expanded_url": "http://www.instiz.net",
+							"display_url": "instiz.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898705,
+			"friends_count": 412924,
+			"listed_count": 1031,
+			"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75554,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1537878306",
+			"profile_link_color": "0DAB57",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윾튜브가 진짜 큰일 난 이유.. https://t.co/5hvK1R7VJj https://t.co/8LyVnz0YqP"
+	},
+	{
+		"created_at": "Wed Jan 23 14:50:08 +0000 2019",
+		"id": 1088086486916816900,
+		"id_str": "1088086486916816896",
+		"full_text": "@owo_Yui 흐으으음... 일단 그 링크들어가면 있는 연관서비스 시작하는 배치 함 해보세요 링크안들어가지면 gist 만들어서 해드릴게여",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088086323078979600,
+		"in_reply_to_status_id_str": "1088086323078979586",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui 흐으으음... 일단 그 링크들어가면 있는 연관서비스 시작하는 배치 함 해보세요 링크안들어가지면 gist 만들어서 해드릴게여"
+	},
+	{
+		"created_at": "Wed Jan 23 14:47:25 +0000 2019",
+		"id": 1088085801563447300,
+		"id_str": "1088085801563447301",
+		"full_text": "@owo_Yui Start+R mrt 돌려보셨죠?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088085296770703400,
+		"in_reply_to_status_id_str": "1088085296770703362",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui Start+R mrt 돌려보셨죠?"
+	},
+	{
+		"created_at": "Wed Jan 23 14:44:13 +0000 2019",
+		"id": 1088084995812450300,
+		"id_str": "1088084995812450304",
+		"full_text": "@owo_Yui https://t.co/Zi8kY3S3hy\n찾긴찾았는데 mrt로 맬웨어 없애고, 배치파일로 연관 서비스 다시 시작하라고 되어있네요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zi8kY3S3hy",
+					"expanded_url": "https://support.microsoft.com/en-ca/help/2530126/0x8007042c-error-message-when-you-try-to-start-windows-firewall",
+					"display_url": "support.microsoft.com/en-ca/help/253…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088084347586961400,
+		"in_reply_to_status_id_str": "1088084347586961409",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@owo_Yui https://t.co/Zi8kY3S3hy\n찾긴찾았는데 mrt로 맬웨어 없애고, 배치파일로 연관 서비스 다시 시작하라고 되어있네요"
+	},
+	{
+		"created_at": "Wed Jan 23 14:41:06 +0000 2019",
+		"id": 1088084213654417400,
+		"id_str": "1088084213654417409",
+		"full_text": "@owo_Yui 아.....? 스샷 함 보여주실수있어요? 바이러스 감염뜬거?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088084023107149800,
+		"in_reply_to_status_id_str": "1088084023107149826",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui 아.....? 스샷 함 보여주실수있어요? 바이러스 감염뜬거?"
+	},
+	{
+		"created_at": "Wed Jan 23 14:39:50 +0000 2019",
+		"id": 1088083895461892100,
+		"id_str": "1088083895461892102",
+		"full_text": "@owo_Yui :thinking: 함 오류코드도 찾아보고해봐야할듯하네여",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088083649860255700,
+		"in_reply_to_status_id_str": "1088083649860255746",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui :thinking: 함 오류코드도 찾아보고해봐야할듯하네여"
+	},
+	{
+		"created_at": "Wed Jan 23 14:38:38 +0000 2019",
+		"id": 1088083589906890800,
+		"id_str": "1088083589906890754",
+		"full_text": "@owo_Yui 안전모드 명령프롬프트에서 sfc /scannow함 해보셔요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088083439629127700,
+		"in_reply_to_status_id_str": "1088083439629127681",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui 안전모드 명령프롬프트에서 sfc /scannow함 해보셔요"
+	},
+	{
+		"created_at": "Wed Jan 23 14:38:01 +0000 2019",
+		"id": 1088083434650529800,
+		"id_str": "1088083434650529792",
+		"full_text": "@owo_Yui 요즘은 보안이 디펜더로 통합되서시리",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088083324986306600,
+		"in_reply_to_status_id_str": "1088083324986306560",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui 요즘은 보안이 디펜더로 통합되서시리"
+	},
+	{
+		"created_at": "Wed Jan 23 14:37:18 +0000 2019",
+		"id": 1088083256556191700,
+		"id_str": "1088083256556191745",
+		"full_text": "@owo_Yui Windows Defender Firewall?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이🌸",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1088082885783957500,
+		"in_reply_to_status_id_str": "1088082885783957504",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 279,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31434,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@owo_Yui Windows Defender Firewall?"
+	},
+	{
+		"created_at": "Wed Jan 23 07:36:59 +0000 2019",
+		"id": 1087977480089206800,
+		"id_str": "1088082269162549248",
+		"full_text": "저는 어린시절 남들 다있는 닌텐도가 없이 커 왔습니다. 그 어린시절엔 어울리지 못해서 마음의 상처와 부모님을 원망했던 적도 있죠. 참 철이 없었나봐요\n\n그 철없는 아이는 커서 대기업에 취직하더니 닌텐도 스위치와 게임팩을 일시불로 긁고오는 철없는 어른이 되었습니다\n\n메데타시 메데타시 https://t.co/ZWoT6aaExb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087977471826382800,
+					"id_str": "1087977471826382848",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlFvwvW0AAFVJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlFvwvW0AAFVJO.jpg",
+					"url": "https://t.co/ZWoT6aaExb",
+					"display_url": "pic.twitter.com/ZWoT6aaExb",
+					"expanded_url": "https://twitter.com/p__RN/status/1087977480089206784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087977471826382800,
+					"id_str": "1087977471826382848",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlFvwvW0AAFVJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlFvwvW0AAFVJO.jpg",
+					"url": "https://t.co/ZWoT6aaExb",
+					"display_url": "pic.twitter.com/ZWoT6aaExb",
+					"expanded_url": "https://twitter.com/p__RN/status/1087977480089206784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2168333563,
+			"id_str": "2168333563",
+			"name": "꼬리가 귀여운 루ㄴ냥이🤔",
+			"screen_name": "p__RN",
+			"location": "",
+			"description": "어딜 보시는겁니까 그것은 저의 분신(@ITSLUNANYAN)입니다 / 인장 by 레냥이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 244,
+			"friends_count": 202,
+			"listed_count": 9,
+			"created_at": "Fri Nov 01 12:11:25 +0000 2013",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58123,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068047453205626880/iNHraXVl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068047453205626880/iNHraXVl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2168333563/1541563468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 어린시절 남들 다있는 닌텐도가 없이 커 왔습니다. 그 어린시절엔 어울리지 못해서 마음의 상처와 부모님을 원망했던 적도 있죠. 참 철이 없었나봐요\n\n그 철없는 아이는 커서 대기업에 취직하더니 닌텐도 스위치와 게임팩을 일시불로 긁고오는 철없는 어른이 되었습니다\n\n메데타시 메데타시 https://t.co/ZWoT6aaExb"
+	},
+	{
 		"created_at": "Wed Jan 23 11:24:01 +0000 2019",
 		"id": 1088034615736975400,
 		"id_str": "1088077449680773122",
