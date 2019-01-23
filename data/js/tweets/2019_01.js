@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 04:46:47 +0000 2019",
+		"id": 1087934648687181800,
+		"id_str": "1087974244103999489",
+		"full_text": "맞네 11프로ㅋㅋㅋㅋㅋ미쳤나ㅋㅋㅋㅋㅋㅋ https://t.co/8GwR9qlQTi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8GwR9qlQTi",
+					"expanded_url": "https://news.v.daum.net/v/20170929100414979",
+					"display_url": "news.v.daum.net/v/201709291004…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168481964,
+			"id_str": "168481964",
+			"name": "나랫마루",
+			"screen_name": "Naraemaru",
+			"location": "오락실, 백합꽃밭",
+			"description": "리트윗 잦음(반드시 동의의 의미는 아님) / 백합 메인 / 지뢰 거의 없음 / 리듬게임 전반(팝픈뮤직 위주), 포켓몬, 아이마스, 데레마스, 마마마, 악마의 리들, 스팀, 동방, 보카로, FLOWERS, 소전, LWA, 킬라킬, 방도리, 레뷰스타 등 #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 647,
+			"listed_count": 4,
+			"created_at": "Mon Jul 19 13:09:57 +0000 2010",
+			"favourites_count": 83782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420529,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087037181548351488/gZ4YOHwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087037181548351488/gZ4YOHwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168481964/1505403494",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맞네 11프로ㅋㅋㅋㅋㅋ미쳤나ㅋㅋㅋㅋㅋㅋ https://t.co/8GwR9qlQTi"
+	},
+	{
 		"created_at": "Wed Jan 23 07:16:02 +0000 2019",
 		"id": 1087972207853273100,
 		"id_str": "1087972207853273088",
