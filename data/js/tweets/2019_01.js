@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Dec 30 02:02:51 +0000 2018",
+		"id": 1079196084059205600,
+		"id_str": "1088189366600589312",
+		"full_text": "Follow friends and discover new ones among more than 1.6M people; Publish links, pictures, text, video. #Mastodon is free, non-commercial, decentralized, and optimized for your convenience, not advertising.\n\n📌 Sign up on any server: https://t.co/DJqwWHjlYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mastodon",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DJqwWHjlYJ",
+					"expanded_url": "http://joinmastodon.org",
+					"display_url": "joinmastodon.org",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875882643614814200,
+			"id_str": "875882643614814208",
+			"name": "Mastodon",
+			"screen_name": "MastodonProject",
+			"location": "",
+			"description": "The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with Mastodon—Try it today for free!",
+			"url": "https://t.co/ZeK9TnsVtb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZeK9TnsVtb",
+							"expanded_url": "https://joinmastodon.org",
+							"display_url": "joinmastodon.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10241,
+			"friends_count": 25,
+			"listed_count": 162,
+			"created_at": "Sat Jun 17 01:07:50 +0000 2017",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969739495926108160/ocNhxEgG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969739495926108160/ocNhxEgG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875882643614814208/1520038632",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Follow friends and discover new ones among more than 1.6M people; Publish links, pictures, text, video. #Mastodon is free, non-commercial, decentralized, and optimized for your convenience, not advertising.\n\n📌 Sign up on any server: https://t.co/DJqwWHjlYJ"
+	},
+	{
 		"created_at": "Wed Jan 23 20:01:08 +0000 2019",
 		"id": 1088164752512102400,
 		"id_str": "1088168504149213185",
