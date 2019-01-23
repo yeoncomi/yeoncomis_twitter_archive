@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 14:47:10 +0000 2019",
+		"id": 1088085740670509000,
+		"id_str": "1088140842202583040",
+		"full_text": "저는 사람은 고쳐쓰는게 아니다.\n\n라는 생각이었는데 홍탁집보고\n\n아...고쳐쓸수도 있다\n\n라고 바뀌었습니다. https://t.co/SjZEG1VSyp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SjZEG1VSyp",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850",
+					"display_url": "twitter.com/Sumire_12K/sta…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207122968,
+			"id_str": "207122968",
+			"name": "김성우",
+			"screen_name": "power0753",
+			"location": "대한민국 관악구",
+			"description": "남성과 여성이 아닌 사람으로 / 성평등주의자\n/ 페미니즘≠성평등주의 / 페미니즘=일베식여성주의/82김지영=판타지소설 / 김치녀=여성비하/한남=남성비하",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1180,
+			"friends_count": 189,
+			"listed_count": 10,
+			"created_at": "Sun Oct 24 15:33:15 +0000 2010",
+			"favourites_count": 18003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14241,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070340229007962118/vV9PYYZ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070340229007962118/vV9PYYZ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207122968/1541292810",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088084497952718800,
+		"quoted_status_id_str": "1088084497952718850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SjZEG1VSyp",
+			"expanded": "https://twitter.com/Sumire_12K/status/1088084497952718850",
+			"display": "twitter.com/Sumire_12K/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 23 14:42:14 +0000 2019",
+			"id": 1088084497952718800,
+			"id_str": "1088084497952718850",
+			"full_text": "진짜 홍탁집은 이걸 매일 한다고?? 대단하다 https://t.co/QVoeKMkGLc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088084439165415400,
+						"id_str": "1088084439165415428",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DxmnCFIVsAQcvE2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxmnCFIVsAQcvE2.jpg",
+						"url": "https://t.co/QVoeKMkGLc",
+						"display_url": "pic.twitter.com/QVoeKMkGLc",
+						"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088084439165415400,
+						"id_str": "1088084439165415428",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DxmnCFIVsAQcvE2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxmnCFIVsAQcvE2.jpg",
+						"url": "https://t.co/QVoeKMkGLc",
+						"display_url": "pic.twitter.com/QVoeKMkGLc",
+						"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1088084439186337800,
+						"id_str": "1088084439186337795",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DxmnCFNU8AMpoD8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxmnCFNU8AMpoD8.jpg",
+						"url": "https://t.co/QVoeKMkGLc",
+						"display_url": "pic.twitter.com/QVoeKMkGLc",
+						"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1088084439261835300,
+						"id_str": "1088084439261835264",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DxmnCFfU8AAyNRg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxmnCFfU8AAyNRg.jpg",
+						"url": "https://t.co/QVoeKMkGLc",
+						"display_url": "pic.twitter.com/QVoeKMkGLc",
+						"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1088084488200941600,
+						"id_str": "1088084488200941574",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/DxmnE7zUcAYf9Xf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxmnE7zUcAYf9Xf.jpg",
+						"url": "https://t.co/QVoeKMkGLc",
+						"display_url": "pic.twitter.com/QVoeKMkGLc",
+						"expanded_url": "https://twitter.com/Sumire_12K/status/1088084497952718850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 232113411,
+				"id_str": "232113411",
+				"name": "Sumire🔞",
+				"screen_name": "Sumire_12K",
+				"location": "Kor/Jpn 👌🏽",
+				"description": "Profic : @SeeUmai / Header : @SD_BigPie\n\nYes, Saiga-12",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2401,
+				"friends_count": 480,
+				"listed_count": 34,
+				"created_at": "Thu Dec 30 08:09:15 +0000 2010",
+				"favourites_count": 33635,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 187515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061663350860341248/62kIvt_b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061663350860341248/62kIvt_b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/232113411/1547300100",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 961,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 102,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 사람은 고쳐쓰는게 아니다.\n\n라는 생각이었는데 홍탁집보고\n\n아...고쳐쓸수도 있다\n\n라고 바뀌었습니다. https://t.co/SjZEG1VSyp"
+	},
+	{
 		"created_at": "Wed Jan 23 18:16:23 +0000 2019",
 		"id": 1088138392049569800,
 		"id_str": "1088138392049569793",
