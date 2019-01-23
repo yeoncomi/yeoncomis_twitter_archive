@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 02:11:48 +0000 2019",
+		"id": 1086808481284337700,
+		"id_str": "1087930243581706242",
+		"full_text": "치석제거 ASMR이라며,,,,.. https://t.co/3Dt9nZT5cT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086808448942010400,
+					"id_str": "1086808448942010368",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUehrIU8AADxnK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUehrIU8AADxnK.jpg",
+					"url": "https://t.co/3Dt9nZT5cT",
+					"display_url": "pic.twitter.com/3Dt9nZT5cT",
+					"expanded_url": "https://twitter.com/jujumijerk/status/1086808481284337665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086808448942010400,
+					"id_str": "1086808448942010368",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUehrIU8AADxnK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUehrIU8AADxnK.jpg",
+					"url": "https://t.co/3Dt9nZT5cT",
+					"display_url": "pic.twitter.com/3Dt9nZT5cT",
+					"expanded_url": "https://twitter.com/jujumijerk/status/1086808481284337665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086808455455756300,
+					"id_str": "1086808455455756288",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUeiDZU0AATBFV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUeiDZU0AATBFV.jpg",
+					"url": "https://t.co/3Dt9nZT5cT",
+					"display_url": "pic.twitter.com/3Dt9nZT5cT",
+					"expanded_url": "https://twitter.com/jujumijerk/status/1086808481284337665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086808463273934800,
+					"id_str": "1086808463273934848",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUeighUwAAGj7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUeighUwAAGj7z.jpg",
+					"url": "https://t.co/3Dt9nZT5cT",
+					"display_url": "pic.twitter.com/3Dt9nZT5cT",
+					"expanded_url": "https://twitter.com/jujumijerk/status/1086808481284337665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086808472472084500,
+					"id_str": "1086808472472084481",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUejCyVYAEbPH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUejCyVYAEbPH2.jpg",
+					"url": "https://t.co/3Dt9nZT5cT",
+					"display_url": "pic.twitter.com/3Dt9nZT5cT",
+					"expanded_url": "https://twitter.com/jujumijerk/status/1086808481284337665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859031362036052000,
+			"id_str": "859031362036051968",
+			"name": "🍇커미션 SilSel🍇",
+			"screen_name": "jujumijerk",
+			"location": "💕규나씰쌜482일!💕",
+			"description": "인외랑 자캐 파는(퍼리제외) 만애과 휴학생, 섹트폭트리트윗 오조오억개합니다. 우울증이 예전보다 많이 완화되엇서요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 64,
+			"listed_count": 3,
+			"created_at": "Mon May 01 13:06:51 +0000 2017",
+			"favourites_count": 23687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051032910441013248/xbk15j-M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051032910441013248/xbk15j-M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859031362036051968/1539420923",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7716,
+		"favorite_count": 1372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "치석제거 ASMR이라며,,,,.. https://t.co/3Dt9nZT5cT"
+	},
+	{
 		"created_at": "Wed Jan 23 03:24:10 +0000 2019",
 		"id": 1087913855131430900,
 		"id_str": "1087919375997329408",
