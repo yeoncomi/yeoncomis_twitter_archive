@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 16:37:04 +0000 2019",
+		"id": 1088113396162199600,
+		"id_str": "1088116187538444288",
+		"full_text": "https://t.co/AGCAAAkXrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088113376499257300,
+					"id_str": "1088113376499257344",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnBWdGW0AA66s8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnBWdGW0AA66s8.jpg",
+					"url": "https://t.co/AGCAAAkXrF",
+					"display_url": "pic.twitter.com/AGCAAAkXrF",
+					"expanded_url": "https://twitter.com/HumansOfLate/status/1088113396162199553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088113376499257300,
+					"id_str": "1088113376499257344",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnBWdGW0AA66s8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnBWdGW0AA66s8.jpg",
+					"url": "https://t.co/AGCAAAkXrF",
+					"display_url": "pic.twitter.com/AGCAAAkXrF",
+					"expanded_url": "https://twitter.com/HumansOfLate/status/1088113396162199553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818488898418602000,
+			"id_str": "818488898418601984",
+			"name": "Humans of Late Capitalism 🕊️",
+			"screen_name": "HumansOfLate",
+			"location": "IG @HumansOfLate",
+			"description": "#humansoflatecapitalism  business inquiries: latecapitalism.official@gmail.com",
+			"url": "https://t.co/WH15tGt1SK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WH15tGt1SK",
+							"expanded_url": "https://www.facebook.com/HumansOfLateCapitalism",
+							"display_url": "facebook.com/HumansOfLateCa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261709,
+			"friends_count": 1,
+			"listed_count": 1181,
+			"created_at": "Mon Jan 09 16:05:35 +0000 2017",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7842,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077515812183908352/of72ql1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077515812183908352/of72ql1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818488898418601984/1517003084",
+			"profile_link_color": "6000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/AGCAAAkXrF"
+	},
+	{
 		"created_at": "Tue Jan 22 18:02:09 +0000 2019",
 		"id": 1087772420776161300,
 		"id_str": "1088096408123596801",
