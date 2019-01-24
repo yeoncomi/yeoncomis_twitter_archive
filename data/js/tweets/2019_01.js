@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 20:04:08 +0000 2019",
+		"id": 1088527894349938700,
+		"id_str": "1088528160671420416",
+		"full_text": "Ottawa launches pilot project to boost immigration in rural, northern Canada https://t.co/OkBTIUQj0X @GlobePolitics https://t.co/ucbEBgepkh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "globepolitics",
+					"name": "Globe Politics",
+					"id": 16423797,
+					"id_str": "16423797",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OkBTIUQj0X",
+					"expanded_url": "http://dlvr.it/QxQ6hy",
+					"display_url": "dlvr.it/QxQ6hy",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088527892558934000,
+					"id_str": "1088527892558934016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxs6WdwUcAAlA5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxs6WdwUcAAlA5Z.jpg",
+					"url": "https://t.co/ucbEBgepkh",
+					"display_url": "pic.twitter.com/ucbEBgepkh",
+					"expanded_url": "https://twitter.com/globeandmail/status/1088527894349938689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088527892558934000,
+					"id_str": "1088527892558934016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxs6WdwUcAAlA5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxs6WdwUcAAlA5Z.jpg",
+					"url": "https://t.co/ucbEBgepkh",
+					"display_url": "pic.twitter.com/ucbEBgepkh",
+					"expanded_url": "https://twitter.com/globeandmail/status/1088527894349938689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1742045,
+			"friends_count": 556,
+			"listed_count": 14199,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 446715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ottawa launches pilot project to boost immigration in rural, northern Canada https://t.co/OkBTIUQj0X @GlobePolitics https://t.co/ucbEBgepkh"
+	},
+	{
+		"created_at": "Thu Jan 24 02:30:57 +0000 2019",
+		"id": 1088262852731793400,
+		"id_str": "1088519007903174656",
+		"full_text": "\"네이버, 일부 동성애 커뮤니티 '이상성애' 분류…검색어 제외\" https://t.co/wFKDiVpm86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wFKDiVpm86",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20190123125900017",
+					"display_url": "yna.co.kr/view/AKR201901…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/TVpHRh058J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TVpHRh058J",
+							"expanded_url": "http://jongwon1917.tistory.com/",
+							"display_url": "jongwon1917.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2599,
+			"friends_count": 1166,
+			"listed_count": 36,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 48584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23554,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"네이버, 일부 동성애 커뮤니티 '이상성애' 분류…검색어 제외\" https://t.co/wFKDiVpm86"
+	},
+	{
 		"created_at": "Thu Jan 24 18:13:57 +0000 2019",
 		"id": 1088500163965042700,
 		"id_str": "1088502794259070978",
