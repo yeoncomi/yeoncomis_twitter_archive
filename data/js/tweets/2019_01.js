@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 07:27:08 +0000 2019",
+		"id": 1087975000764751900,
+		"id_str": "1088273502233288704",
+		"full_text": "아니 그건 허리보호대구요 https://t.co/ilKx58PV2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087974984524488700,
+					"id_str": "1087974984524488707",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlDe-0X4AMhXa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlDe-0X4AMhXa3.jpg",
+					"url": "https://t.co/ilKx58PV2t",
+					"display_url": "pic.twitter.com/ilKx58PV2t",
+					"expanded_url": "https://twitter.com/justformine_/status/1087975000764751872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 662,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087974984524488700,
+					"id_str": "1087974984524488707",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlDe-0X4AMhXa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlDe-0X4AMhXa3.jpg",
+					"url": "https://t.co/ilKx58PV2t",
+					"display_url": "pic.twitter.com/ilKx58PV2t",
+					"expanded_url": "https://twitter.com/justformine_/status/1087975000764751872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 662,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073662360378851300,
+			"id_str": "1073662360378851328",
+			"name": "우볼계",
+			"screen_name": "justformine_",
+			"location": "",
+			"description": "혼자보려고판계정인데님들도보고싶어요? 깔깔짤만올리는거아닌데?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12650,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Fri Dec 14 19:33:49 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 544,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8891,
+		"favorite_count": 1701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 그건 허리보호대구요 https://t.co/ilKx58PV2t"
+	},
+	{
+		"created_at": "Thu Jan 24 03:07:12 +0000 2019",
+		"id": 1088271973250097200,
+		"id_str": "1088271973250097152",
+		"full_text": "이베이 구매목록을 보면 항상 후회된다.\n왜그럴까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이베이 구매목록을 보면 항상 후회된다.\n왜그럴까"
+	},
+	{
+		"created_at": "Wed Jan 23 13:35:48 +0000 2019",
+		"id": 1088067779394134000,
+		"id_str": "1088270758340526080",
+		"full_text": "미친 빌드퀄리티가 너무 후잡해서 흑백처리한 거 같은데 한눈으로 봐도 진짜 너무한다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/BYJRxbXIo6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088067695352803300,
+					"id_str": "1088067695352803329",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmXzdkU8AELfMQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmXzdkU8AELfMQ.jpg",
+					"url": "https://t.co/BYJRxbXIo6",
+					"display_url": "pic.twitter.com/BYJRxbXIo6",
+					"expanded_url": "https://twitter.com/Kakun88/status/1088067779394134018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088067695352803300,
+					"id_str": "1088067695352803329",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmXzdkU8AELfMQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmXzdkU8AELfMQ.jpg",
+					"url": "https://t.co/BYJRxbXIo6",
+					"display_url": "pic.twitter.com/BYJRxbXIo6",
+					"expanded_url": "https://twitter.com/Kakun88/status/1088067779394134018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1088067778030923800,
+		"in_reply_to_status_id_str": "1088067778030923776",
+		"in_reply_to_user_id": 80762157,
+		"in_reply_to_user_id_str": "80762157",
+		"in_reply_to_screen_name": "Kakun88",
+		"user": {
+			"id": 80762157,
+			"id_str": "80762157",
+			"name": "[카군] 나만 내 최애 못 찍어 (커미션 0/2)",
+			"screen_name": "Kakun88",
+			"location": "미시로 미디어시티 C동 B104호 노동조합실",
+			"description": "MAKE PENTAX GREAT AGAIN // 중부권 거주중. 사진사+글쟁이 / 포트폴리오는 모먼트 참조 / 뉴제네 미오 최애 / 커미션 받는중(열린 슬롯 0/2개) / 뒷계 @kakun88_19",
+			"url": "https://t.co/0G7568nnY1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0G7568nnY1",
+							"expanded_url": "http://jeunstar.postype.com/",
+							"display_url": "jeunstar.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1605,
+			"friends_count": 966,
+			"listed_count": 22,
+			"created_at": "Thu Oct 08 04:09:18 +0000 2009",
+			"favourites_count": 94807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992029948993978368/8KHJ9zwb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992029948993978368/8KHJ9zwb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80762157/1524321774",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친 빌드퀄리티가 너무 후잡해서 흑백처리한 거 같은데 한눈으로 봐도 진짜 너무한다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/BYJRxbXIo6"
+	},
+	{
+		"created_at": "Wed Jan 23 13:35:48 +0000 2019",
+		"id": 1088067778030923800,
+		"id_str": "1088270423903502342",
+		"full_text": "https://t.co/dDdoSzk6Mc 이거 좀 너무 심한거 아냐? 차라리 용산 가서 중고 노트북 사는게 싸겠다. 용산 전자랜드에 싹 다 부품 리퍼비시한 X220이 35만원임. 그거 배터리 신품만 끼워놓음 5시간이고 하판에 추가로 붙이면 11시간임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dDdoSzk6Mc",
+					"expanded_url": "https://www.wadiz.kr/web/campaign/detail/29032",
+					"display_url": "wadiz.kr/web/campaign/d…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80762157,
+			"id_str": "80762157",
+			"name": "[카군] 나만 내 최애 못 찍어 (커미션 0/2)",
+			"screen_name": "Kakun88",
+			"location": "미시로 미디어시티 C동 B104호 노동조합실",
+			"description": "MAKE PENTAX GREAT AGAIN // 중부권 거주중. 사진사+글쟁이 / 포트폴리오는 모먼트 참조 / 뉴제네 미오 최애 / 커미션 받는중(열린 슬롯 0/2개) / 뒷계 @kakun88_19",
+			"url": "https://t.co/0G7568nnY1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0G7568nnY1",
+							"expanded_url": "http://jeunstar.postype.com/",
+							"display_url": "jeunstar.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1605,
+			"friends_count": 966,
+			"listed_count": 22,
+			"created_at": "Thu Oct 08 04:09:18 +0000 2009",
+			"favourites_count": 94807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992029948993978368/8KHJ9zwb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992029948993978368/8KHJ9zwb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80762157/1524321774",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/dDdoSzk6Mc 이거 좀 너무 심한거 아냐? 차라리 용산 가서 중고 노트북 사는게 싸겠다. 용산 전자랜드에 싹 다 부품 리퍼비시한 X220이 35만원임. 그거 배터리 신품만 끼워놓음 5시간이고 하판에 추가로 붙이면 11시간임."
+	},
+	{
+		"created_at": "Thu Jan 24 02:36:07 +0000 2019",
+		"id": 1088264151363858400,
+		"id_str": "1088264151363858432",
+		"full_text": "마티즈 자동변속 컨버티블 자율주행차량",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|유학중이라서 트위터 잘 못합니다 |이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 945,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 21395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마티즈 자동변속 컨버티블 자율주행차량"
+	},
+	{
+		"created_at": "Thu Jan 24 01:59:06 +0000 2019",
+		"id": 1088254837257494500,
+		"id_str": "1088262634640617477",
+		"full_text": "내가 2019년에 본것중 제일 사탄에 가까운 사람이다... 토나올것갓음\n\nhttps://t.co/BkQIx46oJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BkQIx46oJE",
+					"expanded_url": "https://news.v.daum.net/v/20190124064155911",
+					"display_url": "news.v.daum.net/v/201901240641…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 984427016,
+			"id_str": "984427016",
+			"name": "스킬북님⛄",
+			"screen_name": "_S_K_B",
+			"location": "",
+			"description": "미미~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 792,
+			"friends_count": 289,
+			"listed_count": 15,
+			"created_at": "Sun Dec 02 11:22:34 +0000 2012",
+			"favourites_count": 6479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 275197,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878315500496863234/ez9sf9cr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878315500496863234/ez9sf9cr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/984427016/1463929390",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 2019년에 본것중 제일 사탄에 가까운 사람이다... 토나올것갓음\n\nhttps://t.co/BkQIx46oJE"
+	},
+	{
 		"created_at": "Tue Jan 22 10:33:14 +0000 2019",
 		"id": 1087659446371639300,
 		"id_str": "1088239156000522240",
