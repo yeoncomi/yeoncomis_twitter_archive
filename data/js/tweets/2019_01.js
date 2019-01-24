@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 04:55:42 +0000 2019",
+		"id": 1088299277753843700,
+		"id_str": "1088299371962068993",
+		"full_text": "☭☭☭☭☭ https://t.co/GvElCPtZl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088299274964688900,
+					"id_str": "1088299274964688897",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DxpqbK2V4AEVnpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxpqbK2V4AEVnpe.jpg",
+					"url": "https://t.co/GvElCPtZl1",
+					"display_url": "pic.twitter.com/GvElCPtZl1",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1088299277753843713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088299274964688900,
+					"id_str": "1088299274964688897",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DxpqbK2V4AEVnpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxpqbK2V4AEVnpe.jpg",
+					"url": "https://t.co/GvElCPtZl1",
+					"display_url": "pic.twitter.com/GvElCPtZl1",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1088299277753843713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4495381942,
+			"id_str": "4495381942",
+			"name": "석사 찰싹 대회 챔피언",
+			"screen_name": "milanesanapolin",
+			"location": "",
+			"description": "비밀결사단 문사철",
+			"url": "https://t.co/5ivyjzFd1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ivyjzFd1i",
+							"expanded_url": "http://soviet.com",
+							"display_url": "soviet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 488,
+			"listed_count": 41,
+			"created_at": "Tue Dec 15 19:54:09 +0000 2015",
+			"favourites_count": 21190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158355,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081195222288068609/b9gFncAe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081195222288068609/b9gFncAe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4495381942/1516852931",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☭☭☭☭☭ https://t.co/GvElCPtZl1"
+	},
+	{
+		"created_at": "Thu Jan 24 04:27:16 +0000 2019",
+		"id": 1088292122367733800,
+		"id_str": "1088292430149906432",
+		"full_text": "자기 사진 , 몸매 사진 프로필 = 저 이런사람입니다. 관심있으면 섹스하실래요?\n\n여친 사진 = 저 이런 사람이랑 섹스했습니다.\n\n야 아무리봐도 제일클린한건 애니프사 야겜프사다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 973833509835067400,
+			"id_str": "973833509835067392",
+			"name": "검은배",
+			"screen_name": "paul9377",
+			"location": "대한민국 진주시",
+			"description": "야겜이랑 E스포츠 좋아합니다 🤗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 177,
+			"listed_count": 8,
+			"created_at": "Wed Mar 14 08:09:36 +0000 2018",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49182,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083263773715001344/aIG3OJ0g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083263773715001344/aIG3OJ0g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/973833509835067392/1548295055",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자기 사진 , 몸매 사진 프로필 = 저 이런사람입니다. 관심있으면 섹스하실래요?\n\n여친 사진 = 저 이런 사람이랑 섹스했습니다.\n\n야 아무리봐도 제일클린한건 애니프사 야겜프사다"
+	},
+	{
 		"created_at": "Thu Jan 24 03:44:22 +0000 2019",
 		"id": 1088281329773563900,
 		"id_str": "1088281329773563904",
