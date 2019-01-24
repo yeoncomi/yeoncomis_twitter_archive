@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 18:13:57 +0000 2019",
+		"id": 1088500163965042700,
+		"id_str": "1088502794259070978",
+		"full_text": "Did we ever get confirmation that Microsoft Office on the Mac App Store is subject to the normal 70/30 In-App Purchase terms? https://t.co/zuCfkYGLUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088500158776700900,
+					"id_str": "1088500158776700928",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DxshIJXXcAAjjJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxshIJXXcAAjjJe.jpg",
+					"url": "https://t.co/zuCfkYGLUP",
+					"display_url": "pic.twitter.com/zuCfkYGLUP",
+					"expanded_url": "https://twitter.com/bzamayo/status/1088500163965042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1384,
+							"h": 1612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088500158776700900,
+					"id_str": "1088500158776700928",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DxshIJXXcAAjjJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxshIJXXcAAjjJe.jpg",
+					"url": "https://t.co/zuCfkYGLUP",
+					"display_url": "pic.twitter.com/zuCfkYGLUP",
+					"expanded_url": "https://twitter.com/bzamayo/status/1088500163965042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1384,
+							"h": 1612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167398227,
+			"id_str": "167398227",
+			"name": "Benjamin Mayo",
+			"screen_name": "bzamayo",
+			"location": "UK",
+			"description": "iOS developer, Apple blogger. Available for dev work: me@benjaminmayo.co.uk. Read me on @MayoBlog and @9to5Mac.",
+			"url": "https://t.co/QKtsVcp5Is",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QKtsVcp5Is",
+							"expanded_url": "http://benjaminmayo.co.uk",
+							"display_url": "benjaminmayo.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12887,
+			"friends_count": 114,
+			"listed_count": 486,
+			"created_at": "Fri Jul 16 13:54:14 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42641,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792027112689590272/YC6y24Lk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792027112689590272/YC6y24Lk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167398227/1468957630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did we ever get confirmation that Microsoft Office on the Mac App Store is subject to the normal 70/30 In-App Purchase terms? https://t.co/zuCfkYGLUP"
+	},
+	{
 		"created_at": "Thu Jan 24 17:54:56 +0000 2019",
 		"id": 1088495381296627700,
 		"id_str": "1088495381296627713",
