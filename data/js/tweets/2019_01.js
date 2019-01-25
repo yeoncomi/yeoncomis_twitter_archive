@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 16:24:28 +0000 2019",
+		"id": 1088472613293158400,
+		"id_str": "1088619447500234752",
+		"full_text": "스스로의 힘으로 살아남는 것이 파크의 규칙임을 깨닿고야 만 서벌 https://t.co/aWSamRX2tS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088472220857331700,
+					"id_str": "1088472220857331712",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsHt8gU8AAOYtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsHt8gU8AAOYtI.jpg",
+					"url": "https://t.co/aWSamRX2tS",
+					"display_url": "pic.twitter.com/aWSamRX2tS",
+					"expanded_url": "https://twitter.com/Nec092/status/1088472613293158400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 1720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 419,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 237,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088472220857331700,
+					"id_str": "1088472220857331712",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsHt8gU8AAOYtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsHt8gU8AAOYtI.jpg",
+					"url": "https://t.co/aWSamRX2tS",
+					"display_url": "pic.twitter.com/aWSamRX2tS",
+					"expanded_url": "https://twitter.com/Nec092/status/1088472613293158400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 1720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 419,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 237,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225255113,
+			"id_str": "225255113",
+			"name": "Nec",
+			"screen_name": "Nec092",
+			"location": "Bright Falls",
+			"description": "\"수억개의 별들, 그만큼의 이야기들 아래서, 우리 둘은 어색한 침묵에 빠졌다.\" Profile pic : Styx form Full Metal Furies by @kangdanista\n#Girls_can_do_anything",
+			"url": "https://t.co/oneH34OrIX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oneH34OrIX",
+							"expanded_url": "http://applejack.tistory.com/",
+							"display_url": "applejack.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468,
+			"friends_count": 942,
+			"listed_count": 26,
+			"created_at": "Sat Dec 11 03:30:53 +0000 2010",
+			"favourites_count": 23415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968360681476186113/ZyuZRe-L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968360681476186113/ZyuZRe-L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225255113/1402846965",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스스로의 힘으로 살아남는 것이 파크의 규칙임을 깨닿고야 만 서벌 https://t.co/aWSamRX2tS"
+	},
+	{
 		"created_at": "Fri Jan 25 01:16:20 +0000 2019",
 		"id": 1088606460345344000,
 		"id_str": "1088606460345344000",
