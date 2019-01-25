@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 20:29:13 +0000 2019",
+		"id": 1088896592973680600,
+		"id_str": "1088897727113551872",
+		"full_text": "Hawaiian Air flight bound for New York diverted after flight attendant dies https://t.co/yJMpX9M7ki https://t.co/3iak4bFxe5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJMpX9M7ki",
+					"expanded_url": "http://dlvr.it/QxVD8T",
+					"display_url": "dlvr.it/QxVD8T",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088896590205485000,
+					"id_str": "1088896590205485056",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DxyJrfhVAAAV580.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxyJrfhVAAAV580.jpg",
+					"url": "https://t.co/3iak4bFxe5",
+					"display_url": "pic.twitter.com/3iak4bFxe5",
+					"expanded_url": "https://twitter.com/globeandmail/status/1088896592973680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088896590205485000,
+					"id_str": "1088896590205485056",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DxyJrfhVAAAV580.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxyJrfhVAAAV580.jpg",
+					"url": "https://t.co/3iak4bFxe5",
+					"display_url": "pic.twitter.com/3iak4bFxe5",
+					"expanded_url": "https://twitter.com/globeandmail/status/1088896592973680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1742212,
+			"friends_count": 556,
+			"listed_count": 14196,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 446846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hawaiian Air flight bound for New York diverted after flight attendant dies https://t.co/yJMpX9M7ki https://t.co/3iak4bFxe5"
+	},
+	{
 		"created_at": "Fri Jan 25 17:08:22 +0000 2019",
 		"id": 1088846046921351200,
 		"id_str": "1088846046921351168",
