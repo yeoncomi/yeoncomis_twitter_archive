@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 19:37:59 +0000 2019",
+		"id": 1088158924874776600,
+		"id_str": "1088676687808622592",
+		"full_text": "the entire internet today https://t.co/4qg8GQjgAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088158770583105500,
+					"id_str": "1088158770583105538",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnqovPU8AIj7Pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnqovPU8AIj7Pl.jpg",
+					"url": "https://t.co/4qg8GQjgAS",
+					"display_url": "pic.twitter.com/4qg8GQjgAS",
+					"expanded_url": "https://twitter.com/ColsBols/status/1088158924874776576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1012,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1012,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088158770583105500,
+					"id_str": "1088158770583105538",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnqovPU8AIj7Pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnqovPU8AIj7Pl.jpg",
+					"url": "https://t.co/4qg8GQjgAS",
+					"display_url": "pic.twitter.com/4qg8GQjgAS",
+					"expanded_url": "https://twitter.com/ColsBols/status/1088158924874776576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1012,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1012,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33653473,
+			"id_str": "33653473",
+			"name": "Colin Taylor, interim president of Venezuela",
+			"screen_name": "ColsBols",
+			"location": "Los Angeles, CA",
+			"description": "Managing Editor @occupydemocrats Writer, Democratic Socialist🌹, Expert in Russian Dipset measures from the Knutson Institute, free palestine #HTTR he/him",
+			"url": "https://t.co/Vz5cy5jfid",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vz5cy5jfid",
+							"expanded_url": "http://washingtonpress.com",
+							"display_url": "washingtonpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5923,
+			"friends_count": 5545,
+			"listed_count": 93,
+			"created_at": "Mon Apr 20 20:37:05 +0000 2009",
+			"favourites_count": 85626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083551473525346305/9hIpnsez_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083551473525346305/9hIpnsez_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33653473/1547537504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fbd6d2f5a4e4a15e",
+			"url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+			"place_type": "admin",
+			"name": "California",
+			"full_name": "California, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-124.482003,
+							32.528832
+						],
+						[
+							-114.131212,
+							32.528832
+						],
+						[
+							-114.131212,
+							42.009519
+						],
+						[
+							-124.482003,
+							42.009519
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2880,
+		"favorite_count": 8126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the entire internet today https://t.co/4qg8GQjgAS"
+	},
+	{
 		"created_at": "Fri Jan 25 04:28:50 +0000 2019",
 		"id": 1088654906033086500,
 		"id_str": "1088654906033086464",
