@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 23:27:26 +0000 2019",
+		"id": 1088579058227503100,
+		"id_str": "1088649234365132800",
+		"full_text": "..아아....이것은 띄어쓰기란 것이다.. https://t.co/cApiUGfiZo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088578829205950500,
+					"id_str": "1088578829205950464",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DxtorXjU0AAUL_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxtorXjU0AAUL_2.jpg",
+					"url": "https://t.co/cApiUGfiZo",
+					"display_url": "pic.twitter.com/cApiUGfiZo",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1088579058227503105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088578829205950500,
+					"id_str": "1088578829205950464",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DxtorXjU0AAUL_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxtorXjU0AAUL_2.jpg",
+					"url": "https://t.co/cApiUGfiZo",
+					"display_url": "pic.twitter.com/cApiUGfiZo",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1088579058227503105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Mesa Prime",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "무려 프라임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 457,
+			"friends_count": 163,
+			"listed_count": 6,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 29096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28647,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088040300688302080/kk_uQ-dz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088040300688302080/kk_uQ-dz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1546414255",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "..아아....이것은 띄어쓰기란 것이다.. https://t.co/cApiUGfiZo"
+	},
+	{
 		"created_at": "Fri Jan 25 02:27:44 +0000 2019",
 		"id": 1088624430098436100,
 		"id_str": "1088624430098436096",
