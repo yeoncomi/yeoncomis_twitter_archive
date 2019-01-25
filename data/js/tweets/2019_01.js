@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 05:49:39 +0000 2019",
+		"id": 1088312854762074100,
+		"id_str": "1088704262807277573",
+		"full_text": "사직서 막줄갑 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/aBR5qUCX7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088312835459825700,
+					"id_str": "1088312835459825664",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxp2wfoUwAAB8Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxp2wfoUwAAB8Me.jpg",
+					"url": "https://t.co/aBR5qUCX7I",
+					"display_url": "pic.twitter.com/aBR5qUCX7I",
+					"expanded_url": "https://twitter.com/Xia_Ri/status/1088312854762074118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088312835459825700,
+					"id_str": "1088312835459825664",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxp2wfoUwAAB8Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxp2wfoUwAAB8Me.jpg",
+					"url": "https://t.co/aBR5qUCX7I",
+					"display_url": "pic.twitter.com/aBR5qUCX7I",
+					"expanded_url": "https://twitter.com/Xia_Ri/status/1088312854762074118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088312852216074200,
+					"id_str": "1088312852216074241",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxp2xeDU0AE4CRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxp2xeDU0AE4CRt.jpg",
+					"url": "https://t.co/aBR5qUCX7I",
+					"display_url": "pic.twitter.com/aBR5qUCX7I",
+					"expanded_url": "https://twitter.com/Xia_Ri/status/1088312854762074118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1369,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 704864377824915500,
+			"id_str": "704864377824915456",
+			"name": "한소루",
+			"screen_name": "Xia_Ri",
+			"location": "",
+			"description": "아이마스 / 철권 TEKKEN7 / GBF / FGO / 애니 겜 가리지않고 다 좋아해요!/ 잡소리 많이해영! / 배틀코드: Sol#3956 / 스팀:HanSoRu / 헤더:텐요님! / 맞팔은멘션 주세여! / FUB FREE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Wed Mar 02 03:02:18 +0000 2016",
+			"favourites_count": 4768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11917,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082958174913585152/3v3EsiVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082958174913585152/3v3EsiVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/704864377824915456/1493735511",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17625,
+		"favorite_count": 4533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사직서 막줄갑 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/aBR5qUCX7I"
+	},
+	{
+		"created_at": "Fri Jan 25 07:34:45 +0000 2019",
+		"id": 1088701691527082000,
+		"id_str": "1088701825958567936",
+		"full_text": "Nazi blueprint for North American Holocaust acquired by Canada archive https://t.co/X1TeT8dY8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X1TeT8dY8e",
+					"expanded_url": "https://trib.al/4MQCSUX",
+					"display_url": "trib.al/4MQCSUX",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7510258,
+			"friends_count": 1083,
+			"listed_count": 58756,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 500536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1542013526",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nazi blueprint for North American Holocaust acquired by Canada archive https://t.co/X1TeT8dY8e"
+	},
+	{
 		"created_at": "Fri Jan 25 06:48:05 +0000 2019",
 		"id": 1088689947790299100,
 		"id_str": "1088689947790299136",
