@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 11:11:13 +0000 2019",
+		"id": 1088756169420636200,
+		"id_str": "1088983541176619009",
+		"full_text": "SI 도량형은 원래 숫자와 단위 사이를 띄어쓰는건데 띄어쓰기 없는 나라라 포토샾으로 지웠다고 우기는 그 분들 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/cc97OhYPrn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088755893066358800,
+					"id_str": "1088755893066358784",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwJt11VYAAqXYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwJt11VYAAqXYj.jpg",
+					"url": "https://t.co/cc97OhYPrn",
+					"display_url": "pic.twitter.com/cc97OhYPrn",
+					"expanded_url": "https://twitter.com/Hayasynth/status/1088756169420636160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088755893066358800,
+					"id_str": "1088755893066358784",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwJt11VYAAqXYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwJt11VYAAqXYj.jpg",
+					"url": "https://t.co/cc97OhYPrn",
+					"display_url": "pic.twitter.com/cc97OhYPrn",
+					"expanded_url": "https://twitter.com/Hayasynth/status/1088756169420636160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1088755900985180200,
+					"id_str": "1088755900985180160",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwJuTVVAAAC9iI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwJuTVVAAAC9iI.jpg",
+					"url": "https://t.co/cc97OhYPrn",
+					"display_url": "pic.twitter.com/cc97OhYPrn",
+					"expanded_url": "https://twitter.com/Hayasynth/status/1088756169420636160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 301,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1404,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266451987,
+			"id_str": "266451987",
+			"name": "추워서 하야꽁❄@VRC",
+			"screen_name": "Hayasynth",
+			"location": "グリフィン&クルーガー東京支部第一指揮所",
+			"description": "東京在住1年目\n\n少女前線ビリビリ 0サーバー [UID:479264]\n\nたまにドルフロマンガを翻訳してアップロードします。\n\nHTC VIVE\n\n오자반 ok!\n\n얘 애인님임 ➡️ @BlackPoloDress",
+			"url": "https://t.co/X4yXpfhIow",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X4yXpfhIow",
+							"expanded_url": "http://www.grifon-kryuger.com/",
+							"display_url": "grifon-kryuger.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1567,
+			"friends_count": 588,
+			"listed_count": 22,
+			"created_at": "Tue Mar 15 07:36:22 +0000 2011",
+			"favourites_count": 6056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 372440,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072274791153917952/Se_PYv6G_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072274791153917952/Se_PYv6G_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266451987/1536998556",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SI 도량형은 원래 숫자와 단위 사이를 띄어쓰는건데 띄어쓰기 없는 나라라 포토샾으로 지웠다고 우기는 그 분들 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/cc97OhYPrn"
+	},
+	{
 		"created_at": "Fri Jan 25 18:13:12 +0000 2019",
 		"id": 1088862366429634600,
 		"id_str": "1088955341109321729",
