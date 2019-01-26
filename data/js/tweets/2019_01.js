@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 18:13:12 +0000 2019",
+		"id": 1088862366429634600,
+		"id_str": "1088955341109321729",
+		"full_text": "돌았넼ㅋㅋㅋㅋㅋ 2등이랑 격차도 봐봐 https://t.co/Ctbw92qvl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088862360494694400,
+					"id_str": "1088862360494694400",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DxxqjD6UYAAHXo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxxqjD6UYAAHXo9.jpg",
+					"url": "https://t.co/Ctbw92qvl5",
+					"display_url": "pic.twitter.com/Ctbw92qvl5",
+					"expanded_url": "https://twitter.com/kojandy/status/1088862366429634561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088862360494694400,
+					"id_str": "1088862360494694400",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DxxqjD6UYAAHXo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxxqjD6UYAAHXo9.jpg",
+					"url": "https://t.co/Ctbw92qvl5",
+					"display_url": "pic.twitter.com/Ctbw92qvl5",
+					"expanded_url": "https://twitter.com/kojandy/status/1088862366429634561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62485454,
+			"id_str": "62485454",
+			"name": "코잔디",
+			"screen_name": "kojandy",
+			"location": "대한민국 경기도",
+			"description": "[1437575426, ∞)",
+			"url": "https://t.co/6u21N2FJRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6u21N2FJRf",
+							"expanded_url": "http://kojandy.com/",
+							"display_url": "kojandy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 1115,
+			"listed_count": 10,
+			"created_at": "Mon Aug 03 10:31:03 +0000 2009",
+			"favourites_count": 43467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190128,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879738495916322817/TBfQ94Nj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879738495916322817/TBfQ94Nj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62485454/1452780521",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돌았넼ㅋㅋㅋㅋㅋ 2등이랑 격차도 봐봐 https://t.co/Ctbw92qvl5"
+	},
+	{
 		"created_at": "Fri Jan 25 03:43:00 +0000 2019",
 		"id": 1088643372716253200,
 		"id_str": "1088953934016737280",
