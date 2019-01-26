@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 03:43:00 +0000 2019",
+		"id": 1088643372716253200,
+		"id_str": "1088953934016737280",
+		"full_text": "인플루엔자성 뇌증이라고 해서... 균이 뇌를 침입하여 나타나는 이상증상으로 생각하고 있습니다. 초반에는 타미플루 부작용인 줄 알았는데 타미플루 미복용군에서도 이런 증상이 다수 나타났기 때문입니다. https://t.co/u3mNV6hLAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u3mNV6hLAU",
+					"expanded_url": "https://twitter.com/Caraming/status/1088641891770413056",
+					"display_url": "twitter.com/Caraming/statu…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150751035,
+			"id_str": "150751035",
+			"name": "밀파크(ミル・パク)",
+			"screen_name": "Mill_0",
+			"location": "Mill Park",
+			"description": "M. KMD/千早P/アイマス/반도리(한)/이벤터\n맞팔은 팔로 후 신청한 사람 한정으로 받습니다.\nフォロー後あいさつする人だけ返し",
+			"url": "https://t.co/ThL46l38lf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ThL46l38lf",
+							"expanded_url": "http://mythmill.egloos.com",
+							"display_url": "mythmill.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1261,
+			"friends_count": 812,
+			"listed_count": 26,
+			"created_at": "Tue Jun 01 18:41:37 +0000 2010",
+			"favourites_count": 20362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 259066,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088053026063974400/VPIdVMOB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088053026063974400/VPIdVMOB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150751035/1522520088",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088641891770413000,
+		"quoted_status_id_str": "1088641891770413056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u3mNV6hLAU",
+			"expanded": "https://twitter.com/Caraming/status/1088641891770413056",
+			"display": "twitter.com/Caraming/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 03:37:07 +0000 2019",
+			"id": 1088641891770413000,
+			"id_str": "1088641891770413056",
+			"full_text": "갑자기 존나 무서워지는데요 https://t.co/gCZVTxLaka",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088641840843092000,
+						"id_str": "1088641840843091969",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxuh_IMUcAEnsvJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxuh_IMUcAEnsvJ.jpg",
+						"url": "https://t.co/gCZVTxLaka",
+						"display_url": "pic.twitter.com/gCZVTxLaka",
+						"expanded_url": "https://twitter.com/Caraming/status/1088641891770413056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 641,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1059,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088641840843092000,
+						"id_str": "1088641840843091969",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxuh_IMUcAEnsvJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxuh_IMUcAEnsvJ.jpg",
+						"url": "https://t.co/gCZVTxLaka",
+						"display_url": "pic.twitter.com/gCZVTxLaka",
+						"expanded_url": "https://twitter.com/Caraming/status/1088641891770413056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 641,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1059,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1088641862821244900,
+						"id_str": "1088641862821244928",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DxuiAaEUcAAofn8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxuiAaEUcAAofn8.jpg",
+						"url": "https://t.co/gCZVTxLaka",
+						"display_url": "pic.twitter.com/gCZVTxLaka",
+						"expanded_url": "https://twitter.com/Caraming/status/1088641891770413056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 992,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 920479974263464000,
+				"id_str": "920479974263463936",
+				"name": "카라미/カラミ@日本1/26~30",
+				"screen_name": "Caraming",
+				"location": "",
+				"description": "韓国人/真壁瑞希大好き/",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 446,
+				"listed_count": 2,
+				"created_at": "Wed Oct 18 02:41:42 +0000 2017",
+				"favourites_count": 2952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11389,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087860151707590656/Zvf7d2cB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087860151707590656/Zvf7d2cB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/920479974263463936/1535603278",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5657,
+			"favorite_count": 976,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 9603,
+		"favorite_count": 1120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인플루엔자성 뇌증이라고 해서... 균이 뇌를 침입하여 나타나는 이상증상으로 생각하고 있습니다. 초반에는 타미플루 부작용인 줄 알았는데 타미플루 미복용군에서도 이런 증상이 다수 나타났기 때문입니다. https://t.co/u3mNV6hLAU"
+	},
+	{
 		"created_at": "Fri Jan 25 20:29:13 +0000 2019",
 		"id": 1088896592973680600,
 		"id_str": "1088897727113551872",
