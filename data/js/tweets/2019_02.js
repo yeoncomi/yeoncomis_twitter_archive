@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 06:07:54 +0000 2019",
+		"id": 1091216551217311700,
+		"id_str": "1091248040256581632",
+		"full_text": "日, 김복동할머니 영결식에 ＂대사관 위엄 침해 시 국제협약 위반＂ (출처 : MBC | 네이버 뉴스) https://t.co/VrcJfCwki0\n\n얘네들 뇌 속의 국제협약이니 국제법이니는 실체가 있긴 하냐? 전설의 일본 1군같은 존재같은데?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VrcJfCwki0",
+					"expanded_url": "http://naver.me/xgYrDvCs",
+					"display_url": "naver.me/xgYrDvCs",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82482294,
+			"id_str": "82482294",
+			"name": "Wk",
+			"screen_name": "light_gr",
+			"location": "",
+			"description": "안경은 언제나 옳다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 524,
+			"friends_count": 194,
+			"listed_count": 2,
+			"created_at": "Wed Oct 14 23:15:43 +0000 2009",
+			"favourites_count": 5875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67520,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843177487676846080/zum4qX0u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843177487676846080/zum4qX0u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/82482294/1460467648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "日, 김복동할머니 영결식에 ＂대사관 위엄 침해 시 국제협약 위반＂ (출처 : MBC | 네이버 뉴스) https://t.co/VrcJfCwki0\n\n얘네들 뇌 속의 국제협약이니 국제법이니는 실체가 있긴 하냐? 전설의 일본 1군같은 존재같은데?"
+	},
+	{
+		"created_at": "Fri Feb 01 08:01:45 +0000 2019",
+		"id": 1091245204433076200,
+		"id_str": "1091245204433076225",
+		"full_text": "@hibiyasleep 머리칼 예뻐요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "종이",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1091243770660548600,
+		"in_reply_to_status_id_str": "1091243770660548609",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 978,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep 머리칼 예뻐요"
+	},
+	{
+		"created_at": "Fri Feb 01 07:32:02 +0000 2019",
+		"id": 1091237725624197100,
+		"id_str": "1091239686691991552",
+		"full_text": "아침에도 세워진 트럭을 봤지만 귀찮아서 그냥 지나갔는데 여태까지 세워져 있더라구요?\n\n설날 기념품 발송해 드리겠습니다! https://t.co/54tZMcwlax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091237717218779100,
+					"id_str": "1091237717218779136",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTa7BRVYAAfdoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTa7BRVYAAfdoH.jpg",
+					"url": "https://t.co/54tZMcwlax",
+					"display_url": "pic.twitter.com/54tZMcwlax",
+					"expanded_url": "https://twitter.com/harist12321/status/1091237725624197120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 1390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091237717218779100,
+					"id_str": "1091237717218779136",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTa7BRVYAAfdoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTa7BRVYAAfdoH.jpg",
+					"url": "https://t.co/54tZMcwlax",
+					"display_url": "pic.twitter.com/54tZMcwlax",
+					"expanded_url": "https://twitter.com/harist12321/status/1091237725624197120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 1390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2265021955,
+			"id_str": "2265021955",
+			"name": "harist",
+			"screen_name": "harist12321",
+			"location": "",
+			"description": "퓨어쿨립의 사람\n기타도라 철권 여행 맛집",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 165,
+			"listed_count": 2,
+			"created_at": "Fri Dec 27 22:46:03 +0000 2013",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19858,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498257737944276992/KBiiL6n7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498257737944276992/KBiiL6n7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2265021955/1407625318",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아침에도 세워진 트럭을 봤지만 귀찮아서 그냥 지나갔는데 여태까지 세워져 있더라구요?\n\n설날 기념품 발송해 드리겠습니다! https://t.co/54tZMcwlax"
+	},
+	{
+		"created_at": "Fri Jan 25 07:27:04 +0000 2019",
+		"id": 1088699761136418800,
+		"id_str": "1091235812413366272",
+		"full_text": "Einstein meets Pythagoras https://t.co/IBjZCDSGlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088699755851669500,
+					"id_str": "1088699755851669504",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvWqOaX4AAtx63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvWqOaX4AAtx63.jpg",
+					"url": "https://t.co/IBjZCDSGlX",
+					"display_url": "pic.twitter.com/IBjZCDSGlX",
+					"expanded_url": "https://twitter.com/memecrashes/status/1088699761136418816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088699755851669500,
+					"id_str": "1088699755851669504",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvWqOaX4AAtx63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvWqOaX4AAtx63.jpg",
+					"url": "https://t.co/IBjZCDSGlX",
+					"display_url": "pic.twitter.com/IBjZCDSGlX",
+					"expanded_url": "https://twitter.com/memecrashes/status/1088699761136418816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1035856038912827400,
+			"id_str": "1035856038912827392",
+			"name": "A meme page to check every time MatLab crashes",
+			"screen_name": "memecrashes",
+			"location": "",
+			"description": "Send your best Physics, Maths and Chemistry memes by DM 📲👌💯👍💢😂😂💢 We only own the content we sign.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16983,
+			"friends_count": 94,
+			"listed_count": 32,
+			"created_at": "Sat Sep 01 11:44:59 +0000 2018",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 711,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035894197805633536/nLQiQBdp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035894197805633536/nLQiQBdp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1035856038912827392/1541190672",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 1151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Einstein meets Pythagoras https://t.co/IBjZCDSGlX"
+	},
+	{
 		"created_at": "Fri Feb 01 05:37:01 +0000 2019",
 		"id": 1091208781705269200,
 		"id_str": "1091209289081868289",
