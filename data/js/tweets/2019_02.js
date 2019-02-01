@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 17:58:27 +0000 2019",
+		"id": 1091395369664172000,
+		"id_str": "1091395633838051328",
+		"full_text": "Tim Hortons co-founder Ron Joyce has died. https://t.co/VWMrSUCHOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VWMrSUCHOh",
+					"expanded_url": "https://twitter.com/i/events/1091393494810161152",
+					"display_url": "twitter.com/i/events/10913…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3873984133,
+			"id_str": "3873984133",
+			"name": "Twitter Moments Canada",
+			"screen_name": "CanadaMoments",
+			"location": "Toronto, Ontario",
+			"description": "The best of what’s happening on Twitter in an instant.",
+			"url": "https://t.co/nYOx6qThjk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nYOx6qThjk",
+							"expanded_url": "https://about.twitter.com/company/moments-guidelines",
+							"display_url": "about.twitter.com/company/moment…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39089,
+			"friends_count": 12,
+			"listed_count": 370,
+			"created_at": "Mon Oct 12 22:07:20 +0000 2015",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715225650156716033/PDBxLv_l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715225650156716033/PDBxLv_l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3873984133/1459358221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tim Hortons co-founder Ron Joyce has died. https://t.co/VWMrSUCHOh"
+	},
+	{
+		"created_at": "Fri Feb 01 12:36:35 +0000 2019",
+		"id": 1091314369223245800,
+		"id_str": "1091395373812277248",
+		"full_text": "트창들 빨리 롯데월드가셈 https://t.co/37qV0NeIR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091314355948290000,
+					"id_str": "1091314355948290048",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DyUgn-yVAAApvtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyUgn-yVAAApvtw.jpg",
+					"url": "https://t.co/37qV0NeIR0",
+					"display_url": "pic.twitter.com/37qV0NeIR0",
+					"expanded_url": "https://twitter.com/NEW_ENVRNMNT/status/1091314369223245831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091314355948290000,
+					"id_str": "1091314355948290048",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DyUgn-yVAAApvtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyUgn-yVAAApvtw.jpg",
+					"url": "https://t.co/37qV0NeIR0",
+					"display_url": "pic.twitter.com/37qV0NeIR0",
+					"expanded_url": "https://twitter.com/NEW_ENVRNMNT/status/1091314369223245831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091314365658099700,
+					"id_str": "1091314365658099712",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DyUgoi9U8AA7Lgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyUgoi9U8AA7Lgj.jpg",
+					"url": "https://t.co/37qV0NeIR0",
+					"display_url": "pic.twitter.com/37qV0NeIR0",
+					"expanded_url": "https://twitter.com/NEW_ENVRNMNT/status/1091314369223245831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 183,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 183,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716795040358473700,
+			"id_str": "716795040358473729",
+			"name": "SHIRAM💚🐾",
+			"screen_name": "NEW_ENVRNMNT",
+			"location": "Respect for RoughSketch",
+			"description": "♥♥♥RoughSketch♥♥♥/SDVX Lv18 AAA+ Master",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 650,
+			"listed_count": 8,
+			"created_at": "Mon Apr 04 01:10:29 +0000 2016",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16980,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089492161932886016/_N6wNK2M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089492161932886016/_N6wNK2M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716795040358473729/1540306751",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4559,
+		"favorite_count": 838,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트창들 빨리 롯데월드가셈 https://t.co/37qV0NeIR0"
+	},
+	{
+		"created_at": "Sat Jan 26 22:17:59 +0000 2019",
+		"id": 1089286354075172900,
+		"id_str": "1091393210209918976",
+		"full_text": "#hootsuitelife https://t.co/X8rZuqDJ0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hootsuitelife",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089286352749813800,
+					"id_str": "1089286352749813760",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx3sKqJVYAA2Mdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx3sKqJVYAA2Mdj.jpg",
+					"url": "https://t.co/X8rZuqDJ0m",
+					"display_url": "pic.twitter.com/X8rZuqDJ0m",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1089286354075172864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089286352749813800,
+					"id_str": "1089286352749813760",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx3sKqJVYAA2Mdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx3sKqJVYAA2Mdj.jpg",
+					"url": "https://t.co/X8rZuqDJ0m",
+					"display_url": "pic.twitter.com/X8rZuqDJ0m",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1089286354075172864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 980,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31672,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#hootsuitelife https://t.co/X8rZuqDJ0m"
+	},
+	{
 		"created_at": "Fri Feb 01 16:55:14 +0000 2019",
 		"id": 1091379460744478700,
 		"id_str": "1091380875273547776",
