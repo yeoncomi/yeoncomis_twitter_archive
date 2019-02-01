@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 05:37:01 +0000 2019",
+		"id": 1091208781705269200,
+		"id_str": "1091209289081868289",
+		"full_text": "시위대가 실탄사격맞구 죽었는데 카메라는 외국지도자나 찍구있음\n\n이거 어디서 많이본건데...... https://t.co/ybYgdfoGIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091208542885797900,
+					"id_str": "1091208542885797888",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTAY2aUYAAYkXQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTAY2aUYAAYkXQ.jpg",
+					"url": "https://t.co/ybYgdfoGIP",
+					"display_url": "pic.twitter.com/ybYgdfoGIP",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1091208781705269248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091208542885797900,
+					"id_str": "1091208542885797888",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTAY2aUYAAYkXQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTAY2aUYAAYkXQ.jpg",
+					"url": "https://t.co/ybYgdfoGIP",
+					"display_url": "pic.twitter.com/ybYgdfoGIP",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1091208781705269248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091208736675221500,
+					"id_str": "1091208736675221505",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTAkIVUUAEAQut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTAkIVUUAEAQut.jpg",
+					"url": "https://t.co/ybYgdfoGIP",
+					"display_url": "pic.twitter.com/ybYgdfoGIP",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1091208781705269248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1091208403064483800,
+		"in_reply_to_status_id_str": "1091208403064483840",
+		"in_reply_to_user_id": 4495381942,
+		"in_reply_to_user_id_str": "4495381942",
+		"in_reply_to_screen_name": "milanesanapolin",
+		"user": {
+			"id": 4495381942,
+			"id_str": "4495381942",
+			"name": "석사 찰싹 대회 챔피언",
+			"screen_name": "milanesanapolin",
+			"location": "",
+			"description": "비밀결사단 문사철",
+			"url": "https://t.co/5ivyjzFd1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ivyjzFd1i",
+							"expanded_url": "http://soviet.com",
+							"display_url": "soviet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 487,
+			"listed_count": 0,
+			"created_at": "Tue Dec 15 19:54:09 +0000 2015",
+			"favourites_count": 21179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158486,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081195222288068609/b9gFncAe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081195222288068609/b9gFncAe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4495381942/1516852931",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시위대가 실탄사격맞구 죽었는데 카메라는 외국지도자나 찍구있음\n\n이거 어디서 많이본건데...... https://t.co/ybYgdfoGIP"
+	},
+	{
 		"created_at": "Wed Jan 30 15:51:48 +0000 2019",
 		"id": 1090638721521578000,
 		"id_str": "1091200293092483073",
