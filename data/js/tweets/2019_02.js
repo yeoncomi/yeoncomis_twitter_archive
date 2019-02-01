@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 20:49:03 +0000 2019",
+		"id": 1091438301997875200,
+		"id_str": "1091438705003249664",
+		"full_text": "Please join us in sharing condolences to the Joyce family, following the passing of our co-founder, Ronald V. Joyce. https://t.co/ZfTSwj1Sk3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091438300068483100,
+					"id_str": "1091438300068483075",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWRWenWkAMz7nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWRWenWkAMz7nO.jpg",
+					"url": "https://t.co/ZfTSwj1Sk3",
+					"display_url": "pic.twitter.com/ZfTSwj1Sk3",
+					"expanded_url": "https://twitter.com/TimHortons/status/1091438301997875200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091438300068483100,
+					"id_str": "1091438300068483075",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWRWenWkAMz7nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWRWenWkAMz7nO.jpg",
+					"url": "https://t.co/ZfTSwj1Sk3",
+					"display_url": "pic.twitter.com/ZfTSwj1Sk3",
+					"expanded_url": "https://twitter.com/TimHortons/status/1091438301997875200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382177545,
+			"id_str": "382177545",
+			"name": "Tim Hortons",
+			"screen_name": "TimHortons",
+			"location": "Canada",
+			"description": "The official Tim Hortons Twitter Page, where we keep our tweets always fresh. For French language, follow @chezTimHortons. In the US, follow @TimHortonsUS.",
+			"url": "https://t.co/Zr8GkhC0TW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zr8GkhC0TW",
+							"expanded_url": "http://www.timhortons.com",
+							"display_url": "timhortons.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647312,
+			"friends_count": 5163,
+			"listed_count": 1216,
+			"created_at": "Thu Sep 29 16:27:51 +0000 2011",
+			"favourites_count": 15650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0D0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984164198778159104/9f5QYYqm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984164198778159104/9f5QYYqm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382177545/1546438930",
+			"profile_link_color": "575352",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join us in sharing condolences to the Joyce family, following the passing of our co-founder, Ronald V. Joyce. https://t.co/ZfTSwj1Sk3"
+	},
+	{
 		"created_at": "Fri Feb 01 17:58:27 +0000 2019",
 		"id": 1091395369664172000,
 		"id_str": "1091395633838051328",
