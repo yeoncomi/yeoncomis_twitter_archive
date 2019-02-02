@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 06:23:21 +0000 2019",
+		"id": 1091220439626469400,
+		"id_str": "1091546049582227457",
+		"full_text": "넷플 번역 중에 제일 띠용했던거 https://t.co/YKgEcjDl72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091220430470279200,
+					"id_str": "1091220430470279169",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTLMzHUcAEh7Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTLMzHUcAEh7Lp.jpg",
+					"url": "https://t.co/YKgEcjDl72",
+					"display_url": "pic.twitter.com/YKgEcjDl72",
+					"expanded_url": "https://twitter.com/pin_uu6/status/1091220439626469376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1692,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091220430470279200,
+					"id_str": "1091220430470279169",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DyTLMzHUcAEh7Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyTLMzHUcAEh7Lp.jpg",
+					"url": "https://t.co/YKgEcjDl72",
+					"display_url": "pic.twitter.com/YKgEcjDl72",
+					"expanded_url": "https://twitter.com/pin_uu6/status/1091220439626469376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1692,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064493906807578600,
+			"id_str": "1064493906807578624",
+			"name": "핀",
+			"screen_name": "pin_uu6",
+			"location": "",
+			"description": "🐹",
+			"url": "https://t.co/iXx8MxKbA2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXx8MxKbA2",
+							"expanded_url": "http://twpf.jp/pin_uu6",
+							"display_url": "twpf.jp/pin_uu6",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 39,
+			"listed_count": 1,
+			"created_at": "Mon Nov 19 12:21:39 +0000 2018",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 524,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087196636927819776/89ritjz4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087196636927819776/89ritjz4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064493906807578624/1548395197",
+			"profile_link_color": "FF2424",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 785,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플 번역 중에 제일 띠용했던거 https://t.co/YKgEcjDl72"
+	},
+	{
 		"created_at": "Sat Feb 02 02:22:13 +0000 2019",
 		"id": 1091522146155749400,
 		"id_str": "1091522146155749378",
