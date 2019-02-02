@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 20:01:48 +0000 2019",
+		"id": 1091426408507887600,
+		"id_str": "1091789138146148352",
+		"full_text": "#NewProfilePic throwback edition. Your turn! https://t.co/lH2vMHrYPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewProfilePic",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091426400475717600,
+					"id_str": "1091426400475717632",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWGh1LWoAAPG5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWGh1LWoAAPG5g.jpg",
+					"url": "https://t.co/lH2vMHrYPE",
+					"display_url": "pic.twitter.com/lH2vMHrYPE",
+					"expanded_url": "https://twitter.com/Twitter/status/1091426408507887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 783,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091426400475717600,
+					"id_str": "1091426400475717632",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWGh1LWoAAPG5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWGh1LWoAAPG5g.jpg",
+					"url": "https://t.co/lH2vMHrYPE",
+					"display_url": "pic.twitter.com/lH2vMHrYPE",
+					"expanded_url": "https://twitter.com/Twitter/status/1091426408507887616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 783,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783214,
+			"id_str": "783214",
+			"name": "Twitter",
+			"screen_name": "Twitter",
+			"location": "Everywhere",
+			"description": "What’s happening?!",
+			"url": "https://t.co/TAXQpsHa5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAXQpsHa5X",
+							"expanded_url": "https://about.twitter.com/",
+							"display_url": "about.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55902659,
+			"friends_count": 140,
+			"listed_count": 91341,
+			"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+			"favourites_count": 5607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091426331408109568/9hi3jKiU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091426331408109568/9hi3jKiU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1537558537",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4698,
+		"favorite_count": 34635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NewProfilePic throwback edition. Your turn! https://t.co/lH2vMHrYPE"
+	},
+	{
 		"created_at": "Fri Feb 01 06:23:21 +0000 2019",
 		"id": 1091220439626469400,
 		"id_str": "1091546049582227457",
