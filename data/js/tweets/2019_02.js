@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 02 20:57:35 +0000 2019",
+		"id": 1091802835631583200,
+		"id_str": "1091813110434869248",
+		"full_text": "요약하자면\n\n1. 실권이 없었던 규정 제정자 계층\n2. 각자의 이해관계가 존재할 수밖에 없었던 시스템 (IRC 등)\n3. 급격히 유입된 위키 시스템에 대한 이해가 전무한 유저\n\n이 3가지 요소로 인해서 현재의 나무위키 시스템이 만들어졌다는 겁니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1091802834595569700,
+		"in_reply_to_status_id_str": "1091802834595569664",
+		"in_reply_to_user_id": 196005432,
+		"in_reply_to_user_id_str": "196005432",
+		"in_reply_to_screen_name": "zlzleking",
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 16,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1621,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074638477533167616/JW9AacOd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074638477533167616/JW9AacOd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1479070339",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요약하자면\n\n1. 실권이 없었던 규정 제정자 계층\n2. 각자의 이해관계가 존재할 수밖에 없었던 시스템 (IRC 등)\n3. 급격히 유입된 위키 시스템에 대한 이해가 전무한 유저\n\n이 3가지 요소로 인해서 현재의 나무위키 시스템이 만들어졌다는 겁니다."
+	},
+	{
+		"created_at": "Sat Feb 02 20:57:35 +0000 2019",
+		"id": 1091802834595569700,
+		"id_str": "1091813101752573952",
+		"full_text": "나무위키가 나온 지 햇수로 4년째가 되었습니다.\n\n지난 시간동안 제가 했던 생각을 정리해 보았습니다. (좀 길어요)\nhttps://t.co/xKKUSZiqT8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xKKUSZiqT8",
+					"expanded_url": "https://bbs.librewiki.net/freeboard/200584",
+					"display_url": "bbs.librewiki.net/freeboard/2005…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 16,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1621,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074638477533167616/JW9AacOd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074638477533167616/JW9AacOd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1479070339",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나무위키가 나온 지 햇수로 4년째가 되었습니다.\n\n지난 시간동안 제가 했던 생각을 정리해 보았습니다. (좀 길어요)\nhttps://t.co/xKKUSZiqT8"
+	},
+	{
 		"created_at": "Fri Feb 01 20:01:48 +0000 2019",
 		"id": 1091426408507887600,
 		"id_str": "1091789138146148352",
