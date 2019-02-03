@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 05:10:33 +0000 2019",
+		"id": 1091926893899612200,
+		"id_str": "1091939727932968960",
+		"full_text": "아들: 아빠 저 입양된 거에요?\n아버지: 미친놈아 내가 니같은 놈을 입양하겠냐 https://t.co/ixsMaOJpu2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091926886047830000,
+					"id_str": "1091926886047830021",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DydNt7OUUAUXTCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DydNt7OUUAUXTCU.jpg",
+					"url": "https://t.co/ixsMaOJpu2",
+					"display_url": "pic.twitter.com/ixsMaOJpu2",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1091926893899612160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 939,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091926886047830000,
+					"id_str": "1091926886047830021",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DydNt7OUUAUXTCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DydNt7OUUAUXTCU.jpg",
+					"url": "https://t.co/ixsMaOJpu2",
+					"display_url": "pic.twitter.com/ixsMaOJpu2",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1091926893899612160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 939,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "레딧 r/memes에서 가져온 신선한 미국 밈 짤방(Meme)을 전해드립니다. (본계는 @sal_fermentum)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 324,
+			"friends_count": 1,
+			"listed_count": 4,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091190403380916224/DEol3bcX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091190403380916224/DEol3bcX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1548995040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아들: 아빠 저 입양된 거에요?\n아버지: 미친놈아 내가 니같은 놈을 입양하겠냐 https://t.co/ixsMaOJpu2"
+	},
+	{
 		"created_at": "Sun Feb 03 02:28:24 +0000 2019",
 		"id": 1091886090741411800,
 		"id_str": "1091886090741411841",
