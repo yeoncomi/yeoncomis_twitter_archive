@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 01:47:18 +0000 2019",
+		"id": 1091875747646455800,
+		"id_str": "1091953300721655808",
+		"full_text": "이 교회는 1부, 3부, 3.1425926535897932... 부 예배가 있네 https://t.co/bb9PVtXeiw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091875734178619400,
+					"id_str": "1091875734178619393",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DycfMfqV4AE-nQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DycfMfqV4AE-nQZ.jpg",
+					"url": "https://t.co/bb9PVtXeiw",
+					"display_url": "pic.twitter.com/bb9PVtXeiw",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1091875747646455808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091875734178619400,
+					"id_str": "1091875734178619393",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DycfMfqV4AE-nQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DycfMfqV4AE-nQZ.jpg",
+					"url": "https://t.co/bb9PVtXeiw",
+					"display_url": "pic.twitter.com/bb9PVtXeiw",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1091875747646455808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179891008,
+			"id_str": "179891008",
+			"name": "시프트 / shift*",
+			"screen_name": "shiftpsh",
+			"location": "바닐라",
+			"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, '모펀' 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊",
+			"url": "https://t.co/KKdZ63KnmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKdZ63KnmY",
+							"expanded_url": "https://shift.moe",
+							"display_url": "shift.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RNmbjyXMBU",
+							"expanded_url": "http://sft.sh/works",
+							"display_url": "sft.sh/works",
+							"indices": [
+								69,
+								92
+							]
+						},
+						{
+							"url": "https://t.co/3hg2iNSCMZ",
+							"expanded_url": "http://sft.sh/ask",
+							"display_url": "sft.sh/ask",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1933,
+			"friends_count": 717,
+			"listed_count": 18,
+			"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+			"favourites_count": 23222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64242,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954741412368596993/ngohXveL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954741412368596993/ngohXveL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1539972946",
+			"profile_link_color": "FF7784",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 교회는 1부, 3부, 3.1425926535897932... 부 예배가 있네 https://t.co/bb9PVtXeiw"
+	},
+	{
+		"created_at": "Sat Feb 02 14:09:00 +0000 2019",
+		"id": 1091700012055228400,
+		"id_str": "1091952911586742272",
+		"full_text": "🇨🇦 No, Syrian refugees in Canada do not receive Can$5,580 per month for food https://t.co/HvXcIFRd1j https://t.co/7xMRkoGvty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HvXcIFRd1j",
+					"expanded_url": "http://u.afp.com/RefugeeFoodAssistance",
+					"display_url": "u.afp.com/RefugeeFoodAss…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1091394629184950300,
+					"id_str": "1091394629184950273",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DyVpof5WkAE9RnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyVpof5WkAE9RnR.jpg",
+					"url": "https://t.co/7xMRkoGvty",
+					"display_url": "pic.twitter.com/7xMRkoGvty",
+					"expanded_url": "https://twitter.com/AFPFactCheck/status/1091700012055228416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1680,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091394629184950300,
+					"id_str": "1091394629184950273",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DyVpof5WkAE9RnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyVpof5WkAE9RnR.jpg",
+					"url": "https://t.co/7xMRkoGvty",
+					"display_url": "pic.twitter.com/7xMRkoGvty",
+					"expanded_url": "https://twitter.com/AFPFactCheck/status/1091700012055228416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1680,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1002203254065950700,
+			"id_str": "1002203254065950720",
+			"name": "AFPFactCheck 🔎",
+			"screen_name": "AFPFactCheck",
+			"location": "Worldwide",
+			"description": "Fact-checking by @AFP  Also in French @AfpFactuel In Spanish @AfpFactual  In Portuguese @AfpChecamos",
+			"url": "https://t.co/uFjBjFLyR1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uFjBjFLyR1",
+							"expanded_url": "https://factcheck.afp.com/",
+							"display_url": "factcheck.afp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10993,
+			"friends_count": 111,
+			"listed_count": 184,
+			"created_at": "Thu May 31 15:00:50 +0000 2018",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002455710003757056/YeRDQbcf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002455710003757056/YeRDQbcf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002203254065950720/1528973090",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇨🇦 No, Syrian refugees in Canada do not receive Can$5,580 per month for food https://t.co/HvXcIFRd1j https://t.co/7xMRkoGvty"
+	},
+	{
+		"created_at": "Sat Feb 02 09:31:42 +0000 2019",
+		"id": 1091630226218446800,
+		"id_str": "1091951747638018048",
+		"full_text": "4컷만화 https://t.co/MYJNqArCVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091630210347237400,
+					"id_str": "1091630210347237376",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DyY_5IHVAAAZESA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyY_5IHVAAAZESA.jpg",
+					"url": "https://t.co/MYJNqArCVi",
+					"display_url": "pic.twitter.com/MYJNqArCVi",
+					"expanded_url": "https://twitter.com/TimeinPnk/status/1091630226218446848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091630210347237400,
+					"id_str": "1091630210347237376",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DyY_5IHVAAAZESA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyY_5IHVAAAZESA.jpg",
+					"url": "https://t.co/MYJNqArCVi",
+					"display_url": "pic.twitter.com/MYJNqArCVi",
+					"expanded_url": "https://twitter.com/TimeinPnk/status/1091630226218446848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091630210347225100,
+					"id_str": "1091630210347225089",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DyY_5IHU0AEnX1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyY_5IHU0AEnX1e.jpg",
+					"url": "https://t.co/MYJNqArCVi",
+					"display_url": "pic.twitter.com/MYJNqArCVi",
+					"expanded_url": "https://twitter.com/TimeinPnk/status/1091630226218446848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 727,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091630210351431700,
+					"id_str": "1091630210351431680",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DyY_5IIVAAAmaBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyY_5IIVAAAmaBO.jpg",
+					"url": "https://t.co/MYJNqArCVi",
+					"display_url": "pic.twitter.com/MYJNqArCVi",
+					"expanded_url": "https://twitter.com/TimeinPnk/status/1091630226218446848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091630210351394800,
+					"id_str": "1091630210351394816",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/DyY_5IIUcAAPq8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyY_5IIUcAAPq8T.jpg",
+					"url": "https://t.co/MYJNqArCVi",
+					"display_url": "pic.twitter.com/MYJNqArCVi",
+					"expanded_url": "https://twitter.com/TimeinPnk/status/1091630226218446848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877445354232324100,
+			"id_str": "877445354232324096",
+			"name": "단문의 신 Pnk",
+			"screen_name": "TimeinPnk",
+			"location": "대한민국 금천구",
+			"description": "눈앞에 이익을 보거든 먼저 그것을 취함이 의리에 합당한 지를 생각하라 /언팔 무조건 추적블락/친유/블락 문의 뒷계로 디엠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 1295,
+			"listed_count": 0,
+			"created_at": "Wed Jun 21 08:37:29 +0000 2017",
+			"favourites_count": 4868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12637,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087389360968724481/U-Vy7qkp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087389360968724481/U-Vy7qkp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877445354232324096/1523890632",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0112159849aed9ab",
+			"url": "https://api.twitter.com/1.1/geo/id/0112159849aed9ab.json",
+			"place_type": "city",
+			"name": "Gimpo-si",
+			"full_name": "Gimpo-si, Republic of Korea",
+			"country_code": "KR",
+			"country": "Republic of Korea",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.517161547291,
+							37.5324876480762
+						],
+						[
+							126.808799250058,
+							37.5324876480762
+						],
+						[
+							126.808799250058,
+							37.7765099020653
+						],
+						[
+							126.517161547291,
+							37.7765099020653
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1351,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4컷만화 https://t.co/MYJNqArCVi"
+	},
+	{
 		"created_at": "Sun Feb 03 05:10:33 +0000 2019",
 		"id": 1091926893899612200,
 		"id_str": "1091939727932968960",
