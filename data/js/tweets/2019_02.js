@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Jan 31 19:27:37 +0000 2019",
+		"id": 1091055421165465600,
+		"id_str": "1092280348870770688",
+		"full_text": "Are you ready for the big game? The wait is almost over. #RollUpTheRim kicks off in just three days on February 6th.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RollUpTheRim",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382177545,
+			"id_str": "382177545",
+			"name": "Tim Hortons",
+			"screen_name": "TimHortons",
+			"location": "Canada",
+			"description": "The official Tim Hortons Twitter Page, where we keep our tweets always fresh. For French language, follow @chezTimHortons. In the US, follow @TimHortonsUS.",
+			"url": "https://t.co/Zr8GkhC0TW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zr8GkhC0TW",
+							"expanded_url": "http://www.timhortons.com",
+							"display_url": "timhortons.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647318,
+			"friends_count": 5162,
+			"listed_count": 1217,
+			"created_at": "Thu Sep 29 16:27:51 +0000 2011",
+			"favourites_count": 15655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0D0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984164198778159104/9f5QYYqm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984164198778159104/9f5QYYqm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382177545/1546438930",
+			"profile_link_color": "575352",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 945,
+		"favorited": true,
+		"retweeted": true,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "en",
+		"text": "Are you ready for the big game? The wait is almost over. #RollUpTheRim kicks off in just three days on February 6th."
+	},
+	{
 		"created_at": "Mon Feb 04 02:27:35 +0000 2019",
 		"id": 1092248270716362800,
 		"id_str": "1092248270716362752",
