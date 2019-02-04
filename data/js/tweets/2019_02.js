@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 22:10:26 +0000 2019",
+		"id": 1092545946234146800,
+		"id_str": "1092547467403505665",
+		"full_text": "Well, that was a matter of time... https://t.co/bVkvp3Ykdx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092545940710338600,
+					"id_str": "1092545940710338560",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DymAvpjVsAAltF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymAvpjVsAAltF8.jpg",
+					"url": "https://t.co/bVkvp3Ykdx",
+					"display_url": "pic.twitter.com/bVkvp3Ykdx",
+					"expanded_url": "https://twitter.com/LinusTech/status/1092545946234146816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092545940710338600,
+					"id_str": "1092545940710338560",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DymAvpjVsAAltF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymAvpjVsAAltF8.jpg",
+					"url": "https://t.co/bVkvp3Ykdx",
+					"display_url": "pic.twitter.com/bVkvp3Ykdx",
+					"expanded_url": "https://twitter.com/LinusTech/status/1092545946234146816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403614288,
+			"id_str": "403614288",
+			"name": "Linus Tech Tips",
+			"screen_name": "LinusTech",
+			"location": "Vancouver, BC",
+			"description": "The official Twitter of the Linus Tech Tips and Techquickie YouTube channels. Run by the entire Linus Media Group crew. https://t.co/8FxbyQga7F",
+			"url": "https://t.co/avXGSXi7Up",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/avXGSXi7Up",
+							"expanded_url": "http://www.youtube.com/LinusTechTips",
+							"display_url": "youtube.com/LinusTechTips",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8FxbyQga7F",
+							"expanded_url": "http://linustechtips.com",
+							"display_url": "linustechtips.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 773998,
+			"friends_count": 217,
+			"listed_count": 2505,
+			"created_at": "Wed Nov 02 19:04:43 +0000 2011",
+			"favourites_count": 2970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403614288/1535477488",
+			"profile_link_color": "FC5331",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, that was a matter of time... https://t.co/bVkvp3Ykdx"
+	},
+	{
+		"created_at": "Mon Feb 04 21:30:16 +0000 2019",
+		"id": 1092535836040749000,
+		"id_str": "1092540385749020672",
+		"full_text": "JK Is back with another book. https://t.co/kpSlvR2iKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092535814016430100,
+					"id_str": "1092535814016430088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl3iMrXcAgnoQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl3iMrXcAgnoQg.jpg",
+					"url": "https://t.co/kpSlvR2iKg",
+					"display_url": "pic.twitter.com/kpSlvR2iKg",
+					"expanded_url": "https://twitter.com/CrazyinRussia/status/1092535836040749058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092535814016430100,
+					"id_str": "1092535814016430088",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl3iMrXcAgnoQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl3iMrXcAgnoQg.jpg",
+					"url": "https://t.co/kpSlvR2iKg",
+					"display_url": "pic.twitter.com/kpSlvR2iKg",
+					"expanded_url": "https://twitter.com/CrazyinRussia/status/1092535836040749058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904195838,
+			"id_str": "2904195838",
+			"name": "🇷🇺Only In Russia 🇷🇺",
+			"screen_name": "CrazyinRussia",
+			"location": "",
+			"description": "Every day in Russia is crazy. We're FANS/ Parody*of the posts/videos do not claim any ownership or copywrites. Buy me a coffee @ https://t.co/23jrKX1acc TY",
+			"url": "https://t.co/Adqm2IgH5K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Adqm2IgH5K",
+							"expanded_url": "https://www.patreon.com/Youhadonejob1",
+							"display_url": "patreon.com/Youhadonejob1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/23jrKX1acc",
+							"expanded_url": "https://bit.ly/2O1S671",
+							"display_url": "bit.ly/2O1S671",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443885,
+			"friends_count": 201,
+			"listed_count": 3150,
+			"created_at": "Wed Dec 03 19:24:24 +0000 2014",
+			"favourites_count": 995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562352063167098880/z_7T8fOy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904195838/1460512376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 405,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "JK Is back with another book. https://t.co/kpSlvR2iKg"
+	},
+	{
+		"created_at": "Mon Feb 04 21:44:44 +0000 2019",
+		"id": 1092539477426425900,
+		"id_str": "1092539477426425859",
+		"full_text": "@_sino39 @CHEOhospital 실려갔는데요",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_sino39",
+					"name": "シノル",
+					"id": 970655958853496800,
+					"id_str": "970655958853496832",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "CHEOhospital",
+					"name": "CHEO Hospital Ottawa",
+					"id": 64698768,
+					"id_str": "64698768",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1092537855740530700,
+		"in_reply_to_status_id_str": "1092537855740530690",
+		"in_reply_to_user_id": 970655958853496800,
+		"in_reply_to_user_id_str": "970655958853496832",
+		"in_reply_to_screen_name": "_sino39",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 985,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_sino39 @CHEOhospital 실려갔는데요"
+	},
+	{
 		"created_at": "Thu Jan 31 19:27:37 +0000 2019",
 		"id": 1091055421165465600,
 		"id_str": "1092280348870770688",
