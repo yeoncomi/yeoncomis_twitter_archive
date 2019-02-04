@@ -1,6 +1,939 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 08:46:37 +0000 2019",
+		"id": 1091981271905886200,
+		"id_str": "1092554998515421184",
+		"full_text": "1.  페이스북 군대나무숲에 자신의 해병대 친구가 부조리를 당하는것 같다며 글을 올림\n\n2. 댓글에 해병대 주임원사 등판\n\n3. 주임원사 댓글이 진짜임을 인증해주는 댓글까지\n\n미필은 어떻게 될지 상상할수가 없는것이예요.. https://t.co/8hovU2C0fj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091981245486063600,
+					"id_str": "1091981245486063621",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyd_KD6V4AUKqjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyd_KD6V4AUKqjO.jpg",
+					"url": "https://t.co/8hovU2C0fj",
+					"display_url": "pic.twitter.com/8hovU2C0fj",
+					"expanded_url": "https://twitter.com/BEANrombia/status/1091981271905886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1439,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091981245486063600,
+					"id_str": "1091981245486063621",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyd_KD6V4AUKqjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyd_KD6V4AUKqjO.jpg",
+					"url": "https://t.co/8hovU2C0fj",
+					"display_url": "pic.twitter.com/8hovU2C0fj",
+					"expanded_url": "https://twitter.com/BEANrombia/status/1091981271905886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1439,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091981256932257800,
+					"id_str": "1091981256932257792",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyd_KujU8AAliPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyd_KujU8AAliPZ.jpg",
+					"url": "https://t.co/8hovU2C0fj",
+					"display_url": "pic.twitter.com/8hovU2C0fj",
+					"expanded_url": "https://twitter.com/BEANrombia/status/1091981271905886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091981266730201100,
+					"id_str": "1091981266730201088",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyd_LTDVsAAH9Om.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyd_LTDVsAAH9Om.jpg",
+					"url": "https://t.co/8hovU2C0fj",
+					"display_url": "pic.twitter.com/8hovU2C0fj",
+					"expanded_url": "https://twitter.com/BEANrombia/status/1091981271905886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 241,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 136,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038972194938740700,
+			"id_str": "1038972194938740736",
+			"name": "오호란",
+			"screen_name": "BEANrombia",
+			"location": "구) 콩롬비아콜",
+			"description": "♥ 찍고 다닙니다 (아이디 바꿨어요)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 02:07:29 +0000 2018",
+			"favourites_count": 2221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092458953965895680/TBdUh4lW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092458953965895680/TBdUh4lW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038972194938740736/1549207713",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1675,
+		"favorite_count": 266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1.  페이스북 군대나무숲에 자신의 해병대 친구가 부조리를 당하는것 같다며 글을 올림\n\n2. 댓글에 해병대 주임원사 등판\n\n3. 주임원사 댓글이 진짜임을 인증해주는 댓글까지\n\n미필은 어떻게 될지 상상할수가 없는것이예요.. https://t.co/8hovU2C0fj"
+	},
+	{
+		"created_at": "Fri Feb 01 22:05:45 +0000 2019",
+		"id": 1091457601257201700,
+		"id_str": "1092554786753441792",
+		"full_text": "https://t.co/9yShDSaWE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091457160045719600,
+					"id_str": "1091457160045719552",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWigRgU8AALyrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWigRgU8AALyrH.jpg",
+					"url": "https://t.co/9yShDSaWE5",
+					"display_url": "pic.twitter.com/9yShDSaWE5",
+					"expanded_url": "https://twitter.com/EFF/status/1091457601257201664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2035,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091457160045719600,
+					"id_str": "1091457160045719552",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWigRgU8AALyrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWigRgU8AALyrH.jpg",
+					"url": "https://t.co/9yShDSaWE5",
+					"display_url": "pic.twitter.com/9yShDSaWE5",
+					"expanded_url": "https://twitter.com/EFF/status/1091457601257201664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2035,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091457306997346300,
+					"id_str": "1091457306997346305",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWio08U0AEyXYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWio08U0AEyXYv.jpg",
+					"url": "https://t.co/9yShDSaWE5",
+					"display_url": "pic.twitter.com/9yShDSaWE5",
+					"expanded_url": "https://twitter.com/EFF/status/1091457601257201664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1091449476613468200,
+		"in_reply_to_status_id_str": "1091449476613468160",
+		"in_reply_to_user_id": 4816,
+		"in_reply_to_user_id_str": "4816",
+		"in_reply_to_screen_name": "EFF",
+		"user": {
+			"id": 4816,
+			"id_str": "4816",
+			"name": "EFF",
+			"screen_name": "EFF",
+			"location": "San Francisco, CA",
+			"description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+			"url": "https://t.co/1gDghboN0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDghboN0q",
+							"expanded_url": "https://www.eff.org",
+							"display_url": "eff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406910,
+			"friends_count": 981,
+			"listed_count": 14369,
+			"created_at": "Mon Aug 28 14:17:28 +0000 2006",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E17701",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1546456368",
+			"profile_link_color": "6A3ACB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8D8DD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9yShDSaWE5"
+	},
+	{
+		"created_at": "Fri Feb 01 21:33:28 +0000 2019",
+		"id": 1091449476613468200,
+		"id_str": "1092554779446988802",
+		"full_text": ".@NSAGov, the webcam covers you're giving out have an interesting defect: the purple ones are transparent. 🤔 https://t.co/WUDXPJt9hs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NSAGov",
+					"name": "NSA/CSS",
+					"id": 2248872301,
+					"id_str": "2248872301",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091445382930870300,
+					"id_str": "1091445382930870272",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWXywVVsAAoj5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWXywVVsAAoj5w.jpg",
+					"url": "https://t.co/WUDXPJt9hs",
+					"display_url": "pic.twitter.com/WUDXPJt9hs",
+					"expanded_url": "https://twitter.com/EFF/status/1091449476613468160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1528,
+							"h": 1529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091445382930870300,
+					"id_str": "1091445382930870272",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWXywVVsAAoj5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWXywVVsAAoj5w.jpg",
+					"url": "https://t.co/WUDXPJt9hs",
+					"display_url": "pic.twitter.com/WUDXPJt9hs",
+					"expanded_url": "https://twitter.com/EFF/status/1091449476613468160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1528,
+							"h": 1529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1091447273161076700,
+					"id_str": "1091447273161076736",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DyWZgx_VsAAvqjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyWZgx_VsAAvqjK.jpg",
+					"url": "https://t.co/WUDXPJt9hs",
+					"display_url": "pic.twitter.com/WUDXPJt9hs",
+					"expanded_url": "https://twitter.com/EFF/status/1091449476613468160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2035,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4816,
+			"id_str": "4816",
+			"name": "EFF",
+			"screen_name": "EFF",
+			"location": "San Francisco, CA",
+			"description": "We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world.",
+			"url": "https://t.co/1gDghboN0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDghboN0q",
+							"expanded_url": "https://www.eff.org",
+							"display_url": "eff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406910,
+			"friends_count": 981,
+			"listed_count": 14369,
+			"created_at": "Mon Aug 28 14:17:28 +0000 2006",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E17701",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022932965892939776/aJgE2T5l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4816/1546456368",
+			"profile_link_color": "6A3ACB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8D8DD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2389,
+		"favorite_count": 4245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@NSAGov, the webcam covers you're giving out have an interesting defect: the purple ones are transparent. 🤔 https://t.co/WUDXPJt9hs"
+	},
+	{
+		"created_at": "Mon Feb 04 16:21:16 +0000 2019",
+		"id": 1092458074688827400,
+		"id_str": "1092549491746590720",
+		"full_text": "속보) 모음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KUUtEi2He5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092458040937201700,
+					"id_str": "1092458040937201664",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DykwzNYUwAA4lwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DykwzNYUwAA4lwJ.jpg",
+					"url": "https://t.co/KUUtEi2He5",
+					"display_url": "pic.twitter.com/KUUtEi2He5",
+					"expanded_url": "https://twitter.com/TB54362414/status/1092458074688827392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 952,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092458040937201700,
+					"id_str": "1092458040937201664",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DykwzNYUwAA4lwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DykwzNYUwAA4lwJ.jpg",
+					"url": "https://t.co/KUUtEi2He5",
+					"display_url": "pic.twitter.com/KUUtEi2He5",
+					"expanded_url": "https://twitter.com/TB54362414/status/1092458074688827392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 952,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092458048365326300,
+					"id_str": "1092458048365326336",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DykwzpDU8AArrrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DykwzpDU8AArrrn.jpg",
+					"url": "https://t.co/KUUtEi2He5",
+					"display_url": "pic.twitter.com/KUUtEi2He5",
+					"expanded_url": "https://twitter.com/TB54362414/status/1092458074688827392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1762,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092458058217795600,
+					"id_str": "1092458058217795584",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dykw0NwVsAA-ZuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dykw0NwVsAA-ZuV.jpg",
+					"url": "https://t.co/KUUtEi2He5",
+					"display_url": "pic.twitter.com/KUUtEi2He5",
+					"expanded_url": "https://twitter.com/TB54362414/status/1092458074688827392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1714,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092458066803449900,
+					"id_str": "1092458066803449856",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Dykw0tvUYAAgX27.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dykw0tvUYAAgX27.jpg",
+					"url": "https://t.co/KUUtEi2He5",
+					"display_url": "pic.twitter.com/KUUtEi2He5",
+					"expanded_url": "https://twitter.com/TB54362414/status/1092458074688827392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1117,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1050810805661265900,
+			"id_str": "1050810805661265920",
+			"name": "TB",
+			"screen_name": "TB54362414",
+			"location": "대한민국 서울시 동작구",
+			"description": "태고의 달인 , 코스프레를 좋아하는 학생입니다. 선팔후 멘션 무조건 맞팔 해드려요 좋은 하루! 팔로알람이 안와요..\n38명의 규모인 태고 사설팀 Team青空를 팀장으로써 운영하고 있습니다.\n일베/페미 금지!\n현) 수능 Clear , 본진 : 태고/일상 , 부진 : 롤/배그/VRC/레포데",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 559,
+			"listed_count": 42,
+			"created_at": "Fri Oct 12 18:09:53 +0000 2018",
+			"favourites_count": 10302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10963,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076472364332810242/RXq-IHH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076472364332810242/RXq-IHH4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050810805661265920/1539368118",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보) 모음 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KUUtEi2He5"
+	},
+	{
 		"created_at": "Mon Feb 04 22:10:26 +0000 2019",
 		"id": 1092545946234146800,
 		"id_str": "1092547467403505665",
