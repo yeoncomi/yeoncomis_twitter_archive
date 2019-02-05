@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 01:11:00 +0000 2019",
+		"id": 1092591386312859600,
+		"id_str": "1092591763037061122",
+		"full_text": "Duracell = Shit\nColes brand generic = Winner https://t.co/X119Ky9plX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092591384115081200,
+					"id_str": "1092591384115081216",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DymqEzbU8AAHLfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymqEzbU8AAHLfZ.jpg",
+					"url": "https://t.co/X119Ky9plX",
+					"display_url": "pic.twitter.com/X119Ky9plX",
+					"expanded_url": "https://twitter.com/eevblog/status/1092591386312859648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092591384115081200,
+					"id_str": "1092591384115081216",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DymqEzbU8AAHLfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymqEzbU8AAHLfZ.jpg",
+					"url": "https://t.co/X119Ky9plX",
+					"display_url": "pic.twitter.com/X119Ky9plX",
+					"expanded_url": "https://twitter.com/eevblog/status/1092591386312859648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 405,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77604394,
+			"id_str": "77604394",
+			"name": "Dave Jones",
+			"screen_name": "eevblog",
+			"location": "Sydney, Australia",
+			"description": "Professional Engineering Youtuber. Apparently that's a real job these days?\nThis is my personal channel, so expect random crap & waffle, not just electronics.",
+			"url": "http://t.co/HxeNZGi6RM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HxeNZGi6RM",
+							"expanded_url": "http://www.eevblog.com/",
+							"display_url": "eevblog.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34342,
+			"friends_count": 135,
+			"listed_count": 619,
+			"created_at": "Sat Sep 26 23:38:39 +0000 2009",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282373129/DaveHand350x350_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Duracell = Shit\nColes brand generic = Winner https://t.co/X119Ky9plX"
+	},
+	{
+		"created_at": "Mon Feb 04 11:19:48 +0000 2019",
+		"id": 1092382208780718100,
+		"id_str": "1092591212748595201",
+		"full_text": "민족명절 설에 하는놀이 https://t.co/WTlxIiXaFS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092382190527074300,
+					"id_str": "1092382190527074305",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyjr0IlUUAEaUrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyjr0IlUUAEaUrT.jpg",
+					"url": "https://t.co/WTlxIiXaFS",
+					"display_url": "pic.twitter.com/WTlxIiXaFS",
+					"expanded_url": "https://twitter.com/ghkehfud2748/status/1092382208780718081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092382190527074300,
+					"id_str": "1092382190527074305",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyjr0IlUUAEaUrT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyjr0IlUUAEaUrT.jpg",
+					"url": "https://t.co/WTlxIiXaFS",
+					"display_url": "pic.twitter.com/WTlxIiXaFS",
+					"expanded_url": "https://twitter.com/ghkehfud2748/status/1092382208780718081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 731188082683215900,
+			"id_str": "731188082683215872",
+			"name": "바르B",
+			"screen_name": "ghkehfud2748",
+			"location": "상자",
+			"description": "선화위주 그림쟁이/커미션 관련문의DM/게임 좋아하는 겜덕/게임관련 스샷,영상이 많이 올라옵니다/FUB FREE\n인장 @YDC_manggame 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 597,
+			"listed_count": 3,
+			"created_at": "Fri May 13 18:23:18 +0000 2016",
+			"favourites_count": 11161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92588,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082606150997045248/cLOWHii0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082606150997045248/cLOWHii0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/731188082683215872/1548347424",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1508,
+		"favorite_count": 547,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민족명절 설에 하는놀이 https://t.co/WTlxIiXaFS"
+	},
+	{
+		"created_at": "Mon Feb 04 13:48:27 +0000 2019",
+		"id": 1092419616494673900,
+		"id_str": "1092590594122231808",
+		"full_text": "제가 만약에 세벳돈을 30만 이상 받으면 \n저기있는 RTX2070 RT추첨해서 드림 https://t.co/AigNktqzC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092419601256767500,
+					"id_str": "1092419601256767488",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DykN1uaVYAAd2UL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DykN1uaVYAAd2UL.jpg",
+					"url": "https://t.co/AigNktqzC9",
+					"display_url": "pic.twitter.com/AigNktqzC9",
+					"expanded_url": "https://twitter.com/SeoHyun_choi_S2/status/1092419616494673922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092419601256767500,
+					"id_str": "1092419601256767488",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DykN1uaVYAAd2UL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DykN1uaVYAAd2UL.jpg",
+					"url": "https://t.co/AigNktqzC9",
+					"display_url": "pic.twitter.com/AigNktqzC9",
+					"expanded_url": "https://twitter.com/SeoHyun_choi_S2/status/1092419616494673922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 930048717331120100,
+			"id_str": "930048717331120128",
+			"name": "서현💖Sol-A [계연]",
+			"screen_name": "SeoHyun_choi_S2",
+			"location": "앤님 마음속",
+			"description": "💖@TVXQSolA💖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 401,
+			"listed_count": 1,
+			"created_at": "Mon Nov 13 12:24:28 +0000 2017",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2789,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091368435529875456/gidMRhui_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091368435529875456/gidMRhui_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/930048717331120128/1548817950",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 786,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 만약에 세벳돈을 30만 이상 받으면 \n저기있는 RTX2070 RT추첨해서 드림 https://t.co/AigNktqzC9"
+	},
+	{
+		"created_at": "Mon Feb 04 07:19:59 +0000 2019",
+		"id": 1092321855120130000,
+		"id_str": "1092590266987499520",
+		"full_text": "https://t.co/u1hojiqpuY \n공성 방어 씨발ㅋㅋㅋㅋㅋㅋㅋ https://t.co/f0epmbUJuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u1hojiqpuY",
+					"expanded_url": "http://m.dcinside.com/board/exam_new/5929897",
+					"display_url": "m.dcinside.com/board/exam_new…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092321846928715800,
+					"id_str": "1092321846928715778",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyi07rKVsAIfYlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyi07rKVsAIfYlR.jpg",
+					"url": "https://t.co/f0epmbUJuS",
+					"display_url": "pic.twitter.com/f0epmbUJuS",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1092321855120130048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092321846928715800,
+					"id_str": "1092321846928715778",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyi07rKVsAIfYlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyi07rKVsAIfYlR.jpg",
+					"url": "https://t.co/f0epmbUJuS",
+					"display_url": "pic.twitter.com/f0epmbUJuS",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1092321855120130048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3151480658,
+			"id_str": "3151480658",
+			"name": "노시",
+			"screen_name": "KU_CU_QU",
+			"location": "하와와의증인",
+			"description": "금빛 모자이크 본진 - 오오미야 시노부(大宮 忍) 최애입니다! : 멘션주면 맞팔합니다! 금빛모자이크 야짤 알티나 올릴시 칼블락.백합회로 절찬리 오버클럭중",
+			"url": "https://t.co/ukvLeWiVYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukvLeWiVYy",
+							"expanded_url": "http://pixiv.me/kinmosa_nosi",
+							"display_url": "pixiv.me/kinmosa_nosi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 803,
+			"listed_count": 35,
+			"created_at": "Sun Apr 12 14:06:12 +0000 2015",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67663,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072501601200431106/FtvOCyLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072501601200431106/FtvOCyLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3151480658/1510617465",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 436,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/u1hojiqpuY \n공성 방어 씨발ㅋㅋㅋㅋㅋㅋㅋ https://t.co/f0epmbUJuS"
+	},
+	{
+		"created_at": "Tue Feb 05 00:36:32 +0000 2019",
+		"id": 1092582712840540200,
+		"id_str": "1092582712840540163",
+		"full_text": "태평양은 왜 gogo가 안될까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 985,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31713,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "태평양은 왜 gogo가 안될까"
+	},
+	{
 		"created_at": "Mon Feb 04 21:53:55 +0000 2019",
 		"id": 1092541789716664300,
 		"id_str": "1092574004647550976",
