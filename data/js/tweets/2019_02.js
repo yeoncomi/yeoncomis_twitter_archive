@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 22:31:18 +0000 2019",
+		"id": 1092913585859240000,
+		"id_str": "1092915915769896960",
+		"full_text": "Canada has updated its travel advisory for Venezuela. The government advises people to avoid all travel to Venezuela due to significant level of violent crime, unstable political &amp; economic situations #cdnpoli https://t.co/hUlw3I0JE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cdnpoli",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092913537041584100,
+					"id_str": "1092913537041584129",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DyrPEkmUUAEekWF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyrPEkmUUAEekWF.jpg",
+					"url": "https://t.co/hUlw3I0JE9",
+					"display_url": "pic.twitter.com/hUlw3I0JE9",
+					"expanded_url": "https://twitter.com/PnPCBC/status/1092913585859239936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 119,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 190,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1082,
+							"h": 190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092913537041584100,
+					"id_str": "1092913537041584129",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DyrPEkmUUAEekWF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyrPEkmUUAEekWF.jpg",
+					"url": "https://t.co/hUlw3I0JE9",
+					"display_url": "pic.twitter.com/hUlw3I0JE9",
+					"expanded_url": "https://twitter.com/PnPCBC/status/1092913585859239936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 119,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 190,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1082,
+							"h": 190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 373683618,
+			"id_str": "373683618",
+			"name": "Power & Politics",
+			"screen_name": "PnPCBC",
+			"location": "Ottawa",
+			"description": "Breaking news and updates from the crew at  CBC News Network's Power & Politics.",
+			"url": "http://t.co/VSel3ZcFm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VSel3ZcFm5",
+							"expanded_url": "http://cbc.ca/politics",
+							"display_url": "cbc.ca/politics",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141928,
+			"friends_count": 421,
+			"listed_count": 1300,
+			"created_at": "Thu Sep 15 01:25:56 +0000 2011",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFCFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982295716646309888/FZG0tKg5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982295716646309888/FZG0tKg5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/373683618/1523032543",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Canada has updated its travel advisory for Venezuela. The government advises people to avoid all travel to Venezuela due to significant level of violent crime, unstable political &amp; economic situations #cdnpoli https://t.co/hUlw3I0JE9"
+	},
+	{
 		"created_at": "Tue Feb 05 18:45:27 +0000 2019",
 		"id": 1092856748644466700,
 		"id_str": "1092856748644466688",
