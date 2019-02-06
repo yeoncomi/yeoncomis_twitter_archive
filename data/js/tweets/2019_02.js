@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 14:06:28 +0000 2019",
+		"id": 1092786537685647400,
+		"id_str": "1093270469292113920",
+		"full_text": "매일 셰익스피어 명언: \"SSL 오류가 발생하여 서버와 연결할 수 없습니다.\"\n\n-윌리엄 셰익스피어- https://t.co/c3HR7p8QkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092786528898543600,
+					"id_str": "1092786528898543616",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DypbjuZUcAA0Q6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DypbjuZUcAA0Q6v.jpg",
+					"url": "https://t.co/c3HR7p8QkS",
+					"display_url": "pic.twitter.com/c3HR7p8QkS",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1092786537685647361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092786528898543600,
+					"id_str": "1092786528898543616",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DypbjuZUcAA0Q6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DypbjuZUcAA0Q6v.jpg",
+					"url": "https://t.co/c3HR7p8QkS",
+					"display_url": "pic.twitter.com/c3HR7p8QkS",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1092786537685647361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "레딧 r/memes에서 가져온 신선한 미국 밈 짤방(Meme)을 전해드립니다. (본계는 @sal_fermentum)\n\n아직 공부중이라 부정확할 수 있으니 표현 및 오역제보 받습니다/의역 있음\n\n\n      \n                    NO 초멘나사이 ZONE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3125,
+			"friends_count": 0,
+			"listed_count": 13,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091190403380916224/DEol3bcX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091190403380916224/DEol3bcX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1548995040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매일 셰익스피어 명언: \"SSL 오류가 발생하여 서버와 연결할 수 없습니다.\"\n\n-윌리엄 셰익스피어- https://t.co/c3HR7p8QkS"
+	},
+	{
 		"created_at": "Wed Feb 06 03:39:13 +0000 2019",
 		"id": 1092991073817976800,
 		"id_str": "1093235473244274688",
