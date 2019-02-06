@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 03:45:22 +0000 2019",
+		"id": 1092992620434022400,
+		"id_str": "1093206659478872065",
+		"full_text": "“스위프트 8년 이상의 경력직을 구한다는 구인공고를 봤다.\n스위프트 나온지 고작 3년 됐는데.”\n\n(트윗 작성년도가 2017년) https://t.co/UGzdhym580",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092992614771486700,
+					"id_str": "1092992614771486721",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DysW_gGUcAE8Lqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysW_gGUcAE8Lqo.jpg",
+					"url": "https://t.co/UGzdhym580",
+					"display_url": "pic.twitter.com/UGzdhym580",
+					"expanded_url": "https://twitter.com/KudoKun_/status/1092992620434022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092992614771486700,
+					"id_str": "1092992614771486721",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DysW_gGUcAE8Lqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysW_gGUcAE8Lqo.jpg",
+					"url": "https://t.co/UGzdhym580",
+					"display_url": "pic.twitter.com/UGzdhym580",
+					"expanded_url": "https://twitter.com/KudoKun_/status/1092992620434022400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19096202,
+			"id_str": "19096202",
+			"name": "이주형 (쿠도군)",
+			"screen_name": "KudoKun_",
+			"location": "New York, NY",
+			"description": "불가능한 것을 제외하고 남은 것이, 믿기 힘들지라도, 진실이다. @shakrmedia NY Sales Engineer, @KudoNetworks 글쟁이 및 KudoCast 호스트, @back2themac 뉴스 필진, @thegearnews 전 인턴 기자 (모든 트윗은 단독 의견입니다)",
+			"url": "https://t.co/kMGzcOmdVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kMGzcOmdVg",
+							"expanded_url": "http://kudokun.me",
+							"display_url": "kudokun.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2601,
+			"friends_count": 605,
+			"listed_count": 104,
+			"created_at": "Sat Jan 17 01:29:51 +0000 2009",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 156505,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073607743519498251/qERB0jvb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073607743519498251/qERB0jvb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19096202/1529023418",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“스위프트 8년 이상의 경력직을 구한다는 구인공고를 봤다.\n스위프트 나온지 고작 3년 됐는데.”\n\n(트윗 작성년도가 2017년) https://t.co/UGzdhym580"
+	},
+	{
 		"created_at": "Wed Feb 06 04:52:08 +0000 2019",
 		"id": 1093009425672024000,
 		"id_str": "1093021654307954689",
