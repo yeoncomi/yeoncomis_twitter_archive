@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 10:35:28 +0000 2019",
+		"id": 1092733438262575100,
+		"id_str": "1092968036573704192",
+		"full_text": "옆나라에 파맛 감자칩이 나왔습니다. 우리도 파맛첵스를 살려야 하지 않겠습니까? https://t.co/BrVaPs21uV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092732924137361400,
+					"id_str": "1092732924137361408",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoqzhGU0AAsv2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoqzhGU0AAsv2I.jpg",
+					"url": "https://t.co/BrVaPs21uV",
+					"display_url": "pic.twitter.com/BrVaPs21uV",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1092733438262575104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092732924137361400,
+					"id_str": "1092732924137361408",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoqzhGU0AAsv2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoqzhGU0AAsv2I.jpg",
+					"url": "https://t.co/BrVaPs21uV",
+					"display_url": "pic.twitter.com/BrVaPs21uV",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1092733438262575104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092733270926606300,
+					"id_str": "1092733270926606336",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyorHs_UwAA-Wnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyorHs_UwAA-Wnq.jpg",
+					"url": "https://t.co/BrVaPs21uV",
+					"display_url": "pic.twitter.com/BrVaPs21uV",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1092733438262575104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 423,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 423,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 423,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092733291424182300,
+					"id_str": "1092733291424182273",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyorI5WU8AERPh5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyorI5WU8AERPh5.jpg",
+					"url": "https://t.co/BrVaPs21uV",
+					"display_url": "pic.twitter.com/BrVaPs21uV",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1092733438262575104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212790,
+			"friends_count": 501,
+			"listed_count": 327,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37714,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1549324177",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1873,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옆나라에 파맛 감자칩이 나왔습니다. 우리도 파맛첵스를 살려야 하지 않겠습니까? https://t.co/BrVaPs21uV"
+	},
+	{
+		"created_at": "Tue Feb 05 14:20:04 +0000 2019",
+		"id": 1092789961068228600,
+		"id_str": "1092967478748049408",
+		"full_text": "와.. 엄마가 지인한테 화장품 선물받았는데 죄다 중국말이라 모르겠다며 너나 쓰라고 해서 일단 들고 와서 이제 봤다니 목재 가구 혹은 목기류 금간 것 떼우거나 광내는 제품.. ㅡㅡ 할머니들 큰일나겠어. https://t.co/hn5tKSWYcX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092789951844892700,
+					"id_str": "1092789951844892673",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Dypeq93UwAE9NqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dypeq93UwAE9NqL.jpg",
+					"url": "https://t.co/hn5tKSWYcX",
+					"display_url": "pic.twitter.com/hn5tKSWYcX",
+					"expanded_url": "https://twitter.com/exhales_s/status/1092789961068228614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092789951844892700,
+					"id_str": "1092789951844892673",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Dypeq93UwAE9NqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dypeq93UwAE9NqL.jpg",
+					"url": "https://t.co/hn5tKSWYcX",
+					"display_url": "pic.twitter.com/hn5tKSWYcX",
+					"expanded_url": "https://twitter.com/exhales_s/status/1092789961068228614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1919138161,
+			"id_str": "1919138161",
+			"name": "쑹",
+			"screen_name": "exhales_s",
+			"location": "",
+			"description": "공부모드 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 654,
+			"friends_count": 184,
+			"listed_count": 8,
+			"created_at": "Mon Sep 30 06:14:02 +0000 2013",
+			"favourites_count": 2730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29239,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079892625589657600/UKRmPbZj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079892625589657600/UKRmPbZj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1919138161/1547997672",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2570,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와.. 엄마가 지인한테 화장품 선물받았는데 죄다 중국말이라 모르겠다며 너나 쓰라고 해서 일단 들고 와서 이제 봤다니 목재 가구 혹은 목기류 금간 것 떼우거나 광내는 제품.. ㅡㅡ 할머니들 큰일나겠어. https://t.co/hn5tKSWYcX"
+	},
+	{
+		"created_at": "Tue Feb 05 09:58:01 +0000 2019",
+		"id": 1092724016312270800,
+		"id_str": "1092966386698055685",
+		"full_text": "오늘 설날 도둑 4컷만화\n취향이 맘에 안들면 도둑질해도 된다\n당사자의 어머니한테 허락을 맡았으면 당사자 의지는 중요하지 않다\n훔쳐놓고는 '허락'맡겠다 https://t.co/bojRwY70zD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092723979557560300,
+					"id_str": "1092723979557560320",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyoiq38UYAAnY7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyoiq38UYAAnY7M.jpg",
+					"url": "https://t.co/bojRwY70zD",
+					"display_url": "pic.twitter.com/bojRwY70zD",
+					"expanded_url": "https://twitter.com/Deiess1st/status/1092724016312270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092723979557560300,
+					"id_str": "1092723979557560320",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyoiq38UYAAnY7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyoiq38UYAAnY7M.jpg",
+					"url": "https://t.co/bojRwY70zD",
+					"display_url": "pic.twitter.com/bojRwY70zD",
+					"expanded_url": "https://twitter.com/Deiess1st/status/1092724016312270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092723990932508700,
+					"id_str": "1092723990932508672",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoiriUUUAAhm3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoiriUUUAAhm3C.jpg",
+					"url": "https://t.co/bojRwY70zD",
+					"display_url": "pic.twitter.com/bojRwY70zD",
+					"expanded_url": "https://twitter.com/Deiess1st/status/1092724016312270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092723999220457500,
+					"id_str": "1092723999220457472",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoisBMUYAAu-Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoisBMUYAAu-Rl.jpg",
+					"url": "https://t.co/bojRwY70zD",
+					"display_url": "pic.twitter.com/bojRwY70zD",
+					"expanded_url": "https://twitter.com/Deiess1st/status/1092724016312270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092724008003395600,
+					"id_str": "1092724008003395585",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyoish6VYAEjJ5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyoish6VYAEjJ5u.jpg",
+					"url": "https://t.co/bojRwY70zD",
+					"display_url": "pic.twitter.com/bojRwY70zD",
+					"expanded_url": "https://twitter.com/Deiess1st/status/1092724016312270848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 514147547,
+			"id_str": "514147547",
+			"name": "가슴 뛰도록 디에스#3372",
+			"screen_name": "Deiess1st",
+			"location": "대한민국 고양시",
+			"description": "섹트 욕트 정치트까지 다 하니까 놀라지마세요. 나한테도, 당신한테도, 초멘금지 인용금지 그딴게 어딨어? 그냥 하세요.\n소전 지휘관 개점휴업, 벽람항로 지휘관 열일중. 붕괴 3rd 초보함장.\n너무 늦게 밝히는 거지만, 정인이 생겨버렸어.",
+			"url": "https://t.co/iqfWfBkcwH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iqfWfBkcwH",
+							"expanded_url": "http://deiess.tistory.com",
+							"display_url": "deiess.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 2089,
+			"listed_count": 4,
+			"created_at": "Sun Mar 04 09:29:49 +0000 2012",
+			"favourites_count": 6299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92460,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048003901331464194/4DqN2SlV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048003901331464194/4DqN2SlV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/514147547/1538698576",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "오늘 설날 도둑 4컷만화\n취향이 맘에 안들면 도둑질해도 된다\n당사자의 어머니한테 허락을 맡았으면 당사자 의지는 중요하지 않다\n훔쳐놓고는 '허락'맡겠다 https://t.co/bojRwY70zD"
+	},
+	{
 		"created_at": "Mon Feb 04 08:00:41 +0000 2019",
 		"id": 1092332099942547500,
 		"id_str": "1092945951675817985",
