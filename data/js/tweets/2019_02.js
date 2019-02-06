@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 02:27:19 +0000 2019",
+		"id": 1092972981163180000,
+		"id_str": "1092999518021246976",
+		"full_text": "이정도면 과학인데 https://t.co/Xm4pCSE5X5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092972959013060600,
+					"id_str": "1092972959013060608",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DysFHYsUwAAWCQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysFHYsUwAAWCQT.jpg",
+					"url": "https://t.co/Xm4pCSE5X5",
+					"display_url": "pic.twitter.com/Xm4pCSE5X5",
+					"expanded_url": "https://twitter.com/AnPi_3/status/1092972981163180032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092972959013060600,
+					"id_str": "1092972959013060608",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DysFHYsUwAAWCQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysFHYsUwAAWCQT.jpg",
+					"url": "https://t.co/Xm4pCSE5X5",
+					"display_url": "pic.twitter.com/Xm4pCSE5X5",
+					"expanded_url": "https://twitter.com/AnPi_3/status/1092972981163180032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092972971658862600,
+					"id_str": "1092972971658862593",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DysFIHzUYAE8L_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysFIHzUYAE8L_B.jpg",
+					"url": "https://t.co/Xm4pCSE5X5",
+					"display_url": "pic.twitter.com/Xm4pCSE5X5",
+					"expanded_url": "https://twitter.com/AnPi_3/status/1092972981163180032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038243643855794200,
+			"id_str": "1038243643855794178",
+			"name": "An_Pi",
+			"screen_name": "AnPi_3",
+			"location": "대한민국 남동구",
+			"description": "천사를 만났어",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 141,
+			"listed_count": 2,
+			"created_at": "Sat Sep 08 01:52:29 +0000 2018",
+			"favourites_count": 3042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2417,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089168988569985025/FkoS2iXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089168988569985025/FkoS2iXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038243643855794178/1546239586",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이정도면 과학인데 https://t.co/Xm4pCSE5X5"
+	},
+	{
+		"created_at": "Tue Feb 05 02:47:33 +0000 2019",
+		"id": 1092615685035909100,
+		"id_str": "1092999207047200769",
+		"full_text": "저 이거 웃다가 숨넘어갈뻔함 이게 레전드다 진짜 https://t.co/QASGiR1icC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092615677528031200,
+					"id_str": "1092615677528031232",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DynAK3cUwAALJkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynAK3cUwAALJkt.jpg",
+					"url": "https://t.co/QASGiR1icC",
+					"display_url": "pic.twitter.com/QASGiR1icC",
+					"expanded_url": "https://twitter.com/ahahzh103/status/1092615685035909122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092615677528031200,
+					"id_str": "1092615677528031232",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DynAK3cUwAALJkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynAK3cUwAALJkt.jpg",
+					"url": "https://t.co/QASGiR1icC",
+					"display_url": "pic.twitter.com/QASGiR1icC",
+					"expanded_url": "https://twitter.com/ahahzh103/status/1092615685035909122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067766140225503200,
+			"id_str": "1067766140225503232",
+			"name": "みち",
+			"screen_name": "ahahzh103",
+			"location": "방구석...",
+			"description": "주기적 가챠증환자/리그 오브 레전드 ps4 밀리시타 스타듀밸리 마인크래프트/그림 안그리는 그림쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 106,
+			"listed_count": 0,
+			"created_at": "Wed Nov 28 13:04:20 +0000 2018",
+			"favourites_count": 3450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091786804028567552/UjaZCMWY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091786804028567552/UjaZCMWY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067766140225503232/1548176383",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17031,
+		"favorite_count": 3463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "저 이거 웃다가 숨넘어갈뻔함 이게 레전드다 진짜 https://t.co/QASGiR1icC"
+	},
+	{
 		"created_at": "Wed Feb 06 02:48:55 +0000 2019",
 		"id": 1092978416536629200,
 		"id_str": "1092978416536629248",
