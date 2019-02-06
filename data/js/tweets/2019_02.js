@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 03:39:13 +0000 2019",
+		"id": 1092991073817976800,
+		"id_str": "1093235473244274688",
+		"full_text": "Wait for it... #SOTU https://t.co/IZl7Gg59zO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOTU",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092990829180960800,
+					"id_str": "1092990829180960768",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DysVeg9W0AEgznk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysVeg9W0AEgznk.jpg",
+					"url": "https://t.co/IZl7Gg59zO",
+					"display_url": "pic.twitter.com/IZl7Gg59zO",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1092991073817976832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092990829180960800,
+					"id_str": "1092990829180960768",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DysVeg9W0AEgznk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysVeg9W0AEgznk.jpg",
+					"url": "https://t.co/IZl7Gg59zO",
+					"display_url": "pic.twitter.com/IZl7Gg59zO",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1092991073817976832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23090,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1092990829180960768/pl/uM-0Iv07LtqMr7rw.m3u8?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1092990829180960768/vid/720x720/paNJ7dMCr_klEq-J.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1092990829180960768/vid/480x480/Vcgdv7a3rnfzDwbQ.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1092990829180960768/vid/320x320/9brSwy9bpzjvAm_m.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Bernie Sanders' Reaction To Trump's Remark on Socialism ",
+						"description": "Wait for it...",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701725963,
+			"id_str": "701725963",
+			"name": "NowThis",
+			"screen_name": "nowthisnews",
+			"location": "The Internet & NYC",
+			"description": "Stories that move.",
+			"url": "http://t.co/1NLX7sJ52o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1NLX7sJ52o",
+							"expanded_url": "http://nowthisnews.com/",
+							"display_url": "nowthisnews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2171563,
+			"friends_count": 12264,
+			"listed_count": 8309,
+			"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+			"favourites_count": 12009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7FDBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065251761034682368/HjiKEt_M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065251761034682368/HjiKEt_M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1735,
+		"favorite_count": 5953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait for it... #SOTU https://t.co/IZl7Gg59zO"
+	},
+	{
 		"created_at": "Wed Feb 06 03:45:22 +0000 2019",
 		"id": 1092992620434022400,
 		"id_str": "1093206659478872065",
