@@ -1,6 +1,1340 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 04:52:08 +0000 2019",
+		"id": 1093009425672024000,
+		"id_str": "1093021654307954689",
+		"full_text": "꼬맹이가 만든 성과 마차.jpg 혁명의 피냄새가 풀풀... https://t.co/LVPlblaT2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093009401269506000,
+					"id_str": "1093009401269506051",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DysmQmrU0AMFB1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysmQmrU0AMFB1f.jpg",
+					"url": "https://t.co/LVPlblaT2n",
+					"display_url": "pic.twitter.com/LVPlblaT2n",
+					"expanded_url": "https://twitter.com/seraph506/status/1093009425672024064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093009401269506000,
+					"id_str": "1093009401269506051",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DysmQmrU0AMFB1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysmQmrU0AMFB1f.jpg",
+					"url": "https://t.co/LVPlblaT2n",
+					"display_url": "pic.twitter.com/LVPlblaT2n",
+					"expanded_url": "https://twitter.com/seraph506/status/1093009425672024064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093009414976499700,
+					"id_str": "1093009414976499712",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DysmRZvU8AAiD6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysmRZvU8AAiD6L.jpg",
+					"url": "https://t.co/LVPlblaT2n",
+					"display_url": "pic.twitter.com/LVPlblaT2n",
+					"expanded_url": "https://twitter.com/seraph506/status/1093009425672024064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1515,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109222522,
+			"id_str": "109222522",
+			"name": "박성래",
+			"screen_name": "seraph506",
+			"location": "Seoul",
+			"description": "헬조선 게임개발노동자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3012,
+			"friends_count": 1174,
+			"listed_count": 54,
+			"created_at": "Thu Jan 28 10:31:02 +0000 2010",
+			"favourites_count": 2575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 411775,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011895229018849281/8nhx7giT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011895229018849281/8nhx7giT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꼬맹이가 만든 성과 마차.jpg 혁명의 피냄새가 풀풀... https://t.co/LVPlblaT2n"
+	},
+	{
+		"created_at": "Tue Feb 05 12:43:59 +0000 2019",
+		"id": 1092765779458543600,
+		"id_str": "1093021039221592065",
+		"full_text": "가족간이라도 개인 점유물에 손대는건 엄연히 절도인데 그걸 당당하게 트위터이 게시하는 좆빡대가리 새끼들이 넘쳐나는 것을 보니 수준을 알만하다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, Engl",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 사진과 여행, 먹고 마시는 것이 취미, 도쿄거주 중 // 사진계 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1248,
+			"friends_count": 475,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 17809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "83e30e314d0e5320",
+			"url": "https://api.twitter.com/1.1/geo/id/83e30e314d0e5320.json",
+			"place_type": "city",
+			"name": "Fukuoka City Hakata Ward",
+			"full_name": "Fukuoka-shi Hakata, Fukuoka",
+			"country_code": "JP",
+			"country": "Japan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							130.395325004251,
+							33.5446089970353
+						],
+						[
+							130.483550997035,
+							33.5446089970353
+						],
+						[
+							130.483550997035,
+							33.6187820011999
+						],
+						[
+							130.395325004251,
+							33.6187820011999
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가족간이라도 개인 점유물에 손대는건 엄연히 절도인데 그걸 당당하게 트위터이 게시하는 좆빡대가리 새끼들이 넘쳐나는 것을 보니 수준을 알만하다"
+	},
+	{
+		"created_at": "Wed Feb 06 03:14:50 +0000 2019",
+		"id": 1092984939648213000,
+		"id_str": "1093021009093914625",
+		"full_text": "노동조합에 특정 단체에 소속돼있어야한다는 제약은 없고 Freelancers Union을 비롯한 해외 대형 프리랜서 노조들은 이미 존재합니다. 국내법에도 프리랜서 노조에 상충되는 조항은 없고 이미 TBS 비정규직 노조에도 프리랜서가 다수 가입되어있으며 국내 프리랜서 노조도 여러번 논의된 바 있습니다. https://t.co/mEvayG2wSt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mEvayG2wSt",
+					"expanded_url": "https://twitter.com/miskyym/status/1092744390986977288",
+					"display_url": "twitter.com/miskyym/status…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3190841569,
+			"id_str": "3190841569",
+			"name": "LICIA compat",
+			"screen_name": "liciaesr",
+			"location": "~ 2021.09.18.",
+			"description": "Software Engineer, Rhythmgamer, Drinker, Cosplayer.\n\nKUCSE CATDOG; Team WF; Team GtH;\n\n@yuri_public💖\n본계: @liciaris",
+			"url": "https://t.co/TMbWxW1eQ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMbWxW1eQ5",
+							"expanded_url": "https://seiker.moe",
+							"display_url": "seiker.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 699,
+			"listed_count": 30,
+			"created_at": "Sun May 10 13:09:00 +0000 2015",
+			"favourites_count": 20825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 239871,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068448778208702464/kkvXAduJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068448778208702464/kkvXAduJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1549289065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092744390986977300,
+		"quoted_status_id_str": "1092744390986977288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mEvayG2wSt",
+			"expanded": "https://twitter.com/miskyym/status/1092744390986977288",
+			"display": "twitter.com/miskyym/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 11:18:59 +0000 2019",
+			"id": 1092744390986977300,
+			"id_str": "1092744390986977288",
+			"full_text": "프리랜서 노조ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n이런 모자란 새끼들이 존재하넼ㅋㅋㅋㅋ\n저기 혹시 \"프리\"랜서가 왜 \"프리\"랜서라고 불리는지 아십니까? https://t.co/5N9HaEaePF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5N9HaEaePF",
+						"expanded_url": "https://twitter.com/dcfu2018/status/1091969918944202753",
+						"display_url": "twitter.com/dcfu2018/statu…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 766100459656536000,
+				"id_str": "766100459656536065",
+				"name": "격언P",
+				"screen_name": "miskyym",
+				"location": "",
+				"description": "이러한 격언을 알고 계시는지?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 641,
+				"friends_count": 629,
+				"listed_count": 6,
+				"created_at": "Thu Aug 18 02:32:37 +0000 2016",
+				"favourites_count": 13947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35697,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029726696188956673/Tj3U72af_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029726696188956673/Tj3U72af_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/766100459656536065/1534366269",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1091969918944202800,
+			"quoted_status_id_str": "1091969918944202753",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5N9HaEaePF",
+				"expanded": "https://twitter.com/dcfu2018/status/1091969918944202753",
+				"display": "twitter.com/dcfu2018/statu…"
+			},
+			"retweet_count": 36,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 185,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노동조합에 특정 단체에 소속돼있어야한다는 제약은 없고 Freelancers Union을 비롯한 해외 대형 프리랜서 노조들은 이미 존재합니다. 국내법에도 프리랜서 노조에 상충되는 조항은 없고 이미 TBS 비정규직 노조에도 프리랜서가 다수 가입되어있으며 국내 프리랜서 노조도 여러번 논의된 바 있습니다. https://t.co/mEvayG2wSt"
+	},
+	{
+		"created_at": "Wed Feb 06 04:15:15 +0000 2019",
+		"id": 1093000144092508200,
+		"id_str": "1093020415927042048",
+		"full_text": "\"Abandoning these facilities because it costs too much is beyond understanding.\"\n\nA year after the Winter Olympics, silence echoes across Pyeongchang venues\n\nhttps://t.co/qnNwWIXxe8 https://t.co/ZLia8sye8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qnNwWIXxe8",
+					"expanded_url": "http://u.afp.com/JJxd",
+					"display_url": "u.afp.com/JJxd",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093000105936879600,
+					"id_str": "1093000105936879616",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dysdzi3VAAAdSxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dysdzi3VAAAdSxd.jpg",
+					"url": "https://t.co/ZLia8sye8h",
+					"display_url": "pic.twitter.com/ZLia8sye8h",
+					"expanded_url": "https://twitter.com/AFP_Sport/status/1093000144092508161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093000105936879600,
+					"id_str": "1093000105936879616",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dysdzi3VAAAdSxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dysdzi3VAAAdSxd.jpg",
+					"url": "https://t.co/ZLia8sye8h",
+					"display_url": "pic.twitter.com/ZLia8sye8h",
+					"expanded_url": "https://twitter.com/AFP_Sport/status/1093000144092508161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093000105936834600,
+					"id_str": "1093000105936834560",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dysdzi3UUAAwJOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dysdzi3UUAAwJOa.jpg",
+					"url": "https://t.co/ZLia8sye8h",
+					"display_url": "pic.twitter.com/ZLia8sye8h",
+					"expanded_url": "https://twitter.com/AFP_Sport/status/1093000144092508161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093000105941037000,
+					"id_str": "1093000105941037056",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dysdzi4UcAAusc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dysdzi4UcAAusc-.jpg",
+					"url": "https://t.co/ZLia8sye8h",
+					"display_url": "pic.twitter.com/ZLia8sye8h",
+					"expanded_url": "https://twitter.com/AFP_Sport/status/1093000144092508161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2381967920,
+			"id_str": "2381967920",
+			"name": "AFP Sport",
+			"screen_name": "AFP_Sport",
+			"location": "Everywhere",
+			"description": "Premier League, La Liga, Serie A, B'liga & Ligue 1, NFL,  tennis, rugby, NBA, cricket with stunning pix from news agency AFP. \nInstagram afpsport",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7029,
+			"friends_count": 1016,
+			"listed_count": 250,
+			"created_at": "Mon Mar 10 11:01:53 +0000 2014",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16123,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0082C8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/443071673353256961/dys72rLp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/443071673353256961/dys72rLp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2381967920/1549227067",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Abandoning these facilities because it costs too much is beyond understanding.\"\n\nA year after the Winter Olympics, silence echoes across Pyeongchang venues\n\nhttps://t.co/qnNwWIXxe8 https://t.co/ZLia8sye8h"
+	},
+	{
+		"created_at": "Mon Feb 04 11:46:37 +0000 2019",
+		"id": 1092388956992266200,
+		"id_str": "1093019522955497473",
+		"full_text": "공공장소에서 트위터 키면 벌어지는 일: https://t.co/v3yUvrY1ep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092388948163289100,
+					"id_str": "1092388948163289088",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyjx9evV4AADlt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyjx9evV4AADlt4.jpg",
+					"url": "https://t.co/v3yUvrY1ep",
+					"display_url": "pic.twitter.com/v3yUvrY1ep",
+					"expanded_url": "https://twitter.com/jaja_tattooer/status/1092388956992266240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092388948163289100,
+					"id_str": "1092388948163289088",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyjx9evV4AADlt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyjx9evV4AADlt4.jpg",
+					"url": "https://t.co/v3yUvrY1ep",
+					"display_url": "pic.twitter.com/v3yUvrY1ep",
+					"expanded_url": "https://twitter.com/jaja_tattooer/status/1092388956992266240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 321,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866667461894053900,
+			"id_str": "866667461894053888",
+			"name": "자자타투",
+			"screen_name": "jaja_tattooer",
+			"location": "",
+			"description": "Tattoo Artist / 합정 / 카톡 ID : jabuk27 / 궁금하신 점은 공지사항 / 디엠보다 카톡이 빨라요",
+			"url": "https://t.co/MgZhNBp9MK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MgZhNBp9MK",
+							"expanded_url": "https://www.evernote.com/shard/s499/sh/a1762a94-d9c4-4f24-bcb6-fa27555f70b7/ca7ce89fd693d61e625dbea1",
+							"display_url": "evernote.com/shard/s499/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5127,
+			"friends_count": 380,
+			"listed_count": 41,
+			"created_at": "Mon May 22 14:49:59 +0000 2017",
+			"favourites_count": 1153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10438,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069609979806502912/JkpLgweP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069609979806502912/JkpLgweP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866667461894053888/1536629373",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2946,
+		"favorite_count": 1218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공공장소에서 트위터 키면 벌어지는 일: https://t.co/v3yUvrY1ep"
+	},
+	{
+		"created_at": "Tue Feb 05 10:29:53 +0000 2019",
+		"id": 1092732032067690500,
+		"id_str": "1093019391757676544",
+		"full_text": "이 형 왜 유튜브에서 한국어로 방송하는거야?! https://t.co/QzrGSeCnZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092732025155465200,
+					"id_str": "1092732025155465217",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyop_MIVsAE7upE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyop_MIVsAE7upE.jpg",
+					"url": "https://t.co/QzrGSeCnZL",
+					"display_url": "pic.twitter.com/QzrGSeCnZL",
+					"expanded_url": "https://twitter.com/sprit4ever/status/1092732032067690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092732025155465200,
+					"id_str": "1092732025155465217",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyop_MIVsAE7upE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyop_MIVsAE7upE.jpg",
+					"url": "https://t.co/QzrGSeCnZL",
+					"display_url": "pic.twitter.com/QzrGSeCnZL",
+					"expanded_url": "https://twitter.com/sprit4ever/status/1092732032067690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092732025167966200,
+					"id_str": "1092732025167966208",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyop_MLUcAANevV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyop_MLUcAANevV.jpg",
+					"url": "https://t.co/QzrGSeCnZL",
+					"display_url": "pic.twitter.com/QzrGSeCnZL",
+					"expanded_url": "https://twitter.com/sprit4ever/status/1092732032067690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745141948101492700,
+			"id_str": "745141948101492736",
+			"name": "네오디스",
+			"screen_name": "sprit4ever",
+			"location": "대한민국 관악구",
+			"description": "오이카와 목장의 346번 숫소\n/음식, 19금짤주의/❤@Enriyu_P",
+			"url": "https://t.co/SHfnZqEp9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHfnZqEp9a",
+							"expanded_url": "https://ask.fm/sprit4ever",
+							"display_url": "ask.fm/sprit4ever",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562,
+			"friends_count": 711,
+			"listed_count": 8,
+			"created_at": "Tue Jun 21 06:30:59 +0000 2016",
+			"favourites_count": 87111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146090,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084781492750798848/aR_pKp1O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084781492750798848/aR_pKp1O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745141948101492736/1535873885",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 347,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 형 왜 유튜브에서 한국어로 방송하는거야?! https://t.co/QzrGSeCnZL"
+	},
+	{
+		"created_at": "Tue Feb 05 08:37:30 +0000 2019",
+		"id": 1092703752232955900,
+		"id_str": "1093019208177217536",
+		"full_text": "그걸... 왜... 쌩판 남의 호텔 변기에... @chlrhrkehlsmsrl https://t.co/Jnjohd6R8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chlrhrkehlsmsrl",
+					"name": "현생 삽니다.",
+					"id": 900890097721106400,
+					"id_str": "900890097721106432",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092703745454989300,
+					"id_str": "1092703745454989312",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoQRGCVYAApT5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoQRGCVYAApT5N.jpg",
+					"url": "https://t.co/Jnjohd6R8x",
+					"display_url": "pic.twitter.com/Jnjohd6R8x",
+					"expanded_url": "https://twitter.com/foxdown028/status/1092703752232955904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092703745454989300,
+					"id_str": "1092703745454989312",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DyoQRGCVYAApT5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyoQRGCVYAApT5N.jpg",
+					"url": "https://t.co/Jnjohd6R8x",
+					"display_url": "pic.twitter.com/Jnjohd6R8x",
+					"expanded_url": "https://twitter.com/foxdown028/status/1092703752232955904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964397046806360000,
+			"id_str": "964397046806360064",
+			"name": "fox의 트위터 박제보관소",
+			"screen_name": "foxdown028",
+			"location": "",
+			"description": "개별 박제의 의도는 계정주의 신념, 성향과 일치하지 않을 수 있습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3841,
+			"friends_count": 7,
+			"listed_count": 14,
+			"created_at": "Fri Feb 16 07:12:28 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1815,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980594474559553536/hiBUbXt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980594474559553536/hiBUbXt8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그걸... 왜... 쌩판 남의 호텔 변기에... @chlrhrkehlsmsrl https://t.co/Jnjohd6R8x"
+	},
+	{
 		"created_at": "Wed Feb 06 05:08:15 +0000 2019",
 		"id": 1093013481165475800,
 		"id_str": "1093013481165475840",
