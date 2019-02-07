@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 03:00:44 +0000 2019",
+		"id": 1092981387961950200,
+		"id_str": "1093360293634179072",
+		"full_text": "매년 7000명을 죽이는 의료사고 https://t.co/WRRSsUwvQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092981380428980200,
+					"id_str": "1092981380428980224",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DysMxk6V4AAKjpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysMxk6V4AAKjpN.jpg",
+					"url": "https://t.co/WRRSsUwvQs",
+					"display_url": "pic.twitter.com/WRRSsUwvQs",
+					"expanded_url": "https://twitter.com/moonnim1/status/1092981387961950209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1174,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092981380428980200,
+					"id_str": "1092981380428980224",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DysMxk6V4AAKjpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysMxk6V4AAKjpN.jpg",
+					"url": "https://t.co/WRRSsUwvQs",
+					"display_url": "pic.twitter.com/WRRSsUwvQs",
+					"expanded_url": "https://twitter.com/moonnim1/status/1092981387961950209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1174,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 337168200,
+			"id_str": "337168200",
+			"name": "김용수/TYHR",
+			"screen_name": "moonnim1",
+			"location": "",
+			"description": "페미니즘 그것은 1g의 이론에 1톤의 피해의식",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 173,
+			"listed_count": 4,
+			"created_at": "Sun Jul 17 15:36:00 +0000 2011",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1283,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1789813146/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1789813146/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/337168200/1519974708",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매년 7000명을 죽이는 의료사고 https://t.co/WRRSsUwvQs"
+	},
+	{
 		"created_at": "Thu Feb 07 02:52:24 +0000 2019",
 		"id": 1093341678646095900,
 		"id_str": "1093341678646095872",
