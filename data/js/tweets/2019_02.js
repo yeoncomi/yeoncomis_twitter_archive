@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 23:24:45 +0000 2019",
+		"id": 1093289422701899800,
+		"id_str": "1093289422701899777",
+		"full_text": "Now #forum4yc parilamentarian's reception (@ Sir John A MacDonald Building in Ottawa, Ontario) https://t.co/wVdppB8ZR7 https://t.co/jr7wqTor1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "forum4yc",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wVdppB8ZR7",
+					"expanded_url": "https://www.swarmapp.com/c/5vrxsOJ18EA",
+					"display_url": "swarmapp.com/c/5vrxsOJ18EA",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093289421288472600,
+					"id_str": "1093289421288472577",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Dywk76iXgAEetZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dywk76iXgAEetZU.jpg",
+					"url": "https://t.co/jr7wqTor1B",
+					"display_url": "pic.twitter.com/jr7wqTor1B",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1093289422701899777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093289421288472600,
+					"id_str": "1093289421288472577",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Dywk76iXgAEetZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dywk76iXgAEetZU.jpg",
+					"url": "https://t.co/jr7wqTor1B",
+					"display_url": "pic.twitter.com/jr7wqTor1B",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1093289422701899777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 990,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				45.422685,
+				-75.69991
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-75.69991,
+				45.422685
+			]
+		},
+		"place": {
+			"id": "38d5974e82ed1a6c",
+			"url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+			"place_type": "city",
+			"name": "Ottawa",
+			"full_name": "Ottawa, Ontario",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-76.353876,
+							44.961937
+						],
+						[
+							-75.246407,
+							44.961937
+						],
+						[
+							-75.246407,
+							45.5356446
+						],
+						[
+							-76.353876,
+							45.5356446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now #forum4yc parilamentarian's reception (@ Sir John A MacDonald Building in Ottawa, Ontario) https://t.co/wVdppB8ZR7 https://t.co/jr7wqTor1B"
+	},
+	{
 		"created_at": "Tue Feb 05 14:06:28 +0000 2019",
 		"id": 1092786537685647400,
 		"id_str": "1093270469292113920",
