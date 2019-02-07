@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 01:56:53 +0000 2019",
+		"id": 1093327707700486100,
+		"id_str": "1093486762641448962",
+		"full_text": "“그럼 아내분은...” 박중훈이 덴마크 '동성 부부'에게 한 말실수 https://t.co/Zw1ILBby41 #국경없는포차",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국경없는포차",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zw1ILBby41",
+					"expanded_url": "http://i.wik.im/402206",
+					"display_url": "i.wik.im/402206",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.wikitree.co.kr/\" rel=\"nofollow\">[위키트리] 소셜뉴스</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47856818,
+			"id_str": "47856818",
+			"name": "위키트리 WIKITREE",
+			"screen_name": "wikitree",
+			"location": "대한민국 서울",
+			"description": "Wikid Voice 세상을 깨우는 재미진 목소리",
+			"url": "http://t.co/1rzZs7QDMx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1rzZs7QDMx",
+							"expanded_url": "http://www.wikitree.co.kr",
+							"display_url": "wikitree.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367457,
+			"friends_count": 53270,
+			"listed_count": 6055,
+			"created_at": "Wed Jun 17 04:35:24 +0000 2009",
+			"favourites_count": 1840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 253221,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5BB601",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712467445294891008/AmnU95lu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712467445294891008/AmnU95lu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47856818/1538459658",
+			"profile_link_color": "0083FB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CAE6CB",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“그럼 아내분은...” 박중훈이 덴마크 '동성 부부'에게 한 말실수 https://t.co/Zw1ILBby41 #국경없는포차"
+	},
+	{
 		"created_at": "Thu Feb 07 01:49:38 +0000 2019",
 		"id": 1093325884952440800,
 		"id_str": "1093365982410625024",
