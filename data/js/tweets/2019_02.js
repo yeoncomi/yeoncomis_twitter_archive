@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 01:49:38 +0000 2019",
+		"id": 1093325884952440800,
+		"id_str": "1093365982410625024",
+		"full_text": "트친님이 알려주셨는데 몰몬교의 반동성애적 교리를 풍자하는 아트 프로젝트였다고.. https://t.co/KBIzd88WN8 https://t.co/K51ekJx6BY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KBIzd88WN8",
+					"expanded_url": "http://mormonmissionarypositions.com",
+					"display_url": "mormonmissionarypositions.com",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/K51ekJx6BY",
+					"expanded_url": "https://twitter.com/fujoshi1010/status/1093080116656140289",
+					"display_url": "twitter.com/fujoshi1010/st…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961920007025274900,
+			"id_str": "961920007025274881",
+			"name": "밈지🌈",
+			"screen_name": "mimsylost_mu",
+			"location": "",
+			"description": "뮤지컬과 영문학 사담 | 불편하게 느낀 점이나 고쳤으면 하는 점은 꼭 알려주세요! | FUB 편하게 해주세요😊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 140,
+			"listed_count": 0,
+			"created_at": "Fri Feb 09 11:09:36 +0000 2018",
+			"favourites_count": 22847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17371,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049682938504208384/tdy9DS1Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049682938504208384/tdy9DS1Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961920007025274881/1535181536",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093080116656140300,
+		"quoted_status_id_str": "1093080116656140289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K51ekJx6BY",
+			"expanded": "https://twitter.com/fujoshi1010/status/1093080116656140289",
+			"display": "twitter.com/fujoshi1010/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 09:33:02 +0000 2019",
+			"id": 1093080116656140300,
+			"id_str": "1093080116656140289",
+			"full_text": "ㅁㅁㄱ(사이비종교) 동성애 깔려고 이런 사진을찍었다기엔 너무 좋은 비엘인체사진집 아닙니까? https://t.co/CtLiiPtUKi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1093080104274554900,
+						"id_str": "1093080104274554880",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DytmkD5U8AAnc97.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytmkD5U8AAnc97.jpg",
+						"url": "https://t.co/CtLiiPtUKi",
+						"display_url": "pic.twitter.com/CtLiiPtUKi",
+						"expanded_url": "https://twitter.com/Fujoshi1010/status/1093080116656140289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093080104274554900,
+						"id_str": "1093080104274554880",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DytmkD5U8AAnc97.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytmkD5U8AAnc97.jpg",
+						"url": "https://t.co/CtLiiPtUKi",
+						"display_url": "pic.twitter.com/CtLiiPtUKi",
+						"expanded_url": "https://twitter.com/Fujoshi1010/status/1093080116656140289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1093080107428638700,
+						"id_str": "1093080107428638720",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DytmkPpUcAAHEr1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytmkPpUcAAHEr1.jpg",
+						"url": "https://t.co/CtLiiPtUKi",
+						"display_url": "pic.twitter.com/CtLiiPtUKi",
+						"expanded_url": "https://twitter.com/Fujoshi1010/status/1093080116656140289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1093080110549295100,
+						"id_str": "1093080110549295105",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DytmkbRV4AE4Xxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytmkbRV4AE4Xxa.jpg",
+						"url": "https://t.co/CtLiiPtUKi",
+						"display_url": "pic.twitter.com/CtLiiPtUKi",
+						"expanded_url": "https://twitter.com/Fujoshi1010/status/1093080116656140289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1093080113707544600,
+						"id_str": "1093080113707544576",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DytmknCU8AAgA9t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DytmknCU8AAgA9t.jpg",
+						"url": "https://t.co/CtLiiPtUKi",
+						"display_url": "pic.twitter.com/CtLiiPtUKi",
+						"expanded_url": "https://twitter.com/Fujoshi1010/status/1093080116656140289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1051140113407692800,
+				"id_str": "1051140113407692801",
+				"name": "샤인 불삶✘미쳐버린 후죠",
+				"screen_name": "Fujoshi1010",
+				"location": "다정하면 다 다정공이지. 안 그래?",
+				"description": "벨소설 보다가 만든 腐계정.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 14,
+				"listed_count": 0,
+				"created_at": "Sat Oct 13 15:58:27 +0000 2018",
+				"favourites_count": 582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3681,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1089997056855334912/of1s57Xz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089997056855334912/of1s57Xz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051140113407692801/1539886665",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5039,
+			"favorite_count": 1878,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1292,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트친님이 알려주셨는데 몰몬교의 반동성애적 교리를 풍자하는 아트 프로젝트였다고.. https://t.co/KBIzd88WN8 https://t.co/K51ekJx6BY"
+	},
+	{
 		"created_at": "Wed Feb 06 03:00:44 +0000 2019",
 		"id": 1092981387961950200,
 		"id_str": "1093360293634179072",
