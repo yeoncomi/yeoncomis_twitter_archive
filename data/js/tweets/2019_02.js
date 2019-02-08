@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 13:41:18 +0000 2019",
+		"id": 1093504982089789400,
+		"id_str": "1093660759890919425",
+		"full_text": "요시노야\n스키야\n마츠야\n나카우\n카츠야\n하나마루우동\n사이제리아\n가스토\n데니즈\n맥도날드\n모스버거\n코코이치방야\n\n이거 말고 일본국 최고의 맛집이 또 뭐가 있었더라...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124786198,
+			"id_str": "124786198",
+			"name": "Ryunan",
+			"screen_name": "Ryunan9903",
+			"location": "한국",
+			"description": "",
+			"url": "https://t.co/jb66CNsELe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jb66CNsELe",
+							"expanded_url": "http://ryunan9903.egloos.com",
+							"display_url": "ryunan9903.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 193,
+			"listed_count": 44,
+			"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+			"favourites_count": 8660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 265228,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980453962317901825/VDHy6Nz5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요시노야\n스키야\n마츠야\n나카우\n카츠야\n하나마루우동\n사이제리아\n가스토\n데니즈\n맥도날드\n모스버거\n코코이치방야\n\n이거 말고 일본국 최고의 맛집이 또 뭐가 있었더라..."
+	},
+	{
+		"created_at": "Thu Feb 07 10:42:59 +0000 2019",
+		"id": 1093460107273400300,
+		"id_str": "1093660620400910337",
+		"full_text": "광해군명군설\n김치만병통치설\n고려무패설 \n\n이거 세개중 하나는 솔직히 초중딩때 깊게 빤적있을듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 331685407,
+			"id_str": "331685407",
+			"name": "김찬엘",
+			"screen_name": "moriyachanl",
+			"location": "Patriarch of Moriya Shrine",
+			"description": "비밀결사단 문사철의 단장이 당신을 환영합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1233,
+			"friends_count": 289,
+			"listed_count": 22,
+			"created_at": "Fri Jul 08 15:24:58 +0000 2011",
+			"favourites_count": 1363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92401,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092788861565108224/1D7TKjGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092788861565108224/1D7TKjGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/331685407/1512001999",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "광해군명군설\n김치만병통치설\n고려무패설 \n\n이거 세개중 하나는 솔직히 초중딩때 깊게 빤적있을듯"
+	},
+	{
 		"created_at": "Thu Feb 07 01:56:53 +0000 2019",
 		"id": 1093327707700486100,
 		"id_str": "1093486762641448962",
