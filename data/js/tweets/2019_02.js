@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 22:26:32 +0000 2019",
+		"id": 1093637161503453200,
+		"id_str": "1093671711726219264",
+		"full_text": "[단독]동성애 '전환치료' 시도한 상담사 첫 퇴출\n\n한국상담심리학회 \"비과학적·비윤리적인 행위\"…회원 자격 박탈\n\n심리학회도 \"영구제명 추진\" 등 성 정체성 바꾸는 '치료' 잇단 철퇴 https://t.co/ZnvmThwOKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZnvmThwOKm",
+					"expanded_url": "https://news.v.daum.net/v/20190208060144454",
+					"display_url": "news.v.daum.net/v/201902080601…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/TVpHRh058J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TVpHRh058J",
+							"expanded_url": "http://jongwon1917.tistory.com/",
+							"display_url": "jongwon1917.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2620,
+			"friends_count": 1171,
+			"listed_count": 33,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 49222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23937,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]동성애 '전환치료' 시도한 상담사 첫 퇴출\n\n한국상담심리학회 \"비과학적·비윤리적인 행위\"…회원 자격 박탈\n\n심리학회도 \"영구제명 추진\" 등 성 정체성 바꾸는 '치료' 잇단 철퇴 https://t.co/ZnvmThwOKm"
+	},
+	{
+		"created_at": "Thu Feb 07 11:38:28 +0000 2019",
+		"id": 1093474069691871200,
+		"id_str": "1093671419433480193",
+		"full_text": "MEDI:GATE NEWS : 안아키 한의사 반성은 커녕…안전하게 아이 키우기 카페 재결성, 회원수 벌써 4700여명 https://t.co/pyS3GzYS9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pyS3GzYS9f",
+					"expanded_url": "http://www.medigatenews.com/news/1951641020",
+					"display_url": "medigatenews.com/news/1951641020",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131489001,
+			"id_str": "131489001",
+			"name": "김정한 Jeong Han Kim",
+			"screen_name": "DrJHK",
+			"location": "Korea(대한민국)",
+			"description": "KUMC Liver",
+			"url": "http://t.co/6jXxPUuMps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6jXxPUuMps",
+							"expanded_url": "http://facebook.com/DrJHK",
+							"display_url": "facebook.com/DrJHK",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 2494,
+			"listed_count": 71,
+			"created_at": "Sat Apr 10 12:24:56 +0000 2010",
+			"favourites_count": 4699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77499,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029394047922626560/QveV4urR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029394047922626560/QveV4urR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131489001/1534261579",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MEDI:GATE NEWS : 안아키 한의사 반성은 커녕…안전하게 아이 키우기 카페 재결성, 회원수 벌써 4700여명 https://t.co/pyS3GzYS9f"
+	},
+	{
+		"created_at": "Thu Feb 07 10:39:30 +0000 2019",
+		"id": 1093459227945820200,
+		"id_str": "1093671266202996736",
+		"full_text": "모바마스가 한국에 본격적인 서비스를 한 2015년, 임유진의 나이 15세...\n2019년에 추가된 신 캐릭터 유메미 리아무, 나이 19세...\n합리적......... 의심......................... https://t.co/RMaqhLkEa0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093459209776029700,
+					"id_str": "1093459209776029697",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy_W58UYAErVej.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy_W58UYAErVej.jpg",
+					"url": "https://t.co/RMaqhLkEa0",
+					"display_url": "pic.twitter.com/RMaqhLkEa0",
+					"expanded_url": "https://twitter.com/Synesthesia_R/status/1093459227945820161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093459209776029700,
+					"id_str": "1093459209776029697",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy_W58UYAErVej.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy_W58UYAErVej.jpg",
+					"url": "https://t.co/RMaqhLkEa0",
+					"display_url": "pic.twitter.com/RMaqhLkEa0",
+					"expanded_url": "https://twitter.com/Synesthesia_R/status/1093459227945820161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093459209788698600,
+					"id_str": "1093459209788698624",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy_W5_VsAApvnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy_W5_VsAApvnT.jpg",
+					"url": "https://t.co/RMaqhLkEa0",
+					"display_url": "pic.twitter.com/RMaqhLkEa0",
+					"expanded_url": "https://twitter.com/Synesthesia_R/status/1093459227945820161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 634,
+							"h": 894,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 634,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291867260,
+			"id_str": "3291867260",
+			"name": "라클♬",
+			"screen_name": "Synesthesia_R",
+			"location": "프로덕션 사무소",
+			"description": "Profile Image by @rkellri / 타치바나 아리스가 너무너무 귀여운 사람 / デレステ 988079642 / 신데렐라걸즈 극장 번역 계정 @cingeki_wide_kr 운영 중 / 언제든 어디서든 초면에 죄송하실 필요 없습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 159,
+			"listed_count": 5,
+			"created_at": "Sat Jul 25 04:51:43 +0000 2015",
+			"favourites_count": 364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34654,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059807076405243904/DcBnorRE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059807076405243904/DcBnorRE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291867260/1549212392",
+			"profile_link_color": "1A3C3D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모바마스가 한국에 본격적인 서비스를 한 2015년, 임유진의 나이 15세...\n2019년에 추가된 신 캐릭터 유메미 리아무, 나이 19세...\n합리적......... 의심......................... https://t.co/RMaqhLkEa0"
+	},
+	{
 		"created_at": "Thu Feb 07 13:41:18 +0000 2019",
 		"id": 1093504982089789400,
 		"id_str": "1093660759890919425",
