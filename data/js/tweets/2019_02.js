@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 07:43:26 +0000 2019",
+		"id": 1093777307741769700,
+		"id_str": "1093796145459949568",
+		"full_text": "호텔 예약할 때, 익스피디아, 호텔스닷컴, 트리바고 중에서 어디가 가장 좋을까요?\n\n답 : https://t.co/AY2AhoQ5Wm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093777299248341000,
+					"id_str": "1093777299248340992",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3gqJkVYAAb7rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3gqJkVYAAb7rq.jpg",
+					"url": "https://t.co/AY2AhoQ5Wm",
+					"display_url": "pic.twitter.com/AY2AhoQ5Wm",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1093777307741769728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093777299248341000,
+					"id_str": "1093777299248340992",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3gqJkVYAAb7rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3gqJkVYAAb7rq.jpg",
+					"url": "https://t.co/AY2AhoQ5Wm",
+					"display_url": "pic.twitter.com/AY2AhoQ5Wm",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1093777307741769728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/vjNo8DdrHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjNo8DdrHI",
+							"expanded_url": "http://hanbinism.egloos.com/m/",
+							"display_url": "hanbinism.egloos.com/m/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 375,
+			"listed_count": 30,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 10055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111174,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호텔 예약할 때, 익스피디아, 호텔스닷컴, 트리바고 중에서 어디가 가장 좋을까요?\n\n답 : https://t.co/AY2AhoQ5Wm"
+	},
+	{
+		"created_at": "Fri Feb 08 06:14:13 +0000 2019",
+		"id": 1093754857528283100,
+		"id_str": "1093796076727848961",
+		"full_text": "소녀상 의미도 보고가세여...진짜 한국에서 제일 잘 만든 조형물이라고 생각함... https://t.co/G2XFS3q0a5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093754849642963000,
+					"id_str": "1093754849642962945",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3MPaRUYAEG000.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3MPaRUYAEG000.jpg",
+					"url": "https://t.co/G2XFS3q0a5",
+					"display_url": "pic.twitter.com/G2XFS3q0a5",
+					"expanded_url": "https://twitter.com/maemal_04/status/1093754857528283136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093754849642963000,
+					"id_str": "1093754849642962945",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3MPaRUYAEG000.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3MPaRUYAEG000.jpg",
+					"url": "https://t.co/G2XFS3q0a5",
+					"display_url": "pic.twitter.com/G2XFS3q0a5",
+					"expanded_url": "https://twitter.com/maemal_04/status/1093754857528283136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1093709259487903700,
+		"in_reply_to_status_id_str": "1093709259487903744",
+		"in_reply_to_user_id": 1037715022909067300,
+		"in_reply_to_user_id_str": "1037715022909067265",
+		"in_reply_to_screen_name": "maemal_04",
+		"user": {
+			"id": 1037715022909067300,
+			"id_str": "1037715022909067265",
+			"name": "매맬",
+			"screen_name": "maemal_04",
+			"location": "",
+			"description": "1차::커뮤러::행앗행앗::맨션스루 고의x::❗️이별은 블언블❗️:: 여혐장르 안받아요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 441,
+			"listed_count": 2,
+			"created_at": "Thu Sep 06 14:51:56 +0000 2018",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 720,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088097958959099905/Z1Lcsq4o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088097958959099905/Z1Lcsq4o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1037715022909067265/1548257745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀상 의미도 보고가세여...진짜 한국에서 제일 잘 만든 조형물이라고 생각함... https://t.co/G2XFS3q0a5"
+	},
+	{
 		"created_at": "Fri Feb 08 05:19:57 +0000 2019",
 		"id": 1093741198433386500,
 		"id_str": "1093741198433386496",
