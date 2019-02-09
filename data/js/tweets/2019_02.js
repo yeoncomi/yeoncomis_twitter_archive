@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 04:20:14 +0000 2019",
+		"id": 1094088559621853200,
+		"id_str": "1094094684266217472",
+		"full_text": "「Rhodanthe*」トレンド入りだー！ https://t.co/4aL8WJjJjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094088553129074700,
+					"id_str": "1094088553129074688",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy77vgoUYAAzrHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy77vgoUYAAzrHE.jpg",
+					"url": "https://t.co/4aL8WJjJjJ",
+					"display_url": "pic.twitter.com/4aL8WJjJjJ",
+					"expanded_url": "https://twitter.com/Sayak_Cacao11/status/1094088559621853186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094088553129074700,
+					"id_str": "1094088553129074688",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy77vgoUYAAzrHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy77vgoUYAAzrHE.jpg",
+					"url": "https://t.co/4aL8WJjJjJ",
+					"display_url": "pic.twitter.com/4aL8WJjJjJ",
+					"expanded_url": "https://twitter.com/Sayak_Cacao11/status/1094088559621853186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2439870056,
+			"id_str": "2439870056",
+			"name": "み る く 力 力 オ *❄️",
+			"screen_name": "Sayak_Cacao11",
+			"location": "あぅ……あぅ……",
+			"description": "お絵描きします。きんモザとﾌﾟﾘﾊﾟﾗときらら系大好き！ サークル名：力力オ＊製菓。連絡先▶︎(kinmosa.cacao11@gmail.com)かDMへ。",
+			"url": "https://t.co/YumekU7qnl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YumekU7qnl",
+							"expanded_url": "https://www.pixiv.net/member.php?id=6896083",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2120,
+			"friends_count": 867,
+			"listed_count": 70,
+			"created_at": "Sat Apr 12 11:08:03 +0000 2014",
+			"favourites_count": 33200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67305,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079011361751846913/d3NAQe0p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079011361751846913/d3NAQe0p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2439870056/1544486583",
+			"profile_link_color": "FFFBAD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「Rhodanthe*」トレンド入りだー！ https://t.co/4aL8WJjJjJ"
+	},
+	{
+		"created_at": "Fri Feb 08 11:56:03 +0000 2019",
+		"id": 1093840879884759000,
+		"id_str": "1094088727868002304",
+		"full_text": "이거미쳤냐곸ㅋㅋㅋㅋ https://t.co/Ir7oXfiM9z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093840868300050400,
+					"id_str": "1093840868300050433",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4aeWvUUAEk0VS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4aeWvUUAEk0VS.jpg",
+					"url": "https://t.co/Ir7oXfiM9z",
+					"display_url": "pic.twitter.com/Ir7oXfiM9z",
+					"expanded_url": "https://twitter.com/An_sLove7/status/1093840879884759040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093840868300050400,
+					"id_str": "1093840868300050433",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4aeWvUUAEk0VS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4aeWvUUAEk0VS.jpg",
+					"url": "https://t.co/Ir7oXfiM9z",
+					"display_url": "pic.twitter.com/Ir7oXfiM9z",
+					"expanded_url": "https://twitter.com/An_sLove7/status/1093840879884759040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3177777896,
+			"id_str": "3177777896",
+			"name": "윤성",
+			"screen_name": "An_sLove7",
+			"location": "",
+			"description": "20⬆️/ 잡덕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 422,
+			"listed_count": 3,
+			"created_at": "Mon Apr 27 11:28:00 +0000 2015",
+			"favourites_count": 2662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2569,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093490425267073024/SnFWUf-k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093490425267073024/SnFWUf-k_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4881,
+		"favorite_count": 1735,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거미쳤냐곸ㅋㅋㅋㅋ https://t.co/Ir7oXfiM9z"
+	},
+	{
 		"created_at": "Sat Feb 09 02:25:36 +0000 2019",
 		"id": 1094059712251781100,
 		"id_str": "1094059712251781120",
