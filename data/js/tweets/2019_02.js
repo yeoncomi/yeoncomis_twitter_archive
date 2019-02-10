@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 01:45:50 +0000 2019",
+		"id": 1094412092336029700,
+		"id_str": "1094626145729822720",
+		"full_text": "놀러갔는데 비모 금속뱃지 너무 귀여워서 두개 사왔는데 하나 하자있길래 무나합니다\n선착 아니고 알티이벤트에여~\n\n사실 하자라고 하기에는 너무 작아서 티 1도 안나는데 알티이벤 하고싶어서 핑계댄거니까 데려가세오\n준등기로 제가 배송비 냅니다 https://t.co/0VZifMcxOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094412068327809000,
+					"id_str": "1094412068327809029",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzAh-kqUYAUBqwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzAh-kqUYAUBqwn.jpg",
+					"url": "https://t.co/0VZifMcxOv",
+					"display_url": "pic.twitter.com/0VZifMcxOv",
+					"expanded_url": "https://twitter.com/Poko_Roko_/status/1094412092336029697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094412068327809000,
+					"id_str": "1094412068327809029",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzAh-kqUYAUBqwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzAh-kqUYAUBqwn.jpg",
+					"url": "https://t.co/0VZifMcxOv",
+					"display_url": "pic.twitter.com/0VZifMcxOv",
+					"expanded_url": "https://twitter.com/Poko_Roko_/status/1094412092336029697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094412081367941100,
+					"id_str": "1094412081367941120",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzAh_VPVAAAYTnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzAh_VPVAAAYTnI.jpg",
+					"url": "https://t.co/0VZifMcxOv",
+					"display_url": "pic.twitter.com/0VZifMcxOv",
+					"expanded_url": "https://twitter.com/Poko_Roko_/status/1094412092336029697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1026,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1026,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077501669858893800,
+			"id_str": "1077501669858893825",
+			"name": "로코 [반동결❄]",
+			"screen_name": "Poko_Roko_",
+			"location": "",
+			"description": "트친님들 이별은 블언블 부탁드리고, 언팔 고의 아니에요. 언팔됬으면 디엠주세요                                                헤더 @mit_mit_mit_mit 님 / 인장 @Kao_S2_ 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 608,
+			"listed_count": 5,
+			"created_at": "Tue Dec 25 09:49:51 +0000 2018",
+			"favourites_count": 4296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4354,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080446584859484160/Sd91GQ69_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080446584859484160/Sd91GQ69_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077501669858893825/1545910706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10795,
+		"favorite_count": 1136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "놀러갔는데 비모 금속뱃지 너무 귀여워서 두개 사왔는데 하나 하자있길래 무나합니다\n선착 아니고 알티이벤트에여~\n\n사실 하자라고 하기에는 너무 작아서 티 1도 안나는데 알티이벤 하고싶어서 핑계댄거니까 데려가세오\n준등기로 제가 배송비 냅니다 https://t.co/0VZifMcxOv"
+	},
+	{
+		"created_at": "Sun Feb 10 08:57:21 +0000 2019",
+		"id": 1094520688424046600,
+		"id_str": "1094625834223099904",
+		"full_text": "세상에 https://t.co/D4EIVZRzdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094520677816647700,
+					"id_str": "1094520677816647680",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/DzCEweiUwAAx_ZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzCEweiUwAAx_ZO.jpg",
+					"url": "https://t.co/D4EIVZRzdG",
+					"display_url": "pic.twitter.com/D4EIVZRzdG",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1094520688424046592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094520677816647700,
+					"id_str": "1094520677816647680",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/DzCEweiUwAAx_ZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzCEweiUwAAx_ZO.jpg",
+					"url": "https://t.co/D4EIVZRzdG",
+					"display_url": "pic.twitter.com/D4EIVZRzdG",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1094520688424046592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179891008,
+			"id_str": "179891008",
+			"name": "시프트 / shift*",
+			"screen_name": "shiftpsh",
+			"location": "바닐라",
+			"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, '모펀' 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊",
+			"url": "https://t.co/KKdZ63KnmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKdZ63KnmY",
+							"expanded_url": "https://shift.moe",
+							"display_url": "shift.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RNmbjyXMBU",
+							"expanded_url": "http://sft.sh/works",
+							"display_url": "sft.sh/works",
+							"indices": [
+								69,
+								92
+							]
+						},
+						{
+							"url": "https://t.co/3hg2iNSCMZ",
+							"expanded_url": "http://sft.sh/ask",
+							"display_url": "sft.sh/ask",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1960,
+			"friends_count": 734,
+			"listed_count": 18,
+			"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+			"favourites_count": 24104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65558,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092146984843018240/cFiFmWJP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092146984843018240/cFiFmWJP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1539972946",
+			"profile_link_color": "FF7784",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에 https://t.co/D4EIVZRzdG"
+	},
+	{
 		"created_at": "Sat Feb 09 19:03:36 +0000 2019",
 		"id": 1094310867494006800,
 		"id_str": "1094450234745208832",
