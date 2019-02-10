@@ -1,6 +1,679 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 08:11:06 +0000 2019",
+		"id": 1094146657258750000,
+		"id_str": "1094449982621413377",
+		"full_text": "Female Teacher: Kicking Balls Hell",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://javhd.com\" rel=\"nofollow\">JAV Titles</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880485161414139900,
+			"id_str": "880485161414139905",
+			"name": "JAV Titles",
+			"screen_name": "JAVdottxt",
+			"location": "Japan",
+			"description": "Actual Japanese porn video titles.  created/run by @wwwdotyoutube",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33551,
+			"friends_count": 22,
+			"listed_count": 85,
+			"created_at": "Thu Jun 29 17:56:35 +0000 2017",
+			"favourites_count": 28973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/888139005145088001/ahYdwVly_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/888139005145088001/ahYdwVly_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880485161414139905/1500686150",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Female Teacher: Kicking Balls Hell"
+	},
+	{
+		"created_at": "Sat Feb 09 07:46:01 +0000 2019",
+		"id": 1094140346940809200,
+		"id_str": "1094449832607924225",
+		"full_text": "스퍼맨임?? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ArJkvwg9A2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094140340414513200,
+					"id_str": "1094140340414513154",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy8q17TVAAIDO0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy8q17TVAAIDO0I.jpg",
+					"url": "https://t.co/ArJkvwg9A2",
+					"display_url": "pic.twitter.com/ArJkvwg9A2",
+					"expanded_url": "https://twitter.com/chleksdann/status/1094140346940809216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094140340414513200,
+					"id_str": "1094140340414513154",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy8q17TVAAIDO0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy8q17TVAAIDO0I.jpg",
+					"url": "https://t.co/ArJkvwg9A2",
+					"display_url": "pic.twitter.com/ArJkvwg9A2",
+					"expanded_url": "https://twitter.com/chleksdann/status/1094140346940809216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006421989068664800,
+			"id_str": "1006421989068664832",
+			"name": "최단 💝",
+			"screen_name": "chleksdann",
+			"location": "G36 갈비뼈 안",
+			"description": "그림 그리는 사람&행앗!!!! 행앗 하자 행아으아ㅏ앗!!!!!!!! 좀 더 날 사찰해줘!!! 팔로도 하면 더 좋고!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 152,
+			"listed_count": 12,
+			"created_at": "Tue Jun 12 06:24:35 +0000 2018",
+			"favourites_count": 3240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13566,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092423196949676032/Ch2Ddb79_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092423196949676032/Ch2Ddb79_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006421989068664832/1547525201",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스퍼맨임?? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ArJkvwg9A2"
+	},
+	{
+		"created_at": "Sat Feb 09 10:21:26 +0000 2019",
+		"id": 1094179459903541200,
+		"id_str": "1094445624081010689",
+		"full_text": "플텍트친분이 씨발쓰지마세요에 대한 띵언을 하셨길래 https://t.co/hiRbQ0vXRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094179453721165800,
+					"id_str": "1094179453721165824",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9OanuUwAA6oEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9OanuUwAA6oEO.jpg",
+					"url": "https://t.co/hiRbQ0vXRK",
+					"display_url": "pic.twitter.com/hiRbQ0vXRK",
+					"expanded_url": "https://twitter.com/Gloom_for_life/status/1094179459903541248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 945,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094179453721165800,
+					"id_str": "1094179453721165824",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9OanuUwAA6oEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9OanuUwAA6oEO.jpg",
+					"url": "https://t.co/hiRbQ0vXRK",
+					"display_url": "pic.twitter.com/hiRbQ0vXRK",
+					"expanded_url": "https://twitter.com/Gloom_for_life/status/1094179459903541248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 945,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842762093103214600,
+			"id_str": "842762093103214592",
+			"name": "🌸",
+			"screen_name": "Gloom_for_life",
+			"location": "리사",
+			"description": "144프레임에 익숙해진 제게 60프레임인 알테마의 공격 정도는 너무 간단하게 피할 수 있었습니다. 녀석을 어퍼컷 한방으로 눕혀버린 뒤, 한마디 해줬습니다 'NVIDIA Geforce GTX1060 gaiming.'",
+			"url": "https://t.co/SI4NvgNHV4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SI4NvgNHV4",
+							"expanded_url": "http://ask.fm/gloom_for_life",
+							"display_url": "ask.fm/gloom_for_life",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 308,
+			"listed_count": 2,
+			"created_at": "Fri Mar 17 15:38:35 +0000 2017",
+			"favourites_count": 3690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64019,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081169070924357635/vUeUL1kx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081169070924357635/vUeUL1kx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842762093103214592/1548678700",
+			"profile_link_color": "D09999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5525,
+		"favorite_count": 1111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "플텍트친분이 씨발쓰지마세요에 대한 띵언을 하셨길래 https://t.co/hiRbQ0vXRK"
+	},
+	{
+		"created_at": "Sun Feb 10 03:30:55 +0000 2019",
+		"id": 1094438535468179500,
+		"id_str": "1094444023308111872",
+		"full_text": "내 탐라 대부분 추기경됨 https://t.co/4hJecVQyDW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094438528673407000,
+					"id_str": "1094438528673406976",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DzA6CxIUYAA4kfg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzA6CxIUYAA4kfg.jpg",
+					"url": "https://t.co/4hJecVQyDW",
+					"display_url": "pic.twitter.com/4hJecVQyDW",
+					"expanded_url": "https://twitter.com/RenfuuP/status/1094438535468179456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094438528673407000,
+					"id_str": "1094438528673406976",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DzA6CxIUYAA4kfg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzA6CxIUYAA4kfg.jpg",
+					"url": "https://t.co/4hJecVQyDW",
+					"display_url": "pic.twitter.com/4hJecVQyDW",
+					"expanded_url": "https://twitter.com/RenfuuP/status/1094438535468179456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2957863214,
+			"id_str": "2957863214",
+			"name": "렌푸",
+			"screen_name": "RenfuuP",
+			"location": "Phantagrande",
+			"description": "assistant manager /  PSN: RenfuuP00 / 그림 그릴줄 모릅니다 / FGO,우마무스메, 그랑블루 좋아해요 /체인블락 돌렸습니다. / 언팔은 오류 / 프사 : 갱이님(@Tuxedo_de_Cat)",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3646,
+			"friends_count": 928,
+			"listed_count": 46,
+			"created_at": "Sun Jan 04 02:08:56 +0000 2015",
+			"favourites_count": 4295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 199843,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083162030410915842/fct6uLFt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083162030410915842/fct6uLFt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2957863214/1545920219",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 탐라 대부분 추기경됨 https://t.co/4hJecVQyDW"
+	},
+	{
+		"created_at": "Sat Feb 09 04:58:20 +0000 2019",
+		"id": 1094098147469537300,
+		"id_str": "1094443915313180673",
+		"full_text": "아헤가오는 강간피해자가 강간당하는도중에 두려움이나 수치심보다 쾌락에 빠져 이성을 잃고 오르가즘을 느끼는 표정을 말함.\n여기서 설명 더 필요하면 너 그렇게 가르친 부모님데리고 코박죽하셈 \n대체 이만한 피해자조롱이 어딨음?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732538682041720800,
+			"id_str": "732538682041720833",
+			"name": "🌼TAMARING🌼",
+			"screen_name": "TAMAcos_0603",
+			"location": "대한민국 서울",
+			"description": "Costume Player/20대 중반/FUB Free/마블/ 소라마후/오버워치/내가 싫으면 니들이 떠나라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 692,
+			"friends_count": 393,
+			"listed_count": 1,
+			"created_at": "Tue May 17 11:50:06 +0000 2016",
+			"favourites_count": 1423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6302,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016432400262299648/qUaS-gwg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016432400262299648/qUaS-gwg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732538682041720833/1531263287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2475,
+		"favorite_count": 442,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아헤가오는 강간피해자가 강간당하는도중에 두려움이나 수치심보다 쾌락에 빠져 이성을 잃고 오르가즘을 느끼는 표정을 말함.\n여기서 설명 더 필요하면 너 그렇게 가르친 부모님데리고 코박죽하셈 \n대체 이만한 피해자조롱이 어딨음?"
+	},
+	{
 		"created_at": "Sun Feb 10 02:28:19 +0000 2019",
 		"id": 1094422784892055600,
 		"id_str": "1094422784892055553",
