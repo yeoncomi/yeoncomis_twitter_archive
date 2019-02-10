@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 19:03:36 +0000 2019",
+		"id": 1094310867494006800,
+		"id_str": "1094450234745208832",
+		"full_text": "여러 관련 글을 보니 슬프다. 난 내 애도 컴퓨터 했으면 정말 좋겠는데. 내 인생 최고의 선택은 05년에 의치한으로 탈출하는 분위기에 휩쓸리지 않고 망해가는 컴퓨터를 하겠다고 유학 나온 것. 유기화학 첫 수업 들어가고 이건 도저히 아니야라고 절규하고 다시 GRE 문제지를. https://t.co/fNgOaUVZap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fNgOaUVZap",
+					"expanded_url": "https://twitter.com/minjang_kim/status/1093899575155281920",
+					"display_url": "twitter.com/minjang_kim/st…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 525374112,
+			"id_str": "525374112",
+			"name": "redacted",
+			"screen_name": "minjang_kim",
+			"location": "bay area",
+			"description": "Personal views | 개인의견 | 인용RT 대환영 | 플텍 계정 팔로우는 거부합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4379,
+			"friends_count": 543,
+			"listed_count": 148,
+			"created_at": "Thu Mar 15 13:32:41 +0000 2012",
+			"favourites_count": 4186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080045359911469056/oQJR-1lY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080045359911469056/oQJR-1lY_normal.jpg",
+			"profile_link_color": "4B5E5E",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093899575155281900,
+		"quoted_status_id_str": "1093899575155281920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fNgOaUVZap",
+			"expanded": "https://twitter.com/minjang_kim/status/1093899575155281920",
+			"display": "twitter.com/minjang_kim/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 15:49:17 +0000 2019",
+			"id": 1093899575155281900,
+			"id_str": "1093899575155281920",
+			"full_text": "\"오지마 이바닥은 지옥이야\" https://t.co/66mxDyiM8g https://t.co/fz31CiMv1o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/66mxDyiM8g",
+						"expanded_url": "https://m.news.naver.com/memoRankingRead.nhn?oid=015&aid=0004090302&sid1=105&date=20190208&ntype=MEMORANKING",
+						"display_url": "m.news.naver.com/memoRankingRea…",
+						"indices": [
+							16,
+							39
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093899571653009400,
+						"id_str": "1093899571653009410",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy5P3VxUYAI74j5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy5P3VxUYAI74j5.jpg",
+						"url": "https://t.co/fz31CiMv1o",
+						"display_url": "pic.twitter.com/fz31CiMv1o",
+						"expanded_url": "https://twitter.com/minjang_kim/status/1093899575155281920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093899571653009400,
+						"id_str": "1093899571653009410",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy5P3VxUYAI74j5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy5P3VxUYAI74j5.jpg",
+						"url": "https://t.co/fz31CiMv1o",
+						"display_url": "pic.twitter.com/fz31CiMv1o",
+						"expanded_url": "https://twitter.com/minjang_kim/status/1093899575155281920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1093899571648913400,
+						"id_str": "1093899571648913408",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy5P3VwV4AA-4QL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy5P3VwV4AA-4QL.jpg",
+						"url": "https://t.co/fz31CiMv1o",
+						"display_url": "pic.twitter.com/fz31CiMv1o",
+						"expanded_url": "https://twitter.com/minjang_kim/status/1093899575155281920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 348,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 525374112,
+				"id_str": "525374112",
+				"name": "redacted",
+				"screen_name": "minjang_kim",
+				"location": "bay area",
+				"description": "Personal views | 개인의견 | 인용RT 대환영 | 플텍 계정 팔로우는 거부합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4379,
+				"friends_count": 543,
+				"listed_count": 148,
+				"created_at": "Thu Mar 15 13:32:41 +0000 2012",
+				"favourites_count": 4186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11807,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080045359911469056/oQJR-1lY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080045359911469056/oQJR-1lY_normal.jpg",
+				"profile_link_color": "4B5E5E",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 737,
+			"favorite_count": 144,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 33,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러 관련 글을 보니 슬프다. 난 내 애도 컴퓨터 했으면 정말 좋겠는데. 내 인생 최고의 선택은 05년에 의치한으로 탈출하는 분위기에 휩쓸리지 않고 망해가는 컴퓨터를 하겠다고 유학 나온 것. 유기화학 첫 수업 들어가고 이건 도저히 아니야라고 절규하고 다시 GRE 문제지를. https://t.co/fNgOaUVZap"
+	},
+	{
 		"created_at": "Sat Feb 09 08:11:06 +0000 2019",
 		"id": 1094146657258750000,
 		"id_str": "1094449982621413377",
