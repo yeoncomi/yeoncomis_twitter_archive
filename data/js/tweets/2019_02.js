@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 22:08:16 +0000 2019",
+		"id": 1094719725706379300,
+		"id_str": "1094720802652471297",
+		"full_text": "It's one thing to doubt vaccines due to all of the recent misinformation (vaccinate your fucking kids tho, vaccines work.) but to doubt the fucking Germ Theory of Medicine????? What is happening anymore? https://t.co/hS9No3auql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hS9No3auql",
+					"expanded_url": "https://twitter.com/JordanUhl/status/1094713581373923328",
+					"display_url": "twitter.com/JordanUhl/stat…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88358118,
+			"id_str": "88358118",
+			"name": "hedge.flv | Uploading | 69% Complete",
+			"screen_name": "hedgeberg",
+			"location": "Boston, MA",
+			"description": "Infosec, maybe? Something like that. | genderfluid | Views expressed here are my own, not my employer's | I don't tweet about my job",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3674,
+			"friends_count": 225,
+			"listed_count": 42,
+			"created_at": "Sun Nov 08 05:26:40 +0000 2009",
+			"favourites_count": 3806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891432195797262337/JT47PSmf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891432195797262337/JT47PSmf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88358118/1498241671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094713581373923300,
+		"quoted_status_id_str": "1094713581373923328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hS9No3auql",
+			"expanded": "https://twitter.com/JordanUhl/status/1094713581373923328",
+			"display": "twitter.com/JordanUhl/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 10 21:43:51 +0000 2019",
+			"id": 1094713581373923300,
+			"id_str": "1094713581373923328",
+			"full_text": "checkmate, libs https://t.co/iRTeizqEBQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1094713152267259900,
+						"id_str": "1094713152267259907",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DzEzz9vWkAMlwA-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzEzz9vWkAMlwA-.jpg",
+						"url": "https://t.co/iRTeizqEBQ",
+						"display_url": "pic.twitter.com/iRTeizqEBQ",
+						"expanded_url": "https://twitter.com/JordanUhl/status/1094713581373923328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1634,
+								"h": 888,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 652,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1094713152267259900,
+						"id_str": "1094713152267259907",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DzEzz9vWkAMlwA-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzEzz9vWkAMlwA-.jpg",
+						"url": "https://t.co/iRTeizqEBQ",
+						"display_url": "pic.twitter.com/iRTeizqEBQ",
+						"expanded_url": "https://twitter.com/JordanUhl/status/1094713581373923328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1634,
+								"h": 888,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 652,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1094713166054023200,
+						"id_str": "1094713166054023168",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DzEz0xGX4AAt_2d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzEz0xGX4AAt_2d.jpg",
+						"url": "https://t.co/iRTeizqEBQ",
+						"display_url": "pic.twitter.com/iRTeizqEBQ",
+						"expanded_url": "https://twitter.com/JordanUhl/status/1094713581373923328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68752979,
+				"id_str": "68752979",
+				"name": "jordan",
+				"screen_name": "JordanUhl",
+				"location": "Washington, D.C.",
+				"description": "“progressive activist” “garbage human”",
+				"url": "https://t.co/RhMcjpUbU6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RhMcjpUbU6",
+								"expanded_url": "http://iwanttohelpnow.org",
+								"display_url": "iwanttohelpnow.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 131421,
+				"friends_count": 4884,
+				"listed_count": 1825,
+				"created_at": "Tue Aug 25 17:33:14 +0000 2009",
+				"favourites_count": 192217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997905097488248832/BpJGqbPf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997905097488248832/BpJGqbPf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68752979/1546868550",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's one thing to doubt vaccines due to all of the recent misinformation (vaccinate your fucking kids tho, vaccines work.) but to doubt the fucking Germ Theory of Medicine????? What is happening anymore? https://t.co/hS9No3auql"
+	},
+	{
+		"created_at": "Sun Feb 10 01:00:40 +0000 2019",
+		"id": 1094400726497779700,
+		"id_str": "1094720572913635328",
+		"full_text": "핫핫 니들이 os에 강제로 끼워팔기한 업보다 https://t.co/J4kMuKpaYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J4kMuKpaYZ",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1094099383375654912",
+					"display_url": "twitter.com/deadcatssociet…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1276,
+			"friends_count": 1595,
+			"listed_count": 11,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094099383375654900,
+		"quoted_status_id_str": "1094099383375654912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J4kMuKpaYZ",
+			"expanded": "https://twitter.com/deadcatssociety/status/1094099383375654912",
+			"display": "twitter.com/deadcatssociet…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 09 05:03:15 +0000 2019",
+			"id": 1094099383375654900,
+			"id_str": "1094099383375654912",
+			"full_text": "마이크로소프트는 제발 IE를 쓰지 말라고 사정함.\n선임 보안 아키텍트가 '기술적인 빚'이라고  까지 표현함(..)\nhttps://t.co/GlK8F8wI5P https://t.co/9HZ2PDjpUB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GlK8F8wI5P",
+						"expanded_url": "https://www.engadget.com/2019/02/08/microsoft-internet-explorer-technical-debt/",
+						"display_url": "engadget.com/2019/02/08/mic…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1094099373493936100,
+						"id_str": "1094099373493936128",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy8FlVoVYAA4eKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy8FlVoVYAA4eKf.jpg",
+						"url": "https://t.co/9HZ2PDjpUB",
+						"display_url": "pic.twitter.com/9HZ2PDjpUB",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/1094099383375654912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1094099373493936100,
+						"id_str": "1094099373493936128",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy8FlVoVYAA4eKf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy8FlVoVYAA4eKf.jpg",
+						"url": "https://t.co/9HZ2PDjpUB",
+						"display_url": "pic.twitter.com/9HZ2PDjpUB",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/1094099383375654912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209173806,
+				"id_str": "209173806",
+				"name": "데드캣",
+				"screen_name": "deadcatssociety",
+				"location": "Especially.Fascinating",
+				"description": "Yeah\nLate night sex so wet so tight",
+				"url": "https://t.co/gvW6CXdBSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvW6CXdBSO",
+								"expanded_url": "http://ask.fm/deadcatssociety",
+								"display_url": "ask.fm/deadcatssociety",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9568,
+				"friends_count": 913,
+				"listed_count": 207,
+				"created_at": "Thu Oct 28 17:16:58 +0000 2010",
+				"favourites_count": 422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 373019,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209173806/1390413748",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1013,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 519,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핫핫 니들이 os에 강제로 끼워팔기한 업보다 https://t.co/J4kMuKpaYZ"
+	},
+	{
+		"created_at": "Sun Feb 10 15:41:09 +0000 2019",
+		"id": 1094622307555758100,
+		"id_str": "1094720494434054144",
+		"full_text": "야 이건 뭐하는 놈이냐? 미러블락 걸려놓고 내가 선블락 쳤다고 선날승을 조지네 ㅋㅋㅋ https://t.co/e5Hc540zaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094622269484130300,
+					"id_str": "1094622269484130304",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DzDhJ4_VYAALdw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzDhJ4_VYAALdw5.jpg",
+					"url": "https://t.co/e5Hc540zaa",
+					"display_url": "pic.twitter.com/e5Hc540zaa",
+					"expanded_url": "https://twitter.com/i_love_shotgun/status/1094622307555758081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094622269484130300,
+					"id_str": "1094622269484130304",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DzDhJ4_VYAALdw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzDhJ4_VYAALdw5.jpg",
+					"url": "https://t.co/e5Hc540zaa",
+					"display_url": "pic.twitter.com/e5Hc540zaa",
+					"expanded_url": "https://twitter.com/i_love_shotgun/status/1094622307555758081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 421,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 715749726402977800,
+			"id_str": "715749726402977797",
+			"name": "샷건빌런",
+			"screen_name": "i_love_shotgun",
+			"location": "",
+			"description": "케모노 프렌즈 2기 언제 나오냐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3601,
+			"friends_count": 486,
+			"listed_count": 67,
+			"created_at": "Fri Apr 01 03:56:47 +0000 2016",
+			"favourites_count": 1689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90531,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087661012520583168/0zYFgjTY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087661012520583168/0zYFgjTY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/715749726402977797/1512789734",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 이건 뭐하는 놈이냐? 미러블락 걸려놓고 내가 선블락 쳤다고 선날승을 조지네 ㅋㅋㅋ https://t.co/e5Hc540zaa"
+	},
+	{
 		"created_at": "Sun Feb 10 01:45:50 +0000 2019",
 		"id": 1094412092336029700,
 		"id_str": "1094626145729822720",
