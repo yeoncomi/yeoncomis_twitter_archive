@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 09:14:41 +0000 2019",
+		"id": 1094887437636034600,
+		"id_str": "1094933124692140032",
+		"full_text": "이런 분들도 원내대표도 하고 국회의원도 하는데 대한민국 정부는 음란물 차단을 지상과제로 삼습니다\n\nhttps://t.co/QGdiYOahFO https://t.co/9fdggFtYbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QGdiYOahFO",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=031&aid=0000472961",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094886547411750900,
+					"id_str": "1094886547411750912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHRg4_U0AA9TAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHRg4_U0AA9TAF.jpg",
+					"url": "https://t.co/9fdggFtYbD",
+					"display_url": "pic.twitter.com/9fdggFtYbD",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1094887437636034560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094886547411750900,
+					"id_str": "1094886547411750912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHRg4_U0AA9TAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHRg4_U0AA9TAF.jpg",
+					"url": "https://t.co/9fdggFtYbD",
+					"display_url": "pic.twitter.com/9fdggFtYbD",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1094887437636034560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094887081355096000,
+					"id_str": "1094887081355096064",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHR_-FVsAAhlSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHR_-FVsAAhlSi.jpg",
+					"url": "https://t.co/9fdggFtYbD",
+					"display_url": "pic.twitter.com/9fdggFtYbD",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1094887437636034560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 1342,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094887089030611000,
+					"id_str": "1094887089030610944",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHSAarUwAAlqY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHSAarUwAAlqY_.jpg",
+					"url": "https://t.co/9fdggFtYbD",
+					"display_url": "pic.twitter.com/9fdggFtYbD",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1094887437636034560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1072,
+							"h": 805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도🌈",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/상식이 살아숨쉬는 세상",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1903,
+			"friends_count": 663,
+			"listed_count": 36,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 14631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 312273,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085334950969131008/mUVy3Jwe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085334950969131008/mUVy3Jwe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1545696573",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 분들도 원내대표도 하고 국회의원도 하는데 대한민국 정부는 음란물 차단을 지상과제로 삼습니다\n\nhttps://t.co/QGdiYOahFO https://t.co/9fdggFtYbD"
+	},
+	{
 		"created_at": "Mon Feb 11 01:21:50 +0000 2019",
 		"id": 1094768440999436300,
 		"id_str": "1094827106079367168",
