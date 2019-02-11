@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 10:51:37 +0000 2019",
+		"id": 1094911829795471400,
+		"id_str": "1094935259768971264",
+		"full_text": "한국 인터넷 검열의 가장 큰 문제는 국민이 뭘 볼 수 있고 뭘 보면 안 되는지를 일개 방통위 공무원들이 밀실회의에서 결정할 수 있다는 지점이에요 뭐 법원에서 법리적 판단을 거치는게 아니라니까? 방통위 위원 서너명이 국민한테 딸기가 유해하다고 말하면 내일부터 딸기 판매 사이트가 다 막힌다구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 771986122989637600,
+			"id_str": "771986122989637632",
+			"name": "devunt 🖖",
+			"screen_name": "devunt",
+			"location": "Was it a cat I saw?",
+			"description": "게임 프로그래머(였던 것)",
+			"url": "https://t.co/7eHdG9lD9z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eHdG9lD9z",
+							"expanded_url": "https://devunt.github.io/",
+							"display_url": "devunt.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565,
+			"friends_count": 32,
+			"listed_count": 9,
+			"created_at": "Sat Sep 03 08:20:09 +0000 2016",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092400714645626881/RomkOjJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092400714645626881/RomkOjJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/771986122989637632/1533749530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 인터넷 검열의 가장 큰 문제는 국민이 뭘 볼 수 있고 뭘 보면 안 되는지를 일개 방통위 공무원들이 밀실회의에서 결정할 수 있다는 지점이에요 뭐 법원에서 법리적 판단을 거치는게 아니라니까? 방통위 위원 서너명이 국민한테 딸기가 유해하다고 말하면 내일부터 딸기 판매 사이트가 다 막힌다구"
+	},
+	{
 		"created_at": "Mon Feb 11 09:14:41 +0000 2019",
 		"id": 1094887437636034600,
 		"id_str": "1094933124692140032",
