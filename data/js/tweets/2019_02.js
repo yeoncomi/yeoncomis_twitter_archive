@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 01:21:50 +0000 2019",
+		"id": 1094768440999436300,
+		"id_str": "1094827106079367168",
+		"full_text": "-남북철도 연결하면 폴란드까지 20일이면 화물운반 씹가능!\n\n-근거조사는 얼만큼 진행됬어요?\n\n-사실 못했음ㅎㅎ 미국이 노트북도 반입 못하게 막더라고요\n\n엉터리조사 그 자체wwwwwwww https://t.co/9FDxe3i8du",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094768427078565900,
+					"id_str": "1094768427078565888",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFmFYdUwAAggc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFmFYdUwAAggc9.jpg",
+					"url": "https://t.co/9FDxe3i8du",
+					"display_url": "pic.twitter.com/9FDxe3i8du",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1094768440999436288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094768427078565900,
+					"id_str": "1094768427078565888",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFmFYdUwAAggc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFmFYdUwAAggc9.jpg",
+					"url": "https://t.co/9FDxe3i8du",
+					"display_url": "pic.twitter.com/9FDxe3i8du",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1094768440999436288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094768431469973500,
+					"id_str": "1094768431469973504",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFmFo0UUAAqgYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFmFo0UUAAqgYg.jpg",
+					"url": "https://t.co/9FDxe3i8du",
+					"display_url": "pic.twitter.com/9FDxe3i8du",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1094768440999436288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094768434389254100,
+					"id_str": "1094768434389254144",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFmFzsVAAA2gky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFmFzsVAAA2gky.jpg",
+					"url": "https://t.co/9FDxe3i8du",
+					"display_url": "pic.twitter.com/9FDxe3i8du",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1094768440999436288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094768437484646400,
+					"id_str": "1094768437484646400",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DzFmF_OU8AAS6yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzFmF_OU8AAS6yi.jpg",
+					"url": "https://t.co/9FDxe3i8du",
+					"display_url": "pic.twitter.com/9FDxe3i8du",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1094768440999436288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211076773,
+			"id_str": "211076773",
+			"name": "CCaRBiNG",
+			"screen_name": "CCaRBiNG",
+			"location": "솔로몬 제도 부건빌 섬 부인기지 서버",
+			"description": "플픽출처: https://t.co/9oCtVUCyua",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9oCtVUCyua",
+							"expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72665239",
+							"display_url": "pixiv.net/member_illust.…",
+							"indices": [
+								6,
+								29
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 522,
+			"listed_count": 21,
+			"created_at": "Tue Nov 02 07:23:16 +0000 2010",
+			"favourites_count": 3263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98350,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090288419320737792/ArEBZ3jD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090288419320737792/ArEBZ3jD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211076773/1548838396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "-남북철도 연결하면 폴란드까지 20일이면 화물운반 씹가능!\n\n-근거조사는 얼만큼 진행됬어요?\n\n-사실 못했음ㅎㅎ 미국이 노트북도 반입 못하게 막더라고요\n\n엉터리조사 그 자체wwwwwwww https://t.co/9FDxe3i8du"
+	},
+	{
 		"created_at": "Mon Feb 11 02:26:26 +0000 2019",
 		"id": 1094784696079155200,
 		"id_str": "1094784696079155201",
