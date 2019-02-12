@@ -1,6 +1,911 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 10:52:00 +0000 2019",
+		"id": 1094911925178093600,
+		"id_str": "1095217013998243842",
+		"full_text": "탐라 분위기\n- ESNI 빠른 도입 시급\n- 망중립성, 개인정보, 정보보안\n- 딸도 못치냐\n- 딸칠거면 방법은 있다\n- 그게몬데씹덕아\n- 민주당이또\n- 아 그건 좀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3190841569,
+			"id_str": "3190841569",
+			"name": "LICIA compat",
+			"screen_name": "liciaesr",
+			"location": "~ 2021.09.18.",
+			"description": "Software Engineer, Rhythmgamer, Drinker, Cosplayer.\n\nKUCSE CATDOG; Team WF; Team GtH;\n\n@public_yuri💖\n본계: @liciaris",
+			"url": "https://t.co/TMbWxW1eQ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMbWxW1eQ5",
+							"expanded_url": "https://seiker.moe",
+							"display_url": "seiker.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979,
+			"friends_count": 692,
+			"listed_count": 31,
+			"created_at": "Sun May 10 13:09:00 +0000 2015",
+			"favourites_count": 21099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 241054,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068448778208702464/kkvXAduJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068448778208702464/kkvXAduJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1549289065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "탐라 분위기\n- ESNI 빠른 도입 시급\n- 망중립성, 개인정보, 정보보안\n- 딸도 못치냐\n- 딸칠거면 방법은 있다\n- 그게몬데씹덕아\n- 민주당이또\n- 아 그건 좀"
+	},
+	{
+		"created_at": "Mon Feb 11 17:09:47 +0000 2019",
+		"id": 1095006998163161100,
+		"id_str": "1095216696254582784",
+		"full_text": "피눈물 에디션..2호기 출격 https://t.co/SvZckrxG4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095006973848776700,
+					"id_str": "1095006973848776715",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI_CobU8AsBQkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI_CobU8AsBQkV.jpg",
+					"url": "https://t.co/SvZckrxG4T",
+					"display_url": "pic.twitter.com/SvZckrxG4T",
+					"expanded_url": "https://twitter.com/WhySoLazydude/status/1095006998163161095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095006973848776700,
+					"id_str": "1095006973848776715",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI_CobU8AsBQkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI_CobU8AsBQkV.jpg",
+					"url": "https://t.co/SvZckrxG4T",
+					"display_url": "pic.twitter.com/SvZckrxG4T",
+					"expanded_url": "https://twitter.com/WhySoLazydude/status/1095006998163161095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095006985722900500,
+					"id_str": "1095006985722900480",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI_DUqVsAA_f4w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI_DUqVsAA_f4w.jpg",
+					"url": "https://t.co/SvZckrxG4T",
+					"display_url": "pic.twitter.com/SvZckrxG4T",
+					"expanded_url": "https://twitter.com/WhySoLazydude/status/1095006998163161095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765272557322764300,
+			"id_str": "765272557322764288",
+			"name": "토오오오끼",
+			"screen_name": "WhySoLazydude",
+			"location": "토끼굴",
+			"description": "언팔/팔로/블락 좆대로 하세요 저도 좆대로 함 섹트 욕트잇슴",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468,
+			"friends_count": 158,
+			"listed_count": 2,
+			"created_at": "Mon Aug 15 19:42:50 +0000 2016",
+			"favourites_count": 5161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077419652148486144/Kt5DK8sD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077419652148486144/Kt5DK8sD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765272557322764288/1494911890",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피눈물 에디션..2호기 출격 https://t.co/SvZckrxG4T"
+	},
+	{
+		"created_at": "Tue Feb 12 05:51:09 +0000 2019",
+		"id": 1095198603004469200,
+		"id_str": "1095216312006004736",
+		"full_text": "발렌타인기념 rt이벤트 트친한정 아닙니다.\nrt해주신분에게 스팀게임 하나를 임의로 사드립니다 \n당첨 되신분이면 되도록이면 게임의 앤딩을 봐주시고 인증해주실수 있는분이면 좋겠습니다 기간은 발렌타인 끝날때쯤 2월 15일까지 하겠습니다.\n만일 당첨 되신분이 스팀 계정이 없으시면 재추첨합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785094278233980900,
+			"id_str": "785094278233980928",
+			"name": "레뮨",
+			"screen_name": "Remyun_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 263,
+			"listed_count": 5,
+			"created_at": "Sun Oct 09 12:27:17 +0000 2016",
+			"favourites_count": 33841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85914,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094794889500418048/_-gAzUmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094794889500418048/_-gAzUmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785094278233980928/1549854747",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "발렌타인기념 rt이벤트 트친한정 아닙니다.\nrt해주신분에게 스팀게임 하나를 임의로 사드립니다 \n당첨 되신분이면 되도록이면 게임의 앤딩을 봐주시고 인증해주실수 있는분이면 좋겠습니다 기간은 발렌타인 끝날때쯤 2월 15일까지 하겠습니다.\n만일 당첨 되신분이 스팀 계정이 없으시면 재추첨합니다."
+	},
+	{
+		"created_at": "Sun Feb 10 11:16:17 +0000 2019",
+		"id": 1094555649302659100,
+		"id_str": "1095215218202894336",
+		"full_text": "올해 성인-2000년생\n메이플 출시-2003년\n토요등교 마지막세대-2004년생\n네이버웹툰 첫서비스-2004년\n유튜브-2005년\n강남스타일-2012년\n개콘 \"브라우니 물어\"-2012년\n벚꽃엔딩-2012년\n올해 초등학교 입학생-2012년생\n메2플 엔젤릭버스터 출시-2012년\n쥬니어네이버 동물농장 서비스종료-2016년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080457561306845200,
+			"id_str": "1080457561306845187",
+			"name": "큐티뽀쨕한 당신에게 애교해줄 천사 어둠에 더욱 물들어라..나약한자여../하늘색 바다마녀",
+			"screen_name": "Skyblue_witch",
+			"location": "바다 깊은 곳 어딘가에 있는 마녀동굴빌라 777호",
+			"description": "04여/프사(인장): 하늘색 미자리 @skyblue_mijari ☜😝/웹툰 엄청봄.!(카카오페이지랑 다음은 용량없어서 삭제한지 오래ㅠㅠ)/최애:밤(신의탑),안즈(안즈),꽝철이(소녀신선),잭(살천),은월(메이플),먼/문(주우쉽(코코))(기타등등...⚠언팔은 오류!!!!!!!⚠선팔시맞팔!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 783,
+			"listed_count": 3,
+			"created_at": "Wed Jan 02 13:35:31 +0000 2019",
+			"favourites_count": 10659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4080,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094411342247645184/vhLurHIj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094411342247645184/vhLurHIj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1080457561306845187/1549763076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13130,
+		"favorite_count": 4152,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "올해 성인-2000년생\n메이플 출시-2003년\n토요등교 마지막세대-2004년생\n네이버웹툰 첫서비스-2004년\n유튜브-2005년\n강남스타일-2012년\n개콘 \"브라우니 물어\"-2012년\n벚꽃엔딩-2012년\n올해 초등학교 입학생-2012년생\n메2플 엔젤릭버스터 출시-2012년\n쥬니어네이버 동물농장 서비스종료-2016년"
+	},
+	{
+		"created_at": "Sun Feb 10 10:51:14 +0000 2019",
+		"id": 1094549347901927400,
+		"id_str": "1095214839696261120",
+		"full_text": "명탐정코난 박사님의 비밀 https://t.co/Sa4zvyOEkp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094549338909372400,
+					"id_str": "1094549338909372417",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DzCe0xbU8AEpw72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzCe0xbU8AEpw72.jpg",
+					"url": "https://t.co/Sa4zvyOEkp",
+					"display_url": "pic.twitter.com/Sa4zvyOEkp",
+					"expanded_url": "https://twitter.com/powyyy/status/1094549347901927424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094549338909372400,
+					"id_str": "1094549338909372417",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DzCe0xbU8AEpw72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzCe0xbU8AEpw72.jpg",
+					"url": "https://t.co/Sa4zvyOEkp",
+					"display_url": "pic.twitter.com/Sa4zvyOEkp",
+					"expanded_url": "https://twitter.com/powyyy/status/1094549347901927424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234258265,
+			"id_str": "234258265",
+			"name": "1학년...",
+			"screen_name": "powyyy",
+			"location": "",
+			"description": "19세 여고생. 01년생 뱀띠 맞아요.  역시 내가 귀여운 탓인가. PS. I love you  // 돈벌고싶다/자격증콜렉터하고싶다/살빼고싶다/ 외국어잘하고싶다/말 잘하고싶다/글 잘쓰고싶다/쉬고싶다/  이모든것들을 날로먹게 해주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054,
+			"friends_count": 332,
+			"listed_count": 20,
+			"created_at": "Wed Jan 05 06:04:37 +0000 2011",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 493,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788323532342071296/0blL5i-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788323532342071296/0blL5i-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7734,
+		"favorite_count": 1747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "명탐정코난 박사님의 비밀 https://t.co/Sa4zvyOEkp"
+	},
+	{
+		"created_at": "Tue Feb 12 06:18:53 +0000 2019",
+		"id": 1095205583756480500,
+		"id_str": "1095208474131128320",
+		"full_text": "웃겼다 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/B54aw3r0Mg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095205578274553900,
+					"id_str": "1095205578274553858",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzLzq7kUwAIw0uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzLzq7kUwAIw0uu.jpg",
+					"url": "https://t.co/B54aw3r0Mg",
+					"display_url": "pic.twitter.com/B54aw3r0Mg",
+					"expanded_url": "https://twitter.com/OnyooJ/status/1095205583756480512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095205578274553900,
+					"id_str": "1095205578274553858",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzLzq7kUwAIw0uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzLzq7kUwAIw0uu.jpg",
+					"url": "https://t.co/B54aw3r0Mg",
+					"display_url": "pic.twitter.com/B54aw3r0Mg",
+					"expanded_url": "https://twitter.com/OnyooJ/status/1095205583756480512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 383,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914383010631266300,
+			"id_str": "914383010631266304",
+			"name": "OnyooJ",
+			"screen_name": "OnyooJ",
+			"location": "",
+			"description": "영원히 고통받는 시스코/알카텔로 밥벌어먹고 사는 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 148,
+			"listed_count": 1,
+			"created_at": "Sun Oct 01 06:54:32 +0000 2017",
+			"favourites_count": 2807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37932,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994843852187029505/yVUhwUlX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994843852187029505/yVUhwUlX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914383010631266304/1506844029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웃겼다 ㅋㅋㅋㅋㅋㅋㅋ https://t.co/B54aw3r0Mg"
+	},
+	{
+		"created_at": "Tue Feb 12 06:29:37 +0000 2019",
+		"id": 1095208285345538000,
+		"id_str": "1095208285345538051",
+		"full_text": "공중파 직수신 좋아요 ㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095207844360548400,
+		"in_reply_to_status_id_str": "1095207844360548352",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 997,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공중파 직수신 좋아요 ㅎㅎ"
+	},
+	{
 		"created_at": "Mon Feb 11 15:09:39 +0000 2019",
 		"id": 1094976766425231400,
 		"id_str": "1095188508317106176",
