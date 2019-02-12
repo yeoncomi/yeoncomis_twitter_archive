@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 01:16:58 +0000 2019",
+		"id": 1095129604040183800,
+		"id_str": "1095130114235351040",
+		"full_text": "일본에서 성인 콘텐츠 유통사로 유명한 &lt;DMM게임즈&gt;가 한국법인을 설립합니다. 내세운 미션이 눈에 띄는데요 \"성인들에게 게임으로 흥분을\" 입니다. https://t.co/gEjImHV5IZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gEjImHV5IZ",
+					"expanded_url": "https://www.gamemeca.com/view.php?gid=1528921",
+					"display_url": "gamemeca.com/view.php?gid=1…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130681816,
+			"id_str": "130681816",
+			"name": "게임메카/Gamemeca",
+			"screen_name": "game_meca",
+			"location": "South Korea",
+			"description": "인터넷신문협회 소속, 대한민국 대표 게임 전문지 게임메카입니다.",
+			"url": "http://t.co/GgZkMtElKg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GgZkMtElKg",
+							"expanded_url": "http://www.gamemeca.com",
+							"display_url": "gamemeca.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136400,
+			"friends_count": 2803,
+			"listed_count": 338,
+			"created_at": "Thu Apr 08 00:38:23 +0000 2010",
+			"favourites_count": 4274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26497,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875628424269660167/ub00WjBe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875628424269660167/ub00WjBe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130681816/1497601077",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 676,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본에서 성인 콘텐츠 유통사로 유명한 &lt;DMM게임즈&gt;가 한국법인을 설립합니다. 내세운 미션이 눈에 띄는데요 \"성인들에게 게임으로 흥분을\" 입니다. https://t.co/gEjImHV5IZ"
+	},
+	{
 		"created_at": "Tue Feb 12 01:00:14 +0000 2019",
 		"id": 1095125393768697900,
 		"id_str": "1095125561318375424",
