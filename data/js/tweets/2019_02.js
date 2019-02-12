@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 15:08:52 +0000 2019",
+		"id": 1094976568227594200,
+		"id_str": "1095461330553696256",
+		"full_text": "(https) 지금 ''진짜'' 문제가 뭔지 쉽게 설명해줌.....via clien\nhttps://t.co/pkyI725OPL\n\n최소한 헬죠센이 서조센보단 나을줄은 알았지 뭐야 ㅋ https://t.co/mQcGxOZKJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkyI725OPL",
+					"expanded_url": "https://www.dogdrip.net/195964798",
+					"display_url": "dogdrip.net/195964798",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094976347556855800,
+					"id_str": "1094976347556855808",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIjL8mUwAANpHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIjL8mUwAANpHt.jpg",
+					"url": "https://t.co/mQcGxOZKJ5",
+					"display_url": "pic.twitter.com/mQcGxOZKJ5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1094976568227594241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094976347556855800,
+					"id_str": "1094976347556855808",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIjL8mUwAANpHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIjL8mUwAANpHt.jpg",
+					"url": "https://t.co/mQcGxOZKJ5",
+					"display_url": "pic.twitter.com/mQcGxOZKJ5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1094976568227594241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094976423129825300,
+					"id_str": "1094976423129825288",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIjQWIUwAg209k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIjQWIUwAg209k.jpg",
+					"url": "https://t.co/mQcGxOZKJ5",
+					"display_url": "pic.twitter.com/mQcGxOZKJ5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1094976568227594241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 973,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 973,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1851,
+			"friends_count": 1512,
+			"listed_count": 35,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 60363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189443,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 349,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(https) 지금 ''진짜'' 문제가 뭔지 쉽게 설명해줌.....via clien\nhttps://t.co/pkyI725OPL\n\n최소한 헬죠센이 서조센보단 나을줄은 알았지 뭐야 ㅋ https://t.co/mQcGxOZKJ5"
+	},
+	{
+		"created_at": "Tue Feb 12 03:15:56 +0000 2019",
+		"id": 1095159542818586600,
+		"id_str": "1095459303593410560",
+		"full_text": "그보다 시발 이 병신은 왜 내가 박사모라고 생각하는거지? 두개골 안에 신경절이 없는 멍게인가?\n\n뭐 사상검증충이 돌아다니는 김에 확실히 하죠\n\n박근혜 개새끼\n전두환 개새끼\n문재인 개새끼 https://t.co/NAU0ya1Y6t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NAU0ya1Y6t",
+					"expanded_url": "https://twitter.com/khd0100_hd/status/1095158814335107074",
+					"display_url": "twitter.com/khd0100_hd/sta…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1290,
+			"friends_count": 857,
+			"listed_count": 70,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 176177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095158814335107100,
+		"quoted_status_id_str": "1095158814335107074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NAU0ya1Y6t",
+			"expanded": "https://twitter.com/khd0100_hd/status/1095158814335107074",
+			"display": "twitter.com/khd0100_hd/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 12 03:13:03 +0000 2019",
+			"id": 1095158814335107100,
+			"id_str": "1095158814335107074",
+			"full_text": "@perillamint 화난거니?\n글게  니들 공주마마는 언제 탈옥시킬거야?",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "perillamint",
+						"name": "perillamint🧝🧙⚧",
+						"id": 2890022617,
+						"id_str": "2890022617",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1095155161033568300,
+			"in_reply_to_status_id_str": "1095155161033568256",
+			"in_reply_to_user_id": 2890022617,
+			"in_reply_to_user_id_str": "2890022617",
+			"in_reply_to_screen_name": "perillamint",
+			"user": {
+				"id": 782995855557087200,
+				"id_str": "782995855557087232",
+				"name": "hd",
+				"screen_name": "khd0100_hd",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 242,
+				"friends_count": 337,
+				"listed_count": 0,
+				"created_at": "Mon Oct 03 17:28:54 +0000 2016",
+				"favourites_count": 428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11217,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805793264800395264/RJXi7uHf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805793264800395264/RJXi7uHf_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 18,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그보다 시발 이 병신은 왜 내가 박사모라고 생각하는거지? 두개골 안에 신경절이 없는 멍게인가?\n\n뭐 사상검증충이 돌아다니는 김에 확실히 하죠\n\n박근혜 개새끼\n전두환 개새끼\n문재인 개새끼 https://t.co/NAU0ya1Y6t"
+	},
+	{
 		"created_at": "Tue Feb 12 18:15:44 +0000 2019",
 		"id": 1095385984508649500,
 		"id_str": "1095402242931183616",
