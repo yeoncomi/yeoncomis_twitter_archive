@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 02:33:43 +0000 2019",
+		"id": 1095148918147444700,
+		"id_str": "1095148918147444736",
+		"full_text": "@elsendeer 호에에에에 동인지마니아",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elsendeer",
+					"name": "Unrestricted",
+					"id": 1047755020379115500,
+					"id_str": "1047755020379115521",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095148843765649400,
+		"in_reply_to_status_id_str": "1095148843765649408",
+		"in_reply_to_user_id": 1047755020379115500,
+		"in_reply_to_user_id_str": "1047755020379115521",
+		"in_reply_to_screen_name": "elsendeer",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 997,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@elsendeer 호에에에에 동인지마니아"
+	},
+	{
+		"created_at": "Sat May 05 12:41:58 +0000 2018",
+		"id": 992746221088358400,
+		"id_str": "1095147838722400256",
+		"full_text": "S. Korea: Censorship Checklist\n- [x] HTTP Hijacking &lt; 2007\n- [x] Local DNS Poisoning &lt; 2018\n- [x] DNS Hijacking &lt; 2018\n- [ ] TLS SNI Detection &lt; 2019\n- [ ] BGP Hijacking &lt; Turkey (2014)\n- [ ] Anti-VPN Learning &lt; China (2012)\n- [ ] Nationwide HTTPS Interception",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 992734314088443900,
+		"in_reply_to_status_id_str": "992734314088443909",
+		"in_reply_to_user_id": 58245273,
+		"in_reply_to_user_id_str": "58245273",
+		"in_reply_to_screen_name": "kid1ng",
+		"user": {
+			"id": 58245273,
+			"id_str": "58245273",
+			"name": "ﾠ",
+			"screen_name": "kid1ng",
+			"location": "under a noose",
+			"description": "make break software",
+			"url": "https://t.co/aemaEJ3EvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aemaEJ3EvQ",
+							"expanded_url": "https://kidi.ng",
+							"display_url": "kidi.ng",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1666,
+			"friends_count": 139,
+			"listed_count": 83,
+			"created_at": "Sun Jul 19 17:29:37 +0000 2009",
+			"favourites_count": 6525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980430214688686080/GpDCHYUn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980430214688686080/GpDCHYUn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58245273/1526360345",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "S. Korea: Censorship Checklist\n- [x] HTTP Hijacking &lt; 2007\n- [x] Local DNS Poisoning &lt; 2018\n- [x] DNS Hijacking &lt; 2018\n- [ ] TLS SNI Detection &lt; 2019\n- [ ] BGP Hijacking &lt; Turkey (2014)\n- [ ] Anti-VPN Learning &lt; China (2012)\n- [ ] Nationwide HTTPS Interception"
+	},
+	{
+		"created_at": "Tue Feb 12 02:21:56 +0000 2019",
+		"id": 1095145951239462900,
+		"id_str": "1095147626368884736",
+		"full_text": "1.1.1.1이 차단 되었다고 하는 사람은 아마도 파이어폭스 세팅이 잘못되어서 그러지 싶은데\n\nabout:config에서 network.trr.mode가 \n0 = ESNI 미적용\n1 = ESNI 적용 / 미적용중 빠른거 씀\n2 = ESNI 적용, Failback으로 기존 방식\n3 = ESNI만 적용\n\n4,5는 까먹음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154702781,
+			"id_str": "154702781",
+			"name": "Akamig",
+			"screen_name": "_Akamig",
+			"location": "Glitch City",
+			"description": "Not Akaming Currently / Music / Programming / Electronics / Synthesizer / Games / Reddit / Translate / VA-11 HALL-A",
+			"url": "https://t.co/3IVfoygDlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IVfoygDlS",
+							"expanded_url": "http://Akamig.org",
+							"display_url": "Akamig.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 725,
+			"listed_count": 44,
+			"created_at": "Sat Jun 12 00:13:43 +0000 2010",
+			"favourites_count": 5279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136869,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154702781/1522600437",
+			"profile_link_color": "FF007A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0AA8D",
+			"profile_text_color": "F9C098",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1.1.1.1이 차단 되었다고 하는 사람은 아마도 파이어폭스 세팅이 잘못되어서 그러지 싶은데\n\nabout:config에서 network.trr.mode가 \n0 = ESNI 미적용\n1 = ESNI 적용 / 미적용중 빠른거 씀\n2 = ESNI 적용, Failback으로 기존 방식\n3 = ESNI만 적용\n\n4,5는 까먹음"
+	},
+	{
+		"created_at": "Tue Feb 12 02:21:10 +0000 2019",
+		"id": 1095145760935407600,
+		"id_str": "1095145760935407617",
+		"full_text": "yeoncomi\nツイート数:18(前日比:+3)\nRTした数:10(前日比:-3)\nRTされた数:0(前日比:0)\n送ったリプライ数:7(前日比:+7)\n受け取ったリプライ数:8(前日比:+8)\nいいねされた数:0(前日比:0)\nhttps://t.co/k4kBmDY1iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4kBmDY1iR",
+					"expanded_url": "http://utabami.com/TodaysTwitterLife",
+					"display_url": "utabami.com/TodaysTwitterL…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 997,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "yeoncomi\nツイート数:18(前日比:+3)\nRTした数:10(前日比:-3)\nRTされた数:0(前日比:0)\n送ったリプライ数:7(前日比:+7)\n受け取ったリプライ数:8(前日比:+8)\nいいねされた数:0(前日比:0)\nhttps://t.co/k4kBmDY1iR"
+	},
+	{
 		"created_at": "Tue Feb 12 01:16:58 +0000 2019",
 		"id": 1095129604040183800,
 		"id_str": "1095130114235351040",
