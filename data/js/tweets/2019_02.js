@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 18:15:44 +0000 2019",
+		"id": 1095385984508649500,
+		"id_str": "1095402242931183616",
+		"full_text": "청원링크 찾느라 고생 마시고 여기에 첨부합니다.\nhttps://t.co/PUac6YGd0X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PUac6YGd0X",
+					"expanded_url": "https://www1.president.go.kr/petitions/522031",
+					"display_url": "www1.president.go.kr/petitions/5220…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095378052232540200,
+		"in_reply_to_status_id_str": "1095378052232540160",
+		"in_reply_to_user_id": 788592151798116400,
+		"in_reply_to_user_id_str": "788592151798116352",
+		"in_reply_to_screen_name": "SJang__",
+		"user": {
+			"id": 788592151798116400,
+			"id_str": "788592151798116352",
+			"name": "장인",
+			"screen_name": "SJang__",
+			"location": "Republic of Korea",
+			"description": "개발을 취미로 하니 재미는 있네요. #SavetheInternetKR | 뒷계 @SJang__b",
+			"url": "https://t.co/LPnfuQyTxe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LPnfuQyTxe",
+							"expanded_url": "http://sjang.xyz",
+							"display_url": "sjang.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 253,
+			"listed_count": 0,
+			"created_at": "Wed Oct 19 04:06:35 +0000 2016",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 470,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008218567295168512/somi-Nm5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008218567295168512/somi-Nm5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788592151798116352/1528292760",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청원링크 찾느라 고생 마시고 여기에 첨부합니다.\nhttps://t.co/PUac6YGd0X"
+	},
+	{
 		"created_at": "Tue Feb 12 09:51:07 +0000 2019",
 		"id": 1095258992496930800,
 		"id_str": "1095311548166266881",
