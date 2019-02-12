@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 09:51:07 +0000 2019",
+		"id": 1095258992496930800,
+		"id_str": "1095311548166266881",
+		"full_text": "이 미친새끼들이 쳐돌았나\n통신비밀보호법 위반을 넘어서 이제 국민들의 모든 통신활동을 감시하고 이젠 사용자의 기기 화면까지 꺼버리시겠다고요?\n이걸 기자회견에서 당당하게 말씀하시다니 존나 이해가 안되는데 https://t.co/DXLmeQSZ5e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095258731846164500,
+					"id_str": "1095258731846164482",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMkA4DV4AI174M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMkA4DV4AI174M.jpg",
+					"url": "https://t.co/DXLmeQSZ5e",
+					"display_url": "pic.twitter.com/DXLmeQSZ5e",
+					"expanded_url": "https://twitter.com/Donburi_desuyo/status/1095258992496930817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 741,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 655,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095258731846164500,
+					"id_str": "1095258731846164482",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMkA4DV4AI174M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMkA4DV4AI174M.jpg",
+					"url": "https://t.co/DXLmeQSZ5e",
+					"display_url": "pic.twitter.com/DXLmeQSZ5e",
+					"expanded_url": "https://twitter.com/Donburi_desuyo/status/1095258992496930817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 741,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 655,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095258933856395300,
+					"id_str": "1095258933856395265",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMkMomVYAEonHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMkMomVYAEonHG.jpg",
+					"url": "https://t.co/DXLmeQSZ5e",
+					"display_url": "pic.twitter.com/DXLmeQSZ5e",
+					"expanded_url": "https://twitter.com/Donburi_desuyo/status/1095258992496930817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 770,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 767666749776941000,
+			"id_str": "767666749776941056",
+			"name": "[D-18 서울]🌸카레덮밥🌸",
+			"screen_name": "Donburi_desuyo",
+			"location": "하와와의 증인",
+			"description": "FUB FREE",
+			"url": "https://t.co/OGLhBjyHCN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OGLhBjyHCN",
+							"expanded_url": "https://500px.com/currydonburi",
+							"display_url": "500px.com/currydonburi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909,
+			"friends_count": 572,
+			"listed_count": 88,
+			"created_at": "Mon Aug 22 10:16:30 +0000 2016",
+			"favourites_count": 30486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091319180555542529/ETjxKD58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091319180555542529/ETjxKD58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/767666749776941056/1549901995",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 미친새끼들이 쳐돌았나\n통신비밀보호법 위반을 넘어서 이제 국민들의 모든 통신활동을 감시하고 이젠 사용자의 기기 화면까지 꺼버리시겠다고요?\n이걸 기자회견에서 당당하게 말씀하시다니 존나 이해가 안되는데 https://t.co/DXLmeQSZ5e"
+	},
+	{
+		"created_at": "Tue Feb 12 13:08:39 +0000 2019",
+		"id": 1095308703199244300,
+		"id_str": "1095311476829503488",
+		"full_text": "자위왕 https://t.co/HKPPfnkjfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095308683053944800,
+					"id_str": "1095308683053944832",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNRcazU0AAx4G2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNRcazU0AAx4G2.jpg",
+					"url": "https://t.co/HKPPfnkjfR",
+					"display_url": "pic.twitter.com/HKPPfnkjfR",
+					"expanded_url": "https://twitter.com/owo_Yui/status/1095308703199244288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095308683053944800,
+					"id_str": "1095308683053944832",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNRcazU0AAx4G2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNRcazU0AAx4G2.jpg",
+					"url": "https://t.co/HKPPfnkjfR",
+					"display_url": "pic.twitter.com/HKPPfnkjfR",
+					"expanded_url": "https://twitter.com/owo_Yui/status/1095308703199244288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 891670584874029000,
+			"id_str": "891670584874029056",
+			"name": "김유이🌸",
+			"screen_name": "owo_Yui",
+			"location": "owo_Yeon",
+			"description": "아가씨 모시는중",
+			"url": "https://t.co/uNdjJdL1ko",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uNdjJdL1ko",
+							"expanded_url": "https://hiyobi.me",
+							"display_url": "hiyobi.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1316,
+			"friends_count": 803,
+			"listed_count": 45,
+			"created_at": "Sun Jul 30 14:43:28 +0000 2017",
+			"favourites_count": 3574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 147161,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091039332306059264/83RyPfjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091039332306059264/83RyPfjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/891670584874029056/1548963600",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자위왕 https://t.co/HKPPfnkjfR"
+	},
+	{
 		"created_at": "Tue Feb 12 13:09:14 +0000 2019",
 		"id": 1095308852491415600,
 		"id_str": "1095309272903077893",
