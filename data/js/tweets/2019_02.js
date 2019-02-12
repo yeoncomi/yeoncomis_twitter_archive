@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 13:09:14 +0000 2019",
+		"id": 1095308852491415600,
+		"id_str": "1095309272903077893",
+		"full_text": "2/7 Foreign Twitter trolls are trying to shape public opinion in Canada. https://t.co/o4zZwlOLvj https://t.co/xt2lZd3trO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o4zZwlOLvj",
+					"expanded_url": "http://bit.ly/2E7ztfH",
+					"display_url": "bit.ly/2E7ztfH",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095308837827928000,
+					"id_str": "1095308837827928065",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNRlbYUYAEC5sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNRlbYUYAEC5sD.jpg",
+					"url": "https://t.co/xt2lZd3trO",
+					"display_url": "pic.twitter.com/xt2lZd3trO",
+					"expanded_url": "https://twitter.com/CBCNews/status/1095308852491415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095308837827928000,
+					"id_str": "1095308837827928065",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNRlbYUYAEC5sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNRlbYUYAEC5sD.jpg",
+					"url": "https://t.co/xt2lZd3trO",
+					"display_url": "pic.twitter.com/xt2lZd3trO",
+					"expanded_url": "https://twitter.com/CBCNews/status/1095308852491415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1095308772308893700,
+		"in_reply_to_status_id_str": "1095308772308893697",
+		"in_reply_to_user_id": 6433472,
+		"in_reply_to_user_id_str": "6433472",
+		"in_reply_to_screen_name": "CBCNews",
+		"user": {
+			"id": 6433472,
+			"id_str": "6433472",
+			"name": "CBC News",
+			"screen_name": "CBCNews",
+			"location": "Canada",
+			"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+			"url": "http://t.co/ZLZObOnET1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZLZObOnET1",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2680176,
+			"friends_count": 1014,
+			"listed_count": 14517,
+			"created_at": "Wed May 30 05:20:39 +0000 2007",
+			"favourites_count": 5877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 211720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2/7 Foreign Twitter trolls are trying to shape public opinion in Canada. https://t.co/o4zZwlOLvj https://t.co/xt2lZd3trO"
+	},
+	{
 		"created_at": "Mon Feb 11 10:52:00 +0000 2019",
 		"id": 1094911925178093600,
 		"id_str": "1095217013998243842",
