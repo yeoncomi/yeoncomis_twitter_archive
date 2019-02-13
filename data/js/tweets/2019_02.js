@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 15:28:06 +0000 2019",
+		"id": 1095343796416434200,
+		"id_str": "1095536860439310336",
+		"full_text": "여가부가 내리는 방송프로그램 제작지침.jpg\n\n과거 군부독재시절 군부정권이 각 언론사에 \"보도지침\"이라는걸 내렸었지...지금 여성가족부가 하는짓이 그때의 보도지침과 뭐가 다르지? https://t.co/JRc0hrq6zB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095343787218427900,
+					"id_str": "1095343787218427906",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNxXwAV4AIi_TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNxXwAV4AIi_TC.jpg",
+					"url": "https://t.co/JRc0hrq6zB",
+					"display_url": "pic.twitter.com/JRc0hrq6zB",
+					"expanded_url": "https://twitter.com/Jubeic/status/1095343796416434177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095343787218427900,
+					"id_str": "1095343787218427906",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNxXwAV4AIi_TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNxXwAV4AIi_TC.jpg",
+					"url": "https://t.co/JRc0hrq6zB",
+					"display_url": "pic.twitter.com/JRc0hrq6zB",
+					"expanded_url": "https://twitter.com/Jubeic/status/1095343796416434177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095343787239342100,
+					"id_str": "1095343787239342083",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNxXwFVAAMoFY5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNxXwFVAAMoFY5.jpg",
+					"url": "https://t.co/JRc0hrq6zB",
+					"display_url": "pic.twitter.com/JRc0hrq6zB",
+					"expanded_url": "https://twitter.com/Jubeic/status/1095343796416434177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 944,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48982064,
+			"id_str": "48982064",
+			"name": "다시 무명으로 돌아간다",
+			"screen_name": "Jubeic",
+			"location": "",
+			"description": "Digital Hunter. 억압하는 모든 것에 저항하라!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1966,
+			"friends_count": 1570,
+			"listed_count": 47,
+			"created_at": "Sat Jun 20 11:12:14 +0000 2009",
+			"favourites_count": 398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38541,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6190DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084289126503870464/Y0APT8oz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084289126503870464/Y0APT8oz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48982064/1547349619",
+			"profile_link_color": "B6EC83",
+			"profile_sidebar_border_color": "B6EC83",
+			"profile_sidebar_fill_color": "6190DB",
+			"profile_text_color": "111111",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여가부가 내리는 방송프로그램 제작지침.jpg\n\n과거 군부독재시절 군부정권이 각 언론사에 \"보도지침\"이라는걸 내렸었지...지금 여성가족부가 하는짓이 그때의 보도지침과 뭐가 다르지? https://t.co/JRc0hrq6zB"
+	},
+	{
+		"created_at": "Tue Feb 12 10:29:10 +0000 2019",
+		"id": 1095268567761576000,
+		"id_str": "1095524549485973506",
+		"full_text": "그러길래\n\nHttps가 막히기전에 미리 모아놨어야지 ww https://t.co/hoyMHtlmzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095268558961963000,
+					"id_str": "1095268558961963008",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMs846U8AAV5Py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMs846U8AAV5Py.jpg",
+					"url": "https://t.co/hoyMHtlmzs",
+					"display_url": "pic.twitter.com/hoyMHtlmzs",
+					"expanded_url": "https://twitter.com/Nano_desuyo/status/1095268567761575936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095268558961963000,
+					"id_str": "1095268558961963008",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMs846U8AAV5Py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMs846U8AAV5Py.jpg",
+					"url": "https://t.co/hoyMHtlmzs",
+					"display_url": "pic.twitter.com/hoyMHtlmzs",
+					"expanded_url": "https://twitter.com/Nano_desuyo/status/1095268567761575936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 741607113860874200,
+			"id_str": "741607113860874241",
+			"name": "나노🍉",
+			"screen_name": "Nano_desuyo",
+			"location": "레몬녹차 해적단",
+			"description": "여러가지함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2023,
+			"friends_count": 590,
+			"listed_count": 200,
+			"created_at": "Sat Jun 11 12:24:49 +0000 2016",
+			"favourites_count": 10369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37872,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093180198026063872/BaSVn9NS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093180198026063872/BaSVn9NS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/741607113860874241/1547432899",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그러길래\n\nHttps가 막히기전에 미리 모아놨어야지 ww https://t.co/hoyMHtlmzs"
+	},
+	{
+		"created_at": "Wed Feb 13 03:21:45 +0000 2019",
+		"id": 1095523394827604000,
+		"id_str": "1095523872584040449",
+		"full_text": "아 학회장님 저 고백할거 있는데 랩실에서 깔루아밀크 타먹은적 있어요 https://t.co/eMwJdWo5BL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eMwJdWo5BL",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1095417278458322944",
+					"display_url": "twitter.com/shiftpsh/statu…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077744884176478200,
+			"id_str": "1077744884176478208",
+			"name": "🌙",
+			"screen_name": "crescent__h",
+			"location": "아무말계정 겸 / 이렇게 하면 공부하겠지 설마 안하나",
+			"description": "최.고.조.넘.깔.루.아.밀.크 / 멘션or트친소흔적아니면 블블합니다. 구독해도 의미없음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 44,
+			"listed_count": 1,
+			"created_at": "Wed Dec 26 01:56:18 +0000 2018",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 250,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077745054473629696/ESN3n2ic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077745054473629696/ESN3n2ic_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077744884176478208/1545789643",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095417278458323000,
+		"quoted_status_id_str": "1095417278458322944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eMwJdWo5BL",
+			"expanded": "https://twitter.com/shiftpsh/status/1095417278458322944",
+			"display": "twitter.com/shiftpsh/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 12 20:20:05 +0000 2019",
+			"id": 1095417278458323000,
+			"id_str": "1095417278458322944",
+			"full_text": "또 학회 일 하는 중 https://t.co/Of4xYwfFKu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1095417254106169300,
+						"id_str": "1095417254106169345",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DzO0MFfVAAEpbNz.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzO0MFfVAAEpbNz.png",
+						"url": "https://t.co/Of4xYwfFKu",
+						"display_url": "pic.twitter.com/Of4xYwfFKu",
+						"expanded_url": "https://twitter.com/shiftpsh/status/1095417278458322944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 913,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095417254106169300,
+						"id_str": "1095417254106169345",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DzO0MFfVAAEpbNz.png",
+						"media_url_https": "https://pbs.twimg.com/media/DzO0MFfVAAEpbNz.png",
+						"url": "https://t.co/Of4xYwfFKu",
+						"display_url": "pic.twitter.com/Of4xYwfFKu",
+						"expanded_url": "https://twitter.com/shiftpsh/status/1095417278458322944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 913,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 179891008,
+				"id_str": "179891008",
+				"name": "시프트 / shift*",
+				"screen_name": "shiftpsh",
+				"location": "바닐라",
+				"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, '모펀' 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊",
+				"url": "https://t.co/KKdZ63KnmY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KKdZ63KnmY",
+								"expanded_url": "https://shift.moe",
+								"display_url": "shift.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RNmbjyXMBU",
+								"expanded_url": "http://sft.sh/works",
+								"display_url": "sft.sh/works",
+								"indices": [
+									69,
+									92
+								]
+							},
+							{
+								"url": "https://t.co/3hg2iNSCMZ",
+								"expanded_url": "http://sft.sh/ask",
+								"display_url": "sft.sh/ask",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1971,
+				"friends_count": 733,
+				"listed_count": 18,
+				"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+				"favourites_count": 24247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65813,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092146984843018240/cFiFmWJP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092146984843018240/cFiFmWJP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1539972946",
+				"profile_link_color": "FF7784",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 학회장님 저 고백할거 있는데 랩실에서 깔루아밀크 타먹은적 있어요 https://t.co/eMwJdWo5BL"
+	},
+	{
+		"created_at": "Tue Feb 12 17:25:18 +0000 2019",
+		"id": 1095373293496938500,
+		"id_str": "1095523609584459776",
+		"full_text": "청와대 감청반대 청원 근황:\n\n청원 숫자가 역으로 떨어지는 기적이 등장함 https://t.co/jAyMUDVHvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095373268100366300,
+					"id_str": "1095373268100366337",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DzOMLw2UwAEBc9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzOMLw2UwAEBc9B.jpg",
+					"url": "https://t.co/jAyMUDVHvD",
+					"display_url": "pic.twitter.com/jAyMUDVHvD",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1095373293496938497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1104,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095373268100366300,
+					"id_str": "1095373268100366337",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DzOMLw2UwAEBc9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzOMLw2UwAEBc9B.jpg",
+					"url": "https://t.co/jAyMUDVHvD",
+					"display_url": "pic.twitter.com/jAyMUDVHvD",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1095373293496938497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1104,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 647,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095373282210078700,
+					"id_str": "1095373282210078720",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DzOMMlaV4AA0xqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzOMMlaV4AA0xqE.jpg",
+					"url": "https://t.co/jAyMUDVHvD",
+					"display_url": "pic.twitter.com/jAyMUDVHvD",
+					"expanded_url": "https://twitter.com/CCaRBiNG/status/1095373293496938497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 647,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1104,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211076773,
+			"id_str": "211076773",
+			"name": "CCaRBiNG",
+			"screen_name": "CCaRBiNG",
+			"location": "솔로몬 제도 부건빌 섬 부인기지 서버",
+			"description": "플픽출처: https://t.co/9oCtVUCyua",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9oCtVUCyua",
+							"expanded_url": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72665239",
+							"display_url": "pixiv.net/member_illust.…",
+							"indices": [
+								6,
+								29
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 694,
+			"friends_count": 523,
+			"listed_count": 21,
+			"created_at": "Tue Nov 02 07:23:16 +0000 2010",
+			"favourites_count": 3280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99019,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090288419320737792/ArEBZ3jD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090288419320737792/ArEBZ3jD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211076773/1548838396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청와대 감청반대 청원 근황:\n\n청원 숫자가 역으로 떨어지는 기적이 등장함 https://t.co/jAyMUDVHvD"
+	},
+	{
 		"created_at": "Wed Feb 13 02:20:16 +0000 2019",
 		"id": 1095507920450515000,
 		"id_str": "1095507920450514944",
