@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 09:50:20 +0000 2019",
+		"id": 1095258794219647000,
+		"id_str": "1095490745178349568",
+		"full_text": "지금 청와대 홈페이지에서 'http'라는 단어가 금지어로 지정돼 검색되지 않습니다.\n사진에 보시면 https 검색하면 s만 검색됩니다.\n아무래도 https 차단 반대가 커져서 막은 것 같아보입니다.\n다만, 대문자로 검색은 되는 것 같습니다. https://t.co/jDjxOi1z3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095258702825717800,
+					"id_str": "1095258702825717760",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMj_L8VAAAgkoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMj_L8VAAAgkoB.jpg",
+					"url": "https://t.co/jDjxOi1z3u",
+					"display_url": "pic.twitter.com/jDjxOi1z3u",
+					"expanded_url": "https://twitter.com/twmmcrs/status/1095258794219646976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1295,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095258702825717800,
+					"id_str": "1095258702825717760",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMj_L8VAAAgkoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMj_L8VAAAgkoB.jpg",
+					"url": "https://t.co/jDjxOi1z3u",
+					"display_url": "pic.twitter.com/jDjxOi1z3u",
+					"expanded_url": "https://twitter.com/twmmcrs/status/1095258794219646976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1295,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095258776712622100,
+					"id_str": "1095258776712622080",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMkDfMVsAANcsX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMkDfMVsAANcsX.jpg",
+					"url": "https://t.co/jDjxOi1z3u",
+					"display_url": "pic.twitter.com/jDjxOi1z3u",
+					"expanded_url": "https://twitter.com/twmmcrs/status/1095258794219646976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1369,
+							"h": 769,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006159110394400800,
+			"id_str": "1006159110394400768",
+			"name": "마리오군",
+			"screen_name": "twmmcrs",
+			"location": "대한민국 부산",
+			"description": "블로그 소식을 빠르게 만나보세요.\nBlog since. 2007.07.29 / 텔레그램 https://t.co/WTbasixpcC (그룹 https://t.co/NemcWw4hCI )",
+			"url": "https://t.co/Opm4yHCDqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Opm4yHCDqg",
+							"expanded_url": "http://MMCRs.kr",
+							"display_url": "MMCRs.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WTbasixpcC",
+							"expanded_url": "http://t.me/mmcrs",
+							"display_url": "t.me/mmcrs",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/NemcWw4hCI",
+							"expanded_url": "http://t.me/mmcrsc",
+							"display_url": "t.me/mmcrsc",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 334,
+			"friends_count": 446,
+			"listed_count": 0,
+			"created_at": "Mon Jun 11 13:00:00 +0000 2018",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1595,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053914163729195008/VaguGY8q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053914163729195008/VaguGY8q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006159110394400768/1528877558",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 청와대 홈페이지에서 'http'라는 단어가 금지어로 지정돼 검색되지 않습니다.\n사진에 보시면 https 검색하면 s만 검색됩니다.\n아무래도 https 차단 반대가 커져서 막은 것 같아보입니다.\n다만, 대문자로 검색은 되는 것 같습니다. https://t.co/jDjxOi1z3u"
+	},
+	{
+		"created_at": "Tue Feb 12 01:35:13 +0000 2019",
+		"id": 1095134196345929700,
+		"id_str": "1095486769062019072",
+		"full_text": "감청 없이 유저가 어느 사이트에 방문할지를 어떻게 알겠습니까. 뭐 시발 예언이라도 받아서 아 이 유저가 몇시 몇분 몇초에 https://t.co/C3j4NYIvQV 를 방문할 거니 그 때 타이밍 맞춰서 리다이렉션 시키세요 이딴거 하나? 알못들이 좀 알고 깝칠것이지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C3j4NYIvQV",
+					"expanded_url": "http://insecam.org",
+					"display_url": "insecam.org",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095133755663036400,
+		"in_reply_to_status_id_str": "1095133755663036416",
+		"in_reply_to_user_id": 2890022617,
+		"in_reply_to_user_id_str": "2890022617",
+		"in_reply_to_screen_name": "perillamint",
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1292,
+			"friends_count": 857,
+			"listed_count": 70,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 176201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감청 없이 유저가 어느 사이트에 방문할지를 어떻게 알겠습니까. 뭐 시발 예언이라도 받아서 아 이 유저가 몇시 몇분 몇초에 https://t.co/C3j4NYIvQV 를 방문할 거니 그 때 타이밍 맞춰서 리다이렉션 시키세요 이딴거 하나? 알못들이 좀 알고 깝칠것이지"
+	},
+	{
 		"created_at": "Tue Feb 12 13:50:36 +0000 2019",
 		"id": 1095319259582914600,
 		"id_str": "1095466942624714753",
