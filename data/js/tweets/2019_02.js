@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 15:05:49 +0000 2019",
+		"id": 1095700577483280400,
+		"id_str": "1095835334116438016",
+		"full_text": "불법 음란물, 저작권을 대놓고 침해하는 사이트 차단 하는건 좋습니다. 그러나 이 방식은 모두의 인터넷 패킷을 하나 하나 감찰하는 방법으로 명백한 인권 침해이며 위헌입니다. (관련 판례:2016헌마263) #Https #인터넷검열 https://t.co/a3sjtbVCmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Https",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "인터넷검열",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095698459867283500,
+					"id_str": "1095698459867283457",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSz8alVAAEdSxA.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzSz8alVAAEdSxA.png",
+					"url": "https://t.co/a3sjtbVCmJ",
+					"display_url": "pic.twitter.com/a3sjtbVCmJ",
+					"expanded_url": "https://twitter.com/kangdol504/status/1095700577483280384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095698459867283500,
+					"id_str": "1095698459867283457",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSz8alVAAEdSxA.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzSz8alVAAEdSxA.png",
+					"url": "https://t.co/a3sjtbVCmJ",
+					"display_url": "pic.twitter.com/a3sjtbVCmJ",
+					"expanded_url": "https://twitter.com/kangdol504/status/1095700577483280384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895943005537828900,
+			"id_str": "895943005537828865",
+			"name": "kangdol 39",
+			"screen_name": "kangdol504",
+			"location": "대한민국 과천시",
+			"description": "미쿠미쿠한 삶을 살고싶은 1人",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24,
+			"friends_count": 81,
+			"listed_count": 0,
+			"created_at": "Fri Aug 11 09:40:33 +0000 2017",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086284140838711301/dFY_hRpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086284140838711301/dFY_hRpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895943005537828865/1535990438",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "불법 음란물, 저작권을 대놓고 침해하는 사이트 차단 하는건 좋습니다. 그러나 이 방식은 모두의 인터넷 패킷을 하나 하나 감찰하는 방법으로 명백한 인권 침해이며 위헌입니다. (관련 판례:2016헌마263) #Https #인터넷검열 https://t.co/a3sjtbVCmJ"
+	},
+	{
 		"created_at": "Wed Feb 13 13:31:51 +0000 2019",
 		"id": 1095676931004031000,
 		"id_str": "1095676931004030976",
