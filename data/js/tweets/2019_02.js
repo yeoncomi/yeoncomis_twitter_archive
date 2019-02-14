@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 10:36:48 +0000 2019",
+		"id": 1095632875678888000,
+		"id_str": "1095879008246362113",
+		"full_text": "..고장난 시계가 더 잘 맞는 것 같다..;;\n\n하태경 “정부 ‘19금 사이트’ 아니라 ‘일베·워마드’ 제재해야” https://t.co/RNHPN7BFsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RNHPN7BFsM",
+					"expanded_url": "http://joongang.co.kr/8uqx",
+					"display_url": "joongang.co.kr/8uqx",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935292138014654500,
+			"id_str": "935292138014654464",
+			"name": "Dog_na_Caw_na",
+			"screen_name": "dog_caw",
+			"location": "거기",
+			"description": "눈팅 많음~! 그냥 내키는대로 찾아봄~\nsns가 왜 인생의 낭비인지 슬슬 알겠...\n[건전한 일반인의 상식]은 제발...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 162,
+			"listed_count": 1,
+			"created_at": "Mon Nov 27 23:39:57 +0000 2017",
+			"favourites_count": 7536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4019,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063588637626048513/zYasfAmd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063588637626048513/zYasfAmd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935292138014654464/1528537883",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "..고장난 시계가 더 잘 맞는 것 같다..;;\n\n하태경 “정부 ‘19금 사이트’ 아니라 ‘일베·워마드’ 제재해야” https://t.co/RNHPN7BFsM"
+	},
+	{
+		"created_at": "Wed Feb 13 03:01:09 +0000 2019",
+		"id": 1095518208038060000,
+		"id_str": "1095877826048225280",
+		"full_text": "News anchor level: Canadian https://t.co/jJutzk6kJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095518170767515600,
+					"id_str": "1095518170767515648",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095518170767515648/pu/img/QK5atM4DhUiTBWoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095518170767515648/pu/img/QK5atM4DhUiTBWoz.jpg",
+					"url": "https://t.co/jJutzk6kJq",
+					"display_url": "pic.twitter.com/jJutzk6kJq",
+					"expanded_url": "https://twitter.com/jurzynski/status/1095518208038060034/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095518170767515600,
+					"id_str": "1095518170767515648",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095518170767515648/pu/img/QK5atM4DhUiTBWoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095518170767515648/pu/img/QK5atM4DhUiTBWoz.jpg",
+					"url": "https://t.co/jJutzk6kJq",
+					"display_url": "pic.twitter.com/jJutzk6kJq",
+					"expanded_url": "https://twitter.com/jurzynski/status/1095518208038060034/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"duration_millis": 3770,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095518170767515648/pu/vid/270x180/O0XZSlXn9JUAqRqW.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1095518170767515648/pu/pl/l2tR2c9Fuj-yPVu4.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095518170767515648/pu/vid/720x480/3bJfmu2CNNX8O0cs.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095518170767515648/pu/vid/540x360/2H29dXTY5iylHtjx.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138871841,
+			"id_str": "138871841",
+			"name": "+ Martha +",
+			"screen_name": "jurzynski",
+			"location": "",
+			"description": "Write about business things & funny things. Social & Digital Marketing. Love #dogs & #biographies, proud wife of @baldguygreeting. Thoughts are all mine.",
+			"url": "https://t.co/nPqPzCCPkR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nPqPzCCPkR",
+							"expanded_url": "https://twitter.com/jurzynski",
+							"display_url": "twitter.com/jurzynski",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 573,
+			"listed_count": 29,
+			"created_at": "Fri Apr 30 21:35:28 +0000 2010",
+			"favourites_count": 103793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042262868429725697/n7mvhz77_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042262868429725697/n7mvhz77_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138871841/1540237170",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 725,
+		"favorite_count": 3359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "News anchor level: Canadian https://t.co/jJutzk6kJq"
+	},
+	{
 		"created_at": "Wed Feb 13 15:05:49 +0000 2019",
 		"id": 1095700577483280400,
 		"id_str": "1095835334116438016",
