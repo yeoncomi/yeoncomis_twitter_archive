@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 05:49:00 +0000 2019",
+		"id": 1095922838110785500,
+		"id_str": "1095922885972045824",
+		"full_text": "정부 피셜: 이제 옆집 전화박스 까서 몰래 탭 박아도 감청이 아닙니다\n\n라고 이해하면 됩니까? /s https://t.co/4cbD6EpHEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4cbD6EpHEA",
+					"expanded_url": "https://twitter.com/actualpolicy_kr/status/1095918718436048898",
+					"display_url": "twitter.com/actualpolicy_k…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1300,
+			"friends_count": 856,
+			"listed_count": 71,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 176307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095918718436048900,
+		"quoted_status_id_str": "1095918718436048898",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4cbD6EpHEA",
+			"expanded": "https://twitter.com/actualpolicy_kr/status/1095918718436048898",
+			"display": "twitter.com/actualpolicy_k…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 05:32:38 +0000 2019",
+			"id": 1095918718436048900,
+			"id_str": "1095918718436048898",
+			"full_text": "3)'감청'이란 암호화돼 송수신되는 내용을 ‘열람 가능한 상태로 전환’해 파악하는 것입니다. 암호화되지 않고 공개되어 있는 SNI 필드영역을 활용해 접속을 차단하는 방식은 스팸차단과 같이 기계적으로 접속을 차단하는 것으로 암호화된 통신내용을 열람 가능상태로 전환하는 감청과는 무관합니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1095918716607356900,
+			"in_reply_to_status_id_str": "1095918716607356928",
+			"in_reply_to_user_id": 1063255162821603300,
+			"in_reply_to_user_id_str": "1063255162821603329",
+			"in_reply_to_screen_name": "actualpolicy_kr",
+			"user": {
+				"id": 1063255162821603300,
+				"id_str": "1063255162821603329",
+				"name": "정부 정책, 사실은 이렇습니다",
+				"screen_name": "actualpolicy_kr",
+				"location": "대한민국",
+				"description": "정책에 대한 오해, 불충분한 설명을 정부가 직접 바로잡아 알려드립니다. 문화체육관광부 국민소통실이 운영하는 정책브리핑 [사실은 이렇습니다]페이지의 트위터 채널입니다. #사실은이렇습니다 #사이다",
+				"url": "https://t.co/pQk49YBwOS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pQk49YBwOS",
+								"expanded_url": "http://korea.kr/briefing/actuallyList.do",
+								"display_url": "korea.kr/briefing/actua…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8654,
+				"friends_count": 406,
+				"listed_count": 78,
+				"created_at": "Fri Nov 16 02:19:19 +0000 2018",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 372,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075250508929978368/sVVEgpom_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075250508929978368/sVVEgpom_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063255162821603329/1545194715",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 189,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 49,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부 피셜: 이제 옆집 전화박스 까서 몰래 탭 박아도 감청이 아닙니다\n\n라고 이해하면 됩니까? /s https://t.co/4cbD6EpHEA"
+	},
+	{
 		"created_at": "Wed Feb 13 10:36:48 +0000 2019",
 		"id": 1095632875678888000,
 		"id_str": "1095879008246362113",
