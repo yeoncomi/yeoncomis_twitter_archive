@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 03:08:29 +0000 2019",
+		"id": 1096244831645356000,
+		"id_str": "1096495485475422208",
+		"full_text": "Fuck it. I’m a robot. https://t.co/fLnYH3ZzIF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096244823852367900,
+					"id_str": "1096244823852367872",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzak2_CUwAAH7Jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzak2_CUwAAH7Jr.jpg",
+					"url": "https://t.co/fLnYH3ZzIF",
+					"display_url": "pic.twitter.com/fLnYH3ZzIF",
+					"expanded_url": "https://twitter.com/chadloder/status/1096244831645356032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096244823852367900,
+					"id_str": "1096244823852367872",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzak2_CUwAAH7Jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzak2_CUwAAH7Jr.jpg",
+					"url": "https://t.co/fLnYH3ZzIF",
+					"display_url": "pic.twitter.com/fLnYH3ZzIF",
+					"expanded_url": "https://twitter.com/chadloder/status/1096244831645356032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98575337,
+			"id_str": "98575337",
+			"name": "Chad Loder 💬",
+			"screen_name": "chadloder",
+			"location": "Los Angeles, CA",
+			"description": "Founder & CEO @Habitu8 • Founder/VP Eng @Rapid7 ($900M IPO) • Author • Investor • CISO • Keynote speaker • Security • Tech • Ethics • Startups • Salsa 🎵",
+			"url": "https://t.co/j2ABO3HoJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2ABO3HoJN",
+							"expanded_url": "https://www.habitu8.io/",
+							"display_url": "habitu8.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11149,
+			"friends_count": 4873,
+			"listed_count": 215,
+			"created_at": "Tue Dec 22 07:11:56 +0000 2009",
+			"favourites_count": 12573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087223694533943296/-yHGOmAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087223694533943296/-yHGOmAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98575337/1545804886",
+			"profile_link_color": "F0CBCA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1095,
+		"favorite_count": 2655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fuck it. I’m a robot. https://t.co/fLnYH3ZzIF"
+	},
+	{
+		"created_at": "Fri Feb 15 19:39:34 +0000 2019",
+		"id": 1096494246243164200,
+		"id_str": "1096494246243164160",
+		"full_text": "@EverTokki 흐으미... 트위터에서 뵙네요.. 반갑습니다. NWHacks 재밌게 했어요 여러 사람들도 만나고 바닥에서 잠도자고 재밌었네요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EverTokki",
+					"name": "evertokki",
+					"id": 937459554,
+					"id_str": "937459554",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1096494020023353300,
+		"in_reply_to_status_id_str": "1096494020023353344",
+		"in_reply_to_user_id": 937459554,
+		"in_reply_to_user_id_str": "937459554",
+		"in_reply_to_screen_name": "EverTokki",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 996,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31875,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@EverTokki 흐으미... 트위터에서 뵙네요.. 반갑습니다. NWHacks 재밌게 했어요 여러 사람들도 만나고 바닥에서 잠도자고 재밌었네요"
+	},
+	{
 		"created_at": "Fri Feb 15 05:28:25 +0000 2019",
 		"id": 1096280046979801100,
 		"id_str": "1096453415050178561",
