@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 01:09:53 +0000 2019",
+		"id": 1096214984193847300,
+		"id_str": "1096214984193847296",
+		"full_text": "@Yusi_tw 방송부 유시링",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yusi_tw",
+					"name": "유시",
+					"id": 834062321475477500,
+					"id_str": "834062321475477504",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1096214834050256900,
+		"in_reply_to_status_id_str": "1096214834050256896",
+		"in_reply_to_user_id": 834062321475477500,
+		"in_reply_to_user_id_str": "834062321475477504",
+		"in_reply_to_screen_name": "Yusi_tw",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 997,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Yusi_tw 방송부 유시링"
+	},
+	{
+		"created_at": "Tue Aug 22 09:58:42 +0000 2017",
+		"id": 899933843284570100,
+		"id_str": "1096214497667076096",
+		"full_text": "@Terrabozi 안녕하세요 저 보헤미안 이라는 분 노란리본 단 청소년분 몰카찍어서 올린거 신고했다고 적었다 이런 답멘 받았었습니다 https://t.co/k55CBfP7VY",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Terrabozi",
+					"name": "생리컵(월경컵) 정보 Terra",
+					"id": 3643113674,
+					"id_str": "3643113674",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 899933827513983000,
+					"id_str": "899933827513982976",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DH01DE5UIAAE4pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH01DE5UIAAE4pb.jpg",
+					"url": "https://t.co/k55CBfP7VY",
+					"display_url": "pic.twitter.com/k55CBfP7VY",
+					"expanded_url": "https://twitter.com/etoile_poudre/status/899933843284570113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899933827513983000,
+					"id_str": "899933827513982976",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DH01DE5UIAAE4pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH01DE5UIAAE4pb.jpg",
+					"url": "https://t.co/k55CBfP7VY",
+					"display_url": "pic.twitter.com/k55CBfP7VY",
+					"expanded_url": "https://twitter.com/etoile_poudre/status/899933843284570113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 899766990998347800,
+		"in_reply_to_status_id_str": "899766990998347776",
+		"in_reply_to_user_id": 3643113674,
+		"in_reply_to_user_id_str": "3643113674",
+		"in_reply_to_screen_name": "Terrabozi",
+		"user": {
+			"id": 797512764604313600,
+			"id_str": "797512764604313600",
+			"name": "🌈 김토끼🌈",
+			"screen_name": "etoile_poudre",
+			"location": "",
+			"description": "FUB FREE/잡계/욕트(쌍욕),섹트,RT많음/바빠서 트윗 몰아서봄/페미니스트/페미니즘 공부/프로불편러/젠더리스,폴리로맨틱,쿠피오섹슈얼/페미에게 친절해요💕/고양이 사랑해 고양이/헤더는 내 사랑 제모님 작품💕💕/퀴어입니다 워마드는 안녕히 가세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66,
+			"friends_count": 39,
+			"listed_count": 0,
+			"created_at": "Sat Nov 12 18:53:54 +0000 2016",
+			"favourites_count": 1301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22063,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805244870197530624/GXIeQ4ZZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805244870197530624/GXIeQ4ZZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/797512764604313600/1491385347",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@Terrabozi 안녕하세요 저 보헤미안 이라는 분 노란리본 단 청소년분 몰카찍어서 올린거 신고했다고 적었다 이런 답멘 받았었습니다 https://t.co/k55CBfP7VY"
+	},
+	{
+		"created_at": "Thu Feb 14 00:46:53 +0000 2019",
+		"id": 1095846808956297200,
+		"id_str": "1096213831385149442",
+		"full_text": "끊기 어렵지... https://t.co/b00MVAnfZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095846796868280300,
+					"id_str": "1095846796868280320",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DzU62w-VYAARYml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzU62w-VYAARYml.jpg",
+					"url": "https://t.co/b00MVAnfZl",
+					"display_url": "pic.twitter.com/b00MVAnfZl",
+					"expanded_url": "https://twitter.com/iamharill/status/1095846808956297217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1071,
+							"h": 589,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095846796868280300,
+					"id_str": "1095846796868280320",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DzU62w-VYAARYml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzU62w-VYAARYml.jpg",
+					"url": "https://t.co/b00MVAnfZl",
+					"display_url": "pic.twitter.com/b00MVAnfZl",
+					"expanded_url": "https://twitter.com/iamharill/status/1095846808956297217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1071,
+							"h": 589,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 589,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095846802278953000,
+					"id_str": "1095846802278952960",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DzU63FIVsAAD4qo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzU63FIVsAAD4qo.jpg",
+					"url": "https://t.co/b00MVAnfZl",
+					"display_url": "pic.twitter.com/b00MVAnfZl",
+					"expanded_url": "https://twitter.com/iamharill/status/1095846808956297217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 756,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091918235136446500,
+			"id_str": "1091918235136446465",
+			"name": "쟈히 악개",
+			"screen_name": "iamharill",
+			"location": "",
+			"description": "쟈히님은 기죽지 않아! 1권! 아직도 구매하지 않으셨나요? //\n알라딘 : https://t.co/qZkiTtglVv //\nyes24 : https://t.co/WEqIa597dH…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qZkiTtglVv",
+							"expanded_url": "http://aladin.kr/p/b21SN",
+							"display_url": "aladin.kr/p/b21SN",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/WEqIa597dH",
+							"expanded_url": "http://m.yes24.com/Goods/Detail/6",
+							"display_url": "m.yes24.com/Goods/Detail/6",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 379,
+			"friends_count": 307,
+			"listed_count": 3,
+			"created_at": "Sun Feb 03 04:36:08 +0000 2019",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2347,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096028805079097344/enqOasxd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096028805079097344/enqOasxd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091918235136446465/1549168983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "끊기 어렵지... https://t.co/b00MVAnfZl"
+	},
+	{
 		"created_at": "Thu Feb 14 03:39:50 +0000 2019",
 		"id": 1095890331843870700,
 		"id_str": "1096078914600951808",
