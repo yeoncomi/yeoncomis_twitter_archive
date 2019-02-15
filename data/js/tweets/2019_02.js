@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 07:46:32 +0000 2019",
+		"id": 1095952415436623900,
+		"id_str": "1096231128912941056",
+		"full_text": "구미베어를 뜨거운 차에 두고 내렸음. 내가 돌아왔을 땐 구미베어들은 달콤한 수렁으로 녹아내려서, 그 개체의 본질은 무에 용해되어 덧없이 단일한 의식으로 재구성되고 말았음. 독립된 개체도, 독립적인 맛도 아닌, 단지 형체없이 영구한 구미의 현현으로서. https://t.co/Wg8Niargpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095952412425150500,
+					"id_str": "1095952412425150466",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DzWa6ZlVYAI6fdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzWa6ZlVYAI6fdV.jpg",
+					"url": "https://t.co/Wg8Niargpo",
+					"display_url": "pic.twitter.com/Wg8Niargpo",
+					"expanded_url": "https://twitter.com/lazysnowdark/status/1095952415436623873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095952412425150500,
+					"id_str": "1095952412425150466",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DzWa6ZlVYAI6fdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzWa6ZlVYAI6fdV.jpg",
+					"url": "https://t.co/Wg8Niargpo",
+					"display_url": "pic.twitter.com/Wg8Niargpo",
+					"expanded_url": "https://twitter.com/lazysnowdark/status/1095952415436623873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1095952408973176800,
+		"in_reply_to_status_id_str": "1095952408973176838",
+		"in_reply_to_user_id": 2853568100,
+		"in_reply_to_user_id_str": "2853568100",
+		"in_reply_to_screen_name": "lazysnowdark",
+		"user": {
+			"id": 2853568100,
+			"id_str": "2853568100",
+			"name": "사메쨩",
+			"screen_name": "lazysnowdark",
+			"location": "IMU",
+			"description": "Genderless Asexual(Xe or They)/아나코-코뮤니스트, 플렉시테리언/원금 100만원/오만장르 스포주의/글, 그림, 영어 번역 커미션 문의는 멘션or 디엠/English, 日本語 OK/우리 쌤 @Your_Illogical/내 피자파이 @Your_Pizzapie",
+			"url": "https://t.co/oRuv5N9S7h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRuv5N9S7h",
+							"expanded_url": "https://www.evernote.com/shard/s709/sh/8a926e28-3cfe-4d1e-8196-ac23738f3b03/2e7a0fe15496c4e0a663ed8c",
+							"display_url": "evernote.com/shard/s709/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 449,
+			"listed_count": 12,
+			"created_at": "Sun Oct 12 21:59:38 +0000 2014",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 451657,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096078905788645377/PcK-oDQd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096078905788645377/PcK-oDQd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853568100/1538911030",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구미베어를 뜨거운 차에 두고 내렸음. 내가 돌아왔을 땐 구미베어들은 달콤한 수렁으로 녹아내려서, 그 개체의 본질은 무에 용해되어 덧없이 단일한 의식으로 재구성되고 말았음. 독립된 개체도, 독립적인 맛도 아닌, 단지 형체없이 영구한 구미의 현현으로서. https://t.co/Wg8Niargpo"
+	},
+	{
+		"created_at": "Thu Feb 14 19:23:45 +0000 2019",
+		"id": 1096127876682993700,
+		"id_str": "1096226728056283137",
+		"full_text": "Camping satellite dish about 35x40cm receiving the OC-100 NB transponder loud and clear.. insane! https://t.co/vAFuN2Usat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096126897187143700,
+					"id_str": "1096126897187143681",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096126897187143681/pu/img/puqNcJETOGE5COib.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096126897187143681/pu/img/puqNcJETOGE5COib.jpg",
+					"url": "https://t.co/vAFuN2Usat",
+					"display_url": "pic.twitter.com/vAFuN2Usat",
+					"expanded_url": "https://twitter.com/nerdsville/status/1096127876682993666/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096126897187143700,
+					"id_str": "1096126897187143681",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1096126897187143681/pu/img/puqNcJETOGE5COib.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1096126897187143681/pu/img/puqNcJETOGE5COib.jpg",
+					"url": "https://t.co/vAFuN2Usat",
+					"display_url": "pic.twitter.com/vAFuN2Usat",
+					"expanded_url": "https://twitter.com/nerdsville/status/1096127876682993666/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 44966,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096126897187143681/pu/vid/720x1280/7h-gwk6jv19TRIRm.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096126897187143681/pu/vid/320x568/0ZF_fZAnobuvhTip.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1096126897187143681/pu/pl/0ygBQLGggAkiSiGh.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1096126897187143681/pu/vid/360x640/aNVybN2Q5Vaapu_3.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1722571,
+			"id_str": "1722571",
+			"name": "Andrew Garratt M0NRD",
+			"screen_name": "nerdsville",
+			"location": "UK",
+			"description": "Curmudgeonly software engineer with an interest in all things radio related. Licensed Radio Amateur operator call signs M0NRD/2E0NRD/M6GTG",
+			"url": "http://t.co/wOjFoMeZdZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wOjFoMeZdZ",
+							"expanded_url": "http://nerdsville.blogspot.com",
+							"display_url": "nerdsville.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 967,
+			"friends_count": 553,
+			"listed_count": 29,
+			"created_at": "Wed Mar 21 07:54:23 +0000 2007",
+			"favourites_count": 5140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018205733727416321/u2Gp2nom_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018205733727416321/u2Gp2nom_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1722571/1531594096",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "60F75B",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Camping satellite dish about 35x40cm receiving the OC-100 NB transponder loud and clear.. insane! https://t.co/vAFuN2Usat"
+	},
+	{
+		"created_at": "Fri Feb 15 01:34:03 +0000 2019",
+		"id": 1096221066878275600,
+		"id_str": "1096221066878275585",
+		"full_text": "@Yusi_tw 안됐구나.... ㅠㅠ \n고등학교 가서 소프트웨어 마에스트로 같은거라던지 해봐요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yusi_tw",
+					"name": "유시",
+					"id": 834062321475477500,
+					"id_str": "834062321475477504",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1096220646898511900,
+		"in_reply_to_status_id_str": "1096220646898511873",
+		"in_reply_to_user_id": 834062321475477500,
+		"in_reply_to_user_id_str": "834062321475477504",
+		"in_reply_to_screen_name": "Yusi_tw",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 997,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Yusi_tw 안됐구나.... ㅠㅠ \n고등학교 가서 소프트웨어 마에스트로 같은거라던지 해봐요"
+	},
+	{
 		"created_at": "Fri Feb 15 01:09:53 +0000 2019",
 		"id": 1096214984193847300,
 		"id_str": "1096214984193847296",
