@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 15:20:02 +0000 2019",
+		"id": 1096791318498545700,
+		"id_str": "1096824081167478784",
+		"full_text": "Mommy SPARC\nDo doo doo doot de do\nMommy SPARC\nDo doo doo doot de do\nMommy SPARC\nDo doo doo doot de do\nMommy SPARC\n\n/cc @DavidSchenet https://t.co/05dO0GAbtm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidSchenet",
+					"name": "David Schenet",
+					"id": 801678893455474700,
+					"id_str": "801678893455474689",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096791313331245000,
+					"id_str": "1096791313331245057",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DziV42_X0AE9aiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziV42_X0AE9aiF.jpg",
+					"url": "https://t.co/05dO0GAbtm",
+					"display_url": "pic.twitter.com/05dO0GAbtm",
+					"expanded_url": "https://twitter.com/dotMudge/status/1096791318498545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096791313331245000,
+					"id_str": "1096791313331245057",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DziV42_X0AE9aiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziV42_X0AE9aiF.jpg",
+					"url": "https://t.co/05dO0GAbtm",
+					"display_url": "pic.twitter.com/05dO0GAbtm",
+					"expanded_url": "https://twitter.com/dotMudge/status/1096791318498545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096791313243099100,
+					"id_str": "1096791313243099138",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/DziV42qW0AIlhCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziV42qW0AIlhCd.jpg",
+					"url": "https://t.co/05dO0GAbtm",
+					"display_url": "pic.twitter.com/05dO0GAbtm",
+					"expanded_url": "https://twitter.com/dotMudge/status/1096791318498545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 374280533,
+			"id_str": "374280533",
+			"name": "Mudge",
+			"screen_name": "dotMudge",
+			"location": "Stripe|CITL|Google|DARPA|L0pht",
+			"description": "Make a dent in the universe. Find something that needs improvement: go there and fix things. If not you, then who? :)",
+			"url": "https://t.co/iIx1Qua60O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iIx1Qua60O",
+							"expanded_url": "http://en.wikipedia.org/wiki/Peiter_Zatko",
+							"display_url": "en.wikipedia.org/wiki/Peiter_Za…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31247,
+			"friends_count": 227,
+			"listed_count": 832,
+			"created_at": "Fri Sep 16 01:26:56 +0000 2011",
+			"favourites_count": 13743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2635622100/d89ae44de4c7ead395a04eb4b4766949_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2635622100/d89ae44de4c7ead395a04eb4b4766949_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/374280533/1438487702",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mommy SPARC\nDo doo doo doot de do\nMommy SPARC\nDo doo doo doot de do\nMommy SPARC\nDo doo doo doot de do\nMommy SPARC\n\n/cc @DavidSchenet https://t.co/05dO0GAbtm"
+	},
+	{
 		"created_at": "Fri Feb 15 21:58:40 +0000 2019",
 		"id": 1096529251187085300,
 		"id_str": "1096607572402950145",
