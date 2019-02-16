@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 21:58:40 +0000 2019",
+		"id": 1096529251187085300,
+		"id_str": "1096607572402950145",
+		"full_text": "유언비어가 없다면 사회가 쓸모없는 힘을 쓸 필요가 없을텐데 https://t.co/x8rI33RCjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096529220606414800,
+					"id_str": "1096529220606414848",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DzenhDgU0AA7W7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzenhDgU0AA7W7c.jpg",
+					"url": "https://t.co/x8rI33RCjA",
+					"display_url": "pic.twitter.com/x8rI33RCjA",
+					"expanded_url": "https://twitter.com/ujPUbjOyVYHnjTU/status/1096529251187085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096529220606414800,
+					"id_str": "1096529220606414848",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DzenhDgU0AA7W7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzenhDgU0AA7W7c.jpg",
+					"url": "https://t.co/x8rI33RCjA",
+					"display_url": "pic.twitter.com/x8rI33RCjA",
+					"expanded_url": "https://twitter.com/ujPUbjOyVYHnjTU/status/1096529251187085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096529227996774400,
+					"id_str": "1096529227996774400",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DzenhfCUwAArPxN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzenhfCUwAArPxN.jpg",
+					"url": "https://t.co/x8rI33RCjA",
+					"display_url": "pic.twitter.com/x8rI33RCjA",
+					"expanded_url": "https://twitter.com/ujPUbjOyVYHnjTU/status/1096529251187085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096529234267258900,
+					"id_str": "1096529234267258880",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzenh2ZUwAA-eJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzenh2ZUwAA-eJr.jpg",
+					"url": "https://t.co/x8rI33RCjA",
+					"display_url": "pic.twitter.com/x8rI33RCjA",
+					"expanded_url": "https://twitter.com/ujPUbjOyVYHnjTU/status/1096529251187085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096529243498922000,
+					"id_str": "1096529243498921985",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeniYyUwAE-VHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeniYyUwAE-VHL.jpg",
+					"url": "https://t.co/x8rI33RCjA",
+					"display_url": "pic.twitter.com/x8rI33RCjA",
+					"expanded_url": "https://twitter.com/ujPUbjOyVYHnjTU/status/1096529251187085312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 698,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1029962798611066900,
+			"id_str": "1029962798611066880",
+			"name": "고로케가고로케맛나?",
+			"screen_name": "ujPUbjOyVYHnjTU",
+			"location": "",
+			"description": "페미니스트들의 고통, 피해의식을 1이라도 줄여줘서 행복감을 느끼게 하고 싶은 이퀄리스트.\n페미니스트도 사람입니다.\n말하면 알아 들을거라 믿습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 183,
+			"listed_count": 0,
+			"created_at": "Thu Aug 16 05:27:21 +0000 2018",
+			"favourites_count": 4641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3858,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029963118028288000/XjZ9zm9a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029963118028288000/XjZ9zm9a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유언비어가 없다면 사회가 쓸모없는 힘을 쓸 필요가 없을텐데 https://t.co/x8rI33RCjA"
+	},
+	{
+		"created_at": "Wed Feb 13 11:28:20 +0000 2019",
+		"id": 1095645847587414000,
+		"id_str": "1096606570551492608",
+		"full_text": "https://t.co/8cme6YOdId '중국몽'을 우려하는 한 IT 종사자 블로거의 글",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8cme6YOdId",
+					"expanded_url": "https://sptr.blog/https-censorship-with-sni",
+					"display_url": "sptr.blog/https-censorsh…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095645451921977300,
+		"in_reply_to_status_id_str": "1095645451921977346",
+		"in_reply_to_user_id": 280318036,
+		"in_reply_to_user_id_str": "280318036",
+		"in_reply_to_screen_name": "bakkabun",
+		"user": {
+			"id": 280318036,
+			"id_str": "280318036",
+			"name": "박가분",
+			"screen_name": "bakkabun",
+			"location": "세계공화국",
+			"description": "일베의 사상 & 혐오의 미러링 & 포비아 페미니즘 저자. 악플러 법 처분사례는 링크 참조~  당분간 '포비아 페미니즘' 홍보 모드",
+			"url": "https://t.co/lb9imWcQqQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lb9imWcQqQ",
+							"expanded_url": "http://blog.naver.com/paxwonik/220713337057",
+							"display_url": "blog.naver.com/paxwonik/22071…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5122,
+			"friends_count": 760,
+			"listed_count": 120,
+			"created_at": "Mon Apr 11 03:05:12 +0000 2011",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15763,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773448896483889153/dTByAgZJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773448896483889153/dTByAgZJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280318036/1505205472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/8cme6YOdId '중국몽'을 우려하는 한 IT 종사자 블로거의 글"
+	},
+	{
+		"created_at": "Wed Feb 13 12:09:12 +0000 2019",
+		"id": 1095656128686346200,
+		"id_str": "1096605796735971328",
+		"full_text": "저기 합격률이 100인데 왜 재수강률이 100인가요 https://t.co/Jb3b4RFkVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095656121266692100,
+					"id_str": "1095656121266692096",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSNb_AVYAA7TOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSNb_AVYAA7TOO.jpg",
+					"url": "https://t.co/Jb3b4RFkVd",
+					"display_url": "pic.twitter.com/Jb3b4RFkVd",
+					"expanded_url": "https://twitter.com/jotmotsahwall/status/1095656128686346241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095656121266692100,
+					"id_str": "1095656121266692096",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSNb_AVYAA7TOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSNb_AVYAA7TOO.jpg",
+					"url": "https://t.co/Jb3b4RFkVd",
+					"display_url": "pic.twitter.com/Jb3b4RFkVd",
+					"expanded_url": "https://twitter.com/jotmotsahwall/status/1095656128686346241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051248634677751800,
+			"id_str": "1051248634677751808",
+			"name": "솰",
+			"screen_name": "jotmotsahwall",
+			"location": "",
+			"description": "활이 태어난 것은 21세기가 간절히 활을 원했기 때문이다",
+			"url": "https://t.co/mdhLNbPqHf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mdhLNbPqHf",
+							"expanded_url": "http://sahwal.postype.com",
+							"display_url": "sahwal.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 105,
+			"listed_count": 0,
+			"created_at": "Sat Oct 13 23:09:40 +0000 2018",
+			"favourites_count": 9806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25728,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095377490799820800/TuNgIxNt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095377490799820800/TuNgIxNt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051248634677751808/1547066552",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3254,
+		"favorite_count": 568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저기 합격률이 100인데 왜 재수강률이 100인가요 https://t.co/Jb3b4RFkVd"
+	},
+	{
+		"created_at": "Fri Feb 15 09:17:18 +0000 2019",
+		"id": 1096337648321421300,
+		"id_str": "1096605500391608320",
+		"full_text": "유튜브 느려서 짜증난다는 사람 특징 https://t.co/FNuxbn0Xs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096337643984416800,
+					"id_str": "1096337643984416769",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzb5R0-UcAEt9pO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzb5R0-UcAEt9pO.png",
+					"url": "https://t.co/FNuxbn0Xs7",
+					"display_url": "pic.twitter.com/FNuxbn0Xs7",
+					"expanded_url": "https://twitter.com/hikari_158/status/1096337648321421313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096337643984416800,
+					"id_str": "1096337643984416769",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzb5R0-UcAEt9pO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzb5R0-UcAEt9pO.png",
+					"url": "https://t.co/FNuxbn0Xs7",
+					"display_url": "pic.twitter.com/FNuxbn0Xs7",
+					"expanded_url": "https://twitter.com/hikari_158/status/1096337648321421313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1072903477825699800,
+			"id_str": "1072903477825699840",
+			"name": "히카리",
+			"screen_name": "hikari_158",
+			"location": "",
+			"description": "잡덕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 100,
+			"listed_count": 3,
+			"created_at": "Wed Dec 12 17:18:17 +0000 2018",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3786,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090865730868850688/XfBv7CdV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090865730868850688/XfBv7CdV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072903477825699840/1548917892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 675,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브 느려서 짜증난다는 사람 특징 https://t.co/FNuxbn0Xs7"
+	},
+	{
 		"created_at": "Sat Feb 16 02:05:18 +0000 2019",
 		"id": 1096591318334111700,
 		"id_str": "1096591318334111744",
