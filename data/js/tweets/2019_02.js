@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Oct 03 09:06:03 +0000 2017",
+		"id": 915140881786716200,
+		"id_str": "1097011547874836481",
+		"full_text": "이쯤에서 보는 욱일기 구분법\n\n첫번째만이 욱일기(전범기)입니다.\n두번째같이 해가 절반만 보이면 낙일기,\n세번째같이 파란 바탕에 하단부 구석에 해가 있으면 대어기,\n네번째는 미얀마의 민족해방군 국기입니다. (타래로) https://t.co/lG8rDbfpPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 915140854574080000,
+					"id_str": "915140854574080002",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM7wjRV4AISQnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM7wjRV4AISQnx.jpg",
+					"url": "https://t.co/lG8rDbfpPG",
+					"display_url": "pic.twitter.com/lG8rDbfpPG",
+					"expanded_url": "https://twitter.com/chosuntitor/status/915140881786716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915140854574080000,
+					"id_str": "915140854574080002",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM7wjRV4AISQnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM7wjRV4AISQnx.jpg",
+					"url": "https://t.co/lG8rDbfpPG",
+					"display_url": "pic.twitter.com/lG8rDbfpPG",
+					"expanded_url": "https://twitter.com/chosuntitor/status/915140881786716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 915140863226810400,
+					"id_str": "915140863226810368",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM7xDgUEAA9Sgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM7xDgUEAA9Sgp.jpg",
+					"url": "https://t.co/lG8rDbfpPG",
+					"display_url": "pic.twitter.com/lG8rDbfpPG",
+					"expanded_url": "https://twitter.com/chosuntitor/status/915140881786716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 915140867001770000,
+					"id_str": "915140867001769984",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM7xRkVYAAEjgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM7xRkVYAAEjgQ.jpg",
+					"url": "https://t.co/lG8rDbfpPG",
+					"display_url": "pic.twitter.com/lG8rDbfpPG",
+					"expanded_url": "https://twitter.com/chosuntitor/status/915140881786716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 915140877995073500,
+					"id_str": "915140877995073536",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DLM7x6hV4AAs32i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLM7x6hV4AAs32i.jpg",
+					"url": "https://t.co/lG8rDbfpPG",
+					"display_url": "pic.twitter.com/lG8rDbfpPG",
+					"expanded_url": "https://twitter.com/chosuntitor/status/915140881786716161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 606,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4892152692,
+			"id_str": "4892152692",
+			"name": "창작가면코스어 | 선조",
+			"screen_name": "chosuntitor",
+			"location": "대한민국 서울",
+			"description": "중부권 개그지향 창작 가면 코스어 /\n「  휴코중 ~ 2020  」 / 본진 : MARVEL&DC, HP, 하이큐 / 부본진 : 그 외 多 / 메인트에 흔적 남겨주시면 찾아갑니다 /\nFUB FREE / 사상이 아닌 도덕과 인류애로 판단합니다 / 카카오스토리 ▼ ▼ ▼ ▼",
+			"url": "https://t.co/pm6mmGuVPD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pm6mmGuVPD",
+							"expanded_url": "https://story.kakao.com/killleague",
+							"display_url": "story.kakao.com/killleague",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 388,
+			"listed_count": 0,
+			"created_at": "Thu Feb 11 10:30:29 +0000 2016",
+			"favourites_count": 1231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3151,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022877880949211136/M0Ppzz4m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022877880949211136/M0Ppzz4m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4892152692/1470135462",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5766,
+		"favorite_count": 777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이쯤에서 보는 욱일기 구분법\n\n첫번째만이 욱일기(전범기)입니다.\n두번째같이 해가 절반만 보이면 낙일기,\n세번째같이 파란 바탕에 하단부 구석에 해가 있으면 대어기,\n네번째는 미얀마의 민족해방군 국기입니다. (타래로) https://t.co/lG8rDbfpPG"
+	},
+	{
+		"created_at": "Sun Feb 17 05:24:59 +0000 2019",
+		"id": 1097003959447806000,
+		"id_str": "1097003959447805953",
+		"full_text": "@gloomy_connor 아맞다. .미안해..\n누나 안뇽",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gloomy_connor",
+					"name": "코너",
+					"id": 991550810877186000,
+					"id_str": "991550810877186048",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1097003891265232900,
+		"in_reply_to_status_id_str": "1097003891265232896",
+		"in_reply_to_user_id": 991550810877186000,
+		"in_reply_to_user_id_str": "991550810877186048",
+		"in_reply_to_screen_name": "gloomy_connor",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 998,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@gloomy_connor 아맞다. .미안해..\n누나 안뇽"
+	},
+	{
 		"created_at": "Sun Feb 17 05:14:51 +0000 2019",
 		"id": 1097001406999887900,
 		"id_str": "1097001406999887873",
