@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 11:18:36 +0000 2019",
+		"id": 1097092949530341400,
+		"id_str": "1097195352346714112",
+		"full_text": "this is who all your failed sudos get reported to https://t.co/lPrG9J1R9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097092943557677000,
+					"id_str": "1097092943557677056",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmoODJX0AAgxf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmoODJX0AAgxf6.jpg",
+					"url": "https://t.co/lPrG9J1R9j",
+					"display_url": "pic.twitter.com/lPrG9J1R9j",
+					"expanded_url": "https://twitter.com/Joshbal4/status/1097092949530341376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 762,
+							"h": 999,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097092943557677000,
+					"id_str": "1097092943557677056",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmoODJX0AAgxf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmoODJX0AAgxf6.jpg",
+					"url": "https://t.co/lPrG9J1R9j",
+					"display_url": "pic.twitter.com/lPrG9J1R9j",
+					"expanded_url": "https://twitter.com/Joshbal4/status/1097092949530341376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 762,
+							"h": 999,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813268820,
+			"id_str": "813268820",
+			"name": "Josh",
+			"screen_name": "Joshbal4",
+			"location": "London",
+			"description": "full stack dev • fellow @nwspk • also found hackin stuff • owner https://t.co/bV7XYcQDxA • mgmt @systemantix",
+			"url": "https://t.co/gQ5F7fmsCp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gQ5F7fmsCp",
+							"expanded_url": "http://joshbal4.com",
+							"display_url": "joshbal4.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bV7XYcQDxA",
+							"expanded_url": "http://ge2019.com",
+							"display_url": "ge2019.com",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1677,
+			"friends_count": 4155,
+			"listed_count": 76,
+			"created_at": "Sun Sep 09 14:48:12 +0000 2012",
+			"favourites_count": 79699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21588,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084512256547790851/8r63vw0E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084512256547790851/8r63vw0E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813268820/1536650401",
+			"profile_link_color": "EF4089",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "08be9e4ebe3d037d",
+			"url": "https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json",
+			"place_type": "city",
+			"name": "Poplar",
+			"full_name": "Poplar, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.080028,
+							51.48432
+						],
+						[
+							0.009989,
+							51.48432
+						],
+						[
+							0.009989,
+							51.545341
+						],
+						[
+							-0.080028,
+							51.545341
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 858,
+		"favorite_count": 2734,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is who all your failed sudos get reported to https://t.co/lPrG9J1R9j"
+	},
+	{
 		"created_at": "Sun Feb 17 16:50:23 +0000 2019",
 		"id": 1097176446118686700,
 		"id_str": "1097176446118686720",
