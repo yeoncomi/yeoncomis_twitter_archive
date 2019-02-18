@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 09:37:07 +0000 2019",
+		"id": 1095617856484520000,
+		"id_str": "1097386561556033536",
+		"full_text": "SNI 감청 논란과 더불어, Firefox에서 GPKI 최상위 인증서 등록 거절 스레드도 살펴보시면 좋습니다. 개인적인 생각으로, 이번 감청 건은 정부기관의 인터넷 신뢰 체인에 대한 몰이해와, 국민들을 보살필 대상 따위로 생각하는 태도 때문이 아닐까 싶네요. https://t.co/BKNCYL0WeP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BKNCYL0WeP",
+					"expanded_url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1377389",
+					"display_url": "bugzilla.mozilla.org/show_bug.cgi?i…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104484429,
+			"id_str": "104484429",
+			"name": "marnitto",
+			"screen_name": "marnitto",
+			"location": "::-1",
+			"description": "$ ./configure && make && pip install -r requirements.txt && python ./exploit.py  # Personal opinion ONLY",
+			"url": "https://t.co/uHgZ3S7TqH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uHgZ3S7TqH",
+							"expanded_url": "https://b.rbp.kr",
+							"display_url": "b.rbp.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161,
+			"friends_count": 314,
+			"listed_count": 15,
+			"created_at": "Wed Jan 13 13:35:56 +0000 2010",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6470,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628596421/1383224588_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628596421/1383224588_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SNI 감청 논란과 더불어, Firefox에서 GPKI 최상위 인증서 등록 거절 스레드도 살펴보시면 좋습니다. 개인적인 생각으로, 이번 감청 건은 정부기관의 인터넷 신뢰 체인에 대한 몰이해와, 국민들을 보살필 대상 따위로 생각하는 태도 때문이 아닐까 싶네요. https://t.co/BKNCYL0WeP"
+	},
+	{
+		"created_at": "Sun Feb 17 07:01:32 +0000 2019",
+		"id": 1097028253561151500,
+		"id_str": "1097383691637055488",
+		"full_text": "상상도 못한 알티마음 https://t.co/smCSdEl6Nf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097028249891172400,
+					"id_str": "1097028249891172352",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzltYYdU8AAu7tG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzltYYdU8AAu7tG.png",
+					"url": "https://t.co/smCSdEl6Nf",
+					"display_url": "pic.twitter.com/smCSdEl6Nf",
+					"expanded_url": "https://twitter.com/conon_conon/status/1097028253561151488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097028249891172400,
+					"id_str": "1097028249891172352",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzltYYdU8AAu7tG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzltYYdU8AAu7tG.png",
+					"url": "https://t.co/smCSdEl6Nf",
+					"display_url": "pic.twitter.com/smCSdEl6Nf",
+					"expanded_url": "https://twitter.com/conon_conon/status/1097028253561151488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745194340192948200,
+			"id_str": "745194340192948224",
+			"name": "코논",
+			"screen_name": "conon_conon",
+			"location": "지구밖",
+			"description": "13기!!\n[오너캐덕질../공밴/포켓캠프/유비트/라플/데레스테(마츠오 치즈루P)/사이터스2/댄스러쉬/좀비고]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 119,
+			"listed_count": 1,
+			"created_at": "Tue Jun 21 09:59:10 +0000 2016",
+			"favourites_count": 6617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12165,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076897515738357760/hdaK59bw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076897515738357760/hdaK59bw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745194340192948224/1548685500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5935,
+		"favorite_count": 2567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상상도 못한 알티마음 https://t.co/smCSdEl6Nf"
+	},
+	{
 		"created_at": "Mon Feb 18 06:15:03 +0000 2019",
 		"id": 1097378944473595900,
 		"id_str": "1097379286263128064",
