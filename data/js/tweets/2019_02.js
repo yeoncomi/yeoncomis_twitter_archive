@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 00:14:17 +0000 2019",
+		"id": 1097288156309708800,
+		"id_str": "1097348633299582976",
+		"full_text": "와 여기에도 낚여드네 https://t.co/niGmzOZYvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097288132322447400,
+					"id_str": "1097288132322447361",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpZvh9U0AElfsG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzpZvh9U0AElfsG.png",
+					"url": "https://t.co/niGmzOZYvI",
+					"display_url": "pic.twitter.com/niGmzOZYvI",
+					"expanded_url": "https://twitter.com/justformine_/status/1097288156309708801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097288132322447400,
+					"id_str": "1097288132322447361",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpZvh9U0AElfsG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzpZvh9U0AElfsG.png",
+					"url": "https://t.co/niGmzOZYvI",
+					"display_url": "pic.twitter.com/niGmzOZYvI",
+					"expanded_url": "https://twitter.com/justformine_/status/1097288156309708801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 342,
+							"h": 577,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097288143378669600,
+					"id_str": "1097288143378669568",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpZwLJVYAA0SL-.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzpZwLJVYAA0SL-.png",
+					"url": "https://t.co/niGmzOZYvI",
+					"display_url": "pic.twitter.com/niGmzOZYvI",
+					"expanded_url": "https://twitter.com/justformine_/status/1097288156309708801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 326,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 326,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1097288147845562400,
+					"id_str": "1097288147845562368",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpZwbyUwAAd2DJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzpZwbyUwAAd2DJ.png",
+					"url": "https://t.co/niGmzOZYvI",
+					"display_url": "pic.twitter.com/niGmzOZYvI",
+					"expanded_url": "https://twitter.com/justformine_/status/1097288156309708801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 339,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 339,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 339,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1097288151981117400,
+					"id_str": "1097288151981117440",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpZwrMUUAAx2kG.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzpZwrMUUAAx2kG.png",
+					"url": "https://t.co/niGmzOZYvI",
+					"display_url": "pic.twitter.com/niGmzOZYvI",
+					"expanded_url": "https://twitter.com/justformine_/status/1097288156309708801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 329,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 329,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 329,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073662360378851300,
+			"id_str": "1073662360378851328",
+			"name": "우볼계",
+			"screen_name": "justformine_",
+			"location": "",
+			"description": "혼자보려고판계정인데님들도보고싶어요? 깔깔짤만올리는거아닌데?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13274,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Fri Dec 14 19:33:49 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 684,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1594,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 여기에도 낚여드네 https://t.co/niGmzOZYvI"
+	},
+	{
 		"created_at": "Mon Feb 18 02:21:18 +0000 2019",
 		"id": 1097320118210592800,
 		"id_str": "1097320118210592768",
