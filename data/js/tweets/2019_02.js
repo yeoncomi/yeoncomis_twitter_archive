@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 11:52:25 +0000 2019",
+		"id": 1097463847726665700,
+		"id_str": "1097611443644448768",
+		"full_text": "내가 구사하고 싶은 러시아어:\n\n“안녕하세요? 제 이름은 OOO입니다. 앞으로 잘 부탁드립니다.”\n“러시아의 문화에 대해서 공부하고 싶습니다.”\n“전 보르시치를 좋아합니다.”\n\n실제로 구사 가능한 러시아어:\n\n“재장전!”\n“전방 수류탄!”\n“적 전차 발견!”\n“목걸이는 좋은거 하고 있었군?”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716918677388468200,
+			"id_str": "716918677388468224",
+			"name": "Jihun Kim",
+			"screen_name": "dawnbrckr_6mm",
+			"location": "대한민국 서울",
+			"description": "Shooter/Photographer.",
+			"url": "https://t.co/MYLTm86ugS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MYLTm86ugS",
+							"expanded_url": "https://www.instagram.com/dawnbrckr/",
+							"display_url": "instagram.com/dawnbrckr/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 414,
+			"listed_count": 2,
+			"created_at": "Mon Apr 04 09:21:47 +0000 2016",
+			"favourites_count": 38913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094531854688874496/2RGl15bE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094531854688874496/2RGl15bE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716918677388468224/1550477423",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내가 구사하고 싶은 러시아어:\n\n“안녕하세요? 제 이름은 OOO입니다. 앞으로 잘 부탁드립니다.”\n“러시아의 문화에 대해서 공부하고 싶습니다.”\n“전 보르시치를 좋아합니다.”\n\n실제로 구사 가능한 러시아어:\n\n“재장전!”\n“전방 수류탄!”\n“적 전차 발견!”\n“목걸이는 좋은거 하고 있었군?”"
+	},
+	{
 		"created_at": "Mon Feb 18 17:07:25 +0000 2019",
 		"id": 1097543119220830200,
 		"id_str": "1097549248223014912",
