@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 06:15:03 +0000 2019",
+		"id": 1097378944473595900,
+		"id_str": "1097379286263128064",
+		"full_text": "Something big is COMING SOON … \n.\n.\nKorea’s Independence Movement and Canadians 🇰🇷 🇨🇦\n\nStay tuned!\n#삼일절100주년 https://t.co/T8UcssRSt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼일절100주년",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097378942808412200,
+					"id_str": "1097378942808412166",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqsVZYW0AYYCQM.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqsVZYW0AYYCQM.png",
+					"url": "https://t.co/T8UcssRSt4",
+					"display_url": "pic.twitter.com/T8UcssRSt4",
+					"expanded_url": "https://twitter.com/CanEmbKorea/status/1097378944473595905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097378942808412200,
+					"id_str": "1097378942808412166",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqsVZYW0AYYCQM.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqsVZYW0AYYCQM.png",
+					"url": "https://t.co/T8UcssRSt4",
+					"display_url": "pic.twitter.com/T8UcssRSt4",
+					"expanded_url": "https://twitter.com/CanEmbKorea/status/1097378944473595905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 529102084,
+			"id_str": "529102084",
+			"name": "Canada in Korea",
+			"screen_name": "CanEmbKorea",
+			"location": "Korea",
+			"description": "Embassy of Canada to Korea - Français : @AmbCanCoree / 한글: @CanEmbROK - http://t.co/pc5bCwITYL",
+			"url": "http://t.co/F0Kv71TcER",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F0Kv71TcER",
+							"expanded_url": "http://www.korea.gc.ca",
+							"display_url": "korea.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/pc5bCwITYL",
+							"expanded_url": "http://international.gc.ca/SocialMedia",
+							"display_url": "international.gc.ca/SocialMedia",
+							"indices": [
+								72,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4271,
+			"friends_count": 784,
+			"listed_count": 101,
+			"created_at": "Mon Mar 19 04:36:21 +0000 2012",
+			"favourites_count": 284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889988821504454656/1MW1BKK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889988821504454656/1MW1BKK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/529102084/1515399208",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something big is COMING SOON … \n.\n.\nKorea’s Independence Movement and Canadians 🇰🇷 🇨🇦\n\nStay tuned!\n#삼일절100주년 https://t.co/T8UcssRSt4"
+	},
+	{
+		"created_at": "Mon Feb 18 06:15:03 +0000 2019",
+		"id": 1097378946251931600,
+		"id_str": "1097379276221964288",
+		"full_text": "기억에 남을 뜻깊은 전시가 여러분 곁을 찾아옵니다…\n.\n.\n1919 - 2019\n“한국의 독립운동과 캐나다인” 🇰🇷🇨🇦\n\n#삼일절100주년\n더 자세한 소식, 기대해주세요! https://t.co/zVBh4CMw6V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼일절100주년",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097378944460968000,
+					"id_str": "1097378944460967936",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqsVfiW0AAJ8nR.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqsVfiW0AAJ8nR.png",
+					"url": "https://t.co/zVBh4CMw6V",
+					"display_url": "pic.twitter.com/zVBh4CMw6V",
+					"expanded_url": "https://twitter.com/CanEmbROK/status/1097378946251931648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097378944460968000,
+					"id_str": "1097378944460967936",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqsVfiW0AAJ8nR.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqsVfiW0AAJ8nR.png",
+					"url": "https://t.co/zVBh4CMw6V",
+					"display_url": "pic.twitter.com/zVBh4CMw6V",
+					"expanded_url": "https://twitter.com/CanEmbROK/status/1097378946251931648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187109046,
+			"id_str": "187109046",
+			"name": "주한캐나다대사관",
+			"screen_name": "CanEmbROK",
+			"location": "대한민국",
+			"description": "주한캐나다대사관 - English : @CanEmbKorea - http://t.co/YcijzugMJP / Français : @AmbCanCoree - http://t.co/1WWjVLLuED",
+			"url": "http://t.co/F0Kv71TcER",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F0Kv71TcER",
+							"expanded_url": "http://www.korea.gc.ca",
+							"display_url": "korea.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/YcijzugMJP",
+							"expanded_url": "http://international.gc.ca/SocialMedia",
+							"display_url": "international.gc.ca/SocialMedia",
+							"indices": [
+								36,
+								58
+							]
+						},
+						{
+							"url": "http://t.co/1WWjVLLuED",
+							"expanded_url": "http://international.gc.ca/MediasSociaux",
+							"display_url": "international.gc.ca/MediasSociaux",
+							"indices": [
+								87,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5767,
+			"friends_count": 2101,
+			"listed_count": 73,
+			"created_at": "Sun Sep 05 08:23:41 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2444,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187109046/1515399045",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기억에 남을 뜻깊은 전시가 여러분 곁을 찾아옵니다…\n.\n.\n1919 - 2019\n“한국의 독립운동과 캐나다인” 🇰🇷🇨🇦\n\n#삼일절100주년\n더 자세한 소식, 기대해주세요! https://t.co/zVBh4CMw6V"
+	},
+	{
+		"created_at": "Mon Feb 18 06:10:00 +0000 2019",
+		"id": 1097377673054117900,
+		"id_str": "1097378131466309633",
+		"full_text": "https://t.co/l7GmzujOEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097377660974460900,
+					"id_str": "1097377660974460928",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqrKyLU8AAyNjw.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqrKyLU8AAyNjw.png",
+					"url": "https://t.co/l7GmzujOEy",
+					"display_url": "pic.twitter.com/l7GmzujOEy",
+					"expanded_url": "https://twitter.com/memes_in_korean/status/1097377673054117888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097377660974460900,
+					"id_str": "1097377660974460928",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqrKyLU8AAyNjw.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzqrKyLU8AAyNjw.png",
+					"url": "https://t.co/l7GmzujOEy",
+					"display_url": "pic.twitter.com/l7GmzujOEy",
+					"expanded_url": "https://twitter.com/memes_in_korean/status/1097377673054117888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059878823657947100,
+			"id_str": "1059878823657947137",
+			"name": "한국어 밈",
+			"screen_name": "memes_in_korean",
+			"location": "석사 찰싹 대회 챔피언",
+			"description": "https://t.co/ERptuusRXK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ERptuusRXK",
+							"expanded_url": "http://ask.shiftp.sh/memes_in_korean",
+							"display_url": "ask.shiftp.sh/memes_in_korean",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 4,
+			"listed_count": 39,
+			"created_at": "Tue Nov 06 18:42:57 +0000 2018",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 506,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059879167116955650/GQaGjH7R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059879167116955650/GQaGjH7R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059878823657947137/1541529858",
+			"profile_link_color": "FF7784",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/l7GmzujOEy"
+	},
+	{
+		"created_at": "Sun Feb 17 13:04:22 +0000 2019",
+		"id": 1097119565740335100,
+		"id_str": "1097376287948079105",
+		"full_text": "커미션 샘플을위한 알티이벤트\n트친한정아닙니다 \n알티추첨한분께 1.8*1.8*8cm돌에다 도장파드립니다! 배송은 착불로 입니다 https://t.co/bq3gmJDoYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097119559335653400,
+					"id_str": "1097119559335653376",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DznAbSpVsAAbJk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznAbSpVsAAbJk_.jpg",
+					"url": "https://t.co/bq3gmJDoYm",
+					"display_url": "pic.twitter.com/bq3gmJDoYm",
+					"expanded_url": "https://twitter.com/penta_veru/status/1097119565740335104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 951,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1146,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097119559335653400,
+					"id_str": "1097119559335653376",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DznAbSpVsAAbJk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznAbSpVsAAbJk_.jpg",
+					"url": "https://t.co/bq3gmJDoYm",
+					"display_url": "pic.twitter.com/bq3gmJDoYm",
+					"expanded_url": "https://twitter.com/penta_veru/status/1097119565740335104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 951,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1146,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097119559331409900,
+					"id_str": "1097119559331409920",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DznAbSoU8AAVkpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznAbSoU8AAVkpN.jpg",
+					"url": "https://t.co/bq3gmJDoYm",
+					"display_url": "pic.twitter.com/bq3gmJDoYm",
+					"expanded_url": "https://twitter.com/penta_veru/status/1097119565740335104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097119559323082800,
+					"id_str": "1097119559323082752",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DznAbSmV4AAGHXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznAbSmV4AAGHXS.jpg",
+					"url": "https://t.co/bq3gmJDoYm",
+					"display_url": "pic.twitter.com/bq3gmJDoYm",
+					"expanded_url": "https://twitter.com/penta_veru/status/1097119565740335104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1086281910601412600,
+			"id_str": "1086281910601412608",
+			"name": "펜타",
+			"screen_name": "penta_veru",
+			"location": "",
+			"description": "계정빨리복구좀 [⚰penta_0605 ~2019/1/18] 인장 블래키님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Fri Jan 18 15:19:24 +0000 2019",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 924,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086284007564660736/CDe7IPcD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086284007564660736/CDe7IPcD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1086281910601412608/1548091923",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커미션 샘플을위한 알티이벤트\n트친한정아닙니다 \n알티추첨한분께 1.8*1.8*8cm돌에다 도장파드립니다! 배송은 착불로 입니다 https://t.co/bq3gmJDoYm"
+	},
+	{
 		"created_at": "Mon Feb 18 05:05:47 +0000 2019",
 		"id": 1097361514174939100,
 		"id_str": "1097361514174939136",
