@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 17:07:25 +0000 2019",
+		"id": 1097543119220830200,
+		"id_str": "1097549248223014912",
+		"full_text": "컴퓨터를 키지 않으면 취약점에 노출되지 않습니 https://t.co/74jdSVefcA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097543008042414100,
+					"id_str": "1097543008042414084",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DztBjQAU8AQ44t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztBjQAU8AQ44t1.jpg",
+					"url": "https://t.co/74jdSVefcA",
+					"display_url": "pic.twitter.com/74jdSVefcA",
+					"expanded_url": "https://twitter.com/_Akamig/status/1097543119220830208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097543008042414100,
+					"id_str": "1097543008042414084",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DztBjQAU8AQ44t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztBjQAU8AQ44t1.jpg",
+					"url": "https://t.co/74jdSVefcA",
+					"display_url": "pic.twitter.com/74jdSVefcA",
+					"expanded_url": "https://twitter.com/_Akamig/status/1097543119220830208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154702781,
+			"id_str": "154702781",
+			"name": "Akamig",
+			"screen_name": "_Akamig",
+			"location": "Glitch City",
+			"description": "Not Akaming Currently / Music / Programming / Electronics / Synthesizer / Games / Reddit / Translate / VA-11 HALL-A",
+			"url": "https://t.co/3IVfoygDlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IVfoygDlS",
+							"expanded_url": "http://Akamig.org",
+							"display_url": "Akamig.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 724,
+			"listed_count": 44,
+			"created_at": "Sat Jun 12 00:13:43 +0000 2010",
+			"favourites_count": 5299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 137328,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154702781/1522600437",
+			"profile_link_color": "FF007A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0AA8D",
+			"profile_text_color": "F9C098",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴퓨터를 키지 않으면 취약점에 노출되지 않습니 https://t.co/74jdSVefcA"
+	},
+	{
+		"created_at": "Mon Feb 18 07:03:41 +0000 2019",
+		"id": 1097391183536390100,
+		"id_str": "1097548680100376578",
+		"full_text": "https://t.co/GUEv6Xn8h9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097391170261463000,
+					"id_str": "1097391170261463045",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzq3dIMVsAUJL8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzq3dIMVsAUJL8y.jpg",
+					"url": "https://t.co/GUEv6Xn8h9",
+					"display_url": "pic.twitter.com/GUEv6Xn8h9",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1097391183536390144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097391170261463000,
+					"id_str": "1097391170261463045",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzq3dIMVsAUJL8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzq3dIMVsAUJL8y.jpg",
+					"url": "https://t.co/GUEv6Xn8h9",
+					"display_url": "pic.twitter.com/GUEv6Xn8h9",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1097391183536390144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097391177102311400,
+					"id_str": "1097391177102311425",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzq3dhrUwAEAiso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzq3dhrUwAEAiso.jpg",
+					"url": "https://t.co/GUEv6Xn8h9",
+					"display_url": "pic.twitter.com/GUEv6Xn8h9",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1097391183536390144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Mesa Prime",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "Inside the Dark My Heartbeat Echoes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 161,
+			"listed_count": 5,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 29542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29697,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092618582368735233/rnaMzm0y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092618582368735233/rnaMzm0y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1546414255",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GUEv6Xn8h9"
+	},
+	{
+		"created_at": "Mon Feb 18 17:18:39 +0000 2019",
+		"id": 1097545946353721300,
+		"id_str": "1097548387178573829",
+		"full_text": "힐링책스러운뭐시기가유행이라면서요 https://t.co/fWhNMGecDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097545834801983500,
+					"id_str": "1097545834801983488",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DztEHygU8AADFkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztEHygU8AADFkz.jpg",
+					"url": "https://t.co/fWhNMGecDN",
+					"display_url": "pic.twitter.com/fWhNMGecDN",
+					"expanded_url": "https://twitter.com/mentality_karas/status/1097545946353721344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097545834801983500,
+					"id_str": "1097545834801983488",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DztEHygU8AADFkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztEHygU8AADFkz.jpg",
+					"url": "https://t.co/fWhNMGecDN",
+					"display_url": "pic.twitter.com/fWhNMGecDN",
+					"expanded_url": "https://twitter.com/mentality_karas/status/1097545946353721344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4386606254,
+			"id_str": "4386606254",
+			"name": "심리학하는 까마귀",
+			"screen_name": "mentality_karas",
+			"location": "시노노메연구소",
+			"description": "심리학관련 트윗을 메우 가끔씩 올립니다.\n심리학트윗0.01:일상뻘트윗99.99 의 비율입니다.\r\n해치지않습니다.자동트윗따위",
+			"url": "https://t.co/xlodHIWeDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xlodHIWeDF",
+							"expanded_url": "http://ask.fm/mentality_karas?utm_source=twitter&utm_medium=social&utm_campaign=profile_own",
+							"display_url": "ask.fm/mentality_kara…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3163,
+			"friends_count": 11,
+			"listed_count": 8,
+			"created_at": "Sat Nov 28 09:00:59 +0000 2015",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980585965273079809/OvEjUFHz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980585965273079809/OvEjUFHz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4386606254/1491002592",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "힐링책스러운뭐시기가유행이라면서요 https://t.co/fWhNMGecDN"
+	},
+	{
 		"created_at": "Mon Feb 18 16:46:13 +0000 2019",
 		"id": 1097537783307022300,
 		"id_str": "1097537783307022336",
