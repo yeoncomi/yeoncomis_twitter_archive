@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 04:52:51 +0000 2019",
+		"id": 1097720645486559200,
+		"id_str": "1097731663629508610",
+		"full_text": "美 16개 주정부 ＂트럼프 비상사태 위헌＂..무효소송 참여 https://t.co/qbvE1RV7Ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbvE1RV7Ha",
+					"expanded_url": "https://news.v.daum.net/v/20190219133606205",
+					"display_url": "news.v.daum.net/v/201902191336…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113328790,
+			"id_str": "113328790",
+			"name": "Mafinacc",
+			"screen_name": "Mafinacc",
+			"location": "A-Town",
+			"description": "It's what you do in the dark, that puts you in the light.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1320,
+			"friends_count": 297,
+			"listed_count": 42,
+			"created_at": "Thu Feb 11 12:08:47 +0000 2010",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860504527652265984/P9vv2ANd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860504527652265984/P9vv2ANd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113328790/1477667884",
+			"profile_link_color": "921110",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "美 16개 주정부 ＂트럼프 비상사태 위헌＂..무효소송 참여 https://t.co/qbvE1RV7Ha"
+	},
+	{
+		"created_at": "Mon Feb 18 15:27:56 +0000 2019",
+		"id": 1097518084762394600,
+		"id_str": "1097730914170265600",
+		"full_text": "같은 만화도 100권까지 연재되면 주인공이 달라진다(....) https://t.co/mSSvSUrSmy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097518070543700000,
+					"id_str": "1097518070543699968",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzsq3slUUAACQZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzsq3slUUAACQZp.jpg",
+					"url": "https://t.co/mSSvSUrSmy",
+					"display_url": "pic.twitter.com/mSSvSUrSmy",
+					"expanded_url": "https://twitter.com/i_love_2019/status/1097518084762394624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 797,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097518070543700000,
+					"id_str": "1097518070543699968",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzsq3slUUAACQZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzsq3slUUAACQZp.jpg",
+					"url": "https://t.co/mSSvSUrSmy",
+					"display_url": "pic.twitter.com/mSSvSUrSmy",
+					"expanded_url": "https://twitter.com/i_love_2019/status/1097518084762394624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 797,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097518070527025200,
+					"id_str": "1097518070527025152",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzsq3shV4AAsuo5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzsq3shV4AAsuo5.jpg",
+					"url": "https://t.co/mSSvSUrSmy",
+					"display_url": "pic.twitter.com/mSSvSUrSmy",
+					"expanded_url": "https://twitter.com/i_love_2019/status/1097518084762394624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959016980467540000,
+			"id_str": "959016980467539969",
+			"name": "그땐그랬지 봇",
+			"screen_name": "i_love_2019",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59909,
+			"friends_count": 0,
+			"listed_count": 124,
+			"created_at": "Thu Feb 01 10:54:00 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 836,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043798060885839877/nHNoTO_-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043798060885839877/nHNoTO_-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959016980467539969/1524078309",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5288,
+		"favorite_count": 1725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "같은 만화도 100권까지 연재되면 주인공이 달라진다(....) https://t.co/mSSvSUrSmy"
+	},
+	{
+		"created_at": "Mon Feb 18 19:04:07 +0000 2019",
+		"id": 1097572489012506600,
+		"id_str": "1097730005067386880",
+		"full_text": "이 앱의 숨은 개발 주체가 드러났는데... 알리바바라고. https://t.co/AVYomAZ9qw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVYomAZ9qw",
+					"expanded_url": "https://www.reuters.com/article/us-china-alibaba-government-idUSKCN1Q70Y7",
+					"display_url": "reuters.com/article/us-chi…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097111796861681700,
+		"in_reply_to_status_id_str": "1097111796861681664",
+		"in_reply_to_user_id": 63764417,
+		"in_reply_to_user_id_str": "63764417",
+		"in_reply_to_screen_name": "purengom",
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/2JilCs4nFl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2JilCs4nFl",
+							"expanded_url": "https://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 2652,
+			"listed_count": 134,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 35935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 187263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 앱의 숨은 개발 주체가 드러났는데... 알리바바라고. https://t.co/AVYomAZ9qw"
+	},
+	{
 		"created_at": "Mon Feb 18 05:11:20 +0000 2019",
 		"id": 1097362909934415900,
 		"id_str": "1097688779370901505",
