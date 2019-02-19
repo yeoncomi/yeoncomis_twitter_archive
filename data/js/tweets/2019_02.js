@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 12:24:54 +0000 2019",
+		"id": 1097834409376440300,
+		"id_str": "1097952752708153344",
+		"full_text": "섹시한 의사 의상 https://t.co/GMJImAqq01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097834401075847200,
+					"id_str": "1097834401075847168",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DzxKkjpUYAAwVYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzxKkjpUYAAwVYr.jpg",
+					"url": "https://t.co/GMJImAqq01",
+					"display_url": "pic.twitter.com/GMJImAqq01",
+					"expanded_url": "https://twitter.com/damcho97/status/1097834409376440321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 834,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097834401075847200,
+					"id_str": "1097834401075847168",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/DzxKkjpUYAAwVYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzxKkjpUYAAwVYr.jpg",
+					"url": "https://t.co/GMJImAqq01",
+					"display_url": "pic.twitter.com/GMJImAqq01",
+					"expanded_url": "https://twitter.com/damcho97/status/1097834409376440321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 834,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044759049475043300,
+			"id_str": "1044759049475043328",
+			"name": "하와와의 증인 담초",
+			"screen_name": "damcho97",
+			"location": "",
+			"description": "콜옵하는 흑우",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 112,
+			"listed_count": 3,
+			"created_at": "Wed Sep 26 01:22:22 +0000 2018",
+			"favourites_count": 2880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1838,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096699460808101889/PBheFb7W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096699460808101889/PBheFb7W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044759049475043328/1549207086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "섹시한 의사 의상 https://t.co/GMJImAqq01"
+	},
+	{
 		"created_at": "Tue Feb 19 18:36:01 +0000 2019",
 		"id": 1097927802555293700,
 		"id_str": "1097927802555293696",
