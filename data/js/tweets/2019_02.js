@@ -1,6 +1,1302 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 05:11:20 +0000 2019",
+		"id": 1097362909934415900,
+		"id_str": "1097688779370901505",
+		"full_text": "최신판 대한민국 4대 락페스티벌 https://t.co/t7jpTZEo0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097362878623961100,
+					"id_str": "1097362878623961088",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqduVoU0AACNW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqduVoU0AACNW-.jpg",
+					"url": "https://t.co/t7jpTZEo0a",
+					"display_url": "pic.twitter.com/t7jpTZEo0a",
+					"expanded_url": "https://twitter.com/dotorik1234/status/1097362909934415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097362878623961100,
+					"id_str": "1097362878623961088",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqduVoU0AACNW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqduVoU0AACNW-.jpg",
+					"url": "https://t.co/t7jpTZEo0a",
+					"display_url": "pic.twitter.com/t7jpTZEo0a",
+					"expanded_url": "https://twitter.com/dotorik1234/status/1097362909934415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097362893018882000,
+					"id_str": "1097362893018882048",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqdvLQV4AAEMcr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqdvLQV4AAEMcr.jpg",
+					"url": "https://t.co/t7jpTZEo0a",
+					"display_url": "pic.twitter.com/t7jpTZEo0a",
+					"expanded_url": "https://twitter.com/dotorik1234/status/1097362909934415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097362903139737600,
+					"id_str": "1097362903139737600",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzqdvw9V4AA9MdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzqdvw9V4AA9MdM.jpg",
+					"url": "https://t.co/t7jpTZEo0a",
+					"display_url": "pic.twitter.com/t7jpTZEo0a",
+					"expanded_url": "https://twitter.com/dotorik1234/status/1097362909934415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 499,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 499,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097362906365124600,
+					"id_str": "1097362906365124608",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzqdv8-VYAA6Cds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzqdv8-VYAA6Cds.jpg",
+					"url": "https://t.co/t7jpTZEo0a",
+					"display_url": "pic.twitter.com/t7jpTZEo0a",
+					"expanded_url": "https://twitter.com/dotorik1234/status/1097362909934415872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 980007090100949000,
+			"id_str": "980007090100948992",
+			"name": "극한알바도토리",
+			"screen_name": "dotorik1234",
+			"location": "",
+			"description": "시스젠더 남성 바이섹슈얼 호모플렉시블 / 퀴어말 정치말 연예인말 등등 아무말 대잔치 잘함 / 가끔 숭한 트윗 올라와요... / 팔로 신중히 / https://t.co/oOSKLILVgm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oOSKLILVgm",
+							"expanded_url": "http://asked.kr/ox3680",
+							"display_url": "asked.kr/ox3680",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 256,
+			"listed_count": 0,
+			"created_at": "Sat Mar 31 09:01:12 +0000 2018",
+			"favourites_count": 9369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8436,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082057642690764800/4EMwq3p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082057642690764800/4EMwq3p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/980007090100948992/1545451764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1695,
+		"favorite_count": 332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최신판 대한민국 4대 락페스티벌 https://t.co/t7jpTZEo0a"
+	},
+	{
+		"created_at": "Sun Feb 17 16:15:54 +0000 2019",
+		"id": 1097167768074387500,
+		"id_str": "1097688463019696128",
+		"full_text": "취약점이 있는 동물 https://t.co/6KYi3LIy8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097167759853539300,
+					"id_str": "1097167759853539328",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DznsQ7kU0AAGMlm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznsQ7kU0AAGMlm.jpg",
+					"url": "https://t.co/6KYi3LIy8x",
+					"display_url": "pic.twitter.com/6KYi3LIy8x",
+					"expanded_url": "https://twitter.com/codingwarrior_/status/1097167768074387456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097167759853539300,
+					"id_str": "1097167759853539328",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DznsQ7kU0AAGMlm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznsQ7kU0AAGMlm.jpg",
+					"url": "https://t.co/6KYi3LIy8x",
+					"display_url": "pic.twitter.com/6KYi3LIy8x",
+					"expanded_url": "https://twitter.com/codingwarrior_/status/1097167768074387456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 828290071942090800,
+			"id_str": "828290071942090752",
+			"name": "Lee Jae-yeol",
+			"screen_name": "codingwarrior_",
+			"location": "상수동",
+			"description": "ENG/KOR/JPN | 꾸준히 코딩하는 모임 PyJog 를 운영합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 620,
+			"listed_count": 10,
+			"created_at": "Sun Feb 05 17:11:56 +0000 2017",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005260230479867904/9kZ_q8zx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005260230479867904/9kZ_q8zx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/828290071942090752/1528507754",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "취약점이 있는 동물 https://t.co/6KYi3LIy8x"
+	},
+	{
+		"created_at": "Mon Feb 18 02:57:19 +0000 2019",
+		"id": 1097329185603735600,
+		"id_str": "1097688097771315200",
+		"full_text": "이번에 방통위의 SNI차단방식 도입과 관련 진보네트워크의 논평을 발표합니다. 디지털성범죄 확산을 막기 위한 대책은 반드시 필요하나 그것이 방심위와 방통위의 자의적인 검열 권한 확대로 이어져선 안됩니다. 자세한 내용은 링크 글을 확인 해 주세요. https://t.co/0Dg4aqNre8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Dg4aqNre8",
+					"expanded_url": "http://act.jinbo.net/wp/40398/",
+					"display_url": "act.jinbo.net/wp/40398/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56759477,
+			"id_str": "56759477",
+			"name": "진보네트워크센터",
+			"screen_name": "jinbonet",
+			"location": "Network",
+			"description": "스무살을 맞은 진보넷! 무엇이든 물어보시면 답변해 드립니다 ㅎㅎ https://t.co/CWYLk1Ytek\n#정보인권 #진보넷\n↓↓ 링크는 20주년 기념 페이지 ↓↓",
+			"url": "https://t.co/BvU2BGV0rK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BvU2BGV0rK",
+							"expanded_url": "http://20th.jinbo.net/",
+							"display_url": "20th.jinbo.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CWYLk1Ytek",
+							"expanded_url": "https://ask.fm/jinbonet",
+							"display_url": "ask.fm/jinbonet",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1943,
+			"friends_count": 492,
+			"listed_count": 134,
+			"created_at": "Tue Jul 14 17:39:51 +0000 2009",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1981,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093411352599621633/oadKcJOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093411352599621633/oadKcJOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56759477/1549524542",
+			"profile_link_color": "BB3333",
+			"profile_sidebar_border_color": "C2C2C2",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번에 방통위의 SNI차단방식 도입과 관련 진보네트워크의 논평을 발표합니다. 디지털성범죄 확산을 막기 위한 대책은 반드시 필요하나 그것이 방심위와 방통위의 자의적인 검열 권한 확대로 이어져선 안됩니다. 자세한 내용은 링크 글을 확인 해 주세요. https://t.co/0Dg4aqNre8"
+	},
+	{
+		"created_at": "Mon Feb 18 03:36:34 +0000 2019",
+		"id": 1097339060962570200,
+		"id_str": "1097683095430455296",
+		"full_text": "그냥 일본와서 살아... 한국 망치지 말고 https://t.co/81UnWESevX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097339050598359000,
+					"id_str": "1097339050598359040",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqIDXUUYAANwY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqIDXUUYAANwY6.jpg",
+					"url": "https://t.co/81UnWESevX",
+					"display_url": "pic.twitter.com/81UnWESevX",
+					"expanded_url": "https://twitter.com/Aria_O_T_P/status/1097339060962570241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097339050598359000,
+					"id_str": "1097339050598359040",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqIDXUUYAANwY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqIDXUUYAANwY6.jpg",
+					"url": "https://t.co/81UnWESevX",
+					"display_url": "pic.twitter.com/81UnWESevX",
+					"expanded_url": "https://twitter.com/Aria_O_T_P/status/1097339060962570241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097339056139132900,
+					"id_str": "1097339056139132928",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqIDr9V4AAC7Og.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqIDr9V4AAC7Og.jpg",
+					"url": "https://t.co/81UnWESevX",
+					"display_url": "pic.twitter.com/81UnWESevX",
+					"expanded_url": "https://twitter.com/Aria_O_T_P/status/1097339060962570241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 592,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4656083412,
+			"id_str": "4656083412",
+			"name": "낭낭해서 총총하는 희연",
+			"screen_name": "Aria_O_T_P",
+			"location": "東京 新宿区",
+			"description": "보컬로이드 IA를 좋아해요. 고전게임도 해요. 엑스페리아폰 유저예요. 일본생활중이예요. 논바이너리 젠더퀴어(GID/性同一性障害). 모르는 플텍 안받아요. 사랑하는 메이드♡:  @FukaLenkonokuro",
+			"url": "https://t.co/uRDCoPd3Yc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRDCoPd3Yc",
+							"expanded_url": "http://instagram.com/aria_o_t_p",
+							"display_url": "instagram.com/aria_o_t_p",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 1506,
+			"listed_count": 15,
+			"created_at": "Sat Dec 26 16:12:04 +0000 2015",
+			"favourites_count": 38245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 187383,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092997600955912193/5istmQVY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092997600955912193/5istmQVY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4656083412/1548574921",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "f7c22e0cf7b3af2b",
+			"url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+			"place_type": "city",
+			"name": "Shibuya-ku",
+			"full_name": "Shibuya-ku, Tokyo",
+			"country_code": "JP",
+			"country": "Japan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.661368,
+							35.641564
+						],
+						[
+							139.723884,
+							35.641564
+						],
+						[
+							139.723884,
+							35.692138
+						],
+						[
+							139.661368,
+							35.692138
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그냥 일본와서 살아... 한국 망치지 말고 https://t.co/81UnWESevX"
+	},
+	{
+		"created_at": "Sun Feb 17 10:58:49 +0000 2019",
+		"id": 1097087969800773600,
+		"id_str": "1097682587743473664",
+		"full_text": "참 많이 안타까운 인생의 남자 3호 https://t.co/e4Q8bZPR4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097087953984053200,
+					"id_str": "1097087953984053249",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjrniUYAEBinp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjrniUYAEBinp.jpg",
+					"url": "https://t.co/e4Q8bZPR4G",
+					"display_url": "pic.twitter.com/e4Q8bZPR4G",
+					"expanded_url": "https://twitter.com/aff014a9577b44e/status/1097087969800773634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097087953984053200,
+					"id_str": "1097087953984053249",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjrniUYAEBinp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjrniUYAEBinp.jpg",
+					"url": "https://t.co/e4Q8bZPR4G",
+					"display_url": "pic.twitter.com/e4Q8bZPR4G",
+					"expanded_url": "https://twitter.com/aff014a9577b44e/status/1097087969800773634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097087961982656500,
+					"id_str": "1097087961982656512",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjsFVVYAA3ZmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjsFVVYAA3ZmP.jpg",
+					"url": "https://t.co/e4Q8bZPR4G",
+					"display_url": "pic.twitter.com/e4Q8bZPR4G",
+					"expanded_url": "https://twitter.com/aff014a9577b44e/status/1097087969800773634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 822,
+							"h": 665,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 822,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2939014302,
+			"id_str": "2939014302",
+			"name": "나라를 나라답게888/인천 부평구",
+			"screen_name": "aff014a9577b44e",
+			"location": "대한민국 인천시",
+			"description": "더불어 민주당 당원~^^(두산베어스팬♡)\n이재명 지지자 싫어해요~\n경기도 연천 제5보병사단 27연대 수색중대 출신(1999~2001년 DMZ근무)//\n내손으로 직접 김대중,노무현,문재인 대통령 투표//\n2008년 광우병 촛불집회 참석/\n2016년 박근혜탄핵 촛불집회 참석/",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4149,
+			"friends_count": 4999,
+			"listed_count": 17,
+			"created_at": "Mon Dec 22 07:14:53 +0000 2014",
+			"favourites_count": 65125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091161115973771264/o1R2rqpY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091161115973771264/o1R2rqpY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2939014302/1494367574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1073,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참 많이 안타까운 인생의 남자 3호 https://t.co/e4Q8bZPR4G"
+	},
+	{
+		"created_at": "Tue Feb 19 02:20:53 +0000 2019",
+		"id": 1097682403257008100,
+		"id_str": "1097682403257008128",
+		"full_text": "yeoncomi\nツイート数:27(前日比:+3)\nRTした数:17(前日比:+10)\nRTされた数:0(前日比:-6)\n送ったリプライ数:9(前日比:-1)\n受け取ったリプライ数:11(前日比:0)\nいいねされた数:3(前日比:-3)\nhttps://t.co/k4kBmDY1iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4kBmDY1iR",
+					"expanded_url": "http://utabami.com/TodaysTwitterLife",
+					"display_url": "utabami.com/TodaysTwitterL…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1000,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31877,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "yeoncomi\nツイート数:27(前日比:+3)\nRTした数:17(前日比:+10)\nRTされた数:0(前日比:-6)\n送ったリプライ数:9(前日比:-1)\n受け取ったリプライ数:11(前日比:0)\nいいねされた数:3(前日比:-3)\nhttps://t.co/k4kBmDY1iR"
+	},
+	{
+		"created_at": "Mon Feb 18 06:06:03 +0000 2019",
+		"id": 1097376678546944000,
+		"id_str": "1097681971050733568",
+		"full_text": "박막례 할머니의 무인주문, 웃고 넘길 일만은 아니다 : 무인주문기 등 여러 디지털 기술은 노인뿐 아니라 다양한 사람에게 이슈가 된다. 이를테면 프랜차이즈 무인주문기의 경우 시각 장애인이나 휠체어를 탄 장애인들에게도 이용의 장벽이 존재한다. | 홀로\nhttps://t.co/bURMuQurIP https://t.co/8ep3HeEbrw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bURMuQurIP",
+					"expanded_url": "http://huffp.st/aBppnS5",
+					"display_url": "huffp.st/aBppnS5",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097376677037047800,
+					"id_str": "1097376677037047808",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqqRguXgAAkjrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqqRguXgAAkjrl.jpg",
+					"url": "https://t.co/8ep3HeEbrw",
+					"display_url": "pic.twitter.com/8ep3HeEbrw",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1097376678546944000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097376677037047800,
+					"id_str": "1097376677037047808",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqqRguXgAAkjrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqqRguXgAAkjrl.jpg",
+					"url": "https://t.co/8ep3HeEbrw",
+					"display_url": "pic.twitter.com/8ep3HeEbrw",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1097376678546944000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543778633,
+			"id_str": "543778633",
+			"name": "허프포스트코리아",
+			"screen_name": "HuffPostKorea",
+			"location": "SEOUL",
+			"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+			"url": "https://t.co/Xkw1g4GZOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xkw1g4GZOB",
+							"expanded_url": "http://www.huffpost.kr",
+							"display_url": "huffpost.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e7LG5sl4oo",
+							"expanded_url": "https://www.facebook.com/huffpostkorea",
+							"display_url": "facebook.com/huffpostkorea",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 730196,
+			"friends_count": 17,
+			"listed_count": 1220,
+			"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 109196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E7060",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+			"profile_link_color": "2E7060",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2741,
+		"favorite_count": 416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박막례 할머니의 무인주문, 웃고 넘길 일만은 아니다 : 무인주문기 등 여러 디지털 기술은 노인뿐 아니라 다양한 사람에게 이슈가 된다. 이를테면 프랜차이즈 무인주문기의 경우 시각 장애인이나 휠체어를 탄 장애인들에게도 이용의 장벽이 존재한다. | 홀로\nhttps://t.co/bURMuQurIP https://t.co/8ep3HeEbrw"
+	},
+	{
 		"created_at": "Mon Feb 18 11:52:25 +0000 2019",
 		"id": 1097463847726665700,
 		"id_str": "1097611443644448768",
