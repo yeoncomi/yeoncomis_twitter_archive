@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 06:43:54 +0000 2019",
+		"id": 1097748592322695200,
+		"id_str": "1097881170061156352",
+		"full_text": "와 이게 뭐야 ㅋㅋㅋㅋㅋ 요즘 VSCode에서 엘릭서 확장 깔면 스펙이 없는 함수에 자동으로 생성된 스펙도 띄워주네 ㅋㅋㅋㅋㅋ https://t.co/TjGS0UkVuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097748523573866500,
+					"id_str": "1097748523573866496",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzv8d1BUcAAt9Vj.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzv8d1BUcAAt9Vj.png",
+					"url": "https://t.co/TjGS0UkVuy",
+					"display_url": "pic.twitter.com/TjGS0UkVuy",
+					"expanded_url": "https://twitter.com/d57pub_/status/1097748592322695168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 684,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097748523573866500,
+					"id_str": "1097748523573866496",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzv8d1BUcAAt9Vj.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzv8d1BUcAAt9Vj.png",
+					"url": "https://t.co/TjGS0UkVuy",
+					"display_url": "pic.twitter.com/TjGS0UkVuy",
+					"expanded_url": "https://twitter.com/d57pub_/status/1097748592322695168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 684,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4880656034,
+			"id_str": "4880656034",
+			"name": "Dalgona💕",
+			"screen_name": "d57pub_",
+			"location": "대한민국",
+			"description": "Public account of @d57_kr",
+			"url": "https://t.co/upI4pv92WD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/upI4pv92WD",
+							"expanded_url": "http://dalgona.hontou.moe",
+							"display_url": "dalgona.hontou.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41,
+			"friends_count": 40,
+			"listed_count": 4,
+			"created_at": "Tue Feb 09 01:18:31 +0000 2016",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 832,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045626209638338560/Q2-Q9NoY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045626209638338560/Q2-Q9NoY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4880656034/1538131672",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 이게 뭐야 ㅋㅋㅋㅋㅋ 요즘 VSCode에서 엘릭서 확장 깔면 스펙이 없는 함수에 자동으로 생성된 스펙도 띄워주네 ㅋㅋㅋㅋㅋ https://t.co/TjGS0UkVuy"
+	},
+	{
 		"created_at": "Tue Feb 19 04:52:51 +0000 2019",
 		"id": 1097720645486559200,
 		"id_str": "1097731663629508610",
