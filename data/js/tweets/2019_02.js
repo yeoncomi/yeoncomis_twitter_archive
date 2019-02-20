@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 11:28:43 +0000 2019",
+		"id": 1097820269211574300,
+		"id_str": "1098045665005850625",
+		"full_text": "장례식장 일회용품 금지.. \"조문객 맞으며 설거지할까요?\" | 다음뉴스 https://t.co/V2B5OvOn97\n\n조문 받기도 바쁜데 설거지라니. 3일 사람 쓰는것도 비싼데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V2B5OvOn97",
+					"expanded_url": "https://news.v.daum.net/v/20190219172435979",
+					"display_url": "news.v.daum.net/v/201902191724…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 583682939,
+			"id_str": "583682939",
+			"name": "ㅍㄹ🐿",
+			"screen_name": "K1117K_",
+			"location": "札幌ドーム",
+			"description": "야덕/日ハム/NPB/野球好き #POLLY_gif 写真アカウント@POLLA7522 いちばん青い空にしよう",
+			"url": "https://t.co/iikQZUAtcQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iikQZUAtcQ",
+							"expanded_url": "https://ask.fm/K1117K_",
+							"display_url": "ask.fm/K1117K_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 767,
+			"listed_count": 9,
+			"created_at": "Fri May 18 10:37:11 +0000 2012",
+			"favourites_count": 22136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169863,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033537771304931328/JDSln7RH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033537771304931328/JDSln7RH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/583682939/1504867165",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1324,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장례식장 일회용품 금지.. \"조문객 맞으며 설거지할까요?\" | 다음뉴스 https://t.co/V2B5OvOn97\n\n조문 받기도 바쁜데 설거지라니. 3일 사람 쓰는것도 비싼데"
+	},
+	{
 		"created_at": "Tue Feb 19 04:22:43 +0000 2019",
 		"id": 1097713061606043600,
 		"id_str": "1098010926253395968",
