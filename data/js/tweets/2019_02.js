@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 13:47:08 +0000 2019",
+		"id": 1097855104776978400,
+		"id_str": "1098256788346949632",
+		"full_text": "Thank Excel! https://t.co/uR7aRfz8g9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097855026007928800,
+					"id_str": "1097855026007928833",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097855026007928833/pu/img/S-65TR9IQh0ryghP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097855026007928833/pu/img/S-65TR9IQh0ryghP.jpg",
+					"url": "https://t.co/uR7aRfz8g9",
+					"display_url": "pic.twitter.com/uR7aRfz8g9",
+					"expanded_url": "https://twitter.com/basibanget/status/1097855104776978432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 502,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 502,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097855026007928800,
+					"id_str": "1097855026007928833",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097855026007928833/pu/img/S-65TR9IQh0ryghP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097855026007928833/pu/img/S-65TR9IQh0ryghP.jpg",
+					"url": "https://t.co/uR7aRfz8g9",
+					"display_url": "pic.twitter.com/uR7aRfz8g9",
+					"expanded_url": "https://twitter.com/basibanget/status/1097855104776978432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 502,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 502,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							251,
+							417
+						],
+						"duration_millis": 8790,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097855026007928833/pu/vid/502x834/ljPP6HjyunE9EDyc.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097855026007928833/pu/vid/360x598/Ny3vDc8yk1O10Fj0.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097855026007928833/pu/vid/320x530/O3cRZFZN8LWkTrC5.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097855026007928833/pu/pl/rTe1VVdFzMrHOgcK.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242663,
+			"id_str": "242663",
+			"name": "𝕪𝕓𝕤 | 马可斯",
+			"screen_name": "basibanget",
+			"location": "Jakarta, Indonesia",
+			"description": "memang benar apa yang ditweet ybs",
+			"url": "https://t.co/ZoCdEocge4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZoCdEocge4",
+							"expanded_url": "https://instagram.com/ybs",
+							"display_url": "instagram.com/ybs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11719,
+			"friends_count": 611,
+			"listed_count": 358,
+			"created_at": "Mon Dec 25 13:59:58 +0000 2006",
+			"favourites_count": 3427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59382,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092791904071147520/c32dy82c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092791904071147520/c32dy82c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242663/1455605197",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3596,
+		"favorite_count": 2571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank Excel! https://t.co/uR7aRfz8g9"
+	},
+	{
+		"created_at": "Mon Nov 19 15:23:06 +0000 2018",
+		"id": 1064539569201135600,
+		"id_str": "1098256290445287424",
+		"full_text": "나 아침에 이거보고 존나 웃었잖아 https://t.co/AI4AnvRSTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064539525630713900,
+					"id_str": "1064539525630713856",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYBDvKU4AAVy5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYBDvKU4AAVy5D.jpg",
+					"url": "https://t.co/AI4AnvRSTd",
+					"display_url": "pic.twitter.com/AI4AnvRSTd",
+					"expanded_url": "https://twitter.com/cillianmorphine/status/1064539569201135616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064539525630713900,
+					"id_str": "1064539525630713856",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DsYBDvKU4AAVy5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsYBDvKU4AAVy5D.jpg",
+					"url": "https://t.co/AI4AnvRSTd",
+					"display_url": "pic.twitter.com/AI4AnvRSTd",
+					"expanded_url": "https://twitter.com/cillianmorphine/status/1064539569201135616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 886958291896619000,
+			"id_str": "886958291896619008",
+			"name": "완 데이앳어타임",
+			"screen_name": "cillianmorphine",
+			"location": "",
+			"description": "& 킬리언 머피 &",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438,
+			"friends_count": 91,
+			"listed_count": 4,
+			"created_at": "Mon Jul 17 14:38:30 +0000 2017",
+			"favourites_count": 37073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59187,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097475009507876864/BPmWLXDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097475009507876864/BPmWLXDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/886958291896619008/1531085118",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 아침에 이거보고 존나 웃었잖아 https://t.co/AI4AnvRSTd"
+	},
+	{
 		"created_at": "Tue Oct 02 07:54:52 +0000 2018",
 		"id": 1047032151663882200,
 		"id_str": "1098119876776873984",
