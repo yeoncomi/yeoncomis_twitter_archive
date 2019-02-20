@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 04:22:43 +0000 2019",
+		"id": 1097713061606043600,
+		"id_str": "1098010926253395968",
+		"full_text": "‘미성년자라면 예외 없이’ 이딴 걸 깔아야 한다고? 진짜 제정신이 아니구나. 부모고 뭐고 너무 징그러운 인간들이다. https://t.co/CyVizxir2I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CyVizxir2I",
+					"expanded_url": "https://twitter.com/subusunews/status/1097346804637560832",
+					"display_url": "twitter.com/subusunews/sta…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196155855,
+			"id_str": "196155855",
+			"name": "sᴇᴇᴋ🥭",
+			"screen_name": "_seekchic",
+			"location": "眞心, 假心",
+			"description": "제게도 다음이 있나요.ㅣ문장집 '감정에 체한 밤' https://t.co/9gMeGdwZGP",
+			"url": "https://t.co/r0sf2rn3WP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r0sf2rn3WP",
+							"expanded_url": "http://ask.fm/seekchic",
+							"display_url": "ask.fm/seekchic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9gMeGdwZGP",
+							"expanded_url": "http://goo.gl/4BxxHY",
+							"display_url": "goo.gl/4BxxHY",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12896,
+			"friends_count": 48,
+			"listed_count": 148,
+			"created_at": "Tue Sep 28 13:30:11 +0000 2010",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 284092,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029537900105351168/jcMXjf3C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029537900105351168/jcMXjf3C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196155855/1528509788",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097346804637560800,
+		"quoted_status_id_str": "1097346804637560832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CyVizxir2I",
+			"expanded": "https://twitter.com/subusunews/status/1097346804637560832",
+			"display": "twitter.com/subusunews/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 18 04:07:20 +0000 2019",
+			"id": 1097346804637560800,
+			"id_str": "1097346804637560832",
+			"full_text": "현행법상 우리나라는 미성년자라면 예외 없이 휴대폰에 통제 앱을 설치해야 합니다. 이렇게 스마트폰 통제 앱 설치를 법으로 강제하는 국가는 한국이 유일합니다. 부모님의 클릭 한 번이면 어떤 앱도 사용할 수 없게 되는 겁니다.\n\n▶ https://t.co/YCEOz3ACn5 https://t.co/BP66XVEBsv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YCEOz3ACn5",
+						"expanded_url": "http://youtu.be/-G407MemCe8",
+						"display_url": "youtu.be/-G407MemCe8",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1097346728791924700,
+						"id_str": "1097346728791924736",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097346728791924736/pu/img/B0CYZEUATtsfmxNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097346728791924736/pu/img/B0CYZEUATtsfmxNi.jpg",
+						"url": "https://t.co/BP66XVEBsv",
+						"display_url": "pic.twitter.com/BP66XVEBsv",
+						"expanded_url": "https://twitter.com/subusunews/status/1097346804637560832/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097346728791924700,
+						"id_str": "1097346728791924736",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097346728791924736/pu/img/B0CYZEUATtsfmxNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097346728791924736/pu/img/B0CYZEUATtsfmxNi.jpg",
+						"url": "https://t.co/BP66XVEBsv",
+						"display_url": "pic.twitter.com/BP66XVEBsv",
+						"expanded_url": "https://twitter.com/subusunews/status/1097346804637560832/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1097346728791924736/pu/pl/7ADCZP3VMLWnzNwR.m3u8?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097346728791924736/pu/vid/1280x720/NVDMr16_R-3UzJnA.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097346728791924736/pu/vid/320x180/3bfGxUYrKMy-3Z2o.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1097346728791924736/pu/vid/640x360/DOanApY0w3r_OZyD.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3000570456,
+				"id_str": "3000570456",
+				"name": "스브스뉴스",
+				"screen_name": "subusunews",
+				"location": "",
+				"description": "뉴스에는 위아래가 없다! ✨ https://t.co/gnNltvzNyL 👈 유튜브 링크!",
+				"url": "https://t.co/dAqKoYXyS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dAqKoYXyS0",
+								"expanded_url": "http://subusu.com",
+								"display_url": "subusu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gnNltvzNyL",
+								"expanded_url": "http://youtube.com/subusunews",
+								"display_url": "youtube.com/subusunews",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4723,
+				"friends_count": 30,
+				"listed_count": 95,
+				"created_at": "Thu Jan 29 05:40:04 +0000 2015",
+				"favourites_count": 52,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2534,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055642607026499584/sIy6g2id_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055642607026499584/sIy6g2id_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3000570456/1531887761",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1360,
+			"favorite_count": 175,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4435,
+		"favorite_count": 572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘미성년자라면 예외 없이’ 이딴 걸 깔아야 한다고? 진짜 제정신이 아니구나. 부모고 뭐고 너무 징그러운 인간들이다. https://t.co/CyVizxir2I"
+	},
+	{
+		"created_at": "Tue Feb 19 01:54:15 +0000 2019",
+		"id": 1097675699266023400,
+		"id_str": "1098009050896203778",
+		"full_text": "...??? 시트나 가죽으로 갈고 말해...\n치킨을 팔아..?;; 기름이랑 소스 어쩔건데;; https://t.co/tRWLcqkOSa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097675692831993900,
+					"id_str": "1097675692831993856",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzu6OhXU8AAu_Ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzu6OhXU8AAu_Ha.jpg",
+					"url": "https://t.co/tRWLcqkOSa",
+					"display_url": "pic.twitter.com/tRWLcqkOSa",
+					"expanded_url": "https://twitter.com/muming820813/status/1097675699266023424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 294,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097675692831993900,
+					"id_str": "1097675692831993856",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzu6OhXU8AAu_Ha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzu6OhXU8AAu_Ha.jpg",
+					"url": "https://t.co/tRWLcqkOSa",
+					"display_url": "pic.twitter.com/tRWLcqkOSa",
+					"expanded_url": "https://twitter.com/muming820813/status/1097675699266023424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 294,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3280099860,
+			"id_str": "3280099860",
+			"name": "가망없는무밍🐺",
+			"screen_name": "muming820813",
+			"location": "",
+			"description": "잡덕이니까 팔로ㄴㄴ 스포계@ming_spo 콜바넴 세바스찬스탠 MCU 해포세계관 쩜오잡덕임 버키 빌런=블락 잘생긴거 좋아함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7722,
+			"friends_count": 311,
+			"listed_count": 30,
+			"created_at": "Wed Jul 15 01:52:36 +0000 2015",
+			"favourites_count": 3312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62646,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055668557453844480/-cqApAlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055668557453844480/-cqApAlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3280099860/1521170599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1777,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "...??? 시트나 가죽으로 갈고 말해...\n치킨을 팔아..?;; 기름이랑 소스 어쩔건데;; https://t.co/tRWLcqkOSa"
+	},
+	{
+		"created_at": "Mon Feb 18 16:21:27 +0000 2019",
+		"id": 1097531550751645700,
+		"id_str": "1098008919794868224",
+		"full_text": "이탈리아 택시 개웃겨 급해서 빨리 가야되는데 패스트!!! 패스트!! 해도 영어는 못알아들으니까 아는 음악용어 다꺼내서 포르테!!!!!! 알레그레토!!!! 알레그로!!!!! 비바체!!!! 프레스토!!! 하니까 오케이!! 하고 존나빨리간다곸ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/jUge8wNxdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097531484947198000,
+					"id_str": "1097531484947197952",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzs3EhIVsAAho8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzs3EhIVsAAho8y.jpg",
+					"url": "https://t.co/jUge8wNxdG",
+					"display_url": "pic.twitter.com/jUge8wNxdG",
+					"expanded_url": "https://twitter.com/Shaki_blue_/status/1097531550751645696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097531484947198000,
+					"id_str": "1097531484947197952",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzs3EhIVsAAho8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzs3EhIVsAAho8y.jpg",
+					"url": "https://t.co/jUge8wNxdG",
+					"display_url": "pic.twitter.com/jUge8wNxdG",
+					"expanded_url": "https://twitter.com/Shaki_blue_/status/1097531550751645696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743889777141833700,
+			"id_str": "743889777141833728",
+			"name": "샤키블루 in 로마 🇮🇹 シャキブルー",
+			"screen_name": "Shaki_blue_",
+			"location": "DO NOT REPOST MY PICS ANYWHERE",
+			"description": "코스어 | レイヤーㅣGAMER | 인장 찍어주신분 다잉님 @daing_0 헤더 찍어주신분 뮨님 @l_ovo_e l 日本語 ENGㅣ요리/식사계 @shaki_tchen | 일상/사담계 @ShakiBlue",
+			"url": "https://t.co/ZwRg7reg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZwRg7reg81",
+							"expanded_url": "http://storefarm.naver.com/eska",
+							"display_url": "storefarm.naver.com/eska",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6847,
+			"friends_count": 464,
+			"listed_count": 12,
+			"created_at": "Fri Jun 17 19:35:18 +0000 2016",
+			"favourites_count": 12306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29813,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097535319438548992/a6YQsPWm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097535319438548992/a6YQsPWm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743889777141833728/1488462186",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1ea588c12abd39d7",
+			"url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+			"place_type": "city",
+			"name": "Milan",
+			"full_name": "Milan, Lombardy",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							9.040628,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.3867262
+						],
+						[
+							9.2780451,
+							45.5359644
+						],
+						[
+							9.040628,
+							45.5359644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43724,
+		"favorite_count": 14308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이탈리아 택시 개웃겨 급해서 빨리 가야되는데 패스트!!! 패스트!! 해도 영어는 못알아들으니까 아는 음악용어 다꺼내서 포르테!!!!!! 알레그레토!!!! 알레그로!!!!! 비바체!!!! 프레스토!!! 하니까 오케이!! 하고 존나빨리간다곸ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/jUge8wNxdG"
+	},
+	{
 		"created_at": "Tue Feb 19 12:24:54 +0000 2019",
 		"id": 1097834409376440300,
 		"id_str": "1097952752708153344",
