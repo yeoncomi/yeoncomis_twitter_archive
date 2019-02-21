@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Nov 16 09:19:08 +0000 2018",
+		"id": 1063360812213915600,
+		"id_str": "1098439985726775296",
+		"full_text": "우연히 본 쓰레기를 처리하시는 노무사\n\n우문현답;; https://t.co/E3MXR0d1Tv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063360337825517600,
+					"id_str": "1063360337825517568",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DsHQl-RUUAAsi58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsHQl-RUUAAsi58.jpg",
+					"url": "https://t.co/E3MXR0d1Tv",
+					"display_url": "pic.twitter.com/E3MXR0d1Tv",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1063360812213915648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 355,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 201,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063360337825517600,
+					"id_str": "1063360337825517568",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DsHQl-RUUAAsi58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsHQl-RUUAAsi58.jpg",
+					"url": "https://t.co/E3MXR0d1Tv",
+					"display_url": "pic.twitter.com/E3MXR0d1Tv",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1063360812213915648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 355,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 201,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/02BsPxVhfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/02BsPxVhfW",
+							"expanded_url": "https://youtu.be/B85IzWVXs-A",
+							"display_url": "youtu.be/B85IzWVXs-A",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 382,
+			"listed_count": 20,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 25027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129697,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14255,
+		"favorite_count": 4432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우연히 본 쓰레기를 처리하시는 노무사\n\n우문현답;; https://t.co/E3MXR0d1Tv"
+	},
+	{
 		"created_at": "Wed Feb 20 07:17:57 +0000 2019",
 		"id": 1098119548471959600,
 		"id_str": "1098415040758087680",
