@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 07:17:57 +0000 2019",
+		"id": 1098119548471959600,
+		"id_str": "1098415040758087680",
+		"full_text": "2009년 김혜자씨 영화 “마더”라는 영화를 캡쳐해서 이런 가짜뉴스 만드는 이유는 뭘까?\n잼있나? https://t.co/5KpdIUT1vu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5KpdIUT1vu",
+					"expanded_url": "https://twitter.com/jaggi_com/status/1097810891637051393",
+					"display_url": "twitter.com/jaggi_com/stat…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110073323,
+			"id_str": "110073323",
+			"name": "꽃다운 처리",
+			"screen_name": "endy0614",
+			"location": "대한민국",
+			"description": "당신이 알던 나는 아닐겁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 501,
+			"listed_count": 10,
+			"created_at": "Sun Jan 31 07:04:22 +0000 2010",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8424,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023111778396295168/05ZuQ3bw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023111778396295168/05ZuQ3bw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110073323/1509207968",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097810891637051400,
+		"quoted_status_id_str": "1097810891637051393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5KpdIUT1vu",
+			"expanded": "https://twitter.com/jaggi_com/status/1097810891637051393",
+			"display": "twitter.com/jaggi_com/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 19 10:51:27 +0000 2019",
+			"id": 1097810891637051400,
+			"id_str": "1097810891637051393",
+			"full_text": "https://t.co/AlTNiGYqhn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097810881914662900,
+						"id_str": "1097810881914662913",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzw1Lj8U8AEmltF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzw1Lj8U8AEmltF.jpg",
+						"url": "https://t.co/AlTNiGYqhn",
+						"display_url": "pic.twitter.com/AlTNiGYqhn",
+						"expanded_url": "https://twitter.com/Jaggi_com/status/1097810891637051393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 984,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 984,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097810881914662900,
+						"id_str": "1097810881914662913",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzw1Lj8U8AEmltF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzw1Lj8U8AEmltF.jpg",
+						"url": "https://t.co/AlTNiGYqhn",
+						"display_url": "pic.twitter.com/AlTNiGYqhn",
+						"expanded_url": "https://twitter.com/Jaggi_com/status/1097810891637051393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 984,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 984,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831822509196468200,
+				"id_str": "831822509196468224",
+				"name": "[가오킹]환생한 6B💫",
+				"screen_name": "Jaggi_com",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 324,
+				"friends_count": 178,
+				"listed_count": 0,
+				"created_at": "Wed Feb 15 11:08:35 +0000 2017",
+				"favourites_count": 2607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9672,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097167952120471552/JkwNNOTw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097167952120471552/JkwNNOTw_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 582,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2316,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2009년 김혜자씨 영화 “마더”라는 영화를 캡쳐해서 이런 가짜뉴스 만드는 이유는 뭘까?\n잼있나? https://t.co/5KpdIUT1vu"
+	},
+	{
+		"created_at": "Thu Feb 21 01:44:13 +0000 2019",
+		"id": 1098397950613499900,
+		"id_str": "1098414681469808641",
+		"full_text": "지금 탐라에 돌고 있는 요 열상에 쓸 수 있는 밴드 형식의 제품 말인데요, 기본적으로 저 영상은 광고에 가깝고 실제로 이런 제품은 활용도가 꽤 제한됩니다. 영상에 나오는 대로 산 같은 대서 다쳤는데 병원이 너무 멀어서 응급처치라든지, 열상이 얕아서 봉합하기 애매하다든지 할 때 씁니다. https://t.co/tmW7kvR6gm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098397942380060700,
+					"id_str": "1098397942380060672",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5LG-mVYAAn6R-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5LG-mVYAAn6R-.jpg",
+					"url": "https://t.co/tmW7kvR6gm",
+					"display_url": "pic.twitter.com/tmW7kvR6gm",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1098397950613499904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098397942380060700,
+					"id_str": "1098397942380060672",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5LG-mVYAAn6R-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5LG-mVYAAn6R-.jpg",
+					"url": "https://t.co/tmW7kvR6gm",
+					"display_url": "pic.twitter.com/tmW7kvR6gm",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1098397950613499904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169690766,
+			"id_str": "169690766",
+			"name": "월급루팡 엑스아미닥, M.D.",
+			"screen_name": "Ex_Armydoc",
+			"location": "Galaxy far, far away…",
+			"description": "M.D. • 하이개거 • 다크 사이드 • 아마추어 매지션 • 닥터페퍼 중독 • 교토 홀릭 // 먹짤계 : @GourmetArmydoc 교토여행계 : @KyoArmydoc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28975,
+			"friends_count": 701,
+			"listed_count": 322,
+			"created_at": "Thu Jul 22 23:14:42 +0000 2010",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 156553,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169690766/1547011486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 탐라에 돌고 있는 요 열상에 쓸 수 있는 밴드 형식의 제품 말인데요, 기본적으로 저 영상은 광고에 가깝고 실제로 이런 제품은 활용도가 꽤 제한됩니다. 영상에 나오는 대로 산 같은 대서 다쳤는데 병원이 너무 멀어서 응급처치라든지, 열상이 얕아서 봉합하기 애매하다든지 할 때 씁니다. https://t.co/tmW7kvR6gm"
+	},
+	{
+		"created_at": "Thu Feb 21 02:48:21 +0000 2019",
+		"id": 1098414090224107500,
+		"id_str": "1098414582949789701",
+		"full_text": "검찰이 병역거부 진정성 판별하기 위해 선정한 게임 8\n\nhttps://t.co/A5mQBMAxzU https://t.co/SChHxXdRSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A5mQBMAxzU",
+					"expanded_url": "http://huffp.st/8uUZaja",
+					"display_url": "huffp.st/8uUZaja",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098414087522971600,
+					"id_str": "1098414087522971649",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5Zyv8XcAEw8BQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5Zyv8XcAEw8BQ.jpg",
+					"url": "https://t.co/SChHxXdRSP",
+					"display_url": "pic.twitter.com/SChHxXdRSP",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1098414090224107520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098414087522971600,
+					"id_str": "1098414087522971649",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5Zyv8XcAEw8BQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5Zyv8XcAEw8BQ.jpg",
+					"url": "https://t.co/SChHxXdRSP",
+					"display_url": "pic.twitter.com/SChHxXdRSP",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1098414090224107520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543778633,
+			"id_str": "543778633",
+			"name": "허프포스트코리아",
+			"screen_name": "HuffPostKorea",
+			"location": "SEOUL",
+			"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+			"url": "https://t.co/Xkw1g4GZOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xkw1g4GZOB",
+							"expanded_url": "http://www.huffpost.kr",
+							"display_url": "huffpost.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e7LG5sl4oo",
+							"expanded_url": "https://www.facebook.com/huffpostkorea",
+							"display_url": "facebook.com/huffpostkorea",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 729634,
+			"friends_count": 17,
+			"listed_count": 1218,
+			"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 109283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E7060",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+			"profile_link_color": "2E7060",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검찰이 병역거부 진정성 판별하기 위해 선정한 게임 8\n\nhttps://t.co/A5mQBMAxzU https://t.co/SChHxXdRSP"
+	},
+	{
 		"created_at": "Wed Feb 20 20:14:50 +0000 2019",
 		"id": 1098315059783258100,
 		"id_str": "1098379462507298816",
