@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 15:54:48 +0000 2019",
+		"id": 1098612008964870100,
+		"id_str": "1098612432577060864",
+		"full_text": "Another #NDP MP has decided not to run in the next election. #cdnpoli https://t.co/524WbxOwUz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NDP",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "cdnpoli",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/524WbxOwUz",
+					"expanded_url": "https://twitter.com/MarjBoutinSweet/status/1098604031365312512",
+					"display_url": "twitter.com/MarjBoutinSwee…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104255797,
+			"id_str": "104255797",
+			"name": "Hannah Thibedeau",
+			"screen_name": "HannahThibedeau",
+			"location": "Ottawa",
+			"description": "Television, radio and online Journalist. Story idea?",
+			"url": "https://t.co/jRvrcqT5Uo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jRvrcqT5Uo",
+							"expanded_url": "http://www.cbc.ca/politics",
+							"display_url": "cbc.ca/politics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28069,
+			"friends_count": 1995,
+			"listed_count": 664,
+			"created_at": "Tue Jan 12 19:54:23 +0000 2010",
+			"favourites_count": 2911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17387,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052686361445068800/KTF_miRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052686361445068800/KTF_miRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104255797/1471756793",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098604031365312500,
+		"quoted_status_id_str": "1098604031365312512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/524WbxOwUz",
+			"expanded": "https://twitter.com/MarjBoutinSweet/status/1098604031365312512",
+			"display": "twitter.com/MarjBoutinSwee…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 15:23:06 +0000 2019",
+			"id": 1098604031365312500,
+			"id_str": "1098604031365312512",
+			"full_text": "1/4 « C’est avec beaucoup d’émotions et après plusieurs mois de réflexions que j’annonce aujourd’hui que j’ai décidé de ne pas solliciter un troisième mandat en vue des prochaines élections fédérales. Voici ma déclaration: #polcan #NPD\n\nhttps://t.co/umDq9QjCuz https://t.co/djvMPLh6L4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "polcan",
+						"indices": [
+							223,
+							230
+						]
+					},
+					{
+						"text": "NPD",
+						"indices": [
+							231,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/umDq9QjCuz",
+						"expanded_url": "http://marjolaineboutinsweet.npd.ca/declaration-de-marjolaine-boutin-sweet-concernant-son-avenir-politique",
+						"display_url": "marjolaineboutinsweet.npd.ca/declaration-de…",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098603982954614800,
+						"id_str": "1098603982954614785",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz8GgHjW0AEOvcL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz8GgHjW0AEOvcL.jpg",
+						"url": "https://t.co/djvMPLh6L4",
+						"display_url": "pic.twitter.com/djvMPLh6L4",
+						"expanded_url": "https://twitter.com/MarjBoutinSweet/status/1098604031365312512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098603982954614800,
+						"id_str": "1098603982954614785",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz8GgHjW0AEOvcL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz8GgHjW0AEOvcL.jpg",
+						"url": "https://t.co/djvMPLh6L4",
+						"display_url": "pic.twitter.com/djvMPLh6L4",
+						"expanded_url": "https://twitter.com/MarjBoutinSweet/status/1098604031365312512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 286229457,
+				"id_str": "286229457",
+				"name": "Marjolaine Boutin-S.",
+				"screen_name": "MarjBoutinSweet",
+				"location": "Montréal",
+				"description": "Députée de Hochelaga, Whip du NPD et porte-parole adjointe en logement // NDP Whip and Housing Deputy Critic",
+				"url": "https://t.co/EqLYa69fEv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EqLYa69fEv",
+								"expanded_url": "http://marjolaineboutinsweet.npd.ca",
+								"display_url": "marjolaineboutinsweet.npd.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3579,
+				"friends_count": 1420,
+				"listed_count": 212,
+				"created_at": "Fri Apr 22 15:59:31 +0000 2011",
+				"favourites_count": 205,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3593,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F36B21",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042812785590239232/1o-n7F3I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042812785590239232/1o-n7F3I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/286229457/1528220072",
+				"profile_link_color": "FF6600",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another #NDP MP has decided not to run in the next election. #cdnpoli https://t.co/524WbxOwUz"
+	},
+	{
 		"created_at": "Thu Feb 21 14:23:58 +0000 2019",
 		"id": 1098589148233982000,
 		"id_str": "1098593693320110081",
