@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 02:41:39 +0000 2019",
+		"id": 1098412403958509600,
+		"id_str": "1098637722795700226",
+		"full_text": "정말 생물학적으로 남성 지능이 딸리는건가 심각하게 고민되는데 https://t.co/qChqRU4xQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098412401039294500,
+					"id_str": "1098412401039294465",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5YQlTUwAEFnMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5YQlTUwAEFnMx.jpg",
+					"url": "https://t.co/qChqRU4xQw",
+					"display_url": "pic.twitter.com/qChqRU4xQw",
+					"expanded_url": "https://twitter.com/Dalke97/status/1098412403958509568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098412401039294500,
+					"id_str": "1098412401039294465",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz5YQlTUwAEFnMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz5YQlTUwAEFnMx.jpg",
+					"url": "https://t.co/qChqRU4xQw",
+					"display_url": "pic.twitter.com/qChqRU4xQw",
+					"expanded_url": "https://twitter.com/Dalke97/status/1098412403958509568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3295029536,
+			"id_str": "3295029536",
+			"name": "✨달케✨",
+			"screen_name": "Dalke97",
+			"location": "대한민국 춘천시",
+			"description": "FUBM FREE /메인트 확인해주세요/\n천사 츠유짱😙@Tsuyu_for_DK\n오픈챗 https://t.co/po9FDUOVBP",
+			"url": "https://t.co/CHa3o5GNfH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CHa3o5GNfH",
+							"expanded_url": "https://ask.fm/coa977?utm_source=copy_link&utm_medium=android",
+							"display_url": "ask.fm/coa977?utm_sou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/po9FDUOVBP",
+							"expanded_url": "http://open.kakao.com/o/sbN1U5I",
+							"display_url": "open.kakao.com/o/sbN1U5I",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 198,
+			"listed_count": 6,
+			"created_at": "Sun Jul 26 11:34:29 +0000 2015",
+			"favourites_count": 6079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8120,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091234169965838337/WH76g8uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091234169965838337/WH76g8uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3295029536/1547021678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1165,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말 생물학적으로 남성 지능이 딸리는건가 심각하게 고민되는데 https://t.co/qChqRU4xQw"
+	},
+	{
+		"created_at": "Wed Feb 20 02:19:23 +0000 2019",
+		"id": 1098044412599230500,
+		"id_str": "1098637084552716288",
+		"full_text": "세계로 뻗어나가는 굴김치..\n\n굴김치 (미국, 아마존 프라임에어 부회장) https://t.co/211o6V97HP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098044262426398700,
+					"id_str": "1098044262426398720",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0JcGGU0AAC868.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0JcGGU0AAC868.png",
+					"url": "https://t.co/211o6V97HP",
+					"display_url": "pic.twitter.com/211o6V97HP",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1098044412599230466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 780,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 409,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098044262426398700,
+					"id_str": "1098044262426398720",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0JcGGU0AAC868.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0JcGGU0AAC868.png",
+					"url": "https://t.co/211o6V97HP",
+					"display_url": "pic.twitter.com/211o6V97HP",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1098044412599230466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 780,
+							"h": 409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 409,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1098044280008896500,
+					"id_str": "1098044280008896512",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0JdHmUcAAifKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0JdHmUcAAifKi.jpg",
+					"url": "https://t.co/211o6V97HP",
+					"display_url": "pic.twitter.com/211o6V97HP",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1098044412599230466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/02BsPxVhfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/02BsPxVhfW",
+							"expanded_url": "https://youtu.be/B85IzWVXs-A",
+							"display_url": "youtu.be/B85IzWVXs-A",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562,
+			"friends_count": 381,
+			"listed_count": 20,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 25027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129700,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계로 뻗어나가는 굴김치..\n\n굴김치 (미국, 아마존 프라임에어 부회장) https://t.co/211o6V97HP"
+	},
+	{
 		"created_at": "Thu Feb 21 15:54:48 +0000 2019",
 		"id": 1098612008964870100,
 		"id_str": "1098612432577060864",
