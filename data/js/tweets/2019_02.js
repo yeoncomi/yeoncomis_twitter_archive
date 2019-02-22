@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 17:15:02 +0000 2019",
+		"id": 1098994587266297900,
+		"id_str": "1098996699148644352",
+		"full_text": "내가 좋아하는 그 영상에 자막을 달아보았다 https://t.co/d61LEinxjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098994526528536600,
+					"id_str": "1098994526528536576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1098994526528536576/pu/img/xL78n9Aufh_50DZu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1098994526528536576/pu/img/xL78n9Aufh_50DZu.jpg",
+					"url": "https://t.co/d61LEinxjg",
+					"display_url": "pic.twitter.com/d61LEinxjg",
+					"expanded_url": "https://twitter.com/_Akamig/status/1098994587266297856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098994526528536600,
+					"id_str": "1098994526528536576",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1098994526528536576/pu/img/xL78n9Aufh_50DZu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1098994526528536576/pu/img/xL78n9Aufh_50DZu.jpg",
+					"url": "https://t.co/d61LEinxjg",
+					"display_url": "pic.twitter.com/d61LEinxjg",
+					"expanded_url": "https://twitter.com/_Akamig/status/1098994587266297856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49041,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1098994526528536576/pu/pl/pLQZOzA9jVCVYNNO.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1098994526528536576/pu/vid/320x180/GEE9fa-QgRfj9S-T.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1098994526528536576/pu/vid/640x360/q01tvX0HuC0pTiVQ.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1098994526528536576/pu/vid/1280x720/4RFFGaqbHN7eKX5e.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154702781,
+			"id_str": "154702781",
+			"name": "Akamig",
+			"screen_name": "_Akamig",
+			"location": "Glitch City",
+			"description": "Not Akaming Currently / Music / Programming / Electronics / Synthesizer / Games / Reddit / Translate / VA-11 HALL-A",
+			"url": "https://t.co/3IVfoygDlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IVfoygDlS",
+							"expanded_url": "http://Akamig.org",
+							"display_url": "Akamig.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 725,
+			"listed_count": 44,
+			"created_at": "Sat Jun 12 00:13:43 +0000 2010",
+			"favourites_count": 5310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 137523,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095018350755799040/q4zLhiYh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154702781/1522600437",
+			"profile_link_color": "FF007A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0AA8D",
+			"profile_text_color": "F9C098",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 좋아하는 그 영상에 자막을 달아보았다 https://t.co/d61LEinxjg"
+	},
+	{
 		"created_at": "Fri Feb 22 09:51:57 +0000 2019",
 		"id": 1098883082613010400,
 		"id_str": "1098989186609115136",
