@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 10:42:34 +0000 2019",
+		"id": 1098533433091940400,
+		"id_str": "1098826068809535489",
+		"full_text": "S10e 진짜 이쁜데? 이거 xr보다 구려보인다는 사람한테 도저히 동의할 수가 없다(.....) https://t.co/td5jVTugCa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098533411868692500,
+					"id_str": "1098533411868692481",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7GUVxU0AEKJsd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7GUVxU0AEKJsd.jpg",
+					"url": "https://t.co/td5jVTugCa",
+					"display_url": "pic.twitter.com/td5jVTugCa",
+					"expanded_url": "https://twitter.com/Shine9000s/status/1098533433091940352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098533411868692500,
+					"id_str": "1098533411868692481",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7GUVxU0AEKJsd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7GUVxU0AEKJsd.jpg",
+					"url": "https://t.co/td5jVTugCa",
+					"display_url": "pic.twitter.com/td5jVTugCa",
+					"expanded_url": "https://twitter.com/Shine9000s/status/1098533433091940352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297938929,
+			"id_str": "297938929",
+			"name": "Unidentified S",
+			"screen_name": "Shine9000s",
+			"location": "집구석",
+			"description": "잉여로운 삶. 잉여로운 인간. 불로소득인생 지망자.   나는 시네가 아니다!!!!",
+			"url": "https://t.co/JgPU8aLUO8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JgPU8aLUO8",
+							"expanded_url": "http://ask.fm/Shine9000s",
+							"display_url": "ask.fm/Shine9000s",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 1517,
+			"listed_count": 10,
+			"created_at": "Fri May 13 11:37:17 +0000 2011",
+			"favourites_count": 2932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85957,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053768492346818560/sV4jP2yi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053768492346818560/sV4jP2yi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297938929/1540073444",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "S10e 진짜 이쁜데? 이거 xr보다 구려보인다는 사람한테 도저히 동의할 수가 없다(.....) https://t.co/td5jVTugCa"
+	},
+	{
+		"created_at": "Thu Feb 21 13:54:59 +0000 2019",
+		"id": 1098581856369299500,
+		"id_str": "1098825850378567680",
+		"full_text": "마감으로 지친 바리스타에겐 달짝지근한 바닐라파우더를 추천합니다 https://t.co/ff13xCF2mO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098581845749289000,
+					"id_str": "1098581845749288962",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7yXkCUUAIgCy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7yXkCUUAIgCy0.jpg",
+					"url": "https://t.co/ff13xCF2mO",
+					"display_url": "pic.twitter.com/ff13xCF2mO",
+					"expanded_url": "https://twitter.com/lattedayo/status/1098581856369299456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 839,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 839,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098581845749289000,
+					"id_str": "1098581845749288962",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7yXkCUUAIgCy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7yXkCUUAIgCy0.jpg",
+					"url": "https://t.co/ff13xCF2mO",
+					"display_url": "pic.twitter.com/ff13xCF2mO",
+					"expanded_url": "https://twitter.com/lattedayo/status/1098581856369299456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 839,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 839,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 767354737469460500,
+			"id_str": "767354737469460480",
+			"name": "🐑양라떼☕",
+			"screen_name": "lattedayo",
+			"location": "대한민국 강서구",
+			"description": "화나면 들이받아버린다?! / 뒷계 @latteeyo / 프사 양구름(@Ycloud0303)님♡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1395,
+			"friends_count": 905,
+			"listed_count": 34,
+			"created_at": "Sun Aug 21 13:36:40 +0000 2016",
+			"favourites_count": 8627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 149707,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081003057347932161/7O3UjY9x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081003057347932161/7O3UjY9x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/767354737469460480/1525322643",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마감으로 지친 바리스타에겐 달짝지근한 바닐라파우더를 추천합니다 https://t.co/ff13xCF2mO"
+	},
+	{
 		"created_at": "Fri Feb 22 02:44:16 +0000 2019",
 		"id": 1098775452825440300,
 		"id_str": "1098775899225255936",
