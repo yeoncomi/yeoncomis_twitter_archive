@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 08:02:45 +0000 2019",
+		"id": 1098493211473961000,
+		"id_str": "1098763346503819265",
+		"full_text": "사탄은 돈을 요구하지 않는다 https://t.co/bK9yD2ZOCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098493208697262100,
+					"id_str": "1098493208697262080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz6hwNSUUAAxLtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz6hwNSUUAAxLtq.jpg",
+					"url": "https://t.co/bK9yD2ZOCg",
+					"display_url": "pic.twitter.com/bK9yD2ZOCg",
+					"expanded_url": "https://twitter.com/CV5YT/status/1098493211473960960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098493208697262100,
+					"id_str": "1098493208697262080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz6hwNSUUAAxLtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz6hwNSUUAAxLtq.jpg",
+					"url": "https://t.co/bK9yD2ZOCg",
+					"display_url": "pic.twitter.com/bK9yD2ZOCg",
+					"expanded_url": "https://twitter.com/CV5YT/status/1098493211473960960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152164668,
+			"id_str": "152164668",
+			"name": "우르쁘/엘더온 노드 드래곤나이트",
+			"screen_name": "CV5YT",
+			"location": "ユクモ村",
+			"description": "게임도 하고 그림도 그립니다 배박이 아닙니다 아주 늠름하고 강하고 사나운 늑대입니다 동물조와",
+			"url": "https://t.co/phDxOmPt8A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/phDxOmPt8A",
+							"expanded_url": "https://www.pixiv.net/member.php?id=579976",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 188,
+			"listed_count": 21,
+			"created_at": "Sat Jun 05 07:03:43 +0000 2010",
+			"favourites_count": 57692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44724,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "313131",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096285522882785280/9ocxAHUL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096285522882785280/9ocxAHUL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152164668/1548402697",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "171106",
+			"profile_text_color": "8A7302",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사탄은 돈을 요구하지 않는다 https://t.co/bK9yD2ZOCg"
+	},
+	{
 		"created_at": "Thu Feb 21 02:41:39 +0000 2019",
 		"id": 1098412403958509600,
 		"id_str": "1098637722795700226",
