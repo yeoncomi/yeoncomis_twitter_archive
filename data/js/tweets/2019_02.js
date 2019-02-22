@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 02:44:16 +0000 2019",
+		"id": 1098775452825440300,
+		"id_str": "1098775899225255936",
+		"full_text": "김종이 영어 개못쓰네 진짜.. 이유칸 비워도 알아먹어요 일주일정도 걸리고 완료되면 이렇게 뜸 https://t.co/9poRpozyCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098775401214599200,
+					"id_str": "1098775401214599168",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-iZ-VVYAAkJ8Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-iZ-VVYAAkJ8Y.png",
+					"url": "https://t.co/9poRpozyCl",
+					"display_url": "pic.twitter.com/9poRpozyCl",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775452825440257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098775401214599200,
+					"id_str": "1098775401214599168",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-iZ-VVYAAkJ8Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-iZ-VVYAAkJ8Y.png",
+					"url": "https://t.co/9poRpozyCl",
+					"display_url": "pic.twitter.com/9poRpozyCl",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775452825440257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 382,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098775135975141400,
+		"in_reply_to_status_id_str": "1098775135975141376",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "pic: @zycro_ni",
+			"description": "heavensward / rootage / festo / exchain / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 24,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742846,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087982004086415361/cW08nGXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087982004086415361/cW08nGXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1549993634",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김종이 영어 개못쓰네 진짜.. 이유칸 비워도 알아먹어요 일주일정도 걸리고 완료되면 이렇게 뜸 https://t.co/9poRpozyCl"
+	},
+	{
+		"created_at": "Fri Feb 22 02:43:01 +0000 2019",
+		"id": 1098775135975141400,
+		"id_str": "1098775882188042241",
+		"full_text": "\"트랜스 xx\" 닉네임 건 계정 신고하는 법\n쉽고 간단합니다 지나가다 보이면 신고 좀 넣어주세요...\n- \"보호받아야 할 범주에 대한 혐오를 조장하고 있습니다\"\n- 본인이시면 '본인' 아니면 '특정 사용자 그룹'\n- 적당한 hate-speech 트윗을 고른 다음\n- 이유 칸은 비워도 됩니다 한글도될텐데 대충 썼음 https://t.co/A9uEPeE5gC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098774137097510900,
+					"id_str": "1098774137097510912",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-hQZIVYAATQWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-hQZIVYAATQWx.jpg",
+					"url": "https://t.co/A9uEPeE5gC",
+					"display_url": "pic.twitter.com/A9uEPeE5gC",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775135975141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098774137097510900,
+					"id_str": "1098774137097510912",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-hQZIVYAATQWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-hQZIVYAATQWx.jpg",
+					"url": "https://t.co/A9uEPeE5gC",
+					"display_url": "pic.twitter.com/A9uEPeE5gC",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775135975141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1098775096599011300,
+					"id_str": "1098775096599011328",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-iIPjUYAAJYvx.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-iIPjUYAAJYvx.png",
+					"url": "https://t.co/A9uEPeE5gC",
+					"display_url": "pic.twitter.com/A9uEPeE5gC",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775135975141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 568,
+							"h": 513,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 568,
+							"h": 513,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1098775119013412900,
+					"id_str": "1098775119013412864",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz-iJjDVAAA2gta.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz-iJjDVAAA2gta.png",
+					"url": "https://t.co/A9uEPeE5gC",
+					"display_url": "pic.twitter.com/A9uEPeE5gC",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1098775135975141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 570,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이",
+			"screen_name": "hibiyasleep",
+			"location": "pic: @zycro_ni",
+			"description": "heavensward / rootage / festo / exchain / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 989,
+			"listed_count": 24,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 17696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742846,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087982004086415361/cW08nGXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087982004086415361/cW08nGXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1549993634",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"트랜스 xx\" 닉네임 건 계정 신고하는 법\n쉽고 간단합니다 지나가다 보이면 신고 좀 넣어주세요...\n- \"보호받아야 할 범주에 대한 혐오를 조장하고 있습니다\"\n- 본인이시면 '본인' 아니면 '특정 사용자 그룹'\n- 적당한 hate-speech 트윗을 고른 다음\n- 이유 칸은 비워도 됩니다 한글도될텐데 대충 썼음 https://t.co/A9uEPeE5gC"
+	},
+	{
 		"created_at": "Thu Feb 21 08:02:45 +0000 2019",
 		"id": 1098493211473961000,
 		"id_str": "1098763346503819265",
