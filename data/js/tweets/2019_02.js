@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 16:33:48 +0000 2019",
+		"id": 1098984209593524200,
+		"id_str": "1099369006929108993",
+		"full_text": "여기에 부연을 하자면, 미슐랭 가이드의 별 개수는 각각 아래의 뜻을 가집니다 :\n\n별 하나 - 자택이 근처라면 가 볼 만한 곳\n\n별 둘 - 자동차를 타고 가더라도 아깝지 않음\n\n별 셋 - 이것을 먹기 위해서라면 여행도 갈 만 하다\n\n결국 별 둘 이상은 미쉐린 타이어 쓰라는 말. https://t.co/5SeaWDaaiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5SeaWDaaiK",
+					"expanded_url": "https://twitter.com/aircon77/status/737231589524930560",
+					"display_url": "twitter.com/aircon77/statu…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157263539,
+			"id_str": "157263539",
+			"name": "AirCon",
+			"screen_name": "aircon77",
+			"location": "",
+			"description": "인성 쓰레기임. 팔로 하지 마셈.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2046,
+			"friends_count": 701,
+			"listed_count": 31,
+			"created_at": "Sat Jun 19 09:11:07 +0000 2010",
+			"favourites_count": 816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 146792,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093724605699612672/C3COWpJw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093724605699612672/C3COWpJw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157263539/1348287949",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 737231589524930600,
+		"quoted_status_id_str": "737231589524930560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5SeaWDaaiK",
+			"expanded": "https://twitter.com/aircon77/status/737231589524930560",
+			"display": "twitter.com/aircon77/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 30 10:38:02 +0000 2016",
+			"id": 737231589524930600,
+			"id_str": "737231589524930560",
+			"full_text": "탐라에 미슐랭 가이드가 스쳐가서 :\n\n살아가는데 별 도움이 안되는 정보지만, 아무튼 미슐랭 가이드를 펴내는 미슐랭은 사실 여러분들도 잘 아는 회사입니다.\n\n여기. https://t.co/9Atw5A9OZN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 737231587213860900,
+						"id_str": "737231587213860868",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/CjssOPkUYAQq78b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CjssOPkUYAQq78b.jpg",
+						"url": "https://t.co/9Atw5A9OZN",
+						"display_url": "pic.twitter.com/9Atw5A9OZN",
+						"expanded_url": "https://twitter.com/aircon77/status/737231589524930560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 737231587213860900,
+						"id_str": "737231587213860868",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/CjssOPkUYAQq78b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CjssOPkUYAQq78b.jpg",
+						"url": "https://t.co/9Atw5A9OZN",
+						"display_url": "pic.twitter.com/9Atw5A9OZN",
+						"expanded_url": "https://twitter.com/aircon77/status/737231589524930560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 427,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157263539,
+				"id_str": "157263539",
+				"name": "AirCon",
+				"screen_name": "aircon77",
+				"location": "",
+				"description": "인성 쓰레기임. 팔로 하지 마셈.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2046,
+				"friends_count": 701,
+				"listed_count": 31,
+				"created_at": "Sat Jun 19 09:11:07 +0000 2010",
+				"favourites_count": 816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 146792,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093724605699612672/C3COWpJw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093724605699612672/C3COWpJw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157263539/1348287949",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1888,
+		"favorite_count": 424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여기에 부연을 하자면, 미슐랭 가이드의 별 개수는 각각 아래의 뜻을 가집니다 :\n\n별 하나 - 자택이 근처라면 가 볼 만한 곳\n\n별 둘 - 자동차를 타고 가더라도 아깝지 않음\n\n별 셋 - 이것을 먹기 위해서라면 여행도 갈 만 하다\n\n결국 별 둘 이상은 미쉐린 타이어 쓰라는 말. https://t.co/5SeaWDaaiK"
+	},
+	{
 		"created_at": "Sat Feb 23 05:08:06 +0000 2019",
 		"id": 1099174035441705000,
 		"id_str": "1099355667297558529",
