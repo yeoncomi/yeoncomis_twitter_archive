@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 05:08:06 +0000 2019",
+		"id": 1099174035441705000,
+		"id_str": "1099355667297558529",
+		"full_text": "“동양인 사이즈를 고려한”\n시발 ㅋㅋ https://t.co/3J7rVGFX0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099174028365881300,
+					"id_str": "1099174028365881349",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D0EM9IMVYAUT1Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0EM9IMVYAUT1Ys.jpg",
+					"url": "https://t.co/3J7rVGFX0a",
+					"display_url": "pic.twitter.com/3J7rVGFX0a",
+					"expanded_url": "https://twitter.com/umk1nd/status/1099174035441704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099174028365881300,
+					"id_str": "1099174028365881349",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D0EM9IMVYAUT1Ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0EM9IMVYAUT1Ys.jpg",
+					"url": "https://t.co/3J7rVGFX0a",
+					"display_url": "pic.twitter.com/3J7rVGFX0a",
+					"expanded_url": "https://twitter.com/umk1nd/status/1099174035441704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059830909812142100,
+			"id_str": "1059830909812142082",
+			"name": "북괴",
+			"screen_name": "umk1nd",
+			"location": "",
+			"description": "블락할거면 말하고 해주세요 맞블락치게 개샊기야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52,
+			"friends_count": 45,
+			"listed_count": 0,
+			"created_at": "Tue Nov 06 15:32:34 +0000 2018",
+			"favourites_count": 3320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093909818723598337/sBFtw3Yd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093909818723598337/sBFtw3Yd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059830909812142082/1549643575",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“동양인 사이즈를 고려한”\n시발 ㅋㅋ https://t.co/3J7rVGFX0a"
+	},
+	{
 		"created_at": "Sat Feb 23 02:11:21 +0000 2019",
 		"id": 1099129555715944400,
 		"id_str": "1099204916843692032",
