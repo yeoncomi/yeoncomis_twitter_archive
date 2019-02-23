@@ -1,6 +1,1017 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 02:11:21 +0000 2019",
+		"id": 1099129555715944400,
+		"id_str": "1099204916843692032",
+		"full_text": "? 모페모페잖아 https://t.co/wEBv2BZneP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099129537286234100,
+					"id_str": "1099129537286234112",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DkfaAV4AAyzqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DkfaAV4AAyzqj.jpg",
+					"url": "https://t.co/wEBv2BZneP",
+					"display_url": "pic.twitter.com/wEBv2BZneP",
+					"expanded_url": "https://twitter.com/Neardayo_/status/1099129555715944449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1090,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099129537286234100,
+					"id_str": "1099129537286234112",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DkfaAV4AAyzqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DkfaAV4AAyzqj.jpg",
+					"url": "https://t.co/wEBv2BZneP",
+					"display_url": "pic.twitter.com/wEBv2BZneP",
+					"expanded_url": "https://twitter.com/Neardayo_/status/1099129555715944449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1090,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1099129547440574500,
+					"id_str": "1099129547440574464",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Dkf_1U0AAx0Za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Dkf_1U0AAx0Za.jpg",
+					"url": "https://t.co/wEBv2BZneP",
+					"display_url": "pic.twitter.com/wEBv2BZneP",
+					"expanded_url": "https://twitter.com/Neardayo_/status/1099129555715944449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785823635441197000,
+			"id_str": "785823635441197056",
+			"name": "빠따",
+			"screen_name": "Neardayo_",
+			"location": "ニアノア大好き",
+			"description": "SDVX / 少女前线 BiliBili / Korean, English, Japanese (Translator) / may retweet lewds / 무멘션팔로우 자주 합니다",
+			"url": "https://t.co/10oDx9shHX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/10oDx9shHX",
+							"expanded_url": "https://youtube.com/c/neardayo",
+							"display_url": "youtube.com/c/neardayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 524,
+			"listed_count": 2,
+			"created_at": "Tue Oct 11 12:45:29 +0000 2016",
+			"favourites_count": 1885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082385268982702080/Ld6p1RTm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082385268982702080/Ld6p1RTm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785823635441197056/1549416896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "? 모페모페잖아 https://t.co/wEBv2BZneP"
+	},
+	{
+		"created_at": "Fri Feb 22 14:13:13 +0000 2019",
+		"id": 1098948831721340900,
+		"id_str": "1099203222336487425",
+		"full_text": "트랜스젠더가 여자가 아닌 것 처럼 말하는 게 잘못되었다는 생각이 듭니다 https://t.co/Ctcx5pFjEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ctcx5pFjEA",
+					"expanded_url": "https://twitter.com/ksj2682701/status/1097785584032964608",
+					"display_url": "twitter.com/ksj2682701/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070933317896220700,
+			"id_str": "1070933317896220672",
+			"name": "☂️에이로가시화주간☂️🥑아보카도🥑",
+			"screen_name": "A_for_avocado",
+			"location": "",
+			"description": "☂️아보카도🥑\n시스젠더 무연정자(에이로맨틱) 무성애자(에이섹슈얼) 여성 \n04년생 학교 안 청소년이고 애인 있어요!\n트랜스젠더 앨라이 지향 플러팅 ×(애인 없어져도 플러팅은 ×××) \n♠️⚪",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Fri Dec 07 06:49:34 +0000 2018",
+			"favourites_count": 1442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2313,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070971802896130049/mWBA7psS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070971802896130049/mWBA7psS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070933317896220672/1550029870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097785584032964600,
+		"quoted_status_id_str": "1097785584032964608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ctcx5pFjEA",
+			"expanded": "https://twitter.com/ksj2682701/status/1097785584032964608",
+			"display": "twitter.com/ksj2682701/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 19 09:10:53 +0000 2019",
+			"id": 1097785584032964600,
+			"id_str": "1097785584032964608",
+			"full_text": "트랜스젠더 유튜브에 치면 이런거 나오는데 진짜 아무 생각도 안 드세요? https://t.co/xZ8Gzxu8Zx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097785576676184000,
+						"id_str": "1097785576676184064",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DzweKmlU0AAnflS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzweKmlU0AAnflS.jpg",
+						"url": "https://t.co/xZ8Gzxu8Zx",
+						"display_url": "pic.twitter.com/xZ8Gzxu8Zx",
+						"expanded_url": "https://twitter.com/ksj2682701/status/1097785584032964608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 207,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1078,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1078,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097785576676184000,
+						"id_str": "1097785576676184064",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DzweKmlU0AAnflS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzweKmlU0AAnflS.jpg",
+						"url": "https://t.co/xZ8Gzxu8Zx",
+						"display_url": "pic.twitter.com/xZ8Gzxu8Zx",
+						"expanded_url": "https://twitter.com/ksj2682701/status/1097785584032964608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 207,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1078,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1078,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1097784850709241900,
+			"in_reply_to_status_id_str": "1097784850709241856",
+			"in_reply_to_user_id": 1062654243817967600,
+			"in_reply_to_user_id_str": "1062654243817967622",
+			"in_reply_to_screen_name": "ksj2682701",
+			"user": {
+				"id": 1062654243817967600,
+				"id_str": "1062654243817967622",
+				"name": "무멘팔 개멒",
+				"screen_name": "ksj2682701",
+				"location": "",
+				"description": "개멒 (개머핀)/0n년생/ 1차 팜/잡덕/이별은 블언블/언팔은 오류일 가능성이 높습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 442,
+				"friends_count": 508,
+				"listed_count": 1,
+				"created_at": "Wed Nov 14 10:31:29 +0000 2018",
+				"favourites_count": 5147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8715,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098933723737640960/gbYnCD6m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098933723737640960/gbYnCD6m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062654243817967622/1550847608",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 584,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트랜스젠더가 여자가 아닌 것 처럼 말하는 게 잘못되었다는 생각이 듭니다 https://t.co/Ctcx5pFjEA"
+	},
+	{
+		"created_at": "Sat Feb 23 06:22:08 +0000 2019",
+		"id": 1099192666888097800,
+		"id_str": "1099192666888097792",
+		"full_text": "안돼!! https://t.co/dUplyHqb9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUplyHqb9o",
+					"expanded_url": "https://twitter.com/netflixkr_up/status/1099190339473031168",
+					"display_url": "twitter.com/netflixkr_up/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1002,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 22953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099190339473031200,
+		"quoted_status_id_str": "1099190339473031168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dUplyHqb9o",
+			"expanded": "https://twitter.com/netflixkr_up/status/1099190339473031168",
+			"display": "twitter.com/netflixkr_up/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 23 06:12:53 +0000 2019",
+			"id": 1099190339473031200,
+			"id_str": "1099190339473031168",
+			"full_text": "※ '금빛 모자이크: 프리티 데이즈(Kiniro Mosaic: Pretty Days)'는 2019년 2월 28일까지만 넷플릭스에서 서비스될 예정입니다. https://t.co/hvNzemuRD7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hvNzemuRD7",
+						"expanded_url": "https://twitter.com/netflixkr_up/status/905363116057288704",
+						"display_url": "twitter.com/netflixkr_up/s…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701825105538646000,
+				"id_str": "701825105538646016",
+				"name": "넷플릭스 업데이트봇",
+				"screen_name": "netflixkr_up",
+				"location": "Republic of Korea",
+				"description": "넷플릭스 문의는 고객센터(https://t.co/BGkYn4Q3MP) 및 트위터 공식계정(@NetflixKR)을 이용해 주세요. 비공식 수동봇이라 업데이트 소식에 시간차가 있을 수 있으며, 누락 또는 생략하는 콘텐츠도 있습니다. 트윗 내용 오류 등 각종 제보 환영합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BGkYn4Q3MP",
+								"expanded_url": "https://help.netflix.com/help",
+								"display_url": "help.netflix.com/help",
+								"indices": [
+									14,
+									37
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 47105,
+				"friends_count": 24,
+				"listed_count": 239,
+				"created_at": "Mon Feb 22 17:45:19 +0000 2016",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8512,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870089497689546753/nIRRgw2p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701825105538646016/1548414298",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 905363116057288700,
+			"quoted_status_id_str": "905363116057288704",
+			"quoted_status_permalink": {
+				"url": "https://t.co/hvNzemuRD7",
+				"expanded": "https://twitter.com/netflixkr_up/status/905363116057288704",
+				"display": "twitter.com/netflixkr_up/s…"
+			},
+			"retweet_count": 12,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안돼!! https://t.co/dUplyHqb9o"
+	},
+	{
+		"created_at": "Fri Feb 22 09:00:05 +0000 2019",
+		"id": 1098870027594289200,
+		"id_str": "1099192471366512640",
+		"full_text": "트랜스는 부적절한 \"용어\"가 아니에요. 그걸 부적절한 \"용법\"으로 쓰신거지. https://t.co/8K4Gvtjv4I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8K4Gvtjv4I",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1098867093573779456",
+					"display_url": "twitter.com/idolchamp1/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904460202,
+			"id_str": "2904460202",
+			"name": "🔨⚒🔨",
+			"screen_name": "hammer2ri",
+			"location": "bong天gnod",
+			"description": "",
+			"url": "https://t.co/aSP3T89q2C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSP3T89q2C",
+							"expanded_url": "https://soundcloud.com/hammer2ri",
+							"display_url": "soundcloud.com/hammer2ri",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139,
+			"friends_count": 144,
+			"listed_count": 6,
+			"created_at": "Wed Nov 19 12:11:26 +0000 2014",
+			"favourites_count": 8133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69184,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094958653164027904/oQ6EpP1U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094958653164027904/oQ6EpP1U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904460202/1469268173",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098867093573779500,
+		"quoted_status_id_str": "1098867093573779456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8K4Gvtjv4I",
+			"expanded": "https://twitter.com/idolchamp1/status/1098867093573779456",
+			"display": "twitter.com/idolchamp1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 08:48:25 +0000 2019",
+			"id": 1098867093573779500,
+			"id_str": "1098867093573779456",
+			"full_text": "안녕하세요. 아이돌챔프입니다. 어제 트위터에 올라온 게시물에 대해 깊은 사과를 드리며 사과문을 올려드립니다. https://t.co/21Ro3aNvb3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1098866311487119400,
+						"id_str": "1098866311487119360",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_1FpfVYAANHZW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_1FpfVYAANHZW.jpg",
+						"url": "https://t.co/21Ro3aNvb3",
+						"display_url": "pic.twitter.com/21Ro3aNvb3",
+						"expanded_url": "https://twitter.com/idolchamp1/status/1098867093573779456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098866311487119400,
+						"id_str": "1098866311487119360",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_1FpfVYAANHZW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_1FpfVYAANHZW.jpg",
+						"url": "https://t.co/21Ro3aNvb3",
+						"display_url": "pic.twitter.com/21Ro3aNvb3",
+						"expanded_url": "https://twitter.com/idolchamp1/status/1098867093573779456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 441,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 842271014520148000,
+				"id_str": "842271014520147968",
+				"name": "아이돌챔프(아챔이)",
+				"screen_name": "idolchamp1",
+				"location": "아이돌 맴 속",
+				"description": "MBC MUSIC 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+				"url": "https://t.co/FhbGVysggY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FhbGVysggY",
+								"expanded_url": "https://goo.gl/kFbpeY",
+								"display_url": "goo.gl/kFbpeY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51229,
+				"friends_count": 1243,
+				"listed_count": 76,
+				"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+				"favourites_count": 66,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1305,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895183181128847360/s4k2Rr2S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895183181128847360/s4k2Rr2S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1502170385",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1193,
+			"favorite_count": 285,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1573,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트랜스는 부적절한 \"용어\"가 아니에요. 그걸 부적절한 \"용법\"으로 쓰신거지. https://t.co/8K4Gvtjv4I"
+	},
+	{
 		"created_at": "Fri Feb 22 21:29:08 +0000 2019",
 		"id": 1099058534455496700,
 		"id_str": "1099190457785999360",
