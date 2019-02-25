@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 04:49:55 +0000 2019",
+		"id": 1099531846650458100,
+		"id_str": "1100002511644024832",
+		"full_text": "병역거부자도 할 수 있는 게임이 있다던데? https://t.co/cZ8P5SJpwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099531837754372100,
+					"id_str": "1099531837754372096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D0JSYYCU8AAn-Cr.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0JSYYCU8AAn-Cr.png",
+					"url": "https://t.co/cZ8P5SJpwC",
+					"display_url": "pic.twitter.com/cZ8P5SJpwC",
+					"expanded_url": "https://twitter.com/hukbaeg__22/status/1099531846650458112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099531837754372100,
+					"id_str": "1099531837754372096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D0JSYYCU8AAn-Cr.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0JSYYCU8AAn-Cr.png",
+					"url": "https://t.co/cZ8P5SJpwC",
+					"display_url": "pic.twitter.com/cZ8P5SJpwC",
+					"expanded_url": "https://twitter.com/hukbaeg__22/status/1099531846650458112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1099531837754376200,
+					"id_str": "1099531837754376197",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D0JSYYCVAAUK5EC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0JSYYCVAAUK5EC.jpg",
+					"url": "https://t.co/cZ8P5SJpwC",
+					"display_url": "pic.twitter.com/cZ8P5SJpwC",
+					"expanded_url": "https://twitter.com/hukbaeg__22/status/1099531846650458112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 545,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081857880502853600,
+			"id_str": "1081857880502853633",
+			"name": "(＊´ｖ`＊)/ 흑빼애액이",
+			"screen_name": "hukbaeg__22",
+			"location": "",
+			"description": "레이카런을 하자 https://t.co/dJcl0D0MOF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dJcl0D0MOF",
+							"expanded_url": "http://reika.waifu.my",
+							"display_url": "reika.waifu.my",
+							"indices": [
+								9,
+								32
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 253,
+			"listed_count": 1,
+			"created_at": "Sun Jan 06 10:19:53 +0000 2019",
+			"favourites_count": 2647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6295,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095259929357705218/Fcen-Iov_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095259929357705218/Fcen-Iov_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081857880502853633/1549668424",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병역거부자도 할 수 있는 게임이 있다던데? https://t.co/cZ8P5SJpwC"
+	},
+	{
 		"created_at": "Mon Feb 25 06:41:04 +0000 2019",
 		"id": 1099922208766550000,
 		"id_str": "1099923200752795648",
