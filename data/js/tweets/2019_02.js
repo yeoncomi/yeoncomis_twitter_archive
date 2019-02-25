@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 09:34:02 +0000 2019",
+		"id": 1099603346766291000,
+		"id_str": "1100111147821199360",
+		"full_text": "역대급 군생활 https://t.co/rik3OKxW9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099603338067247100,
+					"id_str": "1099603338067247104",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D0KTaPdVAAA1J6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0KTaPdVAAA1J6k.jpg",
+					"url": "https://t.co/rik3OKxW9F",
+					"display_url": "pic.twitter.com/rik3OKxW9F",
+					"expanded_url": "https://twitter.com/_Linto_/status/1099603346766290944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 697,
+							"h": 1449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 327,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099603338067247100,
+					"id_str": "1099603338067247104",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D0KTaPdVAAA1J6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0KTaPdVAAA1J6k.jpg",
+					"url": "https://t.co/rik3OKxW9F",
+					"display_url": "pic.twitter.com/rik3OKxW9F",
+					"expanded_url": "https://twitter.com/_Linto_/status/1099603346766290944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 697,
+							"h": 1449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 327,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249099177,
+			"id_str": "249099177",
+			"name": "Linto",
+			"screen_name": "_Linto_",
+			"location": "Seoul Korea",
+			"description": "LOL, DOTA2 SecondHeaven// D&F 모험단닉 꿈의고리 에요. 은발 생머리 좋아해요. 야짤계 @H_Linto",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 181,
+			"listed_count": 4,
+			"created_at": "Tue Feb 08 10:57:00 +0000 2011",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55444,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098510377875193857/-dikNUR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098510377875193857/-dikNUR3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249099177/1495591409",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 899,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "역대급 군생활 https://t.co/rik3OKxW9F"
+	},
+	{
 		"created_at": "Mon Feb 25 15:41:11 +0000 2019",
 		"id": 1100058134318444500,
 		"id_str": "1100058134318444545",
