@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 06:41:04 +0000 2019",
+		"id": 1099922208766550000,
+		"id_str": "1099923200752795648",
+		"full_text": "[2019.2.23 – 3.31] #삼일절100주년 특별전시 '한국의 독립운동과 #캐나다인' 🇰🇷🇨🇦 로버트 그리어슨 (한국명 구례선), 그 첫번째 이야기를 소개드립니다. → https://t.co/Dur4Of0CXM https://t.co/74GW21oa01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼일절100주년",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "캐나다인",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dur4Of0CXM",
+					"expanded_url": "http://goo.gl/bwquyW",
+					"display_url": "goo.gl/bwquyW",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099922122674262000,
+					"id_str": "1099922122674262016",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D0O1V8qX0AADcqG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0O1V8qX0AADcqG.png",
+					"url": "https://t.co/74GW21oa01",
+					"display_url": "pic.twitter.com/74GW21oa01",
+					"expanded_url": "https://twitter.com/CanEmbROK/status/1099922208766550016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099922122674262000,
+					"id_str": "1099922122674262016",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D0O1V8qX0AADcqG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0O1V8qX0AADcqG.png",
+					"url": "https://t.co/74GW21oa01",
+					"display_url": "pic.twitter.com/74GW21oa01",
+					"expanded_url": "https://twitter.com/CanEmbROK/status/1099922208766550016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187109046,
+			"id_str": "187109046",
+			"name": "주한캐나다대사관",
+			"screen_name": "CanEmbROK",
+			"location": "대한민국",
+			"description": "주한캐나다대사관 - English : @CanEmbKorea - http://t.co/YcijzugMJP / Français : @AmbCanCoree - http://t.co/1WWjVLLuED",
+			"url": "http://t.co/F0Kv71TcER",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F0Kv71TcER",
+							"expanded_url": "http://www.korea.gc.ca",
+							"display_url": "korea.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/YcijzugMJP",
+							"expanded_url": "http://international.gc.ca/SocialMedia",
+							"display_url": "international.gc.ca/SocialMedia",
+							"indices": [
+								36,
+								58
+							]
+						},
+						{
+							"url": "http://t.co/1WWjVLLuED",
+							"expanded_url": "http://international.gc.ca/MediasSociaux",
+							"display_url": "international.gc.ca/MediasSociaux",
+							"indices": [
+								87,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5756,
+			"friends_count": 2101,
+			"listed_count": 72,
+			"created_at": "Sun Sep 05 08:23:41 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187109046/1515399045",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019.2.23 – 3.31] #삼일절100주년 특별전시 '한국의 독립운동과 #캐나다인' 🇰🇷🇨🇦 로버트 그리어슨 (한국명 구례선), 그 첫번째 이야기를 소개드립니다. → https://t.co/Dur4Of0CXM https://t.co/74GW21oa01"
+	},
+	{
+		"created_at": "Sun Feb 24 18:26:51 +0000 2019",
+		"id": 1099737436412727300,
+		"id_str": "1099921835817238528",
+		"full_text": "화웨이 폴더블폰 스크린 쭈글한거 사진 올리니까 웬 중국인이 붙어서 아니다 사용에는 지장 없다~~~~ 하는데 시발거 300만원 주고 프리미엄폰 사서 스크린 이따위면 퍽이나 사용에 지장 없어서 너무 만족스럽겠다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/1VdfVrANK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099737433837453300,
+					"id_str": "1099737433837453312",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MNXpIUwAAFd42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MNXpIUwAAFd42.jpg",
+					"url": "https://t.co/1VdfVrANK5",
+					"display_url": "pic.twitter.com/1VdfVrANK5",
+					"expanded_url": "https://twitter.com/dolMandu/status/1099737436412727296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099737433837453300,
+					"id_str": "1099737433837453312",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MNXpIUwAAFd42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MNXpIUwAAFd42.jpg",
+					"url": "https://t.co/1VdfVrANK5",
+					"display_url": "pic.twitter.com/1VdfVrANK5",
+					"expanded_url": "https://twitter.com/dolMandu/status/1099737436412727296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 325,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85529987,
+			"id_str": "85529987",
+			"name": "돌만두@ひろみたち。",
+			"screen_name": "dolMandu",
+			"location": "한국 / 韓国",
+			"description": "본진은 없어요. 죽었습니다.",
+			"url": "https://t.co/uJDVrWePPW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uJDVrWePPW",
+							"expanded_url": "http://lovekey.pe.kr",
+							"display_url": "lovekey.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1202,
+			"friends_count": 770,
+			"listed_count": 39,
+			"created_at": "Tue Oct 27 08:58:20 +0000 2009",
+			"favourites_count": 8003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 207337,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017236448435527682/75ntE3DE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017236448435527682/75ntE3DE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85529987/1462297573",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 354,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화웨이 폴더블폰 스크린 쭈글한거 사진 올리니까 웬 중국인이 붙어서 아니다 사용에는 지장 없다~~~~ 하는데 시발거 300만원 주고 프리미엄폰 사서 스크린 이따위면 퍽이나 사용에 지장 없어서 너무 만족스럽겠다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/1VdfVrANK5"
+	},
+	{
 		"created_at": "Mon Feb 25 02:20:55 +0000 2019",
 		"id": 1099856739090935800,
 		"id_str": "1099856739090935808",
