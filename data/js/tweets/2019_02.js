@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 16:40:16 +0000 2019",
+		"id": 1099710612056219600,
+		"id_str": "1100199084005122050",
+		"full_text": "I s̶t̶o̶l̶e̶  recreated the website from that old anti-piracy PSA:\n\nhttps://t.co/uoglwvB6lz https://t.co/IU7tEyzBxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uoglwvB6lz",
+					"expanded_url": "https://youwouldntsteala.website/",
+					"display_url": "youwouldntsteala.website",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099710277933768700,
+					"id_str": "1099710277933768711",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D0L0q9gWoAcKgwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0L0q9gWoAcKgwP.jpg",
+					"url": "https://t.co/IU7tEyzBxE",
+					"display_url": "pic.twitter.com/IU7tEyzBxE",
+					"expanded_url": "https://twitter.com/David3141593/status/1099710612056219650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1919,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099710277933768700,
+					"id_str": "1099710277933768711",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D0L0q9gWoAcKgwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0L0q9gWoAcKgwP.jpg",
+					"url": "https://t.co/IU7tEyzBxE",
+					"display_url": "pic.twitter.com/IU7tEyzBxE",
+					"expanded_url": "https://twitter.com/David3141593/status/1099710612056219650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1919,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1099710575934931000,
+					"id_str": "1099710575934930944",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D0L08TpXgAAfGMt.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0L08TpXgAAfGMt.png",
+					"url": "https://t.co/IU7tEyzBxE",
+					"display_url": "pic.twitter.com/IU7tEyzBxE",
+					"expanded_url": "https://twitter.com/David3141593/status/1099710612056219650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1252,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2242426383,
+			"id_str": "2242426383",
+			"name": "Dаvіd Вucһаnаn",
+			"screen_name": "David3141593",
+			"location": "Ring 0",
+			"description": "from pwn import *",
+			"url": "https://t.co/a2yOoGnh01",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a2yOoGnh01",
+							"expanded_url": "https://www.da.vidbuchanan.co.uk/",
+							"display_url": "da.vidbuchanan.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3783,
+			"friends_count": 409,
+			"listed_count": 49,
+			"created_at": "Tue Dec 24 23:44:16 +0000 2013",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824035276620238848/bdPI4Q1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824035276620238848/bdPI4Q1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2242426383/1466933481",
+			"profile_link_color": "2A80B6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I s̶t̶o̶l̶e̶  recreated the website from that old anti-piracy PSA:\n\nhttps://t.co/uoglwvB6lz https://t.co/IU7tEyzBxE"
+	},
+	{
 		"created_at": "Mon Feb 25 00:46:34 +0000 2019",
 		"id": 1099832996440420400,
 		"id_str": "1100180667860545536",
