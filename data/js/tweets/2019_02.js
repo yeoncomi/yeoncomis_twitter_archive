@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 19:10:19 +0000 2019",
+		"id": 1100473150205120500,
+		"id_str": "1100473150205120512",
+		"full_text": "@sope0528 아파서 누워있는중이에여",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sope0528",
+					"name": "$ope💵 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1100473058475700200,
+		"in_reply_to_status_id_str": "1100473058475700224",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "sope0528",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1005,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sope0528 아파서 누워있는중이에여"
+	},
+	{
+		"created_at": "Tue Feb 26 19:09:33 +0000 2019",
+		"id": 1100472956273123300,
+		"id_str": "1100472956273123328",
+		"full_text": "@sope0528 ㅎㅇㅎㅇ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sope0528",
+					"name": "$ope💵 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1100472904779587600,
+		"in_reply_to_status_id_str": "1100472904779587584",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "sope0528",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1005,
+			"listed_count": 6,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sope0528 ㅎㅇㅎㅇ"
+	},
+	{
+		"created_at": "Tue Feb 26 01:01:59 +0000 2019",
+		"id": 1100199260576931800,
+		"id_str": "1100472846088777728",
+		"full_text": "라쿤이랑 너구리랑 구분하는 법 알려줌 \n좀도둑새끼마냥 생겼으면 라쿤이고 \n중범죄 저지른 새끼마냥 생겼으면 너구리임 https://t.co/LhmVsC5ENW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100199159489953800,
+					"id_str": "1100199159489953793",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D0SxTnOVAAE6Ht4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0SxTnOVAAE6Ht4.png",
+					"url": "https://t.co/LhmVsC5ENW",
+					"display_url": "pic.twitter.com/LhmVsC5ENW",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1100199260576931841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100199159489953800,
+					"id_str": "1100199159489953793",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D0SxTnOVAAE6Ht4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0SxTnOVAAE6Ht4.png",
+					"url": "https://t.co/LhmVsC5ENW",
+					"display_url": "pic.twitter.com/LhmVsC5ENW",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1100199260576931841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1100199244084826100,
+					"id_str": "1100199244084826112",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D0SxYiXUUAAM1Vu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0SxYiXUUAAM1Vu.png",
+					"url": "https://t.co/LhmVsC5ENW",
+					"display_url": "pic.twitter.com/LhmVsC5ENW",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1100199260576931841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935120525222744000,
+			"id_str": "935120525222744064",
+			"name": "𝗋𝖾𝗇𝖼𝗁𝖺.🌙",
+			"screen_name": "SATAN_KOHAI",
+			"location": "@pipe_scottie",
+			"description": "얀데레도 얼굴 가려가면서 집착해 일단 넌 아냐 걱정마.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 513,
+			"listed_count": 52,
+			"created_at": "Mon Nov 27 12:18:01 +0000 2017",
+			"favourites_count": 17271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49389,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095010091843997697/0UKCZLRu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095010091843997697/0UKCZLRu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935120525222744064/1546773744",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9132,
+		"favorite_count": 3293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라쿤이랑 너구리랑 구분하는 법 알려줌 \n좀도둑새끼마냥 생겼으면 라쿤이고 \n중범죄 저지른 새끼마냥 생겼으면 너구리임 https://t.co/LhmVsC5ENW"
+	},
+	{
 		"created_at": "Tue Feb 26 04:53:04 +0000 2019",
 		"id": 1100257416183193600,
 		"id_str": "1100258547391057920",
