@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 01:48:04 +0000 2019",
+		"id": 1100210858611753000,
+		"id_str": "1100214450567532545",
+		"full_text": "조선이 또 무식한 소리를 했는데, 종전선언에 한국이 빠져도 되는 이유는 정전협정 당사국이 아니기 때문이다.\n\n정전협정은 북한-UN군간에 이루어졌는데 (중국은 지원군이라는 애매한 상태로 참여) 이승만은 그와중에 북진통일시켜달라고 드러누웠고 UN군은 쿨하게 승만리를 협정에서 배제함.. https://t.co/dEcoo9Bhws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100209505730625500,
+					"id_str": "1100209505730625536",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D0S6t1-VAAAePJ7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0S6t1-VAAAePJ7.png",
+					"url": "https://t.co/dEcoo9Bhws",
+					"display_url": "pic.twitter.com/dEcoo9Bhws",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1100210858611752960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100209505730625500,
+					"id_str": "1100209505730625536",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D0S6t1-VAAAePJ7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0S6t1-VAAAePJ7.png",
+					"url": "https://t.co/dEcoo9Bhws",
+					"display_url": "pic.twitter.com/dEcoo9Bhws",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1100210858611752960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1100209791022989300,
+					"id_str": "1100209791022989312",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D0S6-cxVAAAjc9i.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0S6-cxVAAAjc9i.png",
+					"url": "https://t.co/dEcoo9Bhws",
+					"display_url": "pic.twitter.com/dEcoo9Bhws",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1100210858611752960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 728,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1339,
+			"friends_count": 1621,
+			"listed_count": 12,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29293,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조선이 또 무식한 소리를 했는데, 종전선언에 한국이 빠져도 되는 이유는 정전협정 당사국이 아니기 때문이다.\n\n정전협정은 북한-UN군간에 이루어졌는데 (중국은 지원군이라는 애매한 상태로 참여) 이승만은 그와중에 북진통일시켜달라고 드러누웠고 UN군은 쿨하게 승만리를 협정에서 배제함.. https://t.co/dEcoo9Bhws"
+	},
+	{
 		"created_at": "Sun Feb 24 16:40:16 +0000 2019",
 		"id": 1099710612056219600,
 		"id_str": "1100199084005122050",
