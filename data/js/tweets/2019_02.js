@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 00:46:34 +0000 2019",
+		"id": 1099832996440420400,
+		"id_str": "1100180667860545536",
+		"full_text": "집이 열쇠가게라 아는데요. 싼 도어락을 불로 지지면 에러가 나서 열리는 게 아니라 대부분의 디지털 도어락에는 화재상황을 대비해 주변 온도가 일정 온도 이상으로 올라가면 열리는 기능이 있습니다. 그러니 도어락 외에도 다른 안전장치들을 추가로 설치하시는 게 좋아요. https://t.co/NvcoygqAU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NvcoygqAU6",
+					"expanded_url": "https://twitter.com/gyepi_925/status/1098816481175826432",
+					"display_url": "twitter.com/gyepi_925/stat…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2852023525,
+			"id_str": "2852023525",
+			"name": "솔야",
+			"screen_name": "Solya_XD",
+			"location": "",
+			"description": "인장. @Korshun__ 님/  헤더. @gimchi124 님.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 68,
+			"listed_count": 1,
+			"created_at": "Sat Oct 11 13:26:09 +0000 2014",
+			"favourites_count": 999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25592,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/567729267224489985/cinZ4_cK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/567729267224489985/cinZ4_cK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2852023525/1424234397",
+			"profile_link_color": "F4A460",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098816481175826400,
+		"quoted_status_id_str": "1098816481175826432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NvcoygqAU6",
+			"expanded": "https://twitter.com/gyepi_925/status/1098816481175826432",
+			"display": "twitter.com/gyepi_925/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 05:27:18 +0000 2019",
+			"id": 1098816481175826400,
+			"id_str": "1098816481175826432",
+			"full_text": "와씨 존나 무섭다... 자취하는 사람들 다들 조심 https://t.co/SHwRWHAMWs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1098816104481210400,
+						"id_str": "1098816104481210368",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_HbN0UwAANQv5.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_HbN0UwAANQv5.png",
+						"url": "https://t.co/SHwRWHAMWs",
+						"display_url": "pic.twitter.com/SHwRWHAMWs",
+						"expanded_url": "https://twitter.com/gyepi_925/status/1098816481175826432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098816104481210400,
+						"id_str": "1098816104481210368",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_HbN0UwAANQv5.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_HbN0UwAANQv5.png",
+						"url": "https://t.co/SHwRWHAMWs",
+						"display_url": "pic.twitter.com/SHwRWHAMWs",
+						"expanded_url": "https://twitter.com/gyepi_925/status/1098816481175826432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1098816221108039700,
+						"id_str": "1098816221108039680",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_HiASU8AA6Fcn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_HiASU8AA6Fcn.jpg",
+						"url": "https://t.co/SHwRWHAMWs",
+						"display_url": "pic.twitter.com/SHwRWHAMWs",
+						"expanded_url": "https://twitter.com/gyepi_925/status/1098816481175826432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 986,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 986,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1098816344131133400,
+						"id_str": "1098816344131133440",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_HpKlUYAA0vQB.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_HpKlUYAA0vQB.png",
+						"url": "https://t.co/SHwRWHAMWs",
+						"display_url": "pic.twitter.com/SHwRWHAMWs",
+						"expanded_url": "https://twitter.com/gyepi_925/status/1098816481175826432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 917635265199448000,
+				"id_str": "917635265199448064",
+				"name": "곞ㅣ",
+				"screen_name": "gyepi_925",
+				"location": "",
+				"description": "롯데자이언츠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 253,
+				"friends_count": 138,
+				"listed_count": 1,
+				"created_at": "Tue Oct 10 06:17:50 +0000 2017",
+				"favourites_count": 1414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11995,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093795449780092929/z8K2eEvT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093795449780092929/z8K2eEvT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/917635265199448064/1539917869",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35772,
+			"favorite_count": 5745,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14141,
+		"favorite_count": 2085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집이 열쇠가게라 아는데요. 싼 도어락을 불로 지지면 에러가 나서 열리는 게 아니라 대부분의 디지털 도어락에는 화재상황을 대비해 주변 온도가 일정 온도 이상으로 올라가면 열리는 기능이 있습니다. 그러니 도어락 외에도 다른 안전장치들을 추가로 설치하시는 게 좋아요. https://t.co/NvcoygqAU6"
+	},
+	{
 		"created_at": "Sun Feb 24 09:34:02 +0000 2019",
 		"id": 1099603346766291000,
 		"id_str": "1100111147821199360",
