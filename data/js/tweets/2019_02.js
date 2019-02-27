@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 08:32:36 +0000 2019",
+		"id": 1100675050212974600,
+		"id_str": "1100836114800103424",
+		"full_text": "고객의 찡찡거리는 소리는 참아도 영국지하철 비교는 참을수없는 코레일 https://t.co/MDbga0xmI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100674939814764500,
+					"id_str": "1100674939814764544",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZiBrDVYAAG5wC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZiBrDVYAAG5wC.jpg",
+					"url": "https://t.co/MDbga0xmI4",
+					"display_url": "pic.twitter.com/MDbga0xmI4",
+					"expanded_url": "https://twitter.com/pydhr/status/1100675050212974592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100674939814764500,
+					"id_str": "1100674939814764544",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZiBrDVYAAG5wC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZiBrDVYAAG5wC.jpg",
+					"url": "https://t.co/MDbga0xmI4",
+					"display_url": "pic.twitter.com/MDbga0xmI4",
+					"expanded_url": "https://twitter.com/pydhr/status/1100675050212974592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100674989139714000,
+					"id_str": "1100674989139714048",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZiEizUYAA-5Mc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZiEizUYAA-5Mc.jpg",
+					"url": "https://t.co/MDbga0xmI4",
+					"display_url": "pic.twitter.com/MDbga0xmI4",
+					"expanded_url": "https://twitter.com/pydhr/status/1100675050212974592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 833656864382427100,
+			"id_str": "833656864382427137",
+			"name": "멍멍이시나타스",
+			"screen_name": "pydhr",
+			"location": "",
+			"description": "곧추코(곧추워죽어도코트입는사람들) 차기회장\n은행전자시스템혐오세력",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Mon Feb 20 12:37:39 +0000 2017",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1083,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093419358003462145/W1nnx_Kz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093419358003462145/W1nnx_Kz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/833656864382427137/1546865423",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6854,
+		"favorite_count": 1270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고객의 찡찡거리는 소리는 참아도 영국지하철 비교는 참을수없는 코레일 https://t.co/MDbga0xmI4"
+	},
+	{
+		"created_at": "Wed Feb 27 10:25:00 +0000 2019",
+		"id": 1100703337085837300,
+		"id_str": "1100824990864236544",
+		"full_text": "중국이 제안한 한반도 통일 방식 https://t.co/IOo2c3pWVu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100663100884148200,
+					"id_str": "1100663100884148224",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZXQjmUYAAeMkj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZXQjmUYAAeMkj.png",
+					"url": "https://t.co/IOo2c3pWVu",
+					"display_url": "pic.twitter.com/IOo2c3pWVu",
+					"expanded_url": "https://twitter.com/go1rani/status/1100703337085837312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100663100884148200,
+					"id_str": "1100663100884148224",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZXQjmUYAAeMkj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZXQjmUYAAeMkj.png",
+					"url": "https://t.co/IOo2c3pWVu",
+					"display_url": "pic.twitter.com/IOo2c3pWVu",
+					"expanded_url": "https://twitter.com/go1rani/status/1100703337085837312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8737,
+			"friends_count": 5,
+			"listed_count": 17,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 521,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2000,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국이 제안한 한반도 통일 방식 https://t.co/IOo2c3pWVu"
+	},
+	{
 		"created_at": "Wed Feb 27 16:26:08 +0000 2019",
 		"id": 1100794220774735900,
 		"id_str": "1100794220774735872",
