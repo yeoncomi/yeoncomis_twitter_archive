@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 02:26:55 +0000 2019",
+		"id": 1100583025950113800,
+		"id_str": "1100586027037544449",
+		"full_text": "오늘 왜 https://t.co/w76ez3E33t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100583016391307300,
+					"id_str": "1100583016391307264",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YObBnU8AAMxHP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YObBnU8AAMxHP.jpg",
+					"url": "https://t.co/w76ez3E33t",
+					"display_url": "pic.twitter.com/w76ez3E33t",
+					"expanded_url": "https://twitter.com/parkyino/status/1100583025950113792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100583016391307300,
+					"id_str": "1100583016391307264",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YObBnU8AAMxHP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YObBnU8AAMxHP.jpg",
+					"url": "https://t.co/w76ez3E33t",
+					"display_url": "pic.twitter.com/w76ez3E33t",
+					"expanded_url": "https://twitter.com/parkyino/status/1100583025950113792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801044844403564500,
+			"id_str": "801044844403564544",
+			"name": "북방족제비과 朴巸瑙",
+			"screen_name": "parkyino",
+			"location": "경남 어드메",
+			"description": "아름다울 이, 마노 노 /Schrödinger's Stoat /Non-binary Transgender/F64.0/HRTing(💊:17.9.18~18.4.15,💉:18.4.16 ~)/FUB FREE/Off the Record : @ura_yino",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 208,
+			"listed_count": 2,
+			"created_at": "Tue Nov 22 12:49:08 +0000 2016",
+			"favourites_count": 5355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69607,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953461538257387520/fR9g1h5C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953461538257387520/fR9g1h5C_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 왜 https://t.co/w76ez3E33t"
+	},
+	{
 		"created_at": "Tue Feb 26 23:30:25 +0000 2019",
 		"id": 1100538606848888800,
 		"id_str": "1100538606848888832",
