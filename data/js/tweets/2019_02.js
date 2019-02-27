@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 06:36:23 +0000 2019",
+		"id": 1100645805432553500,
+		"id_str": "1100758015538475008",
+		"full_text": "게임물관리위원회 특)\n\n건물 더 올림 https://t.co/jw6IfEiflT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100645755570643000,
+					"id_str": "1100645755570642944",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZHe7RUYAAHhnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZHe7RUYAAHhnH.jpg",
+					"url": "https://t.co/jw6IfEiflT",
+					"display_url": "pic.twitter.com/jw6IfEiflT",
+					"expanded_url": "https://twitter.com/pthcross/status/1100645805432553474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100645755570643000,
+					"id_str": "1100645755570642944",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZHe7RUYAAHhnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZHe7RUYAAHhnH.jpg",
+					"url": "https://t.co/jw6IfEiflT",
+					"display_url": "pic.twitter.com/jw6IfEiflT",
+					"expanded_url": "https://twitter.com/pthcross/status/1100645805432553474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100645760968753200,
+					"id_str": "1100645760968753153",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZHfPYVAAE7tqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZHfPYVAAE7tqs.jpg",
+					"url": "https://t.co/jw6IfEiflT",
+					"display_url": "pic.twitter.com/jw6IfEiflT",
+					"expanded_url": "https://twitter.com/pthcross/status/1100645805432553474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 557,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 557,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 557,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161239484,
+			"id_str": "161239484",
+			"name": "곰쫑남@VRC",
+			"screen_name": "pthcross",
+			"location": "회사 사무실",
+			"description": "게임 만드는 핫산 / VRC : JJONGNAM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1436,
+			"friends_count": 620,
+			"listed_count": 63,
+			"created_at": "Wed Jun 30 10:00:46 +0000 2010",
+			"favourites_count": 307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 228309,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095000731185082368/Vna9k6S5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095000731185082368/Vna9k6S5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161239484/1551093423",
+			"profile_link_color": "63ECE0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임물관리위원회 특)\n\n건물 더 올림 https://t.co/jw6IfEiflT"
+	},
+	{
+		"created_at": "Wed Feb 27 04:26:40 +0000 2019",
+		"id": 1100613159113523200,
+		"id_str": "1100756659721228288",
+		"full_text": "그래도 모든 일본인이 똑같은 건 아니고-\n이렇게 본질을 제대로 간파하고 있는 사람도 있다. https://t.co/38dJHWqQ2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100613134669078500,
+					"id_str": "1100613134669078528",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Yp0I8UYAAKgT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Yp0I8UYAAKgT6.jpg",
+					"url": "https://t.co/38dJHWqQ2Z",
+					"display_url": "pic.twitter.com/38dJHWqQ2Z",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100613159113523200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100613134669078500,
+					"id_str": "1100613134669078528",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Yp0I8UYAAKgT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Yp0I8UYAAKgT6.jpg",
+					"url": "https://t.co/38dJHWqQ2Z",
+					"display_url": "pic.twitter.com/38dJHWqQ2Z",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100613159113523200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1100611274205884400,
+		"in_reply_to_status_id_str": "1100611274205884417",
+		"in_reply_to_user_id": 139679652,
+		"in_reply_to_user_id_str": "139679652",
+		"in_reply_to_screen_name": "HANBINIZM",
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/vjNo8DdrHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjNo8DdrHI",
+							"expanded_url": "http://hanbinism.egloos.com/m/",
+							"display_url": "hanbinism.egloos.com/m/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1567,
+			"friends_count": 377,
+			"listed_count": 31,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 10394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112032,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래도 모든 일본인이 똑같은 건 아니고-\n이렇게 본질을 제대로 간파하고 있는 사람도 있다. https://t.co/38dJHWqQ2Z"
+	},
+	{
+		"created_at": "Wed Feb 27 04:19:10 +0000 2019",
+		"id": 1100611274205884400,
+		"id_str": "1100756652314095616",
+		"full_text": "올해 100주년을 맞이한 삼일절 때문에 한국에 있는 일본인들에게 주의를 환기한 일본 외무성 소식. 그리고 그 뉴스에 달린 리플 중 일부...\n\n환장한다. 🤦‍♂️ https://t.co/tklLPmhmk5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100611258867306500,
+					"id_str": "1100611258867306497",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YoG9CU0AEQ1gc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YoG9CU0AEQ1gc.jpg",
+					"url": "https://t.co/tklLPmhmk5",
+					"display_url": "pic.twitter.com/tklLPmhmk5",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100611274205884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1099,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1876,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100611258867306500,
+					"id_str": "1100611258867306497",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YoG9CU0AEQ1gc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YoG9CU0AEQ1gc.jpg",
+					"url": "https://t.co/tklLPmhmk5",
+					"display_url": "pic.twitter.com/tklLPmhmk5",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100611274205884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1099,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1876,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100611258863087600,
+					"id_str": "1100611258863087616",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YoG9BUcAAG2JE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YoG9BUcAAG2JE.jpg",
+					"url": "https://t.co/tklLPmhmk5",
+					"display_url": "pic.twitter.com/tklLPmhmk5",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100611274205884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100611258863112200,
+					"id_str": "1100611258863112192",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D0YoG9BU0AAVIZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0YoG9BU0AAVIZv.jpg",
+					"url": "https://t.co/tklLPmhmk5",
+					"display_url": "pic.twitter.com/tklLPmhmk5",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1100611274205884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/vjNo8DdrHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjNo8DdrHI",
+							"expanded_url": "http://hanbinism.egloos.com/m/",
+							"display_url": "hanbinism.egloos.com/m/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1567,
+			"friends_count": 377,
+			"listed_count": 31,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 10394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112032,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 100주년을 맞이한 삼일절 때문에 한국에 있는 일본인들에게 주의를 환기한 일본 외무성 소식. 그리고 그 뉴스에 달린 리플 중 일부...\n\n환장한다. 🤦‍♂️ https://t.co/tklLPmhmk5"
+	},
+	{
+		"created_at": "Wed Feb 27 13:40:11 +0000 2019",
+		"id": 1100752457787822100,
+		"id_str": "1100756356548546565",
+		"full_text": "토쿄신문 기자: “국민의 알 권리에 답하기 위해 (기자회견이) 있다고 생각합니다만, 장관은 지금의 발언으로 비추어 보아 이 회견을 대체 무엇을 위한 자리라고 생각하시는 것인지요.”\n\n스가 관방장관: “당신한테 대답할 필요는 없습니다!”😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😨😨😨😨 https://t.co/eMjZCRhEVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eMjZCRhEVa",
+					"expanded_url": "https://twitter.com/article9jp/status/1100525744520720386",
+					"display_url": "twitter.com/article9jp/sta…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404111164,
+			"id_str": "404111164",
+			"name": "☂️시무シムshimu🎗🏳️‍🌈",
+			"screen_name": "zenzen_wakannai",
+			"location": "Cyber Seoul",
+			"description": "#RefugeesWelcome #난민환영 #ANTIFA #TransRightsAreHumanRights #WithYou 각종 음악 듣는 놈. 애국은 인간들끼리 많이 하쇼. ロックとかパンク野郎。豚に国も法律もねえよ language: 조선말 日本語 English",
+			"url": "https://t.co/a9NN5ZMvKj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a9NN5ZMvKj",
+							"expanded_url": "http://trappedinyourfulstop.tistory.com",
+							"display_url": "trappedinyourfulstop.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1216,
+			"friends_count": 686,
+			"listed_count": 12,
+			"created_at": "Thu Nov 03 13:21:37 +0000 2011",
+			"favourites_count": 3416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147990,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10100F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038280965880131584/cg6t5oNz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038280965880131584/cg6t5oNz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404111164/1535879553",
+			"profile_link_color": "2E8B57",
+			"profile_sidebar_border_color": "F4F4F4",
+			"profile_sidebar_fill_color": "23221F",
+			"profile_text_color": "F2F2F2",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100525744520720400,
+		"quoted_status_id_str": "1100525744520720386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eMjZCRhEVa",
+			"expanded": "https://twitter.com/article9jp/status/1100525744520720386",
+			"display": "twitter.com/article9jp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 22:39:18 +0000 2019",
+			"id": 1100525744520720400,
+			"id_str": "1100525744520720386",
+			"full_text": "スガ「あなたに答える必要はありません！」　2/26午後の記者会見\n\n東京新聞記者「国民の知る権利に応えるために、あるものと、思いますが\n長官はですね、今のご発言を踏まえても\nこの会見を一体、何のための場だと、思ってらっしゃるのでしょうか」\nスガ「あなたに答える必要はありません！」 https://t.co/49bbG8yrwP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1100524968406908900,
+						"id_str": "1100524968406908934",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100524968406908934/pu/img/6yiTf3HGQMtkxwFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100524968406908934/pu/img/6yiTf3HGQMtkxwFU.jpg",
+						"url": "https://t.co/49bbG8yrwP",
+						"display_url": "pic.twitter.com/49bbG8yrwP",
+						"expanded_url": "https://twitter.com/article9jp/status/1100525744520720386/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100524968406908900,
+						"id_str": "1100524968406908934",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100524968406908934/pu/img/6yiTf3HGQMtkxwFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100524968406908934/pu/img/6yiTf3HGQMtkxwFU.jpg",
+						"url": "https://t.co/49bbG8yrwP",
+						"display_url": "pic.twitter.com/49bbG8yrwP",
+						"expanded_url": "https://twitter.com/article9jp/status/1100525744520720386/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14414,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1100524968406908934/pu/vid/640x360/iai7Zw8Z7Z5hy0KM.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1100524968406908934/pu/pl/c634-Jg6gXFIFDf2.m3u8?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1100524968406908934/pu/vid/320x180/rkspQ6LFZOTHwxpS.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1100523251824943100,
+			"in_reply_to_status_id_str": "1100523251824943109",
+			"in_reply_to_user_id": 3840487994,
+			"in_reply_to_user_id_str": "3840487994",
+			"in_reply_to_screen_name": "article9jp",
+			"user": {
+				"id": 3840487994,
+				"id_str": "3840487994",
+				"name": "本日の国会",
+				"screen_name": "article9jp",
+				"location": "japan",
+				"description": "🍊👭👬■2/28(木)予算委　採決したがり■「統計不正」も数の力で押し切る、まいどの暴挙 ■ 👭👬 Casメンテ３/６（水）10－12am👭👬 🍊",
+				"url": "https://t.co/LUZi1ePI41",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LUZi1ePI41",
+								"expanded_url": "https://www.youtube.com/c/article9jp",
+								"display_url": "youtube.com/c/article9jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3171,
+				"friends_count": 0,
+				"listed_count": 60,
+				"created_at": "Fri Oct 09 21:32:56 +0000 2015",
+				"favourites_count": 72,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6757,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054323387613343744/KrqdUi36_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054323387613343744/KrqdUi36_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3840487994/1546129629",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 230,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 28,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "토쿄신문 기자: “국민의 알 권리에 답하기 위해 (기자회견이) 있다고 생각합니다만, 장관은 지금의 발언으로 비추어 보아 이 회견을 대체 무엇을 위한 자리라고 생각하시는 것인지요.”\n\n스가 관방장관: “당신한테 대답할 필요는 없습니다!”😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😧😨😨😨😨 https://t.co/eMjZCRhEVa"
+	},
+	{
 		"created_at": "Wed Feb 27 02:26:55 +0000 2019",
 		"id": 1100583025950113800,
 		"id_str": "1100586027037544449",
