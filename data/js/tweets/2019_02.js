@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 22:38:33 +0000 2019",
+		"id": 1100887942774419500,
+		"id_str": "1100989925611069440",
+		"full_text": "홍탁집 근황ㄷㄷㄷ https://t.co/PRxobj2Cxi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100887927876345900,
+					"id_str": "1100887927876345856",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cjvNaV4AAtEpw.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0cjvNaV4AAtEpw.png",
+					"url": "https://t.co/PRxobj2Cxi",
+					"display_url": "pic.twitter.com/PRxobj2Cxi",
+					"expanded_url": "https://twitter.com/laziali8/status/1100887942774419456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100887927876345900,
+					"id_str": "1100887927876345856",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cjvNaV4AAtEpw.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0cjvNaV4AAtEpw.png",
+					"url": "https://t.co/PRxobj2Cxi",
+					"display_url": "pic.twitter.com/PRxobj2Cxi",
+					"expanded_url": "https://twitter.com/laziali8/status/1100887942774419456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 433,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100887931516989400,
+					"id_str": "1100887931516989440",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cjva-VsAABXuE.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0cjva-VsAABXuE.png",
+					"url": "https://t.co/PRxobj2Cxi",
+					"display_url": "pic.twitter.com/PRxobj2Cxi",
+					"expanded_url": "https://twitter.com/laziali8/status/1100887942774419456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 379,
+							"h": 580,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 379,
+							"h": 580,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1100887934712995800,
+					"id_str": "1100887934712995840",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cjvm4U4AAKuBC.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0cjvm4U4AAKuBC.png",
+					"url": "https://t.co/PRxobj2Cxi",
+					"display_url": "pic.twitter.com/PRxobj2Cxi",
+					"expanded_url": "https://twitter.com/laziali8/status/1100887942774419456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 379,
+							"h": 760,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 339,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1100887937137369100,
+					"id_str": "1100887937137369093",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cjvv6V4AURhXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0cjvv6V4AURhXB.jpg",
+					"url": "https://t.co/PRxobj2Cxi",
+					"display_url": "pic.twitter.com/PRxobj2Cxi",
+					"expanded_url": "https://twitter.com/laziali8/status/1100887942774419456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 413,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 330,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 413,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95850548,
+			"id_str": "95850548",
+			"name": "노잼 잉여",
+			"screen_name": "laziali8",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4819,
+			"friends_count": 2891,
+			"listed_count": 62,
+			"created_at": "Thu Dec 10 07:39:08 +0000 2009",
+			"favourites_count": 3149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36615,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583237655829159936/JIZ9eahH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583237655829159936/JIZ9eahH_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2023,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍탁집 근황ㄷㄷㄷ https://t.co/PRxobj2Cxi"
+	},
+	{
 		"created_at": "Thu Feb 28 02:23:26 +0000 2019",
 		"id": 1100944537072001000,
 		"id_str": "1100944537072001024",
