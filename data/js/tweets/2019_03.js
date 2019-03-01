@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Feb 27 12:43:05 +0000 2019",
+		"id": 1100738085967429600,
+		"id_str": "1101318777625440256",
+		"full_text": "아 개소름 https://t.co/VwtuApwsaK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100738078304481300,
+					"id_str": "1100738078304481281",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D0abc0QVsAEGQEs.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0abc0QVsAEGQEs.png",
+					"url": "https://t.co/VwtuApwsaK",
+					"display_url": "pic.twitter.com/VwtuApwsaK",
+					"expanded_url": "https://twitter.com/nayeun0527/status/1100738085967429633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 89,
+							"h": 89,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100738078304481300,
+					"id_str": "1100738078304481281",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D0abc0QVsAEGQEs.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0abc0QVsAEGQEs.png",
+					"url": "https://t.co/VwtuApwsaK",
+					"display_url": "pic.twitter.com/VwtuApwsaK",
+					"expanded_url": "https://twitter.com/nayeun0527/status/1100738085967429633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 89,
+							"h": 89,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 527,
+							"h": 89,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 802032321482223600,
+			"id_str": "802032321482223616",
+			"name": "💋나연",
+			"screen_name": "nayeun0527",
+			"location": "헤더,인장 : 히안💙",
+			"description": "20↓|커뮤|행앗|1차|자캐,관캐,덕캐,앤캐앓이있음|이별은 블언블|언팔은 오류|춘삼❤유원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 179,
+			"listed_count": 0,
+			"created_at": "Fri Nov 25 06:13:01 +0000 2016",
+			"favourites_count": 3140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3226,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094589067189051392/_rOKStCy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094589067189051392/_rOKStCy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/802032321482223616/1550129341",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12064,
+		"favorite_count": 1633,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 개소름 https://t.co/VwtuApwsaK"
+	},
+	{
 		"created_at": "Thu Feb 28 01:01:48 +0000 2019",
 		"id": 1100923993748471800,
 		"id_str": "1101289879697154048",
