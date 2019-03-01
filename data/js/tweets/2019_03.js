@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Nov 13 21:33:33 +0000 2018",
+		"id": 1062458470698377200,
+		"id_str": "1101517106791608320",
+		"full_text": "https://t.co/873iyCg7Iu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062458430042996700,
+					"id_str": "1062458430042996736",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6cUB9VAAAacei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6cUB9VAAAacei.jpg",
+					"url": "https://t.co/873iyCg7Iu",
+					"display_url": "pic.twitter.com/873iyCg7Iu",
+					"expanded_url": "https://twitter.com/NewGenHmmm/status/1062458470698377216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062458430042996700,
+					"id_str": "1062458430042996736",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6cUB9VAAAacei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6cUB9VAAAacei.jpg",
+					"url": "https://t.co/873iyCg7Iu",
+					"display_url": "pic.twitter.com/873iyCg7Iu",
+					"expanded_url": "https://twitter.com/NewGenHmmm/status/1062458470698377216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062064002556092400,
+			"id_str": "1062064002556092416",
+			"name": "신세대 의문",
+			"screen_name": "NewGenHmmm",
+			"location": "식물이 태양을 먹나요",
+			"description": "신세대의 멍청함을 한국어로 느껴보세요👌😂💯",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22303,
+			"friends_count": 1,
+			"listed_count": 70,
+			"created_at": "Mon Nov 12 19:26:05 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 218,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062065341671460865/fRwzuZJH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062065341671460865/fRwzuZJH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062064002556092416/1543802938",
+			"profile_link_color": "FF90FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14194,
+		"favorite_count": 3694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/873iyCg7Iu"
+	},
+	{
 		"created_at": "Wed Feb 27 12:43:05 +0000 2019",
 		"id": 1100738085967429600,
 		"id_str": "1101318777625440256",
