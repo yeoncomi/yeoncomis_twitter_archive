@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 04:36:18 +0000 2019",
+		"id": 1101702748611858400,
+		"id_str": "1101702748611858432",
+		"full_text": "개인적인 의견 이지만 마두로 정부는 국민이 살기 불가능하게 만들고 있고(국경/항만 폐쇄) 사람이살 곳이 아니게 되어버렸다. 대체로 진보계 정당들이 \"베네수엘라 국민의 성택을 존중하여야한다\" 라고 말을 하며, 이는 캐나다의 NDP의 주장과도 비슷하다. https://t.co/NM31sEqgEn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NM31sEqgEn",
+					"expanded_url": "https://twitter.com/A330_1222K/status/1101688811149352961",
+					"display_url": "twitter.com/A330_1222K/sta…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1008,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31997,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101688811149353000,
+		"quoted_status_id_str": "1101688811149352961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NM31sEqgEn",
+			"expanded": "https://twitter.com/A330_1222K/status/1101688811149352961",
+			"display": "twitter.com/A330_1222K/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 02 03:40:55 +0000 2019",
+			"id": 1101688811149353000,
+			"id_str": "1101688811149352961",
+			"full_text": "한국 외교부가 '자칭' 베네수엘라 대통령인 후안 과이도를 대통령으로 인정한 것에 대한 '정의당 국제연대 당원모임'의 논평 https://t.co/dLtXnt16UK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101688804631470100,
+						"id_str": "1101688804631470080",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D0n8IX0VYAAqjR6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0n8IX0VYAAqjR6.jpg",
+						"url": "https://t.co/dLtXnt16UK",
+						"display_url": "pic.twitter.com/dLtXnt16UK",
+						"expanded_url": "https://twitter.com/A330_1222K/status/1101688811149352961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 882,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1689,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101688804631470100,
+						"id_str": "1101688804631470080",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D0n8IX0VYAAqjR6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0n8IX0VYAAqjR6.jpg",
+						"url": "https://t.co/dLtXnt16UK",
+						"display_url": "pic.twitter.com/dLtXnt16UK",
+						"expanded_url": "https://twitter.com/A330_1222K/status/1101688811149352961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 882,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1689,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1101688804610437100,
+						"id_str": "1101688804610437121",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D0n8IXvUcAEjUs6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0n8IXvUcAEjUs6.jpg",
+						"url": "https://t.co/dLtXnt16UK",
+						"display_url": "pic.twitter.com/dLtXnt16UK",
+						"expanded_url": "https://twitter.com/A330_1222K/status/1101688811149352961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 710,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1212,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1101688804618887200,
+						"id_str": "1101688804618887168",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/D0n8IXxVYAACQ6J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0n8IXxVYAACQ6J.jpg",
+						"url": "https://t.co/dLtXnt16UK",
+						"display_url": "pic.twitter.com/dLtXnt16UK",
+						"expanded_url": "https://twitter.com/A330_1222K/status/1101688811149352961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1241,
+								"h": 545,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 299,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 527,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350972620,
+				"id_str": "350972620",
+				"name": "A350형 목(성)돼(지)",
+				"screen_name": "A330_1222K",
+				"location": "A350",
+				"description": "갈리프레이에서 온 퀴어 돼지입니다. 정의당, nct, the boyz, exo, b1a4, 재민, 활, 형섭, 백현, 제노, 학년, 마크, 선우, 해찬, 큐, 박보검, 산들, 의웅, 사슴덕후, 청소년 보호법 폐지",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 824,
+				"friends_count": 1301,
+				"listed_count": 7,
+				"created_at": "Mon Aug 08 16:04:38 +0000 2011",
+				"favourites_count": 1909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 111116,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096395739444310017/I84Iigog_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096395739444310017/I84Iigog_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350972620/1408432417",
+				"profile_link_color": "F50E35",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인적인 의견 이지만 마두로 정부는 국민이 살기 불가능하게 만들고 있고(국경/항만 폐쇄) 사람이살 곳이 아니게 되어버렸다. 대체로 진보계 정당들이 \"베네수엘라 국민의 성택을 존중하여야한다\" 라고 말을 하며, 이는 캐나다의 NDP의 주장과도 비슷하다. https://t.co/NM31sEqgEn"
+	},
+	{
 		"created_at": "Sat Mar 02 02:27:03 +0000 2019",
 		"id": 1101670223113945100,
 		"id_str": "1101670223113945089",
