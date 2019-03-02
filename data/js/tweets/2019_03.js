@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 15:04:55 +0000 2019",
+		"id": 1101860944387272700,
+		"id_str": "1101860944387272705",
+		"full_text": "레딧들어갈려고 r 치다가 ㄱ 치니까 이상한 직캠나옴 ㅅㅂ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1008,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "레딧들어갈려고 r 치다가 ㄱ 치니까 이상한 직캠나옴 ㅅㅂ"
+	},
+	{
+		"created_at": "Sat Mar 02 15:03:40 +0000 2019",
+		"id": 1101857386090786800,
+		"id_str": "1101860630238158849",
+		"full_text": "@cocoLatte_S2 https://t.co/PbERxTU3jT",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cocoLatte_S2",
+					"name": "현솜맛 서하담",
+					"id": 1028383620719730700,
+					"id_str": "1028383620719730688",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101857364108468200,
+					"id_str": "1101857364108468226",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0qVb0zVYAItVc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0qVb0zVYAItVc1.jpg",
+					"url": "https://t.co/PbERxTU3jT",
+					"display_url": "pic.twitter.com/PbERxTU3jT",
+					"expanded_url": "https://twitter.com/Cumori_Sea/status/1101857386090786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101857364108468200,
+					"id_str": "1101857364108468226",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0qVb0zVYAItVc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0qVb0zVYAItVc1.jpg",
+					"url": "https://t.co/PbERxTU3jT",
+					"display_url": "pic.twitter.com/PbERxTU3jT",
+					"expanded_url": "https://twitter.com/Cumori_Sea/status/1101857386090786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101857368470511600,
+					"id_str": "1101857368470511617",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0qVcFDU4AEJHmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0qVcFDU4AEJHmC.jpg",
+					"url": "https://t.co/PbERxTU3jT",
+					"display_url": "pic.twitter.com/PbERxTU3jT",
+					"expanded_url": "https://twitter.com/Cumori_Sea/status/1101857386090786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 558,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101857373537284100,
+					"id_str": "1101857373537284096",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0qVcX7VsAAUAhE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0qVcX7VsAAUAhE.jpg",
+					"url": "https://t.co/PbERxTU3jT",
+					"display_url": "pic.twitter.com/PbERxTU3jT",
+					"expanded_url": "https://twitter.com/Cumori_Sea/status/1101857386090786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101857383620341800,
+					"id_str": "1101857383620341760",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0qVc9fU8AAuZqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0qVc9fU8AAuZqn.jpg",
+					"url": "https://t.co/PbERxTU3jT",
+					"display_url": "pic.twitter.com/PbERxTU3jT",
+					"expanded_url": "https://twitter.com/Cumori_Sea/status/1101857386090786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 619,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 932,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1101857034146766800,
+		"in_reply_to_status_id_str": "1101857034146766848",
+		"in_reply_to_user_id": 1028383620719730700,
+		"in_reply_to_user_id_str": "1028383620719730688",
+		"in_reply_to_screen_name": "cocoLatte_S2",
+		"user": {
+			"id": 1019964313539260400,
+			"id_str": "1019964313539260416",
+			"name": "해담(海曇)",
+			"screen_name": "Cumori_Sea",
+			"location": "❤ @Simofle",
+			"description": "(This account from) @Simofle에서 오신게 맞죠? 呼び方はウミノクモリです！ #CHUNITHM CMR.s×ω× (13.8) | #OverWatch Cumori#3164 #鹿乃 #鹿友 #ナナヲアカリ #ナブナ #ヨルシカ #はるまきごはん #外国人 #外国語ツイート数多",
+			"url": "https://t.co/ZQ1aA1R2mH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQ1aA1R2mH",
+							"expanded_url": "https://www.twitter.com/Cumori_Sea",
+							"display_url": "twitter.com/Cumori_Sea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 302,
+			"listed_count": 2,
+			"created_at": "Thu Jul 19 15:16:57 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2525,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074201719175696384/aDVt_l6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074201719175696384/aDVt_l6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019964313539260416/1532015846",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@cocoLatte_S2 https://t.co/PbERxTU3jT"
+	},
+	{
+		"created_at": "Sat Mar 02 15:01:13 +0000 2019",
+		"id": 1101860014384271400,
+		"id_str": "1101860014384271360",
+		"full_text": "배고파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1008,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "배고파"
+	},
+	{
+		"created_at": "Sat Mar 02 15:00:39 +0000 2019",
+		"id": 1101859870142152700,
+		"id_str": "1101859870142152706",
+		"full_text": "@hibiyasleep 흠.. 한국가면 함 만나뵙고 싶네요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "종이 @ Real Recital @ 東京",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1101858802154922000,
+		"in_reply_to_status_id_str": "1101858802154921989",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1008,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep 흠.. 한국가면 함 만나뵙고 싶네요"
+	},
+	{
+		"created_at": "Sat Mar 02 14:59:19 +0000 2019",
+		"id": 1101859536590200800,
+		"id_str": "1101859536590200832",
+		"full_text": "익스텐더를 WLANtoLAN 어댑터로 쓰고있는데 너무 자주 끊겨서 HDHomerun이 잘 안되네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1008,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "익스텐더를 WLANtoLAN 어댑터로 쓰고있는데 너무 자주 끊겨서 HDHomerun이 잘 안되네"
+	},
+	{
 		"created_at": "Sat Mar 02 13:45:20 +0000 2019",
 		"id": 1101822683312906200,
 		"id_str": "1101840917839765506",
