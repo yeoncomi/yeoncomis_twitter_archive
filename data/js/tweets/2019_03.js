@@ -1,6 +1,1011 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 01:05:19 +0000 2019",
+		"id": 1100793832403357700,
+		"id_str": "1102012038388232192",
+		"full_text": "what the fuck \n https://t.co/aq7jqPN2XK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099297544012738600,
+					"id_str": "1099297544012738560",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099297544012738560/pu/img/bbjtUEhiVC3J0vVO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099297544012738560/pu/img/bbjtUEhiVC3J0vVO.jpg",
+					"url": "https://t.co/aq7jqPN2XK",
+					"display_url": "pic.twitter.com/aq7jqPN2XK",
+					"expanded_url": "https://twitter.com/saint_mongoose/status/1099297640091738117/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099297640091738100,
+					"source_status_id_str": "1099297640091738117",
+					"source_user_id": 3338516607,
+					"source_user_id_str": "3338516607"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099297544012738600,
+					"id_str": "1099297544012738560",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099297544012738560/pu/img/bbjtUEhiVC3J0vVO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099297544012738560/pu/img/bbjtUEhiVC3J0vVO.jpg",
+					"url": "https://t.co/aq7jqPN2XK",
+					"display_url": "pic.twitter.com/aq7jqPN2XK",
+					"expanded_url": "https://twitter.com/saint_mongoose/status/1099297640091738117/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099297640091738100,
+					"source_status_id_str": "1099297640091738117",
+					"source_user_id": 3338516607,
+					"source_user_id_str": "3338516607",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							15
+						],
+						"duration_millis": 44934,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1099297544012738560/pu/pl/UJ6szf1yk1M_wCJm.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099297544012738560/pu/vid/192x180/HlrybMxi-AHJ2HEh.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099297544012738560/pu/vid/768x720/MID2A98kTRXOxKYF.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099297544012738560/pu/vid/384x360/ahjuG44uw4HGA7Jd.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3338516607,
+							"id_str": "3338516607",
+							"name": "польский мультихром",
+							"screen_name": "saint_mongoose",
+							"location": "Вороньи Ручьи",
+							"description": "Campe Diem! • смотрю фильмы про пиздюков и радуюсь жизни • поднялась на видео-лайфхаках • blue da ba dee • да вот такая я хорни стала • 42",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1779,
+							"friends_count": 31,
+							"listed_count": 3,
+							"created_at": "Sun Jun 21 08:36:30 +0000 2015",
+							"favourites_count": 51870,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 40322,
+							"lang": "ru",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "4A913C",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1092520665977102336/cCezne-e_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092520665977102336/cCezne-e_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3338516607/1549312692",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2766768008,
+			"id_str": "2766768008",
+			"name": "Memes Daily",
+			"screen_name": "MemePostsDaiIy",
+			"location": "*we own no content posted*",
+			"description": "some very good memes • *parody*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350856,
+			"friends_count": 367014,
+			"listed_count": 1543,
+			"created_at": "Mon Aug 25 15:46:57 +0000 2014",
+			"favourites_count": 30429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086077605290360832/nrZb0RCZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086077605290360832/nrZb0RCZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2766768008/1547501191",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9565,
+		"favorite_count": 2630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "what the fuck \n https://t.co/aq7jqPN2XK"
+	},
+	{
+		"created_at": "Sun Mar 03 01:02:11 +0000 2019",
+		"id": 1101792551269425200,
+		"id_str": "1102011251973009409",
+		"full_text": "진짜 지랄이 짜다, 어이가 없어서 스샷 못 찍고 옆에있던 현이가 사진찍어줌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/b75vGBbX3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101792519015227400,
+					"id_str": "1101792519015227392",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D0padWAV4AAYT2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0padWAV4AAYT2u.jpg",
+					"url": "https://t.co/b75vGBbX3h",
+					"display_url": "pic.twitter.com/b75vGBbX3h",
+					"expanded_url": "https://twitter.com/Laophobia/status/1101792551269425157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101792519015227400,
+					"id_str": "1101792519015227392",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D0padWAV4AAYT2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0padWAV4AAYT2u.jpg",
+					"url": "https://t.co/b75vGBbX3h",
+					"display_url": "pic.twitter.com/b75vGBbX3h",
+					"expanded_url": "https://twitter.com/Laophobia/status/1101792551269425157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127248534,
+			"id_str": "127248534",
+			"name": "Lao ♪",
+			"screen_name": "Laophobia",
+			"location": "대한민국 경기도",
+			"description": "#FFXIV #MDDはいいぞ | Sony α7",
+			"url": "https://t.co/ORnLH1kEUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ORnLH1kEUh",
+							"expanded_url": "https://jp.finalfantasyxiv.com/lodestone/character/15138337/",
+							"display_url": "jp.finalfantasyxiv.com/lodestone/char…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 704,
+			"friends_count": 147,
+			"listed_count": 22,
+			"created_at": "Sun Mar 28 15:38:07 +0000 2010",
+			"favourites_count": 9336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 628724,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087145463336194049/eH7LZK5g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087145463336194049/eH7LZK5g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127248534/1548114306",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 지랄이 짜다, 어이가 없어서 스샷 못 찍고 옆에있던 현이가 사진찍어줌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/b75vGBbX3h"
+	},
+	{
+		"created_at": "Sun Mar 03 00:58:40 +0000 2019",
+		"id": 1101868023558758400,
+		"id_str": "1102010364902858752",
+		"full_text": "소스포지가 차단되었다느니 뭐라느니 해서 루트 찍어본 분이 계시던데 아무리봐도 NTT놈들이 사고친거 같아서 IP찍어보니 아니나 다를까 NTT임 (....)\n\nhttps://t.co/dETCGhz8CB https://t.co/aoizRdxpme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dETCGhz8CB",
+					"expanded_url": "https://www.ip-adress.com/ip-address/ipv4/124.215.192.22",
+					"display_url": "ip-adress.com/ip-address/ipv…",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/aoizRdxpme",
+					"expanded_url": "https://twitter.com/KangseolA_Moe/status/1101852474942476290",
+					"display_url": "twitter.com/KangseolA_Moe/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 552230768,
+			"id_str": "552230768",
+			"name": "퀀덴서",
+			"screen_name": "Capadenser",
+			"location": "大湊",
+			"description": "pic: もふナマコ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 369,
+			"listed_count": 10,
+			"created_at": "Thu Apr 12 22:45:05 +0000 2012",
+			"favourites_count": 287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57928,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054368821933355010/1eL3l388_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054368821933355010/1eL3l388_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/552230768/1540216111",
+			"profile_link_color": "E85E6C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101852474942476300,
+		"quoted_status_id_str": "1101852474942476290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aoizRdxpme",
+			"expanded": "https://twitter.com/KangseolA_Moe/status/1101852474942476290",
+			"display": "twitter.com/KangseolA_Moe/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 02 14:31:16 +0000 2019",
+			"id": 1101852474942476300,
+			"id_str": "1101852474942476290",
+			"full_text": "@hibiyasleep 차단으로 보긴 힘들 것 같고 라우트 테이블 꼬인 것 맞는 것 같은데... 네가 말한 아치리눅스때랑 증상 비슷하잖아. https://t.co/HKJLPsWJoR",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hibiyasleep",
+						"name": "종이 @ Real Recital @ 東京",
+						"id": 2257896974,
+						"id_str": "2257896974",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101852459985596400,
+						"id_str": "1101852459985596417",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/D0qQ-XhU8AEM_Gt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0qQ-XhU8AEM_Gt.jpg",
+						"url": "https://t.co/HKJLPsWJoR",
+						"display_url": "pic.twitter.com/HKJLPsWJoR",
+						"expanded_url": "https://twitter.com/KangseolA_Moe/status/1101852474942476290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101852459985596400,
+						"id_str": "1101852459985596417",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/D0qQ-XhU8AEM_Gt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0qQ-XhU8AEM_Gt.jpg",
+						"url": "https://t.co/HKJLPsWJoR",
+						"display_url": "pic.twitter.com/HKJLPsWJoR",
+						"expanded_url": "https://twitter.com/KangseolA_Moe/status/1101852474942476290/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1101852025497632800,
+			"in_reply_to_status_id_str": "1101852025497632769",
+			"in_reply_to_user_id": 2257896974,
+			"in_reply_to_user_id_str": "2257896974",
+			"in_reply_to_screen_name": "hibiyasleep",
+			"user": {
+				"id": 815864912622690300,
+				"id_str": "815864912622690305",
+				"name": "Alice♡",
+				"screen_name": "KangseolA_Moe",
+				"location": "",
+				"description": "컴덕후; 리눅서; 디자이너; 여성;  #SaveTheInternetKR",
+				"url": "https://t.co/4QBWIm2H7P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4QBWIm2H7P",
+								"expanded_url": "http://KangseolA.moe",
+								"display_url": "KangseolA.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124,
+				"friends_count": 138,
+				"listed_count": 5,
+				"created_at": "Mon Jan 02 10:18:48 +0000 2017",
+				"favourites_count": 6346,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4853,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095353622278201344/iy_2lSd5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095353622278201344/iy_2lSd5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815864912622690305/1547910712",
+				"profile_link_color": "6666FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 80,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소스포지가 차단되었다느니 뭐라느니 해서 루트 찍어본 분이 계시던데 아무리봐도 NTT놈들이 사고친거 같아서 IP찍어보니 아니나 다를까 NTT임 (....)\n\nhttps://t.co/dETCGhz8CB https://t.co/aoizRdxpme"
+	},
+	{
+		"created_at": "Sun Mar 03 00:56:30 +0000 2019",
+		"id": 1101881605172322300,
+		"id_str": "1102009823187492865",
+		"full_text": "아니미국애들은 대체 과학을 뭐라고 생각하는거에요 자석은 왜붙임 https://t.co/lgXDS9Jayx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lgXDS9Jayx",
+					"expanded_url": "https://twitter.com/fantasticldeas/status/1040989963033165825",
+					"display_url": "twitter.com/fantasticldeas…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2801899169,
+			"id_str": "2801899169",
+			"name": "◆*P",
+			"screen_name": "cmspm6P",
+			"location": "",
+			"description": "먹다 남은 커피처럼 식어있습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1186,
+			"friends_count": 466,
+			"listed_count": 25,
+			"created_at": "Fri Oct 03 13:16:28 +0000 2014",
+			"favourites_count": 46693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 211809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101008897119158272/ccal797g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101008897119158272/ccal797g_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1040989963033165800,
+		"quoted_status_id_str": "1040989963033165825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lgXDS9Jayx",
+			"expanded": "https://twitter.com/fantasticldeas/status/1040989963033165825",
+			"display": "twitter.com/fantasticldeas…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 15 15:45:22 +0000 2018",
+			"id": 1040989963033165800,
+			"id_str": "1040989963033165825",
+			"full_text": "Cool https://t.co/95vs96mBNt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				4
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1040989233304031200,
+						"id_str": "1040989233304031238",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040989233304031238/pu/img/6fb-fFCtBa0aeDJu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040989233304031238/pu/img/6fb-fFCtBa0aeDJu.jpg",
+						"url": "https://t.co/95vs96mBNt",
+						"display_url": "pic.twitter.com/95vs96mBNt",
+						"expanded_url": "https://twitter.com/Fantasticldeas/status/1040989963033165825/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1040989233304031200,
+						"id_str": "1040989233304031238",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1040989233304031238/pu/img/6fb-fFCtBa0aeDJu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1040989233304031238/pu/img/6fb-fFCtBa0aeDJu.jpg",
+						"url": "https://t.co/95vs96mBNt",
+						"display_url": "pic.twitter.com/95vs96mBNt",
+						"expanded_url": "https://twitter.com/Fantasticldeas/status/1040989963033165825/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 116233,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1040989233304031238/pu/vid/480x480/1xvbleSnROQtUiy9.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1040989233304031238/pu/pl/kUHyRa0q5nwAE89W.m3u8?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1040989233304031238/pu/vid/720x720/zwG8C9GzAHeLcW6X.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1040989233304031238/pu/vid/240x240/2KtC5K4ZW6gN73uG.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903090932760821800,
+				"id_str": "903090932760821760",
+				"name": "Tips & Tricks",
+				"screen_name": "Fantasticldeas",
+				"location": "World Wide",
+				"description": "Fantastic ideas ,tips and tricks. We do not own the video in our tweets .",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201711,
+				"friends_count": 55,
+				"listed_count": 546,
+				"created_at": "Thu Aug 31 03:03:51 +0000 2017",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 318,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046359798814527488/zQrkyvMd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046359798814527488/zQrkyvMd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903090932760821760/1538306591",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10879,
+			"favorite_count": 15155,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 62,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니미국애들은 대체 과학을 뭐라고 생각하는거에요 자석은 왜붙임 https://t.co/lgXDS9Jayx"
+	},
+	{
 		"created_at": "Sat Mar 02 22:52:16 +0000 2019",
 		"id": 1101978556194648000,
 		"id_str": "1101978556194648065",
