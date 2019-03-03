@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 06:32:33 +0000 2019",
+		"id": 1102031977232777200,
+		"id_str": "1102094389587800064",
+		"full_text": "no one:\n\nib students: https://t.co/z0wJeFRlPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099890108709273600,
+					"id_str": "1099890108709273600",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099890108709273600/pu/img/yAGhRMVNOjksYEfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099890108709273600/pu/img/yAGhRMVNOjksYEfA.jpg",
+					"url": "https://t.co/z0wJeFRlPG",
+					"display_url": "pic.twitter.com/z0wJeFRlPG",
+					"expanded_url": "https://twitter.com/celesteperales_/status/1099890178301210624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099890178301210600,
+					"source_status_id_str": "1099890178301210624",
+					"source_user_id": 4264596919,
+					"source_user_id_str": "4264596919"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099890108709273600,
+					"id_str": "1099890108709273600",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099890108709273600/pu/img/yAGhRMVNOjksYEfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099890108709273600/pu/img/yAGhRMVNOjksYEfA.jpg",
+					"url": "https://t.co/z0wJeFRlPG",
+					"display_url": "pic.twitter.com/z0wJeFRlPG",
+					"expanded_url": "https://twitter.com/celesteperales_/status/1099890178301210624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1099890178301210600,
+					"source_status_id_str": "1099890178301210624",
+					"source_user_id": 4264596919,
+					"source_user_id_str": "4264596919",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5535,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099890108709273600/pu/vid/360x640/7oEtmz1SMZAboaSc.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1099890108709273600/pu/pl/kzYhqu2C14u--y1M.m3u8?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099890108709273600/pu/vid/320x568/kiKi0bhaIHTMcEDW.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099890108709273600/pu/vid/720x1280/SiXmzTucRQglLc24.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 4264596919,
+							"id_str": "4264596919",
+							"name": "celeste",
+							"screen_name": "celesteperales_",
+							"location": "",
+							"description": "I hope my tweets offend you",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 376,
+							"friends_count": 275,
+							"listed_count": 0,
+							"created_at": "Tue Nov 17 05:46:04 +0000 2015",
+							"favourites_count": 3626,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 3295,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/948328423876845568/2wMzhMK3_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/948328423876845568/2wMzhMK3_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/4264596919/1524586896",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 433928923,
+			"id_str": "433928923",
+			"name": "IB Problems",
+			"screen_name": "IBProblemss",
+			"location": "Worldwide",
+			"description": "IB: Getting kids into college, one mental breakdown at a time. ibproblemss@gmail.com Est. Dec. 11, 2011 *Not IBO Affiliated*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51025,
+			"friends_count": 304,
+			"listed_count": 68,
+			"created_at": "Sun Dec 11 06:09:48 +0000 2011",
+			"favourites_count": 1429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2901,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1771659300/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1771659300/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/433928923/1348014302",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 1618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "no one:\n\nib students: https://t.co/z0wJeFRlPG"
+	},
+	{
 		"created_at": "Sun Mar 03 02:25:37 +0000 2019",
 		"id": 1102032247287296000,
 		"id_str": "1102032247287296000",
