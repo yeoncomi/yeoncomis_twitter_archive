@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 07:09:01 +0000 2019",
+		"id": 1102463062903185400,
+		"id_str": "1102465957421670401",
+		"full_text": "국내 미세먼지 13% 포철에서 나온다고..?\n\n막짤 오늘 우리 엄마아빠 포항 놀러간 사진임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/JbIolXLumM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102463031676526600,
+					"id_str": "1102463031676526592",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y8SUUUYAAv0pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y8SUUUYAAv0pJ.jpg",
+					"url": "https://t.co/JbIolXLumM",
+					"display_url": "pic.twitter.com/JbIolXLumM",
+					"expanded_url": "https://twitter.com/1689hae/status/1102463062903185408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1313,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102463031676526600,
+					"id_str": "1102463031676526592",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y8SUUUYAAv0pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y8SUUUYAAv0pJ.jpg",
+					"url": "https://t.co/JbIolXLumM",
+					"display_url": "pic.twitter.com/JbIolXLumM",
+					"expanded_url": "https://twitter.com/1689hae/status/1102463062903185408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1313,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102463043600957400,
+					"id_str": "1102463043600957440",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y8TAvUwAA-3JK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y8TAvUwAA-3JK.jpg",
+					"url": "https://t.co/JbIolXLumM",
+					"display_url": "pic.twitter.com/JbIolXLumM",
+					"expanded_url": "https://twitter.com/1689hae/status/1102463062903185408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1252,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102463051729494000,
+					"id_str": "1102463051729494017",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y8TfBUYAEmOIc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y8TfBUYAEmOIc.jpg",
+					"url": "https://t.co/JbIolXLumM",
+					"display_url": "pic.twitter.com/JbIolXLumM",
+					"expanded_url": "https://twitter.com/1689hae/status/1102463062903185408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4714083362,
+			"id_str": "4714083362",
+			"name": "붉은화강암™",
+			"screen_name": "1689hae",
+			"location": "초멘에 죄송하지 않아도되고 인용해도 상관없습니다",
+			"description": "吾舌尙在 오설상재",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936,
+			"friends_count": 612,
+			"listed_count": 5,
+			"created_at": "Tue Jan 05 15:00:58 +0000 2016",
+			"favourites_count": 608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128579,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077567240285782016/NMwp1vyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077567240285782016/NMwp1vyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4714083362/1495378636",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 미세먼지 13% 포철에서 나온다고..?\n\n막짤 오늘 우리 엄마아빠 포항 놀러간 사진임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/JbIolXLumM"
+	},
+	{
+		"created_at": "Mon Mar 04 07:03:00 +0000 2019",
+		"id": 1102464440929181700,
+		"id_str": "1102464440929181696",
+		"full_text": "레딧에서 성인용품을 사면 뭐가 이상하게된걸까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 1009,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "레딧에서 성인용품을 사면 뭐가 이상하게된걸까"
+	},
+	{
+		"created_at": "Mon Mar 04 06:59:26 +0000 2019",
+		"id": 1101689291699351600,
+		"id_str": "1102463544396664833",
+		"full_text": "Suicide hotline numbers 📞 \n\nUnited Kingdom 🇬🇧 116 123\nUnited States 🇺🇸 1-800-273-8255\nCanada 🇨🇦 1 800 456 4566\nIreland 🇮🇪 116 123\nPhilippines 🇵🇭 2919\nAustralia 🇦🇺 131 114\n\nSomeone dies from suicide every 40 seconds.\n\nWill you take 0.1 second to Retweet and maybe save a life?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075165958543732700,
+			"id_str": "1075165958543732739",
+			"name": "Zoomed In Deku Nut",
+			"screen_name": "DekuNutParody",
+			"location": "hyrule",
+			"description": "finest item on the item list | adopted by @lucinassbu | I'm stunning | too cool for school | part of tfpd | triggerer of trypophobia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 253,
+			"listed_count": 5,
+			"created_at": "Tue Dec 18 23:08:34 +0000 2018",
+			"favourites_count": 6777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099099616480497666/8p8dT4PY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099099616480497666/8p8dT4PY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075165958543732739/1547157183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15975,
+		"favorite_count": 4436,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Suicide hotline numbers 📞 \n\nUnited Kingdom 🇬🇧 116 123\nUnited States 🇺🇸 1-800-273-8255\nCanada 🇨🇦 1 800 456 4566\nIreland 🇮🇪 116 123\nPhilippines 🇵🇭 2919\nAustralia 🇦🇺 131 114\n\nSomeone dies from suicide every 40 seconds.\n\nWill you take 0.1 second to Retweet and maybe save a life?"
+	},
+	{
+		"created_at": "Mon Mar 04 06:59:01 +0000 2019",
+		"id": 1102456254633369600,
+		"id_str": "1102463438154915842",
+		"full_text": "Q : 교육부만 줄빠따 준비한건가요?\nA : 아니요. 요새 업무 없는 대검 공안부도 줄빠따 준비중입니다.(...) https://t.co/fRLtYSn2gE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fRLtYSn2gE",
+					"expanded_url": "https://news.v.daum.net/v/20190304123601014",
+					"display_url": "news.v.daum.net/v/201903041236…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022207629,
+			"id_str": "1022207629",
+			"name": "단순한생각",
+			"screen_name": "lemay_wp",
+			"location": "FE Warren / 33 EOR",
+			"description": "덕질 하고 싶은 계정 / MAKE PENTAX GREAT AGAIN",
+			"url": "https://t.co/SHrXTMmOdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHrXTMmOdL",
+							"expanded_url": "https://youtu.be/FM7MFYoylVs",
+							"display_url": "youtu.be/FM7MFYoylVs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 518,
+			"listed_count": 7,
+			"created_at": "Wed Dec 19 14:34:02 +0000 2012",
+			"favourites_count": 2887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18636,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022207629/1550144695",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Q : 교육부만 줄빠따 준비한건가요?\nA : 아니요. 요새 업무 없는 대검 공안부도 줄빠따 준비중입니다.(...) https://t.co/fRLtYSn2gE"
+	},
+	{
+		"created_at": "Mon Mar 04 06:58:10 +0000 2019",
+		"id": 1102460074918785000,
+		"id_str": "1102463224589381632",
+		"full_text": "서울시교육청, 한유총 설립허가 취소한다\nhttps://t.co/YonTSwyBaL https://t.co/2Lm74OEFZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YonTSwyBaL",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/884441.html",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102459969650081800,
+					"id_str": "1102459969650081793",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y5gFYUwAEkQHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y5gFYUwAEkQHu.jpg",
+					"url": "https://t.co/2Lm74OEFZU",
+					"display_url": "pic.twitter.com/2Lm74OEFZU",
+					"expanded_url": "https://twitter.com/hanitweet/status/1102460074918785024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102459969650081800,
+					"id_str": "1102459969650081793",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D0y5gFYUwAEkQHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0y5gFYUwAEkQHu.jpg",
+					"url": "https://t.co/2Lm74OEFZU",
+					"display_url": "pic.twitter.com/2Lm74OEFZU",
+					"expanded_url": "https://twitter.com/hanitweet/status/1102460074918785024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문 한겨레 공식 트위터입니다.",
+			"url": "http://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573477,
+			"friends_count": 147967,
+			"listed_count": 7940,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108823,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시교육청, 한유총 설립허가 취소한다\nhttps://t.co/YonTSwyBaL https://t.co/2Lm74OEFZU"
+	},
+	{
 		"created_at": "Mon Mar 04 02:28:18 +0000 2019",
 		"id": 1102395313057198100,
 		"id_str": "1102395313057198081",
