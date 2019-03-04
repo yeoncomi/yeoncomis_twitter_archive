@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 01:29:10 +0000 2019",
+		"id": 1102183647967236100,
+		"id_str": "1102380431691833344",
+		"full_text": "캘리포니아주의 흑인 민권운동가 제임스 스턴(54)이 미국 최대의 네오나치 단체인 국가사회주의운동에 ‘잠입’해 올해 초 새 대표직을 꿰찬 데 이어, 지난주 버지니아주 연방법원에 이 단체의 잘못을 인정하는 의견서를 제출했다고 https://t.co/pSgFgwsund 이거 바로 영화 판권 확보해얄듯 👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pSgFgwsund",
+					"expanded_url": "https://news.v.daum.net/v/20190303172608386?rcmd=rn&f=m",
+					"display_url": "news.v.daum.net/v/201903031726…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14100332,
+			"id_str": "14100332",
+			"name": "so picky",
+			"screen_name": "so_picky",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52985,
+			"friends_count": 1384,
+			"listed_count": 477,
+			"created_at": "Sat Mar 08 14:14:45 +0000 2008",
+			"favourites_count": 1854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108093,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064847423908925447/ZkJ6oJOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064847423908925447/ZkJ6oJOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14100332/1355009242",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "D0D3D4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캘리포니아주의 흑인 민권운동가 제임스 스턴(54)이 미국 최대의 네오나치 단체인 국가사회주의운동에 ‘잠입’해 올해 초 새 대표직을 꿰찬 데 이어, 지난주 버지니아주 연방법원에 이 단체의 잘못을 인정하는 의견서를 제출했다고 https://t.co/pSgFgwsund 이거 바로 영화 판권 확보해얄듯 👍"
+	},
+	{
+		"created_at": "Mon Mar 04 01:27:01 +0000 2019",
+		"id": 1101786644204597200,
+		"id_str": "1102379891188588544",
+		"full_text": "..??? 의료시장만 영유아보육시장으로 바꾸면 본질은 이거고  지금 그 '민주적' 국유화 하는 중인거임^^ https://t.co/MFz7ASaDhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101786635492978700,
+					"id_str": "1101786635492978690",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pVG4LU8AI215b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pVG4LU8AI215b.jpg",
+					"url": "https://t.co/MFz7ASaDhj",
+					"display_url": "pic.twitter.com/MFz7ASaDhj",
+					"expanded_url": "https://twitter.com/powyyy/status/1101786644204597248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 184,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101786635492978700,
+					"id_str": "1101786635492978690",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pVG4LU8AI215b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pVG4LU8AI215b.jpg",
+					"url": "https://t.co/MFz7ASaDhj",
+					"display_url": "pic.twitter.com/MFz7ASaDhj",
+					"expanded_url": "https://twitter.com/powyyy/status/1101786644204597248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 184,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234258265,
+			"id_str": "234258265",
+			"name": "1학년...",
+			"screen_name": "powyyy",
+			"location": "",
+			"description": "19세 여고생. 01년생 뱀띠 맞아요.  역시 내가 귀여운 탓인가. PS. I love you  // 돈벌고싶다/자격증콜렉터하고싶다/살빼고싶다/ 외국어잘하고싶다/말 잘하고싶다/글 잘쓰고싶다/쉬고싶다/  이모든것들을 날로먹게 해주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1107,
+			"friends_count": 337,
+			"listed_count": 21,
+			"created_at": "Wed Jan 05 06:04:37 +0000 2011",
+			"favourites_count": 1358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788323532342071296/0blL5i-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788323532342071296/0blL5i-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "..??? 의료시장만 영유아보육시장으로 바꾸면 본질은 이거고  지금 그 '민주적' 국유화 하는 중인거임^^ https://t.co/MFz7ASaDhj"
+	},
+	{
 		"created_at": "Mon Mar 04 01:14:28 +0000 2019",
 		"id": 1101850699669749800,
 		"id_str": "1102376730579230720",
