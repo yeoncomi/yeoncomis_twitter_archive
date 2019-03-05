@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 23:25:37 +0000 2019",
+		"id": 1102437462578610200,
+		"id_str": "1102711725453828097",
+		"full_text": "이 진실들을 감당할수가 없다. https://t.co/rZYpSqlQLH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102436911463854100,
+					"id_str": "1102436911463854080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ykh68U8AAWaPl.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0ykh68U8AAWaPl.png",
+					"url": "https://t.co/rZYpSqlQLH",
+					"display_url": "pic.twitter.com/rZYpSqlQLH",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1102437462578610176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102436911463854100,
+					"id_str": "1102436911463854080",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ykh68U8AAWaPl.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0ykh68U8AAWaPl.png",
+					"url": "https://t.co/rZYpSqlQLH",
+					"display_url": "pic.twitter.com/rZYpSqlQLH",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1102437462578610176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1102436956401655800,
+					"id_str": "1102436956401655808",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ykkiWVYAAez4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ykkiWVYAAez4a.jpg",
+					"url": "https://t.co/rZYpSqlQLH",
+					"display_url": "pic.twitter.com/rZYpSqlQLH",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1102437462578610176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 617,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 617,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102437002052419600,
+					"id_str": "1102437002052419584",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D0yknMaUwAAf_Vs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0yknMaUwAAf_Vs.jpg",
+					"url": "https://t.co/rZYpSqlQLH",
+					"display_url": "pic.twitter.com/rZYpSqlQLH",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1102437462578610176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 655,
+							"h": 1051,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 655,
+							"h": 1051,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102437034424033300,
+					"id_str": "1102437034424033281",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ykpFAUYAEbUXL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0ykpFAUYAEbUXL.png",
+					"url": "https://t.co/rZYpSqlQLH",
+					"display_url": "pic.twitter.com/rZYpSqlQLH",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1102437462578610176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 778,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3151480658,
+			"id_str": "3151480658",
+			"name": "노시",
+			"screen_name": "KU_CU_QU",
+			"location": "하와와의증인",
+			"description": "금빛 모자이크 본진 - 오오미야 시노부(大宮 忍) 최애입니다! : 멘션주면 맞팔합니다! 금빛모자이크 야짤 알티나 올릴시 칼블락.백합회로 절찬리 오버클럭중",
+			"url": "https://t.co/ukvLeWiVYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukvLeWiVYy",
+							"expanded_url": "http://pixiv.me/kinmosa_nosi",
+							"display_url": "pixiv.me/kinmosa_nosi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 812,
+			"listed_count": 37,
+			"created_at": "Sun Apr 12 14:06:12 +0000 2015",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72414,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072501601200431106/FtvOCyLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072501601200431106/FtvOCyLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3151480658/1510617465",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1321,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 진실들을 감당할수가 없다. https://t.co/rZYpSqlQLH"
+	},
+	{
 		"created_at": "Mon Mar 04 18:45:18 +0000 2019",
 		"id": 1102641180226011100,
 		"id_str": "1102641180226011137",
