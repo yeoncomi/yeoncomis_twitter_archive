@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 06:38:25 +0000 2019",
+		"id": 1102806413191991300,
+		"id_str": "1102820645572767744",
+		"full_text": "북의 동토의 바람이 걷히고,\n대륙의 재는 태양을 가렸다.\n\n미세먼지를 태울 불을 일으킬 장작의 왕들\n\n'짱개의 불사대, 환경의 감시자' 그린피스\n\n'인민을 먹는자' 엘돼리지\n\n몰락한 재의 도시의 왕 'Moon, the President.'\n\n은 다른 목적을 위해 등을 돌렸고\n\n결국 서울시민은 출근을 위해 깨어나는데 https://t.co/OI9fT7XtOu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102806403184394200,
+					"id_str": "1102806403184394240",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D030lK3VAAAT6py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D030lK3VAAAT6py.jpg",
+					"url": "https://t.co/OI9fT7XtOu",
+					"display_url": "pic.twitter.com/OI9fT7XtOu",
+					"expanded_url": "https://twitter.com/Y_Poodle/status/1102806413191991296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102806403184394200,
+					"id_str": "1102806403184394240",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D030lK3VAAAT6py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D030lK3VAAAT6py.jpg",
+					"url": "https://t.co/OI9fT7XtOu",
+					"display_url": "pic.twitter.com/OI9fT7XtOu",
+					"expanded_url": "https://twitter.com/Y_Poodle/status/1102806413191991296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 347131224,
+			"id_str": "347131224",
+			"name": "푸들🐩",
+			"screen_name": "Y_Poodle",
+			"location": "",
+			"description": "PS4, 그림 취미, 그 외 관심사 다수",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 334,
+			"listed_count": 5,
+			"created_at": "Tue Aug 02 09:50:38 +0000 2011",
+			"favourites_count": 2269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 169941,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097708660833189894/eeJxsxgb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097708660833189894/eeJxsxgb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347131224/1550549270",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북의 동토의 바람이 걷히고,\n대륙의 재는 태양을 가렸다.\n\n미세먼지를 태울 불을 일으킬 장작의 왕들\n\n'짱개의 불사대, 환경의 감시자' 그린피스\n\n'인민을 먹는자' 엘돼리지\n\n몰락한 재의 도시의 왕 'Moon, the President.'\n\n은 다른 목적을 위해 등을 돌렸고\n\n결국 서울시민은 출근을 위해 깨어나는데 https://t.co/OI9fT7XtOu"
+	},
+	{
 		"created_at": "Tue Mar 05 02:45:09 +0000 2019",
 		"id": 1102761940177305600,
 		"id_str": "1102761940177305600",
