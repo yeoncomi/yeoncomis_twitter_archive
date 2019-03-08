@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 06:57:32 +0000 2019",
+		"id": 1103555735747682300,
+		"id_str": "1103912618949959680",
+		"full_text": "This stop is................ S.....si........ https://t.co/QHGoyKsQB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103555710112022500,
+					"id_str": "1103555710112022529",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1CeEksUwAE1K5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1CeEksUwAE1K5X.jpg",
+					"url": "https://t.co/QHGoyKsQB3",
+					"display_url": "pic.twitter.com/QHGoyKsQB3",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1103555735747682304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103555710112022500,
+					"id_str": "1103555710112022529",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1CeEksUwAE1K5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1CeEksUwAE1K5X.jpg",
+					"url": "https://t.co/QHGoyKsQB3",
+					"display_url": "pic.twitter.com/QHGoyKsQB3",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1103555735747682304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1CeEksUwAE1K5X.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이 aka hibiya",
+			"screen_name": "hibiyasleep",
+			"location": "pic: @zycro_ni",
+			"description": "heavensward / rootage / festo / exchain / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 1004,
+			"listed_count": 26,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 18052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 746747,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099863529434140672/SC3GcwjG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099863529434140672/SC3GcwjG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1549993634",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This stop is................ S.....si........ https://t.co/QHGoyKsQB3"
+	},
+	{
 		"created_at": "Fri Mar 08 04:12:26 +0000 2019",
 		"id": 1103871070694596600,
 		"id_str": "1103871070694596608",
