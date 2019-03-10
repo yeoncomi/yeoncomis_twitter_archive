@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 09:42:38 +0000 2019",
+		"id": 1104678944555458600,
+		"id_str": "1104678944555458561",
+		"full_text": "Kim's Convenience https://t.co/ZLpS6HOyUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104678892889993200,
+					"id_str": "1104678892889993217",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SbmamUcAE_XyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1SbmamUcAE_XyC.jpg",
+					"url": "https://t.co/ZLpS6HOyUT",
+					"display_url": "pic.twitter.com/ZLpS6HOyUT",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1104678944555458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104678892889993200,
+					"id_str": "1104678892889993217",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SbmamUcAE_XyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1SbmamUcAE_XyC.jpg",
+					"url": "https://t.co/ZLpS6HOyUT",
+					"display_url": "pic.twitter.com/ZLpS6HOyUT",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1104678944555458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1012,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				49.2299742,
+				-122.5942511
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-122.5942511,
+				49.2299742
+			]
+		},
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kim's Convenience https://t.co/ZLpS6HOyUT"
+	},
+	{
+		"created_at": "Sun Mar 10 09:41:30 +0000 2019",
+		"id": 1104669058337669100,
+		"id_str": "1104678659246288896",
+		"full_text": "어쩐지 몹시 흥겨운 플레이를 보여줄 것만 같은 이름의 선수다 https://t.co/H8IkNG6JiY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104669007871803400,
+					"id_str": "1104669007871803392",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SSnCCVAAA0wm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1SSnCCVAAA0wm7.jpg",
+					"url": "https://t.co/H8IkNG6JiY",
+					"display_url": "pic.twitter.com/H8IkNG6JiY",
+					"expanded_url": "https://twitter.com/VKRKO/status/1104669058337669121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1025,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104669007871803400,
+					"id_str": "1104669007871803392",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SSnCCVAAA0wm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1SSnCCVAAA0wm7.jpg",
+					"url": "https://t.co/H8IkNG6JiY",
+					"display_url": "pic.twitter.com/H8IkNG6JiY",
+					"expanded_url": "https://twitter.com/VKRKO/status/1104669058337669121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1025,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 175058448,
+			"id_str": "175058448",
+			"name": "VKRKO",
+			"screen_name": "VKRKO",
+			"location": "서울시 용산구",
+			"description": "괴담 전해줌. 괴담의 중심 블로그 운영함. https://t.co/D4xP4Y9XOM   SNK, 닌텐도, 포켓몬스터, 아이돌 마스터. 호러 문화 전반 좋아함. 프로필은 @ohdark123님 작품. 헤더는 @kimvori 님 작품. 게임도 하고 비즈도 만들고 아무 말도 하고.",
+			"url": "https://t.co/D4xP4Y9XOM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D4xP4Y9XOM",
+							"expanded_url": "http://vkepitaph.tistory.com",
+							"display_url": "vkepitaph.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/D4xP4Y9XOM",
+							"expanded_url": "http://vkepitaph.tistory.com",
+							"display_url": "vkepitaph.tistory.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 379,
+			"listed_count": 39,
+			"created_at": "Thu Aug 05 14:38:11 +0000 2010",
+			"favourites_count": 3448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27831,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920694140119027712/hSv9xfrC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920694140119027712/hSv9xfrC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/175058448/1482246275",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어쩐지 몹시 흥겨운 플레이를 보여줄 것만 같은 이름의 선수다 https://t.co/H8IkNG6JiY"
+	},
+	{
+		"created_at": "Sun Mar 10 09:37:59 +0000 2019",
+		"id": 1042729626273906700,
+		"id_str": "1104677774222979072",
+		"full_text": "(캐나다 격언)\n\n\"지금 보는 국회의원들 꼴보기 싫다고 국회의원을 줄이자고 하면 니가 꼴보기 싫었던 남은 그 놈들만 더 권력이 강해진다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 806820326906675200,
+			"id_str": "806820326906675200",
+			"name": "KJ",
+			"screen_name": "isotoxin390",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643,
+			"friends_count": 29,
+			"listed_count": 15,
+			"created_at": "Thu Dec 08 11:18:50 +0000 2016",
+			"favourites_count": 2057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(캐나다 격언)\n\n\"지금 보는 국회의원들 꼴보기 싫다고 국회의원을 줄이자고 하면 니가 꼴보기 싫었던 남은 그 놈들만 더 권력이 강해진다.\""
+	},
+	{
 		"created_at": "Sun Mar 10 08:26:02 +0000 2019",
 		"id": 1103673086912544800,
 		"id_str": "1104659665550364672",
