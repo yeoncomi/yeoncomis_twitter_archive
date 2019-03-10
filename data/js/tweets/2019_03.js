@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 00:24:55 +0000 2019",
+		"id": 1104220999103340500,
+		"id_str": "1104538587075248128",
+		"full_text": "브라질에서 택시에 안내문을 붙이자 승객 100%가 안전벨트를 맸다는데 이 문구는?\n\n이탈리아 광고 대회 공익 캠페인이었던 문구 로 안전벨트 착용률이 낮은 브라질에서 사용\n\nA. 안전벨트를 매면 와이파이가 터져요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115366266,
+			"id_str": "115366266",
+			"name": "Js Lee",
+			"screen_name": "New_paradigm",
+			"location": "서울시 강남구 역삼동",
+			"description": "문재인 대통령만 지지. 모든 분야에서의 적폐 청산을 기원. 고위공직자범죄수사처 설치 필요. 무종교, 무당파, 합리적이고 정보가 되는 트윗만 리트윗하고 있음. 헤드헌팅 업체 Director. Foreign soldiers without tweets do not follow",
+			"url": "https://t.co/fhMQbUH7Ga",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhMQbUH7Ga",
+							"expanded_url": "http://koreantweeters.com/New_paradigm",
+							"display_url": "koreantweeters.com/New_paradigm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7854,
+			"friends_count": 8508,
+			"listed_count": 178,
+			"created_at": "Thu Feb 18 12:36:20 +0000 2010",
+			"favourites_count": 20557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72578,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095245883606593536/uY0hrkP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095245883606593536/uY0hrkP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115366266/1551844532",
+			"profile_link_color": "B823AE",
+			"profile_sidebar_border_color": "9E0C94",
+			"profile_sidebar_fill_color": "E6B3E0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "브라질에서 택시에 안내문을 붙이자 승객 100%가 안전벨트를 맸다는데 이 문구는?\n\n이탈리아 광고 대회 공익 캠페인이었던 문구 로 안전벨트 착용률이 낮은 브라질에서 사용\n\nA. 안전벨트를 매면 와이파이가 터져요"
+	},
+	{
 		"created_at": "Sat Mar 09 07:14:10 +0000 2019",
 		"id": 1104279192462491600,
 		"id_str": "1104279192462491648",
