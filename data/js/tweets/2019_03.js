@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 07:55:16 +0000 2019",
+		"id": 1104379312000589800,
+		"id_str": "1104651924656144385",
+		"full_text": "안아키 부모님 덕에 30년 만에 주에서 최초로 아동 파상풍 환자가 됨 https://t.co/Mr1QkIXyPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104379293189075000,
+					"id_str": "1104379293189074944",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1OLHavU8AAOqa1.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1OLHavU8AAOqa1.png",
+					"url": "https://t.co/Mr1QkIXyPA",
+					"display_url": "pic.twitter.com/Mr1QkIXyPA",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1104379312000589824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104379293189075000,
+					"id_str": "1104379293189074944",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1OLHavU8AAOqa1.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1OLHavU8AAOqa1.png",
+					"url": "https://t.co/Mr1QkIXyPA",
+					"display_url": "pic.twitter.com/Mr1QkIXyPA",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1104379312000589824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 537,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/02BsPxVhfW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/02BsPxVhfW",
+							"expanded_url": "https://youtu.be/B85IzWVXs-A",
+							"display_url": "youtu.be/B85IzWVXs-A",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 382,
+			"listed_count": 23,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129963,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091318353115791361/ebeJ1cjG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안아키 부모님 덕에 30년 만에 주에서 최초로 아동 파상풍 환자가 됨 https://t.co/Mr1QkIXyPA"
+	},
+	{
 		"created_at": "Sun Mar 10 03:50:00 +0000 2019",
 		"id": 1104590199550488600,
 		"id_str": "1104590199550488576",
