@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 22:42:28 +0000 2019",
+		"id": 1104588698077679600,
+		"id_str": "1104875193221054464",
+		"full_text": "분명 상황은 같은데 왜 다르게 느껴지는거야\n\nㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/obPLuCDPV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104588690540523500,
+					"id_str": "1104588690540523520",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D1RJj8qU8AAf_bX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1RJj8qU8AAf_bX.jpg",
+					"url": "https://t.co/obPLuCDPV9",
+					"display_url": "pic.twitter.com/obPLuCDPV9",
+					"expanded_url": "https://twitter.com/Shine_Private/status/1104588698077679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104588690540523500,
+					"id_str": "1104588690540523520",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D1RJj8qU8AAf_bX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1RJj8qU8AAf_bX.jpg",
+					"url": "https://t.co/obPLuCDPV9",
+					"display_url": "pic.twitter.com/obPLuCDPV9",
+					"expanded_url": "https://twitter.com/Shine_Private/status/1104588698077679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1104588694969675800,
+					"id_str": "1104588694969675777",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D1RJkNKUcAE7f-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1RJkNKUcAE7f-9.jpg",
+					"url": "https://t.co/obPLuCDPV9",
+					"display_url": "pic.twitter.com/obPLuCDPV9",
+					"expanded_url": "https://twitter.com/Shine_Private/status/1104588698077679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 412,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 412,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744544012061671400,
+			"id_str": "744544012061671424",
+			"name": "러브 하츠 샤인이",
+			"screen_name": "Shine_Private",
+			"location": "",
+			"description": "감사합니다 고마워요 사랑합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171,
+			"friends_count": 2533,
+			"listed_count": 3,
+			"created_at": "Sun Jun 19 14:55:00 +0000 2016",
+			"favourites_count": 12350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17987,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097821268563251200/CqjpPJbu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097821268563251200/CqjpPJbu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744544012061671424/1552210512",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 820,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "분명 상황은 같은데 왜 다르게 느껴지는거야\n\nㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/obPLuCDPV9"
+	},
+	{
+		"created_at": "Sun Mar 10 22:41:28 +0000 2019",
+		"id": 1104755085563715600,
+		"id_str": "1104874944163278849",
+		"full_text": "...\n\n왜 얘들은 지 눈에 불편한걸 남들에게 못 강요를 해서 안달일까... https://t.co/v4T0WnccoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104755068018974700,
+					"id_str": "1104755068018974720",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Tg4ZEVYAA6Xtk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Tg4ZEVYAA6Xtk.jpg",
+					"url": "https://t.co/v4T0WnccoT",
+					"display_url": "pic.twitter.com/v4T0WnccoT",
+					"expanded_url": "https://twitter.com/tsudaka53/status/1104755085563715584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1435,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104755068018974700,
+					"id_str": "1104755068018974720",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Tg4ZEVYAA6Xtk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Tg4ZEVYAA6Xtk.jpg",
+					"url": "https://t.co/v4T0WnccoT",
+					"display_url": "pic.twitter.com/v4T0WnccoT",
+					"expanded_url": "https://twitter.com/tsudaka53/status/1104755085563715584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1435,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4905287629,
+			"id_str": "4905287629",
+			"name": "Guild_Blackscale",
+			"screen_name": "tsudaka53",
+			"location": "경기도 안성시 어느 공방",
+			"description": "Blacksmith&Swordman in Korea\n\nMaking kitchen knife, federschwert, historical sword blunt in medievalㆍrenaissance period\n\nOrdermade:DM or haforge@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1055,
+			"friends_count": 621,
+			"listed_count": 22,
+			"created_at": "Sun Feb 14 05:53:38 +0000 2016",
+			"favourites_count": 12478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47961,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100870891485810689/otyKgONK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100870891485810689/otyKgONK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4905287629/1544364540",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00bb58f00885c86e",
+			"url": "https://api.twitter.com/1.1/geo/id/00bb58f00885c86e.json",
+			"place_type": "city",
+			"name": "Suwon-si",
+			"full_name": "Suwon-si, Republic of Korea",
+			"country_code": "KR",
+			"country": "Republic of Korea",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.938589840149,
+							37.220129009794
+						],
+						[
+							127.084884841286,
+							37.220129009794
+						],
+						[
+							127.084884841286,
+							37.3432969795814
+						],
+						[
+							126.938589840149,
+							37.3432969795814
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "...\n\n왜 얘들은 지 눈에 불편한걸 남들에게 못 강요를 해서 안달일까... https://t.co/v4T0WnccoT"
+	},
+	{
+		"created_at": "Sun Mar 10 22:40:10 +0000 2019",
+		"id": 1104692404655779800,
+		"id_str": "1104874614734249986",
+		"full_text": "알라딘 제정신임? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ '전환치료' 하는 인간 책을 페미니즘 이벤트에 껴서 팔아?? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ @aladinbook https://t.co/8oD57B4Vhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aladinbook",
+					"name": "알라딘 인터넷서점",
+					"id": 144770990,
+					"id_str": "144770990",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104692194097545200,
+					"id_str": "1104692194097545216",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SnspdUwAAJnth.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1SnspdUwAAJnth.png",
+					"url": "https://t.co/8oD57B4Vhy",
+					"display_url": "pic.twitter.com/8oD57B4Vhy",
+					"expanded_url": "https://twitter.com/siel_c/status/1104692404655779840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104692194097545200,
+					"id_str": "1104692194097545216",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SnspdUwAAJnth.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1SnspdUwAAJnth.png",
+					"url": "https://t.co/8oD57B4Vhy",
+					"display_url": "pic.twitter.com/8oD57B4Vhy",
+					"expanded_url": "https://twitter.com/siel_c/status/1104692404655779840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885789795187777500,
+			"id_str": "885789795187777538",
+			"name": "시엘",
+			"screen_name": "siel_c",
+			"location": "",
+			"description": "노잼de쓰까무말러",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 101,
+			"listed_count": 1,
+			"created_at": "Fri Jul 14 09:15:19 +0000 2017",
+			"favourites_count": 3709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57445,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077816408875053056/Q88HtpgY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077816408875053056/Q88HtpgY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885789795187777538/1545631067",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2834,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알라딘 제정신임? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ '전환치료' 하는 인간 책을 페미니즘 이벤트에 껴서 팔아?? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ @aladinbook https://t.co/8oD57B4Vhy"
+	},
+	{
+		"created_at": "Sun Mar 10 22:37:10 +0000 2019",
+		"id": 1104682289466732500,
+		"id_str": "1104873861760184321",
+		"full_text": "홍차,커피+설탕을 능가하는 부스터가 훗날 등장하게 되는데....\n\n효능이 너무 뛰어나서 금지된... https://t.co/bzTberBflM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104682280872636400,
+					"id_str": "1104682280872636416",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Sern0U8AA638i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Sern0U8AA638i.jpg",
+					"url": "https://t.co/bzTberBflM",
+					"display_url": "pic.twitter.com/bzTberBflM",
+					"expanded_url": "https://twitter.com/kcanari/status/1104682289466732544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104682280872636400,
+					"id_str": "1104682280872636416",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Sern0U8AA638i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Sern0U8AA638i.jpg",
+					"url": "https://t.co/bzTberBflM",
+					"display_url": "pic.twitter.com/bzTberBflM",
+					"expanded_url": "https://twitter.com/kcanari/status/1104682289466732544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1104682280843337700,
+					"id_str": "1104682280843337728",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D1SerntV4AAVldw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1SerntV4AAVldw.jpg",
+					"url": "https://t.co/bzTberBflM",
+					"display_url": "pic.twitter.com/bzTberBflM",
+					"expanded_url": "https://twitter.com/kcanari/status/1104682289466732544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 520,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1104681248419602400,
+		"in_reply_to_status_id_str": "1104681248419602433",
+		"in_reply_to_user_id": 101148636,
+		"in_reply_to_user_id_str": "101148636",
+		"in_reply_to_screen_name": "kcanari",
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49675,
+			"friends_count": 268,
+			"listed_count": 238,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107976,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍차,커피+설탕을 능가하는 부스터가 훗날 등장하게 되는데....\n\n효능이 너무 뛰어나서 금지된... https://t.co/bzTberBflM"
+	},
+	{
 		"created_at": "Sun Mar 10 17:49:48 +0000 2019",
 		"id": 1104709358917607400,
 		"id_str": "1104801540068401152",
