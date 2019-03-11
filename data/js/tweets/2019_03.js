@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 17:03:21 +0000 2019",
+		"id": 1105142821340643300,
+		"id_str": "1105152239180537861",
+		"full_text": "트위터 위인 박윤지 https://t.co/jnNpsfOkis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105142795960934400,
+					"id_str": "1105142795960934401",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ZBhINVYAEHIa5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1ZBhINVYAEHIa5.png",
+					"url": "https://t.co/jnNpsfOkis",
+					"display_url": "pic.twitter.com/jnNpsfOkis",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1105142821340643328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105142795960934400,
+					"id_str": "1105142795960934401",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ZBhINVYAEHIa5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1ZBhINVYAEHIa5.png",
+					"url": "https://t.co/jnNpsfOkis",
+					"display_url": "pic.twitter.com/jnNpsfOkis",
+					"expanded_url": "https://twitter.com/milanesanapolin/status/1105142821340643328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4495381942,
+			"id_str": "4495381942",
+			"name": "푸신은 오리를 꿈꾸는가?",
+			"screen_name": "milanesanapolin",
+			"location": "",
+			"description": "비밀결사단 문사철",
+			"url": "https://t.co/5ivyjzFd1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ivyjzFd1i",
+							"expanded_url": "http://soviet.com",
+							"display_url": "soviet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 491,
+			"listed_count": 39,
+			"created_at": "Tue Dec 15 19:54:09 +0000 2015",
+			"favourites_count": 20944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160547,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104241976386347008/xmevAJEz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104241976386347008/xmevAJEz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4495381942/1516852931",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 위인 박윤지 https://t.co/jnNpsfOkis"
+	},
+	{
+		"created_at": "Mon Mar 11 17:02:57 +0000 2019",
+		"id": 1105041663846690800,
+		"id_str": "1105152139263827969",
+		"full_text": "CIA 기밀보고서 해제 박정희, 한일협정때 6,600만불 뇌물 받음 https://t.co/PhS9mPDpz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PhS9mPDpz5",
+					"expanded_url": "http://timehumor.net/bbs/board.php?bo_table=goodfree&wr_id=1075",
+					"display_url": "timehumor.net/bbs/board.php?…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227914688,
+			"id_str": "227914688",
+			"name": "Isaballa",
+			"screen_name": "yhgoh73",
+			"location": "seoul/korea",
+			"description": "사람이 먼저인 세상.이런 세상을  꿈꾸고 있습니다.\r\n모든 사람이 사람대접받는세상.\r\n반려견이 살기 좋은세상.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 541,
+			"friends_count": 596,
+			"listed_count": 0,
+			"created_at": "Sat Dec 18 05:15:51 +0000 2010",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3419,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/416635568131297280/r5exEKha_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/416635568131297280/r5exEKha_normal.jpeg",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1333,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CIA 기밀보고서 해제 박정희, 한일협정때 6,600만불 뇌물 받음 https://t.co/PhS9mPDpz5"
+	},
+	{
+		"created_at": "Mon Mar 11 17:02:44 +0000 2019",
+		"id": 1105013236116664300,
+		"id_str": "1105152084117053440",
+		"full_text": "구글에서 인증할 때 표지판, 도로, 횡단보도 등만 나오는 이유\n\n구글이 자율주행차를 내놓기 위해서는 인공지능이 도로 이미지를 인식해야 하는데\n\n이를 위한 데이터 수집인 것 https://t.co/TGnperwlQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104796291358310400,
+					"id_str": "1104796291358310401",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D1UGX5-UwAEg6sf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1UGX5-UwAEg6sf.jpg",
+					"url": "https://t.co/TGnperwlQn",
+					"display_url": "pic.twitter.com/TGnperwlQn",
+					"expanded_url": "https://twitter.com/go1rani/status/1105013236116664320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104796291358310400,
+					"id_str": "1104796291358310401",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D1UGX5-UwAEg6sf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1UGX5-UwAEg6sf.jpg",
+					"url": "https://t.co/TGnperwlQn",
+					"display_url": "pic.twitter.com/TGnperwlQn",
+					"expanded_url": "https://twitter.com/go1rani/status/1105013236116664320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1104796419049709600,
+					"id_str": "1104796419049709569",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D1UGfVqU4AE9eC0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1UGfVqU4AE9eC0.jpg",
+					"url": "https://t.co/TGnperwlQn",
+					"display_url": "pic.twitter.com/TGnperwlQn",
+					"expanded_url": "https://twitter.com/go1rani/status/1105013236116664320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12696,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 545,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6173,
+		"favorite_count": 1678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글에서 인증할 때 표지판, 도로, 횡단보도 등만 나오는 이유\n\n구글이 자율주행차를 내놓기 위해서는 인공지능이 도로 이미지를 인식해야 하는데\n\n이를 위한 데이터 수집인 것 https://t.co/TGnperwlQn"
+	},
+	{
+		"created_at": "Mon Mar 11 16:51:14 +0000 2019",
+		"id": 1105149190995271700,
+		"id_str": "1105149190995271681",
+		"full_text": "@FamiTweet 헉 8이네요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FamiTweet",
+					"name": "파미",
+					"id": 106490503,
+					"id_str": "106490503",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1105149112893104100,
+		"in_reply_to_status_id_str": "1105149112893104128",
+		"in_reply_to_user_id": 106490503,
+		"in_reply_to_user_id_str": "106490503",
+		"in_reply_to_screen_name": "FamiTweet",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1012,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@FamiTweet 헉 8이네요"
+	},
+	{
 		"created_at": "Mon Mar 11 15:48:12 +0000 2019",
 		"id": 1105069030958760000,
 		"id_str": "1105133329001508864",
