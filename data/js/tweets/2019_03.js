@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 17:31:09 +0000 2019",
+		"id": 1105140465777684500,
+		"id_str": "1105159238521806849",
+		"full_text": "Cash only: fine. No cash only: not so fast. https://t.co/hqD8p9qBYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hqD8p9qBYA",
+					"expanded_url": "https://arstechnica.com/tech-policy/2019/03/sorry-amazon-philadelphia-bans-cashless-stores/",
+					"display_url": "arstechnica.com/tech-policy/20…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 717313,
+			"id_str": "717313",
+			"name": "Ars Technica",
+			"screen_name": "arstechnica",
+			"location": "NYC - Boston - Chicago - SF",
+			"description": "Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.",
+			"url": "http://t.co/Ul1NPoX9hd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Ul1NPoX9hd",
+							"expanded_url": "http://arstechnica.com",
+							"display_url": "arstechnica.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1168960,
+			"friends_count": 1153,
+			"listed_count": 29289,
+			"created_at": "Sun Jan 28 01:58:49 +0000 2007",
+			"favourites_count": 6302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "201F25",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2215576731/ars-logo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717313/1407516523",
+			"profile_link_color": "FF5B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cash only: fine. No cash only: not so fast. https://t.co/hqD8p9qBYA"
+	},
+	{
 		"created_at": "Mon Mar 11 17:03:21 +0000 2019",
 		"id": 1105142821340643300,
 		"id_str": "1105152239180537861",
