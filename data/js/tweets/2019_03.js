@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 05:50:18 +0000 2019",
+		"id": 978510247697330200,
+		"id_str": "1104982861273157633",
+		"full_text": "안녕하세요 비밀결사단 문사철 엠생대표 오리마니아입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4495381942,
+			"id_str": "4495381942",
+			"name": "푸신은 오리를 꿈꾸는가?",
+			"screen_name": "milanesanapolin",
+			"location": "",
+			"description": "비밀결사단 문사철",
+			"url": "https://t.co/5ivyjzFd1i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5ivyjzFd1i",
+							"expanded_url": "http://soviet.com",
+							"display_url": "soviet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1910,
+			"friends_count": 491,
+			"listed_count": 40,
+			"created_at": "Tue Dec 15 19:54:09 +0000 2015",
+			"favourites_count": 20954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160499,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104241976386347008/xmevAJEz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104241976386347008/xmevAJEz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4495381942/1516852931",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요 비밀결사단 문사철 엠생대표 오리마니아입니다."
+	},
+	{
+		"created_at": "Mon Mar 11 05:47:21 +0000 2019",
+		"id": 1104980483224420400,
+		"id_str": "1104982119971876865",
+		"full_text": "사과 기대한 광주시민들, 전두환 \"아! 왜이래\" 한마디에 '폭발' | 다음 뉴스 https://t.co/fjGodTEvqQ\n\n전씨는 '발포명령자가 누구냐'는 질문에는 \"아! 왜이래\"라며 신경질적인 반응을 보였다.\n\n지난 1987년 대통령직에서 물러난 뒤 32년 만에 찾은 광주에서 시민들을 향한 첫마디였다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjGodTEvqQ",
+					"expanded_url": "https://news.v.daum.net/v/20190311133251406?f=m",
+					"display_url": "news.v.daum.net/v/201903111332…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1061444353,
+			"id_str": "1061444353",
+			"name": "🎗🍷ᶜʰᵃᵗᵉᵃᵘ ℳargaux🍷🎗",
+			"screen_name": "Chateau_Margaux",
+			"location": "마누라와 아들 사이",
+			"description": "안녕? 난 마고라고 해, 샤또 마고. 탐라에서 유머짤을 담당하고 있지. \n※프사는 완소 서나래작가님 캐릭 낢입니다.\n※먹짤을 제외한 대부분의 짤은 해외사이트에서 퍼옵니다.\n#withyou",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22843,
+			"friends_count": 483,
+			"listed_count": 241,
+			"created_at": "Fri Jan 04 21:06:43 +0000 2013",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226309,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077388576038383616/s9GwG-ev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077388576038383616/s9GwG-ev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061444353/1471700487",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사과 기대한 광주시민들, 전두환 \"아! 왜이래\" 한마디에 '폭발' | 다음 뉴스 https://t.co/fjGodTEvqQ\n\n전씨는 '발포명령자가 누구냐'는 질문에는 \"아! 왜이래\"라며 신경질적인 반응을 보였다.\n\n지난 1987년 대통령직에서 물러난 뒤 32년 만에 찾은 광주에서 시민들을 향한 첫마디였다."
+	},
+	{
+		"created_at": "Mon Mar 11 05:30:11 +0000 2019",
+		"id": 1104951216293855200,
+		"id_str": "1104977797989068800",
+		"full_text": "속보 @agkccaj 트위터 12시간 정지\n작음기가 12시간 정지될 예정입니다 https://t.co/1wLZWgulRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agkccaj",
+					"name": "agkccaj",
+					"id": 141143586,
+					"id_str": "141143586",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104951204218470400,
+					"id_str": "1104951204218470400",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1WTRBWVAAAR6wf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1WTRBWVAAAR6wf.jpg",
+					"url": "https://t.co/1wLZWgulRA",
+					"display_url": "pic.twitter.com/1wLZWgulRA",
+					"expanded_url": "https://twitter.com/angbffff/status/1104951216293855232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104951204218470400,
+					"id_str": "1104951204218470400",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1WTRBWVAAAR6wf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1WTRBWVAAAR6wf.jpg",
+					"url": "https://t.co/1wLZWgulRA",
+					"display_url": "pic.twitter.com/1wLZWgulRA",
+					"expanded_url": "https://twitter.com/angbffff/status/1104951216293855232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							35
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1WTRBWVAAAR6wf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804136380,
+			"id_str": "804136380",
+			"name": "무휼",
+			"screen_name": "angbffff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Wed Sep 05 08:22:10 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7671,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848724755972620288/iGL3W-if_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848724755972620288/iGL3W-if_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보 @agkccaj 트위터 12시간 정지\n작음기가 12시간 정지될 예정입니다 https://t.co/1wLZWgulRA"
+	},
+	{
+		"created_at": "Mon Mar 11 05:27:43 +0000 2019",
+		"id": 1104977177253015600,
+		"id_str": "1104977177253015552",
+		"full_text": "헤헤\n\n#멘션한_트친_스킨쉽_한계선\n\n0 : 누구세요?\n1 : 인사\n2 : 악수\n3 : 손 잡기\n4 : 팔짱\n5 : 머리카락\n6 : 쓰담\n7 : 볼 잡아당기는 정도\n8 : 잠깐 안기는 거\n9 : 꼭, 품에 안기는 정도\n10 : 볼뽀뽀\n11 : 입뽀뽀\n12 : 키스\n13 : 마음대로 뭐든 가능\n14 : ( ͡° ͜ʖ ͡°)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멘션한_트친_스킨쉽_한계선",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1012,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헤헤\n\n#멘션한_트친_스킨쉽_한계선\n\n0 : 누구세요?\n1 : 인사\n2 : 악수\n3 : 손 잡기\n4 : 팔짱\n5 : 머리카락\n6 : 쓰담\n7 : 볼 잡아당기는 정도\n8 : 잠깐 안기는 거\n9 : 꼭, 품에 안기는 정도\n10 : 볼뽀뽀\n11 : 입뽀뽀\n12 : 키스\n13 : 마음대로 뭐든 가능\n14 : ( ͡° ͜ʖ ͡°)"
+	},
+	{
+		"created_at": "Mon Mar 11 05:27:27 +0000 2019",
+		"id": 1104977112723648500,
+		"id_str": "1104977112723648513",
+		"full_text": "@_sino39 히히",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_sino39",
+					"name": "シノ",
+					"id": 970655958853496800,
+					"id_str": "970655958853496832",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1104972848416796700,
+		"in_reply_to_status_id_str": "1104972848416796672",
+		"in_reply_to_user_id": 970655958853496800,
+		"in_reply_to_user_id_str": "970655958853496832",
+		"in_reply_to_screen_name": "_sino39",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1012,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_sino39 히히"
+	},
+	{
 		"created_at": "Mon Mar 11 04:51:13 +0000 2019",
 		"id": 1104940910909874200,
 		"id_str": "1104967993543421952",
