@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 17:30:13 +0000 2019",
+		"id": 1105435986228437000,
+		"id_str": "1105521390533242880",
+		"full_text": "글구 외국 사이트들이 먹튀한다는 기존 언론 입장 가져오시는 것 솔직히 에러입니다\n\n애초에 해외 서비스들이 먹튀해서 불공정 경쟁을 하는 게 아니라 국내 통신사들이 부당이득을 취하는 겁니다. 국내 통신사를 규제해야 해요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105434534978322400,
+		"in_reply_to_status_id_str": "1105434534978322432",
+		"in_reply_to_user_id": 196005432,
+		"in_reply_to_user_id_str": "196005432",
+		"in_reply_to_screen_name": "zlzleking",
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 18,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1848,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1551519391",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "글구 외국 사이트들이 먹튀한다는 기존 언론 입장 가져오시는 것 솔직히 에러입니다\n\n애초에 해외 서비스들이 먹튀해서 불공정 경쟁을 하는 게 아니라 국내 통신사들이 부당이득을 취하는 겁니다. 국내 통신사를 규제해야 해요"
+	},
+	{
+		"created_at": "Tue Mar 12 17:30:11 +0000 2019",
+		"id": 1105434534978322400,
+		"id_str": "1105521380890570755",
+		"full_text": "솔직히 네이버고 뭐고 한국 동영상 사이트 망하는것보다 망중립성의 가치가 더 큽니다\n\n그걸 명심하십쇼 아프리카가 돈 더 번다고 당신이 득보는거 아닙니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105434284427378700,
+		"in_reply_to_status_id_str": "1105434284427378688",
+		"in_reply_to_user_id": 196005432,
+		"in_reply_to_user_id_str": "196005432",
+		"in_reply_to_screen_name": "zlzleking",
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 18,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1848,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1551519391",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "솔직히 네이버고 뭐고 한국 동영상 사이트 망하는것보다 망중립성의 가치가 더 큽니다\n\n그걸 명심하십쇼 아프리카가 돈 더 번다고 당신이 득보는거 아닙니다"
+	},
+	{
+		"created_at": "Tue Mar 12 17:30:08 +0000 2019",
+		"id": 1105434284427378700,
+		"id_str": "1105521369633026050",
+		"full_text": "이거 못막으면 한 30년 후에 넷플릭스랑 유투브 되는 요금제가 월 7만원이고\n\n안되는 요금제가 월 4만원\n\n국내망 전용 요금제 월 2만원 이런 식으로 나오게 될 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105432213397467100,
+		"in_reply_to_status_id_str": "1105432213397467136",
+		"in_reply_to_user_id": 196005432,
+		"in_reply_to_user_id_str": "196005432",
+		"in_reply_to_screen_name": "zlzleking",
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 18,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1848,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1551519391",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이거 못막으면 한 30년 후에 넷플릭스랑 유투브 되는 요금제가 월 7만원이고\n\n안되는 요금제가 월 4만원\n\n국내망 전용 요금제 월 2만원 이런 식으로 나오게 될 것"
+	},
+	{
 		"created_at": "Tue Mar 12 05:23:20 +0000 2019",
 		"id": 1105330027112017900,
 		"id_str": "1105338464201924608",
