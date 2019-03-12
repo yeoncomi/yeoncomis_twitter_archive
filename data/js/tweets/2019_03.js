@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 19:55:11 +0000 2019",
+		"id": 1105476097590874100,
+		"id_str": "1105557872820146176",
+		"full_text": "Keep your small business protected from fraud with these important steps. #FPM2019 #SMB https://t.co/oV6TtB7m5F https://t.co/8PSpgxwiFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FPM2019",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "SMB",
+					"indices": [
+						83,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oV6TtB7m5F",
+					"expanded_url": "https://www.getcybersafe.gc.ca/cnt/prtct-yrslf/prtct-smlbsn/cbr-sfbsns-en.aspx",
+					"display_url": "getcybersafe.gc.ca/cnt/prtct-yrsl…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105476095632121900,
+					"id_str": "1105476095632121857",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dwpuPWoAEkzka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dwpuPWoAEkzka.jpg",
+					"url": "https://t.co/8PSpgxwiFm",
+					"display_url": "pic.twitter.com/8PSpgxwiFm",
+					"expanded_url": "https://twitter.com/GetCyberSafe/status/1105476097590874113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105476095632121900,
+					"id_str": "1105476095632121857",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dwpuPWoAEkzka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dwpuPWoAEkzka.jpg",
+					"url": "https://t.co/8PSpgxwiFm",
+					"display_url": "pic.twitter.com/8PSpgxwiFm",
+					"expanded_url": "https://twitter.com/GetCyberSafe/status/1105476097590874113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285196322,
+			"id_str": "285196322",
+			"name": "Get Cyber Safe",
+			"screen_name": "GetCyberSafe",
+			"location": "Canada",
+			"description": "We educate Canadians about staying safe online (managed by @cybercentre_ca). Suivez-nous en français @cyber_securite. Our Twitter protocol: https://t.co/oYjtKJdZSh.",
+			"url": "https://t.co/7o92Cn2LW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7o92Cn2LW4",
+							"expanded_url": "http://www.getcybersafe.gc.ca",
+							"display_url": "getcybersafe.gc.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oYjtKJdZSh",
+							"expanded_url": "http://ow.ly/QJ3UD",
+							"display_url": "ow.ly/QJ3UD",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39711,
+			"friends_count": 57,
+			"listed_count": 448,
+			"created_at": "Wed Apr 20 18:13:19 +0000 2011",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "048888",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/888039553042350081/7pkTUvQE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/888039553042350081/7pkTUvQE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/285196322/1551711609",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keep your small business protected from fraud with these important steps. #FPM2019 #SMB https://t.co/oV6TtB7m5F https://t.co/8PSpgxwiFm"
+	},
+	{
+		"created_at": "Tue Mar 12 19:54:40 +0000 2019",
+		"id": 1105557628858630100,
+		"id_str": "1105557743589482496",
+		"full_text": "nice https://t.co/rB2fN3GtrE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105557610185531400,
+					"id_str": "1105557610185531392",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D1e6yfnWoAAPcJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1e6yfnWoAAPcJC.jpg",
+					"url": "https://t.co/rB2fN3GtrE",
+					"display_url": "pic.twitter.com/rB2fN3GtrE",
+					"expanded_url": "https://twitter.com/Kirinodere/status/1105557628858630146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105557610185531400,
+					"id_str": "1105557610185531392",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D1e6yfnWoAAPcJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1e6yfnWoAAPcJC.jpg",
+					"url": "https://t.co/rB2fN3GtrE",
+					"display_url": "pic.twitter.com/rB2fN3GtrE",
+					"expanded_url": "https://twitter.com/Kirinodere/status/1105557628858630146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 939351600,
+			"id_str": "939351600",
+			"name": "Kiririn",
+			"screen_name": "Kirinodere",
+			"location": "Inside my closet",
+			"description": "Moe online persona or something. I probably watch too much anime and you guys are all hentai bakas! also hecking HECK I'm not a teacher anymore I WORK IN DESIGN",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41473,
+			"friends_count": 302,
+			"listed_count": 221,
+			"created_at": "Sat Nov 10 16:02:00 +0000 2012",
+			"favourites_count": 39417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": true,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078750377506410497/TPDpNN2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078750377506410497/TPDpNN2B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/939351600/1431282533",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "moderator"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4393349f368f67a1",
+			"url": "https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json",
+			"place_type": "city",
+			"name": "Lambeth",
+			"full_name": "Lambeth, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.15191,
+							51.410792
+						],
+						[
+							-0.078902,
+							51.410792
+						],
+						[
+							-0.078902,
+							51.509887
+						],
+						[
+							-0.15191,
+							51.509887
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "nice https://t.co/rB2fN3GtrE"
+	},
+	{
+		"created_at": "Tue Mar 12 19:54:22 +0000 2019",
+		"id": 1105326929010339800,
+		"id_str": "1105557667789967360",
+		"full_text": "피해녀가 뭐야 시발 ㅗ 피해자란 말도 모르냐 https://t.co/NRgywdRCA0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NRgywdRCA0",
+					"expanded_url": "https://twitter.com/chosun/status/1105268686716166144",
+					"display_url": "twitter.com/chosun/status/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3021331500,
+			"id_str": "3021331500",
+			"name": "알피",
+			"screen_name": "pizzacheezeme",
+			"location": "대한민국 대구",
+			"description": "🌈🦄🏳️‍🌈Bi",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 784,
+			"friends_count": 2915,
+			"listed_count": 5,
+			"created_at": "Sun Feb 15 15:12:46 +0000 2015",
+			"favourites_count": 92334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69070,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105529143016353793/ogzo-w6B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105529143016353793/ogzo-w6B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3021331500/1551154951",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105268686716166100,
+		"quoted_status_id_str": "1105268686716166144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NRgywdRCA0",
+			"expanded": "https://twitter.com/chosun/status/1105268686716166144",
+			"display": "twitter.com/chosun/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 12 00:46:04 +0000 2019",
+			"id": 1105268686716166100,
+			"id_str": "1105268686716166144",
+			"full_text": "[SC이슈]정준영 몰카 공유 피해女 \"기분나쁘고 너무 싫어…처벌 원해\" https://t.co/E6HlvV7ed7 https://t.co/Et3dek7uak",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E6HlvV7ed7",
+						"expanded_url": "http://dlvr.it/R0dpSL",
+						"display_url": "dlvr.it/R0dpSL",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1105268684908453900,
+						"id_str": "1105268684908453889",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D1a0A1FU4AEw9Wr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1a0A1FU4AEw9Wr.jpg",
+						"url": "https://t.co/Et3dek7uak",
+						"display_url": "pic.twitter.com/Et3dek7uak",
+						"expanded_url": "https://twitter.com/Chosun/status/1105268686716166144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 785,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 785,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105268684908453900,
+						"id_str": "1105268684908453889",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D1a0A1FU4AEw9Wr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1a0A1FU4AEw9Wr.jpg",
+						"url": "https://t.co/Et3dek7uak",
+						"display_url": "pic.twitter.com/Et3dek7uak",
+						"expanded_url": "https://twitter.com/Chosun/status/1105268686716166144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 785,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 785,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61115620,
+				"id_str": "61115620",
+				"name": "조선일보",
+				"screen_name": "Chosun",
+				"location": "Korea",
+				"description": "대한민국 1등 인터넷 뉴스",
+				"url": "http://t.co/RrRKpQbQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RrRKpQbQxD",
+								"expanded_url": "http://chosun.com",
+								"display_url": "chosun.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147223,
+				"friends_count": 6502,
+				"listed_count": 2156,
+				"created_at": "Wed Jul 29 04:47:18 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 85965,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1A1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61115620/1498113979",
+				"profile_link_color": "9E1414",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D90723",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 286,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 20760,
+		"favorite_count": 3024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "피해녀가 뭐야 시발 ㅗ 피해자란 말도 모르냐 https://t.co/NRgywdRCA0"
+	},
+	{
+		"created_at": "Tue Mar 12 19:52:29 +0000 2019",
+		"id": 1105452140225392600,
+		"id_str": "1105557191321214977",
+		"full_text": "진심이야?\n진심 이 디자인을 해놓고 포토샵 펀딩을?\nhttps://t.co/y3JB8akr1m https://t.co/eiWewfnBGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3JB8akr1m",
+					"expanded_url": "https://www.wadiz.kr/web/campaign/detail/32089",
+					"display_url": "wadiz.kr/web/campaign/d…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105452116653428700,
+					"id_str": "1105452116653428737",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D1da19lU0AEgd-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1da19lU0AEgd-m.jpg",
+					"url": "https://t.co/eiWewfnBGY",
+					"display_url": "pic.twitter.com/eiWewfnBGY",
+					"expanded_url": "https://twitter.com/mybuckylist/status/1105452140225392640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105452116653428700,
+					"id_str": "1105452116653428737",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D1da19lU0AEgd-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1da19lU0AEgd-m.jpg",
+					"url": "https://t.co/eiWewfnBGY",
+					"display_url": "pic.twitter.com/eiWewfnBGY",
+					"expanded_url": "https://twitter.com/mybuckylist/status/1105452140225392640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105452129903231000,
+					"id_str": "1105452129903230976",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D1da2u8UwAADTTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1da2u8UwAADTTA.jpg",
+					"url": "https://t.co/eiWewfnBGY",
+					"display_url": "pic.twitter.com/eiWewfnBGY",
+					"expanded_url": "https://twitter.com/mybuckylist/status/1105452140225392640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2613466112,
+			"id_str": "2613466112",
+			"name": "쉐릴",
+			"screen_name": "mybuckylist",
+			"location": "",
+			"description": "팔로하지 않는 분의 멘션은 보이지 않으니 디엠주세요 / 가끔 블락체인 돌림",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 611,
+			"listed_count": 4,
+			"created_at": "Wed Jul 09 12:14:30 +0000 2014",
+			"favourites_count": 16251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78464,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100922715911815169/gCUkRS6h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100922715911815169/gCUkRS6h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2613466112/1513912490",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1287,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진심이야?\n진심 이 디자인을 해놓고 포토샵 펀딩을?\nhttps://t.co/y3JB8akr1m https://t.co/eiWewfnBGY"
+	},
+	{
 		"created_at": "Tue Mar 12 18:36:04 +0000 2019",
 		"id": 1105537963201458200,
 		"id_str": "1105537963201458176",
