@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 05:23:20 +0000 2019",
+		"id": 1105330027112017900,
+		"id_str": "1105338464201924608",
+		"full_text": "[단독]이스타항공 기장 \"구형에 기술만 얹은 B737 맥스…결함대응 어렵다\"\nhttps://t.co/rNtN9QvVv7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rNtN9QvVv7",
+					"expanded_url": "http://news1.kr/articles/?3568680",
+					"display_url": "news1.kr/articles/?3568…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 306270339,
+			"id_str": "306270339",
+			"name": "뉴스1",
+			"screen_name": "News1Kr",
+			"location": "서울시 종로구 종로 47 (공평동, SC빌딩 17층)",
+			"description": "사실 앞에 겸손한 뉴스. 민영 종합 뉴스통신사 뉴스1코리아 입니다.",
+			"url": "http://t.co/uSVWYaePnd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uSVWYaePnd",
+							"expanded_url": "http://news1.kr",
+							"display_url": "news1.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9869,
+			"friends_count": 6132,
+			"listed_count": 224,
+			"created_at": "Fri May 27 15:49:13 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43411,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877804122283548672/CoH-qpxZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877804122283548672/CoH-qpxZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/306270339/1498119481",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]이스타항공 기장 \"구형에 기술만 얹은 B737 맥스…결함대응 어렵다\"\nhttps://t.co/rNtN9QvVv7"
+	},
+	{
 		"created_at": "Tue Mar 12 03:07:01 +0000 2019",
 		"id": 1105302458836766700,
 		"id_str": "1105304157487939585",
