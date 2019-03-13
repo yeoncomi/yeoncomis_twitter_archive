@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 01:38:09 +0000 2019",
+		"id": 1105644183082037200,
+		"id_str": "1105644183082037250",
+		"full_text": "@owo_Yui 호에에",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owo_Yui",
+					"name": "유이❀",
+					"id": 891670584874029000,
+					"id_str": "891670584874029056",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1105643232912859100,
+		"in_reply_to_status_id_str": "1105643232912859136",
+		"in_reply_to_user_id": 891670584874029000,
+		"in_reply_to_user_id_str": "891670584874029056",
+		"in_reply_to_screen_name": "owo_Yui",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 1011,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32068,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@owo_Yui 호에에"
+	},
+	{
+		"created_at": "Wed Mar 13 01:37:48 +0000 2019",
+		"id": 1105388422145826800,
+		"id_str": "1105644093864988672",
+		"full_text": "그럴 리가 내가 독어 전공하면서 유일하게 완독한 지문이 하리보 뒷면이었는데 흰색이 파인애플이고 초록색이 사과 맞음 https://t.co/O0RMISVACt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O0RMISVACt",
+					"expanded_url": "https://twitter.com/hyea0003/status/1105270562744463360",
+					"display_url": "twitter.com/hyea0003/statu…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027806222110474200,
+			"id_str": "1027806222110474241",
+			"name": "기력소멸 윤야채",
+			"screen_name": "Pgsgfnp",
+			"location": "oH 즐거운 인생!",
+			"description": "🍅여러가지 의미로 본계 알티계 커뮤계/소수의 욕.섹트포함/교류 최고야/🥫★할 말=뎀★, 돌려말하면 못 알아들어요 정확히 전달해주세요 / 모든 알티가 동의는 아닙니다/ 🍝누구 오너인지 모르겠다면,성향표 보려면 링크/ 접률 갑자기 뒤지면 혐생입니다/ 앤관오님들 당신은 나의 오아시스",
+			"url": "https://t.co/IFHDLPhKpB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IFHDLPhKpB",
+							"expanded_url": "https://hoy.kr/xlNu",
+							"display_url": "hoy.kr/xlNu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Fri Aug 10 06:37:53 +0000 2018",
+			"favourites_count": 3008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097119368004087808/j13zN3Gy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097119368004087808/j13zN3Gy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027806222110474241/1550409248",
+			"profile_link_color": "F16F4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105270562744463400,
+		"quoted_status_id_str": "1105270562744463360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O0RMISVACt",
+			"expanded": "https://twitter.com/hyea0003/status/1105270562744463360",
+			"display": "twitter.com/hyea0003/statu…"
+		},
+		"retweet_count": 9775,
+		"favorite_count": 1729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그럴 리가 내가 독어 전공하면서 유일하게 완독한 지문이 하리보 뒷면이었는데 흰색이 파인애플이고 초록색이 사과 맞음 https://t.co/O0RMISVACt"
+	},
+	{
+		"created_at": "Wed Mar 13 01:36:03 +0000 2019",
+		"id": 1105632601060982800,
+		"id_str": "1105643653618257920",
+		"full_text": "와... 이 기사는 진짜 충격적이다. https://t.co/Jnf72k1VWm\n\n지금까지 식약처가 재고 떨어질 때까지 그냥 방관하고 있었던 줄 알았는데, 그게 아니라 적극적으로 공급 재개를 방해하고 있었던 거네. 흉부외과 학회에서 나서서 고어사 설득하고 공급 재개 약속 받아냈는데 식약처에서 불허. https://t.co/arFNP8eXTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jnf72k1VWm",
+					"expanded_url": "http://m.medicaltimes.com/NewsView.html?ID=1125024&fbclid=IwAR2UK3jX9R-Bah5m4M0raAy2-cO1CJdZ6RavuvgR-hjtHf9h7ezjP1FIVuY",
+					"display_url": "m.medicaltimes.com/NewsView.html?…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105632592840134700,
+					"id_str": "1105632592840134657",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f-_DxUkAE7CDM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f-_DxUkAE7CDM.jpg",
+					"url": "https://t.co/arFNP8eXTF",
+					"display_url": "pic.twitter.com/arFNP8eXTF",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1105632601060982784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 247,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105632592840134700,
+					"id_str": "1105632592840134657",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f-_DxUkAE7CDM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f-_DxUkAE7CDM.jpg",
+					"url": "https://t.co/arFNP8eXTF",
+					"display_url": "pic.twitter.com/arFNP8eXTF",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1105632601060982784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 247,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169690766,
+			"id_str": "169690766",
+			"name": "월급루팡 엑스아미닥, M.D.",
+			"screen_name": "Ex_Armydoc",
+			"location": "Galaxy far, far away…",
+			"description": "M.D. • 하이개거 • 다크 사이드 • 아마추어 매지션 • 닥터페퍼 중독 • 교토 홀릭 // 먹짤계 : @GourmetArmydoc 교토여행계 : @KyoArmydoc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28884,
+			"friends_count": 723,
+			"listed_count": 322,
+			"created_at": "Thu Jul 22 23:14:42 +0000 2010",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 157063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169690766/1547011486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 383,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와... 이 기사는 진짜 충격적이다. https://t.co/Jnf72k1VWm\n\n지금까지 식약처가 재고 떨어질 때까지 그냥 방관하고 있었던 줄 알았는데, 그게 아니라 적극적으로 공급 재개를 방해하고 있었던 거네. 흉부외과 학회에서 나서서 고어사 설득하고 공급 재개 약속 받아냈는데 식약처에서 불허. https://t.co/arFNP8eXTF"
+	},
+	{
+		"created_at": "Wed Mar 13 01:36:00 +0000 2019",
+		"id": 1105633393826381800,
+		"id_str": "1105643639936421889",
+		"full_text": "그러다가 재고마저 떨어져 수술 중단 사태 벌어지고 이슈화되니까 부랴부랴 허가 살려놓고는 비난받을 것 같으니까 고어사를 반인권적이고 비윤리적인 기업으로 매도한 거야? \n\n이 나라 식약처 정말 대단하다. https://t.co/AE1YxrslGc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105633384162746400,
+					"id_str": "1105633384162746371",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f_tHrVYAMebR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f_tHrVYAMebR3.jpg",
+					"url": "https://t.co/AE1YxrslGc",
+					"display_url": "pic.twitter.com/AE1YxrslGc",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1105633393826381824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105633384162746400,
+					"id_str": "1105633384162746371",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f_tHrVYAMebR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f_tHrVYAMebR3.jpg",
+					"url": "https://t.co/AE1YxrslGc",
+					"display_url": "pic.twitter.com/AE1YxrslGc",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1105633393826381824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105633384162746400,
+					"id_str": "1105633384162746368",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D1f_tHrVYAAXmuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1f_tHrVYAAXmuB.jpg",
+					"url": "https://t.co/AE1YxrslGc",
+					"display_url": "pic.twitter.com/AE1YxrslGc",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1105633393826381824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1105632601060982800,
+		"in_reply_to_status_id_str": "1105632601060982784",
+		"in_reply_to_user_id": 169690766,
+		"in_reply_to_user_id_str": "169690766",
+		"in_reply_to_screen_name": "Ex_Armydoc",
+		"user": {
+			"id": 169690766,
+			"id_str": "169690766",
+			"name": "월급루팡 엑스아미닥, M.D.",
+			"screen_name": "Ex_Armydoc",
+			"location": "Galaxy far, far away…",
+			"description": "M.D. • 하이개거 • 다크 사이드 • 아마추어 매지션 • 닥터페퍼 중독 • 교토 홀릭 // 먹짤계 : @GourmetArmydoc 교토여행계 : @KyoArmydoc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28884,
+			"friends_count": 723,
+			"listed_count": 322,
+			"created_at": "Thu Jul 22 23:14:42 +0000 2010",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 157063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169690766/1547011486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그러다가 재고마저 떨어져 수술 중단 사태 벌어지고 이슈화되니까 부랴부랴 허가 살려놓고는 비난받을 것 같으니까 고어사를 반인권적이고 비윤리적인 기업으로 매도한 거야? \n\n이 나라 식약처 정말 대단하다. https://t.co/AE1YxrslGc"
+	},
+	{
 		"created_at": "Tue Mar 12 23:24:32 +0000 2019",
 		"id": 1105610557976043500,
 		"id_str": "1105610557976043520",
