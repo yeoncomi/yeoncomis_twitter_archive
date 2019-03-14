@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 04:37:56 +0000 2019",
+		"id": 1106033007289200600,
+		"id_str": "1106051811880755200",
+		"full_text": "부르주아의 사탕 상술 '화이트데이', 마르크스 박사께서 서거한 날입니다.\n부르주아지는 그 사실을 희석시키고 우리한테 얄팍한 상술로 사탕을 주고 받는 날로 만든걸 아십니까? 우리가 제대로 알고 기억해야 합니다. https://t.co/VLaoUJzq2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106032967858577400,
+					"id_str": "1106032967858577408",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D1lrH88U4AAUIoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1lrH88U4AAUIoQ.jpg",
+					"url": "https://t.co/VLaoUJzq2L",
+					"display_url": "pic.twitter.com/VLaoUJzq2L",
+					"expanded_url": "https://twitter.com/RN_fortuna/status/1106033007289200641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 964,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 964,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106032967858577400,
+					"id_str": "1106032967858577408",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D1lrH88U4AAUIoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1lrH88U4AAUIoQ.jpg",
+					"url": "https://t.co/VLaoUJzq2L",
+					"display_url": "pic.twitter.com/VLaoUJzq2L",
+					"expanded_url": "https://twitter.com/RN_fortuna/status/1106033007289200641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 964,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 964,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106032967875346400,
+					"id_str": "1106032967875346433",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D1lrH9AUwAEBE_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1lrH9AUwAEBE_B.jpg",
+					"url": "https://t.co/VLaoUJzq2L",
+					"display_url": "pic.twitter.com/VLaoUJzq2L",
+					"expanded_url": "https://twitter.com/RN_fortuna/status/1106033007289200641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 516,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 516,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705994050654965800,
+			"id_str": "705994050654965760",
+			"name": "[맑엥책선입금~16일] 로노/RONO",
+			"screen_name": "RN_fortuna",
+			"location": "M님 -10.0",
+			"description": "연성+커미션계 | FUB FREE | HE/HIM | Eng OK + un peu français | Do NOT reupload my artworks without my permission! | 읽어주세요/Please read: https://t.co/I4lv089Rxa",
+			"url": "https://t.co/IhHRGfNTHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IhHRGfNTHe",
+							"expanded_url": "http://ronocom.creatorlink.net",
+							"display_url": "ronocom.creatorlink.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/I4lv089Rxa",
+							"expanded_url": "http://twpf.jp/RN_fortuna",
+							"display_url": "twpf.jp/RN_fortuna",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 14,
+			"listed_count": 11,
+			"created_at": "Sat Mar 05 05:51:13 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1197,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086874622358827010/UA-GHMbA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086874622358827010/UA-GHMbA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705994050654965760/1547830492",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부르주아의 사탕 상술 '화이트데이', 마르크스 박사께서 서거한 날입니다.\n부르주아지는 그 사실을 희석시키고 우리한테 얄팍한 상술로 사탕을 주고 받는 날로 만든걸 아십니까? 우리가 제대로 알고 기억해야 합니다. https://t.co/VLaoUJzq2L"
+	},
+	{
 		"created_at": "Thu Mar 14 03:33:08 +0000 2019",
 		"id": 1105853930490073100,
 		"id_str": "1106035505634861057",
