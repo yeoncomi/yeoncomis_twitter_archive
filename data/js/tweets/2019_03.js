@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 00:39:20 +0000 2019",
+		"id": 1105659079714844700,
+		"id_str": "1105991766023389184",
+		"full_text": "i just want you all to know that canonically, casual hoodie misaki's shirt does not say funny\nit says FUNY https://t.co/zjUhDj6S91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105659013524586500,
+					"id_str": "1105659013524586496",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gXA8fXgAAxP3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gXA8fXgAAxP3l.jpg",
+					"url": "https://t.co/zjUhDj6S91",
+					"display_url": "pic.twitter.com/zjUhDj6S91",
+					"expanded_url": "https://twitter.com/PsychicTerrain/status/1105659079714844673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 862,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 862,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105659013524586500,
+					"id_str": "1105659013524586496",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gXA8fXgAAxP3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gXA8fXgAAxP3l.jpg",
+					"url": "https://t.co/zjUhDj6S91",
+					"display_url": "pic.twitter.com/zjUhDj6S91",
+					"expanded_url": "https://twitter.com/PsychicTerrain/status/1105659079714844673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 862,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 862,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105659020021514200,
+					"id_str": "1105659020021514240",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gXBUsWwAApE3A.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1gXBUsWwAApE3A.png",
+					"url": "https://t.co/zjUhDj6S91",
+					"display_url": "pic.twitter.com/zjUhDj6S91",
+					"expanded_url": "https://twitter.com/PsychicTerrain/status/1105659079714844673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 124,
+							"h": 135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 124,
+							"h": 135,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 124,
+							"h": 135,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3929629875,
+			"id_str": "3929629875",
+			"name": "no weaknesses no regrets",
+			"screen_name": "PsychicTerrain",
+			"location": "asstown",
+			"description": "i have bitch disorder | backup is @psychic_terrain",
+			"url": "https://t.co/h0MdhlUstQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0MdhlUstQ",
+							"expanded_url": "https://espurr.carrd.co",
+							"display_url": "espurr.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7232,
+			"friends_count": 5304,
+			"listed_count": 344,
+			"created_at": "Sun Oct 11 17:37:22 +0000 2015",
+			"favourites_count": 197892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066933014188474368/1EsVry1m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066933014188474368/1EsVry1m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3929629875/1551764382",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i just want you all to know that canonically, casual hoodie misaki's shirt does not say funny\nit says FUNY https://t.co/zjUhDj6S91"
+	},
+	{
 		"created_at": "Wed Mar 13 14:51:42 +0000 2019",
 		"id": 1105747037545390100,
 		"id_str": "1105843884771307525",
