@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 17:17:43 +0000 2019",
+		"id": 1106591796115710000,
+		"id_str": "1106605406896287745",
+		"full_text": "Here's how not to respond to a mass shooting https://t.co/W03UDHIBOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106591726750351400,
+					"id_str": "1106591726750351360",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D1tnUABXQAAI3We.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1tnUABXQAAI3We.png",
+					"url": "https://t.co/W03UDHIBOE",
+					"display_url": "pic.twitter.com/W03UDHIBOE",
+					"expanded_url": "https://twitter.com/classiclib3ral/status/1106591796115709954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 725,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 243,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106591726750351400,
+					"id_str": "1106591726750351360",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D1tnUABXQAAI3We.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1tnUABXQAAI3We.png",
+					"url": "https://t.co/W03UDHIBOE",
+					"display_url": "pic.twitter.com/W03UDHIBOE",
+					"expanded_url": "https://twitter.com/classiclib3ral/status/1106591796115709954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 725,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 243,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813554157097459700,
+			"id_str": "813554157097459714",
+			"name": "Wild Geerters",
+			"screen_name": "classiclib3ral",
+			"location": "Ø",
+			"description": "Ø",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66033,
+			"friends_count": 1966,
+			"listed_count": 387,
+			"created_at": "Tue Dec 27 01:16:40 +0000 2016",
+			"favourites_count": 69092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916032228597092353/nMANJI2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916032228597092353/nMANJI2B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813554157097459714/1508883803",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 4127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's how not to respond to a mass shooting https://t.co/W03UDHIBOE"
+	},
+	{
 		"created_at": "Fri Mar 15 03:08:08 +0000 2019",
 		"id": 1106385195672825900,
 		"id_str": "1106391603160084480",
