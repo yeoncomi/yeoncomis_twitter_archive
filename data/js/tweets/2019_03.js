@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 21:33:47 +0000 2019",
+		"id": 1106602009300394000,
+		"id_str": "1106669848921145344",
+		"full_text": "Maple Ridge's \"verified\" number of homeless residents at Anita Place will undoubtedly be an undercount, and this is why [🔗]:  https://t.co/oneiJHuDGD #AnitaPlace #DefendAnitaPlace #MapleRidge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnitaPlace",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "DefendAnitaPlace",
+					"indices": [
+						162,
+						179
+					]
+				},
+				{
+					"text": "MapleRidge",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oneiJHuDGD",
+					"expanded_url": "http://www.pivotlegal.org/maple_ridge_s_problematic_identification_and_verification_processes_for_anita_place",
+					"display_url": "pivotlegal.org/maple_ridge_s_…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22320210,
+			"id_str": "22320210",
+			"name": "Pivot Legal Society",
+			"screen_name": "pivotlegal",
+			"location": "Vancouver, BC",
+			"description": "Using the law as a catalyst for change✊🏽 Our lawyers fight injustice by reforming the systems and laws that cause poverty, discrimination, and social exclusion",
+			"url": "https://t.co/qCz6J4cpVf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCz6J4cpVf",
+							"expanded_url": "http://www.pivotlegal.org",
+							"display_url": "pivotlegal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15965,
+			"friends_count": 9455,
+			"listed_count": 442,
+			"created_at": "Sun Mar 01 01:52:03 +0000 2009",
+			"favourites_count": 1942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012009556832972800/0ggf6rac_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012009556832972800/0ggf6rac_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22320210/1539792178",
+			"profile_link_color": "DD0303",
+			"profile_sidebar_border_color": "ACADA8",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maple Ridge's \"verified\" number of homeless residents at Anita Place will undoubtedly be an undercount, and this is why [🔗]:  https://t.co/oneiJHuDGD #AnitaPlace #DefendAnitaPlace #MapleRidge"
+	},
+	{
+		"created_at": "Fri Mar 15 21:32:15 +0000 2019",
+		"id": 1106668163318472700,
+		"id_str": "1106669462273425408",
+		"full_text": "Xplornet to invest $500 million to upgrade wireless, internet service in rural areas https://t.co/loyiEag1Tq @GlobeBusiness https://t.co/YWxKbng0Jy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "globebusiness",
+					"name": "Report on Business",
+					"id": 18981482,
+					"id_str": "18981482",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/loyiEag1Tq",
+					"expanded_url": "http://dlvr.it/R0wHRs",
+					"display_url": "dlvr.it/R0wHRs",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106668161917546500,
+					"id_str": "1106668161917546496",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1us1HNUcAArlYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1us1HNUcAArlYv.jpg",
+					"url": "https://t.co/YWxKbng0Jy",
+					"display_url": "pic.twitter.com/YWxKbng0Jy",
+					"expanded_url": "https://twitter.com/globeandmail/status/1106668163318472704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106668161917546500,
+					"id_str": "1106668161917546496",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1us1HNUcAArlYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1us1HNUcAArlYv.jpg",
+					"url": "https://t.co/YWxKbng0Jy",
+					"display_url": "pic.twitter.com/YWxKbng0Jy",
+					"expanded_url": "https://twitter.com/globeandmail/status/1106668163318472704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1750185,
+			"friends_count": 557,
+			"listed_count": 14222,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 451617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Xplornet to invest $500 million to upgrade wireless, internet service in rural areas https://t.co/loyiEag1Tq @GlobeBusiness https://t.co/YWxKbng0Jy"
+	},
+	{
 		"created_at": "Fri Mar 15 19:25:44 +0000 2019",
 		"id": 1106637622657454100,
 		"id_str": "1106637622657454080",
