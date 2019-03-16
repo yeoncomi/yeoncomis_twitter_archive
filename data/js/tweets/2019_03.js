@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 15:16:24 +0000 2019",
+		"id": 1106703822359912400,
+		"id_str": "1106937262783102976",
+		"full_text": "승리 카톡이 16년인데 문재인이가 몇년도에 대통령이됐노 씹새끼들아 https://t.co/ZWW7UPDUO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZWW7UPDUO7",
+					"expanded_url": "https://twitter.com/Chosun/status/1106550625255346176",
+					"display_url": "twitter.com/Chosun/status/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274926161,
+			"id_str": "274926161",
+			"name": "로트리버",
+			"screen_name": "RonyRitriever",
+			"location": "",
+			"description": "행동하는 양심이 되고싶다",
+			"url": "https://t.co/BV6uR8IeIm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BV6uR8IeIm",
+							"expanded_url": "https://open.kakao.com/o/gdomMAgb",
+							"display_url": "open.kakao.com/o/gdomMAgb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 883,
+			"listed_count": 7,
+			"created_at": "Thu Mar 31 08:53:30 +0000 2011",
+			"favourites_count": 53792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106507,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075721951883100160/MzA8cQZI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075721951883100160/MzA8cQZI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274926161/1550276556",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106550625255346200,
+		"quoted_status_id_str": "1106550625255346176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZWW7UPDUO7",
+			"expanded": "https://twitter.com/Chosun/status/1106550625255346176",
+			"display": "twitter.com/Chosun/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 13:40:02 +0000 2019",
+			"id": 1106550625255346200,
+			"id_str": "1106550625255346176",
+			"full_text": "'승리 비호' 의혹 A총경, 현 청와대 민정실 근무했었다 https://t.co/ENYdiO9Q8V https://t.co/BBQfQr3UEK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ENYdiO9Q8V",
+						"expanded_url": "http://dlvr.it/R0trFy",
+						"display_url": "dlvr.it/R0trFy",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106550623707623400,
+						"id_str": "1106550623707623425",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/D1tB7fQUcAEwV71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1tB7fQUcAEwV71.jpg",
+						"url": "https://t.co/BBQfQr3UEK",
+						"display_url": "pic.twitter.com/BBQfQr3UEK",
+						"expanded_url": "https://twitter.com/Chosun/status/1106550625255346176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106550623707623400,
+						"id_str": "1106550623707623425",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/D1tB7fQUcAEwV71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1tB7fQUcAEwV71.jpg",
+						"url": "https://t.co/BBQfQr3UEK",
+						"display_url": "pic.twitter.com/BBQfQr3UEK",
+						"expanded_url": "https://twitter.com/Chosun/status/1106550625255346176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 601,
+								"h": 347,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61115620,
+				"id_str": "61115620",
+				"name": "조선일보",
+				"screen_name": "Chosun",
+				"location": "Korea",
+				"description": "대한민국 1등 인터넷 뉴스",
+				"url": "http://t.co/RrRKpQbQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RrRKpQbQxD",
+								"expanded_url": "http://chosun.com",
+								"display_url": "chosun.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147216,
+				"friends_count": 6497,
+				"listed_count": 2158,
+				"created_at": "Wed Jul 29 04:47:18 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 86039,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1A1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61115620/1498113979",
+				"profile_link_color": "9E1414",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D90723",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 96,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "승리 카톡이 16년인데 문재인이가 몇년도에 대통령이됐노 씹새끼들아 https://t.co/ZWW7UPDUO7"
+	},
+	{
 		"created_at": "Sat Mar 16 05:28:04 +0000 2019",
 		"id": 1106784678529380400,
 		"id_str": "1106789203877072899",
