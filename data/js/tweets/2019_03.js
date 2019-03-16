@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 01:50:33 +0000 2019",
+		"id": 1106593649817604100,
+		"id_str": "1106734464682491904",
+		"full_text": "New Zealand fascist murderer given confidence by climate of Islamophobia\nhttps://t.co/zXauFMX7Bd https://t.co/FqmHA5u6SD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zXauFMX7Bd",
+					"expanded_url": "https://socialistworker.co.uk/art/48035/New+Zealand+fascist+murderer+given+confidence+by+climate+of+Islamophobia",
+					"display_url": "socialistworker.co.uk/art/48035/New+…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106544177381281800,
+					"id_str": "1106544177381281793",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D1s8EQ0WkAEs-PX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1s8EQ0WkAEs-PX.jpg",
+					"url": "https://t.co/FqmHA5u6SD",
+					"display_url": "pic.twitter.com/FqmHA5u6SD",
+					"expanded_url": "https://twitter.com/socialistworker/status/1106593649817604101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106544177381281800,
+					"id_str": "1106544177381281793",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D1s8EQ0WkAEs-PX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1s8EQ0WkAEs-PX.jpg",
+					"url": "https://t.co/FqmHA5u6SD",
+					"display_url": "pic.twitter.com/FqmHA5u6SD",
+					"expanded_url": "https://twitter.com/socialistworker/status/1106593649817604101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22934558,
+			"id_str": "22934558",
+			"name": "Socialist Worker",
+			"screen_name": "socialistworker",
+			"location": "London",
+			"description": "A revolutionary anti-capitalist paper in Britain",
+			"url": "http://t.co/ANvDIb4q8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ANvDIb4q8f",
+							"expanded_url": "http://socialistworker.co.uk",
+							"display_url": "socialistworker.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29995,
+			"friends_count": 0,
+			"listed_count": 784,
+			"created_at": "Thu Mar 05 15:52:36 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BB2222",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2325480396/fh711oe46d900lwlaz7d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2325480396/fh711oe46d900lwlaz7d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22934558/1354194456",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "DD2222",
+			"profile_sidebar_fill_color": "FF8888",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Zealand fascist murderer given confidence by climate of Islamophobia\nhttps://t.co/zXauFMX7Bd https://t.co/FqmHA5u6SD"
+	},
+	{
+		"created_at": "Sat Mar 16 01:48:01 +0000 2019",
+		"id": 1106510080940269600,
+		"id_str": "1106733826519109632",
+		"full_text": "압도적 비주얼 https://t.co/E9LYKwZtjE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106510064318214100,
+					"id_str": "1106510064318214144",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sdCnwU8AAvCYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sdCnwU8AAvCYX.jpg",
+					"url": "https://t.co/E9LYKwZtjE",
+					"display_url": "pic.twitter.com/E9LYKwZtjE",
+					"expanded_url": "https://twitter.com/sting0114/status/1106510080940269569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 954,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 954,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106510064318214100,
+					"id_str": "1106510064318214144",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sdCnwU8AAvCYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sdCnwU8AAvCYX.jpg",
+					"url": "https://t.co/E9LYKwZtjE",
+					"display_url": "pic.twitter.com/E9LYKwZtjE",
+					"expanded_url": "https://twitter.com/sting0114/status/1106510080940269569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1126,
+							"h": 954,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1126,
+							"h": 954,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129046826,
+			"id_str": "129046826",
+			"name": "스팅🌸",
+			"screen_name": "sting0114",
+			"location": "korea",
+			"description": "사랑이야.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 502,
+			"listed_count": 26,
+			"created_at": "Sat Apr 03 01:15:20 +0000 2010",
+			"favourites_count": 2155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 216003,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099220116888117248/SMN4dke5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099220116888117248/SMN4dke5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129046826/1507000970",
+			"profile_link_color": "9933CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "압도적 비주얼 https://t.co/E9LYKwZtjE"
+	},
+	{
+		"created_at": "Sat Mar 16 01:46:53 +0000 2019",
+		"id": 1106488960677642200,
+		"id_str": "1106733544905175040",
+		"full_text": "https://t.co/lb7tq47ISp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106488771539664900,
+					"id_str": "1106488771539664897",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sJrN-UgAEG_32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sJrN-UgAEG_32.jpg",
+					"url": "https://t.co/lb7tq47ISp",
+					"display_url": "pic.twitter.com/lb7tq47ISp",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1106488960677642240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 702,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1845,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106488771539664900,
+					"id_str": "1106488771539664897",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sJrN-UgAEG_32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sJrN-UgAEG_32.jpg",
+					"url": "https://t.co/lb7tq47ISp",
+					"display_url": "pic.twitter.com/lb7tq47ISp",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1106488960677642240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 702,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1845,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106488923633520600,
+					"id_str": "1106488923633520641",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sJ0EkUkAEnkDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sJ0EkUkAEnkDq.jpg",
+					"url": "https://t.co/lb7tq47ISp",
+					"display_url": "pic.twitter.com/lb7tq47ISp",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1106488960677642240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1845,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106488943455830000,
+					"id_str": "1106488943455830016",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D1sJ1OaVAAAu52q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1sJ1OaVAAAu52q.jpg",
+					"url": "https://t.co/lb7tq47ISp",
+					"display_url": "pic.twitter.com/lb7tq47ISp",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1106488960677642240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1845,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028140777862352900,
+			"id_str": "1028140777862352896",
+			"name": "디씨의 소리를 찾아서",
+			"screen_name": "DCinside_voice",
+			"location": "",
+			"description": "세상에서 제일 재미있는 디씨스샷을 올리는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Sat Aug 11 04:47:18 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028140777862352896/1533963178",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/lb7tq47ISp"
+	},
+	{
+		"created_at": "Sat Mar 16 01:44:59 +0000 2019",
+		"id": 1106390131919851500,
+		"id_str": "1106733067014561794",
+		"full_text": "북유게에 올라온 승리게이트 관련 정리된 그림. 작성자가 널리널리 퍼뜨려달라고도 했고, 찌라시들이 만들어놓은거 보다 훨씬 광범위하게 잘 그려져 있어서 갖고왔음. https://t.co/223HB8tPSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106389861504737300,
+					"id_str": "1106389861504737280",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D1qvt5YVYAAXWXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1qvt5YVYAAXWXq.jpg",
+					"url": "https://t.co/223HB8tPSN",
+					"display_url": "pic.twitter.com/223HB8tPSN",
+					"expanded_url": "https://twitter.com/bbeater99/status/1106390131919851520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106389861504737300,
+					"id_str": "1106389861504737280",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D1qvt5YVYAAXWXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1qvt5YVYAAXWXq.jpg",
+					"url": "https://t.co/223HB8tPSN",
+					"display_url": "pic.twitter.com/223HB8tPSN",
+					"expanded_url": "https://twitter.com/bbeater99/status/1106390131919851520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191979519,
+			"id_str": "191979519",
+			"name": "Kim Minho",
+			"screen_name": "bbeater99",
+			"location": "수도권 촌동네",
+			"description": "반병신",
+			"url": "https://t.co/dWeUJtgEEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dWeUJtgEEn",
+							"expanded_url": "http://bbeater.tistory.com",
+							"display_url": "bbeater.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 22,
+			"listed_count": 1,
+			"created_at": "Fri Sep 17 21:31:47 +0000 2010",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2327,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862878006825463809/ahM2QMVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862878006825463809/ahM2QMVc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16963,
+		"favorite_count": 3440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북유게에 올라온 승리게이트 관련 정리된 그림. 작성자가 널리널리 퍼뜨려달라고도 했고, 찌라시들이 만들어놓은거 보다 훨씬 광범위하게 잘 그려져 있어서 갖고왔음. https://t.co/223HB8tPSN"
+	},
+	{
 		"created_at": "Sat Mar 16 01:11:29 +0000 2019",
 		"id": 1106229323055284200,
 		"id_str": "1106724634861293568",
