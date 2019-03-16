@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 01:11:29 +0000 2019",
+		"id": 1106229323055284200,
+		"id_str": "1106724634861293568",
+		"full_text": "미쳤나 봐 ㅋㅋㅋㅋㅋㅋ https://t.co/Z2VNiCt2gw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106229314633109500,
+					"id_str": "1106229314633109504",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ods1rUkAARBdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ods1rUkAARBdM.jpg",
+					"url": "https://t.co/Z2VNiCt2gw",
+					"display_url": "pic.twitter.com/Z2VNiCt2gw",
+					"expanded_url": "https://twitter.com/ImSijik/status/1106229323055284224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106229314633109500,
+					"id_str": "1106229314633109504",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ods1rUkAARBdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ods1rUkAARBdM.jpg",
+					"url": "https://t.co/Z2VNiCt2gw",
+					"display_url": "pic.twitter.com/Z2VNiCt2gw",
+					"expanded_url": "https://twitter.com/ImSijik/status/1106229323055284224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817358278132801500,
+			"id_str": "817358278132801537",
+			"name": "브렉시트로 시귀봉진 당한 임시직",
+			"screen_name": "ImSijik",
+			"location": "템즈강 쓰레기통",
+			"description": "팅테솔스도 안 읽은 천하의 역적",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875,
+			"friends_count": 196,
+			"listed_count": 11,
+			"created_at": "Fri Jan 06 13:12:54 +0000 2017",
+			"favourites_count": 11786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69036,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015445146115104768/hXKw4sJG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015445146115104768/hXKw4sJG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817358278132801537/1522593826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미쳤나 봐 ㅋㅋㅋㅋㅋㅋ https://t.co/Z2VNiCt2gw"
+	},
+	{
 		"created_at": "Fri Mar 15 21:33:47 +0000 2019",
 		"id": 1106602009300394000,
 		"id_str": "1106669848921145344",
