@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 04:16:22 +0000 2019",
+		"id": 1048105507800510500,
+		"id_str": "1106771163982618625",
+		"full_text": "いまだに深夜になるとアクマ化しちゃいますし、\nバター舐めちゃいますし、\nクチバシの隙間からコーンの粒でちゃいますし、\nなんなら最近では甲高い声まで\n聴こえてきて困ってます。誰？\n#アクマのバタコ　#新商品\nhttps://t.co/iFxrBT0Caw https://t.co/E2xI2EFNLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "アクマのバタコ",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "新商品",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iFxrBT0Caw",
+					"expanded_url": "http://www.chickenramen.jp/product/",
+					"display_url": "chickenramen.jp/product/",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1048049636106154000,
+					"id_str": "1048049636106153984",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DotsenOVAAAirgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DotsenOVAAAirgD.jpg",
+					"url": "https://t.co/E2xI2EFNLm",
+					"display_url": "pic.twitter.com/E2xI2EFNLm",
+					"expanded_url": "https://twitter.com/nissin_hiyoko/status/1048105507800510464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1048049636106154000,
+					"id_str": "1048049636106153984",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DotsenOVAAAirgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DotsenOVAAAirgD.jpg",
+					"url": "https://t.co/E2xI2EFNLm",
+					"display_url": "pic.twitter.com/E2xI2EFNLm",
+					"expanded_url": "https://twitter.com/nissin_hiyoko/status/1048105507800510464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1048049636106153984/vid/320x180/ABKdMkPdQx1Oj_2O.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1048049636106153984/vid/1280x720/Lr3m8OcgKUOOqu2Z.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1048049636106153984/vid/640x360/sijxI-aD2UJxpOtw.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1048049636106153984/pl/RFmXBWmsKSJlm-10.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 704104886,
+			"id_str": "704104886",
+			"name": "チキンラーメン　ひよこちゃん",
+			"screen_name": "nissin_hiyoko",
+			"location": "",
+			"description": "チキンラーメンひよこちゃんの公式アカウントです。",
+			"url": "https://t.co/Xt997Tq8Bm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xt997Tq8Bm",
+							"expanded_url": "http://www.chickenramen.jp/",
+							"display_url": "chickenramen.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106175,
+			"friends_count": 48,
+			"listed_count": 664,
+			"created_at": "Thu Jul 19 01:10:41 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062530826716368896/X3_nEnUh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062530826716368896/X3_nEnUh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/704104886/1547633759",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6134,
+		"favorite_count": 10172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "いまだに深夜になるとアクマ化しちゃいますし、\nバター舐めちゃいますし、\nクチバシの隙間からコーンの粒でちゃいますし、\nなんなら最近では甲高い声まで\n聴こえてきて困ってます。誰？\n#アクマのバタコ　#新商品\nhttps://t.co/iFxrBT0Caw https://t.co/E2xI2EFNLm"
+	},
+	{
+		"created_at": "Sat Mar 16 04:10:46 +0000 2019",
+		"id": 1106666269300965400,
+		"id_str": "1106769751378804736",
+		"full_text": "동방극우지국. 서양의 극우 백인우월주의자들에게 동방의 신비한 극우국가로 알려진 대한민국. https://t.co/jVZODJDmUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106665694224154600,
+					"id_str": "1106665694224154631",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uqleVXgAc7rOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uqleVXgAc7rOA.jpg",
+					"url": "https://t.co/jVZODJDmUb",
+					"display_url": "pic.twitter.com/jVZODJDmUb",
+					"expanded_url": "https://twitter.com/gogqud/status/1106666269300965382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106665694224154600,
+					"id_str": "1106665694224154631",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uqleVXgAc7rOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uqleVXgAc7rOA.jpg",
+					"url": "https://t.co/jVZODJDmUb",
+					"display_url": "pic.twitter.com/jVZODJDmUb",
+					"expanded_url": "https://twitter.com/gogqud/status/1106666269300965382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106665765539844100,
+					"id_str": "1106665765539844096",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uqpoAWkAACke_.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1uqpoAWkAACke_.png",
+					"url": "https://t.co/jVZODJDmUb",
+					"display_url": "pic.twitter.com/jVZODJDmUb",
+					"expanded_url": "https://twitter.com/gogqud/status/1106666269300965382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 209,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 209,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157325889,
+			"id_str": "157325889",
+			"name": "마망파팡IV ( •᷄ὤ•᷅)?",
+			"screen_name": "gogqud",
+			"location": "Illinois",
+			"description": "박사받고탈물리할물리러입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 203,
+			"listed_count": 1,
+			"created_at": "Sat Jun 19 13:53:42 +0000 2010",
+			"favourites_count": 777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5422,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834989755741810688/Zb3S2uz__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834989755741810688/Zb3S2uz__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157325889/1487758468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 718,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동방극우지국. 서양의 극우 백인우월주의자들에게 동방의 신비한 극우국가로 알려진 대한민국. https://t.co/jVZODJDmUb"
+	},
+	{
+		"created_at": "Sat Mar 16 04:10:27 +0000 2019",
+		"id": 1106426894566608900,
+		"id_str": "1106769672727216128",
+		"full_text": "【みんな濃いしてる？💕】VTuber輝夜月さん🍤の「濃すぎる」新CM！ブランドサイトができたyo！撮影秘話もあるyo！💣💣💣\n#日清焼そばUFO #濃い濃いソース #輝夜月 #マキシマムザホルモン #バーチャルCM発表会 #なんてな\nhttps://t.co/SpQiIsX13X https://t.co/JiJAiyl8xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "日清焼そばUFO",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "濃い濃いソース",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "輝夜月",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "マキシマムザホルモン",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "バーチャルCM発表会",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "なんてな",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SpQiIsX13X",
+					"expanded_url": "https://www.nissin-ufo.jp/cm/",
+					"display_url": "nissin-ufo.jp/cm/",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106426534238126100,
+					"id_str": "1106426534238126091",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1106426534238126091/img/AERZkbBpEjOvlfMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1106426534238126091/img/AERZkbBpEjOvlfMN.jpg",
+					"url": "https://t.co/JiJAiyl8xd",
+					"display_url": "pic.twitter.com/JiJAiyl8xd",
+					"expanded_url": "https://twitter.com/nissin_u_f_o/status/1106426894566608897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106426534238126100,
+					"id_str": "1106426534238126091",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1106426534238126091/img/AERZkbBpEjOvlfMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1106426534238126091/img/AERZkbBpEjOvlfMN.jpg",
+					"url": "https://t.co/JiJAiyl8xd",
+					"display_url": "pic.twitter.com/JiJAiyl8xd",
+					"expanded_url": "https://twitter.com/nissin_u_f_o/status/1106426894566608897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1106426534238126091/vid/1280x720/fV3989DTn_ulJOy2.mp4?tag=11"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1106426534238126091/vid/320x180/POcjIr9sy5w5PIqH.mp4?tag=11"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1106426534238126091/pl/8B4wp5ddgfMWc53b.m3u8?tag=11"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1106426534238126091/vid/640x360/DID9lMbfVdgUpGaU.mp4?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492967425,
+			"id_str": "492967425",
+			"name": "日清焼そばU.F.O.公式",
+			"screen_name": "nissin_u_f_o",
+			"location": "",
+			"description": "日清焼そばU.F.O.公式アカウントです。 濃い濃いソース！ソース食おうぜ！ \n詳しくはhttps://t.co/crDzSkgjA7",
+			"url": "http://t.co/glgcOXGZhw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/glgcOXGZhw",
+							"expanded_url": "http://nissin-ufo.jp",
+							"display_url": "nissin-ufo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/crDzSkgjA7",
+							"expanded_url": "http://www.nissin-ufo.jp/",
+							"display_url": "nissin-ufo.jp",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53743,
+			"friends_count": 139,
+			"listed_count": 318,
+			"created_at": "Wed Feb 15 09:33:13 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3042,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/974450329524695040/FdVx2k1V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/974450329524695040/FdVx2k1V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492967425/1552553957",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21817,
+		"favorite_count": 39685,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【みんな濃いしてる？💕】VTuber輝夜月さん🍤の「濃すぎる」新CM！ブランドサイトができたyo！撮影秘話もあるyo！💣💣💣\n#日清焼そばUFO #濃い濃いソース #輝夜月 #マキシマムザホルモン #バーチャルCM発表会 #なんてな\nhttps://t.co/SpQiIsX13X https://t.co/JiJAiyl8xd"
+	},
+	{
 		"created_at": "Sat Mar 16 02:32:40 +0000 2019",
 		"id": 1106711736403411000,
 		"id_str": "1106745065823563776",
