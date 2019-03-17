@@ -1,6 +1,769 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 00:16:51 +0000 2019",
+		"id": 1107050841675042800,
+		"id_str": "1107073275379671040",
+		"full_text": "“P.S. Thanos was not involved.” @telegram I love you XD https://t.co/mC3GO2Y7rJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "telegram",
+					"name": "Telegram Messenger",
+					"id": 1689053928,
+					"id_str": "1689053928",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107050832590237700,
+					"id_str": "1107050832590237697",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D10I3ejXcAEzghN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D10I3ejXcAEzghN.jpg",
+					"url": "https://t.co/mC3GO2Y7rJ",
+					"display_url": "pic.twitter.com/mC3GO2Y7rJ",
+					"expanded_url": "https://twitter.com/BioTheWolf/status/1107050841675042816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107050832590237700,
+					"id_str": "1107050832590237697",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D10I3ejXcAEzghN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D10I3ejXcAEzghN.jpg",
+					"url": "https://t.co/mC3GO2Y7rJ",
+					"display_url": "pic.twitter.com/mC3GO2Y7rJ",
+					"expanded_url": "https://twitter.com/BioTheWolf/status/1107050841675042816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107050832598655000,
+					"id_str": "1107050832598654976",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D10I3elX4AA72EM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D10I3elX4AA72EM.jpg",
+					"url": "https://t.co/mC3GO2Y7rJ",
+					"display_url": "pic.twitter.com/mC3GO2Y7rJ",
+					"expanded_url": "https://twitter.com/BioTheWolf/status/1107050841675042816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4189080154,
+			"id_str": "4189080154",
+			"name": "Wolf that looms",
+			"screen_name": "BioTheWolf",
+			"location": "Orlando, FL",
+			"description": "A wolf that enjoys the greater things in life. /music addict / Gamer / Paws /likes to loom over things.💜💙@Tyehusky 💙💜",
+			"url": "https://t.co/X7sTwgwzhB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X7sTwgwzhB",
+							"expanded_url": "http://www.furaffinity.net/user/bi0wolf/",
+							"display_url": "furaffinity.net/user/bi0wolf/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 991,
+			"listed_count": 6,
+			"created_at": "Sat Nov 14 20:54:47 +0000 2015",
+			"favourites_count": 17531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13258,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095561958798098432/89clQONt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095561958798098432/89clQONt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4189080154/1547092528",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“P.S. Thanos was not involved.” @telegram I love you XD https://t.co/mC3GO2Y7rJ"
+	},
+	{
+		"created_at": "Sun Mar 17 00:14:26 +0000 2019",
+		"id": 1106863750399684600,
+		"id_str": "1107072664563150848",
+		"full_text": "MBN 정준영 동영상ㅋㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅋㅌㄲㅋㄱㅋㄱㅋㅋㅋㄱㅋㅅㅋㄱㅋㅌㅋㅋ 미쳤나봐 https://t.co/6NnuxxF45f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106863741935611900,
+					"id_str": "1106863741935611905",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D1xetXjU8AE3KKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1xetXjU8AE3KKX.jpg",
+					"url": "https://t.co/6NnuxxF45f",
+					"display_url": "pic.twitter.com/6NnuxxF45f",
+					"expanded_url": "https://twitter.com/sujin041017/status/1106863750399684609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106863741935611900,
+					"id_str": "1106863741935611905",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D1xetXjU8AE3KKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1xetXjU8AE3KKX.jpg",
+					"url": "https://t.co/6NnuxxF45f",
+					"display_url": "pic.twitter.com/6NnuxxF45f",
+					"expanded_url": "https://twitter.com/sujin041017/status/1106863750399684609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106863741939769300,
+					"id_str": "1106863741939769347",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D1xetXkUYAMTWhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1xetXkUYAMTWhw.jpg",
+					"url": "https://t.co/6NnuxxF45f",
+					"display_url": "pic.twitter.com/6NnuxxF45f",
+					"expanded_url": "https://twitter.com/sujin041017/status/1106863750399684609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082981539489542100,
+			"id_str": "1082981539489542145",
+			"name": "해뀽",
+			"screen_name": "sujin041017",
+			"location": "",
+			"description": "04년생 그림 그리는 계정쓰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 194,
+			"listed_count": 0,
+			"created_at": "Wed Jan 09 12:44:54 +0000 2019",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100044616319946753/zBtlvHmq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100044616319946753/zBtlvHmq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082981539489542145/1551106050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2662,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MBN 정준영 동영상ㅋㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅋㅌㄲㅋㄱㅋㄱㅋㅋㅋㄱㅋㅅㅋㄱㅋㅌㅋㅋ 미쳤나봐 https://t.co/6NnuxxF45f"
+	},
+	{
+		"created_at": "Sun Mar 17 00:14:12 +0000 2019",
+		"id": 1106663095064121300,
+		"id_str": "1107072607252180993",
+		"full_text": "돌겠네 욕조 사진 찾다가 본건데 아무리봐도 사골곰탕에 뿌려진 고춧가루로밖에 안보임 https://t.co/A0gEXcptZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106663069684359200,
+					"id_str": "1106663069684359168",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uoMtKUYAA-kyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uoMtKUYAA-kyC.jpg",
+					"url": "https://t.co/A0gEXcptZJ",
+					"display_url": "pic.twitter.com/A0gEXcptZJ",
+					"expanded_url": "https://twitter.com/dear_vein/status/1106663095064121344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106663069684359200,
+					"id_str": "1106663069684359168",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uoMtKUYAA-kyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uoMtKUYAA-kyC.jpg",
+					"url": "https://t.co/A0gEXcptZJ",
+					"display_url": "pic.twitter.com/A0gEXcptZJ",
+					"expanded_url": "https://twitter.com/dear_vein/status/1106663095064121344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1005059905248624600,
+			"id_str": "1005059905248624640",
+			"name": "혈중",
+			"screen_name": "dear_vein",
+			"location": "",
+			"description": "성인 / 혈관중독-정맥-베인 / #혈중_썰 / 중독, 유현유진 메인 / 논리버시블 / 인장 사랑하는 @ww8www8wwww8 님 유료리퀘💞 / 이별은 블언블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 745,
+			"listed_count": 8,
+			"created_at": "Fri Jun 08 12:12:09 +0000 2018",
+			"favourites_count": 15147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106343316566622209/XT7Zd-28_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106343316566622209/XT7Zd-28_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1005059905248624640/1552608107",
+			"profile_link_color": "C20000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16456,
+		"favorite_count": 5515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "돌겠네 욕조 사진 찾다가 본건데 아무리봐도 사골곰탕에 뿌려진 고춧가루로밖에 안보임 https://t.co/A0gEXcptZJ"
+	},
+	{
+		"created_at": "Sun Mar 17 00:12:47 +0000 2019",
+		"id": 1106901494802989000,
+		"id_str": "1107072248962150400",
+		"full_text": "닥터 스트레인지가 본 미래중 가장 끔찍한거 https://t.co/chP0gm4y7C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106901398799548400,
+					"id_str": "1106901398799548417",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D1yA9STUgAE_ULY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1yA9STUgAE_ULY.png",
+					"url": "https://t.co/chP0gm4y7C",
+					"display_url": "pic.twitter.com/chP0gm4y7C",
+					"expanded_url": "https://twitter.com/mi_ku/status/1106901494802989057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 736,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106901398799548400,
+					"id_str": "1106901398799548417",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D1yA9STUgAE_ULY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1yA9STUgAE_ULY.png",
+					"url": "https://t.co/chP0gm4y7C",
+					"display_url": "pic.twitter.com/chP0gm4y7C",
+					"expanded_url": "https://twitter.com/mi_ku/status/1106901494802989057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 736,
+							"h": 399,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48946191,
+			"id_str": "48946191",
+			"name": "💎ᕰ유시ᙅ💎",
+			"screen_name": "mi_ku",
+			"location": "나는 오늘도 훌륭하게 귀엽고 사랑스러운 쓰레기다",
+			"description": "INTP-T /프사 본인 /디코:유시#4124 /글씀 /그림그림 /게임함 /140자 대본소설 [#강의실 , #교실 , #자기야 , #악당과_꼬마 , #건전한_서큐버스 #마비썰 ] dmsdbtl@gmail.com / https://t.co/0gMNpLkJbr",
+			"url": "https://t.co/4jp3ZBr9pJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4jp3ZBr9pJ",
+							"expanded_url": "https://www.instagram.com/yu_see_chan/",
+							"display_url": "instagram.com/yu_see_chan/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0gMNpLkJbr",
+							"expanded_url": "http://ask.fm/miku509",
+							"display_url": "ask.fm/miku509",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2453,
+			"friends_count": 4354,
+			"listed_count": 45,
+			"created_at": "Sat Jun 20 06:37:07 +0000 2009",
+			"favourites_count": 12537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 490350,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138851517542401/FxLPIllz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138851517542401/FxLPIllz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48946191/1535115402",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "닥터 스트레인지가 본 미래중 가장 끔찍한거 https://t.co/chP0gm4y7C"
+	},
+	{
 		"created_at": "Sat Mar 16 15:29:46 +0000 2019",
 		"id": 1106940629525762000,
 		"id_str": "1106940629525762048",
