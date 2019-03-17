@@ -1,6 +1,1326 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 04:59:12 +0000 2019",
+		"id": 973762320408203300,
+		"id_str": "1107144327338196992",
+		"full_text": "그리고 이것이 1회 주사비용입니다 낄낄 https://t.co/lqaJI262gu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 973762317392535600,
+					"id_str": "973762317392535552",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DYN_qx_X4AAGu6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYN_qx_X4AAGu6R.jpg",
+					"url": "https://t.co/lqaJI262gu",
+					"display_url": "pic.twitter.com/lqaJI262gu",
+					"expanded_url": "https://twitter.com/Shubakkk/status/973762320408203265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 140,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 149,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 149,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 149,
+							"h": 149,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973762317392535600,
+					"id_str": "973762317392535552",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DYN_qx_X4AAGu6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYN_qx_X4AAGu6R.jpg",
+					"url": "https://t.co/lqaJI262gu",
+					"display_url": "pic.twitter.com/lqaJI262gu",
+					"expanded_url": "https://twitter.com/Shubakkk/status/973762320408203265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 140,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 149,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 149,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 149,
+							"h": 149,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 973761926500094000,
+		"in_reply_to_status_id_str": "973761926500093952",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "그리고 이것이 1회 주사비용입니다 낄낄 https://t.co/lqaJI262gu"
+	},
+	{
+		"created_at": "Sun Mar 17 04:59:06 +0000 2019",
+		"id": 973755394756628500,
+		"id_str": "1107144304877723648",
+		"full_text": "그러는 와중에 심장이 가만히 있어도 130까지 뛰는 개좆창 사태가 일어나서 심장박동 트레킹하는 기계도 달았다가,,, 여튼 4일간 입원하고 혈전약을 8개월간 먹어야하면서 동시에 항암제로 혈소판을 올리는 그런 치료를 했답니다 -안 걸어서 인생 좆창난 사람의 스토리 끝-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 973754968455905300,
+		"in_reply_to_status_id_str": "973754968455905282",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러는 와중에 심장이 가만히 있어도 130까지 뛰는 개좆창 사태가 일어나서 심장박동 트레킹하는 기계도 달았다가,,, 여튼 4일간 입원하고 혈전약을 8개월간 먹어야하면서 동시에 항암제로 혈소판을 올리는 그런 치료를 했답니다 -안 걸어서 인생 좆창난 사람의 스토리 끝-"
+	},
+	{
+		"created_at": "Sun Mar 17 04:59:01 +0000 2019",
+		"id": 973754968455905300,
+		"id_str": "1107144284317179906",
+		"full_text": "보통 혈전 환자는 피 묽게하는 blood thinner를 먹거나 맞으면 되는데 문제는! 내 혈소판이 1만대의 극악무도(?)한 수치였음.. 그래서 당장 치료 못하고 입원해서 고용량 스테로이드 치료, 면역 글로불린, 혈소판 수혈을 받았는데 1도 효과가 없어서 그냥 바로 blood thinner를 투약받음 (계속)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 973754488770220000,
+		"in_reply_to_status_id_str": "973754488770220032",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보통 혈전 환자는 피 묽게하는 blood thinner를 먹거나 맞으면 되는데 문제는! 내 혈소판이 1만대의 극악무도(?)한 수치였음.. 그래서 당장 치료 못하고 입원해서 고용량 스테로이드 치료, 면역 글로불린, 혈소판 수혈을 받았는데 1도 효과가 없어서 그냥 바로 blood thinner를 투약받음 (계속)"
+	},
+	{
+		"created_at": "Sun Mar 17 04:58:49 +0000 2019",
+		"id": 973754144564695000,
+		"id_str": "1107144234526625793",
+		"full_text": "일요일은 하루종일 아파서 ㅅㅄㅂER갈까 ㅅㅂ 혈전이 아니면 뭐란말임?? 하면서 그 와중에 열심히 일을 함. 월요일 되자마자 바로 우버타고 Urgent care를 갔는데!!! 의사가!! 놀라지 말고 들으라고 너 지금 엄청 심각한 혈전이 있고 지금 구급차 타고 ER을 가야한다고 함 (계속)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 973753804712800300,
+		"in_reply_to_status_id_str": "973753804712800257",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일요일은 하루종일 아파서 ㅅㅄㅂER갈까 ㅅㅂ 혈전이 아니면 뭐란말임?? 하면서 그 와중에 열심히 일을 함. 월요일 되자마자 바로 우버타고 Urgent care를 갔는데!!! 의사가!! 놀라지 말고 들으라고 너 지금 엄청 심각한 혈전이 있고 지금 구급차 타고 ER을 가야한다고 함 (계속)"
+	},
+	{
+		"created_at": "Sun Mar 17 04:58:42 +0000 2019",
+		"id": 973753804712800300,
+		"id_str": "1107144201836224514",
+		"full_text": "그래서 ER을 갔는데! 소노 보는 사람이 실수를 하는 바람에!!!!!!!!!!(씨빨) 병원에서 혈전이 없다고 진단 내리고는 퇴원함(더 빡치는건 이때 병원 간거는 응급상황이 아니라면서 응급실 이용료 150만원 청구됨 이건 자비로 내래) 그리고 집에 갔는데 뭔가 더 안좋아지기 시작함 (갸속)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 973753233809313800,
+		"in_reply_to_status_id_str": "973753233809313793",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래서 ER을 갔는데! 소노 보는 사람이 실수를 하는 바람에!!!!!!!!!!(씨빨) 병원에서 혈전이 없다고 진단 내리고는 퇴원함(더 빡치는건 이때 병원 간거는 응급상황이 아니라면서 응급실 이용료 150만원 청구됨 이건 자비로 내래) 그리고 집에 갔는데 뭔가 더 안좋아지기 시작함 (갸속)"
+	},
+	{
+		"created_at": "Sun Mar 17 04:58:05 +0000 2019",
+		"id": 973756893767307300,
+		"id_str": "1107144047783636992",
+		"full_text": "아 참고로 미국의 환자식은 매우 개짱입니다. 매번 전화가 와서 먹고싶은걸 주문하는 형식이었는데 에피타이저, 본식, 디저트, 음료를 주문 할 수 있음. 커피, 아이스크림도 나옵니다.. https://t.co/R4cHH9KBaH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 973756855682990100,
+					"id_str": "973756855682990080",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DYN6s3iWAAAUQxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYN6s3iWAAAUQxM.jpg",
+					"url": "https://t.co/R4cHH9KBaH",
+					"display_url": "pic.twitter.com/R4cHH9KBaH",
+					"expanded_url": "https://twitter.com/Shubakkk/status/973756893767307264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973756855682990100,
+					"id_str": "973756855682990080",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DYN6s3iWAAAUQxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYN6s3iWAAAUQxM.jpg",
+					"url": "https://t.co/R4cHH9KBaH",
+					"display_url": "pic.twitter.com/R4cHH9KBaH",
+					"expanded_url": "https://twitter.com/Shubakkk/status/973756893767307264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1564,
+							"h": 1564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 973755394756628500,
+		"in_reply_to_status_id_str": "973755394756628481",
+		"in_reply_to_user_id": 1374618601,
+		"in_reply_to_user_id_str": "1374618601",
+		"in_reply_to_screen_name": "Shubakkk",
+		"user": {
+			"id": 1374618601,
+			"id_str": "1374618601",
+			"name": "와식인간(-24849292473kg)",
+			"screen_name": "Shubakkk",
+			"location": "New York, USA",
+			"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 193,
+			"listed_count": 16,
+			"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+			"favourites_count": 9624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+			"profile_link_color": "5EE0B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "아 참고로 미국의 환자식은 매우 개짱입니다. 매번 전화가 와서 먹고싶은걸 주문하는 형식이었는데 에피타이저, 본식, 디저트, 음료를 주문 할 수 있음. 커피, 아이스크림도 나옵니다.. https://t.co/R4cHH9KBaH"
+	},
+	{
+		"created_at": "Sun Mar 17 04:57:50 +0000 2019",
+		"id": 1107143985477279700,
+		"id_str": "1107143985477279744",
+		"full_text": "생각해보면 그만큼 가격이.........\n보험없으면 좆되서 전 캐나다 골랐죠 웬만해서는 정부보험으로 다 커버되니까 그나마 좋음 https://t.co/zKxHiz2bkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zKxHiz2bkR",
+					"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952",
+					"display_url": "twitter.com/Shubakkk/statu…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 973761926500094000,
+		"quoted_status_id_str": "973761926500093952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zKxHiz2bkR",
+			"expanded": "https://twitter.com/Shubakkk/status/973761926500093952",
+			"display": "twitter.com/Shubakkk/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 14 03:25:09 +0000 2018",
+			"id": 973761926500094000,
+			"id_str": "973761926500093952",
+			"full_text": "혈전과는 별개로 미국병원 얘기 하자면 한국병원보다 좋습니다... 민영화 좋아하진 않지만 확실히 장사하는 곳인만큼 서비스가 엄청좋음. 여긴 항암주사실인데 보통 항암치료는 장시간 주사를 맞아야해서 쫄쫄 굶어야하는 경우가 다반사. 여긴 무료음식카트가 다니면서 원하는 식사를 제공한다 https://t.co/eERpebnMKE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973761747524911100,
+						"id_str": "973761747524911107",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/DYN_JnEWAAMjvvb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYN_JnEWAAMjvvb.jpg",
+						"url": "https://t.co/eERpebnMKE",
+						"display_url": "pic.twitter.com/eERpebnMKE",
+						"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973761747524911100,
+						"id_str": "973761747524911107",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/DYN_JnEWAAMjvvb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYN_JnEWAAMjvvb.jpg",
+						"url": "https://t.co/eERpebnMKE",
+						"display_url": "pic.twitter.com/eERpebnMKE",
+						"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 973761802101248000,
+						"id_str": "973761802101248000",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/DYN_MyYW0AAFyiN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYN_MyYW0AAFyiN.jpg",
+						"url": "https://t.co/eERpebnMKE",
+						"display_url": "pic.twitter.com/eERpebnMKE",
+						"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 973761845982126100,
+						"id_str": "973761845982126081",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/DYN_PV2X4AEk0va.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYN_PV2X4AEk0va.jpg",
+						"url": "https://t.co/eERpebnMKE",
+						"display_url": "pic.twitter.com/eERpebnMKE",
+						"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 973761892589166600,
+						"id_str": "973761892589166592",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/DYN_SDeW4AAMpBY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYN_SDeW4AAMpBY.jpg",
+						"url": "https://t.co/eERpebnMKE",
+						"display_url": "pic.twitter.com/eERpebnMKE",
+						"expanded_url": "https://twitter.com/Shubakkk/status/973761926500093952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 973756893767307300,
+			"in_reply_to_status_id_str": "973756893767307264",
+			"in_reply_to_user_id": 1374618601,
+			"in_reply_to_user_id_str": "1374618601",
+			"in_reply_to_screen_name": "Shubakkk",
+			"user": {
+				"id": 1374618601,
+				"id_str": "1374618601",
+				"name": "와식인간(-24849292473kg)",
+				"screen_name": "Shubakkk",
+				"location": "New York, USA",
+				"description": "warpgreen#3890\n🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈\n대기과학과 기상학을 일단 하고는 있읍니다...Women in STEMM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1128,
+				"friends_count": 193,
+				"listed_count": 16,
+				"created_at": "Tue Apr 23 13:20:45 +0000 2013",
+				"favourites_count": 9624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 143563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104962975943802880/_O_mFajl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374618601/1547190289",
+				"profile_link_color": "5EE0B5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생각해보면 그만큼 가격이.........\n보험없으면 좆되서 전 캐나다 골랐죠 웬만해서는 정부보험으로 다 커버되니까 그나마 좋음 https://t.co/zKxHiz2bkR"
+	},
+	{
+		"created_at": "Sun Mar 17 04:49:12 +0000 2019",
+		"id": 1107141813591138300,
+		"id_str": "1107141813591138304",
+		"full_text": "트친소.. 해주세요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트친소.. 해주세요"
+	},
+	{
+		"created_at": "Sun Mar 17 04:48:15 +0000 2019",
+		"id": 1107118955875860500,
+		"id_str": "1107141572871618561",
+		"full_text": "미국은 이제 세계 최대의 산유국이 되었습니다.\n\n&lt;&lt;속보: 미국이 미국을 침략하다&gt;&gt; https://t.co/LNq0XfdwZO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107118920320733200,
+					"id_str": "1107118920320733189",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D11GytHU0AUx7B0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D11GytHU0AUx7B0.jpg",
+					"url": "https://t.co/LNq0XfdwZO",
+					"display_url": "pic.twitter.com/LNq0XfdwZO",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1107118955875860480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 712,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107118920320733200,
+					"id_str": "1107118920320733189",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D11GytHU0AUx7B0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D11GytHU0AUx7B0.jpg",
+					"url": "https://t.co/LNq0XfdwZO",
+					"display_url": "pic.twitter.com/LNq0XfdwZO",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1107118955875860480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 712,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11275,
+			"friends_count": 1,
+			"listed_count": 28,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 819,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101122334042124289/EZe5BkCc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101122334042124289/EZe5BkCc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국은 이제 세계 최대의 산유국이 되었습니다.\n\n&lt;&lt;속보: 미국이 미국을 침략하다&gt;&gt; https://t.co/LNq0XfdwZO"
+	},
+	{
 		"created_at": "Sun Mar 17 04:01:55 +0000 2019",
 		"id": 1107129911695700000,
 		"id_str": "1107129911695699969",
