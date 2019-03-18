@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 01:19:42 +0000 2019",
+		"id": 1107450181761392600,
+		"id_str": "1107451476421435393",
+		"full_text": "왓츠앱 창업자 \"개인정보로 돈 버는 페이스북 지워야\" https://t.co/rxrxoYgEkV https://t.co/9ylhsMIyqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxrxoYgEkV",
+					"expanded_url": "http://dlvr.it/R11v4M",
+					"display_url": "dlvr.it/R11v4M",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1107450180071100400,
+					"id_str": "1107450180071100417",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D150Ej2UkAE9-9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D150Ej2UkAE9-9y.jpg",
+					"url": "https://t.co/9ylhsMIyqc",
+					"display_url": "pic.twitter.com/9ylhsMIyqc",
+					"expanded_url": "https://twitter.com/zdnetkorea/status/1107450181761392640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107450180071100400,
+					"id_str": "1107450180071100417",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D150Ej2UkAE9-9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D150Ej2UkAE9-9y.jpg",
+					"url": "https://t.co/9ylhsMIyqc",
+					"display_url": "pic.twitter.com/9ylhsMIyqc",
+					"expanded_url": "https://twitter.com/zdnetkorea/status/1107450181761392640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90776094,
+			"id_str": "90776094",
+			"name": "지디넷코리아",
+			"screen_name": "zdnetkorea",
+			"location": "",
+			"description": "IT 세상을 바꾸는 힘 -  IT 종합 글로벌 미디어",
+			"url": "http://t.co/BamBkLmS1B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BamBkLmS1B",
+							"expanded_url": "http://zdnet.co.kr",
+							"display_url": "zdnet.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146011,
+			"friends_count": 110435,
+			"listed_count": 3095,
+			"created_at": "Wed Nov 18 02:00:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90776094/1411720332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왓츠앱 창업자 \"개인정보로 돈 버는 페이스북 지워야\" https://t.co/rxrxoYgEkV https://t.co/9ylhsMIyqc"
+	},
+	{
 		"created_at": "Mon Mar 18 01:08:07 +0000 2019",
 		"id": 1107448561224966100,
 		"id_str": "1107448561224966146",
