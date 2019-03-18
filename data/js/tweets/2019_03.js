@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 16:15:38 +0000 2019",
+		"id": 786058817578668000,
+		"id_str": "1107676946236739585",
+		"full_text": "법념글-솔렌티스 2차공판 후기 https://t.co/Ta17aWQ47B https://t.co/bb1gWW6CRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ta17aWQ47B",
+					"expanded_url": "http://m.dcinside.com/view.php?id=law&no=100955&page=1&recommend=1",
+					"display_url": "m.dcinside.com/view.php?id=la…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 786058802764345300,
+					"id_str": "786058802764345344",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/CuikUP9WcAALU-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuikUP9WcAALU-V.jpg",
+					"url": "https://t.co/bb1gWW6CRr",
+					"display_url": "pic.twitter.com/bb1gWW6CRr",
+					"expanded_url": "https://twitter.com/ChiC_hi/status/786058817578668032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786058802764345300,
+					"id_str": "786058802764345344",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/CuikUP9WcAALU-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuikUP9WcAALU-V.jpg",
+					"url": "https://t.co/bb1gWW6CRr",
+					"display_url": "pic.twitter.com/bb1gWW6CRr",
+					"expanded_url": "https://twitter.com/ChiC_hi/status/786058817578668032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 786058802768539600,
+					"id_str": "786058802768539648",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/CuikUP-WcAAU5Vi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuikUP-WcAAU5Vi.jpg",
+					"url": "https://t.co/bb1gWW6CRr",
+					"display_url": "pic.twitter.com/bb1gWW6CRr",
+					"expanded_url": "https://twitter.com/ChiC_hi/status/786058817578668032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142254915,
+			"id_str": "142254915",
+			"name": "CHICHI",
+			"screen_name": "ChiC_hi",
+			"location": "FFXIV 카벙클 치치언니",
+			"description": "웅얼웅얼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 515,
+			"listed_count": 23,
+			"created_at": "Mon May 10 11:31:44 +0000 2010",
+			"favourites_count": 23174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 305966,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107267771228811264/Z8lEWz87_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107267771228811264/Z8lEWz87_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142254915/1534408277",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "법념글-솔렌티스 2차공판 후기 https://t.co/Ta17aWQ47B https://t.co/bb1gWW6CRr"
+	},
+	{
 		"created_at": "Mon Mar 18 02:26:43 +0000 2019",
 		"id": 1107468345496891400,
 		"id_str": "1107468345496891392",
