@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 20:25:15 +0000 2019",
+		"id": 1108089406563541000,
+		"id_str": "1108102153527152640",
+		"full_text": "The legendary tale of Bustruck https://t.co/4VJ72IDxFA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108089404655132700,
+					"id_str": "1108089404655132672",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D2C5cU_X4AANXLk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2C5cU_X4AANXLk.png",
+					"url": "https://t.co/4VJ72IDxFA",
+					"display_url": "pic.twitter.com/4VJ72IDxFA",
+					"expanded_url": "https://twitter.com/Shitty_car_mods/status/1108089406563540993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 665,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108089404655132700,
+					"id_str": "1108089404655132672",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D2C5cU_X4AANXLk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2C5cU_X4AANXLk.png",
+					"url": "https://t.co/4VJ72IDxFA",
+					"display_url": "pic.twitter.com/4VJ72IDxFA",
+					"expanded_url": "https://twitter.com/Shitty_car_mods/status/1108089406563540993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 665,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706939333786230800,
+			"id_str": "706939333786230784",
+			"name": "shitty car mods",
+			"screen_name": "Shitty_car_mods",
+			"location": "strait outta japan",
+			"description": "live from r/shitty_car_mods. occasionally the goodshit too. None of the content I own. Tell ya friends, we breakin necks and not in a good way",
+			"url": "https://t.co/x99QSar6Ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x99QSar6Ts",
+							"expanded_url": "http://shitty-car-mods-daily.tumblr.com",
+							"display_url": "shitty-car-mods-daily.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16288,
+			"friends_count": 4512,
+			"listed_count": 63,
+			"created_at": "Mon Mar 07 20:27:26 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706939510139957248/AHb-kFZO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706939510139957248/AHb-kFZO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706939333786230784/1457383819",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The legendary tale of Bustruck https://t.co/4VJ72IDxFA"
+	},
+	{
 		"created_at": "Tue Mar 19 06:00:04 +0000 2019",
 		"id": 1107882003108487200,
 		"id_str": "1107884423771385856",
