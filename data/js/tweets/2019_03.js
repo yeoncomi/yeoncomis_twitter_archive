@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 02:44:56 +0000 2019",
+		"id": 1107719398574473200,
+		"id_str": "1107835316272955392",
+		"full_text": "\"911 what's your emergency?\"\n\"Yeah, it's me again.\"\n\"Jesus Christ dude, get a fucking hobby.\" https://t.co/wxSdQLTas3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wxSdQLTas3",
+					"expanded_url": "https://twitter.com/wcnc/status/1105789683064340480",
+					"display_url": "twitter.com/wcnc/status/11…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 598749853,
+			"id_str": "598749853",
+			"name": "Dalton",
+			"screen_name": "Daltimus_Prime",
+			"location": "Tired",
+			"description": "If you were having a good time, you'd best be ready to stop; I spend too much time talking about Legos, Transformers, and video games; Sometimes NSFW; He/They",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 245,
+			"listed_count": 35,
+			"created_at": "Sun Jun 03 23:23:10 +0000 2012",
+			"favourites_count": 57991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "626D73",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080008209690255360/Uy36oWtp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080008209690255360/Uy36oWtp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/598749853/1527657760",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105789683064340500,
+		"quoted_status_id_str": "1105789683064340480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wxSdQLTas3",
+			"expanded": "https://twitter.com/wcnc/status/1105789683064340480",
+			"display": "twitter.com/wcnc/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 13 11:16:19 +0000 2019",
+			"id": 1105789683064340500,
+			"id_str": "1105789683064340480",
+			"full_text": "Georgia bill would require men to report every release of sperm to officers\nhttps://t.co/tY3374x0vP https://t.co/ZUmvIo7KyG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tY3374x0vP",
+						"expanded_url": "https://on.wcnc.com/2VXPlaj",
+						"display_url": "on.wcnc.com/2VXPlaj",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1105789678307942400,
+						"id_str": "1105789678307942401",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/D1iN2ovWoAErSws.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1iN2ovWoAErSws.jpg",
+						"url": "https://t.co/ZUmvIo7KyG",
+						"display_url": "pic.twitter.com/ZUmvIo7KyG",
+						"expanded_url": "https://twitter.com/wcnc/status/1105789683064340480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105789678307942400,
+						"id_str": "1105789678307942401",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/D1iN2ovWoAErSws.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1iN2ovWoAErSws.jpg",
+						"url": "https://t.co/ZUmvIo7KyG",
+						"display_url": "pic.twitter.com/ZUmvIo7KyG",
+						"expanded_url": "https://twitter.com/wcnc/status/1105789683064340480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 476,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12738892,
+				"id_str": "12738892",
+				"name": "NBC Charlotte",
+				"screen_name": "wcnc",
+				"location": "Charlotte, NC",
+				"description": "The Twitter home to the NBC TV affiliate in #Charlotte, North Carolina. Tweet or email story ideas: newstips@wcnc.com.",
+				"url": "http://t.co/X7EH7qqOsW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/X7EH7qqOsW",
+								"expanded_url": "http://www.wcnc.com",
+								"display_url": "wcnc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215033,
+				"friends_count": 6922,
+				"listed_count": 1710,
+				"created_at": "Sun Jan 27 03:51:53 +0000 2008",
+				"favourites_count": 4034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 179492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4185FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850077932894564352/MSBNCanw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850077932894564352/MSBNCanw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12738892/1478554197",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 338,
+			"favorite_count": 576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 629,
+		"favorite_count": 1497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"911 what's your emergency?\"\n\"Yeah, it's me again.\"\n\"Jesus Christ dude, get a fucking hobby.\" https://t.co/wxSdQLTas3"
+	},
+	{
 		"created_at": "Tue Mar 19 00:53:53 +0000 2019",
 		"id": 1107295186118271000,
 		"id_str": "1107807370615259138",
