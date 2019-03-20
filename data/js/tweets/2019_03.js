@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 23:27:48 +0000 2019",
+		"id": 1108069948138512400,
+		"id_str": "1108148092920987648",
+		"full_text": "미친거아니야?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아 진짜 웃음벨ㅋㅋㅋ https://t.co/IJIaucQ4jc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108069941448572900,
+					"id_str": "1108069941448572928",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Cnva5UgAA1s3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2Cnva5UgAA1s3F.jpg",
+					"url": "https://t.co/IJIaucQ4jc",
+					"display_url": "pic.twitter.com/IJIaucQ4jc",
+					"expanded_url": "https://twitter.com/oyatlsehgkfrjdi/status/1108069948138512384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108069941448572900,
+					"id_str": "1108069941448572928",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Cnva5UgAA1s3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2Cnva5UgAA1s3F.jpg",
+					"url": "https://t.co/IJIaucQ4jc",
+					"display_url": "pic.twitter.com/IJIaucQ4jc",
+					"expanded_url": "https://twitter.com/oyatlsehgkfrjdi/status/1108069948138512384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070327354101100500,
+			"id_str": "1070327354101100544",
+			"name": "삼멘닉아닙니다오해하지마세요 박원순의여인 인간딜도입니다",
+			"screen_name": "oyatlsehgkfrjdi",
+			"location": "",
+			"description": "핏준생/일상트윗/있는지도 없는지도함/요즘 조름 뜸함/얼마든지컴온/페미꺼지고/일베도꺼지고",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 112,
+			"listed_count": 4,
+			"created_at": "Wed Dec 05 14:41:41 +0000 2018",
+			"favourites_count": 7909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8340,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095588728725065728/LDbVeZxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095588728725065728/LDbVeZxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070327354101100544/1553018261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친거아니야?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아 진짜 웃음벨ㅋㅋㅋ https://t.co/IJIaucQ4jc"
+	},
+	{
 		"created_at": "Tue Mar 19 20:25:15 +0000 2019",
 		"id": 1108089406563541000,
 		"id_str": "1108102153527152640",
