@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 21:13:38 +0000 2019",
+		"id": 1108469030124437500,
+		"id_str": "1108476715846811649",
+		"full_text": "Chick-fil-A is still donating to anti-LGBTQ groups. https://t.co/H2j7jmpCfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2j7jmpCfg",
+					"expanded_url": "http://huffp.st/tBqI7D6",
+					"display_url": "huffp.st/tBqI7D6",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14511951,
+			"id_str": "14511951",
+			"name": "HuffPost",
+			"screen_name": "HuffPost",
+			"location": "",
+			"description": "Know what's real.",
+			"url": "https://t.co/DLXRSufyhx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLXRSufyhx",
+							"expanded_url": "https://www.huffpost.com",
+							"display_url": "huffpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11422157,
+			"friends_count": 5709,
+			"listed_count": 84949,
+			"created_at": "Thu Apr 24 14:07:28 +0000 2008",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 528742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "2E7060",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875366648093577217/DPjc49xK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14511951/1530799547",
+			"profile_link_color": "0DBE98",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chick-fil-A is still donating to anti-LGBTQ groups. https://t.co/H2j7jmpCfg"
+	},
+	{
+		"created_at": "Wed Mar 20 21:12:37 +0000 2019",
+		"id": 1108339911755612200,
+		"id_str": "1108476459750850561",
+		"full_text": "오타쿠에게 남는 것은 없다...\n\n인싸들이 다 뺏어간다.... https://t.co/bNU5l00lYP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108339903127916500,
+					"id_str": "1108339903127916544",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GdRQhUkAAYxa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GdRQhUkAAYxa9.jpg",
+					"url": "https://t.co/bNU5l00lYP",
+					"display_url": "pic.twitter.com/bNU5l00lYP",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1108339911755612162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108339903127916500,
+					"id_str": "1108339903127916544",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GdRQhUkAAYxa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GdRQhUkAAYxa9.jpg",
+					"url": "https://t.co/bNU5l00lYP",
+					"display_url": "pic.twitter.com/bNU5l00lYP",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1108339911755612162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, Engl",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 일본인 :: 한국어ok :: 사진과 여행, 먹고 마시는 것이 취미 :: 벤츠 C클래스 그릴 오너 // 사진계정 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1327,
+			"friends_count": 510,
+			"listed_count": 66,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 19352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92342,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 552,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오타쿠에게 남는 것은 없다...\n\n인싸들이 다 뺏어간다.... https://t.co/bNU5l00lYP"
+	},
+	{
 		"created_at": "Wed Mar 20 02:32:45 +0000 2019",
 		"id": 1108191243652096000,
 		"id_str": "1108194637531893760",
