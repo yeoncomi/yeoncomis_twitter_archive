@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 01:14:29 +0000 2019",
+		"id": 1107996686503153700,
+		"id_str": "1108174941742993409",
+		"full_text": "21세기 폭스가 3월 20일 동부시간 0시 2분을 기점으로 공식적으로 디즈니에게 인수됨. \n......영화판 거의 절반을 먹은 셈인데 이 정도면 거의 독점 아니냐. ㅠㅠ https://t.co/CPNd00vvBB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CPNd00vvBB",
+					"expanded_url": "https://twitter.com/21CF/status/1107983362281607169",
+					"display_url": "twitter.com/21CF/status/11…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2725318591,
+			"id_str": "2725318591",
+			"name": "LukeSky",
+			"screen_name": "Aquaboros",
+			"location": "썰계는 @cyclosummers",
+			"description": "- May the 4th Be With You. - Cyclops Was Right. - I'm an angel of the Lord. - I am vengeance, I am the night, I am Batman. And yeah, Girls can do ANYTHING.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 836,
+			"friends_count": 441,
+			"listed_count": 30,
+			"created_at": "Tue Aug 12 03:11:27 +0000 2014",
+			"favourites_count": 4008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30579,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102180432211140613/q6JHxzEr_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102180432211140613/q6JHxzEr_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2725318591/1407846761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107983362281607200,
+		"quoted_status_id_str": "1107983362281607169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CPNd00vvBB",
+			"expanded": "https://twitter.com/21CF/status/1107983362281607169",
+			"display": "twitter.com/21CF/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 12:33:13 +0000 2019",
+			"id": 1107983362281607200,
+			"id_str": "1107983362281607169",
+			"full_text": "21ST CENTURY FOX ANNOUNCES COMPLETION OF DISTRIBUTION IN CONNECTION WITH DISNEY ACQUISITION: https://t.co/OHUJjX9w1k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OHUJjX9w1k",
+						"expanded_url": "https://21.cf/2TOpq8G",
+						"display_url": "21.cf/2TOpq8G",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1462611546,
+				"id_str": "1462611546",
+				"name": "21st Century Fox",
+				"screen_name": "21CF",
+				"location": "",
+				"description": "21st Century Fox is the world's premier portfolio of cable, broadcast, film, pay TV and satellite assets spanning six continents across the globe.",
+				"url": "http://t.co/RHcwLznkXo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RHcwLznkXo",
+								"expanded_url": "http://21cf.com",
+								"display_url": "21cf.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12579,
+				"friends_count": 624,
+				"listed_count": 187,
+				"created_at": "Mon May 27 16:57:42 +0000 2013",
+				"favourites_count": 767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2550,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932648900934144000/I2wvwvW9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932648900934144000/I2wvwvW9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1462611546/1537797314",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5178,
+			"favorite_count": 9473,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1252,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "21세기 폭스가 3월 20일 동부시간 0시 2분을 기점으로 공식적으로 디즈니에게 인수됨. \n......영화판 거의 절반을 먹은 셈인데 이 정도면 거의 독점 아니냐. ㅠㅠ https://t.co/CPNd00vvBB"
+	},
+	{
+		"created_at": "Wed Mar 20 01:13:16 +0000 2019",
+		"id": 1108164587780620300,
+		"id_str": "1108174634824798208",
+		"full_text": "적십자 회장이었던 김성주도 안냈다니까요(꾸준글) https://t.co/qItVGY98GO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qItVGY98GO",
+					"expanded_url": "https://twitter.com/sewoosil/status/1107642161174974466",
+					"display_url": "twitter.com/sewoosil/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 1631,
+			"listed_count": 15,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32025,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107642161174974500,
+		"quoted_status_id_str": "1107642161174974466",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qItVGY98GO",
+			"expanded": "https://twitter.com/sewoosil/status/1107642161174974466",
+			"display": "twitter.com/sewoosil/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 13:57:24 +0000 2019",
+			"id": 1107642161174974500,
+			"id_str": "1107642161174974466",
+			"full_text": "[단독] 재산 27억 조동호 아내, 적십자회비는 ＇0원＇ https://t.co/GkhC2CSSGm \n\n별 등신같은 걸로 다 까네 ㅋㅋㅋㅋ 적십자 회비 그걸 왜 내야 하고 ㅋ 그거 안 냈다고 왜 책잡혀야 하는데? ㅋ 여러분 적십자 회비 내지 마세요. 그거 의무 아닙니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GkhC2CSSGm",
+						"expanded_url": "https://news.v.daum.net/v/20190318180612396",
+						"display_url": "news.v.daum.net/v/201903181806…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66627692,
+				"id_str": "66627692",
+				"name": "𝙨𝙚𝙬𝙤𝙤𝙨𝙞𝙡",
+				"screen_name": "sewoosil",
+				"location": "37.500015,127.036564",
+				"description": "생활의 일부분으로서의 정치에 관심 많은 웹개발자이자 태지매니아, 특히 효연이가 아이돌의 완전체라 생각하는 광적인 소녀시대 덕후. 해물과 회에 환장하는 연예 누리꾼. 일베충, 워마드는 무조건 차단합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6374,
+				"friends_count": 792,
+				"listed_count": 229,
+				"created_at": "Tue Aug 18 07:58:25 +0000 2009",
+				"favourites_count": 2124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 87557,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725538811384487937/rEzW1n7I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725538811384487937/rEzW1n7I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66627692/1478476238",
+				"profile_link_color": "FFABA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 19,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "적십자 회장이었던 김성주도 안냈다니까요(꾸준글) https://t.co/qItVGY98GO"
+	},
+	{
+		"created_at": "Wed Mar 20 01:12:10 +0000 2019",
+		"id": 1108029801208545300,
+		"id_str": "1108174360139845632",
+		"full_text": "케모프레 3기 유출 https://t.co/ljuwZtDma8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108029798956195800,
+					"id_str": "1108029798956195840",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CDO0dU4AA_SuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CDO0dU4AA_SuX.jpg",
+					"url": "https://t.co/ljuwZtDma8",
+					"display_url": "pic.twitter.com/ljuwZtDma8",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1108029801208545281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108029798956195800,
+					"id_str": "1108029798956195840",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CDO0dU4AA_SuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CDO0dU4AA_SuX.jpg",
+					"url": "https://t.co/ljuwZtDma8",
+					"display_url": "pic.twitter.com/ljuwZtDma8",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1108029801208545281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1693269036,
+			"id_str": "1693269036",
+			"name": "TONAITOO",
+			"screen_name": "tonaitoo",
+			"location": "",
+			"description": "NSFW성분 미량함유된 덕질계정입니다. 인용알티 개소리 + 마음함 지적질은 바로 차단입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2483,
+			"friends_count": 3103,
+			"listed_count": 42,
+			"created_at": "Fri Aug 23 08:52:47 +0000 2013",
+			"favourites_count": 35797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194787,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093907425000775682/0OrSF5HB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093907425000775682/0OrSF5HB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693269036/1549642852",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케모프레 3기 유출 https://t.co/ljuwZtDma8"
+	},
+	{
+		"created_at": "Wed Mar 20 01:11:12 +0000 2019",
+		"id": 1108031531723845600,
+		"id_str": "1108174114240356353",
+		"full_text": "별 미친 광고를 다 보겠네.\n\n팩트 ) 가족한테 미안한 마음 가질 수 있는 양심이 있다면\n애초에 저런데 발을 들이지 않는다. https://t.co/Uoa6Dpymp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108031297736237000,
+					"id_str": "1108031297736237057",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CEmD2VYAE3ccf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2CEmD2VYAE3ccf.png",
+					"url": "https://t.co/Uoa6Dpymp8",
+					"display_url": "pic.twitter.com/Uoa6Dpymp8",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1108031531723845632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 684,
+							"h": 781,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 781,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108031297736237000,
+					"id_str": "1108031297736237057",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CEmD2VYAE3ccf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2CEmD2VYAE3ccf.png",
+					"url": "https://t.co/Uoa6Dpymp8",
+					"display_url": "pic.twitter.com/Uoa6Dpymp8",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1108031531723845632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 684,
+							"h": 781,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 781,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1108031343818997800,
+					"id_str": "1108031343818997760",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CEovhUgAALbfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CEovhUgAALbfF.jpg",
+					"url": "https://t.co/Uoa6Dpymp8",
+					"display_url": "pic.twitter.com/Uoa6Dpymp8",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1108031531723845632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 647,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108031417710067700,
+					"id_str": "1108031417710067713",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CEtCyUwAESK5Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2CEtCyUwAESK5Y.png",
+					"url": "https://t.co/Uoa6Dpymp8",
+					"display_url": "pic.twitter.com/Uoa6Dpymp8",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1108031531723845632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 892,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 892,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Warframe-Mesa",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "Inside the Dark My Heartbeat Echoes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 163,
+			"listed_count": 5,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 29469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30636,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099451539981164546/1EqGQSQi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099451539981164546/1EqGQSQi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1552026259",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "별 미친 광고를 다 보겠네.\n\n팩트 ) 가족한테 미안한 마음 가질 수 있는 양심이 있다면\n애초에 저런데 발을 들이지 않는다. https://t.co/Uoa6Dpymp8"
+	},
+	{
 		"created_at": "Tue Mar 19 23:27:48 +0000 2019",
 		"id": 1108069948138512400,
 		"id_str": "1108148092920987648",
