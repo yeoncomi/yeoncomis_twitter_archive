@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 23:39:02 +0000 2019",
+		"id": 1108493175705010200,
+		"id_str": "1108513309219651584",
+		"full_text": "손목시계 3만 5000원, 깔창 1만 5000원, 군 마트\n가격보다 2~4배 높았는데요. 오로지 현금만 받습니다. https://t.co/rk6cOSGnKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rk6cOSGnKz",
+					"expanded_url": "http://mnews.joins.com/article/23417110",
+					"display_url": "mnews.joins.com/article/234171…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. / Facebook: https://t.co/1TuEOM6mwy",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1TuEOM6mwy",
+							"expanded_url": "https://www.facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 295899,
+			"friends_count": 45238,
+			"listed_count": 1672,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 117762,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1439882568",
+			"profile_link_color": "038544",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "손목시계 3만 5000원, 깔창 1만 5000원, 군 마트\n가격보다 2~4배 높았는데요. 오로지 현금만 받습니다. https://t.co/rk6cOSGnKz"
+	},
+	{
+		"created_at": "Wed Mar 20 23:38:35 +0000 2019",
+		"id": 1108498177961816000,
+		"id_str": "1108513196652920832",
+		"full_text": "남자의 배고프다는 순수하게 배고프단 뜻인데  저 배고파요 = 오빠 밥사주세요 같은 여자어 대입해서 해석하려니 난리가 나지 ㅋㅋ https://t.co/5IeTyDKUHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108498172509192200,
+					"id_str": "1108498172509192192",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ItNv6UgAAmsZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ItNv6UgAAmsZ5.jpg",
+					"url": "https://t.co/5IeTyDKUHp",
+					"display_url": "pic.twitter.com/5IeTyDKUHp",
+					"expanded_url": "https://twitter.com/dream55178/status/1108498177961816064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 998,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108498172509192200,
+					"id_str": "1108498172509192192",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ItNv6UgAAmsZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ItNv6UgAAmsZ5.jpg",
+					"url": "https://t.co/5IeTyDKUHp",
+					"display_url": "pic.twitter.com/5IeTyDKUHp",
+					"expanded_url": "https://twitter.com/dream55178/status/1108498177961816064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 998,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701126645394989000,
+			"id_str": "701126645394989056",
+			"name": "🌸 INHALE 🌸",
+			"screen_name": "dream55178",
+			"location": "",
+			"description": "데레스테, 뱅드림, 메이플, 던파 / M.C THE MAX! 팡인 / 성우 아이미 / 새벽요정 / 비속어 및 19+주의! / 日本語 OK 🇯🇵 탐라너머 그 가영이를 맡고 있습니다 :) 맞팔은 멘션 부탁드려요 ㅠ.ㅠ 💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 694,
+			"friends_count": 607,
+			"listed_count": 26,
+			"created_at": "Sat Feb 20 19:29:53 +0000 2016",
+			"favourites_count": 62086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103076274744913920/1TjfMiIE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103076274744913920/1TjfMiIE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701126645394989056/1552265384",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남자의 배고프다는 순수하게 배고프단 뜻인데  저 배고파요 = 오빠 밥사주세요 같은 여자어 대입해서 해석하려니 난리가 나지 ㅋㅋ https://t.co/5IeTyDKUHp"
+	},
+	{
+		"created_at": "Wed Mar 20 23:37:56 +0000 2019",
+		"id": 1108389795137380400,
+		"id_str": "1108513030529142784",
+		"full_text": "정치에 정답은 없지만 오답은 있다. https://t.co/5dKmjcVhUz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108389791165366300,
+					"id_str": "1108389791165366273",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2HKpH8UwAE9HX0.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2HKpH8UwAE9HX0.png",
+					"url": "https://t.co/5dKmjcVhUz",
+					"display_url": "pic.twitter.com/5dKmjcVhUz",
+					"expanded_url": "https://twitter.com/Juneyuwall/status/1108389795137380352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108389791165366300,
+					"id_str": "1108389791165366273",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2HKpH8UwAE9HX0.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2HKpH8UwAE9HX0.png",
+					"url": "https://t.co/5dKmjcVhUz",
+					"display_url": "pic.twitter.com/5dKmjcVhUz",
+					"expanded_url": "https://twitter.com/Juneyuwall/status/1108389795137380352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961137239504965600,
+			"id_str": "961137239504965634",
+			"name": "🏳️‍🌈출입국사무소 이온❤💜💙",
+			"screen_name": "Juneyuwall",
+			"location": "우리미래",
+			"description": "진입장벽 낮음 | 퀴어/정치/일상계 / 호플바이(양성애자) 시스여성 2n🌈 / 좌파 / 만주당 출입국사무소 / 우리미래 당원 / 정연(TWICE) / 귀곡의문 / 보리수 워마드 오소리 거름 / 애인님(동성) 있어요❣/ 퀴어고민 잦\n\n#우리미래 #이영싫 #상호교차성페미 #FSM",
+			"url": "https://t.co/p4efYUcm7h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4efYUcm7h",
+							"expanded_url": "https://ask.fm/Juneyuwall?utm_source=copy_link&utm_medium=android",
+							"display_url": "ask.fm/Juneyuwall?utm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 908,
+			"friends_count": 998,
+			"listed_count": 6,
+			"created_at": "Wed Feb 07 07:19:09 +0000 2018",
+			"favourites_count": 5777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10530,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091226814020603909/yExBPKVR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091226814020603909/yExBPKVR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961137239504965634/1549814332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정치에 정답은 없지만 오답은 있다. https://t.co/5dKmjcVhUz"
+	},
+	{
+		"created_at": "Wed Mar 20 23:36:48 +0000 2019",
+		"id": 1108271016780791800,
+		"id_str": "1108512748080517120",
+		"full_text": "방탄소년단, 성추행 담긴 일본만화 추천 논란 (출처 : 노컷뉴스 | 네이버 TV연예) https://t.co/awmC71oOVj\n\n이거 기자가 \"어라 일곱개의 대죄가 뭐지???\"하고 검색하다가 왼쪽게 아니고 오른쪽 거를 찾은거 같은데 ㅋㅋ https://t.co/ojmQMGGWJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/awmC71oOVj",
+					"expanded_url": "http://naver.me/xNOEKSHT",
+					"display_url": "naver.me/xNOEKSHT",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108270962380664800,
+					"id_str": "1108270962380664832",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D2FekYOUcAAy3DZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2FekYOUcAAy3DZ.png",
+					"url": "https://t.co/ojmQMGGWJg",
+					"display_url": "pic.twitter.com/ojmQMGGWJg",
+					"expanded_url": "https://twitter.com/echospherics/status/1108271016780791808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108270962380664800,
+					"id_str": "1108270962380664832",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D2FekYOUcAAy3DZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2FekYOUcAAy3DZ.png",
+					"url": "https://t.co/ojmQMGGWJg",
+					"display_url": "pic.twitter.com/ojmQMGGWJg",
+					"expanded_url": "https://twitter.com/echospherics/status/1108271016780791808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1108270995352113200,
+					"id_str": "1108270995352113152",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D2FemTDU0AAJ_Ia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2FemTDU0AAJ_Ia.jpg",
+					"url": "https://t.co/ojmQMGGWJg",
+					"display_url": "pic.twitter.com/ojmQMGGWJg",
+					"expanded_url": "https://twitter.com/echospherics/status/1108271016780791808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137598328,
+			"id_str": "137598328",
+			"name": "ECHOES",
+			"screen_name": "echospherics",
+			"location": "",
+			"description": "DDR｜韓国勢｜4112-9325｜激鬼 MFC 303｜#GO4THETOP 2nd Lower 우승｜単発から発狂までいろいろやってます。時々綺麗な絵をRTしてます。/ RT 많으니 리트윗을 끄는 것을 권장합니다.",
+			"url": "https://t.co/pNjiHWEiIc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNjiHWEiIc",
+							"expanded_url": "http://skillattack.com/sa4/dancer_profile.php?ddrcode=41129325",
+							"display_url": "skillattack.com/sa4/dancer_pro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3783,
+			"friends_count": 4991,
+			"listed_count": 95,
+			"created_at": "Tue Apr 27 06:00:22 +0000 2010",
+			"favourites_count": 6901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 232977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103516746915303425/9YaGjjdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103516746915303425/9YaGjjdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137598328/1546574839",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단, 성추행 담긴 일본만화 추천 논란 (출처 : 노컷뉴스 | 네이버 TV연예) https://t.co/awmC71oOVj\n\n이거 기자가 \"어라 일곱개의 대죄가 뭐지???\"하고 검색하다가 왼쪽게 아니고 오른쪽 거를 찾은거 같은데 ㅋㅋ https://t.co/ojmQMGGWJg"
+	},
+	{
 		"created_at": "Wed Mar 20 21:13:38 +0000 2019",
 		"id": 1108469030124437500,
 		"id_str": "1108476715846811649",
