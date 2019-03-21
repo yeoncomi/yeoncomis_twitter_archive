@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 03:03:37 +0000 2019",
+		"id": 1108564793445617700,
+		"id_str": "1108564793445617664",
+		"full_text": "양냠치킨 https://t.co/E4YYHrtJff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108564641204977700,
+					"id_str": "1108564641204977664",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D2JpqvGUwAA-_dY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2JpqvGUwAA-_dY.jpg",
+					"url": "https://t.co/E4YYHrtJff",
+					"display_url": "pic.twitter.com/E4YYHrtJff",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1108564793445617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 903,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108564641204977700,
+					"id_str": "1108564641204977664",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D2JpqvGUwAA-_dY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2JpqvGUwAA-_dY.jpg",
+					"url": "https://t.co/E4YYHrtJff",
+					"display_url": "pic.twitter.com/E4YYHrtJff",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1108564793445617664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 903,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "양냠치킨 https://t.co/E4YYHrtJff"
+	},
+	{
+		"created_at": "Thu Mar 21 02:55:48 +0000 2019",
+		"id": 1108562173096165400,
+		"id_str": "1108562825494970369",
+		"full_text": "https://t.co/5dalntdHWC\n\n독일어 위키백과가 유럽연합 저작권법에 반발하여 셧다운 하였습니다.\n\n이번에 바뀐 저작권법에선 아웃링크 즉 링크만 걸어도 저작권법 위반인 불법으로 바뀌었고 사이트에서 게시글을 업로드할 때 검열 필터를 필수로 달아 모든 게시글을 검열하도록 바뀌었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5dalntdHWC",
+					"expanded_url": "https://de.wikipedia.org",
+					"display_url": "de.wikipedia.org",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226132861,
+			"id_str": "226132861",
+			"name": "벨라의사람 вовк",
+			"screen_name": "twotwo2019",
+			"location": "",
+			"description": "인장 : @POPN_Heyda | 게임/과학/역사/국제 등 | Team Zalbk의 Zalbk & Team Zeeros | 팝픈(16.12.23-) 49 81% 97.79 | 위백 관리자",
+			"url": "https://t.co/e7X3SCibrD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e7X3SCibrD",
+							"expanded_url": "https://www.youtube.com/channel/UC7HrCnTuLF3REoju1oBKDPQ",
+							"display_url": "youtube.com/channel/UC7HrC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 794,
+			"listed_count": 33,
+			"created_at": "Mon Dec 13 11:54:17 +0000 2010",
+			"favourites_count": 4230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 309251,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956696369254744064/TcRSUyWn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956696369254744064/TcRSUyWn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226132861/1496635866",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/5dalntdHWC\n\n독일어 위키백과가 유럽연합 저작권법에 반발하여 셧다운 하였습니다.\n\n이번에 바뀐 저작권법에선 아웃링크 즉 링크만 걸어도 저작권법 위반인 불법으로 바뀌었고 사이트에서 게시글을 업로드할 때 검열 필터를 필수로 달아 모든 게시글을 검열하도록 바뀌었습니다."
+	},
+	{
 		"created_at": "Thu Mar 21 01:57:46 +0000 2019",
 		"id": 1107753218971361300,
 		"id_str": "1108548221998030848",
