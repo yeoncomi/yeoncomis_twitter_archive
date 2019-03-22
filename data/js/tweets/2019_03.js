@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 15:51:04 +0000 2019",
+		"id": 1109120201054978000,
+		"id_str": "1109120315685130240",
+		"full_text": "The sentencing judge is Justice Inez Cardinal, a former Crown prosecutor who once worked as a conservation officer and played on a boys' hockey team while she was growing up in rural Saskatchewan. https://t.co/jQ6KiA9gp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jQ6KiA9gp4",
+					"expanded_url": "http://cbc.ca/1.5060198",
+					"display_url": "cbc.ca/1.5060198",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1109115955903426600,
+		"in_reply_to_status_id_str": "1109115955903426560",
+		"in_reply_to_user_id": 19038934,
+		"in_reply_to_user_id_str": "19038934",
+		"in_reply_to_screen_name": "CBCAlerts",
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151992,
+			"friends_count": 465,
+			"listed_count": 8440,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The sentencing judge is Justice Inez Cardinal, a former Crown prosecutor who once worked as a conservation officer and played on a boys' hockey team while she was growing up in rural Saskatchewan. https://t.co/jQ6KiA9gp4"
+	},
+	{
+		"created_at": "Fri Mar 22 15:49:13 +0000 2019",
+		"id": 1109119851845439500,
+		"id_str": "1109119851845439488",
+		"full_text": "#트친이_생각하는_내_이미지 https://t.co/olaSQ2uT4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트친이_생각하는_내_이미지",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109119839342223400,
+					"id_str": "1109119839342223360",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D2RinhVU4AA6QPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2RinhVU4AA6QPr.jpg",
+					"url": "https://t.co/olaSQ2uT4x",
+					"display_url": "pic.twitter.com/olaSQ2uT4x",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1109119851845439488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109119839342223400,
+					"id_str": "1109119839342223360",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D2RinhVU4AA6QPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2RinhVU4AA6QPr.jpg",
+					"url": "https://t.co/olaSQ2uT4x",
+					"display_url": "pic.twitter.com/olaSQ2uT4x",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1109119851845439488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/9GnQQtk86E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnQQtk86E",
+							"expanded_url": "https://yeonco.me",
+							"display_url": "yeonco.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 1015,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#트친이_생각하는_내_이미지 https://t.co/olaSQ2uT4x"
+	},
+	{
+		"created_at": "Fri Mar 22 15:46:31 +0000 2019",
+		"id": 1109115955903426600,
+		"id_str": "1109119173051838464",
+		"full_text": "The Crown wants Sidhu to serve 10 years in prison after he pleaded guilty to 29 counts of dangerous driving, all related to the same crash that devastated the Humboldt Broncos hockey team and left Canadians mourning:  https://t.co/Se4hNLDA2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Se4hNLDA2c",
+					"expanded_url": "http://cbc.ca/1.5055569",
+					"display_url": "cbc.ca/1.5055569",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1109115953407844400,
+		"in_reply_to_status_id_str": "1109115953407844352",
+		"in_reply_to_user_id": 19038934,
+		"in_reply_to_user_id_str": "19038934",
+		"in_reply_to_screen_name": "CBCAlerts",
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151992,
+			"friends_count": 465,
+			"listed_count": 8440,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Crown wants Sidhu to serve 10 years in prison after he pleaded guilty to 29 counts of dangerous driving, all related to the same crash that devastated the Humboldt Broncos hockey team and left Canadians mourning:  https://t.co/Se4hNLDA2c"
+	},
+	{
+		"created_at": "Fri Mar 22 15:46:24 +0000 2019",
+		"id": 1109115953407844400,
+		"id_str": "1109119139749064704",
+		"full_text": "A judge is about to sentence Jaskirat Singh Sidhu, who caused the Humboldt Broncos collision that killed 16 people and injured 13 others last April. Proceeding starts at 10 am CT/noon ET. Families of victims are arriving, some carrying hockey jerseys. https://t.co/OdNflGMOy7 https://t.co/5Cr7GXdN2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdNflGMOy7",
+					"expanded_url": "http://cbc.ca/1.5066842",
+					"display_url": "cbc.ca/1.5066842",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109115215793324000,
+					"id_str": "1109115215793324033",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ReaZRXgAEHJ0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ReaZRXgAEHJ0x.jpg",
+					"url": "https://t.co/5Cr7GXdN2c",
+					"display_url": "pic.twitter.com/5Cr7GXdN2c",
+					"expanded_url": "https://twitter.com/CBCAlerts/status/1109115953407844352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109115215793324000,
+					"id_str": "1109115215793324033",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ReaZRXgAEHJ0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ReaZRXgAEHJ0x.jpg",
+					"url": "https://t.co/5Cr7GXdN2c",
+					"display_url": "pic.twitter.com/5Cr7GXdN2c",
+					"expanded_url": "https://twitter.com/CBCAlerts/status/1109115953407844352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151992,
+			"friends_count": 465,
+			"listed_count": 8440,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A judge is about to sentence Jaskirat Singh Sidhu, who caused the Humboldt Broncos collision that killed 16 people and injured 13 others last April. Proceeding starts at 10 am CT/noon ET. Families of victims are arriving, some carrying hockey jerseys. https://t.co/OdNflGMOy7 https://t.co/5Cr7GXdN2c"
+	},
+	{
+		"created_at": "Fri Mar 22 15:20:04 +0000 2019",
+		"id": 1109035019094220800,
+		"id_str": "1109112515424747520",
+		"full_text": "인스타그램에서 음식점 계정마다 DM을 보내, 공짜 음식이나 쿠폰을 주면 리뷰를 잘 써주겠다고 해서 잘 먹고 다녔다... \n가 아니라 그 과정에 AI랑 데이터 분석이랑 자동화를 끼얹었다는 사실이 재미있다.\n\nhttps://t.co/8mHuc7o8PH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8mHuc7o8PH",
+					"expanded_url": "https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10",
+					"display_url": "medium.com/@chrisbuetti/h…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22921685,
+			"id_str": "22921685",
+			"name": "seungho kim",
+			"screen_name": "raccoonyy",
+			"location": "대한민국 동작구",
+			"description": "raccoony. https://t.co/XsEKuOFM6b 팟캐스트. https://t.co/3aLgn8VB4A. Write The Docs Seoul. Software Engineer at ODK Media. 다양함이 어우러지는 세상을 꿈꿉니다.",
+			"url": "https://t.co/p5cyf2mUWs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p5cyf2mUWs",
+							"expanded_url": "http://raccoonyy.github.io",
+							"display_url": "raccoonyy.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XsEKuOFM6b",
+							"expanded_url": "http://stdout.fm",
+							"display_url": "stdout.fm",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/3aLgn8VB4A",
+							"expanded_url": "http://44bits.io",
+							"display_url": "44bits.io",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 475,
+			"listed_count": 43,
+			"created_at": "Thu Mar 05 14:05:40 +0000 2009",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9605,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765454151304159232/2TVW4nvw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765454151304159232/2TVW4nvw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22921685/1545897019",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인스타그램에서 음식점 계정마다 DM을 보내, 공짜 음식이나 쿠폰을 주면 리뷰를 잘 써주겠다고 해서 잘 먹고 다녔다... \n가 아니라 그 과정에 AI랑 데이터 분석이랑 자동화를 끼얹었다는 사실이 재미있다.\n\nhttps://t.co/8mHuc7o8PH"
+	},
+	{
+		"created_at": "Fri Mar 22 15:18:39 +0000 2019",
+		"id": 1108396673577803800,
+		"id_str": "1109112156773969920",
+		"full_text": "대전 성심당은 돈가스를 만들려면 축산물 가공업 허가를 받아야 하는데 그렇지 않았고요.\n\n나폴레옹 베이커리는 냉동보관을 해야 하는 '버터'를 냉장으로 보관했습니다.\n\n강릉 빵다방은 빵 색깔을 내기 위해 사용하는 수산화나트륨을 식품용이 아닌 실험실 시료용을 사용하기도 했습니다.\n\n시료용????",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912534228083949600,
+			"id_str": "912534228083949568",
+			"name": "ɴ ᴇ ɴ ɴ ᴇ",
+			"screen_name": "nenne_zZ",
+			"location": "",
+			"description": "좋아하는 것 : 고양이, 떡볶이, 드라마, 영화, 집",
+			"url": "https://t.co/qQJIGX5Alo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qQJIGX5Alo",
+							"expanded_url": "http://ask.fm/nenne_zZ",
+							"display_url": "ask.fm/nenne_zZ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3638,
+			"friends_count": 120,
+			"listed_count": 20,
+			"created_at": "Tue Sep 26 04:28:08 +0000 2017",
+			"favourites_count": 43580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086491049357279233/__2VhlQg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086491049357279233/__2VhlQg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912534228083949568/1527082115",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3705,
+		"favorite_count": 435,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대전 성심당은 돈가스를 만들려면 축산물 가공업 허가를 받아야 하는데 그렇지 않았고요.\n\n나폴레옹 베이커리는 냉동보관을 해야 하는 '버터'를 냉장으로 보관했습니다.\n\n강릉 빵다방은 빵 색깔을 내기 위해 사용하는 수산화나트륨을 식품용이 아닌 실험실 시료용을 사용하기도 했습니다.\n\n시료용????"
+	},
+	{
+		"created_at": "Fri Mar 22 15:17:31 +0000 2019",
+		"id": 1109044820733943800,
+		"id_str": "1109111872970620928",
+		"full_text": "종교 전쟁: Emacs vs Vim",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 849,
+			"listed_count": 72,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "종교 전쟁: Emacs vs Vim"
+	},
+	{
 		"created_at": "Fri Mar 22 15:16:48 +0000 2019",
 		"id": 1108371274110136300,
 		"id_str": "1109111690719711232",
