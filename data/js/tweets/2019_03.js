@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 05:23:11 +0000 2019",
+		"id": 1108801473389846500,
+		"id_str": "1108962305432145922",
+		"full_text": "[단독] “北, 괌-하와이 전략무기 철수 요구했다” https://t.co/5ZJLtD0t7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ZJLtD0t7f",
+					"expanded_url": "http://dlvr.it/R1Hk0d",
+					"display_url": "dlvr.it/R1Hk0d",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60851517,
+			"id_str": "60851517",
+			"name": "동아일보",
+			"screen_name": "dongamedia",
+			"location": "대한민국",
+			"description": "세상의 모든 뉴스와 콘텐츠를 당신의 손안에!",
+			"url": "http://t.co/xsUiSszJF1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xsUiSszJF1",
+							"expanded_url": "http://www.donga.com",
+							"display_url": "donga.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106479,
+			"friends_count": 30074,
+			"listed_count": 1621,
+			"created_at": "Tue Jul 28 08:34:53 +0000 2009",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 73187,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770784583629479936/N7t2Pkij_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770784583629479936/N7t2Pkij_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60851517/1503622924",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAE00",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] “北, 괌-하와이 전략무기 철수 요구했다” https://t.co/5ZJLtD0t7f"
+	},
+	{
 		"created_at": "Fri Mar 22 05:12:54 +0000 2019",
 		"id": 1108722994845646800,
 		"id_str": "1108959716233736192",
