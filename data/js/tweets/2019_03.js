@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 23:44:24 +0000 2019",
+		"id": 1108873758003978200,
+		"id_str": "1108877047634386944",
+		"full_text": "네, 결국 택시비만 올랐습니다 | 다음 뉴스 https://t.co/pVUFmAwbD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVUFmAwbD5",
+					"expanded_url": "https://news.v.daum.net/v/20190322031111895?rcmd=rn&f=m",
+					"display_url": "news.v.daum.net/v/201903220311…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41330709,
+			"id_str": "41330709",
+			"name": "有明",
+			"screen_name": "ariake",
+			"location": "Kawasaki City, Kanagawa",
+			"description": "항상 감사하십시오. And I also 출장좋아\n플사는 @GUHETxCO 가 그려주었어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1609,
+			"friends_count": 889,
+			"listed_count": 62,
+			"created_at": "Wed May 20 10:09:24 +0000 2009",
+			"favourites_count": 45787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 524070,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098705275685527553/c5XYWTB__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098705275685527553/c5XYWTB__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41330709/1552346216",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네, 결국 택시비만 올랐습니다 | 다음 뉴스 https://t.co/pVUFmAwbD5"
+	},
+	{
+		"created_at": "Thu Mar 21 23:32:43 +0000 2019",
+		"id": 1108791912931024900,
+		"id_str": "1108874106001252352",
+		"full_text": "FB, 수억명의 페이스북 라이트 유저 및 일반 유저, 인스타그램 유저의 패스워드가 평문저장되어 내부 직원이 열람가능한 상태였다고 밝혀. 해당자는 개별 연락을 받게 됨. https://t.co/nuCkQuFiQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nuCkQuFiQp",
+					"expanded_url": "https://www.wsj.com/articles/facebook-says-millions-of-users-passwords-were-improperly-stored-in-internal-systems-11553186974",
+					"display_url": "wsj.com/articles/faceb…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/2JilCs4nFl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2JilCs4nFl",
+							"expanded_url": "https://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2565,
+			"friends_count": 2669,
+			"listed_count": 136,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 37104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 189284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "FB, 수억명의 페이스북 라이트 유저 및 일반 유저, 인스타그램 유저의 패스워드가 평문저장되어 내부 직원이 열람가능한 상태였다고 밝혀. 해당자는 개별 연락을 받게 됨. https://t.co/nuCkQuFiQp"
+	},
+	{
+		"created_at": "Thu Mar 21 23:30:14 +0000 2019",
+		"id": 1108569943941931000,
+		"id_str": "1108873483172237312",
+		"full_text": "나폴레옹 과자점 식약청에 걸린 게 버터를 냉장 보관해서라니, 역시 지금처럼 믿고 열심히 먹으면 되겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3123415830,
+			"id_str": "3123415830",
+			"name": "호수의심연 🌈",
+			"screen_name": "DevilsGotcha",
+			"location": "somewhere fictionary",
+			"description": "하위주체. 제가 지금 웃고 있습니까.",
+			"url": "https://t.co/1FFfRcFZ3j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1FFfRcFZ3j",
+							"expanded_url": "https://ask.fm/devilsgotcha",
+							"display_url": "ask.fm/devilsgotcha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 730,
+			"friends_count": 488,
+			"listed_count": 9,
+			"created_at": "Wed Apr 01 08:07:35 +0000 2015",
+			"favourites_count": 2115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8787,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064698178446848000/xAzKjjpp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064698178446848000/xAzKjjpp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123415830/1537846500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2477,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나폴레옹 과자점 식약청에 걸린 게 버터를 냉장 보관해서라니, 역시 지금처럼 믿고 열심히 먹으면 되겠다."
+	},
+	{
+		"created_at": "Thu Mar 21 23:29:56 +0000 2019",
+		"id": 1108660519127285800,
+		"id_str": "1108873406714281984",
+		"full_text": "(...) https://t.co/dE2qOyF12p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108660499875455000,
+					"id_str": "1108660499875454978",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D2LA2ceVYAI5fu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2LA2ceVYAI5fu6.jpg",
+					"url": "https://t.co/dE2qOyF12p",
+					"display_url": "pic.twitter.com/dE2qOyF12p",
+					"expanded_url": "https://twitter.com/Bengi_Mk3/status/1108660519127285760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108660499875455000,
+					"id_str": "1108660499875454978",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D2LA2ceVYAI5fu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2LA2ceVYAI5fu6.jpg",
+					"url": "https://t.co/dE2qOyF12p",
+					"display_url": "pic.twitter.com/dE2qOyF12p",
+					"expanded_url": "https://twitter.com/Bengi_Mk3/status/1108660519127285760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4167778644,
+			"id_str": "4167778644",
+			"name": "Bengi",
+			"screen_name": "Bengi_Mk3",
+			"location": "127.0.0.1",
+			"description": "FUB Free |&gt; Embedded & Reverse Engineering w/ asm, Python, Erlang, C99, C++11 (!) + a |&gt; #GirlsCanDoAnything Anime Game Geek |&gt; Private -&gt; @Bengi_mk2",
+			"url": "https://t.co/5kobtWt0pi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5kobtWt0pi",
+							"expanded_url": "http://Bengi.kr",
+							"display_url": "Bengi.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 1179,
+			"listed_count": 8,
+			"created_at": "Sun Nov 08 11:56:29 +0000 2015",
+			"favourites_count": 802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25071,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980373841695289345/EklK16Rg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980373841695289345/EklK16Rg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4167778644/1509025081",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "(...) https://t.co/dE2qOyF12p"
+	},
+	{
 		"created_at": "Thu Mar 21 06:58:24 +0000 2019",
 		"id": 1108562553024610300,
 		"id_str": "1108623879725969408",
