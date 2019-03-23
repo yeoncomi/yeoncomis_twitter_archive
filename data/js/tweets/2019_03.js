@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 14:15:58 +0000 2019",
+		"id": 1109363645664788500,
+		"id_str": "1109458770646564864",
+		"full_text": "보다가 이해를 포기한 장면 https://t.co/fV7rx03w8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109363637246787600,
+					"id_str": "1109363637246787584",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D2VAWbTUgAAxrlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2VAWbTUgAAxrlF.jpg",
+					"url": "https://t.co/fV7rx03w8M",
+					"display_url": "pic.twitter.com/fV7rx03w8M",
+					"expanded_url": "https://twitter.com/LeParadice/status/1109363645664788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1063,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1063,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109363637246787600,
+					"id_str": "1109363637246787584",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D2VAWbTUgAAxrlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2VAWbTUgAAxrlF.jpg",
+					"url": "https://t.co/fV7rx03w8M",
+					"display_url": "pic.twitter.com/fV7rx03w8M",
+					"expanded_url": "https://twitter.com/LeParadice/status/1109363645664788480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1063,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1063,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 942405586229936100,
+			"id_str": "942405586229936128",
+			"name": "레프🧡4.6~7 Seoul",
+			"screen_name": "LeParadice",
+			"location": "",
+			"description": "双葉💕",
+			"url": "https://t.co/AS7wkCpJ3A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AS7wkCpJ3A",
+							"expanded_url": "http://twpf.jp/LeParadice",
+							"display_url": "twpf.jp/LeParadice",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 494,
+			"listed_count": 10,
+			"created_at": "Sun Dec 17 14:46:15 +0000 2017",
+			"favourites_count": 15683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 101094,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108211911034732544/0ZdVT94u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108211911034732544/0ZdVT94u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/942405586229936128/1553080168",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 558,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보다가 이해를 포기한 장면 https://t.co/fV7rx03w8M"
+	},
+	{
+		"created_at": "Sat Mar 23 14:06:37 +0000 2019",
+		"id": 1109381263339601900,
+		"id_str": "1109456418640269312",
+		"full_text": "후생성과장이 김포공항에서 난동부린 뉴스트윗 아래에\n\n日1\"일본에 돌아오지마\"\n↓\n韓\"여기에 (쓰레기를) 버리지 마세요\"\n↓\n日2\"왠지... 미안해(´･ω･`)\"\n\n이 흐름 너무 좋음 ㅋㅋㅋ https://t.co/lIjAzsIg9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109381245610295300,
+					"id_str": "1109381245610295297",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D2VQXXkVAAE1yJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2VQXXkVAAE1yJe.jpg",
+					"url": "https://t.co/lIjAzsIg9D",
+					"display_url": "pic.twitter.com/lIjAzsIg9D",
+					"expanded_url": "https://twitter.com/wagimaru/status/1109381263339601920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109381245610295300,
+					"id_str": "1109381245610295297",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D2VQXXkVAAE1yJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2VQXXkVAAE1yJe.jpg",
+					"url": "https://t.co/lIjAzsIg9D",
+					"display_url": "pic.twitter.com/lIjAzsIg9D",
+					"expanded_url": "https://twitter.com/wagimaru/status/1109381263339601920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151086072,
+			"id_str": "151086072",
+			"name": "wagimaru@イカしすぎ",
+			"screen_name": "wagimaru",
+			"location": "Tokyo, Japan.",
+			"description": "東京都納税者/영화와 사진, 오징어와 몬헌과 메탈기어, 커비와 링크와 전차를 좋아합니다/오늘만 대충 수습하며 삽니다/ASKFM(https://t.co/Ih3nh3ATU9…)/日本語版(@wagimaru_j)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ih3nh3ATU9",
+							"expanded_url": "http://ask.fm/wagimaru?utm_s",
+							"display_url": "ask.fm/wagimaru?utm_s",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 133,
+			"listed_count": 20,
+			"created_at": "Wed Jun 02 15:28:11 +0000 2010",
+			"favourites_count": 5089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75614,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897199603782516736/Cn8r8I1-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897199603782516736/Cn8r8I1-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151086072/1429470558",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1475,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후생성과장이 김포공항에서 난동부린 뉴스트윗 아래에\n\n日1\"일본에 돌아오지마\"\n↓\n韓\"여기에 (쓰레기를) 버리지 마세요\"\n↓\n日2\"왠지... 미안해(´･ω･`)\"\n\n이 흐름 너무 좋음 ㅋㅋㅋ https://t.co/lIjAzsIg9D"
+	},
+	{
+		"created_at": "Sat Mar 23 14:05:45 +0000 2019",
+		"id": 1109251727302131700,
+		"id_str": "1109456201509560321",
+		"full_text": "트위터 창업자 잭 도시 ‘요가에 심취하고 패션 모델로 활동하면서 일을 소홀히 한다는 이유로 2008년 CEO 자리에서 쫓겨났다가, 경영난이 심화된 2015년 복귀했다.’ 음...트위터리안스럽군",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249939471,
+			"id_str": "249939471",
+			"name": "빌레트",
+			"screen_name": "villette420",
+			"location": "",
+			"description": "15년차 번역가. ‘나쁜 페미니스트’ ‘헝거’ 번역. 첫 에세이 ‘먹고사는 게 전부가 아닌 날도 있어서’",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10081,
+			"friends_count": 871,
+			"listed_count": 108,
+			"created_at": "Thu Feb 10 02:42:38 +0000 2011",
+			"favourites_count": 4491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25019,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095790250683584518/2E8R0GPk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095790250683584518/2E8R0GPk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249939471/1361427534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1054,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터 창업자 잭 도시 ‘요가에 심취하고 패션 모델로 활동하면서 일을 소홀히 한다는 이유로 2008년 CEO 자리에서 쫓겨났다가, 경영난이 심화된 2015년 복귀했다.’ 음...트위터리안스럽군"
+	},
+	{
 		"created_at": "Sat Mar 23 06:44:33 +0000 2019",
 		"id": 881330662321655800,
 		"id_str": "1109345167545257984",
