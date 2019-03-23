@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 06:44:33 +0000 2019",
+		"id": 881330662321655800,
+		"id_str": "1109345167545257984",
+		"full_text": "Masturbating man, Pompeii, 79 CE https://t.co/EPA2b17Vmd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 881330346624786400,
+					"id_str": "881330346624786433",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DDsdR-BXoAEMxbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDsdR-BXoAEMxbB.jpg",
+					"url": "https://t.co/EPA2b17Vmd",
+					"display_url": "pic.twitter.com/EPA2b17Vmd",
+					"expanded_url": "https://twitter.com/PersianRose1/status/881330662321655808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 881330346624786400,
+					"id_str": "881330346624786433",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DDsdR-BXoAEMxbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDsdR-BXoAEMxbB.jpg",
+					"url": "https://t.co/EPA2b17Vmd",
+					"display_url": "pic.twitter.com/EPA2b17Vmd",
+					"expanded_url": "https://twitter.com/PersianRose1/status/881330662321655808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 940832767,
+			"id_str": "940832767",
+			"name": "Persian Rose 🇺🇸🇮🇷🏳️",
+			"screen_name": "PersianRose1",
+			"location": "5 admins scattered in US & EU",
+			"description": "Mostly funny stuff that I like. Mom,Orthopedic surgeon,wife,#exmuslim #Iranian-#American #atheist . Account managed by me & my secretary and others.",
+			"url": "https://t.co/WhFbsxdGaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WhFbsxdGaS",
+							"expanded_url": "https://www.facebook.com/IAAMT2",
+							"display_url": "facebook.com/IAAMT2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33485,
+			"friends_count": 99,
+			"listed_count": 876,
+			"created_at": "Sun Nov 11 08:26:50 +0000 2012",
+			"favourites_count": 38307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968578291878699008/Sfmc1Prs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/940832767/1537834817",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32857,
+		"favorite_count": 66517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Masturbating man, Pompeii, 79 CE https://t.co/EPA2b17Vmd"
+	},
+	{
+		"created_at": "Sat Mar 23 06:43:02 +0000 2019",
+		"id": 1109340071994380300,
+		"id_str": "1109344785750347777",
+		"full_text": "애니메이션 스트리밍 서비스 크런치롤이 20016년 서비스 이래 처음으로 요금을 인상. 이유는 오르는 라이선스비와 관련 업계의 소모 자금이 늘어서라고.\n\n월 6.95 → 7.99 달러\n\nhttps://t.co/7OSGJUw1UT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OSGJUw1UT",
+					"expanded_url": "https://techcrunch.com/2019/03/22/crunchyroll-raises-its-monthly-subscription-price-to-7-99/",
+					"display_url": "techcrunch.com/2019/03/22/cru…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2837796253,
+			"id_str": "2837796253",
+			"name": "BLU.ᴿᴵᴻ(*´꒳`*)",
+			"screen_name": "BLU_P_",
+			"location": "로스 산토스, SA 이클립스 타워 #301",
+			"description": "🎮비디오게이머/🎵리게이/✏️ICT 리포터 // Acer MR / 소식 @bpict_/ »리겜 @bpotoge «",
+			"url": "https://t.co/BPXL1BCg9J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BPXL1BCg9J",
+							"expanded_url": "https://discord.gg/E2eW9nm",
+							"display_url": "discord.gg/E2eW9nm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 209,
+			"listed_count": 9,
+			"created_at": "Thu Oct 02 08:42:53 +0000 2014",
+			"favourites_count": 7348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55664,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081908649465765888/iTNvqB5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081908649465765888/iTNvqB5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837796253/1551030489",
+			"profile_link_color": "007FFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애니메이션 스트리밍 서비스 크런치롤이 20016년 서비스 이래 처음으로 요금을 인상. 이유는 오르는 라이선스비와 관련 업계의 소모 자금이 늘어서라고.\n\n월 6.95 → 7.99 달러\n\nhttps://t.co/7OSGJUw1UT"
+	},
+	{
 		"created_at": "Sat Mar 23 06:11:42 +0000 2019",
 		"id": 1109134941269311500,
 		"id_str": "1109336903348674560",
