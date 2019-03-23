@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 20:48:45 +0000 2019",
+		"id": 1109300789720297500,
+		"id_str": "1109557617515335680",
+		"full_text": "There are articles written by professional game journalists who are lying about how the creators of Cuphead want their fans to pressure Nintendo to include them in Smash Bros. That is an absolute lie. They just think it would be cool to see Cuphead in Smash.\n\nSpread this around. https://t.co/1OngPQE5iB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1OngPQE5iB",
+					"expanded_url": "https://twitter.com/gameinformer/status/1108760416421859328",
+					"display_url": "twitter.com/gameinformer/s…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 750167885985742800,
+			"id_str": "750167885985742848",
+			"name": "Crimson Mayhem",
+			"screen_name": "mayhem_crimson",
+			"location": "",
+			"description": "YouTuber / Editor / Animation Enthusaist. banner by @Archer_in_space. pfp by @AcrylicSkeleton.",
+			"url": "https://t.co/G2319FB32a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G2319FB32a",
+							"expanded_url": "https://m.youtube.com/channel/UCv7LSCDWAA3odemuxffE6vw",
+							"display_url": "m.youtube.com/channel/UCv7LS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728,
+			"friends_count": 184,
+			"listed_count": 56,
+			"created_at": "Tue Jul 05 03:22:16 +0000 2016",
+			"favourites_count": 56623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37050,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074436911329148928/B2jQNpuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074436911329148928/B2jQNpuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750167885985742848/1541045392",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108760416421859300,
+		"quoted_status_id_str": "1108760416421859328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1OngPQE5iB",
+			"expanded": "https://twitter.com/gameinformer/status/1108760416421859328",
+			"display": "twitter.com/gameinformer/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 16:00:57 +0000 2019",
+			"id": 1108760416421859300,
+			"id_str": "1108760416421859328",
+			"full_text": "Cuphead's creator desperately wants to see the character included in Super Smash Bros. and is hoping fans can help pressure Nintendo to make it happen. https://t.co/dmRq560QeX https://t.co/ZObjsMgy9X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dmRq560QeX",
+						"expanded_url": "https://www.gameinformer.com/gdc-2019/2019/03/20/cupheads-creator-desperately-wants-him-in-super-smash-bros",
+						"display_url": "gameinformer.com/gdc-2019/2019/…",
+						"indices": [
+							152,
+							175
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1108760414299529200,
+						"id_str": "1108760414299529221",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/D2MbuOtWoAUzzM2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2MbuOtWoAUzzM2.jpg",
+						"url": "https://t.co/ZObjsMgy9X",
+						"display_url": "pic.twitter.com/ZObjsMgy9X",
+						"expanded_url": "https://twitter.com/gameinformer/status/1108760416421859328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108760414299529200,
+						"id_str": "1108760414299529221",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/D2MbuOtWoAUzzM2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2MbuOtWoAUzzM2.jpg",
+						"url": "https://t.co/ZObjsMgy9X",
+						"display_url": "pic.twitter.com/ZObjsMgy9X",
+						"expanded_url": "https://twitter.com/gameinformer/status/1108760416421859328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20273398,
+				"id_str": "20273398",
+				"name": "Game Informer",
+				"screen_name": "gameinformer",
+				"location": "Minneapolis",
+				"description": "The world's largest video game magazine. Check us out in print and online for the latest news, previews, reviews, podcasts and more.",
+				"url": "http://t.co/0KtCLU2JoS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0KtCLU2JoS",
+								"expanded_url": "http://www.gameinformer.com",
+								"display_url": "gameinformer.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2392288,
+				"friends_count": 118159,
+				"listed_count": 9096,
+				"created_at": "Fri Feb 06 21:23:00 +0000 2009",
+				"favourites_count": 114,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 72129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3788C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013467162017607683/3sZShCSd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013467162017607683/3sZShCSd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20273398/1528197360",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1423,
+			"favorite_count": 5164,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1824,
+		"favorite_count": 3278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There are articles written by professional game journalists who are lying about how the creators of Cuphead want their fans to pressure Nintendo to include them in Smash Bros. That is an absolute lie. They just think it would be cool to see Cuphead in Smash.\n\nSpread this around. https://t.co/1OngPQE5iB"
+	},
+	{
 		"created_at": "Sat Mar 23 15:47:59 +0000 2019",
 		"id": 1109481829558419500,
 		"id_str": "1109481930007830528",
