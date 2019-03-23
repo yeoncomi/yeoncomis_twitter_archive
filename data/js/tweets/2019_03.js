@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 02:23:21 +0000 2019",
+		"id": 1099555530626850800,
+		"id_str": "1109279436359098368",
+		"full_text": "thank you for 6666+ followers! to thank everyone for their continuous support, the mods are going to be hosting another giveaway!\n• rt + follow (qrts won't count)\n• 6 winners! ($10 usd itunes/google play card each)\n• ends at 9 pm pst on 03/23/19\n• have dms open for contact! https://t.co/5uVrk6UxDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099554319991328800,
+					"id_str": "1099554319991328768",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Jm1A5UUAABiaL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0Jm1A5UUAABiaL.png",
+					"url": "https://t.co/5uVrk6UxDI",
+					"display_url": "pic.twitter.com/5uVrk6UxDI",
+					"expanded_url": "https://twitter.com/badbandoriposts/status/1099555530626850817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 876,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 876,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099554319991328800,
+					"id_str": "1099554319991328768",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Jm1A5UUAABiaL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0Jm1A5UUAABiaL.png",
+					"url": "https://t.co/5uVrk6UxDI",
+					"display_url": "pic.twitter.com/5uVrk6UxDI",
+					"expanded_url": "https://twitter.com/badbandoriposts/status/1099555530626850817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 876,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 876,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017584261086367700,
+			"id_str": "1017584261086367745",
+			"name": "bad bandori posts",
+			"screen_name": "badbandoriposts",
+			"location": "",
+			"description": "b̃͋̾̏ͧͫr͎̗̥͙̲͇̣e̱̥̲ͬͬ̃̋͆̆ͯ̕a̮͊̾ͤ̏͠d̹͎̭̍̒̈͂ ? bread.",
+			"url": "https://t.co/cVMG7n07F8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVMG7n07F8",
+							"expanded_url": "https://badbandoriposts.carrd.co/#",
+							"display_url": "badbandoriposts.carrd.co/#",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7432,
+			"friends_count": 3,
+			"listed_count": 18,
+			"created_at": "Fri Jul 13 01:39:28 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017584857726062592/9WY1rLjq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017584857726062592/9WY1rLjq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017584261086367745/1531522806",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1119,
+		"favorite_count": 804,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thank you for 6666+ followers! to thank everyone for their continuous support, the mods are going to be hosting another giveaway!\n• rt + follow (qrts won't count)\n• 6 winners! ($10 usd itunes/google play card each)\n• ends at 9 pm pst on 03/23/19\n• have dms open for contact! https://t.co/5uVrk6UxDI"
+	},
+	{
+		"created_at": "Sat Mar 23 02:19:55 +0000 2019",
+		"id": 1109270537774088200,
+		"id_str": "1109278570256359430",
+		"full_text": "LINELINELINELINELINELINELINELINELINELINELINELINELlNELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINE\n\nひとつだけ小文字のLがまぎれているようです。\n#パクツイ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "パクツイ",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404759173,
+			"id_str": "404759173",
+			"name": "LINE公式アカウント",
+			"screen_name": "LINEjp_official",
+			"location": "東京",
+			"description": "コミュニケーションアプリ「LINE」の公式Twitterです🍵担当者が地味に頑張っています。毎日投稿が目標ですがｻﾎﾞりがちなので応援してやってください⚠️機能やｻｰﾋﾞｽに関する個別のご質問・ご意見はお問い合わせﾌｫｰﾑへお願いします👉https://t.co/ZYmbaIfkt8",
+			"url": "https://t.co/idpc52ydmI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/idpc52ydmI",
+							"expanded_url": "http://line.me/ja/",
+							"display_url": "line.me/ja/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZYmbaIfkt8",
+							"expanded_url": "https://contact-cc.line.me",
+							"display_url": "contact-cc.line.me",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308473,
+			"friends_count": 1312,
+			"listed_count": 2208,
+			"created_at": "Fri Nov 04 11:19:02 +0000 2011",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 131045,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E9F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098815379323772928/569jOL42_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098815379323772928/569jOL42_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404759173/1552612243",
+			"profile_link_color": "2F5B87",
+			"profile_sidebar_border_color": "E3E9F0",
+			"profile_sidebar_fill_color": "E3E9F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "LINELINELINELINELINELINELINELINELINELINELINELINELlNELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINELINE\n\nひとつだけ小文字のLがまぎれているようです。\n#パクツイ"
+	},
+	{
+		"created_at": "Sat Mar 23 02:19:16 +0000 2019",
+		"id": 1109070758817333200,
+		"id_str": "1109278409035640832",
+		"full_text": "ㅋㅋ\nㅋ https://t.co/DixZ5FtwaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109070709957881900,
+					"id_str": "1109070709957881857",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q170HUcAEcv7N.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q170HUcAEcv7N.png",
+					"url": "https://t.co/DixZ5FtwaE",
+					"display_url": "pic.twitter.com/DixZ5FtwaE",
+					"expanded_url": "https://twitter.com/BBB00M_/status/1109070758817333251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109070709957881900,
+					"id_str": "1109070709957881857",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q170HUcAEcv7N.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q170HUcAEcv7N.png",
+					"url": "https://t.co/DixZ5FtwaE",
+					"display_url": "pic.twitter.com/DixZ5FtwaE",
+					"expanded_url": "https://twitter.com/BBB00M_/status/1109070758817333251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757837059021086700,
+			"id_str": "757837059021086720",
+			"name": "BAN.G",
+			"screen_name": "BBB00M_",
+			"location": "ホテルオハラ",
+			"description": "인장은 mu(@mumuir0315)님💓 비팔알람 🔕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 153,
+			"listed_count": 21,
+			"created_at": "Tue Jul 26 07:16:49 +0000 2016",
+			"favourites_count": 40201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82522,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101448718593609728/GqmGG23R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101448718593609728/GqmGG23R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757837059021086720/1551207611",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋ\nㅋ https://t.co/DixZ5FtwaE"
+	},
+	{
 		"created_at": "Sat Mar 23 01:57:07 +0000 2019",
 		"id": 1109272831882256400,
 		"id_str": "1109272831882256384",
