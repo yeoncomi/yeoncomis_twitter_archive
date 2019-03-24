@@ -1,6 +1,1067 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 23:03:04 +0000 2019",
+		"id": 1109943749205868500,
+		"id_str": "1109953809361428481",
+		"full_text": "학교 앞 돈까스 집 이름이...? https://t.co/rGMdQzEOEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109943739110182900,
+					"id_str": "1109943739110182917",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dP8zJU0AUJOu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dP8zJU0AUJOu1.jpg",
+					"url": "https://t.co/rGMdQzEOEU",
+					"display_url": "pic.twitter.com/rGMdQzEOEU",
+					"expanded_url": "https://twitter.com/Tangbee_OwO/status/1109943749205868544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109943739110182900,
+					"id_str": "1109943739110182917",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dP8zJU0AUJOu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dP8zJU0AUJOu1.jpg",
+					"url": "https://t.co/rGMdQzEOEU",
+					"display_url": "pic.twitter.com/rGMdQzEOEU",
+					"expanded_url": "https://twitter.com/Tangbee_OwO/status/1109943749205868544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055006271252951000,
+			"id_str": "1055006271252951041",
+			"name": "탱❄이",
+			"screen_name": "Tangbee_OwO",
+			"location": "",
+			"description": "Pour Your Coffee to Revive this Dog",
+			"url": "https://t.co/nGwwxuOR9B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nGwwxuOR9B",
+							"expanded_url": "https://ask.fm/Tangbee_OwO",
+							"display_url": "ask.fm/Tangbee_OwO",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 276,
+			"listed_count": 16,
+			"created_at": "Wed Oct 24 08:01:10 +0000 2018",
+			"favourites_count": 8759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099697186722394113/KAvsz2ke_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099697186722394113/KAvsz2ke_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055006271252951041/1553271353",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학교 앞 돈까스 집 이름이...? https://t.co/rGMdQzEOEU"
+	},
+	{
+		"created_at": "Sun Mar 24 23:02:55 +0000 2019",
+		"id": 1109925822545215500,
+		"id_str": "1109953771268767744",
+		"full_text": "So many journalists should bow their head in shame today. This is not a moment of schadenfreude for me. I am always saddened when MSM undermines its credibility. Journalism in general has suffered because of this craze. https://t.co/qoqs3fWDiy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109925286727110700,
+					"id_str": "1109925286727110658",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D2c_KuqX0AIcyzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2c_KuqX0AIcyzQ.jpg",
+					"url": "https://t.co/qoqs3fWDiy",
+					"display_url": "pic.twitter.com/qoqs3fWDiy",
+					"expanded_url": "https://twitter.com/khrafnsson/status/1109925822545215495/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1156,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109925286727110700,
+					"id_str": "1109925286727110658",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D2c_KuqX0AIcyzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2c_KuqX0AIcyzQ.jpg",
+					"url": "https://t.co/qoqs3fWDiy",
+					"display_url": "pic.twitter.com/qoqs3fWDiy",
+					"expanded_url": "https://twitter.com/khrafnsson/status/1109925822545215495/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1156,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126055530,
+			"id_str": "126055530",
+			"name": "Kristinn Hrafnsson",
+			"screen_name": "khrafnsson",
+			"location": "",
+			"description": "Journalist - WikiLeaks",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703,
+			"friends_count": 103,
+			"listed_count": 128,
+			"created_at": "Wed Mar 24 18:04:20 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000322490823/65b794b029734035a04d39f5ffe9b22f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000322490823/65b794b029734035a04d39f5ffe9b22f_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So many journalists should bow their head in shame today. This is not a moment of schadenfreude for me. I am always saddened when MSM undermines its credibility. Journalism in general has suffered because of this craze. https://t.co/qoqs3fWDiy"
+	},
+	{
+		"created_at": "Sun Mar 24 23:02:05 +0000 2019",
+		"id": 1109941887526453200,
+		"id_str": "1109953560525963264",
+		"full_text": "중국 중관촌, \"잠도, 섹스도, 삶도 없이 일한다\", \"30세 전에 번아웃\"’ https://t.co/0kwwKvEWY6 https://t.co/aD8nLJRhRC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0kwwKvEWY6",
+					"expanded_url": "https://buff.ly/2OvFvdD",
+					"display_url": "buff.ly/2OvFvdD",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109941886289174500,
+					"id_str": "1109941886289174529",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dOQ82X4AEsMPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dOQ82X4AEsMPh.jpg",
+					"url": "https://t.co/aD8nLJRhRC",
+					"display_url": "pic.twitter.com/aD8nLJRhRC",
+					"expanded_url": "https://twitter.com/kwang82/status/1109941887526453251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109941886289174500,
+					"id_str": "1109941886289174529",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dOQ82X4AEsMPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dOQ82X4AEsMPh.jpg",
+					"url": "https://t.co/aD8nLJRhRC",
+					"display_url": "pic.twitter.com/aD8nLJRhRC",
+					"expanded_url": "https://twitter.com/kwang82/status/1109941887526453251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41998762,
+			"id_str": "41998762",
+			"name": "광파리_IT 이야기",
+			"screen_name": "kwang82",
+			"location": "Seoul, Korea",
+			"description": "IT 큐레이터 광파리. 주로 국내외 IT와 스타트업 이야기를 합니다. 페이스북 페이지는https://t.co/5fQ2ZGXZnN",
+			"url": "http://t.co/XP5cJbursY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XP5cJbursY",
+							"expanded_url": "http://kwang82.blogspot.com/",
+							"display_url": "kwang82.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5fQ2ZGXZnN",
+							"expanded_url": "https://www.facebook.com/kwang8e",
+							"display_url": "facebook.com/kwang8e",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 379788,
+			"friends_count": 2767,
+			"listed_count": 4532,
+			"created_at": "Sat May 23 08:39:59 +0000 2009",
+			"favourites_count": 1203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36916,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712243289391431684/3evqj5oW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712243289391431684/3evqj5oW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41998762/1525636330",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국 중관촌, \"잠도, 섹스도, 삶도 없이 일한다\", \"30세 전에 번아웃\"’ https://t.co/0kwwKvEWY6 https://t.co/aD8nLJRhRC"
+	},
+	{
+		"created_at": "Sun Mar 24 23:01:02 +0000 2019",
+		"id": 1109870673818603500,
+		"id_str": "1109953295055904773",
+		"full_text": "지능수준보속ㅋㄱㅋㄱ https://t.co/AmifkGT3aw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109870663907471400,
+					"id_str": "1109870663907471360",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2cNfQzU8AAz_R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2cNfQzU8AAz_R6.jpg",
+					"url": "https://t.co/AmifkGT3aw",
+					"display_url": "pic.twitter.com/AmifkGT3aw",
+					"expanded_url": "https://twitter.com/gnar_rengar/status/1109870673818603521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 522,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109870663907471400,
+					"id_str": "1109870663907471360",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2cNfQzU8AAz_R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2cNfQzU8AAz_R6.jpg",
+					"url": "https://t.co/AmifkGT3aw",
+					"display_url": "pic.twitter.com/AmifkGT3aw",
+					"expanded_url": "https://twitter.com/gnar_rengar/status/1109870673818603521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 522,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1109870666923163600,
+					"id_str": "1109870666923163648",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2cNfcCUwAAD12v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2cNfcCUwAAD12v.jpg",
+					"url": "https://t.co/AmifkGT3aw",
+					"display_url": "pic.twitter.com/AmifkGT3aw",
+					"expanded_url": "https://twitter.com/gnar_rengar/status/1109870673818603521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 715694832878891000,
+			"id_str": "715694832878891011",
+			"name": "성마",
+			"screen_name": "gnar_rengar",
+			"location": "대한민국",
+			"description": "프사 본인^기본 욕쟁이 #반페미 #논페미\n페이스북 - 성마리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 579,
+			"listed_count": 3,
+			"created_at": "Fri Apr 01 00:18:39 +0000 2016",
+			"favourites_count": 1424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109708944161697794/-WbM-pKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109708944161697794/-WbM-pKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/715694832878891011/1468924930",
+			"profile_link_color": "EB0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지능수준보속ㅋㄱㅋㄱ https://t.co/AmifkGT3aw"
+	},
+	{
+		"created_at": "Sun Mar 24 22:59:04 +0000 2019",
+		"id": 1109935400988999700,
+		"id_str": "1109952802619428864",
+		"full_text": "야간 근로가 각종 질병 유발한다 의료 전문가들의 연구 결과가 지속적으로 나오는 반면, 새벽 배송 시장은 점점 활성화 되는 현실.. 나의 편리함이 누군가의 노동환경 악화에 지대하게 기여하는 21세기 한국사회. https://t.co/EROqcZ2Re7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EROqcZ2Re7",
+					"expanded_url": "https://news.v.daum.net/v/20190324172902814?f=m",
+					"display_url": "news.v.daum.net/v/201903241729…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94510621,
+			"id_str": "94510621",
+			"name": "張三李四",
+			"screen_name": "masterkeaton1",
+			"location": "Republic of Korea",
+			"description": "l'heure entre chien et loup",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6411,
+			"friends_count": 409,
+			"listed_count": 129,
+			"created_at": "Fri Dec 04 07:34:17 +0000 2009",
+			"favourites_count": 1110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085514193275502594/eYictbkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085514193275502594/eYictbkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94510621/1550368987",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야간 근로가 각종 질병 유발한다 의료 전문가들의 연구 결과가 지속적으로 나오는 반면, 새벽 배송 시장은 점점 활성화 되는 현실.. 나의 편리함이 누군가의 노동환경 악화에 지대하게 기여하는 21세기 한국사회. https://t.co/EROqcZ2Re7"
+	},
+	{
+		"created_at": "Sun Mar 24 22:57:20 +0000 2019",
+		"id": 1109009569366237200,
+		"id_str": "1109952366285971456",
+		"full_text": "겨님 체육쌤 너무 웃김\n\n체육쌤:손톱에 뭐 바른놈들 뒤로 나가\n\n학생:쌤 강화제는요?\n\n체육쌤:? 무슨 강화제\n\n학생:손톱 강화제요\n\n체육쌤:감히 강화를 해? 뒤로 나가\n\n진짜 다 빵터짐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059039154493841400,
+			"id_str": "1059039154493841410",
+			"name": "[커미션]똥꼬발랄 겨님",
+			"screen_name": "uYv2CKY9zd58DDl",
+			"location": "",
+			"description": "무멘팔 그림러 밈러\n커플링 가리는거 없이 좋아하며\n지뢰도 없어요!.!.!.!..!\n05년생 여자 친근하게 다가와주시면\n정말 좋아합니다!..!!.!!.\n스틱맨,인간,크리쳐,수인,옵젝 다 좋아하고 많이 그려요!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277,
+			"friends_count": 253,
+			"listed_count": 5,
+			"created_at": "Sun Nov 04 11:06:25 +0000 2018",
+			"favourites_count": 2349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107283076663541762/j4lvpD_t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107283076663541762/j4lvpD_t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059039154493841410/1551599354",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12807,
+		"favorite_count": 5120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "겨님 체육쌤 너무 웃김\n\n체육쌤:손톱에 뭐 바른놈들 뒤로 나가\n\n학생:쌤 강화제는요?\n\n체육쌤:? 무슨 강화제\n\n학생:손톱 강화제요\n\n체육쌤:감히 강화를 해? 뒤로 나가\n\n진짜 다 빵터짐"
+	},
+	{
+		"created_at": "Sun Mar 24 22:56:45 +0000 2019",
+		"id": 1109949128291684400,
+		"id_str": "1109952216893263873",
+		"full_text": "아마존도 두손 든 ‘새벽배송’=제프 베조스도 놀란 한국의 사람 갈아넣는 방식 https://t.co/MoUoTUCMYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109949121731780600,
+					"id_str": "1109949121731780608",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dU2G-UYAAOzPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dU2G-UYAAOzPB.jpg",
+					"url": "https://t.co/MoUoTUCMYA",
+					"display_url": "pic.twitter.com/MoUoTUCMYA",
+					"expanded_url": "https://twitter.com/deckybi/status/1109949128291684352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109949121731780600,
+					"id_str": "1109949121731780608",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dU2G-UYAAOzPB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dU2G-UYAAOzPB.jpg",
+					"url": "https://t.co/MoUoTUCMYA",
+					"display_url": "pic.twitter.com/MoUoTUCMYA",
+					"expanded_url": "https://twitter.com/deckybi/status/1109949128291684352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 745,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54256163,
+			"id_str": "54256163",
+			"name": "DECK🏳️‍🌈",
+			"screen_name": "deckybi",
+			"location": "Seoul, Korea",
+			"description": "문화기획자/B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2987,
+			"friends_count": 1375,
+			"listed_count": 71,
+			"created_at": "Mon Jul 06 16:37:25 +0000 2009",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34197,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A2A2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018710981503901696/yKpsAnR1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018710981503901696/yKpsAnR1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54256163/1490580114",
+			"profile_link_color": "7A2B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7700",
+			"profile_text_color": "1A1A1A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존도 두손 든 ‘새벽배송’=제프 베조스도 놀란 한국의 사람 갈아넣는 방식 https://t.co/MoUoTUCMYA"
+	},
+	{
 		"created_at": "Sun Mar 24 18:53:57 +0000 2019",
 		"id": 1109891115493158900,
 		"id_str": "1109891115493158912",
