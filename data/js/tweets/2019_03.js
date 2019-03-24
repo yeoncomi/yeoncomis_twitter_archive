@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 17:47:18 +0000 2019",
+		"id": 1109870942715416600,
+		"id_str": "1109874342404317185",
+		"full_text": "\"Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety\" https://t.co/HnragPfMsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HnragPfMsk",
+					"expanded_url": "https://twitter.com/mbrennanchina/status/1109741811310837760",
+					"display_url": "twitter.com/mbrennanchina/…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19026149,
+			"id_str": "19026149",
+			"name": "Hacker Fantastic",
+			"screen_name": "hackerfantastic",
+			"location": "/etc/shadow",
+			"description": "Co-founder & Director @myhackerhouse - professional cyber security services and training. Hacker and all things, CNE/CNA.",
+			"url": "https://t.co/ArUyjHl5WX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArUyjHl5WX",
+							"expanded_url": "https://hacker.house",
+							"display_url": "hacker.house",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78588,
+			"friends_count": 9165,
+			"listed_count": 2178,
+			"created_at": "Thu Jan 15 15:52:44 +0000 2009",
+			"favourites_count": 57514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103899896086585351/20pi9dHc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103899896086585351/20pi9dHc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19026149/1427885297",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109741811310837800,
+		"quoted_status_id_str": "1109741811310837760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HnragPfMsk",
+			"expanded": "https://twitter.com/mbrennanchina/status/1109741811310837760",
+			"display": "twitter.com/mbrennanchina/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 24 09:00:40 +0000 2019",
+			"id": 1109741811310837800,
+			"id_str": "1109741811310837760",
+			"full_text": "Wow! China Airport face recognition systems to help you check your flight status and find the way to your gate. Note I did not input anything, it accurately identified my full flight information from my face! https://t.co/5ASdrwA7wj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1109741602329657300,
+						"id_str": "1109741602329657344",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109741602329657344/pu/img/p2YKfixSMKyiVFKR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109741602329657344/pu/img/p2YKfixSMKyiVFKR.jpg",
+						"url": "https://t.co/5ASdrwA7wj",
+						"display_url": "pic.twitter.com/5ASdrwA7wj",
+						"expanded_url": "https://twitter.com/mbrennanchina/status/1109741811310837760/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1109741602329657300,
+						"id_str": "1109741602329657344",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109741602329657344/pu/img/p2YKfixSMKyiVFKR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109741602329657344/pu/img/p2YKfixSMKyiVFKR.jpg",
+						"url": "https://t.co/5ASdrwA7wj",
+						"display_url": "pic.twitter.com/5ASdrwA7wj",
+						"expanded_url": "https://twitter.com/mbrennanchina/status/1109741811310837760/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 22245,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109741602329657344/pu/vid/320x568/0LqEkcjLPs5owRpR.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1109741602329657344/pu/pl/dz8c5YDhcA3EA0Bm.m3u8?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109741602329657344/pu/vid/720x1280/Stv-8fvjZwFJx8nM.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109741602329657344/pu/vid/360x640/ySFL1ueJRSKknSWG.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2343979050,
+				"id_str": "2343979050",
+				"name": "Matthew Brennan",
+				"screen_name": "mbrennanchina",
+				"location": "People's Republic of China",
+				"description": "China Tech | Speaker | Writer | WeChat & Tencent specialist. Speaking availability & media inquiries: info@chinachannel.co",
+				"url": "https://t.co/LRB2tJPRjW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LRB2tJPRjW",
+								"expanded_url": "http://matthewbrennan.info",
+								"display_url": "matthewbrennan.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9536,
+				"friends_count": 293,
+				"listed_count": 164,
+				"created_at": "Fri Feb 14 18:53:01 +0000 2014",
+				"favourites_count": 3495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1789,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947797731279478786/czFtc3gh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947797731279478786/czFtc3gh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343979050/1482342078",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0caa8c5457150001",
+				"url": "https://api.twitter.com/1.1/geo/id/0caa8c5457150001.json",
+				"place_type": "poi",
+				"name": "Terminal 1 Departures",
+				"full_name": "Terminal 1 Departures",
+				"country_code": "CN",
+				"country": "People's Republic of China",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								103.958253,
+								30.578544
+							],
+							[
+								103.958253,
+								30.578544
+							],
+							[
+								103.958253,
+								30.578544
+							],
+							[
+								103.958253,
+								30.578544
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3208,
+			"favorite_count": 5504,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety\" https://t.co/HnragPfMsk"
+	},
+	{
 		"created_at": "Sun Mar 24 16:28:18 +0000 2019",
 		"id": 1109854464033210400,
 		"id_str": "1109854464033210368",
