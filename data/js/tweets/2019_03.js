@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 02:07:59 +0000 2019",
+		"id": 1109017637839724500,
+		"id_str": "1109637954610184192",
+		"full_text": "누가 그러는데? -_-a\n이런 뜻으로 쓰는 거 보신 젊은이분들? https://t.co/bpAVIcjI6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109017580604276700,
+					"id_str": "1109017580604276736",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D2QFnR2UwAAcnHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2QFnR2UwAAcnHV.jpg",
+					"url": "https://t.co/bpAVIcjI6K",
+					"display_url": "pic.twitter.com/bpAVIcjI6K",
+					"expanded_url": "https://twitter.com/sewoosil/status/1109017637839724545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109017580604276700,
+					"id_str": "1109017580604276736",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D2QFnR2UwAAcnHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2QFnR2UwAAcnHV.jpg",
+					"url": "https://t.co/bpAVIcjI6K",
+					"display_url": "pic.twitter.com/bpAVIcjI6K",
+					"expanded_url": "https://twitter.com/sewoosil/status/1109017637839724545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66627692,
+			"id_str": "66627692",
+			"name": "𝙨𝙚𝙬𝙤𝙤𝙨𝙞𝙡",
+			"screen_name": "sewoosil",
+			"location": "37.500015,127.036564",
+			"description": "생활의 일부분으로서의 정치에 관심 많은 웹개발자이자 태지매니아, 특히 효연이가 아이돌의 완전체라 생각하는 광적인 소녀시대 덕후. 해물과 회에 환장하는 연예 누리꾼. 일베충, 워마드는 무조건 차단합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6385,
+			"friends_count": 791,
+			"listed_count": 229,
+			"created_at": "Tue Aug 18 07:58:25 +0000 2009",
+			"favourites_count": 2120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108982111602536448/eQcOhu6I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108982111602536448/eQcOhu6I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66627692/1553236917",
+			"profile_link_color": "FFABA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2013,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누가 그러는데? -_-a\n이런 뜻으로 쓰는 거 보신 젊은이분들? https://t.co/bpAVIcjI6K"
+	},
+	{
 		"created_at": "Sat Mar 23 20:48:45 +0000 2019",
 		"id": 1109300789720297500,
 		"id_str": "1109557617515335680",
