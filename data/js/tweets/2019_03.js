@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 01:44:43 +0000 2019",
+		"id": 1109487396049940500,
+		"id_str": "1109994486912815104",
+		"full_text": "아 이젠 '~밍아웃'도 모자라 '덕후 아웃팅'\n생각이 있으신가요? https://t.co/k1Ebk3Z2yw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k1Ebk3Z2yw",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1109445689732296710",
+					"display_url": "twitter.com/CJnDrama/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1102921751388799000,
+			"id_str": "1102921751388798976",
+			"name": "터논ⓔ",
+			"screen_name": "sod0_x",
+			"location": "",
+			"description": "#개xx쓰지않기운동|인간아 뭐든 알고 배워라!😀|소수자인권 (퀴어,여성,청소년,장애인)\n동물권 비거니즘 구독매니아| #나의비거니즘일기\n트로이시반덕질 이외 +[국내솔로가수•배우덕질]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Tue Mar 05 13:20:11 +0000 2019",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107216518037688320/YFpCjQDM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107216518037688320/YFpCjQDM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102921751388798976/1552746290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109445689732296700,
+		"quoted_status_id_str": "1109445689732296710",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k1Ebk3Z2yw",
+			"expanded": "https://twitter.com/CJnDrama/status/1109445689732296710",
+			"display": "twitter.com/CJnDrama/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 23 13:23:59 +0000 2019",
+			"id": 1109445689732296700,
+			"id_str": "1109445689732296710",
+			"full_text": "\"얼굴이나 좀 봅시다\" 덕후 아웃팅이 제일 무서운 박민영에게 찾아온 위기!\n\n#박민영 #김재욱\n#tvN #새수목드라마 #그녀의사생활\n4월 10일 [수] 밤 9시 30분 첫 방송 https://t.co/M2xHLVTr9t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "박민영",
+						"indices": [
+							43,
+							47
+						]
+					},
+					{
+						"text": "김재욱",
+						"indices": [
+							48,
+							52
+						]
+					},
+					{
+						"text": "tvN",
+						"indices": [
+							53,
+							57
+						]
+					},
+					{
+						"text": "새수목드라마",
+						"indices": [
+							58,
+							65
+						]
+					},
+					{
+						"text": "그녀의사생활",
+						"indices": [
+							66,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1109445626415059000,
+						"id_str": "1109445626415058944",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109445626415058944/pu/img/tERkGuVcb0BsabFc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109445626415058944/pu/img/tERkGuVcb0BsabFc.jpg",
+						"url": "https://t.co/M2xHLVTr9t",
+						"display_url": "pic.twitter.com/M2xHLVTr9t",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1109445689732296710/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1109445626415059000,
+						"id_str": "1109445626415058944",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109445626415058944/pu/img/tERkGuVcb0BsabFc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109445626415058944/pu/img/tERkGuVcb0BsabFc.jpg",
+						"url": "https://t.co/M2xHLVTr9t",
+						"display_url": "pic.twitter.com/M2xHLVTr9t",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1109445689732296710/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30367,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109445626415058944/pu/vid/640x360/TX4Kmol6uY7iZafM.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109445626415058944/pu/vid/1280x720/_4iwwAaGfeB8MNC1.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1109445626415058944/pu/pl/hlRLUTJdLOkKk4Cz.m3u8?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1109445626415058944/pu/vid/320x180/lHOr9H8tHiP3bYrk.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335749973,
+				"id_str": "335749973",
+				"name": "tvN 드라마",
+				"screen_name": "CJnDrama",
+				"location": "",
+				"description": "tvN 드라마 공식 계정 #tvN #티비엔",
+				"url": "https://t.co/KM27Cgy77q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KM27Cgy77q",
+								"expanded_url": "http://tvn.tving.com",
+								"display_url": "tvn.tving.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 317184,
+				"friends_count": 11789,
+				"listed_count": 539,
+				"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16734,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1553477752",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2111,
+			"favorite_count": 2569,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3009,
+		"favorite_count": 433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 이젠 '~밍아웃'도 모자라 '덕후 아웃팅'\n생각이 있으신가요? https://t.co/k1Ebk3Z2yw"
+	},
+	{
 		"created_at": "Mon Mar 25 00:17:03 +0000 2019",
 		"id": 1109972427474268200,
 		"id_str": "1109972427474268161",
