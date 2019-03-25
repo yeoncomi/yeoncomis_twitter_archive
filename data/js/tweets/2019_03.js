@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 22:14:33 +0000 2019",
+		"id": 1110252658269417500,
+		"id_str": "1110303988161761280",
+		"full_text": "🍎2019 애플 스페셜 이벤트 요약🍎 #애플 #apple #appleevent #appleevent2019 #there_was_no_innovation https://t.co/sju4u2xiDi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "애플",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "apple",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "appleevent",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "appleevent2019",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"text": "there_was_no_innovation",
+					"indices": [
+						60,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110252649058725900,
+					"id_str": "1110252649058725888",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ho5uYU8AAkGHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ho5uYU8AAkGHF.jpg",
+					"url": "https://t.co/sju4u2xiDi",
+					"display_url": "pic.twitter.com/sju4u2xiDi",
+					"expanded_url": "https://twitter.com/bad_bad_name/status/1110252658269417472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110252649058725900,
+					"id_str": "1110252649058725888",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ho5uYU8AAkGHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ho5uYU8AAkGHF.jpg",
+					"url": "https://t.co/sju4u2xiDi",
+					"display_url": "pic.twitter.com/sju4u2xiDi",
+					"expanded_url": "https://twitter.com/bad_bad_name/status/1110252658269417472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1110252649058754600,
+					"id_str": "1110252649058754560",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ho5uYVYAASWNc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ho5uYVYAASWNc.jpg",
+					"url": "https://t.co/sju4u2xiDi",
+					"display_url": "pic.twitter.com/sju4u2xiDi",
+					"expanded_url": "https://twitter.com/bad_bad_name/status/1110252658269417472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1110252649054494700,
+					"id_str": "1110252649054494722",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ho5uXUYAIFsCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ho5uXUYAIFsCi.jpg",
+					"url": "https://t.co/sju4u2xiDi",
+					"display_url": "pic.twitter.com/sju4u2xiDi",
+					"expanded_url": "https://twitter.com/bad_bad_name/status/1110252658269417472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 856142511504375800,
+			"id_str": "856142511504375809",
+			"name": "IWANTITALL",
+			"screen_name": "bad_bad_name",
+			"location": "",
+			"description": "조금 그렇지 않나요? 하는 것들. 🍎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Sun Apr 23 13:47:35 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109066113092972545/eFK20bPS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109066113092972545/eFK20bPS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/856142511504375809/1553256942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍎2019 애플 스페셜 이벤트 요약🍎 #애플 #apple #appleevent #appleevent2019 #there_was_no_innovation https://t.co/sju4u2xiDi"
+	},
+	{
 		"created_at": "Mon Mar 25 16:02:02 +0000 2019",
 		"id": 1110210237867290600,
 		"id_str": "1110210237867290624",
