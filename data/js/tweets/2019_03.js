@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 04:58:18 +0000 2019",
+		"id": 1109809806875873300,
+		"id_str": "1110043206744342530",
+		"full_text": "아니 넷플놈들아 풍미 쳤는데 킹덤이 왜 나와 https://t.co/fqWUc1lU1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109809800232104000,
+					"id_str": "1109809800232103936",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bWIh8U8AAPdjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bWIh8U8AAPdjt.jpg",
+					"url": "https://t.co/fqWUc1lU1U",
+					"display_url": "pic.twitter.com/fqWUc1lU1U",
+					"expanded_url": "https://twitter.com/dsp9596/status/1109809806875873280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109809800232104000,
+					"id_str": "1109809800232103936",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bWIh8U8AAPdjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bWIh8U8AAPdjt.jpg",
+					"url": "https://t.co/fqWUc1lU1U",
+					"display_url": "pic.twitter.com/fqWUc1lU1U",
+					"expanded_url": "https://twitter.com/dsp9596/status/1109809806875873280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113505320,
+			"id_str": "113505320",
+			"name": "도로롱구루루리",
+			"screen_name": "dsp9596",
+			"location": "여기가 어디야",
+			"description": "영화 보는 영알못 #GirlsCanDoAnything #동일범죄_동일처벌",
+			"url": "https://t.co/U7tXq19KYa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7tXq19KYa",
+							"expanded_url": "https://ask.fm/dsp9596?utm_source=copy_link&utm_medium=iOS",
+							"display_url": "ask.fm/dsp9596?utm_so…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1135,
+			"friends_count": 310,
+			"listed_count": 15,
+			"created_at": "Fri Feb 12 00:50:18 +0000 2010",
+			"favourites_count": 21310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81853,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106786128617598977/7ukWA8cO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106786128617598977/7ukWA8cO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113505320/1537268326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 넷플놈들아 풍미 쳤는데 킹덤이 왜 나와 https://t.co/fqWUc1lU1U"
+	},
+	{
+		"created_at": "Mon Mar 25 04:42:55 +0000 2019",
+		"id": 1109971529255649300,
+		"id_str": "1110039335737266176",
+		"full_text": "너무 웃겨서 눈물나다가 진짜 이나라 공교육 + 기초교육 + 상식이 좆망했다는거ㅠ깨닫고ㅠ 또 눈물남 ㅠㅠ https://t.co/glfXojWFSI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/glfXojWFSI",
+					"expanded_url": "https://twitter.com/girlsdobetter1/status/1109705200367890432",
+					"display_url": "twitter.com/girlsdobetter1…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1101844931818057700,
+			"id_str": "1101844931818057728",
+			"name": "낄라만씌",
+			"screen_name": "new_mancci",
+			"location": "",
+			"description": "뭐라고 부르든 당신 마음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132,
+			"friends_count": 184,
+			"listed_count": 2,
+			"created_at": "Sat Mar 02 14:01:17 +0000 2019",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1648,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101845102006231041/f-9hYA-S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101845102006231041/f-9hYA-S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101844931818057728/1553418432",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109705200367890400,
+		"quoted_status_id_str": "1109705200367890432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/glfXojWFSI",
+			"expanded": "https://twitter.com/girlsdobetter1/status/1109705200367890432",
+			"display": "twitter.com/girlsdobetter1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 24 06:35:11 +0000 2019",
+			"id": 1109705200367890400,
+			"id_str": "1109705200367890432",
+			"full_text": "남자들이 식물에다가 대고 강제로 해서 결국 저런 변종이 생겨났다고 합니다. 한국에서 일어난 일이며 과학자들도 놀랐다고 합니다. 이 사실 알고부터 몸이 사시나무 떨듯이 떨리고 무서워 지는데 기사화도 안되고 있는 현실! https://t.co/MZWi1M9Prr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1109705193216589800,
+						"id_str": "1109705193216589825",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D2Z2_mcUwAEytHs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2Z2_mcUwAEytHs.jpg",
+						"url": "https://t.co/MZWi1M9Prr",
+						"display_url": "pic.twitter.com/MZWi1M9Prr",
+						"expanded_url": "https://twitter.com/girlsdobetter1/status/1109705200367890432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1109705193216589800,
+						"id_str": "1109705193216589825",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D2Z2_mcUwAEytHs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2Z2_mcUwAEytHs.jpg",
+						"url": "https://t.co/MZWi1M9Prr",
+						"display_url": "pic.twitter.com/MZWi1M9Prr",
+						"expanded_url": "https://twitter.com/girlsdobetter1/status/1109705200367890432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1109703301719720000,
+				"id_str": "1109703301719719936",
+				"name": "🏳️‍🌈Girlsdobetter♀️👭",
+				"screen_name": "girlsdobetter1",
+				"location": "서울 Seoul",
+				"description": "#간지비언 #여성인권운동가 #탈코르셋 #꾸밈노동해방 #레디컬 #젠더감수성 #레즈비언 #띵 #66여자해방가99 #여자의 #여자를위한 #여자에의한 #비혼 #치마거부 #Lesbian #GirlCrush #Equal #평등 #여성서사소비 #19년탈코완료 #낙태찬성 #핑크택스 #계정이동완료🍆🚫",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 366,
+				"listed_count": 0,
+				"created_at": "Sun Mar 24 06:27:39 +0000 2019",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109704236701347840/OSj60NTK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109704236701347840/OSj60NTK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1109703301719719936/1553409472",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 478,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 740,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너무 웃겨서 눈물나다가 진짜 이나라 공교육 + 기초교육 + 상식이 좆망했다는거ㅠ깨닫고ㅠ 또 눈물남 ㅠㅠ https://t.co/glfXojWFSI"
+	},
+	{
+		"created_at": "Mon Mar 25 04:37:40 +0000 2019",
+		"id": 1110038012396634100,
+		"id_str": "1110038012396634112",
+		"full_text": "조미김은 걍 간식으로 먹던데여",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "조미김은 걍 간식으로 먹던데여"
+	},
+	{
 		"created_at": "Mon Mar 25 03:11:45 +0000 2019",
 		"id": 1108904489287704600,
 		"id_str": "1110016391443177472",
