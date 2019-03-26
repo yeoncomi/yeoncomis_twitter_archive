@@ -1,6 +1,687 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 09:07:13 +0000 2019",
+		"id": 1110389543679615000,
+		"id_str": "1110468234984095744",
+		"full_text": "포탈 신작 떡밥 나옴 https://t.co/ycaEI2fJ5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110389518014672900,
+					"id_str": "1110389518014672898",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2jlYi-U8AIeVQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2jlYi-U8AIeVQc.jpg",
+					"url": "https://t.co/ycaEI2fJ5g",
+					"display_url": "pic.twitter.com/ycaEI2fJ5g",
+					"expanded_url": "https://twitter.com/yesgame_nolife/status/1110389543679614976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110389518014672900,
+					"id_str": "1110389518014672898",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2jlYi-U8AIeVQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2jlYi-U8AIeVQc.jpg",
+					"url": "https://t.co/ycaEI2fJ5g",
+					"display_url": "pic.twitter.com/ycaEI2fJ5g",
+					"expanded_url": "https://twitter.com/yesgame_nolife/status/1110389543679614976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1110389530509496300,
+					"id_str": "1110389530509496321",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2jlZRhU0AEuCBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2jlZRhU0AEuCBd.jpg",
+					"url": "https://t.co/ycaEI2fJ5g",
+					"display_url": "pic.twitter.com/ycaEI2fJ5g",
+					"expanded_url": "https://twitter.com/yesgame_nolife/status/1110389543679614976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 642,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 642,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088814598428508200,
+			"id_str": "1088814598428508161",
+			"name": "게임인생",
+			"screen_name": "yesgame_nolife",
+			"location": "",
+			"description": "게임트윗을 씁니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1829,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jan 25 15:03:24 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089695262870667264/sqqaTeF-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089695262870667264/sqqaTeF-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088814598428508161/1548638569",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3826,
+		"favorite_count": 646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포탈 신작 떡밥 나옴 https://t.co/ycaEI2fJ5g"
+	},
+	{
+		"created_at": "Tue Mar 26 09:06:46 +0000 2019",
+		"id": 1110468123272986600,
+		"id_str": "1110468123272986624",
+		"full_text": "@Sumire_12K 저거 MAC어드레스 복제하는거 (공유기 기능) 사용하면 안뜬다 카더라도 있더군요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sumire_12K",
+					"name": "Sumire🔞",
+					"id": 232113411,
+					"id_str": "232113411",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110456854000226300,
+		"in_reply_to_status_id_str": "1110456854000226304",
+		"in_reply_to_user_id": 232113411,
+		"in_reply_to_user_id_str": "232113411",
+		"in_reply_to_screen_name": "Sumire_12K",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 1016,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Sumire_12K 저거 MAC어드레스 복제하는거 (공유기 기능) 사용하면 안뜬다 카더라도 있더군요"
+	},
+	{
+		"created_at": "Tue Mar 26 08:55:31 +0000 2019",
+		"id": 1110361928008785900,
+		"id_str": "1110465289622216704",
+		"full_text": "남기면 숙청되는 치킨집 ㅋㅋㅋㅋㅋ https://t.co/hVVCfTulNt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110361921469874200,
+					"id_str": "1110361921469874176",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2jMSN1VAAA7J07.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2jMSN1VAAA7J07.png",
+					"url": "https://t.co/hVVCfTulNt",
+					"display_url": "pic.twitter.com/hVVCfTulNt",
+					"expanded_url": "https://twitter.com/ELID00/status/1110361928008785920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110361921469874200,
+					"id_str": "1110361921469874176",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2jMSN1VAAA7J07.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2jMSN1VAAA7J07.png",
+					"url": "https://t.co/hVVCfTulNt",
+					"display_url": "pic.twitter.com/hVVCfTulNt",
+					"expanded_url": "https://twitter.com/ELID00/status/1110361928008785920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107410295910096900,
+			"id_str": "1107410295910096896",
+			"name": "ELID",
+			"screen_name": "ELID00",
+			"location": "대한민국 서울",
+			"description": "그림그릴줄 몰라요       PAWOO : https://t.co/23W9nfMpOI…",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/23W9nfMpOI",
+							"expanded_url": "http://pawoo.net/web/accounts/9",
+							"display_url": "pawoo.net/web/accounts/9",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 343,
+			"friends_count": 282,
+			"listed_count": 1,
+			"created_at": "Sun Mar 17 22:36:04 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1058,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107413445974982656/zo3nmaLF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107413445974982656/zo3nmaLF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107410295910096896/1553006819",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남기면 숙청되는 치킨집 ㅋㅋㅋㅋㅋ https://t.co/hVVCfTulNt"
+	},
+	{
+		"created_at": "Tue Mar 26 08:55:16 +0000 2019",
+		"id": 1110463700274573300,
+		"id_str": "1110465227345162240",
+		"full_text": "고소장 접수하고 왔습니다.\n\n증거물 모으느라 좀 늦게 올리게되었습니다.\n서로 볼일없는 SNS라고 말 험하게하지 말고 착하게 삽시다. https://t.co/gzJj0xXjeN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110463694125727700,
+					"id_str": "1110463694125727744",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ko2KhVAAAH1GO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ko2KhVAAAH1GO.jpg",
+					"url": "https://t.co/gzJj0xXjeN",
+					"display_url": "pic.twitter.com/gzJj0xXjeN",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1110463700274573313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110463694125727700,
+					"id_str": "1110463694125727744",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ko2KhVAAAH1GO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ko2KhVAAAH1GO.jpg",
+					"url": "https://t.co/gzJj0xXjeN",
+					"display_url": "pic.twitter.com/gzJj0xXjeN",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1110463700274573313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232113411,
+			"id_str": "232113411",
+			"name": "Sumire🔞",
+			"screen_name": "Sumire_12K",
+			"location": "Kor/Jpn 👌🏽",
+			"description": "Profic : @SeeUmai",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2563,
+			"friends_count": 513,
+			"listed_count": 37,
+			"created_at": "Thu Dec 30 08:09:15 +0000 2010",
+			"favourites_count": 35376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 192467,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096440146050801664/0-SMfRoV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096440146050801664/0-SMfRoV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/232113411/1553485292",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고소장 접수하고 왔습니다.\n\n증거물 모으느라 좀 늦게 올리게되었습니다.\n서로 볼일없는 SNS라고 말 험하게하지 말고 착하게 삽시다. https://t.co/gzJj0xXjeN"
+	},
+	{
 		"created_at": "Tue Mar 26 02:41:50 +0000 2019",
 		"id": 1110184376292114400,
 		"id_str": "1110371251522924544",
