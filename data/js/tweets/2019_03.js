@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 10:15:05 +0000 2019",
+		"id": 1110484461177585700,
+		"id_str": "1110485313879568384",
+		"full_text": "“Is London a part of Europe?”\nK-ON already knew the BREXIT even 8 years ago. https://t.co/loVNN8GfWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110484454277939200,
+					"id_str": "1110484454277939200",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D2k7ukHUgAAhM4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2k7ukHUgAAhM4F.jpg",
+					"url": "https://t.co/loVNN8GfWt",
+					"display_url": "pic.twitter.com/loVNN8GfWt",
+					"expanded_url": "https://twitter.com/mondaystudio/status/1110484461177585664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110484454277939200,
+					"id_str": "1110484454277939200",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D2k7ukHUgAAhM4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2k7ukHUgAAhM4F.jpg",
+					"url": "https://t.co/loVNN8GfWt",
+					"display_url": "pic.twitter.com/loVNN8GfWt",
+					"expanded_url": "https://twitter.com/mondaystudio/status/1110484461177585664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44290664,
+			"id_str": "44290664",
+			"name": "mondaystudio",
+			"screen_name": "mondaystudio",
+			"location": "n e o  s e o u l  #39",
+			"description": "DJ & Trackmaker, #SUBBEAT, #OTACOS, Graphic & UX Designer, Cognitive Science",
+			"url": "https://t.co/4O6L6hyX1w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4O6L6hyX1w",
+							"expanded_url": "http://mondaystudio.net",
+							"display_url": "mondaystudio.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2926,
+			"friends_count": 1710,
+			"listed_count": 93,
+			"created_at": "Wed Jun 03 04:14:57 +0000 2009",
+			"favourites_count": 14534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108768967177297920/TWp8cRmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108768967177297920/TWp8cRmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44290664/1522652583",
+			"profile_link_color": "E65100",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Is London a part of Europe?”\nK-ON already knew the BREXIT even 8 years ago. https://t.co/loVNN8GfWt"
+	},
+	{
+		"created_at": "Tue Mar 26 10:10:01 +0000 2019",
+		"id": 1110484041034129400,
+		"id_str": "1110484041034129408",
+		"full_text": "@adnim_ 욕하는건줄 으어어",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adnim_",
+					"name": "아드님",
+					"id": 878205251056160800,
+					"id_str": "878205251056160768",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110483287288406000,
+		"in_reply_to_status_id_str": "1110483287288406016",
+		"in_reply_to_user_id": 878205251056160800,
+		"in_reply_to_user_id_str": "878205251056160768",
+		"in_reply_to_screen_name": "adnim_",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@adnim_ 욕하는건줄 으어어"
+	},
+	{
+		"created_at": "Tue Mar 26 10:01:03 +0000 2019",
+		"id": 1110481784481865700,
+		"id_str": "1110481784481865729",
+		"full_text": "@liciaesr 2,4,5,6,8 이에염!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liciaesr",
+					"name": "LICIA compat",
+					"id": 3190841569,
+					"id_str": "3190841569",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110481620476149800,
+		"in_reply_to_status_id_str": "1110481620476149760",
+		"in_reply_to_user_id": 3190841569,
+		"in_reply_to_user_id_str": "3190841569",
+		"in_reply_to_screen_name": "liciaesr",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@liciaesr 2,4,5,6,8 이에염!"
+	},
+	{
+		"created_at": "Tue Mar 26 09:53:43 +0000 2019",
+		"id": 1110479936794456000,
+		"id_str": "1110479936794456064",
+		"full_text": "[Tistory] [KO] 다이어트 코크에 대한 고찰 https://t.co/rwVqugqhUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rwVqugqhUC",
+					"expanded_url": "https://yeoncomi.ca/9",
+					"display_url": "yeoncomi.ca/9",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://notice.tistory.com/1357\" rel=\"nofollow\">Tistory2Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 1014,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Tistory] [KO] 다이어트 코크에 대한 고찰 https://t.co/rwVqugqhUC"
+	},
+	{
+		"created_at": "Tue Mar 26 09:30:08 +0000 2019",
+		"id": 1110185888636518400,
+		"id_str": "1110474000990236673",
+		"full_text": "2년이 다 되어가는 트윗이 왜 지금 다시 알티되는지 모르겠으나, 여기 폐점했습니다 ㅜㅜ https://t.co/ZeFhU8Tv2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZeFhU8Tv2c",
+					"expanded_url": "https://twitter.com/Ryunan9903/status/855378881896882176",
+					"display_url": "twitter.com/Ryunan9903/sta…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124786198,
+			"id_str": "124786198",
+			"name": "Ryunan",
+			"screen_name": "Ryunan9903",
+			"location": "한국",
+			"description": "",
+			"url": "https://t.co/jb66CNsELe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jb66CNsELe",
+							"expanded_url": "http://ryunan9903.egloos.com",
+							"display_url": "ryunan9903.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 190,
+			"listed_count": 44,
+			"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+			"favourites_count": 9232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269151,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102521152235167744/JSyF0jxs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102521152235167744/JSyF0jxs_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 855378881896882200,
+		"quoted_status_id_str": "855378881896882176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZeFhU8Tv2c",
+			"expanded": "https://twitter.com/Ryunan9903/status/855378881896882176",
+			"display": "twitter.com/Ryunan9903/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 21 11:13:12 +0000 2017",
+			"id": 855378881896882200,
+			"id_str": "855378881896882176",
+			"full_text": "일본에서 먹어봤던 \"세계에서 두번째로 맛있는 갓 구운 메론빵 아이스크림\"의 한국 1호점이 홍대에 들어온 걸 처음 알았다...\n\n갓 구운 뜨거운 메론빵 사이에 녹차 아이스크림이 한가득!! 빵은 땃땃하이 바삭한데 아이스크림은 시원해..ㅈ https://t.co/5UfI3GvnWx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 855378798803509200,
+						"id_str": "855378798803509248",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/C97qfEsVYAAw_q_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C97qfEsVYAAw_q_.jpg",
+						"url": "https://t.co/5UfI3GvnWx",
+						"display_url": "pic.twitter.com/5UfI3GvnWx",
+						"expanded_url": "https://twitter.com/Ryunan9903/status/855378881896882176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855378798803509200,
+						"id_str": "855378798803509248",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/C97qfEsVYAAw_q_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C97qfEsVYAAw_q_.jpg",
+						"url": "https://t.co/5UfI3GvnWx",
+						"display_url": "pic.twitter.com/5UfI3GvnWx",
+						"expanded_url": "https://twitter.com/Ryunan9903/status/855378881896882176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 855378819988901900,
+						"id_str": "855378819988901889",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/C97qgTnU0AE1Y1R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C97qgTnU0AE1Y1R.jpg",
+						"url": "https://t.co/5UfI3GvnWx",
+						"display_url": "pic.twitter.com/5UfI3GvnWx",
+						"expanded_url": "https://twitter.com/Ryunan9903/status/855378881896882176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124786198,
+				"id_str": "124786198",
+				"name": "Ryunan",
+				"screen_name": "Ryunan9903",
+				"location": "한국",
+				"description": "",
+				"url": "https://t.co/jb66CNsELe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb66CNsELe",
+								"expanded_url": "http://ryunan9903.egloos.com",
+								"display_url": "ryunan9903.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1962,
+				"friends_count": 190,
+				"listed_count": 44,
+				"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+				"favourites_count": 9232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 269151,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102521152235167744/JSyF0jxs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102521152235167744/JSyF0jxs_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19042,
+			"favorite_count": 7374,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2177,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2년이 다 되어가는 트윗이 왜 지금 다시 알티되는지 모르겠으나, 여기 폐점했습니다 ㅜㅜ https://t.co/ZeFhU8Tv2c"
+	},
+	{
 		"created_at": "Tue Mar 26 09:07:13 +0000 2019",
 		"id": 1110389543679615000,
 		"id_str": "1110468234984095744",
