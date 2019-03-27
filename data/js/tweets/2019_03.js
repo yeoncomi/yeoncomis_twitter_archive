@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 03:05:15 +0000 2019",
+		"id": 1110729252356440000,
+		"id_str": "1110739530024247296",
+		"full_text": "BREAKING: Wanzhen Lu, the Chinese international student missing since Saturday, has been found alive, Ontario Provincial Police say https://t.co/ItfMK552SK https://t.co/viE03Vp1Us",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ItfMK552SK",
+					"expanded_url": "http://bit.ly/2HSYQE1",
+					"display_url": "bit.ly/2HSYQE1",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110729250938781700,
+					"id_str": "1110729250938781696",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D2oaXmvXgAAiWc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2oaXmvXgAAiWc7.jpg",
+					"url": "https://t.co/viE03Vp1Us",
+					"display_url": "pic.twitter.com/viE03Vp1Us",
+					"expanded_url": "https://twitter.com/CBCToronto/status/1110729252356440064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110729250938781700,
+					"id_str": "1110729250938781696",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D2oaXmvXgAAiWc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2oaXmvXgAAiWc7.jpg",
+					"url": "https://t.co/viE03Vp1Us",
+					"display_url": "pic.twitter.com/viE03Vp1Us",
+					"expanded_url": "https://twitter.com/CBCToronto/status/1110729252356440064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19000033,
+			"id_str": "19000033",
+			"name": "CBC Toronto",
+			"screen_name": "CBCToronto",
+			"location": "Toronto",
+			"description": "Breaking T.O. news. torontotips@cbc.ca Snapchat: 'CBCToronto' IG: @CBCToronto https://t.co/hdZOnIcIIl",
+			"url": "http://t.co/ALfb7NTjBA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ALfb7NTjBA",
+							"expanded_url": "http://www.cbc.ca/toronto/",
+							"display_url": "cbc.ca/toronto/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hdZOnIcIIl",
+							"expanded_url": "http://fb.com/CBCToronto",
+							"display_url": "fb.com/CBCToronto",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 520749,
+			"friends_count": 838,
+			"listed_count": 4200,
+			"created_at": "Wed Jan 14 22:47:52 +0000 2009",
+			"favourites_count": 1680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 133892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080561159382749184/J0TA_u_E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080561159382749184/J0TA_u_E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19000033/1552611989",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: Wanzhen Lu, the Chinese international student missing since Saturday, has been found alive, Ontario Provincial Police say https://t.co/ItfMK552SK https://t.co/viE03Vp1Us"
+	},
+	{
 		"created_at": "Wed Mar 27 01:45:14 +0000 2019",
 		"id": 1110663908140826600,
 		"id_str": "1110719393376305153",
