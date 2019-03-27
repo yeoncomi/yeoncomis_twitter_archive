@@ -1,6 +1,904 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 07:33:21 +0000 2019",
+		"id": 1110804011030986800,
+		"id_str": "1110806999862644736",
+		"full_text": "[유머] 2040년 모든 영화사를 다 먹어버린 디즈니.gif https://t.co/lnDA1QuX27\n\n이미 농담이 아니어보인다는게..이제 헐리우드=디즈니라고 해도 딱히 어색하지 않달까.. https://t.co/IxSfmGsptE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lnDA1QuX27",
+					"expanded_url": "http://bbs.ruliweb.com/best/board/300143/read/41694754",
+					"display_url": "bbs.ruliweb.com/best/board/300…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110803882609762300,
+					"id_str": "1110803882609762309",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110803882609762309/pu/img/lI3Av40ia4OjrIgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110803882609762309/pu/img/lI3Av40ia4OjrIgw.jpg",
+					"url": "https://t.co/IxSfmGsptE",
+					"display_url": "pic.twitter.com/IxSfmGsptE",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1110804011030986752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110803882609762300,
+					"id_str": "1110803882609762309",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110803882609762309/pu/img/lI3Av40ia4OjrIgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110803882609762309/pu/img/lI3Av40ia4OjrIgw.jpg",
+					"url": "https://t.co/IxSfmGsptE",
+					"display_url": "pic.twitter.com/IxSfmGsptE",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1110804011030986752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							230,
+							129
+						],
+						"duration_millis": 14208,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1110803882609762309/pu/pl/4I7wtAWg6wSYItvV.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1110803882609762309/pu/vid/320x180/GJKQ5RHpIq3ZRyLX.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1110803882609762309/pu/vid/460x258/6xt1jHYK3P2NRdbQ.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1847,
+			"friends_count": 1524,
+			"listed_count": 34,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 62671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 193641,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유머] 2040년 모든 영화사를 다 먹어버린 디즈니.gif https://t.co/lnDA1QuX27\n\n이미 농담이 아니어보인다는게..이제 헐리우드=디즈니라고 해도 딱히 어색하지 않달까.. https://t.co/IxSfmGsptE"
+	},
+	{
+		"created_at": "Wed Mar 27 07:31:20 +0000 2019",
+		"id": 1110464225418207200,
+		"id_str": "1110806494629396480",
+		"full_text": "으,,, 요즘 편의점 일하시는분들 조심하세요 자녀 폰 해킹해서 부모한테 카톡이나 문자로 고액 프리페이드(문상 결제해서 영수증 찍어보내달라는 부탁을 한다네.... 나중에 나 그런적 없는데?하고 환불하려보면 다 쓴 문상인거임,,. https://t.co/ENdnMGli3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110464223065182200,
+					"id_str": "1110464223065182208",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D2kpU8-UkAA4BNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2kpU8-UkAA4BNo.jpg",
+					"url": "https://t.co/ENdnMGli3B",
+					"display_url": "pic.twitter.com/ENdnMGli3B",
+					"expanded_url": "https://twitter.com/chiotsaur/status/1110464225418207233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110464223065182200,
+					"id_str": "1110464223065182208",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D2kpU8-UkAA4BNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2kpU8-UkAA4BNo.jpg",
+					"url": "https://t.co/ENdnMGli3B",
+					"display_url": "pic.twitter.com/ENdnMGli3B",
+					"expanded_url": "https://twitter.com/chiotsaur/status/1110464225418207233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 427,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754362914,
+			"id_str": "754362914",
+			"name": "[4]치옷냥♥(σωσ",
+			"screen_name": "chiotsaur",
+			"location": "단파스-릊님게스님율님달뱅님",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 198,
+			"listed_count": 4,
+			"created_at": "Mon Aug 13 03:49:54 +0000 2012",
+			"favourites_count": 672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14090,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087371543896674304/zkcyp5bM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087371543896674304/zkcyp5bM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754362914/1536254301",
+			"profile_link_color": "3C9442",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1721,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "으,,, 요즘 편의점 일하시는분들 조심하세요 자녀 폰 해킹해서 부모한테 카톡이나 문자로 고액 프리페이드(문상 결제해서 영수증 찍어보내달라는 부탁을 한다네.... 나중에 나 그런적 없는데?하고 환불하려보면 다 쓴 문상인거임,,. https://t.co/ENdnMGli3B"
+	},
+	{
+		"created_at": "Wed Mar 27 07:30:24 +0000 2019",
+		"id": 1110803721766621200,
+		"id_str": "1110806259018747904",
+		"full_text": "이분 뭐임?\n우리영업소에 하루평균내서 300개 넘어가는 사람이 한명정도 될까말까 말까인데?\n그것도 그자리 뒤지겠어서 쪼개려고 난리인데 하루 평균 300개를 이렇게 쉽게 말하시는거임? https://t.co/Dp7dIKgJll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dp7dIKgJll",
+					"expanded_url": "https://twitter.com/prettydike100/status/1110800135028523008",
+					"display_url": "twitter.com/prettydike100/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274932217,
+			"id_str": "274932217",
+			"name": "NitroStrom#Curous",
+			"screen_name": "TabacoTCurous",
+			"location": "망상의 계곡 연기의 저편 너머 담뱃대 공방.",
+			"description": "생각해보니 무의미해서 아무생각없이 택배를 배송하는 탐라의 택배기사",
+			"url": "https://t.co/7ZB7GNrb3t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ZB7GNrb3t",
+							"expanded_url": "http://blog.naver.com/mkgd1004",
+							"display_url": "blog.naver.com/mkgd1004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 171,
+			"listed_count": 10,
+			"created_at": "Thu Mar 31 09:16:38 +0000 2011",
+			"favourites_count": 5170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58217,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082519625626087424/xjuYt5Q5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082519625626087424/xjuYt5Q5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274932217/1546927795",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110800135028523000,
+		"quoted_status_id_str": "1110800135028523008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dp7dIKgJll",
+			"expanded": "https://twitter.com/prettydike100/status/1110800135028523008",
+			"display": "twitter.com/prettydike100/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 07:06:04 +0000 2019",
+			"id": 1110800135028523000,
+			"id_str": "1110800135028523008",
+			"full_text": "@TabacoTCurous 그정도 돌립니다",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TabacoTCurous",
+						"name": "NitroStrom#Curous",
+						"id": 274932217,
+						"id_str": "274932217",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1110798510520033300,
+			"in_reply_to_status_id_str": "1110798510520033280",
+			"in_reply_to_user_id": 274932217,
+			"in_reply_to_user_id_str": "274932217",
+			"in_reply_to_screen_name": "TabacoTCurous",
+			"user": {
+				"id": 3254123827,
+				"id_str": "3254123827",
+				"name": "꼴매기와이프-아나키",
+				"screen_name": "prettydike100",
+				"location": "대한민국",
+				"description": "꼴매기님의 애첩(50대 주부 지바냥)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1151,
+				"friends_count": 1008,
+				"listed_count": 17,
+				"created_at": "Tue Jun 23 23:56:15 +0000 2015",
+				"favourites_count": 235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50704,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067403697557168130/qH4WLrhb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067403697557168130/qH4WLrhb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254123827/1522830847",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이분 뭐임?\n우리영업소에 하루평균내서 300개 넘어가는 사람이 한명정도 될까말까 말까인데?\n그것도 그자리 뒤지겠어서 쪼개려고 난리인데 하루 평균 300개를 이렇게 쉽게 말하시는거임? https://t.co/Dp7dIKgJll"
+	},
+	{
+		"created_at": "Wed Mar 27 07:30:19 +0000 2019",
+		"id": 1110805084407914500,
+		"id_str": "1110806239506657281",
+		"full_text": "@TabacoTCurous 저분 지바냥이내요 2010년 초기부터 이곳저곳 뭔가 아는척하면서 끼어드는 아조시인대 관련 종사자는 아닐듯",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TabacoTCurous",
+					"name": "NitroStrom#Curous",
+					"id": 274932217,
+					"id_str": "274932217",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110803721766621200,
+		"in_reply_to_status_id_str": "1110803721766621184",
+		"in_reply_to_user_id": 274932217,
+		"in_reply_to_user_id_str": "274932217",
+		"in_reply_to_screen_name": "TabacoTCurous",
+		"user": {
+			"id": 981095443336609800,
+			"id_str": "981095443336609795",
+			"name": "질주하는 애옹(5/24일까지 냥체)",
+			"screen_name": "cleangirl1118",
+			"location": "",
+			"description": "고추폭파의 달인 / 프사 @sIlentIum0110 / @meiringring",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1568,
+			"friends_count": 702,
+			"listed_count": 54,
+			"created_at": "Tue Apr 03 09:05:56 +0000 2018",
+			"favourites_count": 27599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981095443336609795/1546866875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@TabacoTCurous 저분 지바냥이내요 2010년 초기부터 이곳저곳 뭔가 아는척하면서 끼어드는 아조시인대 관련 종사자는 아닐듯"
+	},
+	{
+		"created_at": "Wed Mar 27 07:29:47 +0000 2019",
+		"id": 1110777518473121800,
+		"id_str": "1110806105456672768",
+		"full_text": "산업부 탈핵팀이 아니라 환경단체에서 생산한 문서네요 정정함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1110777085822267400,
+		"in_reply_to_status_id_str": "1110777085822267392",
+		"in_reply_to_user_id": 714103850345476100,
+		"in_reply_to_user_id_str": "714103850345476096",
+		"in_reply_to_screen_name": "paladin_0114",
+		"user": {
+			"id": 714103850345476100,
+			"id_str": "714103850345476096",
+			"name": "팔라딘",
+			"screen_name": "paladin_0114",
+			"location": "paladinc22@gmail.com",
+			"description": "러브라이브, 일상물등을 좋아합니다. 잘 부탁드려요!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 275,
+			"listed_count": 8,
+			"created_at": "Sun Mar 27 14:56:40 +0000 2016",
+			"favourites_count": 49792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70577,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098209608433164289/ytcjUuvD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098209608433164289/ytcjUuvD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714103850345476096/1531449791",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "산업부 탈핵팀이 아니라 환경단체에서 생산한 문서네요 정정함"
+	},
+	{
+		"created_at": "Wed Mar 27 07:26:07 +0000 2019",
+		"id": 1110424559075749900,
+		"id_str": "1110805178989461504",
+		"full_text": "연예가중계는 브리에게 꼭 이 유서깊은 유니콘을 보여주어라 https://t.co/mS3gFpOYbG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110424554785005600,
+					"id_str": "1110424554785005569",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D2kFP9HU4AEgR8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2kFP9HU4AEgR8T.jpg",
+					"url": "https://t.co/mS3gFpOYbG",
+					"display_url": "pic.twitter.com/mS3gFpOYbG",
+					"expanded_url": "https://twitter.com/briebrie818/status/1110424559075749889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110424554785005600,
+					"id_str": "1110424554785005569",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D2kFP9HU4AEgR8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2kFP9HU4AEgR8T.jpg",
+					"url": "https://t.co/mS3gFpOYbG",
+					"display_url": "pic.twitter.com/mS3gFpOYbG",
+					"expanded_url": "https://twitter.com/briebrie818/status/1110424559075749889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106057076457988100,
+			"id_str": "1106057076457988098",
+			"name": "briebrie",
+			"screen_name": "briebrie818",
+			"location": "프로마음러 (당연히 여성 한정)(남자싫음)",
+			"description": "💾💾💾 브리 라슨 수집합니다💾💾💾",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 35,
+			"listed_count": 1,
+			"created_at": "Thu Mar 14 04:58:51 +0000 2019",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110597473729273856/JXGQLMJg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110597473729273856/JXGQLMJg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106057076457988098/1553276601",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연예가중계는 브리에게 꼭 이 유서깊은 유니콘을 보여주어라 https://t.co/mS3gFpOYbG"
+	},
+	{
 		"created_at": "Wed Mar 27 07:08:51 +0000 2019",
 		"id": 1110777085822267400,
 		"id_str": "1110800834579709952",
