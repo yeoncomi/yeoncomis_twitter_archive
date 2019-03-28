@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 20:09:43 +0000 2019",
+		"id": 1111253158964199400,
+		"id_str": "1111359734756433920",
+		"full_text": "This is brutal. https://t.co/zRGh5UEkPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRGh5UEkPn",
+					"expanded_url": "https://twitter.com/somospostpc/status/1110563865140649986",
+					"display_url": "twitter.com/somospostpc/st…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29873662,
+			"id_str": "29873662",
+			"name": "Marques Brownlee",
+			"screen_name": "MKBHD",
+			"location": "NYC",
+			"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player",
+			"url": "https://t.co/zGcF5QxPBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGcF5QxPBI",
+							"expanded_url": "http://youtube.com/MKBHD",
+							"display_url": "youtube.com/MKBHD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3148336,
+			"friends_count": 324,
+			"listed_count": 9274,
+			"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+			"favourites_count": 25097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1549676067",
+			"profile_link_color": "6C4585",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110563865140650000,
+		"quoted_status_id_str": "1110563865140649986",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zRGh5UEkPn",
+			"expanded": "https://twitter.com/somospostpc/status/1110563865140649986",
+			"display": "twitter.com/somospostpc/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 15:27:13 +0000 2019",
+			"id": 1110563865140650000,
+			"id_str": "1110563865140649986",
+			"full_text": "Unlocking your €100,000 car is now easier than ever https://t.co/3hSs9pswoO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110563650325172200,
+						"id_str": "1110563650325172224",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110563650325172224/pu/img/vfdIcOepWCxFCwNe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110563650325172224/pu/img/vfdIcOepWCxFCwNe.jpg",
+						"url": "https://t.co/3hSs9pswoO",
+						"display_url": "pic.twitter.com/3hSs9pswoO",
+						"expanded_url": "https://twitter.com/somospostpc/status/1110563865140649986/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110563650325172200,
+						"id_str": "1110563650325172224",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110563650325172224/pu/img/vfdIcOepWCxFCwNe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110563650325172224/pu/img/vfdIcOepWCxFCwNe.jpg",
+						"url": "https://t.co/3hSs9pswoO",
+						"display_url": "pic.twitter.com/3hSs9pswoO",
+						"expanded_url": "https://twitter.com/somospostpc/status/1110563865140649986/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 24447,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110563650325172224/pu/vid/640x360/OwNhX1Pq3U6DfnYi.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110563650325172224/pu/vid/1280x720/5ruAfsSAa945hOzN.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110563650325172224/pu/vid/320x180/aD1ZaGN-B6slZWPq.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1110563650325172224/pu/pl/2MJEyC82XLn6GbF_.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1259674092,
+				"id_str": "1259674092",
+				"name": "Alex+ 📉",
+				"screen_name": "somospostpc",
+				"location": "",
+				"description": "English-writing Spaniard and father of three.\n\n🎙️@mixx_io 📰 @lavanguardia",
+				"url": "https://t.co/aNj6rKUr7p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aNj6rKUr7p",
+								"expanded_url": "http://apple.substack.com",
+								"display_url": "apple.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5690,
+				"friends_count": 993,
+				"listed_count": 277,
+				"created_at": "Mon Mar 11 15:11:06 +0000 2013",
+				"favourites_count": 21895,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42036,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087737579016019968/mnTle26D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087737579016019968/mnTle26D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1259674092/1403259576",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5739,
+			"favorite_count": 18911,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1611,
+		"favorite_count": 17758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is brutal. https://t.co/zRGh5UEkPn"
+	},
+	{
 		"created_at": "Thu Mar 28 18:37:04 +0000 2019",
 		"id": 1111238547082633200,
 		"id_str": "1111336418687619072",
