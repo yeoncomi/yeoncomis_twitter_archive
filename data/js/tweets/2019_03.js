@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 14:16:52 +0000 2019",
+		"id": 1110547989414719500,
+		"id_str": "1111270937758830593",
+		"full_text": "Discrimination has no place in our society. I am proud to display this flag as a symbol of my support for transgender people across the country. We must stand with transgender people in all of our communities. https://t.co/W6Esa16vzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110547616796983300,
+					"id_str": "1110547616796983296",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D2l1LG1XQAAX3X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2l1LG1XQAAX3X0.jpg",
+					"url": "https://t.co/W6Esa16vzP",
+					"display_url": "pic.twitter.com/W6Esa16vzP",
+					"expanded_url": "https://twitter.com/SenSanders/status/1110547989414719493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110547616796983300,
+					"id_str": "1110547616796983296",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D2l1LG1XQAAX3X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2l1LG1XQAAX3X0.jpg",
+					"url": "https://t.co/W6Esa16vzP",
+					"display_url": "pic.twitter.com/W6Esa16vzP",
+					"expanded_url": "https://twitter.com/SenSanders/status/1110547989414719493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29442313,
+			"id_str": "29442313",
+			"name": "Bernie Sanders",
+			"screen_name": "SenSanders",
+			"location": "Vermont/DC",
+			"description": "U.S. Senator Bernie Sanders of Vermont is the longest-serving independent in congressional history.",
+			"url": "http://t.co/8AS4FI1oge",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8AS4FI1oge",
+							"expanded_url": "http://www.sanders.senate.gov/",
+							"display_url": "sanders.senate.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8258788,
+			"friends_count": 2096,
+			"listed_count": 26588,
+			"created_at": "Tue Apr 07 13:02:35 +0000 2009",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+			"profile_link_color": "03102D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6CCB6",
+			"profile_text_color": "304562",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5157,
+		"favorite_count": 29287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Discrimination has no place in our society. I am proud to display this flag as a symbol of my support for transgender people across the country. We must stand with transgender people in all of our communities. https://t.co/W6Esa16vzP"
+	},
+	{
 		"created_at": "Thu Mar 28 07:49:17 +0000 2019",
 		"id": 1111172765460004900,
 		"id_str": "1111173400548925440",
