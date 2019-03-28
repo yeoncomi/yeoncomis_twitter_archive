@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 14:35:42 +0000 2019",
+		"id": 1111275414759059500,
+		"id_str": "1111275678391926785",
+		"full_text": "BREAKING: A secularism bill is tabled in Quebec's National Assembly. The English title of Bill 21 is 'An Act respecting the laicity of the State.' Among other things, it will ban public workers in positions of authority from wearing a religious symbol such as a hijab or kippa.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1153043,
+			"friends_count": 466,
+			"listed_count": 8441,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: A secularism bill is tabled in Quebec's National Assembly. The English title of Bill 21 is 'An Act respecting the laicity of the State.' Among other things, it will ban public workers in positions of authority from wearing a religious symbol such as a hijab or kippa."
+	},
+	{
+		"created_at": "Thu Mar 28 14:30:04 +0000 2019",
+		"id": 1111157648324321300,
+		"id_str": "1111274258196422656",
+		"full_text": "라이젠걸 다키 그 사이트 베댓ㄷㄷㄷ https://t.co/3gF8Ztu1VN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111157628845977600,
+					"id_str": "1111157628845977600",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2uf-ezUcAAhX0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2uf-ezUcAAhX0K.jpg",
+					"url": "https://t.co/3gF8Ztu1VN",
+					"display_url": "pic.twitter.com/3gF8Ztu1VN",
+					"expanded_url": "https://twitter.com/Pleasure54/status/1111157648324321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111157628845977600,
+					"id_str": "1111157628845977600",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2uf-ezUcAAhX0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2uf-ezUcAAhX0K.jpg",
+					"url": "https://t.co/3gF8Ztu1VN",
+					"display_url": "pic.twitter.com/3gF8Ztu1VN",
+					"expanded_url": "https://twitter.com/Pleasure54/status/1111157648324321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111157646130765800,
+					"id_str": "1111157646130765825",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2uf_fMVYAE8OPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2uf_fMVYAE8OPh.jpg",
+					"url": "https://t.co/3gF8Ztu1VN",
+					"display_url": "pic.twitter.com/3gF8Ztu1VN",
+					"expanded_url": "https://twitter.com/Pleasure54/status/1111157648324321280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155061670,
+			"id_str": "155061670",
+			"name": "₩9",
+			"screen_name": "Pleasure54",
+			"location": "2.5D",
+			"description": "야구 개막하면 폭트함 주의(⚾LG Twins, SoftBank) / 일반인은 주의 / 유해함 / FGO(🇯🇵) 167,777,622",
+			"url": "https://t.co/sCeMTCvdBe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sCeMTCvdBe",
+							"expanded_url": "http://ask.fm/Pleasure54",
+							"display_url": "ask.fm/Pleasure54",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6171,
+			"friends_count": 778,
+			"listed_count": 126,
+			"created_at": "Sun Jun 13 01:16:26 +0000 2010",
+			"favourites_count": 57234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 501523,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104013190659072002/WIoB_soi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104013190659072002/WIoB_soi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155061670/1552049978",
+			"profile_link_color": "02207A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라이젠걸 다키 그 사이트 베댓ㄷㄷㄷ https://t.co/3gF8Ztu1VN"
+	},
+	{
 		"created_at": "Thu Mar 28 14:16:52 +0000 2019",
 		"id": 1110547989414719500,
 		"id_str": "1111270937758830593",
