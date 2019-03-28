@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 02:02:33 +0000 2019",
+		"id": 1111083863508291600,
+		"id_str": "1111086140038111232",
+		"full_text": "이 병신새끼는 진짜 나이가 좌약도 아닌데 후장으로 처 잡순 새끼인지\n\n몇달전부터 신경전하다가 2달전 설날 전에 터진걸로 지 삔또 상했다고 사적인 감정 업무에 녹여서 조지려는 호로새끼임.\n\n이런새끼가 군대 선임으로 있었으면 그냥 그날 바로 동맥끊고 자살했음 ㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1111083574680117200,
+		"in_reply_to_status_id_str": "1111083574680117248",
+		"in_reply_to_user_id": 2811166105,
+		"in_reply_to_user_id_str": "2811166105",
+		"in_reply_to_screen_name": "ch_berliquet",
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, England",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 일본인 :: 한국어ok :: 사진과 여행, 먹고 마시는 것이 취미 :: Benz C클래스 그릴 오너 // 사진계정 @photo_berliquet",
+			"url": "https://t.co/7gDV9R3eeY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7gDV9R3eeY",
+							"expanded_url": "https://ask.fm/sommlawrence?utm_source=tw_share_pr",
+							"display_url": "ask.fm/sommlawrence?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 497,
+			"listed_count": 66,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 19687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93808,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1547119656",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 병신새끼는 진짜 나이가 좌약도 아닌데 후장으로 처 잡순 새끼인지\n\n몇달전부터 신경전하다가 2달전 설날 전에 터진걸로 지 삔또 상했다고 사적인 감정 업무에 녹여서 조지려는 호로새끼임.\n\n이런새끼가 군대 선임으로 있었으면 그냥 그날 바로 동맥끊고 자살했음 ㅋㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Wed Mar 27 23:59:42 +0000 2019",
 		"id": 1111055225832378400,
 		"id_str": "1111055225832378369",
