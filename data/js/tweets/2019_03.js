@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 18:29:34 +0000 2019",
+		"id": 1111091654008561700,
+		"id_str": "1111696919267414017",
+		"full_text": "아니 진심 마비 디자이너 해고된건가요 뭔가요 특히 저 빨간색 글씨에 검은색 테두리 넣은거 가독성 최악... https://t.co/jFVjcor5JP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111091631699034100,
+					"id_str": "1111091631699034112",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D2tj88RUgAAB-tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2tj88RUgAAB-tj.jpg",
+					"url": "https://t.co/jFVjcor5JP",
+					"display_url": "pic.twitter.com/jFVjcor5JP",
+					"expanded_url": "https://twitter.com/RiNkA_T_R/status/1111091654008561664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 772,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111091631699034100,
+					"id_str": "1111091631699034112",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D2tj88RUgAAB-tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2tj88RUgAAB-tj.jpg",
+					"url": "https://t.co/jFVjcor5JP",
+					"display_url": "pic.twitter.com/jFVjcor5JP",
+					"expanded_url": "https://twitter.com/RiNkA_T_R/status/1111091654008561664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 772,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111091643287887900,
+					"id_str": "1111091643287887872",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D2tj9ncUYAAfUkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2tj9ncUYAAfUkn.jpg",
+					"url": "https://t.co/jFVjcor5JP",
+					"display_url": "pic.twitter.com/jFVjcor5JP",
+					"expanded_url": "https://twitter.com/RiNkA_T_R/status/1111091654008561664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 962241583356682200,
+			"id_str": "962241583356682240",
+			"name": "𝑹𝑰𝑵𝑲𝑨⚔",
+			"screen_name": "RiNkA_T_R",
+			"location": "",
+			"description": "마비노기 류트서버 | 쉬워보여 | FUB FREE | 사냥조아⚔",
+			"url": "https://t.co/jw2XcO9UkK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jw2XcO9UkK",
+							"expanded_url": "http://twpf.jp/RiNkA_T_R",
+							"display_url": "twpf.jp/RiNkA_T_R",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 115,
+			"listed_count": 0,
+			"created_at": "Sat Feb 10 08:27:25 +0000 2018",
+			"favourites_count": 2352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3112,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107978853790539776/trYSeScP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107978853790539776/trYSeScP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/962241583356682240/1553344338",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 736,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 진심 마비 디자이너 해고된건가요 뭔가요 특히 저 빨간색 글씨에 검은색 테두리 넣은거 가독성 최악... https://t.co/jFVjcor5JP"
+	},
+	{
 		"created_at": "Fri Mar 29 17:33:33 +0000 2019",
 		"id": 1111682820752040000,
 		"id_str": "1111682820752039936",
