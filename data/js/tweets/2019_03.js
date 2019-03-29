@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 04:00:48 +0000 2019",
+		"id": 1111452783222259700,
+		"id_str": "1111478288487075841",
+		"full_text": "엌ㅋㅋㅋㅋ 요기요 피자헛 50%할인 극한의 가성비주문ㅋㅋㅋㅋ https://t.co/FI1EwYW2mN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111452777488617500,
+					"id_str": "1111452777488617472",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ysaZLUkAAj685.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ysaZLUkAAj685.jpg",
+					"url": "https://t.co/FI1EwYW2mN",
+					"display_url": "pic.twitter.com/FI1EwYW2mN",
+					"expanded_url": "https://twitter.com/Ruko_P/status/1111452783222259713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 853,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111452777488617500,
+					"id_str": "1111452777488617472",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D2ysaZLUkAAj685.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2ysaZLUkAAj685.jpg",
+					"url": "https://t.co/FI1EwYW2mN",
+					"display_url": "pic.twitter.com/FI1EwYW2mN",
+					"expanded_url": "https://twitter.com/Ruko_P/status/1111452783222259713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 853,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2306885672,
+			"id_str": "2306885672",
+			"name": "루코",
+			"screen_name": "Ruko_P",
+			"location": "무대위",
+			"description": "모리쿠보P",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 330,
+			"listed_count": 13,
+			"created_at": "Thu Jan 23 16:39:26 +0000 2014",
+			"favourites_count": 2079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50942,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101477639775182855/obhJTHu2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101477639775182855/obhJTHu2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2306885672/1551447425",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엌ㅋㅋㅋㅋ 요기요 피자헛 50%할인 극한의 가성비주문ㅋㅋㅋㅋ https://t.co/FI1EwYW2mN"
+	},
+	{
 		"created_at": "Fri Mar 29 02:22:33 +0000 2019",
 		"id": 1111453561093644300,
 		"id_str": "1111453561093644288",
