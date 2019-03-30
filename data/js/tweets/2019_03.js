@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 30 01:03:25 +0000 2019",
+		"id": 1111235554249707500,
+		"id_str": "1111796033137197056",
+		"full_text": "\"Racist, sexist, disgusting.\" https://t.co/wXscP1K1v3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wXscP1K1v3",
+					"expanded_url": "https://www.dw.com/en/german-ad-slammed-for-racist-portrayal-of-asian-women/a-48096268",
+					"display_url": "dw.com/en/german-ad-s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6134882,
+			"id_str": "6134882",
+			"name": "DW News",
+			"screen_name": "dwnews",
+			"location": "Germany",
+			"description": "Journalism that’s #MadeforMinds. Follow us for global news and analysis from the heart of Europe.",
+			"url": "http://t.co/ML6KVz2uXR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ML6KVz2uXR",
+							"expanded_url": "http://www.dw.com",
+							"display_url": "dw.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243274,
+			"friends_count": 850,
+			"listed_count": 5002,
+			"created_at": "Fri May 18 11:00:50 +0000 2007",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 259171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F4F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900261211509489666/-1Fu5hU8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900261211509489666/-1Fu5hU8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6134882/1552488614",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2529,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Racist, sexist, disgusting.\" https://t.co/wXscP1K1v3"
+	},
+	{
+		"created_at": "Sat Mar 30 01:01:39 +0000 2019",
+		"id": 1111648677917950000,
+		"id_str": "1111795590323527681",
+		"full_text": "병신TV는 이미 예전부티 있었네 https://t.co/R3I60LjCAQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111648671387410400,
+					"id_str": "1111648671387410432",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D21ek60U4AAvUdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D21ek60U4AAvUdW.jpg",
+					"url": "https://t.co/R3I60LjCAQ",
+					"display_url": "pic.twitter.com/R3I60LjCAQ",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1111648677917949952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111648671387410400,
+					"id_str": "1111648671387410432",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D21ek60U4AAvUdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D21ek60U4AAvUdW.jpg",
+					"url": "https://t.co/R3I60LjCAQ",
+					"display_url": "pic.twitter.com/R3I60LjCAQ",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1111648677917949952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 589,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1969146632,
+			"id_str": "1969146632",
+			"name": "하빙",
+			"screen_name": "Natsunokori",
+			"location": "夏氷",
+			"description": "게임, 야겜, 드라마 // 생각 정리 : @Summerlce",
+			"url": "https://t.co/TIpdfvgv32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TIpdfvgv32",
+							"expanded_url": "http://summer-ice.tistory.com/1",
+							"display_url": "summer-ice.tistory.com/1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 363,
+			"listed_count": 10,
+			"created_at": "Fri Oct 18 16:06:59 +0000 2013",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 295146,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938374195548848129/OhduZVF3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938374195548848129/OhduZVF3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1969146632/1512560205",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "병신TV는 이미 예전부티 있었네 https://t.co/R3I60LjCAQ"
+	},
+	{
+		"created_at": "Sat Mar 30 01:00:14 +0000 2019",
+		"id": 1111583857474625500,
+		"id_str": "1111795235221192706",
+		"full_text": "한국 뱅카페 캔뱃지가..... 일본에서 5400엔에..... https://t.co/RheF8ZmNiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111583835181862900,
+					"id_str": "1111583835181862912",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D20jm9IU0AAdyKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D20jm9IU0AAdyKT.jpg",
+					"url": "https://t.co/RheF8ZmNiX",
+					"display_url": "pic.twitter.com/RheF8ZmNiX",
+					"expanded_url": "https://twitter.com/micang_nano/status/1111583857474625536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111583835181862900,
+					"id_str": "1111583835181862912",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D20jm9IU0AAdyKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D20jm9IU0AAdyKT.jpg",
+					"url": "https://t.co/RheF8ZmNiX",
+					"display_url": "pic.twitter.com/RheF8ZmNiX",
+					"expanded_url": "https://twitter.com/micang_nano/status/1111583857474625536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911111631261667300,
+			"id_str": "911111631261667328",
+			"name": "둥이",
+			"screen_name": "micang_nano",
+			"location": "",
+			"description": "🔥뱅드림 계정🔥/ 타장르 언급 가끔 있음(주로 프리파라) / 레뷰계는 따로.SINO",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 125,
+			"listed_count": 1,
+			"created_at": "Fri Sep 22 06:15:15 +0000 2017",
+			"favourites_count": 4536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7788,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106002797890199552/plyhPf8H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106002797890199552/plyhPf8H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911111631261667328/1552623917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 뱅카페 캔뱃지가..... 일본에서 5400엔에..... https://t.co/RheF8ZmNiX"
+	},
+	{
+		"created_at": "Sat Mar 30 00:59:33 +0000 2019",
+		"id": 1111781114580918300,
+		"id_str": "1111795061098897408",
+		"full_text": "축하받고도 기분 찜찜해버리기~ https://t.co/coa32eazIi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111781107442180100,
+					"id_str": "1111781107442180096",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D23XBtkU4AAGHZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23XBtkU4AAGHZT.jpg",
+					"url": "https://t.co/coa32eazIi",
+					"display_url": "pic.twitter.com/coa32eazIi",
+					"expanded_url": "https://twitter.com/0000up/status/1111781114580918272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1072,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111781107442180100,
+					"id_str": "1111781107442180096",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D23XBtkU4AAGHZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23XBtkU4AAGHZT.jpg",
+					"url": "https://t.co/coa32eazIi",
+					"display_url": "pic.twitter.com/coa32eazIi",
+					"expanded_url": "https://twitter.com/0000up/status/1111781114580918272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1072,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270311891,
+			"id_str": "270311891",
+			"name": "공사없",
+			"screen_name": "0000up",
+			"location": "",
+			"description": "광삼이는 살아있다!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 651,
+			"listed_count": 20,
+			"created_at": "Tue Mar 22 11:37:02 +0000 2011",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48118,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109353710637899777/cJRd_7OU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109353710637899777/cJRd_7OU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270311891/1531892314",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "축하받고도 기분 찜찜해버리기~ https://t.co/coa32eazIi"
+	},
+	{
 		"created_at": "Sat Mar 30 00:15:02 +0000 2019",
 		"id": 1111781106485858300,
 		"id_str": "1111783859069173761",
