@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 30 06:36:56 +0000 2019",
+		"id": 1111832787999436800,
+		"id_str": "1111879968143761408",
+		"full_text": "브루나이에서 동성애를 채찍형 혹은 돌로 쳐 죽이는 법을 제정한 데 반발, 배우 조지 클루니가 브루나이 국왕이 투자한 호텔들에 대해 보이콧을 선언했다고. 런던의 Dorchester, LA의 Beverly Hills Hotel 등 전 세계 9개 호텔이 포함.\nhttps://t.co/8Q6JbWdRCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Q6JbWdRCo",
+					"expanded_url": "https://bbc.in/2FBh4r6",
+					"display_url": "bbc.in/2FBh4r6",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17175512,
+			"id_str": "17175512",
+			"name": "YJ Sohn",
+			"screen_name": "syjkorea",
+			"location": "Florida",
+			"description": "Dreamer. Loves books, photography, classical/jazz/hip-hop, traveling, my cartoon-like life. Tweeting = Herstory-building.",
+			"url": "https://t.co/j5hDwoeJgq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j5hDwoeJgq",
+							"expanded_url": "https://www.instagram.com/syjkorea/",
+							"display_url": "instagram.com/syjkorea/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7498,
+			"friends_count": 1379,
+			"listed_count": 86,
+			"created_at": "Wed Nov 05 01:10:20 +0000 2008",
+			"favourites_count": 5657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546097007077908480/79WaI9Dj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546097007077908480/79WaI9Dj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17175512/1512960190",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1A3F57",
+			"profile_text_color": "72B9BF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브루나이에서 동성애를 채찍형 혹은 돌로 쳐 죽이는 법을 제정한 데 반발, 배우 조지 클루니가 브루나이 국왕이 투자한 호텔들에 대해 보이콧을 선언했다고. 런던의 Dorchester, LA의 Beverly Hills Hotel 등 전 세계 9개 호텔이 포함.\nhttps://t.co/8Q6JbWdRCo"
+	},
+	{
 		"created_at": "Sat Mar 30 06:15:13 +0000 2019",
 		"id": 1111873833072361500,
 		"id_str": "1111874503640940544",
