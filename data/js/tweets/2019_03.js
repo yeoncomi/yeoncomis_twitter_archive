@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 16:51:14 +0000 2019",
+		"id": 1112396949154644000,
+		"id_str": "1112396949154643969",
+		"full_text": "CW: R-18 … https://t.co/Vqlonsb4Q3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vqlonsb4Q3",
+					"expanded_url": "https://twingyeo.kr/@yeoncomi/101846285910153842",
+					"display_url": "twingyeo.kr/@yeoncomi/1018…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 1019,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "CW: R-18 … https://t.co/Vqlonsb4Q3"
+	},
+	{
+		"created_at": "Sun Mar 31 16:32:46 +0000 2019",
+		"id": 1112387332051628000,
+		"id_str": "1112392300942888960",
+		"full_text": "기동전사\n김 기 동 https://t.co/rKHcRrPW3N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112387323478442000,
+					"id_str": "1112387323478441985",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_-YISUgAERnv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_-YISUgAERnv2.jpg",
+					"url": "https://t.co/rKHcRrPW3N",
+					"display_url": "pic.twitter.com/rKHcRrPW3N",
+					"expanded_url": "https://twitter.com/Kim_Gi_Dong/status/1112387332051628032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112387323478442000,
+					"id_str": "1112387323478441985",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_-YISUgAERnv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_-YISUgAERnv2.jpg",
+					"url": "https://t.co/rKHcRrPW3N",
+					"display_url": "pic.twitter.com/rKHcRrPW3N",
+					"expanded_url": "https://twitter.com/Kim_Gi_Dong/status/1112387332051628032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220669381,
+			"id_str": "220669381",
+			"name": "김기동",
+			"screen_name": "Kim_Gi_Dong",
+			"location": "김기동",
+			"description": "김기동",
+			"url": "https://t.co/EQqnwai2Xx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EQqnwai2Xx",
+							"expanded_url": "http://xn--ok0b5ax34a.com",
+							"display_url": "김기동.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 493,
+			"listed_count": 12,
+			"created_at": "Sun Nov 28 13:57:44 +0000 2010",
+			"favourites_count": 1272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 132278,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112385006968569856/b_4mcfkX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112385006968569856/b_4mcfkX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220669381/1516009147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기동전사\n김 기 동 https://t.co/rKHcRrPW3N"
+	},
+	{
+		"created_at": "Sun Mar 31 16:31:33 +0000 2019",
+		"id": 1112388950688055300,
+		"id_str": "1112391995446562816",
+		"full_text": "올해 만우절 경쟁은 백괴사전이 이긴 걸로.....\n\n위키 내 모든 '백괴사전'을 '나무위키'로 바꿔버림 https://t.co/v0zaI3luPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112388914721878000,
+					"id_str": "1112388914721878017",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/D2__0wIUcAEECS9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2__0wIUcAEECS9.png",
+					"url": "https://t.co/v0zaI3luPT",
+					"display_url": "pic.twitter.com/v0zaI3luPT",
+					"expanded_url": "https://twitter.com/zlzleking/status/1112388950688055296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1722,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112388914721878000,
+					"id_str": "1112388914721878017",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/D2__0wIUcAEECS9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2__0wIUcAEECS9.png",
+					"url": "https://t.co/v0zaI3luPT",
+					"display_url": "pic.twitter.com/v0zaI3luPT",
+					"expanded_url": "https://twitter.com/zlzleking/status/1112388950688055296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1722,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80,
+			"friends_count": 19,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1918,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101778079150571521/hqTVRg7J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1551519391",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 만우절 경쟁은 백괴사전이 이긴 걸로.....\n\n위키 내 모든 '백괴사전'을 '나무위키'로 바꿔버림 https://t.co/v0zaI3luPT"
+	},
+	{
+		"created_at": "Sun Mar 31 16:30:30 +0000 2019",
+		"id": 1112369074238042100,
+		"id_str": "1112391732727939072",
+		"full_text": "節約にもダイエットにもおすすめ！\n\n『透明ハンバーグ』\n\nどれだけ食べてもゼロカロリーの透明ハンバーグはいかがでしょうか！材料費も全くかからないので、節約にもダイエット中の方にもおすすめです。すぐに作れるのでぜひ試してみてくださいね。\n\n# クラシル #エイプリルフール https://t.co/1iHjJjK26q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "エイプリルフール",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112368976967929900,
+					"id_str": "1112368976967929858",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112368976967929858/pu/img/JS3PMreJ9rYnX7VS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112368976967929858/pu/img/JS3PMreJ9rYnX7VS.jpg",
+					"url": "https://t.co/1iHjJjK26q",
+					"display_url": "pic.twitter.com/1iHjJjK26q",
+					"expanded_url": "https://twitter.com/kurashiru0119/status/1112369074238042115/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112368976967929900,
+					"id_str": "1112368976967929858",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112368976967929858/pu/img/JS3PMreJ9rYnX7VS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112368976967929858/pu/img/JS3PMreJ9rYnX7VS.jpg",
+					"url": "https://t.co/1iHjJjK26q",
+					"display_url": "pic.twitter.com/1iHjJjK26q",
+					"expanded_url": "https://twitter.com/kurashiru0119/status/1112369074238042115/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52934,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112368976967929858/pu/vid/320x320/c6Dm-RaS7Dhwhrng.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112368976967929858/pu/vid/720x720/WnWjo-CwvcwQM-iI.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112368976967929858/pu/vid/480x480/rm5iA3DnUkQUsLiB.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112368976967929858/pu/pl/fu-s9gGEbevDLidW.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2990445350,
+			"id_str": "2990445350",
+			"name": "kurashiru [クラシル]",
+			"screen_name": "kurashiru0119",
+			"location": "東京都",
+			"description": "クラシルでは、「きちんとおいしく作れる」をコンセプトに、簡単でおいしく作れるレシピ動画を毎日配信しています。おいしくできますように。",
+			"url": "https://t.co/ByTtVnKQ36",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ByTtVnKQ36",
+							"expanded_url": "https://www.kurashiru.com/app_install_redirect?adjust=twitter_profile",
+							"display_url": "kurashiru.com/app_install_re…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340794,
+			"friends_count": 0,
+			"listed_count": 2190,
+			"created_at": "Tue Jan 20 00:08:05 +0000 2015",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11006,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096286825931407360/pHMSh1VC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096286825931407360/pHMSh1VC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2990445350/1538362690",
+			"profile_link_color": "DBB34D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7774,
+		"favorite_count": 8252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "節約にもダイエットにもおすすめ！\n\n『透明ハンバーグ』\n\nどれだけ食べてもゼロカロリーの透明ハンバーグはいかがでしょうか！材料費も全くかからないので、節約にもダイエット中の方にもおすすめです。すぐに作れるのでぜひ試してみてくださいね。\n\n# クラシル #エイプリルフール https://t.co/1iHjJjK26q"
+	},
+	{
 		"created_at": "Sun Mar 31 16:12:51 +0000 2019",
 		"id": 1112385308660658200,
 		"id_str": "1112387287667494914",
