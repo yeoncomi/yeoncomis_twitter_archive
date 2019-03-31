@@ -1,6 +1,1447 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 14:16:06 +0000 2019",
+		"id": 1111703366986620900,
+		"id_str": "1112357909692731392",
+		"full_text": "Brexit Britain\nhttps://t.co/haBLsZ534p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108834946968358900,
+					"id_str": "1108834946968358924",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108834946968358924/pu/img/1FGwJm8CK3unu12_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108834946968358924/pu/img/1FGwJm8CK3unu12_.jpg",
+					"url": "https://t.co/haBLsZ534p",
+					"display_url": "pic.twitter.com/haBLsZ534p",
+					"expanded_url": "https://twitter.com/JustTraveI/status/1108835682368262163/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1108835682368262100,
+					"source_status_id_str": "1108835682368262163",
+					"source_user_id": 762717306174709800,
+					"source_user_id_str": "762717306174709760"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108834946968358900,
+					"id_str": "1108834946968358924",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108834946968358924/pu/img/1FGwJm8CK3unu12_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108834946968358924/pu/img/1FGwJm8CK3unu12_.jpg",
+					"url": "https://t.co/haBLsZ534p",
+					"display_url": "pic.twitter.com/haBLsZ534p",
+					"expanded_url": "https://twitter.com/JustTraveI/status/1108835682368262163/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1108835682368262100,
+					"source_status_id_str": "1108835682368262163",
+					"source_user_id": 762717306174709800,
+					"source_user_id_str": "762717306174709760",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 32270,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108834946968358924/pu/vid/640x800/lB37m-ZMOx9ZrOD_.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108834946968358924/pu/pl/5kydg41GVPF1iikj.m3u8?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108834946968358924/pu/vid/320x400/sDG0xZHXNGXVHT_A.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108834946968358924/pu/vid/360x450/aSATttKi_YN-64Ir.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 762717306174709800,
+							"id_str": "762717306174709760",
+							"name": "Just Travel 🗺",
+							"screen_name": "JustTraveI",
+							"location": " Earth",
+							"description": "Join one of the fastest growing travel community’s that’s goal is to inspire people like you to travel, explore and escape everyday life - You in?",
+							"url": "https://t.co/2C35XvgKLk",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2C35XvgKLk",
+											"expanded_url": "https://justtravel.store",
+											"display_url": "justtravel.store",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 48743,
+							"friends_count": 3,
+							"listed_count": 215,
+							"created_at": "Mon Aug 08 18:29:11 +0000 2016",
+							"favourites_count": 859,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 1731,
+							"lang": "en-gb",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/986339302551547904/jO2PjxTb_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/986339302551547904/jO2PjxTb_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/762717306174709760/1537375479",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309705905,
+			"id_str": "309705905",
+			"name": "Alfons López Tena #FBPE",
+			"screen_name": "alfonslopeztena",
+			"location": "Catalonia",
+			"description": "Jurist. Spanish Judiciary Council's & Catalan Parliament's former member. Writes in @businessinsider—@InPRA—@ctxt_es—@myfairobserver—@Jerusalem_Post—@htTweets.",
+			"url": "https://t.co/3KVgzX4Noy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3KVgzX4Noy",
+							"expanded_url": "https://www.facebook.com/alfonslopeztena",
+							"display_url": "facebook.com/alfonslopeztena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147447,
+			"friends_count": 28912,
+			"listed_count": 1445,
+			"created_at": "Thu Jun 02 14:47:53 +0000 2011",
+			"favourites_count": 9878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 124893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099036835072888832/KH3GE-LD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099036835072888832/KH3GE-LD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309705905/1522468333",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brexit Britain\nhttps://t.co/haBLsZ534p"
+	},
+	{
+		"created_at": "Sun Mar 31 14:11:29 +0000 2019",
+		"id": 1112356745060347900,
+		"id_str": "1112356745060347904",
+		"full_text": "@SATAN_KOHAI 역시 GTA군요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SATAN_KOHAI",
+					"name": "렌냐삐.🐰",
+					"id": 935120525222744000,
+					"id_str": "935120525222744064",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1112356604899266600,
+		"in_reply_to_status_id_str": "1112356604899266560",
+		"in_reply_to_user_id": 935120525222744000,
+		"in_reply_to_user_id_str": "935120525222744064",
+		"in_reply_to_screen_name": "SATAN_KOHAI",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1021,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@SATAN_KOHAI 역시 GTA군요"
+	},
+	{
+		"created_at": "Sun Mar 31 13:59:16 +0000 2019",
+		"id": 1112353670887325700,
+		"id_str": "1112353670887325696",
+		"full_text": "소고기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연꺼밍🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1021,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 23984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소고기"
+	},
+	{
+		"created_at": "Sun Mar 31 13:55:12 +0000 2019",
+		"id": 1112330474771234800,
+		"id_str": "1112352649477648386",
+		"full_text": "민주노총 조합원 100만명을 넘어서 한국노총을 제치고 제1노총이 된다는 기사.\n\n이미 한국노총에 있는 어용노조, 유령노조들 제외하고, 민주노총 안에서도 정부가 노조로 인정하지 않는 특수고용 노동자 등 포함하면 민주노총이 제1노총이 맞음.\n\nhttps://t.co/ooKCC1j3S8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ooKCC1j3S8",
+					"expanded_url": "http://www.yonhapnewstv.co.kr/MYH20190331005300038/",
+					"display_url": "yonhapnewstv.co.kr/MYH20190331005…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/EgUFIxL8Ip",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EgUFIxL8Ip",
+							"expanded_url": "http://bit.ly/J0aF3i",
+							"display_url": "bit.ly/J0aF3i",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 1855,
+			"listed_count": 111,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17792,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민주노총 조합원 100만명을 넘어서 한국노총을 제치고 제1노총이 된다는 기사.\n\n이미 한국노총에 있는 어용노조, 유령노조들 제외하고, 민주노총 안에서도 정부가 노조로 인정하지 않는 특수고용 노동자 등 포함하면 민주노총이 제1노총이 맞음.\n\nhttps://t.co/ooKCC1j3S8"
+	},
+	{
+		"created_at": "Sun Mar 31 13:30:46 +0000 2019",
+		"id": 1111929331788320800,
+		"id_str": "1112346499990487040",
+		"full_text": "Korean evangelism + conscription + ??? = https://t.co/0ACZ3Yulk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111929276536770600,
+					"id_str": "1111929276536770560",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111929276536770560/pu/img/aDEJojgaEiT5v1LS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111929276536770560/pu/img/aDEJojgaEiT5v1LS.jpg",
+					"url": "https://t.co/0ACZ3Yulk4",
+					"display_url": "pic.twitter.com/0ACZ3Yulk4",
+					"expanded_url": "https://twitter.com/SubinBKim/status/1111929331788320768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111929276536770600,
+					"id_str": "1111929276536770560",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111929276536770560/pu/img/aDEJojgaEiT5v1LS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111929276536770560/pu/img/aDEJojgaEiT5v1LS.jpg",
+					"url": "https://t.co/0ACZ3Yulk4",
+					"display_url": "pic.twitter.com/0ACZ3Yulk4",
+					"expanded_url": "https://twitter.com/SubinBKim/status/1111929331788320768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37900,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111929276536770560/pu/vid/320x180/c5qsGkjw1swA3dCE.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1111929276536770560/pu/pl/UecqhVQlDYctL3rA.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111929276536770560/pu/vid/640x360/Oqudvwr0ZcM2SsyK.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190125206,
+			"id_str": "190125206",
+			"name": "Subin Kim",
+			"screen_name": "SubinBKim",
+			"location": "Seoul, Korea",
+			"description": "Broadcast Journalist @ BBC Korean; reserve air defense artillery lieutenant; porcine enthusiast; views are mine not my employer's",
+			"url": "https://t.co/jwXauZncOM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jwXauZncOM",
+							"expanded_url": "http://subin.kim",
+							"display_url": "subin.kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1576,
+			"friends_count": 223,
+			"listed_count": 90,
+			"created_at": "Mon Sep 13 03:43:04 +0000 2010",
+			"favourites_count": 1970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964142879923826688/pYMV6cyj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964142879923826688/pYMV6cyj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190125206/1544328015",
+			"profile_link_color": "FF6517",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 625,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korean evangelism + conscription + ??? = https://t.co/0ACZ3Yulk4"
+	},
+	{
+		"created_at": "Sun Mar 31 13:30:41 +0000 2019",
+		"id": 1112321538869465100,
+		"id_str": "1112346479660654592",
+		"full_text": "한국형 자율주행... https://t.co/cdOI9WuQwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112321532418613200,
+					"id_str": "1112321532418613250",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_CilfUYAItrUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_CilfUYAItrUU.jpg",
+					"url": "https://t.co/cdOI9WuQwW",
+					"display_url": "pic.twitter.com/cdOI9WuQwW",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1112321538869465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112321532418613200,
+					"id_str": "1112321532418613250",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_CilfUYAItrUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_CilfUYAItrUU.jpg",
+					"url": "https://t.co/cdOI9WuQwW",
+					"display_url": "pic.twitter.com/cdOI9WuQwW",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1112321538869465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112321532418625500,
+					"id_str": "1112321532418625536",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_CilfUkAAzMbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_CilfUkAAzMbn.jpg",
+					"url": "https://t.co/cdOI9WuQwW",
+					"display_url": "pic.twitter.com/cdOI9WuQwW",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1112321538869465089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87702189,
+			"id_str": "87702189",
+			"name": "ARENA 3구역 10열 8번@MADCAT",
+			"screen_name": "MADCAT135",
+			"location": "대한민국",
+			"description": "사진/영상촬영,편집하는 사람입니다. 그림도 그려요. 작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4109,
+			"friends_count": 2503,
+			"listed_count": 67,
+			"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+			"favourites_count": 8738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 505169,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102236171537539072/9iMBb01C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102236171537539072/9iMBb01C_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1533462288",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1055,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국형 자율주행... https://t.co/cdOI9WuQwW"
+	},
+	{
+		"created_at": "Sun Mar 31 13:30:05 +0000 2019",
+		"id": 1111638396059951100,
+		"id_str": "1112346327550029825",
+		"full_text": "리튓) 미국인 30세 이하 성인 중 섹스를 하지 않는 사람들 비율이 10년전에 비해 3배로 늘어났다고. 젊은이들 섹스 안하는 건 일본 한국 뿐 아니라 범산업 국가들의 추세인가 봄.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116789830,
+			"id_str": "116789830",
+			"name": "♫ 힘없뚜기 Lee",
+			"screen_name": "beluga2046",
+			"location": "Seoul",
+			"description": "음악과 영화 좋아하는 게임개발-자영없자입니다.  Game Developer          괴상한 퍼즐 게임 [이민-지구끝까지]를 구글 플레이 스토어에서 서비스 중입니다.  https://t.co/Yx7QhzTXea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Yx7QhzTXea",
+							"expanded_url": "https://play.google.com/store/apps/details?id=com.villette.joy",
+							"display_url": "play.google.com/store/apps/det…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 1863,
+			"listed_count": 27,
+			"created_at": "Tue Feb 23 15:43:58 +0000 2010",
+			"favourites_count": 4551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17911,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078122215348920320/OH1pVzO8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078122215348920320/OH1pVzO8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116789830/1545879416",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리튓) 미국인 30세 이하 성인 중 섹스를 하지 않는 사람들 비율이 10년전에 비해 3배로 늘어났다고. 젊은이들 섹스 안하는 건 일본 한국 뿐 아니라 범산업 국가들의 추세인가 봄."
+	},
+	{
+		"created_at": "Sun Mar 31 13:27:54 +0000 2019",
+		"id": 1112345702149967900,
+		"id_str": "1112345776691150849",
+		"full_text": "텀블벅, &lt;'EZ2AC : NIGHT TRAVELER' OST&gt;\n\"군대 있었을때 월급 아껴가면서 18만원 모아서 보냈는데, 과거로 돌아갈 수만 있다면 안 넣었을 겁니다.\" -&gt; 리듬 게임 OST로 6천만원 달성하며 성공했지만, 제작 사고, 대행사 트러블, 창작자 암 진단 등 사고 속출.\n\n🛎️판결 : 각하(불운) https://t.co/rsfm40ZXOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112343729409425400,
+					"id_str": "1112343729409425409",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_WunuVAAEyOFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_WunuVAAEyOFH.jpg",
+					"url": "https://t.co/rsfm40ZXOz",
+					"display_url": "pic.twitter.com/rsfm40ZXOz",
+					"expanded_url": "https://twitter.com/weirdAttorney/status/1112345702149967873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112343729409425400,
+					"id_str": "1112343729409425409",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_WunuVAAEyOFH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2_WunuVAAEyOFH.jpg",
+					"url": "https://t.co/rsfm40ZXOz",
+					"display_url": "pic.twitter.com/rsfm40ZXOz",
+					"expanded_url": "https://twitter.com/weirdAttorney/status/1112345702149967873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112343736371994600,
+					"id_str": "1112343736371994627",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_WvBqVYAMXo4r.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2_WvBqVYAMXo4r.png",
+					"url": "https://t.co/rsfm40ZXOz",
+					"display_url": "pic.twitter.com/rsfm40ZXOz",
+					"expanded_url": "https://twitter.com/weirdAttorney/status/1112345702149967873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 753,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 753,
+							"h": 577,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1112343743686819800,
+					"id_str": "1112343743686819840",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_Wvc6UwAAUbIx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2_Wvc6UwAAUbIx.png",
+					"url": "https://t.co/rsfm40ZXOz",
+					"display_url": "pic.twitter.com/rsfm40ZXOz",
+					"expanded_url": "https://twitter.com/weirdAttorney/status/1112345702149967873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 687,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1112343800649666600,
+					"id_str": "1112343800649666562",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D2_WyxHU0AI5ASh.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2_WyxHU0AI5ASh.png",
+					"url": "https://t.co/rsfm40ZXOz",
+					"display_url": "pic.twitter.com/rsfm40ZXOz",
+					"expanded_url": "https://twitter.com/weirdAttorney/status/1112345702149967873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 447,
+							"h": 330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 447,
+							"h": 330,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 447,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110505142179106800,
+			"id_str": "1110505142179106816",
+			"name": "크라우드 펀딩 재판",
+			"screen_name": "weirdAttorney",
+			"location": "",
+			"description": "이상한 크라우드 펀딩들... 모조리 유죄다!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4953,
+			"friends_count": 2,
+			"listed_count": 11,
+			"created_at": "Tue Mar 26 11:33:52 +0000 2019",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110518027244625920/Uqo16oGF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110518027244625920/Uqo16oGF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110505142179106816/1553605997",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텀블벅, &lt;'EZ2AC : NIGHT TRAVELER' OST&gt;\n\"군대 있었을때 월급 아껴가면서 18만원 모아서 보냈는데, 과거로 돌아갈 수만 있다면 안 넣었을 겁니다.\" -&gt; 리듬 게임 OST로 6천만원 달성하며 성공했지만, 제작 사고, 대행사 트러블, 창작자 암 진단 등 사고 속출.\n\n🛎️판결 : 각하(불운) https://t.co/rsfm40ZXOz"
+	},
+	{
+		"created_at": "Sun Mar 31 13:27:52 +0000 2019",
+		"id": 1112342624428609500,
+		"id_str": "1112345769514684416",
+		"full_text": "1 dead, 5 injured in crash on Highway 403 in Mississauga, west of Toronto:\nhttps://t.co/qqpRdNGvje",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qqpRdNGvje",
+					"expanded_url": "http://cbc.ca/1.5078781",
+					"display_url": "cbc.ca/1.5078781",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1153617,
+			"friends_count": 462,
+			"listed_count": 8449,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1 dead, 5 injured in crash on Highway 403 in Mississauga, west of Toronto:\nhttps://t.co/qqpRdNGvje"
+	},
+	{
 		"created_at": "Sun Mar 31 13:16:46 +0000 2019",
 		"id": 1112337913730072600,
 		"id_str": "1112342974313218048",
