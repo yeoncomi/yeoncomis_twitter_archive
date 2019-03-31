@@ -1,6 +1,1014 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 03:08:09 +0000 2019",
+		"id": 1112154481376976900,
+		"id_str": "1112189813459804163",
+		"full_text": "국산 맥주 근황 https://t.co/InwB7z1ukM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112154473927860200,
+					"id_str": "1112154473927860225",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D28qmgHU4AEa6aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D28qmgHU4AEa6aJ.jpg",
+					"url": "https://t.co/InwB7z1ukM",
+					"display_url": "pic.twitter.com/InwB7z1ukM",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1112154481376976896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112154473927860200,
+					"id_str": "1112154473927860225",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D28qmgHU4AEa6aJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D28qmgHU4AEa6aJ.jpg",
+					"url": "https://t.co/InwB7z1ukM",
+					"display_url": "pic.twitter.com/InwB7z1ukM",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1112154481376976896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1085,
+			"friends_count": 192,
+			"listed_count": 19,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 5799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국산 맥주 근황 https://t.co/InwB7z1ukM"
+	},
+	{
+		"created_at": "Sun Mar 31 03:07:03 +0000 2019",
+		"id": 1112093721808392200,
+		"id_str": "1112189536941989889",
+		"full_text": "캐나다에서 냉동 치킨 너겟 관련해서 살모넬라가 유행해서 얼마 전에 경고 올라오고 그랬는데, 조사 결과 발표된 거 보니 충격이다.\n\n냉동 치킨 너겟을 이미 다 조리된 걸 냉동한 음식이라 생각해서, 전자렌지에 데워먹었대..\n\n빵가루 묻어있다고 다 조리된 게 아니라고!!\n\nhttps://t.co/KPTde525No",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KPTde525No",
+					"expanded_url": "https://www.cbc.ca/news/health/second-opinion-chicken-nuggets-1.5077767",
+					"display_url": "cbc.ca/news/health/se…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024835785785131000,
+			"id_str": "1024835785785131008",
+			"name": "퇴근을 꿈꾸는 곰간호사",
+			"screen_name": "bear_nurse_",
+			"location": "",
+			"description": "출근 하며 퇴근을 꿈꾼다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145,
+			"friends_count": 45,
+			"listed_count": 1,
+			"created_at": "Thu Aug 02 01:54:26 +0000 2018",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024836725200179200/US5g-R2Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024836725200179200/US5g-R2Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024835785785131008/1533175445",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "캐나다에서 냉동 치킨 너겟 관련해서 살모넬라가 유행해서 얼마 전에 경고 올라오고 그랬는데, 조사 결과 발표된 거 보니 충격이다.\n\n냉동 치킨 너겟을 이미 다 조리된 걸 냉동한 음식이라 생각해서, 전자렌지에 데워먹었대..\n\n빵가루 묻어있다고 다 조리된 게 아니라고!!\n\nhttps://t.co/KPTde525No"
+	},
+	{
+		"created_at": "Sun Mar 31 03:04:15 +0000 2019",
+		"id": 1111961764273537000,
+		"id_str": "1112188831581630465",
+		"full_text": "CGV의 솔로 능욕 이벤트 https://t.co/DkYMJOXtmD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111961761354125300,
+					"id_str": "1111961761354125312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D257VJ1UkAA1Rea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D257VJ1UkAA1Rea.jpg",
+					"url": "https://t.co/DkYMJOXtmD",
+					"display_url": "pic.twitter.com/DkYMJOXtmD",
+					"expanded_url": "https://twitter.com/go1rani/status/1111961764273537024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111961761354125300,
+					"id_str": "1111961761354125312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D257VJ1UkAA1Rea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D257VJ1UkAA1Rea.jpg",
+					"url": "https://t.co/DkYMJOXtmD",
+					"display_url": "pic.twitter.com/DkYMJOXtmD",
+					"expanded_url": "https://twitter.com/go1rani/status/1111961764273537024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 239,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19043,
+			"friends_count": 5,
+			"listed_count": 44,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 704,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1853,
+		"favorite_count": 493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CGV의 솔로 능욕 이벤트 https://t.co/DkYMJOXtmD"
+	},
+	{
+		"created_at": "Sun Mar 31 02:58:46 +0000 2019",
+		"id": 1112181217468661800,
+		"id_str": "1112187452762918912",
+		"full_text": "한국드라마 압축요약 https://t.co/PCGwCrEqKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112040382395637800,
+					"id_str": "1112040382395637760",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D27C1gCU4AANcGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D27C1gCU4AANcGE.jpg",
+					"url": "https://t.co/PCGwCrEqKR",
+					"display_url": "pic.twitter.com/PCGwCrEqKR",
+					"expanded_url": "https://twitter.com/go1rani/status/1112181217468661760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112040382395637800,
+					"id_str": "1112040382395637760",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D27C1gCU4AANcGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D27C1gCU4AANcGE.jpg",
+					"url": "https://t.co/PCGwCrEqKR",
+					"display_url": "pic.twitter.com/PCGwCrEqKR",
+					"expanded_url": "https://twitter.com/go1rani/status/1112181217468661760/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 202,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D27C1gCU4AANcGE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19043,
+			"friends_count": 5,
+			"listed_count": 44,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 704,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국드라마 압축요약 https://t.co/PCGwCrEqKR"
+	},
+	{
+		"created_at": "Sun Mar 31 02:58:32 +0000 2019",
+		"id": 1111911751635763200,
+		"id_str": "1112187392662757383",
+		"full_text": "대학교 사물함 사용비 논란 https://t.co/i01CsxPBTp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111911548086177800,
+					"id_str": "1111911548086177793",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D25NqW1U0AE2Il7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D25NqW1U0AE2Il7.jpg",
+					"url": "https://t.co/i01CsxPBTp",
+					"display_url": "pic.twitter.com/i01CsxPBTp",
+					"expanded_url": "https://twitter.com/go1rani/status/1111911751635763200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 808,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111911548086177800,
+					"id_str": "1111911548086177793",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D25NqW1U0AE2Il7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D25NqW1U0AE2Il7.jpg",
+					"url": "https://t.co/i01CsxPBTp",
+					"display_url": "pic.twitter.com/i01CsxPBTp",
+					"expanded_url": "https://twitter.com/go1rani/status/1111911751635763200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 808,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111911548073607200,
+					"id_str": "1111911548073607169",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D25NqWyVAAEqRko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D25NqWyVAAEqRko.jpg",
+					"url": "https://t.co/i01CsxPBTp",
+					"display_url": "pic.twitter.com/i01CsxPBTp",
+					"expanded_url": "https://twitter.com/go1rani/status/1111911751635763200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 523,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 1854,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111911548077793300,
+					"id_str": "1111911548077793281",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D25NqWzU4AEYOQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D25NqWzU4AEYOQy.jpg",
+					"url": "https://t.co/i01CsxPBTp",
+					"display_url": "pic.twitter.com/i01CsxPBTp",
+					"expanded_url": "https://twitter.com/go1rani/status/1111911751635763200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 461,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 261,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19043,
+			"friends_count": 5,
+			"listed_count": 44,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 704,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5043,
+		"favorite_count": 779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대학교 사물함 사용비 논란 https://t.co/i01CsxPBTp"
+	},
+	{
+		"created_at": "Sun Mar 31 02:57:07 +0000 2019",
+		"id": 1111839329272229900,
+		"id_str": "1112187034502758400",
+		"full_text": "'대기업의 사외 가상캐 활용 공중파 광고' 라면 우리는 지난세기에 했었는데 https://t.co/lsgTzg4wMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111838988862513200,
+					"id_str": "1111838988862513152",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111838988862513152/pu/img/ikcu70xmYQxVaXl7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111838988862513152/pu/img/ikcu70xmYQxVaXl7.jpg",
+					"url": "https://t.co/lsgTzg4wMD",
+					"display_url": "pic.twitter.com/lsgTzg4wMD",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1111839329272229889/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111838988862513200,
+					"id_str": "1111838988862513152",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111838988862513152/pu/img/ikcu70xmYQxVaXl7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111838988862513152/pu/img/ikcu70xmYQxVaXl7.jpg",
+					"url": "https://t.co/lsgTzg4wMD",
+					"display_url": "pic.twitter.com/lsgTzg4wMD",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1111839329272229889/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 21467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111838988862513152/pu/vid/480x360/6bJ9Jk-DumCzZ6d4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1111838988862513152/pu/pl/avLsfXZA3LshbEKM.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111838988862513152/pu/vid/240x180/Z-nwv2xQrwoO7SD7.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210937,
+			"friends_count": 496,
+			"listed_count": 334,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38039,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1551049603",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'대기업의 사외 가상캐 활용 공중파 광고' 라면 우리는 지난세기에 했었는데 https://t.co/lsgTzg4wMD"
+	},
+	{
 		"created_at": "Sat Mar 30 22:38:47 +0000 2019",
 		"id": 1111934008433082400,
 		"id_str": "1112122025676427264",
