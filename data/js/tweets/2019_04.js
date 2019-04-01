@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 01 05:34:37 +0000 2019",
+		"id": 1112589061867212800,
+		"id_str": "1112589061867212801",
+		"full_text": "@soap0582 맛 있 는 바 가",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soap0582",
+					"name": "비누🍥 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1112587997340274700,
+		"in_reply_to_status_id_str": "1112587997340274688",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "soap0582",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#GirlsCanDoAnything|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soap0582 맛 있 는 바 가"
+	},
+	{
+		"created_at": "Mon Apr 01 05:18:51 +0000 2019",
+		"id": 1112584536280293400,
+		"id_str": "1112585093070020608",
+		"full_text": "無限令和 https://t.co/EJP9TIvYEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112584408400224300,
+					"id_str": "1112584408400224256",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112584408400224256/pu/img/uTkw8Pgg5kSTbjSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112584408400224256/pu/img/uTkw8Pgg5kSTbjSL.jpg",
+					"url": "https://t.co/EJP9TIvYEC",
+					"display_url": "pic.twitter.com/EJP9TIvYEC",
+					"expanded_url": "https://twitter.com/cametek/status/1112584536280293376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1014,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1014,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112584408400224300,
+					"id_str": "1112584408400224256",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112584408400224256/pu/img/uTkw8Pgg5kSTbjSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112584408400224256/pu/img/uTkw8Pgg5kSTbjSL.jpg",
+					"url": "https://t.co/EJP9TIvYEC",
+					"display_url": "pic.twitter.com/EJP9TIvYEC",
+					"expanded_url": "https://twitter.com/cametek/status/1112584536280293376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1014,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1014,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							169,
+							120
+						],
+						"duration_millis": 1000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112584408400224256/pu/vid/1014x720/1cXAIkUzH44g16oX.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112584408400224256/pu/pl/v9Xlow2BVmEBxEe0.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112584408400224256/pu/vid/506x360/BCk3TsuUP1RMlgWN.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112584408400224256/pu/vid/252x180/DH78Lek9NDdKigc0.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70876713,
+			"id_str": "70876713",
+			"name": "かめりあ @4/28M3第一展示場Q15b",
+			"screen_name": "cametek",
+			"location": "http://camellialapix.extsm.com",
+			"description": "フリーの作曲家です。SDVX/IIDX/jubeat等BEMANI楽曲、「ニルアド」アニメOP書き下ろし提供、「ゆるゆり」「プリパラ」リミックス等。beatnation RHYZEメンバー。猫とポケモンが好き。Discordサーバ:https://t.co/7QNx0FnePM 📩cametek@gmail.com",
+			"url": "https://t.co/yRxMyiM5ZX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yRxMyiM5ZX",
+							"expanded_url": "http://cametek.jp/",
+							"display_url": "cametek.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7QNx0FnePM",
+							"expanded_url": "http://discord.gg/2aSegBT",
+							"display_url": "discord.gg/2aSegBT",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 65401,
+			"friends_count": 64148,
+			"listed_count": 1437,
+			"created_at": "Wed Sep 02 03:58:25 +0000 2009",
+			"favourites_count": 439135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184882,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "282E2C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112489677947191299/OtGEh6kY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112489677947191299/OtGEh6kY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70876713/1499496643",
+			"profile_link_color": "CC5A97",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8DBDFC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "無限令和 https://t.co/EJP9TIvYEC"
+	},
+	{
 		"created_at": "Mon Apr 01 05:16:11 +0000 2019",
 		"id": 786837090675724300,
 		"id_str": "1112584421750657024",
