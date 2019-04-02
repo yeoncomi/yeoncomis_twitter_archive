@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 01:49:21 +0000 2019",
+		"id": 1112731452347744300,
+		"id_str": "1112894757578059776",
+		"full_text": "영미권 거주자들의 가슴을 두근거리게 하는 단 3단어 https://t.co/KncmQMsiUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112731306746630100,
+					"id_str": "1112731306746630144",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D3E3Ol0W0AA1aF5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3E3Ol0W0AA1aF5.png",
+					"url": "https://t.co/KncmQMsiUZ",
+					"display_url": "pic.twitter.com/KncmQMsiUZ",
+					"expanded_url": "https://twitter.com/junchi255/status/1112731452347744257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 143,
+							"h": 143,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112731306746630100,
+					"id_str": "1112731306746630144",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D3E3Ol0W0AA1aF5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3E3Ol0W0AA1aF5.png",
+					"url": "https://t.co/KncmQMsiUZ",
+					"display_url": "pic.twitter.com/KncmQMsiUZ",
+					"expanded_url": "https://twitter.com/junchi255/status/1112731452347744257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 143,
+							"h": 143,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 278,
+							"h": 143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236726805,
+			"id_str": "236726805",
+			"name": "북아메리카 사는 고 래상어",
+			"screen_name": "junchi255",
+			"location": "",
+			"description": "후루룹촵촵",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 175,
+			"listed_count": 4,
+			"created_at": "Tue Jan 11 06:58:23 +0000 2011",
+			"favourites_count": 24883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42404,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112392710105825284/gtn7qtgT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112392710105825284/gtn7qtgT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236726805/1554049980",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영미권 거주자들의 가슴을 두근거리게 하는 단 3단어 https://t.co/KncmQMsiUZ"
+	},
+	{
 		"created_at": "Tue Apr 02 00:49:27 +0000 2019",
 		"id": 1112589589170933800,
 		"id_str": "1112879681504595971",
