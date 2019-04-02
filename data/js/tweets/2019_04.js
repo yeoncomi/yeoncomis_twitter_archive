@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 22:58:10 +0000 2019",
+		"id": 1113214064308523000,
+		"id_str": "1113214064308523008",
+		"full_text": "This will really bring some rage against Trudeau Government",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1113213931059765200,
+		"in_reply_to_status_id_str": "1113213931059765249",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This will really bring some rage against Trudeau Government"
+	},
+	{
+		"created_at": "Tue Apr 02 22:57:38 +0000 2019",
+		"id": 1113213931059765200,
+		"id_str": "1113213931059765249",
+		"full_text": "Okay, this would fucking screw up Cdn Politics",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Okay, this would fucking screw up Cdn Politics"
+	},
+	{
+		"created_at": "Tue Apr 02 22:57:19 +0000 2019",
+		"id": 1113206491975225300,
+		"id_str": "1113213850818449409",
+		"full_text": "More @cbcnews PM Justin Trudeau ejects Jody Wilson-Raybould and Jane Philpott from Liberal caucus. Former cabinet ministers will not be permitted to seek re-election under Liberal Party banner. https://t.co/J3pA6vfxfS #cdnpoli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cdnpoli",
+					"indices": [
+						218,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBCNews",
+					"name": "CBC News",
+					"id": 6433472,
+					"id_str": "6433472",
+					"indices": [
+						5,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J3pA6vfxfS",
+					"expanded_url": "http://cbc.ca/1.5080880",
+					"display_url": "cbc.ca/1.5080880",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113202749662015500,
+		"in_reply_to_status_id_str": "1113202749662015490",
+		"in_reply_to_user_id": 19038934,
+		"in_reply_to_user_id_str": "19038934",
+		"in_reply_to_screen_name": "CBCAlerts",
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1153903,
+			"friends_count": 462,
+			"listed_count": 8445,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More @cbcnews PM Justin Trudeau ejects Jody Wilson-Raybould and Jane Philpott from Liberal caucus. Former cabinet ministers will not be permitted to seek re-election under Liberal Party banner. https://t.co/J3pA6vfxfS #cdnpoli"
+	},
+	{
+		"created_at": "Tue Apr 02 22:46:10 +0000 2019",
+		"id": 1113211047609925600,
+		"id_str": "1113211047609925632",
+		"full_text": "@milanesanapolin 그릴버거라니 믿기지가 않군요",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "milanesanapolin",
+					"name": "푸신은 오리를 꿈꾸는가?",
+					"id": 4495381942,
+					"id_str": "4495381942",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113210899420942300,
+		"in_reply_to_status_id_str": "1113210899420942336",
+		"in_reply_to_user_id": 4495381942,
+		"in_reply_to_user_id_str": "4495381942",
+		"in_reply_to_screen_name": "milanesanapolin",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@milanesanapolin 그릴버거라니 믿기지가 않군요"
+	},
+	{
 		"created_at": "Tue Apr 02 22:02:12 +0000 2019",
 		"id": 1113199341882179600,
 		"id_str": "1113199979999297536",
