@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 05:12:52 +0000 2019",
+		"id": 1112941212573425700,
+		"id_str": "1112945975306285056",
+		"full_text": "이 미친 랟팸년이 지금 탐라에 불을 붙이고 다니는데 얘가 본인 일년급여가 1억 넘는다 라고 하면 님 급여통장으로 인증해 주세요 하면 바로 블락치고 도망감 함 해보세요 ㅋㅋㅋㅋㅋ https://t.co/xajsvhslTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112941154847285200,
+					"id_str": "1112941154847285248",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D3H2FW6V4AALysa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3H2FW6V4AALysa.jpg",
+					"url": "https://t.co/xajsvhslTh",
+					"display_url": "pic.twitter.com/xajsvhslTh",
+					"expanded_url": "https://twitter.com/yowatsupman1111/status/1112941212573425664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112941154847285200,
+					"id_str": "1112941154847285248",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D3H2FW6V4AALysa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3H2FW6V4AALysa.jpg",
+					"url": "https://t.co/xajsvhslTh",
+					"display_url": "pic.twitter.com/xajsvhslTh",
+					"expanded_url": "https://twitter.com/yowatsupman1111/status/1112941212573425664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1008000961208438800,
+			"id_str": "1008000961208438784",
+			"name": "예비냄푠찾아헤메는_존버",
+			"screen_name": "yowatsupman1111",
+			"location": "",
+			"description": "sns는 인생의 낭비다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1521,
+			"friends_count": 4419,
+			"listed_count": 13,
+			"created_at": "Sat Jun 16 14:58:51 +0000 2018",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42780,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098440644974923776/Uli06IZI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098440644974923776/Uli06IZI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1008000961208438784/1546697707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 미친 랟팸년이 지금 탐라에 불을 붙이고 다니는데 얘가 본인 일년급여가 1억 넘는다 라고 하면 님 급여통장으로 인증해 주세요 하면 바로 블락치고 도망감 함 해보세요 ㅋㅋㅋㅋㅋ https://t.co/xajsvhslTh"
+	},
+	{
 		"created_at": "Tue Apr 02 02:24:17 +0000 2019",
 		"id": 1112903547463512000,
 		"id_str": "1112903547463512065",
