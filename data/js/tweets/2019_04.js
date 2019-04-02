@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 00:49:27 +0000 2019",
+		"id": 1112589589170933800,
+		"id_str": "1112879681504595971",
+		"full_text": "新しい元号-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA https://t.co/GtIXioMjOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112589374066024400,
+					"id_str": "1112589374066024448",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112589374066024448/pu/img/J-FX_j5PL31ZCHsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112589374066024448/pu/img/J-FX_j5PL31ZCHsh.jpg",
+					"url": "https://t.co/GtIXioMjOs",
+					"display_url": "pic.twitter.com/GtIXioMjOs",
+					"expanded_url": "https://twitter.com/ddmonyai/status/1112589589170933760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112589374066024400,
+					"id_str": "1112589374066024448",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112589374066024448/pu/img/J-FX_j5PL31ZCHsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112589374066024448/pu/img/J-FX_j5PL31ZCHsh.jpg",
+					"url": "https://t.co/GtIXioMjOs",
+					"display_url": "pic.twitter.com/GtIXioMjOs",
+					"expanded_url": "https://twitter.com/ddmonyai/status/1112589589170933760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37317,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112589374066024448/pu/vid/320x180/92Fiiu0L-oHuFP_3.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112589374066024448/pu/vid/640x360/mbz5XjkNsc75wbEN.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112589374066024448/pu/vid/1280x720/u0fG8zeQFjFt3ga4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112589374066024448/pu/pl/cis_9afJfRcKrPcg.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 953289067717738500,
+			"id_str": "953289067717738496",
+			"name": "мопуаi",
+			"screen_name": "ddmonyai",
+			"location": "某ジャパリパーク",
+			"description": "動画編集とかゲーム作りとかやってます！(作れるとは言ってない)  アイコンは@komakitimaruさんより　ヘッダーは@komugi23_氏より\n最近はUE4のテンプレートとソ連で遊んでる人",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2856,
+			"friends_count": 2833,
+			"listed_count": 15,
+			"created_at": "Tue Jan 16 15:33:19 +0000 2018",
+			"favourites_count": 61316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14042,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094954826624978944/K1YkZhcI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094954826624978944/K1YkZhcI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/953289067717738496/1536237596",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14704,
+		"favorite_count": 32038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "新しい元号-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA https://t.co/GtIXioMjOs"
+	},
+	{
 		"created_at": "Mon Apr 01 22:50:51 +0000 2019",
 		"id": 1112849838197039100,
 		"id_str": "1112849838197039105",
