@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 13:16:25 +0000 2019",
+		"id": 1113018948415451100,
+		"id_str": "1113067664497303556",
+		"full_text": "내 앞차는 트럭인가 세단인가. https://t.co/x1VGmBMpX8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113018889993019400,
+					"id_str": "1113018889993019392",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113018889993019392/pu/img/XtQalhipojNQ7l16.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113018889993019392/pu/img/XtQalhipojNQ7l16.jpg",
+					"url": "https://t.co/x1VGmBMpX8",
+					"display_url": "pic.twitter.com/x1VGmBMpX8",
+					"expanded_url": "https://twitter.com/iamquadr/status/1113018948415451138/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113018889993019400,
+					"id_str": "1113018889993019392",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113018889993019392/pu/img/XtQalhipojNQ7l16.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113018889993019392/pu/img/XtQalhipojNQ7l16.jpg",
+					"url": "https://t.co/x1VGmBMpX8",
+					"display_url": "pic.twitter.com/x1VGmBMpX8",
+					"expanded_url": "https://twitter.com/iamquadr/status/1113018948415451138/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19490,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113018889993019392/pu/vid/1280x720/JuCf5w3BXxq85cRI.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113018889993019392/pu/vid/640x360/1iqbMTTR_3H1B26Y.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113018889993019392/pu/vid/320x180/JWBIaOfEDOzoPHkv.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1113018889993019392/pu/pl/xMCGqmMZyjl17bpU.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105138119,
+			"id_str": "105138119",
+			"name": "Jung, Ju-young",
+			"screen_name": "iamquadr",
+			"location": "Seoul, Korea",
+			"description": "할말이 있으면 이쪽으로 :) https://t.co/haTJsavDyY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/haTJsavDyY",
+							"expanded_url": "https://open.kakao.com/me/iamquadr",
+							"display_url": "open.kakao.com/me/iamquadr",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 206,
+			"listed_count": 37,
+			"created_at": "Fri Jan 15 13:27:26 +0000 2010",
+			"favourites_count": 2764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30620,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1728923689/mabinogi_msn_pic_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1728923689/mabinogi_msn_pic_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105138119/1398245252",
+			"profile_link_color": "3A58D1",
+			"profile_sidebar_border_color": "1100FF",
+			"profile_sidebar_fill_color": "F0F5FF",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 앞차는 트럭인가 세단인가. https://t.co/x1VGmBMpX8"
+	},
+	{
+		"created_at": "Tue Apr 02 13:12:00 +0000 2019",
+		"id": 1094979121937956900,
+		"id_str": "1113066551219970048",
+		"full_text": "나도 빔 겅 듀 할래 https://t.co/ZZc0N3NAzg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094979067881746400,
+					"id_str": "1094979067881746432",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIlqSmUcAAwZbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIlqSmUcAAwZbq.jpg",
+					"url": "https://t.co/ZZc0N3NAzg",
+					"display_url": "pic.twitter.com/ZZc0N3NAzg",
+					"expanded_url": "https://twitter.com/_Akamig/status/1094979121937956864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094979067881746400,
+					"id_str": "1094979067881746432",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DzIlqSmUcAAwZbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzIlqSmUcAAwZbq.jpg",
+					"url": "https://t.co/ZZc0N3NAzg",
+					"display_url": "pic.twitter.com/ZZc0N3NAzg",
+					"expanded_url": "https://twitter.com/_Akamig/status/1094979121937956864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 299,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154702781,
+			"id_str": "154702781",
+			"name": "Akamig",
+			"screen_name": "_Akamig",
+			"location": "Glitch City",
+			"description": "Not Akaming Currently / Music / Programming / Electronics / Synthesizer / Games / Reddit / Translate / VA-11 HALL-A",
+			"url": "https://t.co/3IVfoygDlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IVfoygDlS",
+							"expanded_url": "http://Akamig.org",
+							"display_url": "Akamig.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 737,
+			"listed_count": 44,
+			"created_at": "Sat Jun 12 00:13:43 +0000 2010",
+			"favourites_count": 5405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140056,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112716887899533313/lIP_3V13_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112716887899533313/lIP_3V13_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154702781/1522600437",
+			"profile_link_color": "FF007A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0AA8D",
+			"profile_text_color": "F9C098",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나도 빔 겅 듀 할래 https://t.co/ZZc0N3NAzg"
+	},
+	{
 		"created_at": "Tue Apr 02 05:29:09 +0000 2019",
 		"id": 1112949974432510000,
 		"id_str": "1112950070922493952",
