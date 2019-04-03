@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 20:06:05 +0000 2019",
+		"id": 1113532758222147600,
+		"id_str": "1113533148732645377",
+		"full_text": "Talking to @Snowden tonight on @CBCTheNational . He has much to say about Canada, the refugees who helped him, the risks of whistleblowing https://t.co/uS1UEE2wFs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Snowden",
+					"name": "Edward Snowden",
+					"id": 2916305152,
+					"id_str": "2916305152",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "CBCTheNational",
+					"name": "CBC News: The National",
+					"id": 24000965,
+					"id_str": "24000965",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113532743625973800,
+					"id_str": "1113532743625973760",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D3QQIW2XoAAnhp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3QQIW2XoAAnhp9.jpg",
+					"url": "https://t.co/uS1UEE2wFs",
+					"display_url": "pic.twitter.com/uS1UEE2wFs",
+					"expanded_url": "https://twitter.com/adriearsenault/status/1113532758222147584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113532743625973800,
+					"id_str": "1113532743625973760",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D3QQIW2XoAAnhp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3QQIW2XoAAnhp9.jpg",
+					"url": "https://t.co/uS1UEE2wFs",
+					"display_url": "pic.twitter.com/uS1UEE2wFs",
+					"expanded_url": "https://twitter.com/adriearsenault/status/1113532758222147584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31738292,
+			"id_str": "31738292",
+			"name": "Adrienne Arsenault",
+			"screen_name": "adriearsenault",
+			"location": "Toronto. Except when I'm not.",
+			"description": "Senior Correspondent, Co-Host,  CBC's The National. Instagram: arsenaultadrienne",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38005,
+			"friends_count": 1148,
+			"listed_count": 684,
+			"created_at": "Thu Apr 16 11:53:22 +0000 2009",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/142180137/wee_aa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/142180137/wee_aa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31738292/1378927236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Talking to @Snowden tonight on @CBCTheNational . He has much to say about Canada, the refugees who helped him, the risks of whistleblowing https://t.co/uS1UEE2wFs"
+	},
+	{
 		"created_at": "Wed Apr 03 16:33:05 +0000 2019",
 		"id": 1112982175954088000,
 		"id_str": "1113479544478912512",
