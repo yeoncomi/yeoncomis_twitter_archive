@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 16:33:05 +0000 2019",
+		"id": 1112982175954088000,
+		"id_str": "1113479544478912512",
+		"full_text": "원본 사진에 있던 그 사람들은 아니고 ㅋㅋ 한 커플이 박물관? 전시? 를 갔는데 우연히 옷 색깔이 겹친다는 걸 확인하고ㅋㅋㅋ '와 이거 잼겠다!' 싶어서 지나가던 한 분한테 부탁해서 같이 찍자고 했다네요... https://t.co/Os1ny2aqV4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os1ny2aqV4",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1112837495333371904",
+					"display_url": "twitter.com/usmemesKorea/s…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838356674,
+			"id_str": "4838356674",
+			"name": "젯셔",
+			"screen_name": "well_itsrubbish",
+			"location": "굿플레이스에 있는 얼데란 안남시 엄복동 99관할서",
+			"description": "im nobody nobody nobody nobody nobodynobodyNOBODYNOBODYNOBODY N O B O D Y N O B O D Y but pansexual who livin' in internet / 항상 화가 많은 사람 / bye-lingual KOR ENG",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 652,
+			"friends_count": 509,
+			"listed_count": 5,
+			"created_at": "Sun Jan 31 05:43:43 +0000 2016",
+			"favourites_count": 20933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87604,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112730277879533569/JGt-0XcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112730277879533569/JGt-0XcA_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112837495333371900,
+		"quoted_status_id_str": "1112837495333371904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Os1ny2aqV4",
+			"expanded": "https://twitter.com/usmemesKorea/status/1112837495333371904",
+			"display": "twitter.com/usmemesKorea/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 01 22:01:49 +0000 2019",
+			"id": 1112837495333371900,
+			"id_str": "1112837495333371904",
+			"full_text": "나이를 먹었습니다! https://t.co/IcoiOTkt6s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1112837491499819000,
+						"id_str": "1112837491499819008",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D3GXzW2VYAAFbXG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3GXzW2VYAAFbXG.jpg",
+						"url": "https://t.co/IcoiOTkt6s",
+						"display_url": "pic.twitter.com/IcoiOTkt6s",
+						"expanded_url": "https://twitter.com/usmemesKorea/status/1112837495333371904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 972,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 972,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112837491499819000,
+						"id_str": "1112837491499819008",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D3GXzW2VYAAFbXG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3GXzW2VYAAFbXG.jpg",
+						"url": "https://t.co/IcoiOTkt6s",
+						"display_url": "pic.twitter.com/IcoiOTkt6s",
+						"expanded_url": "https://twitter.com/usmemesKorea/status/1112837495333371904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 972,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 972,
+								"h": 793,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1091188738841931800,
+				"id_str": "1091188738841931776",
+				"name": "따끈따끈한 미국 짤방",
+				"screen_name": "usmemesKorea",
+				"location": "",
+				"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14169,
+				"friends_count": 0,
+				"listed_count": 40,
+				"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+				"favourites_count": 90,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 939,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11667,
+			"favorite_count": 6025,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4676,
+		"favorite_count": 1045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원본 사진에 있던 그 사람들은 아니고 ㅋㅋ 한 커플이 박물관? 전시? 를 갔는데 우연히 옷 색깔이 겹친다는 걸 확인하고ㅋㅋㅋ '와 이거 잼겠다!' 싶어서 지나가던 한 분한테 부탁해서 같이 찍자고 했다네요... https://t.co/Os1ny2aqV4"
+	},
+	{
 		"created_at": "Wed Apr 03 06:59:47 +0000 2019",
 		"id": 1113335268797427700,
 		"id_str": "1113335268797427712",
