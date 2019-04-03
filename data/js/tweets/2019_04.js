@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 05:02:34 +0000 2019",
+		"id": 1113154751628181500,
+		"id_str": "1113305770404196357",
+		"full_text": "구글은 올해에만 크롬캐스트 오디오,유튜브 주석,안드로이드 씽스 IoT 지원 제외,랩탑/태블릿 부문 취소,구글 알로 셧다운,VR 스튜디오 스포트라이트 스토리 중단,https://t.co/D6t1KJ76Yx 단축 URL 중단,지메일 IFTTT 지원 중단,구글+ 폐쇄. 브랜드 신뢰의 심각한 문제 https://t.co/nQN0fRJq3A https://t.co/WBvP01xUqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D6t1KJ76Yx",
+					"expanded_url": "http://goo.gl",
+					"display_url": "goo.gl",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/nQN0fRJq3A",
+					"expanded_url": "https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/",
+					"display_url": "arstechnica.com/gadgets/2019/0…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113154750080577500,
+					"id_str": "1113154750080577536",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D3K4WPKXcAA_OTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3K4WPKXcAA_OTq.jpg",
+					"url": "https://t.co/WBvP01xUqh",
+					"display_url": "pic.twitter.com/WBvP01xUqh",
+					"expanded_url": "https://twitter.com/minist/status/1113154751628181504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113154750080577500,
+					"id_str": "1113154750080577536",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D3K4WPKXcAA_OTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3K4WPKXcAA_OTq.jpg",
+					"url": "https://t.co/WBvP01xUqh",
+					"display_url": "pic.twitter.com/WBvP01xUqh",
+					"expanded_url": "https://twitter.com/minist/status/1113154751628181504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "스타트업 WizeIoT / 전 블루홀 / 전 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66067,
+			"friends_count": 699,
+			"listed_count": 930,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/385124190/snoopy_90x90_1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/385124190/snoopy_90x90_1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글은 올해에만 크롬캐스트 오디오,유튜브 주석,안드로이드 씽스 IoT 지원 제외,랩탑/태블릿 부문 취소,구글 알로 셧다운,VR 스튜디오 스포트라이트 스토리 중단,https://t.co/D6t1KJ76Yx 단축 URL 중단,지메일 IFTTT 지원 중단,구글+ 폐쇄. 브랜드 신뢰의 심각한 문제 https://t.co/nQN0fRJq3A https://t.co/WBvP01xUqh"
+	},
+	{
 		"created_at": "Wed Apr 03 04:01:57 +0000 2019",
 		"id": 1113262868726550500,
 		"id_str": "1113290514541961217",
