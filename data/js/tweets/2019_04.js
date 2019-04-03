@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 04:01:57 +0000 2019",
+		"id": 1113262868726550500,
+		"id_str": "1113290514541961217",
+		"full_text": "새 시스템 설명을 들었다. “처음 가입하는 유저가 자기 회원카드 번호를 입력하면\n\n임시 패스워드가 적힌 엽서를 집으로 보냅니다”\n\n어. 응. 디스 이즈 재팬!;;;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225040295,
+			"id_str": "225040295",
+			"name": "SeaBlue",
+			"screen_name": "debirth",
+			"location": "筑波サーキット",
+			"description": "Z1000 & 86",
+			"url": "https://t.co/iJqOVG5x6Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iJqOVG5x6Z",
+							"expanded_url": "http://fightforjustice.info",
+							"display_url": "fightforjustice.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3941,
+			"friends_count": 119,
+			"listed_count": 75,
+			"created_at": "Fri Dec 10 14:30:21 +0000 2010",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45310,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225040295/1399741670",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "새 시스템 설명을 들었다. “처음 가입하는 유저가 자기 회원카드 번호를 입력하면\n\n임시 패스워드가 적힌 엽서를 집으로 보냅니다”\n\n어. 응. 디스 이즈 재팬!;;;"
+	},
+	{
+		"created_at": "Wed Apr 03 03:56:43 +0000 2019",
+		"id": 1113289198625103900,
+		"id_str": "1113289198625103875",
+		"full_text": "@tist0924 기여어여",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tist0924",
+					"name": "티스트/tist",
+					"id": 782944766187016200,
+					"id_str": "782944766187016192",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113220340186964000,
+		"in_reply_to_status_id_str": "1113220340186963968",
+		"in_reply_to_user_id": 782944766187016200,
+		"in_reply_to_user_id_str": "782944766187016192",
+		"in_reply_to_screen_name": "tist0924",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@tist0924 기여어여"
+	},
+	{
+		"created_at": "Wed Apr 03 03:56:28 +0000 2019",
+		"id": 1096050581872037900,
+		"id_str": "1113289133621792769",
+		"full_text": "Really excited to release the 3rd phase of our RE &amp; analysis of #Apple's T2 chip, this time @sirus and Jeremy’s focus is on the XPC communication between the T2 and MacOS \nReport here: https://t.co/PVAGYt3Tgf\nOpen source tooling here: https://t.co/12JTMJtgei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Apple",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sirus",
+					"name": "Mikhail Davidov",
+					"id": 14317812,
+					"id_str": "14317812",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PVAGYt3Tgf",
+					"expanded_url": "https://duo.com/labs/research/apple-t2-xpc",
+					"display_url": "duo.com/labs/research/…",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/12JTMJtgei",
+					"expanded_url": "https://github.com/duo-labs/apple-t2-xpc",
+					"display_url": "github.com/duo-labs/apple…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3170076946,
+			"id_str": "3170076946",
+			"name": "Duo Labs",
+			"screen_name": "duo_labs",
+			"location": "The Internets of Planet Earth",
+			"description": "We are the Research & Development team from @duosec. We build, we break, and we publish it all here - https://t.co/RUMw3jKtfC",
+			"url": "https://t.co/RUMw3jsSo4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RUMw3jsSo4",
+							"expanded_url": "https://labs.duo.com",
+							"display_url": "labs.duo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RUMw3jKtfC",
+							"expanded_url": "https://labs.duo.com",
+							"display_url": "labs.duo.com",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13839,
+			"friends_count": 2170,
+			"listed_count": 260,
+			"created_at": "Wed Apr 15 13:16:33 +0000 2015",
+			"favourites_count": 747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994537725586952192/kcFIkM46_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994537725586952192/kcFIkM46_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3170076946/1528734967",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really excited to release the 3rd phase of our RE &amp; analysis of #Apple's T2 chip, this time @sirus and Jeremy’s focus is on the XPC communication between the T2 and MacOS \nReport here: https://t.co/PVAGYt3Tgf\nOpen source tooling here: https://t.co/12JTMJtgei"
+	},
+	{
 		"created_at": "Wed Apr 03 02:27:30 +0000 2019",
 		"id": 1113266747925102600,
 		"id_str": "1113266747925102592",
