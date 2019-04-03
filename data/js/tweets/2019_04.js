@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 05:32:31 +0000 2019",
+		"id": 1113056272100683800,
+		"id_str": "1113313308575096832",
+		"full_text": "@: 평생 ㅇㅇ할일 없겟지만 &lt; 이거 나중에 꼭 하게 되는 플래그 인 걸 깨닫게 되어서.. 입조심 하기로 함\n\n평생 미국복권 당첨될 일은 없겠지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2899109467,
+			"id_str": "2899109467",
+			"name": "엘레나",
+			"screen_name": "noncomma_fucker",
+			"location": "에너지탁구클럽",
+			"description": "나는 로봇이 아닙니다 ( v )",
+			"url": "https://t.co/BOPUUr1zCD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BOPUUr1zCD",
+							"expanded_url": "https://peing.net/ko/noncomma_fucker",
+							"display_url": "peing.net/ko/noncomma_fu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 86,
+			"listed_count": 4,
+			"created_at": "Fri Nov 14 06:20:53 +0000 2014",
+			"favourites_count": 28954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42350,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112712059219668992/iBxXSUwZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112712059219668992/iBxXSUwZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2899109467/1552638916",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5385,
+		"favorite_count": 709,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@: 평생 ㅇㅇ할일 없겟지만 &lt; 이거 나중에 꼭 하게 되는 플래그 인 걸 깨닫게 되어서.. 입조심 하기로 함\n\n평생 미국복권 당첨될 일은 없겠지만"
+	},
+	{
 		"created_at": "Wed Apr 03 05:02:34 +0000 2019",
 		"id": 1113154751628181500,
 		"id_str": "1113305770404196357",
