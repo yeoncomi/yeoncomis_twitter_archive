@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 21:28:31 +0000 2019",
+		"id": 1113915906847993900,
+		"id_str": "1113916282028449793",
+		"full_text": "3월의 함성은 무엇을 말해주는가\n박근혜역도와 꼭같은 황교안의 당대표당선으로 《자유한국당》은 완전히 《도로박근혜당》, 《박근혜공범당》으로서의 정체를 여지없이 드러내놓았다.\nhttps://t.co/GVB9QcSv5y https://t.co/0zNptB3Qxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GVB9QcSv5y",
+					"expanded_url": "http://uriminzokkiri.com/index.php?ptype=ugisa1&no=1169995&pagenum=1",
+					"display_url": "uriminzokkiri.com/index.php?ptyp…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113915893367500800,
+					"id_str": "1113915893367500800",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Vsmm3U8AAUiO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Vsmm3U8AAUiO9.jpg",
+					"url": "https://t.co/0zNptB3Qxc",
+					"display_url": "pic.twitter.com/0zNptB3Qxc",
+					"expanded_url": "https://twitter.com/uriminzok/status/1113915906847993856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113915893367500800,
+					"id_str": "1113915893367500800",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Vsmm3U8AAUiO9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Vsmm3U8AAUiO9.jpg",
+					"url": "https://t.co/0zNptB3Qxc",
+					"display_url": "pic.twitter.com/0zNptB3Qxc",
+					"expanded_url": "https://twitter.com/uriminzok/status/1113915906847993856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113915893371641900,
+					"id_str": "1113915893371641856",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Vsmm4UIAARsJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Vsmm4UIAARsJ8.jpg",
+					"url": "https://t.co/0zNptB3Qxc",
+					"display_url": "pic.twitter.com/0zNptB3Qxc",
+					"expanded_url": "https://twitter.com/uriminzok/status/1113915906847993856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 638,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113915893388431400,
+					"id_str": "1113915893388431360",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Vsmm8UUAALlL_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Vsmm8UUAALlL_.jpg",
+					"url": "https://t.co/0zNptB3Qxc",
+					"display_url": "pic.twitter.com/0zNptB3Qxc",
+					"expanded_url": "https://twitter.com/uriminzok/status/1113915906847993856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113915893371654100,
+					"id_str": "1113915893371654144",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Vsmm4UUAA0knW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Vsmm4UUAA0knW.jpg",
+					"url": "https://t.co/0zNptB3Qxc",
+					"display_url": "pic.twitter.com/0zNptB3Qxc",
+					"expanded_url": "https://twitter.com/uriminzok/status/1113915906847993856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 638,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 477,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166848234,
+			"id_str": "166848234",
+			"name": "uriminzokkiri",
+			"screen_name": "uriminzok",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/YxRdagdWdi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YxRdagdWdi",
+							"expanded_url": "http://www.uriminzokkiri.com",
+							"display_url": "uriminzokkiri.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15988,
+			"friends_count": 5,
+			"listed_count": 895,
+			"created_at": "Thu Jul 15 04:02:45 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1DC1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041231308872048641/a58TyxjO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041231308872048641/a58TyxjO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166848234/1537084029",
+			"profile_link_color": "00B2B8",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3월의 함성은 무엇을 말해주는가\n박근혜역도와 꼭같은 황교안의 당대표당선으로 《자유한국당》은 완전히 《도로박근혜당》, 《박근혜공범당》으로서의 정체를 여지없이 드러내놓았다.\nhttps://t.co/GVB9QcSv5y https://t.co/0zNptB3Qxc"
+	},
+	{
 		"created_at": "Thu Apr 04 18:39:19 +0000 2019",
 		"id": 1113814448630714400,
 		"id_str": "1113873698539180032",
