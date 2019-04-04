@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 17:31:47 +0000 2019",
+		"id": 1113850155193651200,
+		"id_str": "1113856706625265664",
+		"full_text": "아니 그니까 그 님 가족이 지금 자유한국당 트롤링 때문에 좆되게 생겼다구요 https://t.co/5MMlGi0n2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113850046791839700,
+					"id_str": "1113850046791839745",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Uwt1QUcAECSRn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3Uwt1QUcAECSRn.png",
+					"url": "https://t.co/5MMlGi0n2p",
+					"display_url": "pic.twitter.com/5MMlGi0n2p",
+					"expanded_url": "https://twitter.com/H_H_Funeral/status/1113850155193651200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113850046791839700,
+					"id_str": "1113850046791839745",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Uwt1QUcAECSRn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3Uwt1QUcAECSRn.png",
+					"url": "https://t.co/5MMlGi0n2p",
+					"display_url": "pic.twitter.com/5MMlGi0n2p",
+					"expanded_url": "https://twitter.com/H_H_Funeral/status/1113850155193651200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 583,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3958494252,
+			"id_str": "3958494252",
+			"name": "HelloHappyFuneral",
+			"screen_name": "H_H_Funeral",
+			"location": "문화도시",
+			"description": "Extreme Metal/Bang Dream!/Broken by the Scream/DD오너(초보)/우주세기 건담/기타 배우는 맨/프사는 울집 애옹이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 299,
+			"listed_count": 6,
+			"created_at": "Tue Oct 20 13:47:14 +0000 2015",
+			"favourites_count": 1782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53292,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106611647999664130/JrAO6YiE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106611647999664130/JrAO6YiE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3958494252/1552710986",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "014bb8fd5bfd6755",
+			"url": "https://api.twitter.com/1.1/geo/id/014bb8fd5bfd6755.json",
+			"place_type": "city",
+			"name": "Bucheon-si",
+			"full_name": "Bucheon-si, Republic of Korea",
+			"country_code": "KR",
+			"country": "Republic of Korea",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.738480039431,
+							37.4738660772166
+						],
+						[
+							126.842930727722,
+							37.4738660772166
+						],
+						[
+							126.842930727722,
+							37.5409741402842
+						],
+						[
+							126.738480039431,
+							37.5409741402842
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 그니까 그 님 가족이 지금 자유한국당 트롤링 때문에 좆되게 생겼다구요 https://t.co/5MMlGi0n2p"
+	},
+	{
 		"created_at": "Thu Apr 04 02:29:21 +0000 2019",
 		"id": 1113629598883795000,
 		"id_str": "1113629598883794944",
