@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 18:39:19 +0000 2019",
+		"id": 1113814448630714400,
+		"id_str": "1113873698539180032",
+		"full_text": "속초 고성 산불이 재난영화급으로 심각한상태고 주민들은 극도의 불안함에 떨고있는 상태이고 모두가 인명피해없길 바라는데,\n많이 알려졌으면 좋겠다는 절박한 게시물에 시발 지양해달라는 멘션을 굳이 쓰는거보고 ㅋㅋㅋ진짜 미쳤다고 생각했다 https://t.co/aKWNB2V81K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113814441093517300,
+					"id_str": "1113814441093517313",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D3UQVTsUUAERIPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3UQVTsUUAERIPX.jpg",
+					"url": "https://t.co/aKWNB2V81K",
+					"display_url": "pic.twitter.com/aKWNB2V81K",
+					"expanded_url": "https://twitter.com/zzuukkuummii/status/1113814448630714368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113814441093517300,
+					"id_str": "1113814441093517313",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D3UQVTsUUAERIPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3UQVTsUUAERIPX.jpg",
+					"url": "https://t.co/aKWNB2V81K",
+					"display_url": "pic.twitter.com/aKWNB2V81K",
+					"expanded_url": "https://twitter.com/zzuukkuummii/status/1113814448630714368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873402869411528700,
+			"id_str": "873402869411528704",
+			"name": "쭈",
+			"screen_name": "zzuukkuummii",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 0,
+			"friends_count": 42,
+			"listed_count": 0,
+			"created_at": "Sat Jun 10 04:54:05 +0000 2017",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1192,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051283717354749952/wPvcEaIk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051283717354749952/wPvcEaIk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873402869411528704/1497071249",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7135,
+		"favorite_count": 845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속초 고성 산불이 재난영화급으로 심각한상태고 주민들은 극도의 불안함에 떨고있는 상태이고 모두가 인명피해없길 바라는데,\n많이 알려졌으면 좋겠다는 절박한 게시물에 시발 지양해달라는 멘션을 굳이 쓰는거보고 ㅋㅋㅋ진짜 미쳤다고 생각했다 https://t.co/aKWNB2V81K"
+	},
+	{
 		"created_at": "Thu Apr 04 17:31:47 +0000 2019",
 		"id": 1113850155193651200,
 		"id_str": "1113856706625265664",
