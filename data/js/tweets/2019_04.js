@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 23:37:41 +0000 2019",
+		"id": 1113559889039843300,
+		"id_str": "1113586399784005633",
+		"full_text": "Nirvana 매니저가 최근 내놓은 커트 코베인 전기. 의욕없고 분노한 젊은 세대를 반 즉흥적인 그런지 락로 대변하던 슬래커 영웅...은 캐릭터고, 사실은 엄청 성실하고 열심히 일했다고. 우린 아마 안 될거야\nhttps://t.co/QD4nr1Xpgr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QD4nr1Xpgr",
+					"expanded_url": "https://www.washingtonpost.com/entertainment/music/nirvana-manager-danny-goldberg-waited-25-years-to-write-his-kurt-cobain-book-heres-the-kurt-he-knew/2019/03/27/48686dfc-4ff0-11e9-a3f7-78b7525a8d5f_story.html",
+					"display_url": "washingtonpost.com/entertainment/…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37586683,
+			"id_str": "37586683",
+			"name": "Nakho Kim",
+			"screen_name": "capcold",
+			"location": "Harrisburg, PA",
+			"description": "Researches media. Reads comics. Embraces stupidity.",
+			"url": "https://t.co/jlgpmpTdEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jlgpmpTdEJ",
+							"expanded_url": "http://capcold.net/blog",
+							"display_url": "capcold.net/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74409,
+			"friends_count": 174,
+			"listed_count": 581,
+			"created_at": "Mon May 04 03:42:08 +0000 2009",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C1C1C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1842341898/turn_capcold_vslow_bigger_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37586683/1479329956",
+			"profile_link_color": "6B6B6B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Nirvana 매니저가 최근 내놓은 커트 코베인 전기. 의욕없고 분노한 젊은 세대를 반 즉흥적인 그런지 락로 대변하던 슬래커 영웅...은 캐릭터고, 사실은 엄청 성실하고 열심히 일했다고. 우린 아마 안 될거야\nhttps://t.co/QD4nr1Xpgr"
+	},
+	{
+		"created_at": "Wed Apr 03 23:23:57 +0000 2019",
+		"id": 1113581960314728400,
+		"id_str": "1113582941769043968",
+		"full_text": "More than 750,000 people could lose food stamps under a Trump administration proposal, many of them the poorest of the poor https://t.co/QQdHGYNQF7 https://t.co/HOGLkIZUcA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQdHGYNQF7",
+					"expanded_url": "https://cnn.it/2K4tNbg",
+					"display_url": "cnn.it/2K4tNbg",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113581958364303400,
+					"id_str": "1113581958364303360",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Q85CCWkAAgohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Q85CCWkAAgohB.jpg",
+					"url": "https://t.co/HOGLkIZUcA",
+					"display_url": "pic.twitter.com/HOGLkIZUcA",
+					"expanded_url": "https://twitter.com/CNN/status/1113581960314728449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113581958364303400,
+					"id_str": "1113581958364303360",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Q85CCWkAAgohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Q85CCWkAAgohB.jpg",
+					"url": "https://t.co/HOGLkIZUcA",
+					"display_url": "pic.twitter.com/HOGLkIZUcA",
+					"expanded_url": "https://twitter.com/CNN/status/1113581960314728449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 759251,
+			"id_str": "759251",
+			"name": "CNN",
+			"screen_name": "CNN",
+			"location": "",
+			"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app 📲https://t.co/Xgo5kjIt8c",
+			"url": "http://t.co/IaghNW8Xm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IaghNW8Xm2",
+							"expanded_url": "http://www.cnn.com",
+							"display_url": "cnn.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Xgo5kjIt8c",
+							"expanded_url": "http://cnn.it/apps",
+							"display_url": "cnn.it/apps",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41651362,
+			"friends_count": 1109,
+			"listed_count": 138081,
+			"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 234750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+			"profile_link_color": "004287",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than 750,000 people could lose food stamps under a Trump administration proposal, many of them the poorest of the poor https://t.co/QQdHGYNQF7 https://t.co/HOGLkIZUcA"
+	},
+	{
 		"created_at": "Wed Apr 03 20:06:05 +0000 2019",
 		"id": 1113532758222147600,
 		"id_str": "1113533148732645377",
