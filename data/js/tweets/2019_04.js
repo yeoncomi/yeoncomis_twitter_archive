@@ -1,6 +1,778 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 06:54:34 +0000 2019",
+		"id": 1114058731023622100,
+		"id_str": "1114058731023622145",
+		"full_text": "@_Akamig 원맨쩝쩝 흐아아아앙! https://t.co/kuzHuDzL9A",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Akamig",
+					"name": "Shiburalmig",
+					"id": 154702781,
+					"id_str": "154702781",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114058716637093900,
+					"id_str": "1114058716637093888",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XugBAU4AA_41B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XugBAU4AA_41B.jpg",
+					"url": "https://t.co/kuzHuDzL9A",
+					"display_url": "pic.twitter.com/kuzHuDzL9A",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1114058731023622145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114058716637093900,
+					"id_str": "1114058716637093888",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XugBAU4AA_41B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XugBAU4AA_41B.jpg",
+					"url": "https://t.co/kuzHuDzL9A",
+					"display_url": "pic.twitter.com/kuzHuDzL9A",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1114058731023622145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114058390941003800,
+		"in_reply_to_status_id_str": "1114058390941003776",
+		"in_reply_to_user_id": 154702781,
+		"in_reply_to_user_id_str": "154702781",
+		"in_reply_to_screen_name": "_Akamig",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1026,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@_Akamig 원맨쩝쩝 흐아아아앙! https://t.co/kuzHuDzL9A"
+	},
+	{
+		"created_at": "Fri Apr 05 06:46:31 +0000 2019",
+		"id": 1114056703840936000,
+		"id_str": "1114056703840935936",
+		"full_text": "@_Akamig 독극물",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Akamig",
+					"name": "Shiburalmig",
+					"id": 154702781,
+					"id_str": "154702781",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114056493383315500,
+		"in_reply_to_status_id_str": "1114056493383315457",
+		"in_reply_to_user_id": 154702781,
+		"in_reply_to_user_id_str": "154702781",
+		"in_reply_to_screen_name": "_Akamig",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1026,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_Akamig 독극물"
+	},
+	{
+		"created_at": "Fri Apr 05 06:31:27 +0000 2019",
+		"id": 1114003604099059700,
+		"id_str": "1114052913440149505",
+		"full_text": "경애하는 우리 당의 최고 령도자 황↑교↓안↑ 대표께서는 오늘 아침 벽두부터 화마로 큰 피해를 입은 이재민들을 위무하시었다. 령도자께서 화마의 땅을 밟자마자 불이 스러지고 재가 가라앉으니 주위 인민들이 하늘도 령도자 동지를 돕는다 찬사를 아끼지 않았으며... https://t.co/Swbx4QM6ql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Swbx4QM6ql",
+					"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304",
+					"display_url": "twitter.com/kimhyeongnam21…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 264,
+			"listed_count": 3,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65597,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112623185533403136/ZuYo5UOW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112623185533403136/ZuYo5UOW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113991764828770300,
+		"quoted_status_id_str": "1113991764828770304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Swbx4QM6ql",
+			"expanded": "https://twitter.com/kimhyeongnam21/status/1113991764828770304",
+			"display": "twitter.com/kimhyeongnam21…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 02:28:28 +0000 2019",
+			"id": 1113991764828770300,
+			"id_str": "1113991764828770304",
+			"full_text": "다행히 황교안 대표님께서 아침 일찍 가장 먼저 현장에 달려가셔서 산불현장 점검도 하고 이재민 위로도 하고 산불지도를 하신 덕분에 속초고성은 아침에 주불은 진화가 되었습니다. https://t.co/sj0tDxnKur",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113991162317037600,
+						"id_str": "1113991162317037568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113991162317037600,
+						"id_str": "1113991162317037568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1113991754770931700,
+						"id_str": "1113991754770931712",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxmUnV4AAPdOY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxmUnV4AAPdOY.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 466137320,
+				"id_str": "466137320",
+				"name": "김형남(자유한국당)",
+				"screen_name": "kimhyeongnam21",
+				"location": "대한민국 화성시",
+				"description": "화성이 키운 새인물! 꿈의 화성을 만듭니다! (현)자유한국당 소속/화성시장선거 출마/국회의원선거출마/경희대학교 NGO대학원에서 NGO정책관리 전공",
+				"url": "https://t.co/jJQR3pdAzZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jJQR3pdAzZ",
+								"expanded_url": "http://kimhyeongnam.modoo.at",
+								"display_url": "kimhyeongnam.modoo.at",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2473,
+				"friends_count": 2065,
+				"listed_count": 10,
+				"created_at": "Tue Jan 17 03:08:51 +0000 2012",
+				"favourites_count": 560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3570,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060934377377415169/aJEdlxXZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060934377377415169/aJEdlxXZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/466137320/1424297780",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 193,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 827,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경애하는 우리 당의 최고 령도자 황↑교↓안↑ 대표께서는 오늘 아침 벽두부터 화마로 큰 피해를 입은 이재민들을 위무하시었다. 령도자께서 화마의 땅을 밟자마자 불이 스러지고 재가 가라앉으니 주위 인민들이 하늘도 령도자 동지를 돕는다 찬사를 아끼지 않았으며... https://t.co/Swbx4QM6ql"
+	},
+	{
+		"created_at": "Fri Apr 05 06:29:53 +0000 2019",
+		"id": 1114052520131747800,
+		"id_str": "1114052520131747840",
+		"full_text": "@soap0582 @dabrewdanya 히히 안괴롭힐게요",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soap0582",
+					"name": "비누🍥 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "dabrewdanya",
+					"name": "다브류",
+					"id": 950312094502539300,
+					"id_str": "950312094502539264",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1114051882702393300,
+		"in_reply_to_status_id_str": "1114051882702393344",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "soap0582",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1026,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soap0582 @dabrewdanya 히히 안괴롭힐게요"
+	},
+	{
 		"created_at": "Fri Apr 05 05:15:33 +0000 2019",
 		"id": 1113995743788798000,
 		"id_str": "1114033811245883392",
@@ -564,7 +1336,7 @@ Grailbird.data.tweets_2019_04 =
 		"created_at": "Fri Apr 05 04:52:24 +0000 2019",
 		"id": 1113952316237856800,
 		"id_str": "1114027987630878720",
-		"full_text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦‍♀️🤦‍♀️🤦‍♀️ https://t.co/fch8g3adav",
+		"full_text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦♀️🤦♀️🤦♀️ https://t.co/fch8g3adav",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -597,7 +1369,7 @@ Grailbird.data.tweets_2019_04 =
 			"id_str": "974438521481015296",
 			"name": "(역사의식: 없음)",
 			"screen_name": "221_inthelab",
-			"location": "🏳️‍🌈 A, B / 인장 리베님",
+			"location": "🏳️🌈 A, B / 인장 리베님",
 			"description": "기아가 해체했으면 좋겠어요 / 파시스트 꺼져싫어저리가 / 파시스트 씹천지 체빠 대상 체인블락 수시로 돌리는 중",
 			"url": "https://t.co/WwsTZ26TuJ",
 			"entities": {
@@ -776,7 +1548,7 @@ Grailbird.data.tweets_2019_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦‍♀️🤦‍♀️🤦‍♀️ https://t.co/fch8g3adav"
+		"text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦♀️🤦♀️🤦♀️ https://t.co/fch8g3adav"
 	},
 	{
 		"created_at": "Fri Apr 05 04:51:56 +0000 2019",
