@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 03:51:14 +0000 2019",
+		"id": 1113996302830825500,
+		"id_str": "1114012592354127872",
+		"full_text": "니들 지역구 아니냐? ㅋㅋㅋㅋㅋㅋ https://t.co/4ZpAKNBEJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ZpAKNBEJ0",
+					"expanded_url": "https://twitter.com/Wandava/status/1113991695484444673",
+					"display_url": "twitter.com/Wandava/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150192751,
+			"id_str": "150192751",
+			"name": "Qua",
+			"screen_name": "Rhe_0x",
+			"location": "",
+			"description": "인용 RT 대환영. 반론은 인용 RT로",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 700,
+			"friends_count": 4980,
+			"listed_count": 5,
+			"created_at": "Mon May 31 09:33:01 +0000 2010",
+			"favourites_count": 28505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45911,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113991695484444700,
+		"quoted_status_id_str": "1113991695484444673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4ZpAKNBEJ0",
+			"expanded": "https://twitter.com/Wandava/status/1113991695484444673",
+			"display": "twitter.com/Wandava/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 02:28:11 +0000 2019",
+			"id": 1113991695484444700,
+			"id_str": "1113991695484444673",
+			"full_text": "이해찬 “고성·속초 피해복구 추경 검토”… 나경원 “정치적 목적” https://t.co/KpL6nO0Ptc\n\n......",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KpL6nO0Ptc",
+						"expanded_url": "http://www.newscj.com/news/articleView.html?idxno=618276",
+						"display_url": "newscj.com/news/articleVi…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424382,
+				"id_str": "95424382",
+				"name": "Wandava@A-ROCK2019",
+				"screen_name": "Wandava",
+				"location": "Korea, Seoul",
+				"description": "真の光子力研究所スタッフ 광자력 연구소 스태프(眞) / JAM Project Guardians / 파괴자 좋아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2496,
+				"friends_count": 2409,
+				"listed_count": 52,
+				"created_at": "Tue Dec 08 13:53:14 +0000 2009",
+				"favourites_count": 5235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 783780,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1089718294423040000/Ku6We8BO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089718294423040000/Ku6We8BO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424382/1546191092",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 27,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "니들 지역구 아니냐? ㅋㅋㅋㅋㅋㅋ https://t.co/4ZpAKNBEJ0"
+	},
+	{
 		"created_at": "Fri Apr 05 02:27:54 +0000 2019",
 		"id": 1113991622918729700,
 		"id_str": "1113991622918729729",
