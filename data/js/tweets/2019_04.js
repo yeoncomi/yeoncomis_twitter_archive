@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 18:17:48 +0000 2019",
+		"id": 1114159469108142100,
+		"id_str": "1114230674657931264",
+		"full_text": "초비상인데 15시간 만에 나타난 시장님..＂부인과 여행＂ https://t.co/yqpEKxZghi\n\n대체 무슨 사정이었나 했더니 환갑에 결혼 35주년 기념으로 제주도 가족여행 중... 좌석이 있는 가장 빠른 비행기편으로 귀환한 거라고. 이건 아무래도 불가항력이었다는 생각도 듭니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yqpEKxZghi",
+					"expanded_url": "https://news.v.daum.net/v/20190405213003865",
+					"display_url": "news.v.daum.net/v/201904052130…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "[통판중] 시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 Wannabe / 설덕후 / 만화, 애니메이션, 라이트노벨, 철도, 봉제인형, 귀여운 것 / 덕 아닌 분 팔로우 안받습니다.",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1956,
+			"friends_count": 232,
+			"listed_count": 46,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 292812,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 978,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "초비상인데 15시간 만에 나타난 시장님..＂부인과 여행＂ https://t.co/yqpEKxZghi\n\n대체 무슨 사정이었나 했더니 환갑에 결혼 35주년 기념으로 제주도 가족여행 중... 좌석이 있는 가장 빠른 비행기편으로 귀환한 거라고. 이건 아무래도 불가항력이었다는 생각도 듭니다."
+	},
+	{
 		"created_at": "Fri Apr 05 18:14:56 +0000 2019",
 		"id": 1114088117605023700,
 		"id_str": "1114229951044055040",
