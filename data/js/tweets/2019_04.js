@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 10:32:14 +0000 2019",
+		"id": 1114007923707895800,
+		"id_str": "1114113507547418625",
+		"full_text": "지랄하지마십시오 소방대원분들이 고생하신거지 너네 대표가 지도해서 진화된게 아닙니다 제발 지랄ㄴ https://t.co/Lfr6P1gG3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lfr6P1gG3R",
+					"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304",
+					"display_url": "twitter.com/kimhyeongnam21…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323841142,
+			"id_str": "323841142",
+			"name": "스윙",
+			"screen_name": "IlIlIl1708",
+			"location": "대한민국",
+			"description": "하스스톤, 사이퍼즈, 롤, R6S, 몬헌 월드(PC) / Battlenet - 정뀨랫#3931 / Steam - Swing__(leejk1369) / R6S - Bonika82_Rose FUB FREE",
+			"url": "https://t.co/81QphTj8A0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/81QphTj8A0",
+							"expanded_url": "https://www.youtube.com/watch?v=5o8QpvkJAMk",
+							"display_url": "youtube.com/watch?v=5o8Qpv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 254,
+			"listed_count": 4,
+			"created_at": "Sat Jun 25 14:39:14 +0000 2011",
+			"favourites_count": 1184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97715,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097190830391980032/AMn03vO5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097190830391980032/AMn03vO5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323841142/1546352989",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113991764828770300,
+		"quoted_status_id_str": "1113991764828770304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lfr6P1gG3R",
+			"expanded": "https://twitter.com/kimhyeongnam21/status/1113991764828770304",
+			"display": "twitter.com/kimhyeongnam21…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 02:28:28 +0000 2019",
+			"id": 1113991764828770300,
+			"id_str": "1113991764828770304",
+			"full_text": "다행히 황교안 대표님께서 아침 일찍 가장 먼저 현장에 달려가셔서 산불현장 점검도 하고 이재민 위로도 하고 산불지도를 하신 덕분에 속초고성은 아침에 주불은 진화가 되었습니다. https://t.co/sj0tDxnKur",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113991162317037600,
+						"id_str": "1113991162317037568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113991162317037600,
+						"id_str": "1113991162317037568",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxD1jU4AAZSnX.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1113991754770931700,
+						"id_str": "1113991754770931712",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WxmUnV4AAPdOY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WxmUnV4AAPdOY.jpg",
+						"url": "https://t.co/sj0tDxnKur",
+						"display_url": "pic.twitter.com/sj0tDxnKur",
+						"expanded_url": "https://twitter.com/kimhyeongnam21/status/1113991764828770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 474,
+								"h": 446,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 466137320,
+				"id_str": "466137320",
+				"name": "김형남(자유한국당)",
+				"screen_name": "kimhyeongnam21",
+				"location": "대한민국 화성시",
+				"description": "화성이 키운 새인물! 꿈의 화성을 만듭니다! (현)자유한국당 소속/화성시장선거 출마/국회의원선거출마/경희대학교 NGO대학원에서 NGO정책관리 전공",
+				"url": "https://t.co/jJQR3pdAzZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jJQR3pdAzZ",
+								"expanded_url": "http://kimhyeongnam.modoo.at",
+								"display_url": "kimhyeongnam.modoo.at",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2475,
+				"friends_count": 2064,
+				"listed_count": 11,
+				"created_at": "Tue Jan 17 03:08:51 +0000 2012",
+				"favourites_count": 560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3572,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060934377377415169/aJEdlxXZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060934377377415169/aJEdlxXZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/466137320/1424297780",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 264,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1121,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지랄하지마십시오 소방대원분들이 고생하신거지 너네 대표가 지도해서 진화된게 아닙니다 제발 지랄ㄴ https://t.co/Lfr6P1gG3R"
+	},
+	{
 		"created_at": "Fri Apr 05 06:54:34 +0000 2019",
 		"id": 1114058731023622100,
 		"id_str": "1114058731023622145",
