@@ -1,6 +1,1751 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 05:15:33 +0000 2019",
+		"id": 1113995743788798000,
+		"id_str": "1114033811245883392",
+		"full_text": "재난상황에서 정치관련 논쟁은 가급적 않으려 하는 주의지만, 이건 저만 보기에는 너무 아까워서... https://t.co/BOOAaTPOd8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113995732015386600,
+					"id_str": "1113995732015386624",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W1N1AUEAAomyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W1N1AUEAAomyR.jpg",
+					"url": "https://t.co/BOOAaTPOd8",
+					"display_url": "pic.twitter.com/BOOAaTPOd8",
+					"expanded_url": "https://twitter.com/Ryunan9903/status/1113995743788797952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113995732015386600,
+					"id_str": "1113995732015386624",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W1N1AUEAAomyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W1N1AUEAAomyR.jpg",
+					"url": "https://t.co/BOOAaTPOd8",
+					"display_url": "pic.twitter.com/BOOAaTPOd8",
+					"expanded_url": "https://twitter.com/Ryunan9903/status/1113995743788797952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124786198,
+			"id_str": "124786198",
+			"name": "Ryunan",
+			"screen_name": "Ryunan9903",
+			"location": "한국",
+			"description": "",
+			"url": "https://t.co/jb66CNsELe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jb66CNsELe",
+							"expanded_url": "http://ryunan9903.egloos.com",
+							"display_url": "ryunan9903.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1970,
+			"friends_count": 192,
+			"listed_count": 44,
+			"created_at": "Sat Mar 20 15:15:47 +0000 2010",
+			"favourites_count": 9336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 270132,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112736896923254789/JPHXmXtz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112736896923254789/JPHXmXtz_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재난상황에서 정치관련 논쟁은 가급적 않으려 하는 주의지만, 이건 저만 보기에는 너무 아까워서... https://t.co/BOOAaTPOd8"
+	},
+	{
+		"created_at": "Fri Apr 05 05:11:31 +0000 2019",
+		"id": 1114032770982875100,
+		"id_str": "1114032797142802432",
+		"full_text": "③ 출국만기보험등의 가입대상 사용자, 가입방법ㆍ내용ㆍ관리 및 지급 등에 필요한 사항은 대통령령으로 정하되, 지급시기는 피보험자등이 출국한 때부터 14일(체류자격의 변경, 사망 등에 따라 신청하거나 출국일 이후에 신청하는 경우에는 신청일부터 14일) 이내로 한다.  &lt;개정 2014. 1. 28.&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114030728310706200,
+		"in_reply_to_status_id_str": "1114030728310706177",
+		"in_reply_to_user_id": 712644853692125200,
+		"in_reply_to_user_id_str": "712644853692125185",
+		"in_reply_to_screen_name": "cooker_libre",
+		"user": {
+			"id": 712644853692125200,
+			"id_str": "712644853692125185",
+			"name": "쿠커@리브레위키(料理の神様)",
+			"screen_name": "cooker_libre",
+			"location": "리브레위키 ",
+			"description": "리브레위키 협동조합 소속. 교회다니는 무신론자.소녀전선  ID 1188898\n프로필@daydreamic_kang\n\n비팔로우 알림 껐습니다.",
+			"url": "https://t.co/9HtuOFHmcu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HtuOFHmcu",
+							"expanded_url": "http://librewiki.net",
+							"display_url": "librewiki.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 1102,
+			"listed_count": 11,
+			"created_at": "Wed Mar 23 14:19:08 +0000 2016",
+			"favourites_count": 29796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 396864,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112744411794796545/Rl_1YlNF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112744411794796545/Rl_1YlNF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712644853692125185/1543930942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "③ 출국만기보험등의 가입대상 사용자, 가입방법ㆍ내용ㆍ관리 및 지급 등에 필요한 사항은 대통령령으로 정하되, 지급시기는 피보험자등이 출국한 때부터 14일(체류자격의 변경, 사망 등에 따라 신청하거나 출국일 이후에 신청하는 경우에는 신청일부터 14일) 이내로 한다.  &lt;개정 2014. 1. 28.&gt;"
+	},
+	{
+		"created_at": "Fri Apr 05 05:11:18 +0000 2019",
+		"id": 1114032744613343200,
+		"id_str": "1114032744613343233",
+		"full_text": "@soap0582 @dabrewdanya 비누님 우락부락해요?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soap0582",
+					"name": "비누🍥 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "dabrewdanya",
+					"name": "다브류",
+					"id": 950312094502539300,
+					"id_str": "950312094502539264",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1114032600316694500,
+		"in_reply_to_status_id_str": "1114032600316694528",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "soap0582",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1026,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soap0582 @dabrewdanya 비누님 우락부락해요?"
+	},
+	{
+		"created_at": "Fri Apr 05 05:09:41 +0000 2019",
+		"id": 1114024161939038200,
+		"id_str": "1114032337744875520",
+		"full_text": "어제 재난방송에 대해서도 까고 싶은데, 도대체 KBS는 훌륭한 교본인 NHK를 옆에두고도 왜 재난방송을 이따구로 하는지 알 수가 없다. NHK 지진안내방송을 보면 기자나 리포터 연결이 먼저가 아니라 해당 재난이 일어난 지역을 알리고 대비방법 얘기하는데 초반 5분을 거의 다쓴다 해도 무방함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824126205712601100,
+			"id_str": "824126205712601088",
+			"name": "김준수",
+			"screen_name": "kjs333011",
+			"location": "",
+			"description": "트잉여. 월급루팡. 구파발행을 몹시 저주하는 고양시민",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 195,
+			"listed_count": 13,
+			"created_at": "Wed Jan 25 05:26:13 +0000 2017",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4084,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어제 재난방송에 대해서도 까고 싶은데, 도대체 KBS는 훌륭한 교본인 NHK를 옆에두고도 왜 재난방송을 이따구로 하는지 알 수가 없다. NHK 지진안내방송을 보면 기자나 리포터 연결이 먼저가 아니라 해당 재난이 일어난 지역을 알리고 대비방법 얘기하는데 초반 5분을 거의 다쓴다 해도 무방함"
+	},
+	{
+		"created_at": "Fri Apr 05 04:54:07 +0000 2019",
+		"id": 1114028255927885800,
+		"id_str": "1114028421359624192",
+		"full_text": "SKT LG에서 5G 1호개통 다 유명인들인데 KT 1호개통 그냥 평범한 직원가족이라 웃김",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174828497,
+			"id_str": "174828497",
+			"name": "사샤 (아리사네 분재)",
+			"screen_name": "saschanaz",
+			"location": "뱅드림! 걸즈밴드파티! 605245 (한국)",
+			"description": "NSFW / X.D. Global, 스마일게이트 등 게임업계 사상검증 규탄 및 불매 / 언팔은 제가 직접 하고 싶어요",
+			"url": "https://t.co/be9LK1exyR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/be9LK1exyR",
+							"expanded_url": "http://facebook.com/kagami.rosylight",
+							"display_url": "facebook.com/kagami.rosylig…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1082,
+			"friends_count": 1704,
+			"listed_count": 79,
+			"created_at": "Wed Aug 04 22:56:27 +0000 2010",
+			"favourites_count": 73180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 489803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036958018384973824/xIzr03RL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036958018384973824/xIzr03RL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174828497/1536065104",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEC2FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "SKT LG에서 5G 1호개통 다 유명인들인데 KT 1호개통 그냥 평범한 직원가족이라 웃김"
+	},
+	{
+		"created_at": "Fri Apr 05 04:52:24 +0000 2019",
+		"id": 1113952316237856800,
+		"id_str": "1114027987630878720",
+		"full_text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦‍♀️🤦‍♀️🤦‍♀️ https://t.co/fch8g3adav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fch8g3adav",
+					"expanded_url": "https://twitter.com/2018_jiyeah/status/1113846987625881601",
+					"display_url": "twitter.com/2018_jiyeah/st…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 974438521481015300,
+			"id_str": "974438521481015296",
+			"name": "(역사의식: 없음)",
+			"screen_name": "221_inthelab",
+			"location": "🏳️‍🌈 A, B / 인장 리베님",
+			"description": "기아가 해체했으면 좋겠어요 / 파시스트 꺼져싫어저리가 / 파시스트 씹천지 체빠 대상 체인블락 수시로 돌리는 중",
+			"url": "https://t.co/WwsTZ26TuJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WwsTZ26TuJ",
+							"expanded_url": "https://no-221.postype.com/",
+							"display_url": "no-221.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 125,
+			"listed_count": 3,
+			"created_at": "Fri Mar 16 00:13:42 +0000 2018",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30089,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980424801868136448/gB-yBnHR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980424801868136448/gB-yBnHR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/974438521481015296/1551791874",
+			"profile_link_color": "24A6BD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113846987625881600,
+		"quoted_status_id_str": "1113846987625881601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fch8g3adav",
+			"expanded": "https://twitter.com/2018_jiyeah/status/1113846987625881601",
+			"display": "twitter.com/2018_jiyeah/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 16:53:10 +0000 2019",
+			"id": 1113846987625881600,
+			"id_str": "1113846987625881601",
+			"full_text": "@nuiye_nuiye_ 보는 시각마다 다르겠지만 저는 차라리 지역의 소방서가 필요하지, 서울 소방차를 빨리 오게 하기 위해 고속도로가 필요한 것은 아니라고 생각합니다. 후자의 구조가 서울 중심을 더 강력히 만드는 것일 수도 있습니다.",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nuiye_nuiye_",
+						"name": "녜녜🍦",
+						"id": 864910688581328900,
+						"id_str": "864910688581328896",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1113841088156975100,
+			"in_reply_to_status_id_str": "1113841088156975105",
+			"in_reply_to_user_id": 864910688581328900,
+			"in_reply_to_user_id_str": "864910688581328896",
+			"in_reply_to_screen_name": "nuiye_nuiye_",
+			"user": {
+				"id": 986204122914242600,
+				"id_str": "986204122914242560",
+				"name": "신지예 Shin Ji-ye",
+				"screen_name": "2018_jiyeah",
+				"location": "페미니스트 유토피아",
+				"description": "녹색당 공동운영위원장",
+				"url": "https://t.co/CRckokvBPd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CRckokvBPd",
+								"expanded_url": "https://www.youtube.com/channel/UCz1tqQLwsiUCpiq1uxsmtOg",
+								"display_url": "youtube.com/channel/UCz1tq…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12296,
+				"friends_count": 24,
+				"listed_count": 30,
+				"created_at": "Tue Apr 17 11:26:00 +0000 2018",
+				"favourites_count": 383,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1008,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1052406769576742913/EiVlWzuw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052406769576742913/EiVlWzuw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/986204122914242560/1552281511",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 77,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래 소방서 만든다고 칩시다. 근데 도로가 없어서 소방차 같은 대형 차량이 쉽게 진입하지 못하는 게 지방이라고요 🤦‍♀️🤦‍♀️🤦‍♀️ https://t.co/fch8g3adav"
+	},
+	{
+		"created_at": "Fri Apr 05 04:51:56 +0000 2019",
+		"id": 1113848396094234600,
+		"id_str": "1114027870882394113",
+		"full_text": "@2018_jiyeah @nuiye_nuiye_ 이번 예타면제된 도로사업들은 서울의 소방차가 지방에 쉽게 오려고 만든게 아니라 지방의 소방차가 해당지역에 더빨리 오게만들려고 된사업들이 태반인데 자꾸 이상한 소리하시네요 서울로 가는 도로없어요 이번에 예타면제된 사업들중에 서울과 연관된건없어요 그러니 님발언이 모순적인거지",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2018_jiyeah",
+					"name": "신지예 Shin Ji-ye",
+					"id": 986204122914242600,
+					"id_str": "986204122914242560",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nuiye_nuiye_",
+					"name": "녜녜🍦",
+					"id": 864910688581328900,
+					"id_str": "864910688581328896",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1113846987625881600,
+		"in_reply_to_status_id_str": "1113846987625881601",
+		"in_reply_to_user_id": 986204122914242600,
+		"in_reply_to_user_id_str": "986204122914242560",
+		"in_reply_to_screen_name": "2018_jiyeah",
+		"user": {
+			"id": 2803725553,
+			"id_str": "2803725553",
+			"name": "빛소도 더불어신난당",
+			"screen_name": "lightsalt060225",
+			"location": "",
+			"description": "계정을 다시팠습니다 민주당,달빠 껒",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 433,
+			"listed_count": 8,
+			"created_at": "Thu Sep 11 13:26:43 +0000 2014",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45458,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805741393628971008/HWSBK8nA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805741393628971008/HWSBK8nA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@2018_jiyeah @nuiye_nuiye_ 이번 예타면제된 도로사업들은 서울의 소방차가 지방에 쉽게 오려고 만든게 아니라 지방의 소방차가 해당지역에 더빨리 오게만들려고 된사업들이 태반인데 자꾸 이상한 소리하시네요 서울로 가는 도로없어요 이번에 예타면제된 사업들중에 서울과 연관된건없어요 그러니 님발언이 모순적인거지"
+	},
+	{
+		"created_at": "Fri Apr 05 04:48:30 +0000 2019",
+		"id": 1113991930973548500,
+		"id_str": "1114027004179824640",
+		"full_text": "버라이즌, 한국의 `세계 최초 5G 상용화` 선언에 \"꼼수\" 비난 https://t.co/kH62Xn8C0f\n\n이번 5G 상용화가 슈퍼얍삽이인 건 맞는데 버라이즌 니들이 꼼수 운운할 자격이 있냐 4G 기기에 5G 라우터 달아서 개통하려고 했던 주제에 ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kH62Xn8C0f",
+					"expanded_url": "https://www.mk.co.kr/news/business/view/2019/04/208383/",
+					"display_url": "mk.co.kr/news/business/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70559698,
+			"id_str": "70559698",
+			"name": "生物體",
+			"screen_name": "creaturess",
+			"location": "",
+			"description": "곽형준 명의로 일한, 한일 번역을 맡습니다. 업무 의뢰가 아닌, 출판된 & 될 번역물과 업무 자체에 관한 질문은 받지 않습니다. / 日韓&韓日翻訳家。フォローはどうぞご自由に。/ 낙서 올리는 계정 落書きとかあるサブ垢 : @creaturess82",
+			"url": "https://t.co/sVqSgd0Ubc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sVqSgd0Ubc",
+							"expanded_url": "http://pixiv.me/creaturess",
+							"display_url": "pixiv.me/creaturess",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3255,
+			"friends_count": 2463,
+			"listed_count": 66,
+			"created_at": "Tue Sep 01 01:23:27 +0000 2009",
+			"favourites_count": 2051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 331899,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFDBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114023421535326209/MxBJeCgW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114023421535326209/MxBJeCgW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70559698/1428052137",
+			"profile_link_color": "EF61C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "버라이즌, 한국의 `세계 최초 5G 상용화` 선언에 \"꼼수\" 비난 https://t.co/kH62Xn8C0f\n\n이번 5G 상용화가 슈퍼얍삽이인 건 맞는데 버라이즌 니들이 꼼수 운운할 자격이 있냐 4G 기기에 5G 라우터 달아서 개통하려고 했던 주제에 ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Fri Apr 05 04:43:13 +0000 2019",
+		"id": 1113731200353435600,
+		"id_str": "1114025675663347714",
+		"full_text": "WHAT DID YOU FUCKING DO TO MIKU https://t.co/8Seg9AjQHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Seg9AjQHt",
+					"expanded_url": "https://twitter.com/MaxYmeMusic/status/1113468465761984512",
+					"display_url": "twitter.com/MaxYmeMusic/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067409228887965700,
+			"id_str": "1067409228887965696",
+			"name": "incorrect zombieland quotes",
+			"screen_name": "incorrectzls",
+			"location": "Saga-ken, Japan",
+			"description": "bringing you 100% stolen content from rotten idols | DMs open for suggestions | maintained by @t_mperance & @KaIeidoscopean | header art by @nksm428",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Tue Nov 27 13:26:06 +0000 2018",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112860254478458885/uQtSgYdj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112860254478458885/uQtSgYdj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067409228887965696/1544610718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113468465761984500,
+		"quoted_status_id_str": "1113468465761984512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8Seg9AjQHt",
+			"expanded": "https://twitter.com/MaxYmeMusic/status/1113468465761984512",
+			"display": "twitter.com/MaxYmeMusic/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 15:49:04 +0000 2019",
+			"id": 1113468465761984500,
+			"id_str": "1113468465761984512",
+			"full_text": "J'informe Twitter qu'il est possible de faire des pâtes turquoises en les trempant dans du jus de chou rouge cuit mélangé à une demi cuillère de bicarbonate de soude. Voilà, bon appétit. https://t.co/BZVyyo2g6L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113468452008804400,
+						"id_str": "1113468452008804352",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/D3PVqF6WwAAHlM0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3PVqF6WwAAHlM0.jpg",
+						"url": "https://t.co/BZVyyo2g6L",
+						"display_url": "pic.twitter.com/BZVyyo2g6L",
+						"expanded_url": "https://twitter.com/MaxYmeMusic/status/1113468465761984512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113468452008804400,
+						"id_str": "1113468452008804352",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/D3PVqF6WwAAHlM0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3PVqF6WwAAHlM0.jpg",
+						"url": "https://t.co/BZVyyo2g6L",
+						"display_url": "pic.twitter.com/BZVyyo2g6L",
+						"expanded_url": "https://twitter.com/MaxYmeMusic/status/1113468465761984512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768367498450395100,
+				"id_str": "768367498450395136",
+				"name": "Max Yme",
+				"screen_name": "MaxYmeMusic",
+				"location": "",
+				"description": "Musicien professionnel | Youtubeur Metal + Vegan 'extrémiste' (lol) | HBC SJW",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 902,
+				"friends_count": 122,
+				"listed_count": 15,
+				"created_at": "Wed Aug 24 08:41:02 +0000 2016",
+				"favourites_count": 82,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 578,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113938751049424896/hbsxcLwg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113938751049424896/hbsxcLwg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768367498450395136/1472028556",
+				"profile_link_color": "012789",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3352,
+			"favorite_count": 9347,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 586,
+		"favorite_count": 1581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WHAT DID YOU FUCKING DO TO MIKU https://t.co/8Seg9AjQHt"
+	},
+	{
+		"created_at": "Fri Apr 05 04:35:53 +0000 2019",
+		"id": 1113783206874976300,
+		"id_str": "1114023832052948993",
+		"full_text": "타임라인 보다가 행복회로가 참피 용어래서 ??? 상태인데.\n\n행복회로란 단어가 적어도 10년은 되지 않았나 싶고, 구글링 대충 해도 옛날 거 많이 보이는데  뜬금포로 2016년부터 쓰였다길래 뭔가 했더니 꺼무위키 출처.\n\n꺼무위키에다 누가 대충 써넣으면 그걸로 정의되어서 돌아다니니 어이없긴 하네 https://t.co/laTiZ0bR7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113783023625834500,
+					"id_str": "1113783023625834496",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TzwkgUEAALJK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TzwkgUEAALJK3.jpg",
+					"url": "https://t.co/laTiZ0bR7y",
+					"display_url": "pic.twitter.com/laTiZ0bR7y",
+					"expanded_url": "https://twitter.com/Naridy/status/1113783206874976257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113783023625834500,
+					"id_str": "1113783023625834496",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TzwkgUEAALJK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TzwkgUEAALJK3.jpg",
+					"url": "https://t.co/laTiZ0bR7y",
+					"display_url": "pic.twitter.com/laTiZ0bR7y",
+					"expanded_url": "https://twitter.com/Naridy/status/1113783206874976257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 575,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113783038104588300,
+					"id_str": "1113783038104588289",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TzxacUUAE75af.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3TzxacUUAE75af.png",
+					"url": "https://t.co/laTiZ0bR7y",
+					"display_url": "pic.twitter.com/laTiZ0bR7y",
+					"expanded_url": "https://twitter.com/Naridy/status/1113783206874976257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 656,
+							"h": 618,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 618,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 618,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84243740,
+			"id_str": "84243740",
+			"name": "Naridy@Durandal",
+			"screen_name": "Naridy",
+			"location": "대한민국",
+			"description": "Game Designer (N모사)ㆍUI / UX 기획ㆍFINAL FANTASY XIV (Durandal)ㆍ日本語は少し出来ますが、未熟なので日本語ツイーツはやってません。😂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3789,
+			"friends_count": 223,
+			"listed_count": 93,
+			"created_at": "Thu Oct 22 04:54:43 +0000 2009",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129181,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880023411942055936/_BKn5x9O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880023411942055936/_BKn5x9O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84243740/1505364610",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1530,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타임라인 보다가 행복회로가 참피 용어래서 ??? 상태인데.\n\n행복회로란 단어가 적어도 10년은 되지 않았나 싶고, 구글링 대충 해도 옛날 거 많이 보이는데  뜬금포로 2016년부터 쓰였다길래 뭔가 했더니 꺼무위키 출처.\n\n꺼무위키에다 누가 대충 써넣으면 그걸로 정의되어서 돌아다니니 어이없긴 하네 https://t.co/laTiZ0bR7y"
+	},
+	{
+		"created_at": "Fri Apr 05 04:35:38 +0000 2019",
+		"id": 1114023767183740900,
+		"id_str": "1114023767183740928",
+		"full_text": "Fucking Mike Morden",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1026,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Fucking Mike Morden"
+	},
+	{
+		"created_at": "Fri Apr 05 04:32:14 +0000 2019",
+		"id": 1113842635158904800,
+		"id_str": "1114022912615301121",
+		"full_text": "소방헬기가 못뜨는 이유 https://t.co/xsFqvl1Yjw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113842581031358500,
+					"id_str": "1113842581031358464",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3Up7RIUEAA-FQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3Up7RIUEAA-FQh.jpg",
+					"url": "https://t.co/xsFqvl1Yjw",
+					"display_url": "pic.twitter.com/xsFqvl1Yjw",
+					"expanded_url": "https://twitter.com/SOP_MO_CHA/status/1113842635158904832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113842581031358500,
+					"id_str": "1113842581031358464",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3Up7RIUEAA-FQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3Up7RIUEAA-FQh.jpg",
+					"url": "https://t.co/xsFqvl1Yjw",
+					"display_url": "pic.twitter.com/xsFqvl1Yjw",
+					"expanded_url": "https://twitter.com/SOP_MO_CHA/status/1113842635158904832/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 636,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							191,
+							159
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D3Up7RIUEAA-FQh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027909289816387600,
+			"id_str": "1027909289816387584",
+			"name": "네미오",
+			"screen_name": "SOP_MO_CHA",
+			"location": "",
+			"description": "본진 카토리/소녀전선UID: 547547\n유플레이 닉: M4_SOP_MOD_2\n세븐나이츠 닉: JT솦모챠/\n여장합니다/프배본/앤님:@chocola_ljn",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 490,
+			"friends_count": 450,
+			"listed_count": 1,
+			"created_at": "Fri Aug 10 13:27:27 +0000 2018",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1508,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101800923125276672/auDJPikf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101800923125276672/auDJPikf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027909289816387584/1551802848",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소방헬기가 못뜨는 이유 https://t.co/xsFqvl1Yjw"
+	},
+	{
 		"created_at": "Fri Apr 05 03:51:14 +0000 2019",
 		"id": 1113996302830825500,
 		"id_str": "1114012592354127872",
