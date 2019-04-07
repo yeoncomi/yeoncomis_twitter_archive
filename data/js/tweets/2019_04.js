@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 19:53:59 +0000 2019",
+		"id": 1114958599669846000,
+		"id_str": "1114979656090828800",
+		"full_text": "Andrew Scheer says Prime Minister Trudeau is trying to 'stifle' him by threatening to sue the Tory leader for libel regarding comments about the SNC-Lavaline case. https://t.co/UWbY7Gid9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UWbY7Gid9F",
+					"expanded_url": "https://twitter.com/CBCAlerts/status/1114954727329083393",
+					"display_url": "twitter.com/CBCAlerts/stat…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1154757,
+			"friends_count": 461,
+			"listed_count": 8441,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 122139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114954727329083400,
+		"quoted_status_id_str": "1114954727329083393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UWbY7Gid9F",
+			"expanded": "https://twitter.com/CBCAlerts/status/1114954727329083393",
+			"display": "twitter.com/CBCAlerts/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 07 18:14:56 +0000 2019",
+			"id": 1114954727329083400,
+			"id_str": "1114954727329083393",
+			"full_text": "Conservative Leader Andrew Scheer says the prime minister is threatening to sue him over his comments regarding the SNC-Lavalin file. Scheer says he stands by his criticisms. https://t.co/bm37jEO1hF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bm37jEO1hF",
+						"expanded_url": "http://cbc.ca/1.5088175",
+						"display_url": "cbc.ca/1.5088175",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19038934,
+				"id_str": "19038934",
+				"name": "CBC News Alerts",
+				"screen_name": "CBCAlerts",
+				"location": "Toronto",
+				"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+				"url": "http://t.co/vAXH6cjeS8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vAXH6cjeS8",
+								"expanded_url": "http://www.cbc.ca/news/",
+								"display_url": "cbc.ca/news/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1154757,
+				"friends_count": 461,
+				"listed_count": 8441,
+				"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 122139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 35,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Andrew Scheer says Prime Minister Trudeau is trying to 'stifle' him by threatening to sue the Tory leader for libel regarding comments about the SNC-Lavaline case. https://t.co/UWbY7Gid9F"
+	},
+	{
 		"created_at": "Sun Apr 07 16:02:11 +0000 2019",
 		"id": 1114921320536399900,
 		"id_str": "1114921320536399880",
