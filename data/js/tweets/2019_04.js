@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 05:31:15 +0000 2019",
+		"id": 1114732145837109200,
+		"id_str": "1114762542172082176",
+		"full_text": "맘스터치 과소광고 논란\n한입에 안들어가는거 들어가는척하네 https://t.co/q9az5UzXMn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114732136735445000,
+					"id_str": "1114732136735444992",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hS-OXUEAA1E4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hS-OXUEAA1E4O.jpg",
+					"url": "https://t.co/q9az5UzXMn",
+					"display_url": "pic.twitter.com/q9az5UzXMn",
+					"expanded_url": "https://twitter.com/Seasalt_VC/status/1114732145837109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114732136735445000,
+					"id_str": "1114732136735444992",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hS-OXUEAA1E4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hS-OXUEAA1E4O.jpg",
+					"url": "https://t.co/q9az5UzXMn",
+					"display_url": "pic.twitter.com/q9az5UzXMn",
+					"expanded_url": "https://twitter.com/Seasalt_VC/status/1114732145837109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114732139075915800,
+					"id_str": "1114732139075915777",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hS-XFU0AEh1pA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hS-XFU0AEh1pA.jpg",
+					"url": "https://t.co/q9az5UzXMn",
+					"display_url": "pic.twitter.com/q9az5UzXMn",
+					"expanded_url": "https://twitter.com/Seasalt_VC/status/1114732145837109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1033704802083979300,
+			"id_str": "1033704802083979271",
+			"name": "SeaSalt",
+			"screen_name": "Seasalt_VC",
+			"location": "대한민국 송파구",
+			"description": "고양이과 수인 엄청 좋아해요~!\n섹트 진짜 많은 편이니까 조심하세여\n진짜 진입장벽 낮고 착하니까 다가오세요!\n수인러만 받습니당",
+			"url": "https://t.co/32ZDnWlp8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/32ZDnWlp8g",
+							"expanded_url": "http://ask.fm/Seasalt_VC",
+							"display_url": "ask.fm/Seasalt_VC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 453,
+			"friends_count": 533,
+			"listed_count": 13,
+			"created_at": "Sun Aug 26 13:16:44 +0000 2018",
+			"favourites_count": 8548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10613,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091743806968365056/6GKUcvK8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091743806968365056/6GKUcvK8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033704802083979271/1535736861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맘스터치 과소광고 논란\n한입에 안들어가는거 들어가는척하네 https://t.co/q9az5UzXMn"
+	},
+	{
+		"created_at": "Sun Apr 07 05:30:57 +0000 2019",
+		"id": 1114729473331486700,
+		"id_str": "1114762464078356480",
+		"full_text": "앗 https://t.co/GHmxvswpNF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114729470609330200,
+					"id_str": "1114729470609330181",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hQjCRUEAU6g_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hQjCRUEAU6g_M.jpg",
+					"url": "https://t.co/GHmxvswpNF",
+					"display_url": "pic.twitter.com/GHmxvswpNF",
+					"expanded_url": "https://twitter.com/_TanMak/status/1114729473331486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1746,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114729470609330200,
+					"id_str": "1114729470609330181",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hQjCRUEAU6g_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hQjCRUEAU6g_M.jpg",
+					"url": "https://t.co/GHmxvswpNF",
+					"display_url": "pic.twitter.com/GHmxvswpNF",
+					"expanded_url": "https://twitter.com/_TanMak/status/1114729473331486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1746,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.wakamesoba98.net/sobacha/\" rel=\"nofollow\">SobaCha</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 939309578,
+			"id_str": "939309578",
+			"name": "TanMak™",
+			"screen_name": "_TanMak",
+			"location": "앗시발배터리가",
+			"description": "합리적 현질만 하는 프로 게",
+			"url": "https://t.co/39pvcjAK1y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/39pvcjAK1y",
+							"expanded_url": "https://ask.fm/ghddlrk1",
+							"display_url": "ask.fm/ghddlrk1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 546,
+			"listed_count": 7,
+			"created_at": "Sat Nov 10 15:36:45 +0000 2012",
+			"favourites_count": 7071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101774,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090971626198331397/O0AgdfWk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090971626198331397/O0AgdfWk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/939309578/1493055715",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앗 https://t.co/GHmxvswpNF"
+	},
+	{
+		"created_at": "Sun Apr 07 05:30:00 +0000 2019",
+		"id": 1114751388070830100,
+		"id_str": "1114762225179172866",
+		"full_text": "야 최저점수도 아니고 무려 최고점수가 69점임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ID6k2hTGrR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114751384287494100,
+					"id_str": "1114751384287494144",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hkelFUwAAwJpU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3hkelFUwAAwJpU.png",
+					"url": "https://t.co/ID6k2hTGrR",
+					"display_url": "pic.twitter.com/ID6k2hTGrR",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1114751388070830080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114751384287494100,
+					"id_str": "1114751384287494144",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hkelFUwAAwJpU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3hkelFUwAAwJpU.png",
+					"url": "https://t.co/ID6k2hTGrR",
+					"display_url": "pic.twitter.com/ID6k2hTGrR",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1114751388070830080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 591,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, England",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 일본인 :: 한국어ok :: 사진과 여행, 먹고 마시는 것이 취미 :: Benz C클래스 그릴 오너 // 사진계정 @photo_berliquet",
+			"url": "https://t.co/B9v5jUZyFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B9v5jUZyFX",
+							"expanded_url": "https://peing.net/ko/ch_berliquet?event=0",
+							"display_url": "peing.net/ko/ch_berlique…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1304,
+			"friends_count": 492,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 20179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95636,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1554355979",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 최저점수도 아니고 무려 최고점수가 69점임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ID6k2hTGrR"
+	},
+	{
 		"created_at": "Sun Apr 07 03:17:40 +0000 2019",
 		"id": 1114728883553689600,
 		"id_str": "1114728921499484170",
