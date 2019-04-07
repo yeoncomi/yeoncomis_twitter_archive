@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 03:17:40 +0000 2019",
+		"id": 1114728883553689600,
+		"id_str": "1114728921499484170",
+		"full_text": "자아성찰 https://t.co/6Ozpc47o8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114728865807528000,
+					"id_str": "1114728865807527936",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3hP_1NU8AApDYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3hP_1NU8AApDYL.jpg",
+					"url": "https://t.co/6Ozpc47o8l",
+					"display_url": "pic.twitter.com/6Ozpc47o8l",
+					"expanded_url": "https://twitter.com/politician_jjal/status/1114728883553689600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114728865807528000,
+					"id_str": "1114728865807527936",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3hP_1NU8AApDYL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3hP_1NU8AApDYL.jpg",
+					"url": "https://t.co/6Ozpc47o8l",
+					"display_url": "pic.twitter.com/6Ozpc47o8l",
+					"expanded_url": "https://twitter.com/politician_jjal/status/1114728883553689600/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							225,
+							124
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D3hP_1NU8AApDYL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2267496194,
+			"id_str": "2267496194",
+			"name": "정치짤방",
+			"screen_name": "politician_jjal",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64716,
+			"friends_count": 0,
+			"listed_count": 235,
+			"created_at": "Sun Dec 29 14:50:16 +0000 2013",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111042205735702528/eyy0pSum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111042205735702528/eyy0pSum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2267496194/1527173586",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자아성찰 https://t.co/6Ozpc47o8l"
+	},
+	{
 		"created_at": "Sun Apr 07 03:16:45 +0000 2019",
 		"id": 1114728690472996900,
 		"id_str": "1114728690472996864",
@@ -2832,7 +3006,7 @@ Grailbird.data.tweets_2019_04 =
 			"user": {
 				"id": 1088097447841157100,
 				"id_str": "1088097447841157120",
-				"name": "👉👩‍💻글쓰는여자👩‍💻👈",
+				"name": "👉👩💻글쓰는여자👩💻👈",
 				"screen_name": "feminovel",
 				"location": "",
 				"description": "/ 탈코힘조 / 4B / 탈노선 / 야망보지 / 박복권 지지X /  트랜스젠더 인권 지지하지만 페미니즘에 쓰까먹지마세요 / 트랜스젠더, 젠더론 더 이상 언급 안하려고 했는데 빡침 / RT가 반드시 동의는 아닙니다 / 인알 가끔못봐요\n조아라에서 연재중 /지적이나 자유로운 토론 환영",
