@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 22:56:00 +0000 2019",
+		"id": 1115387847270264800,
+		"id_str": "1115387847270264832",
+		"full_text": "@soap0582 음 그러면 머보내드리지",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soap0582",
+					"name": "비누🍥 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115385718912634900,
+		"in_reply_to_status_id_str": "1115385718912634881",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "soap0582",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1029,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soap0582 음 그러면 머보내드리지"
+	},
+	{
+		"created_at": "Mon Apr 08 22:45:48 +0000 2019",
+		"id": 1115116845353193500,
+		"id_str": "1115385280381341697",
+		"full_text": "이낙연 충리 황교안 보다 의전 덜 챙긴다는 점 하나로도 황교안 XX 보다 100배는 낫다고 했을 정도... 매일같이 세종, 서울을 오가면서 식사도 기차에서 도시락으로 해결. https://t.co/hGArTAKZve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115116843763552300,
+					"id_str": "1115116843763552257",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D3mw3HuU0AEgxzK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3mw3HuU0AEgxzK.jpg",
+					"url": "https://t.co/hGArTAKZve",
+					"display_url": "pic.twitter.com/hGArTAKZve",
+					"expanded_url": "https://twitter.com/seraph506/status/1115116845353193472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115116843763552300,
+					"id_str": "1115116843763552257",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D3mw3HuU0AEgxzK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3mw3HuU0AEgxzK.jpg",
+					"url": "https://t.co/hGArTAKZve",
+					"display_url": "pic.twitter.com/hGArTAKZve",
+					"expanded_url": "https://twitter.com/seraph506/status/1115116845353193472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.altools.co.kr\" rel=\"nofollow\">ALToolbar_Korea</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109222522,
+			"id_str": "109222522",
+			"name": "박성래",
+			"screen_name": "seraph506",
+			"location": "Seoul",
+			"description": "헬조선 게임개발노동자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3108,
+			"friends_count": 1184,
+			"listed_count": 55,
+			"created_at": "Thu Jan 28 10:31:02 +0000 2010",
+			"favourites_count": 2579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 430095,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106104271320244225/tqS4DqaO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106104271320244225/tqS4DqaO_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이낙연 충리 황교안 보다 의전 덜 챙긴다는 점 하나로도 황교안 XX 보다 100배는 낫다고 했을 정도... 매일같이 세종, 서울을 오가면서 식사도 기차에서 도시락으로 해결. https://t.co/hGArTAKZve"
+	},
+	{
+		"created_at": "Mon Apr 08 22:42:30 +0000 2019",
+		"id": 1115377740130033700,
+		"id_str": "1115384448730587138",
+		"full_text": "그리고 내 얼굴 키 몸무게까지 까이는 걸 보고 잤구만... 키랑 몸무게는 대체 어케 깠는지도 몰겄다. 당장 내 신상 지키는 게 급하네요 네...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115377355428515800,
+		"in_reply_to_status_id_str": "1115377355428515841",
+		"in_reply_to_user_id": 785892397502697500,
+		"in_reply_to_user_id_str": "785892397502697472",
+		"in_reply_to_screen_name": "Quarks_3_",
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 265,
+			"listed_count": 4,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 내 얼굴 키 몸무게까지 까이는 걸 보고 잤구만... 키랑 몸무게는 대체 어케 깠는지도 몰겄다. 당장 내 신상 지키는 게 급하네요 네..."
+	},
+	{
+		"created_at": "Mon Apr 08 22:42:29 +0000 2019",
+		"id": 1115377355428515800,
+		"id_str": "1115384444574031875",
+		"full_text": "KFC 부장/대변인 어쩌고 양반 성함 지우란 지적이 계속 오는데요... 아니 단체의 장이면 저 정도 발언에 대한 책임을 지기에 오픈 카톡에 성명을 공개하지 않습니까... 정상적인 단체면 이미 공개돼 있을 테니 내가 공개해서 드러난 것도 딱히 아닐 텐데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 265,
+			"listed_count": 4,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66008,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "KFC 부장/대변인 어쩌고 양반 성함 지우란 지적이 계속 오는데요... 아니 단체의 장이면 저 정도 발언에 대한 책임을 지기에 오픈 카톡에 성명을 공개하지 않습니까... 정상적인 단체면 이미 공개돼 있을 테니 내가 공개해서 드러난 것도 딱히 아닐 텐데..."
+	},
+	{
+		"created_at": "Mon Apr 08 22:34:29 +0000 2019",
+		"id": 1115379909654863900,
+		"id_str": "1115382434839711744",
+		"full_text": "https://t.co/XpOHIDOWpx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115379907305959400,
+					"id_str": "1115379907305959424",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3qgHbyUcAAX2_O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3qgHbyUcAAX2_O.jpg",
+					"url": "https://t.co/XpOHIDOWpx",
+					"display_url": "pic.twitter.com/XpOHIDOWpx",
+					"expanded_url": "https://twitter.com/bezhine/status/1115379909654863874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 782,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115379907305959400,
+					"id_str": "1115379907305959424",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3qgHbyUcAAX2_O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3qgHbyUcAAX2_O.jpg",
+					"url": "https://t.co/XpOHIDOWpx",
+					"display_url": "pic.twitter.com/XpOHIDOWpx",
+					"expanded_url": "https://twitter.com/bezhine/status/1115379909654863874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 782,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2511973291,
+			"id_str": "2511973291",
+			"name": "그냥 잡부",
+			"screen_name": "bezhine",
+			"location": "",
+			"description": "salary hacker / anti-empowering / fake worker",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2766,
+			"friends_count": 481,
+			"listed_count": 52,
+			"created_at": "Wed May 21 08:31:09 +0000 2014",
+			"favourites_count": 5247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 193,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057085179406077952/tWpdEVy2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057085179406077952/tWpdEVy2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511973291/1538034261",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/XpOHIDOWpx"
+	},
+	{
+		"created_at": "Mon Apr 08 22:33:50 +0000 2019",
+		"id": 1115382268199964700,
+		"id_str": "1115382268199964672",
+		"full_text": "@soap0582 엽서 보내드릴까요",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soap0582",
+					"name": "비누🍥 @VRC",
+					"id": 2499037550,
+					"id_str": "2499037550",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115382215263653900,
+		"in_reply_to_status_id_str": "1115382215263653888",
+		"in_reply_to_user_id": 2499037550,
+		"in_reply_to_user_id_str": "2499037550",
+		"in_reply_to_screen_name": "soap0582",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1029,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soap0582 엽서 보내드릴까요"
+	},
+	{
 		"created_at": "Mon Apr 08 21:38:19 +0000 2019",
 		"id": 1115057519225757700,
 		"id_str": "1115368296998526981",
