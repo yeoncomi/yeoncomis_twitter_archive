@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 21:38:19 +0000 2019",
+		"id": 1115057519225757700,
+		"id_str": "1115368296998526981",
+		"full_text": "[깍지@기글하드] 에어팟 짝퉁의 진화과정\nhttps://t.co/nHvuBb85BF\n처음엔 크기부터 달랐음. 하단 마이크를 달고 페어링 버튼을 없앰. 케이스를 고도화. W1칩 기능 카피에 성공해 iOS에서 페어링 팝업 띄울 수 있음. 이젠 정품인증도 됨 https://t.co/SZcrgNcHTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nHvuBb85BF",
+					"expanded_url": "https://gigglehd.com/gg/lifetech/4679802",
+					"display_url": "gigglehd.com/gg/lifetech/46…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115057510572888000,
+					"id_str": "1115057510572888064",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3l65eXUEAAhYpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3l65eXUEAAhYpW.jpg",
+					"url": "https://t.co/SZcrgNcHTw",
+					"display_url": "pic.twitter.com/SZcrgNcHTw",
+					"expanded_url": "https://twitter.com/LaruYan/status/1115057519225757697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115057510572888000,
+					"id_str": "1115057510572888064",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3l65eXUEAAhYpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3l65eXUEAAhYpW.jpg",
+					"url": "https://t.co/SZcrgNcHTw",
+					"display_url": "pic.twitter.com/SZcrgNcHTw",
+					"expanded_url": "https://twitter.com/LaruYan/status/1115057519225757697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115057510166097900,
+					"id_str": "1115057510166097920",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3l65c2U8AAtkv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3l65c2U8AAtkv3.jpg",
+					"url": "https://t.co/SZcrgNcHTw",
+					"display_url": "pic.twitter.com/SZcrgNcHTw",
+					"expanded_url": "https://twitter.com/LaruYan/status/1115057519225757697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115057510371680300,
+					"id_str": "1115057510371680256",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3l65dnV4AAhsfs.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3l65dnV4AAhsfs.png",
+					"url": "https://t.co/SZcrgNcHTw",
+					"display_url": "pic.twitter.com/SZcrgNcHTw",
+					"expanded_url": "https://twitter.com/LaruYan/status/1115057519225757697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 587,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 587,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 587,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115057510325424100,
+					"id_str": "1115057510325424128",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3l65dcUEAAffZD.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3l65dcUEAAffZD.png",
+					"url": "https://t.co/SZcrgNcHTw",
+					"display_url": "pic.twitter.com/SZcrgNcHTw",
+					"expanded_url": "https://twitter.com/LaruYan/status/1115057519225757697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 348,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 348,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 348,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749257340533153800,
+			"id_str": "749257340533153792",
+			"name": "라루얀 / 말썽쟁이 구운 경단 🍡",
+			"screen_name": "LaruYan",
+			"location": "",
+			"description": "\"기쁜 일도 슬픈일도 전부 동그랗게\"\n\n초면죄송 안하셔도 되요. 불편하시다면 속으로 삭히는 대신, 말로 제보해주세요. 말 안걸어주시면 구독이라 생각할게요.\n자세한 것은 웹사이트에서. for English, refer website.\n\n블언블 의심 전에: @LaruYanKaPothoa",
+			"url": "https://t.co/Jo8lpf8fXq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jo8lpf8fXq",
+							"expanded_url": "https://blog.laruyan.moe/2018/12/blog-post_64.html",
+							"display_url": "blog.laruyan.moe/2018/12/blog-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 113,
+			"listed_count": 25,
+			"created_at": "Sat Jul 02 15:04:05 +0000 2016",
+			"favourites_count": 5271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749257340533153792/1467474106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[깍지@기글하드] 에어팟 짝퉁의 진화과정\nhttps://t.co/nHvuBb85BF\n처음엔 크기부터 달랐음. 하단 마이크를 달고 페어링 버튼을 없앰. 케이스를 고도화. W1칩 기능 카피에 성공해 iOS에서 페어링 팝업 띄울 수 있음. 이젠 정품인증도 됨 https://t.co/SZcrgNcHTw"
+	},
+	{
+		"created_at": "Mon Apr 08 21:37:59 +0000 2019",
+		"id": 1115368216400805900,
+		"id_str": "1115368216400805888",
+		"full_text": "@Ai_Minachan 물론 저도 그렇지만",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ai_Minachan",
+					"name": "미나",
+					"id": 3195435608,
+					"id_str": "3195435608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115368156082593800,
+		"in_reply_to_status_id_str": "1115368156082593793",
+		"in_reply_to_user_id": 3195435608,
+		"in_reply_to_user_id_str": "3195435608",
+		"in_reply_to_screen_name": "Ai_Minachan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1029,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ai_Minachan 물론 저도 그렇지만"
+	},
+	{
+		"created_at": "Mon Apr 08 21:37:48 +0000 2019",
+		"id": 1115366483536822300,
+		"id_str": "1115368168661217280",
+		"full_text": "Today is the special day of everyone's favorite tsundere 🥳\n\nHAPPY BIRTHDAY KIRINOヽ(*´∀`)ﾉﾞ https://t.co/23idXLkYoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115365148145926100,
+					"id_str": "1115365148145926145",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D3qSsVoWwAEojPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3qSsVoWwAEojPb.jpg",
+					"url": "https://t.co/23idXLkYoP",
+					"display_url": "pic.twitter.com/23idXLkYoP",
+					"expanded_url": "https://twitter.com/Kirinodere/status/1115366483536822278/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1959,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115365148145926100,
+					"id_str": "1115365148145926145",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D3qSsVoWwAEojPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3qSsVoWwAEojPb.jpg",
+					"url": "https://t.co/23idXLkYoP",
+					"display_url": "pic.twitter.com/23idXLkYoP",
+					"expanded_url": "https://twitter.com/Kirinodere/status/1115366483536822278/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1959,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 939351600,
+			"id_str": "939351600",
+			"name": "Kiririn",
+			"screen_name": "Kirinodere",
+			"location": "Inside my closet",
+			"description": "Moe online persona or something. I probably watch too much anime and you guys are all hentai bakas! also hecking HECK I'm not a teacher anymore I WORK IN DESIGN",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42645,
+			"friends_count": 305,
+			"listed_count": 219,
+			"created_at": "Sat Nov 10 16:02:00 +0000 2012",
+			"favourites_count": 39634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": true,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078750377506410497/TPDpNN2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078750377506410497/TPDpNN2B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/939351600/1431282533",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "moderator"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the special day of everyone's favorite tsundere 🥳\n\nHAPPY BIRTHDAY KIRINOヽ(*´∀`)ﾉﾞ https://t.co/23idXLkYoP"
+	},
+	{
+		"created_at": "Mon Apr 08 21:37:35 +0000 2019",
+		"id": 1115368113476739100,
+		"id_str": "1115368113476739072",
+		"full_text": "@Ai_Minachan 음란해요!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ai_Minachan",
+					"name": "미나",
+					"id": 3195435608,
+					"id_str": "3195435608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115367914478002200,
+		"in_reply_to_status_id_str": "1115367914478002176",
+		"in_reply_to_user_id": 3195435608,
+		"in_reply_to_user_id_str": "3195435608",
+		"in_reply_to_screen_name": "Ai_Minachan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1029,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ai_Minachan 음란해요!"
+	},
+	{
 		"created_at": "Mon Apr 08 21:16:57 +0000 2019",
 		"id": 1115362922958450700,
 		"id_str": "1115362922958450688",
