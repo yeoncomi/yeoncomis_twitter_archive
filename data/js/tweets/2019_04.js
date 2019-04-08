@@ -1,6 +1,1247 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 17:06:34 +0000 2019",
+		"id": 1115152245027262500,
+		"id_str": "1115299911342276620",
+		"full_text": "@kfc_ssangfe 대학이라는 자유와 진리의 전당에서, 소수자의 권익을 위한 모임이 다른 소수자를 탄압하는 모습을 2019년에 제 눈으로 보게 될 줄은 몰랐습니다. 사상에는 자유가 있고 말에는 권리가 있겠다고 변명하시려거든 왜 제 의문에 대한 대응이 차단이었는지에 대한 대답도 하셨으면 좋겠단 말씀을 드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfc_ssangfe",
+					"name": "경북대학교 페미니스트 모임 KFC:쌍페(쌍도의 페미)",
+					"id": 997425822637088800,
+					"id_str": "997425822637088770",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115151204080730100,
+		"in_reply_to_status_id_str": "1115151204080730112",
+		"in_reply_to_user_id": 785892397502697500,
+		"in_reply_to_user_id_str": "785892397502697472",
+		"in_reply_to_screen_name": "Quarks_3_",
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 265,
+			"listed_count": 3,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66006,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kfc_ssangfe 대학이라는 자유와 진리의 전당에서, 소수자의 권익을 위한 모임이 다른 소수자를 탄압하는 모습을 2019년에 제 눈으로 보게 될 줄은 몰랐습니다. 사상에는 자유가 있고 말에는 권리가 있겠다고 변명하시려거든 왜 제 의문에 대한 대응이 차단이었는지에 대한 대답도 하셨으면 좋겠단 말씀을 드립니다."
+	},
+	{
+		"created_at": "Mon Apr 08 17:06:32 +0000 2019",
+		"id": 1115151204080730100,
+		"id_str": "1115299903079497731",
+		"full_text": "@kfc_ssangfe 경북대학교 페미니스트 모임은 트랜스 혐오에 대해 사과하시던가, 사과를 하시기 싫으시면 경북대학교 TERF 모임이라고 명칭을 변경하시던가 하십시오. 명칭은 포괄적으로 지어 놓고 포괄적이지 못 한 행보를 보임은 대학과 다른 학우들에 대한 기만 아닙니까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfc_ssangfe",
+					"name": "경북대학교 페미니스트 모임 KFC:쌍페(쌍도의 페미)",
+					"id": 997425822637088800,
+					"id_str": "997425822637088770",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 997425822637088800,
+		"in_reply_to_user_id_str": "997425822637088770",
+		"in_reply_to_screen_name": "kfc_ssangfe",
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 265,
+			"listed_count": 3,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66006,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 329,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kfc_ssangfe 경북대학교 페미니스트 모임은 트랜스 혐오에 대해 사과하시던가, 사과를 하시기 싫으시면 경북대학교 TERF 모임이라고 명칭을 변경하시던가 하십시오. 명칭은 포괄적으로 지어 놓고 포괄적이지 못 한 행보를 보임은 대학과 다른 학우들에 대한 기만 아닙니까?"
+	},
+	{
+		"created_at": "Mon Apr 08 17:06:21 +0000 2019",
+		"id": 1115153878712901600,
+		"id_str": "1115299855138582528",
+		"full_text": "@kfc_ssangfe 타인들의 이름을 기만하는 자리에 어찌 본인의 사상을 대변함이 있겠습니까? 소수자의 이름을 어찌 다른 소수자들을 탄압하는데 이용해 먹는단 말입니까? 페미니스트란 이름이 부끄럽지도 않습니까? 제대로 된 입장이 근시일 내에 돌아오지 않는다면 저로서도 더 본격적인 대응을 고려하겠습니다. https://t.co/et6G5E23yT",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfc_ssangfe",
+					"name": "경북대학교 페미니스트 모임 KFC:쌍페(쌍도의 페미)",
+					"id": 997425822637088800,
+					"id_str": "997425822637088770",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115153867858006000,
+					"id_str": "1115153867858006016",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3nSiNOUUAAi1Ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3nSiNOUUAAi1Ue.jpg",
+					"url": "https://t.co/et6G5E23yT",
+					"display_url": "pic.twitter.com/et6G5E23yT",
+					"expanded_url": "https://twitter.com/Quarks_3_/status/1115153878712901632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115153867858006000,
+					"id_str": "1115153867858006016",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3nSiNOUUAAi1Ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3nSiNOUUAAi1Ue.jpg",
+					"url": "https://t.co/et6G5E23yT",
+					"display_url": "pic.twitter.com/et6G5E23yT",
+					"expanded_url": "https://twitter.com/Quarks_3_/status/1115153878712901632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115152245027262500,
+		"in_reply_to_status_id_str": "1115152245027262464",
+		"in_reply_to_user_id": 785892397502697500,
+		"in_reply_to_user_id_str": "785892397502697472",
+		"in_reply_to_screen_name": "Quarks_3_",
+		"user": {
+			"id": 785892397502697500,
+			"id_str": "785892397502697472",
+			"name": "쿼크세개",
+			"screen_name": "Quarks_3_",
+			"location": "대한민국 대구광역시",
+			"description": "SCP 재단 한국어 위키의 관리자입니다. 뒷계: https://t.co/HJKlK27X5L",
+			"url": "https://t.co/JqEZSHYga0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JqEZSHYga0",
+							"expanded_url": "http://ko.scp-wiki.net/quarks-3",
+							"display_url": "ko.scp-wiki.net/quarks-3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HJKlK27X5L",
+							"expanded_url": "http://open.kakao.com/o/gInJjrN",
+							"display_url": "open.kakao.com/o/gInJjrN",
+							"indices": [
+								27,
+								50
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 265,
+			"listed_count": 3,
+			"created_at": "Tue Oct 11 17:18:43 +0000 2016",
+			"favourites_count": 12865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66006,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114185716219748353/VtB5G8g1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/785892397502697472/1498356141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@kfc_ssangfe 타인들의 이름을 기만하는 자리에 어찌 본인의 사상을 대변함이 있겠습니까? 소수자의 이름을 어찌 다른 소수자들을 탄압하는데 이용해 먹는단 말입니까? 페미니스트란 이름이 부끄럽지도 않습니까? 제대로 된 입장이 근시일 내에 돌아오지 않는다면 저로서도 더 본격적인 대응을 고려하겠습니다. https://t.co/et6G5E23yT"
+	},
+	{
+		"created_at": "Mon Apr 08 16:58:05 +0000 2019",
+		"id": 1114765111581761500,
+		"id_str": "1115297774482800641",
+		"full_text": "뭘 감사해하고 앉아있어ㅋㅋㅋㅋ 트랜스혐오자한테 배우는 페미니즘 지랄들한다 진짜 https://t.co/RguVPJJubZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114765103398703100,
+					"id_str": "1114765103398703104",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hw9IwU0AA80fi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hw9IwU0AA80fi.jpg",
+					"url": "https://t.co/RguVPJJubZ",
+					"display_url": "pic.twitter.com/RguVPJJubZ",
+					"expanded_url": "https://twitter.com/babbeum/status/1114765111581761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 940,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114765103398703100,
+					"id_str": "1114765103398703104",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hw9IwU0AA80fi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hw9IwU0AA80fi.jpg",
+					"url": "https://t.co/RguVPJJubZ",
+					"display_url": "pic.twitter.com/RguVPJJubZ",
+					"expanded_url": "https://twitter.com/babbeum/status/1114765111581761536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 940,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 781045885354598400,
+			"id_str": "781045885354598400",
+			"name": "[트랜스혐오를멈춰라] 치져",
+			"screen_name": "babbeum",
+			"location": "상공 5000피트",
+			"description": "페미니즘을 중심으로 시작된 PC 운동이 동성애와 생태주의로까지 확대되면서 형성된 도덕적 전체주의자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 889,
+			"friends_count": 179,
+			"listed_count": 11,
+			"created_at": "Wed Sep 28 08:20:25 +0000 2016",
+			"favourites_count": 9217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66471,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060459827153891328/LL9-q6ww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060459827153891328/LL9-q6ww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/781045885354598400/1541682585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭘 감사해하고 앉아있어ㅋㅋㅋㅋ 트랜스혐오자한테 배우는 페미니즘 지랄들한다 진짜 https://t.co/RguVPJJubZ"
+	},
+	{
+		"created_at": "Mon Apr 08 16:55:56 +0000 2019",
+		"id": 1115297233400819700,
+		"id_str": "1115297233400819713",
+		"full_text": "#마음당_변태같은_취향\n흐아앙ㅇ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마음당_변태같은_취향",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "닫은 커미🎗🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1029,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "#마음당_변태같은_취향\n흐아앙ㅇ"
+	},
+	{
+		"created_at": "Mon Apr 08 16:50:25 +0000 2019",
+		"id": 1115221390544629800,
+		"id_str": "1115295847275610114",
+		"full_text": "이거 어떤 놈이 만들었냐 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KU1hX0F1Kb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115221346382823400,
+					"id_str": "1115221346382823424",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oP5-UUwAA89YB.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3oP5-UUwAA89YB.png",
+					"url": "https://t.co/KU1hX0F1Kb",
+					"display_url": "pic.twitter.com/KU1hX0F1Kb",
+					"expanded_url": "https://twitter.com/NumeroUno_Gott/status/1115221390544629761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115221346382823400,
+					"id_str": "1115221346382823424",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oP5-UUwAA89YB.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3oP5-UUwAA89YB.png",
+					"url": "https://t.co/KU1hX0F1Kb",
+					"display_url": "pic.twitter.com/KU1hX0F1Kb",
+					"expanded_url": "https://twitter.com/NumeroUno_Gott/status/1115221390544629761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2362873837,
+			"id_str": "2362873837",
+			"name": "검은 산양",
+			"screen_name": "NumeroUno_Gott",
+			"location": "우리 집 화초처럼 닥쳐",
+			"description": "무지와 질투 그리고 시대착오 역사적 반동 세력들과 난 닮아있어",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Wed Feb 26 15:52:27 +0000 2014",
+			"favourites_count": 3378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39117,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112731831416176641/VqenediM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112731831416176641/VqenediM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2362873837/1543878781",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 어떤 놈이 만들었냐 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KU1hX0F1Kb"
+	},
+	{
+		"created_at": "Mon Apr 08 16:48:57 +0000 2019",
+		"id": 1115262637686673400,
+		"id_str": "1115295475983241216",
+		"full_text": "이 시각 가장 좃된 사람들\n48시간 안에 모든 로버트 할리의 흔적을 지워야 하는 편집자들 https://t.co/gqMiyEFyUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115262628476084200,
+					"id_str": "1115262628476084226",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o1c6GV4AIbCsZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o1c6GV4AIbCsZ.jpg",
+					"url": "https://t.co/gqMiyEFyUC",
+					"display_url": "pic.twitter.com/gqMiyEFyUC",
+					"expanded_url": "https://twitter.com/Flowering_Snow/status/1115262637686673408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115262628476084200,
+					"id_str": "1115262628476084226",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o1c6GV4AIbCsZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o1c6GV4AIbCsZ.jpg",
+					"url": "https://t.co/gqMiyEFyUC",
+					"display_url": "pic.twitter.com/gqMiyEFyUC",
+					"expanded_url": "https://twitter.com/Flowering_Snow/status/1115262637686673408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 932822558268731400,
+			"id_str": "932822558268731393",
+			"name": "🌸설화🌸",
+			"screen_name": "Flowering_Snow",
+			"location": "경기도 성남시",
+			"description": "99년생 미대생/ Korean YP / 한국 마인크래프트 포럼 창작 에디터 / 마인이메이터 유저 센터 매니저 / 이별은 블언블🙏🙏",
+			"url": "https://t.co/XwrlQvYVD0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XwrlQvYVD0",
+							"expanded_url": "http://asked.kr/epyonsystem",
+							"display_url": "asked.kr/epyonsystem",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 467,
+			"listed_count": 2,
+			"created_at": "Tue Nov 21 04:06:43 +0000 2017",
+			"favourites_count": 18283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28292,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113641570975141888/PqEsEG7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113641570975141888/PqEsEG7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/932822558268731393/1554391211",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5997,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 시각 가장 좃된 사람들\n48시간 안에 모든 로버트 할리의 흔적을 지워야 하는 편집자들 https://t.co/gqMiyEFyUC"
+	},
+	{
+		"created_at": "Mon Apr 08 16:41:44 +0000 2019",
+		"id": 1115287595800563700,
+		"id_str": "1115293660164153344",
+		"full_text": "#Humansoflatecapitalism https://t.co/e9kGKyZDhl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Humansoflatecapitalism",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115287575420395500,
+					"id_str": "1115287575420395520",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pMJAtW4AAqk95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3pMJAtW4AAqk95.jpg",
+					"url": "https://t.co/e9kGKyZDhl",
+					"display_url": "pic.twitter.com/e9kGKyZDhl",
+					"expanded_url": "https://twitter.com/HumansOfLate/status/1115287595800563712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115287575420395500,
+					"id_str": "1115287575420395520",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pMJAtW4AAqk95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3pMJAtW4AAqk95.jpg",
+					"url": "https://t.co/e9kGKyZDhl",
+					"display_url": "pic.twitter.com/e9kGKyZDhl",
+					"expanded_url": "https://twitter.com/HumansOfLate/status/1115287595800563712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818488898418602000,
+			"id_str": "818488898418601984",
+			"name": "Humans of Late Capitalism 🕊️",
+			"screen_name": "HumansOfLate",
+			"location": "latecapitalism.official@gmail.com",
+			"description": "🕊 #humansoflatecapitalism",
+			"url": "https://t.co/sQ4cDsrL0s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sQ4cDsrL0s",
+							"expanded_url": "https://www.instagram.com/humansoflate",
+							"display_url": "instagram.com/humansoflate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270918,
+			"friends_count": 1,
+			"listed_count": 1268,
+			"created_at": "Mon Jan 09 16:05:35 +0000 2017",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077515812183908352/of72ql1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077515812183908352/of72ql1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818488898418601984/1517003084",
+			"profile_link_color": "6000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Humansoflatecapitalism https://t.co/e9kGKyZDhl"
+	},
+	{
 		"created_at": "Mon Apr 08 14:49:28 +0000 2019",
 		"id": 1115265216542138400,
 		"id_str": "1115265408733331457",
