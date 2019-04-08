@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 08:34:53 +0000 2019",
+		"id": 1115135428657467400,
+		"id_str": "1115171141004320769",
+		"full_text": "인용 그딴식으로 하는거 조선일보가 참여정부 병신만들고 노무현 죽일 때 잘 써먹었었죠. https://t.co/1PCtfeeevG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1PCtfeeevG",
+					"expanded_url": "https://twitter.com/qui_elle/status/1114479606235459589",
+					"display_url": "twitter.com/qui_elle/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038571764224159700,
+			"id_str": "1038571764224159744",
+			"name": "死達裸",
+			"screen_name": "fuckminjungdang",
+			"location": "",
+			"description": "축구하자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 105,
+			"listed_count": 6,
+			"created_at": "Sat Sep 08 23:36:19 +0000 2018",
+			"favourites_count": 427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8451,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112386782165790721/APPf7q75_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112386782165790721/APPf7q75_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038571764224159744/1554048650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114479606235459600,
+		"quoted_status_id_str": "1114479606235459589",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1PCtfeeevG",
+			"expanded": "https://twitter.com/qui_elle/status/1114479606235459589",
+			"display": "twitter.com/qui_elle/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 10:46:58 +0000 2019",
+			"id": 1114479606235459600,
+			"id_str": "1114479606235459589",
+			"full_text": "이해찬 \"한 명밖에 안 죽어서 다행입니다\"\n\n이 인간 지가 뭔 말 하는지 모른다니까 ㅅㅂ\n\n이해찬 사퇴해 https://t.co/r9L3ca45vf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114479601651044400,
+						"id_str": "1114479601651044352",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D3dtSv3UUAAaqjQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3dtSv3UUAAaqjQ.jpg",
+						"url": "https://t.co/r9L3ca45vf",
+						"display_url": "pic.twitter.com/r9L3ca45vf",
+						"expanded_url": "https://twitter.com/qui_elle/status/1114479606235459589/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114479601651044400,
+						"id_str": "1114479601651044352",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D3dtSv3UUAAaqjQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3dtSv3UUAAaqjQ.jpg",
+						"url": "https://t.co/r9L3ca45vf",
+						"display_url": "pic.twitter.com/r9L3ca45vf",
+						"expanded_url": "https://twitter.com/qui_elle/status/1114479606235459589/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1114479604180209700,
+						"id_str": "1114479604180209664",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D3dtS5SUUAA9eOz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3dtS5SUUAA9eOz.jpg",
+						"url": "https://t.co/r9L3ca45vf",
+						"display_url": "pic.twitter.com/r9L3ca45vf",
+						"expanded_url": "https://twitter.com/qui_elle/status/1114479606235459589/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1010387787944620000,
+				"id_str": "1010387787944620032",
+				"name": "QuiEstElle(공수처 설치)",
+				"screen_name": "qui_elle",
+				"location": "",
+				"description": "ㄷㅡ6\n다물어공안당이 다시 더불어민주당으로 돌아올 때까지...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 291,
+				"friends_count": 87,
+				"listed_count": 0,
+				"created_at": "Sat Jun 23 05:03:15 +0000 2018",
+				"favourites_count": 11547,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10202,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101744890520584192/s7lSzYrd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101744890520584192/s7lSzYrd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1010387787944620032/1541856362",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인용 그딴식으로 하는거 조선일보가 참여정부 병신만들고 노무현 죽일 때 잘 써먹었었죠. https://t.co/1PCtfeeevG"
+	},
+	{
 		"created_at": "Mon Apr 08 05:19:16 +0000 2019",
 		"id": 1114889342629990400,
 		"id_str": "1115121910222807040",
