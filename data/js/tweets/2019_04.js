@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 14:09:35 +0000 2019",
+		"id": 1115254583272464400,
+		"id_str": "1115255370035765248",
+		"full_text": "경찰, 방송인 로버트 할리 마약 혐의로 체포(1보) (출처 : 연합뉴스 | 네이버 뉴스) https://t.co/rzGfYjkmlD\n\n???",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rzGfYjkmlD",
+					"expanded_url": "http://naver.me/Fh8efMoz",
+					"display_url": "naver.me/Fh8efMoz",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95424382,
+			"id_str": "95424382",
+			"name": "Wandava@A-ROCK2019",
+			"screen_name": "Wandava",
+			"location": "Korea, Seoul",
+			"description": "真の光子力研究所スタッフ 광자력 연구소 스태프(眞) / JAM Project Guardians / 파괴자 좋아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2495,
+			"friends_count": 2411,
+			"listed_count": 52,
+			"created_at": "Tue Dec 08 13:53:14 +0000 2009",
+			"favourites_count": 5243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 784769,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089718294423040000/Ku6We8BO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089718294423040000/Ku6We8BO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95424382/1546191092",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 306,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경찰, 방송인 로버트 할리 마약 혐의로 체포(1보) (출처 : 연합뉴스 | 네이버 뉴스) https://t.co/rzGfYjkmlD\n\n???"
+	},
+	{
 		"created_at": "Mon Apr 08 08:34:53 +0000 2019",
 		"id": 1115135428657467400,
 		"id_str": "1115171141004320769",
