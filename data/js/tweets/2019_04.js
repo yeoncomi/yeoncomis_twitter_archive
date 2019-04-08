@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 19:44:25 +0000 2019",
+		"id": 1112700238152654800,
+		"id_str": "1115339635784278017",
+		"full_text": "#平成最後に自分の代表作を貼る\n私自身の話を書いた #アスペちゃん https://t.co/ksCywqGq2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "平成最後に自分の代表作を貼る",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "アスペちゃん",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112700233543090200,
+					"id_str": "1112700233543090177",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Ea95HUgAE7Gbh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Ea95HUgAE7Gbh.jpg",
+					"url": "https://t.co/ksCywqGq2j",
+					"display_url": "pic.twitter.com/ksCywqGq2j",
+					"expanded_url": "https://twitter.com/akagikuro/status/1112700238152654849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112700233543090200,
+					"id_str": "1112700233543090177",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Ea95HUgAE7Gbh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Ea95HUgAE7Gbh.jpg",
+					"url": "https://t.co/ksCywqGq2j",
+					"display_url": "pic.twitter.com/ksCywqGq2j",
+					"expanded_url": "https://twitter.com/akagikuro/status/1112700238152654849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112700233543086100,
+					"id_str": "1112700233543086088",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Ea95HUcAg3rXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Ea95HUcAg3rXb.jpg",
+					"url": "https://t.co/ksCywqGq2j",
+					"display_url": "pic.twitter.com/ksCywqGq2j",
+					"expanded_url": "https://twitter.com/akagikuro/status/1112700238152654849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1037,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112700233534726100,
+					"id_str": "1112700233534726144",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Ea95FU4AANSST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Ea95FU4AANSST.jpg",
+					"url": "https://t.co/ksCywqGq2j",
+					"display_url": "pic.twitter.com/ksCywqGq2j",
+					"expanded_url": "https://twitter.com/akagikuro/status/1112700238152654849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112700233538924500,
+					"id_str": "1112700233538924546",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Ea95GU8AIoayk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Ea95GU8AIoayk.jpg",
+					"url": "https://t.co/ksCywqGq2j",
+					"display_url": "pic.twitter.com/ksCywqGq2j",
+					"expanded_url": "https://twitter.com/akagikuro/status/1112700238152654849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 749,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 318390086,
+			"id_str": "318390086",
+			"name": "赤木クロ@4/7あしピタっ　5/1コスホリH11-12",
+			"screen_name": "akagikuro",
+			"location": "Instagram@akagikuro",
+			"description": "レイヤーで漫画描き フリーランスです ゲーセン好き(エクバ2百式)  ガンダムキン肉マン福本先生作品萬田銀次郎が好き #アスペちゃん 描いてる  【お仕事関係→ akagikuro1218@gmail.com】 動画→https://t.co/rTPcX14SkL  通販→https://t.co/JlQMGE8zF7",
+			"url": "https://t.co/AhJBbEg3Nk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AhJBbEg3Nk",
+							"expanded_url": "https://www.twitch.tv/akagikuro",
+							"display_url": "twitch.tv/akagikuro",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rTPcX14SkL",
+							"expanded_url": "https://www.youtube.com/c/akagikuro",
+							"display_url": "youtube.com/c/akagikuro",
+							"indices": [
+								109,
+								132
+							]
+						},
+						{
+							"url": "https://t.co/JlQMGE8zF7",
+							"expanded_url": "https://kuroshop.booth.pm",
+							"display_url": "kuroshop.booth.pm",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 96363,
+			"friends_count": 2273,
+			"listed_count": 1244,
+			"created_at": "Thu Jun 16 12:19:28 +0000 2011",
+			"favourites_count": 21961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27413,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098302203217866752/pUKmIpPc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098302203217866752/pUKmIpPc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/318390086/1522690395",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#平成最後に自分の代表作を貼る\n私自身の話を書いた #アスペちゃん https://t.co/ksCywqGq2j"
+	},
+	{
 		"created_at": "Mon Apr 08 19:13:22 +0000 2019",
 		"id": 1115331819551879200,
 		"id_str": "1115331819551879169",
