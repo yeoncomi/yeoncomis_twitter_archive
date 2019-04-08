@@ -1,6 +1,860 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 14:49:28 +0000 2019",
+		"id": 1115265216542138400,
+		"id_str": "1115265408733331457",
+		"full_text": "🗳 | Why do nation-states use cyber capabilities to influence democratic processes of foreign countries?\n\n➡️ https://t.co/AMryKKl8Zi https://t.co/Qtqutzm5Uw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMryKKl8Zi",
+					"expanded_url": "https://cyber.gc.ca/en/guidance/2019-update-cyber-threats-canadas-democratic-process",
+					"display_url": "cyber.gc.ca/en/guidance/20…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115265112435245000,
+					"id_str": "1115265112435245057",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o3tfkWwAEsPnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o3tfkWwAEsPnM.jpg",
+					"url": "https://t.co/Qtqutzm5Uw",
+					"display_url": "pic.twitter.com/Qtqutzm5Uw",
+					"expanded_url": "https://twitter.com/cse_cst/status/1115265216542138370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115265112435245000,
+					"id_str": "1115265112435245057",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o3tfkWwAEsPnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o3tfkWwAEsPnM.jpg",
+					"url": "https://t.co/Qtqutzm5Uw",
+					"display_url": "pic.twitter.com/Qtqutzm5Uw",
+					"expanded_url": "https://twitter.com/cse_cst/status/1115265216542138370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115263045725454300,
+		"in_reply_to_status_id_str": "1115263045725454337",
+		"in_reply_to_user_id": 718150263253635100,
+		"in_reply_to_user_id_str": "718150263253635072",
+		"in_reply_to_screen_name": "cse_cst",
+		"user": {
+			"id": 718150263253635100,
+			"id_str": "718150263253635072",
+			"name": "CSE 🍁",
+			"screen_name": "cse_cst",
+			"location": "",
+			"description": "The official Twitter page of the Communications Security Establishment. En français: @CST_CSE. Notice: https://t.co/h1eD7ROBS1",
+			"url": "https://t.co/VnrvE8Cp7r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VnrvE8Cp7r",
+							"expanded_url": "http://www.cse-cst.gc.ca",
+							"display_url": "cse-cst.gc.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h1eD7ROBS1",
+							"expanded_url": "https://www.cse-cst.gc.ca/en/about-apropos/terms-and-conditions#socialmedia",
+							"display_url": "cse-cst.gc.ca/en/about-aprop…",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10762,
+			"friends_count": 79,
+			"listed_count": 159,
+			"created_at": "Thu Apr 07 18:55:40 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925050053143744512/OTd8NOpS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925050053143744512/OTd8NOpS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718150263253635072/1542145048",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗳 | Why do nation-states use cyber capabilities to influence democratic processes of foreign countries?\n\n➡️ https://t.co/AMryKKl8Zi https://t.co/Qtqutzm5Uw"
+	},
+	{
+		"created_at": "Mon Apr 08 14:49:27 +0000 2019",
+		"id": 1115263045725454300,
+		"id_str": "1115265402861309953",
+		"full_text": "Why target our democratic process?\n \n✅G7 country \n✅NATO member\n✅Active member of the international community\n\nOur choices on military deployments, trade &amp; investment, diplomatic engagements, foreign aid, or immigration are of interest to other states.\n\nhttps://t.co/TODoLYaPdK https://t.co/4KW2QCKSVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TODoLYaPdK",
+					"expanded_url": "https://cyber.gc.ca/en/guidance/update-cyber-threats-canadas-democratic-process",
+					"display_url": "cyber.gc.ca/en/guidance/up…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115263043682885600,
+					"id_str": "1115263043682885633",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o11E3W4AE174B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o11E3W4AE174B.jpg",
+					"url": "https://t.co/4KW2QCKSVb",
+					"display_url": "pic.twitter.com/4KW2QCKSVb",
+					"expanded_url": "https://twitter.com/cse_cst/status/1115263045725454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115263043682885600,
+					"id_str": "1115263043682885633",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D3o11E3W4AE174B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3o11E3W4AE174B.jpg",
+					"url": "https://t.co/4KW2QCKSVb",
+					"display_url": "pic.twitter.com/4KW2QCKSVb",
+					"expanded_url": "https://twitter.com/cse_cst/status/1115263045725454337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718150263253635100,
+			"id_str": "718150263253635072",
+			"name": "CSE 🍁",
+			"screen_name": "cse_cst",
+			"location": "",
+			"description": "The official Twitter page of the Communications Security Establishment. En français: @CST_CSE. Notice: https://t.co/h1eD7ROBS1",
+			"url": "https://t.co/VnrvE8Cp7r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VnrvE8Cp7r",
+							"expanded_url": "http://www.cse-cst.gc.ca",
+							"display_url": "cse-cst.gc.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h1eD7ROBS1",
+							"expanded_url": "https://www.cse-cst.gc.ca/en/about-apropos/terms-and-conditions#socialmedia",
+							"display_url": "cse-cst.gc.ca/en/about-aprop…",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10762,
+			"friends_count": 79,
+			"listed_count": 159,
+			"created_at": "Thu Apr 07 18:55:40 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925050053143744512/OTd8NOpS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925050053143744512/OTd8NOpS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718150263253635072/1542145048",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why target our democratic process?\n \n✅G7 country \n✅NATO member\n✅Active member of the international community\n\nOur choices on military deployments, trade &amp; investment, diplomatic engagements, foreign aid, or immigration are of interest to other states.\n\nhttps://t.co/TODoLYaPdK https://t.co/4KW2QCKSVb"
+	},
+	{
+		"created_at": "Mon Apr 08 14:43:34 +0000 2019",
+		"id": 1115257498007531500,
+		"id_str": "1115263921722511362",
+		"full_text": "로버트 할리마저... https://t.co/NDxs8wdOtM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115257489807695900,
+					"id_str": "1115257489807695873",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D3owxzEU4AEHjs1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3owxzEU4AEHjs1.jpg",
+					"url": "https://t.co/NDxs8wdOtM",
+					"display_url": "pic.twitter.com/NDxs8wdOtM",
+					"expanded_url": "https://twitter.com/_3SATO_/status/1115257498007531520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115257489807695900,
+					"id_str": "1115257489807695873",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D3owxzEU4AEHjs1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3owxzEU4AEHjs1.jpg",
+					"url": "https://t.co/NDxs8wdOtM",
+					"display_url": "pic.twitter.com/NDxs8wdOtM",
+					"expanded_url": "https://twitter.com/_3SATO_/status/1115257498007531520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1314,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115257489807695900,
+					"id_str": "1115257489807695872",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D3owxzEU4AAC9O9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3owxzEU4AAC9O9.jpg",
+					"url": "https://t.co/NDxs8wdOtM",
+					"display_url": "pic.twitter.com/NDxs8wdOtM",
+					"expanded_url": "https://twitter.com/_3SATO_/status/1115257498007531520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4213584254,
+			"id_str": "4213584254",
+			"name": "미사토o(｀ω´ )o",
+			"screen_name": "_3SATO_",
+			"location": "",
+			"description": "삼사토가 아니라 미사토라구요o(｀ω´ )o / 音ゲー / サトと申します",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1139,
+			"friends_count": 323,
+			"listed_count": 18,
+			"created_at": "Thu Nov 12 15:11:13 +0000 2015",
+			"favourites_count": 10466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150151,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077693865883095045/60xKi7CT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077693865883095045/60xKi7CT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4213584254/1529370367",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로버트 할리마저... https://t.co/NDxs8wdOtM"
+	},
+	{
+		"created_at": "Mon Apr 08 14:42:03 +0000 2019",
+		"id": 1115211260008656900,
+		"id_str": "1115263541177544706",
+		"full_text": "경찰 근황\n\n수사 서류 잊어버려서 범죄자 손에 들어감 https://t.co/u6xeTNfW6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115211215112785900,
+					"id_str": "1115211215112785920",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oGsQZUUAADqDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3oGsQZUUAADqDj.jpg",
+					"url": "https://t.co/u6xeTNfW6y",
+					"display_url": "pic.twitter.com/u6xeTNfW6y",
+					"expanded_url": "https://twitter.com/go1rani/status/1115211260008656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115211215112785900,
+					"id_str": "1115211215112785920",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oGsQZUUAADqDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3oGsQZUUAADqDj.jpg",
+					"url": "https://t.co/u6xeTNfW6y",
+					"display_url": "pic.twitter.com/u6xeTNfW6y",
+					"expanded_url": "https://twitter.com/go1rani/status/1115211260008656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 589,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1246,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115211226944946200,
+					"id_str": "1115211226944946176",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oGs8eUwAA2FOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3oGs8eUwAA2FOC.jpg",
+					"url": "https://t.co/u6xeTNfW6y",
+					"display_url": "pic.twitter.com/u6xeTNfW6y",
+					"expanded_url": "https://twitter.com/go1rani/status/1115211260008656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1701,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115211237707489300,
+					"id_str": "1115211237707489280",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oGtkkUIAA_OVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3oGtkkUIAA_OVg.jpg",
+					"url": "https://t.co/u6xeTNfW6y",
+					"display_url": "pic.twitter.com/u6xeTNfW6y",
+					"expanded_url": "https://twitter.com/go1rani/status/1115211260008656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115211251972329500,
+					"id_str": "1115211251972329472",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D3oGuZtUUAAlaNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3oGuZtUUAAlaNg.jpg",
+					"url": "https://t.co/u6xeTNfW6y",
+					"display_url": "pic.twitter.com/u6xeTNfW6y",
+					"expanded_url": "https://twitter.com/go1rani/status/1115211260008656896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 872,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 872,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21386,
+			"friends_count": 5,
+			"listed_count": 48,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 633,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경찰 근황\n\n수사 서류 잊어버려서 범죄자 손에 들어감 https://t.co/u6xeTNfW6y"
+	},
+	{
 		"created_at": "Mon Apr 08 14:09:35 +0000 2019",
 		"id": 1115254583272464400,
 		"id_str": "1115255370035765248",
