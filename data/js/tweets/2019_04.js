@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 05:19:16 +0000 2019",
+		"id": 1114889342629990400,
+		"id_str": "1115121910222807040",
+		"full_text": "\"돈 자랑하더니\"..강원도 산불=국가적 재난에 입 닫은 스타들 [Oh!쎈 레터] https://t.co/T5jDG5KyyA\n\n이런건 하는 사람을 칭찬하는 거지 안하는 사람더러 왜 안하냐고 따져서는 안 된다. \"기부가 강요는(의무라고 하고 싶었겠지?) 절대 아니지만\"이라고 말하려면 이런 기사부터 쓰지 말았어야 했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T5jDG5KyyA",
+					"expanded_url": "http://a.msn.com/07/ko-kr/BBVH86v?ocid=st",
+					"display_url": "a.msn.com/07/ko-kr/BBVH8…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59414035,
+			"id_str": "59414035",
+			"name": "TURN-H",
+			"screen_name": "cdugati",
+			"location": "",
+			"description": "턴 H는 돌려도 턴 H. 탭하면 工.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136,
+			"friends_count": 253,
+			"listed_count": 7,
+			"created_at": "Thu Jul 23 09:51:14 +0000 2009",
+			"favourites_count": 2792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63045,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099915943755493377/t5KuVaob_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099915943755493377/t5KuVaob_normal.jpg",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"돈 자랑하더니\"..강원도 산불=국가적 재난에 입 닫은 스타들 [Oh!쎈 레터] https://t.co/T5jDG5KyyA\n\n이런건 하는 사람을 칭찬하는 거지 안하는 사람더러 왜 안하냐고 따져서는 안 된다. \"기부가 강요는(의무라고 하고 싶었겠지?) 절대 아니지만\"이라고 말하려면 이런 기사부터 쓰지 말았어야 했다."
+	},
+	{
 		"created_at": "Mon Apr 08 05:13:09 +0000 2019",
 		"id": 1114812209995980800,
 		"id_str": "1115120373136125952",
