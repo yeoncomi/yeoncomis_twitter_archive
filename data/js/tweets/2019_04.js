@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 03:15:35 +0000 2019",
+		"id": 1115427959941107700,
+		"id_str": "1115453173513117696",
+		"full_text": "95년생 신용 8등급의 빠른 인생퇴갤 https://t.co/nlNm8fwq4K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115427877502066700,
+					"id_str": "1115427877502066688",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rLvqsUIAAbSen.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rLvqsUIAAbSen.jpg",
+					"url": "https://t.co/nlNm8fwq4K",
+					"display_url": "pic.twitter.com/nlNm8fwq4K",
+					"expanded_url": "https://twitter.com/PasteCat/status/1115427959941107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115427877502066700,
+					"id_str": "1115427877502066688",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rLvqsUIAAbSen.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rLvqsUIAAbSen.jpg",
+					"url": "https://t.co/nlNm8fwq4K",
+					"display_url": "pic.twitter.com/nlNm8fwq4K",
+					"expanded_url": "https://twitter.com/PasteCat/status/1115427959941107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1192,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115427889971728400,
+					"id_str": "1115427889971728385",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rLwZJUEAEpa8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rLwZJUEAEpa8H.jpg",
+					"url": "https://t.co/nlNm8fwq4K",
+					"display_url": "pic.twitter.com/nlNm8fwq4K",
+					"expanded_url": "https://twitter.com/PasteCat/status/1115427959941107713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131836015,
+			"id_str": "131836015",
+			"name": "고양이",
+			"screen_name": "PasteCat",
+			"location": "박스안",
+			"description": "캣과 고양이의 시간",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4840,
+			"friends_count": 260,
+			"listed_count": 81,
+			"created_at": "Sun Apr 11 13:46:45 +0000 2010",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70366,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131836015/1547572536",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "95년생 신용 8등급의 빠른 인생퇴갤 https://t.co/nlNm8fwq4K"
+	},
+	{
+		"created_at": "Tue Apr 09 03:03:16 +0000 2019",
+		"id": 1115449405283287000,
+		"id_str": "1115450073393950720",
+		"full_text": "\"그림 살게요\"\n\"170억원 입니다\"\n\"아, KT멤버십 먼저 쓰고 쓱페이로 계산할게요.\"\n\"일시불로 하세요?\"\n\"네\"\n\"영수증 안 나오게 하셨네요. 주차 등록 필요하세요?\"\n\"얼마나 주차할 수 있어요?\"\n\"아 5만원 이상이면 3시간 주차할 수 있어요.\"\n\"그렇군요. 차량번호 1234요.\"\n\"64머 1234 맞으시죠?\"\n\"네\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244330027,
+			"id_str": "244330027",
+			"name": "64비트여우",
+			"screen_name": "64bitfox",
+			"location": "",
+			"description": "내 CPU 32비트, 네 CPU 32비트, 총 64비트의 CPU로 완벽한 작전을 짜야 해",
+			"url": "https://t.co/7CoKOerz9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7CoKOerz9G",
+							"expanded_url": "https://planet.moe/@64bitfox",
+							"display_url": "planet.moe/@64bitfox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1338,
+			"friends_count": 758,
+			"listed_count": 45,
+			"created_at": "Sat Jan 29 02:18:51 +0000 2011",
+			"favourites_count": 6649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55669,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109651455969878022/ZMakpi66_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109651455969878022/ZMakpi66_normal.jpg",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"그림 살게요\"\n\"170억원 입니다\"\n\"아, KT멤버십 먼저 쓰고 쓱페이로 계산할게요.\"\n\"일시불로 하세요?\"\n\"네\"\n\"영수증 안 나오게 하셨네요. 주차 등록 필요하세요?\"\n\"얼마나 주차할 수 있어요?\"\n\"아 5만원 이상이면 3시간 주차할 수 있어요.\"\n\"그렇군요. 차량번호 1234요.\"\n\"64머 1234 맞으시죠?\"\n\"네\""
+	},
+	{
+		"created_at": "Tue Apr 09 02:53:01 +0000 2019",
+		"id": 1114907583750398000,
+		"id_str": "1115447495352434689",
+		"full_text": "이새끼 대체 어디서 짤을 만드는거임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/1Rj6FmQ4tN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114907569892413400,
+					"id_str": "1114907569892413440",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jyhxzU0AApIM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jyhxzU0AApIM6.jpg",
+					"url": "https://t.co/1Rj6FmQ4tN",
+					"display_url": "pic.twitter.com/1Rj6FmQ4tN",
+					"expanded_url": "https://twitter.com/dog_dora2/status/1114907583750397959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114907569892413400,
+					"id_str": "1114907569892413440",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jyhxzU0AApIM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jyhxzU0AApIM6.jpg",
+					"url": "https://t.co/1Rj6FmQ4tN",
+					"display_url": "pic.twitter.com/1Rj6FmQ4tN",
+					"expanded_url": "https://twitter.com/dog_dora2/status/1114907583750397959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114907574422229000,
+					"id_str": "1114907574422228996",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jyiCrUUAQayNA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jyiCrUUAQayNA.jpg",
+					"url": "https://t.co/1Rj6FmQ4tN",
+					"display_url": "pic.twitter.com/1Rj6FmQ4tN",
+					"expanded_url": "https://twitter.com/dog_dora2/status/1114907583750397959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114907577924460500,
+					"id_str": "1114907577924460544",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jyiPuUIAADTKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jyiPuUIAADTKl.jpg",
+					"url": "https://t.co/1Rj6FmQ4tN",
+					"display_url": "pic.twitter.com/1Rj6FmQ4tN",
+					"expanded_url": "https://twitter.com/dog_dora2/status/1114907583750397959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114907581154189300,
+					"id_str": "1114907581154189312",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jyibwV4AAg5q9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jyibwV4AAg5q9.jpg",
+					"url": "https://t.co/1Rj6FmQ4tN",
+					"display_url": "pic.twitter.com/1Rj6FmQ4tN",
+					"expanded_url": "https://twitter.com/dog_dora2/status/1114907583750397959/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112943842657919000,
+			"id_str": "1112943842657918977",
+			"name": "족제비와토끼",
+			"screen_name": "dog_dora2",
+			"location": "대한민국 서구",
+			"description": "만화그리는 씹덕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 9,
+			"listed_count": 1,
+			"created_at": "Tue Apr 02 05:04:24 +0000 2019",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112944669636276226/mjI44-GY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112944669636276226/mjI44-GY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112943842657918977/1554181635",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 496,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이새끼 대체 어디서 짤을 만드는거임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/1Rj6FmQ4tN"
+	},
+	{
+		"created_at": "Tue Apr 09 02:48:42 +0000 2019",
+		"id": 1115444369887088600,
+		"id_str": "1115446409010933760",
+		"full_text": "충분히 발달한 서버는 고등어와 구분할 수 없다 https://t.co/EbaTFrbavb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115444354829578200,
+					"id_str": "1115444354829578245",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rauxhU8AU_vEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rauxhU8AU_vEV.jpg",
+					"url": "https://t.co/EbaTFrbavb",
+					"display_url": "pic.twitter.com/EbaTFrbavb",
+					"expanded_url": "https://twitter.com/H_STA114/status/1115444369887088646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115444354829578200,
+					"id_str": "1115444354829578245",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rauxhU8AU_vEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rauxhU8AU_vEV.jpg",
+					"url": "https://t.co/EbaTFrbavb",
+					"display_url": "pic.twitter.com/EbaTFrbavb",
+					"expanded_url": "https://twitter.com/H_STA114/status/1115444369887088646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110831792007700500,
+			"id_str": "1110831792007700480",
+			"name": "573114",
+			"screen_name": "H_STA114",
+			"location": "대한민국 서울",
+			"description": "담당일찐새끼야 적당히 갈구라고 씨팔",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Wed Mar 27 09:11:52 +0000 2019",
+			"favourites_count": 471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 711,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111082424878940160/D2taxV9J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111082424878940160/D2taxV9J_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "충분히 발달한 서버는 고등어와 구분할 수 없다 https://t.co/EbaTFrbavb"
+	},
+	{
 		"created_at": "Mon Apr 08 22:56:00 +0000 2019",
 		"id": 1115387847270264800,
 		"id_str": "1115387847270264832",
