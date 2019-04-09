@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 12:14:28 +0000 2019",
+		"id": 1115587527665053700,
+		"id_str": "1115588789777260545",
+		"full_text": "숙명여대 총학생회, '5·18 망언' 김순례 규탄 성명 철회 - 미디어스 https://t.co/f4osGV5EGg\n\n납득할 수 없는 일이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4osGV5EGg",
+					"expanded_url": "http://www.mediaus.co.kr/news/articleView.html?idxno=149917",
+					"display_url": "mediaus.co.kr/news/articleVi…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 175058448,
+			"id_str": "175058448",
+			"name": "VKRKO",
+			"screen_name": "VKRKO",
+			"location": "서울시 용산구",
+			"description": "괴담 전해줌. 괴담의 중심 블로그 운영함. https://t.co/D4xP4Y9XOM   SNK, 닌텐도, 포켓몬스터, 아이돌 마스터. 호러 문화 전반 좋아함. 프로필은 @ohdark123님 작품. 헤더는 @kimvori 님 작품. 게임도 하고 비즈도 만들고 아무 말도 하고.",
+			"url": "https://t.co/D4xP4Y9XOM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D4xP4Y9XOM",
+							"expanded_url": "http://vkepitaph.tistory.com",
+							"display_url": "vkepitaph.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/D4xP4Y9XOM",
+							"expanded_url": "http://vkepitaph.tistory.com",
+							"display_url": "vkepitaph.tistory.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4448,
+			"friends_count": 389,
+			"listed_count": 40,
+			"created_at": "Thu Aug 05 14:38:11 +0000 2010",
+			"favourites_count": 3697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28424,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920694140119027712/hSv9xfrC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920694140119027712/hSv9xfrC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/175058448/1482246275",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숙명여대 총학생회, '5·18 망언' 김순례 규탄 성명 철회 - 미디어스 https://t.co/f4osGV5EGg\n\n납득할 수 없는 일이다."
+	},
+	{
+		"created_at": "Tue Apr 09 12:12:42 +0000 2019",
+		"id": 1115434782110834700,
+		"id_str": "1115588344807694337",
+		"full_text": "‘트위터 밖으로 나와서 진짜 세상을 보라’는 소리의 진짜 세상이 페이스북인 점에 대하여",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99112948,
+			"id_str": "99112948",
+			"name": "JERRY.K | blent. [loves]",
+			"screen_name": "JerrykMusic",
+			"location": "Seoul",
+			"description": "JERRY.K | blent. | DAZE ALIVE",
+			"url": "https://t.co/mMoGb280jp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMoGb280jp",
+							"expanded_url": "http://JerrykMusic.com",
+							"display_url": "JerrykMusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33260,
+			"friends_count": 341,
+			"listed_count": 287,
+			"created_at": "Thu Dec 24 14:25:39 +0000 2009",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69926,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108021426651488256/luaUu9JW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108021426651488256/luaUu9JW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99112948/1554723169",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1488,
+		"favorite_count": 509,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘트위터 밖으로 나와서 진짜 세상을 보라’는 소리의 진짜 세상이 페이스북인 점에 대하여"
+	},
+	{
+		"created_at": "Tue Apr 09 11:50:00 +0000 2019",
+		"id": 1115541930107129900,
+		"id_str": "1115582632132112386",
+		"full_text": "수천개의 디씨글을 봐왔으면서 제일 기억의 남는 명문은 씨벌낙지의 화려한 썰도 수많은 유동들의 공중제비를 돌게하는 꿀잼드립도 아니라 바로 어느한 이름모를 유저의 \n“아빠가 사줬어 하하하” 다. 분노야말로 인간을 지탱하게해준다 https://t.co/WeiGJns96N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115541919659102200,
+					"id_str": "1115541919659102208",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D3szdy1WkAAhvnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3szdy1WkAAhvnO.jpg",
+					"url": "https://t.co/WeiGJns96N",
+					"display_url": "pic.twitter.com/WeiGJns96N",
+					"expanded_url": "https://twitter.com/moriyachanl/status/1115541930107129861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115541919659102200,
+					"id_str": "1115541919659102208",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D3szdy1WkAAhvnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3szdy1WkAAhvnO.jpg",
+					"url": "https://t.co/WeiGJns96N",
+					"display_url": "pic.twitter.com/WeiGJns96N",
+					"expanded_url": "https://twitter.com/moriyachanl/status/1115541930107129861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 331685407,
+			"id_str": "331685407",
+			"name": "김찬애",
+			"screen_name": "moriyachanl",
+			"location": "Patriarch of Moriya Shrine",
+			"description": "비밀결사단 문사철의 단장이 당신을 환영합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1322,
+			"friends_count": 323,
+			"listed_count": 23,
+			"created_at": "Fri Jul 08 15:24:58 +0000 2011",
+			"favourites_count": 1426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96500,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092788861565108224/1D7TKjGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092788861565108224/1D7TKjGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/331685407/1512001999",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수천개의 디씨글을 봐왔으면서 제일 기억의 남는 명문은 씨벌낙지의 화려한 썰도 수많은 유동들의 공중제비를 돌게하는 꿀잼드립도 아니라 바로 어느한 이름모를 유저의 \n“아빠가 사줬어 하하하” 다. 분노야말로 인간을 지탱하게해준다 https://t.co/WeiGJns96N"
+	},
+	{
 		"created_at": "Tue Apr 09 06:22:59 +0000 2019",
 		"id": 1115500333877174300,
 		"id_str": "1115500333877174272",
