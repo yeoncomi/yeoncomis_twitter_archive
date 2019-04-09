@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 18:31:38 +0000 2019",
+		"id": 1115616652052185100,
+		"id_str": "1115683704829952000",
+		"full_text": "서울에 2평짜리 3층집이?…국내 최소형 주택이 지어지는 사연\nhttps://t.co/V1q8LKOzHD\n96년 자양동 한라아파트가 지어질 때 보상이 실패, 23년이 지나고 나서야 집주인은 자신의 땅에 초소형 주택을 짓기로 했다는 설명\n\n존버는 반드시 승리합니다. https://t.co/8ZF5IajJ7a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1q8LKOzHD",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=366&aid=0000431136",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115616347663114200,
+					"id_str": "1115616347663114240",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D3t3KEwUIAAtpwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3t3KEwUIAAtpwj.jpg",
+					"url": "https://t.co/8ZF5IajJ7a",
+					"display_url": "pic.twitter.com/8ZF5IajJ7a",
+					"expanded_url": "https://twitter.com/PasteCat/status/1115616652052185095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115616347663114200,
+					"id_str": "1115616347663114240",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D3t3KEwUIAAtpwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3t3KEwUIAAtpwj.jpg",
+					"url": "https://t.co/8ZF5IajJ7a",
+					"display_url": "pic.twitter.com/8ZF5IajJ7a",
+					"expanded_url": "https://twitter.com/PasteCat/status/1115616652052185095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131836015,
+			"id_str": "131836015",
+			"name": "고양이",
+			"screen_name": "PasteCat",
+			"location": "박스안",
+			"description": "캣과 고양이의 시간",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4838,
+			"friends_count": 258,
+			"listed_count": 81,
+			"created_at": "Sun Apr 11 13:46:45 +0000 2010",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70422,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131836015/1547572536",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울에 2평짜리 3층집이?…국내 최소형 주택이 지어지는 사연\nhttps://t.co/V1q8LKOzHD\n96년 자양동 한라아파트가 지어질 때 보상이 실패, 23년이 지나고 나서야 집주인은 자신의 땅에 초소형 주택을 짓기로 했다는 설명\n\n존버는 반드시 승리합니다. https://t.co/8ZF5IajJ7a"
+	},
+	{
 		"created_at": "Tue Apr 09 12:23:06 +0000 2019",
 		"id": 1115554917303717900,
 		"id_str": "1115590961378107392",
