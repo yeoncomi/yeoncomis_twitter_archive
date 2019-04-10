@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 01:01:06 +0000 2019",
+		"id": 1114860133262082000,
+		"id_str": "1115781719687221248",
+		"full_text": "이친구는 왜 머리가 빈거야 https://t.co/PgIsJ8GnHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114859943230726100,
+					"id_str": "1114859943230726145",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jHNiqUYAEoXt-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3jHNiqUYAEoXt-.png",
+					"url": "https://t.co/PgIsJ8GnHG",
+					"display_url": "pic.twitter.com/PgIsJ8GnHG",
+					"expanded_url": "https://twitter.com/Gag_j_a/status/1114860133262082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114859943230726100,
+					"id_str": "1114859943230726145",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jHNiqUYAEoXt-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3jHNiqUYAEoXt-.png",
+					"url": "https://t.co/PgIsJ8GnHG",
+					"display_url": "pic.twitter.com/PgIsJ8GnHG",
+					"expanded_url": "https://twitter.com/Gag_j_a/status/1114860133262082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114860044015640600,
+					"id_str": "1114860044015640576",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jHTaHUIAAwJl-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3jHTaHUIAAwJl-.png",
+					"url": "https://t.co/PgIsJ8GnHG",
+					"display_url": "pic.twitter.com/PgIsJ8GnHG",
+					"expanded_url": "https://twitter.com/Gag_j_a/status/1114860133262082048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 178,
+							"h": 105,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 178,
+							"h": 105,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 105,
+							"h": 105,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 178,
+							"h": 105,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 934061524271767600,
+			"id_str": "934061524271767552",
+			"name": "각자님",
+			"screen_name": "Gag_j_a",
+			"location": "삼용요 행앗팟",
+			"description": "[팀샐러드&잠쵸수라] 여성인권이 우선임. 꼬우면 블락ㄱ [*헤더 셸님*]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 56,
+			"listed_count": 1,
+			"created_at": "Fri Nov 24 14:09:56 +0000 2017",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 657,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112728645347373057/EinJUs-O_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112728645347373057/EinJUs-O_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/934061524271767552/1553348162",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6909,
+		"favorite_count": 2588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이친구는 왜 머리가 빈거야 https://t.co/PgIsJ8GnHG"
+	},
+	{
 		"created_at": "Tue Apr 09 22:26:24 +0000 2019",
 		"id": 1115648142890766300,
 		"id_str": "1115742784936263680",
