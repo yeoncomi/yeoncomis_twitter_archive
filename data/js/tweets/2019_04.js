@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 03:13:02 +0000 2019",
+		"id": 1114772853914722300,
+		"id_str": "1115814918236676096",
+		"full_text": "갑자기 기억났는데 나 중딩때 진짜 심한말도 들어봄 ㅋㅋㅋㅋㅋㅋㅋ \"야 너 게이야? 근데 게이들 다 잘생긴거 아니었어?\" 시발련아!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3190841569,
+			"id_str": "3190841569",
+			"name": "LICIA compat",
+			"screen_name": "liciaesr",
+			"location": "~ 2021.09.18.",
+			"description": "Software Engineer, Rhythmgamer, Drinker, Cosplayer.\n\nKUCSE CATDOG; Team WF; Team GtH;\n\n@public_yuri💖\n본계: @liciaris",
+			"url": "https://t.co/TMbWxW1eQ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMbWxW1eQ5",
+							"expanded_url": "https://seiker.moe",
+							"display_url": "seiker.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1032,
+			"friends_count": 739,
+			"listed_count": 31,
+			"created_at": "Sun May 10 13:09:00 +0000 2015",
+			"favourites_count": 23466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 250324,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1549289065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "갑자기 기억났는데 나 중딩때 진짜 심한말도 들어봄 ㅋㅋㅋㅋㅋㅋㅋ \"야 너 게이야? 근데 게이들 다 잘생긴거 아니었어?\" 시발련아!!!!!"
+	},
+	{
+		"created_at": "Wed Apr 10 03:05:46 +0000 2019",
+		"id": 1115811814632112100,
+		"id_str": "1115813090405183490",
+		"full_text": "아니 그 갑자기 탐라에 \"20cm??\" 이런 문자열이 보이면 그거부터 생각나는게 당연하잖아요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3190841569,
+			"id_str": "3190841569",
+			"name": "LICIA compat",
+			"screen_name": "liciaesr",
+			"location": "~ 2021.09.18.",
+			"description": "Software Engineer, Rhythmgamer, Drinker, Cosplayer.\n\nKUCSE CATDOG; Team WF; Team GtH;\n\n@public_yuri💖\n본계: @liciaris",
+			"url": "https://t.co/TMbWxW1eQ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMbWxW1eQ5",
+							"expanded_url": "https://seiker.moe",
+							"display_url": "seiker.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1032,
+			"friends_count": 739,
+			"listed_count": 31,
+			"created_at": "Sun May 10 13:09:00 +0000 2015",
+			"favourites_count": 23466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 250324,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1549289065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아니 그 갑자기 탐라에 \"20cm??\" 이런 문자열이 보이면 그거부터 생각나는게 당연하잖아요"
+	},
+	{
+		"created_at": "Wed Apr 10 03:03:29 +0000 2019",
+		"id": 1114010303115587600,
+		"id_str": "1115812516897013761",
+		"full_text": "[여성, 남성, '지정하지 않음' - 비비에프 논바이너리 가시화 프로젝트]\n#퀴어굿즈 #퀴어스티커 #퀴어티셔츠 #논바이너리굿즈\n(4월 30일까지 텀블벅 펀딩중)\n링크 : https://t.co/0QsRt4CA4p https://t.co/IgrjmEb6z7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀴어굿즈",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "퀴어스티커",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "퀴어티셔츠",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "논바이너리굿즈",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QsRt4CA4p",
+					"expanded_url": "https://tumblbug.com/non",
+					"display_url": "tumblbug.com/non",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114010280617340900,
+					"id_str": "1114010280617340928",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCcqxUcAAfSLb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCcqxUcAAfSLb.jpg",
+					"url": "https://t.co/IgrjmEb6z7",
+					"display_url": "pic.twitter.com/IgrjmEb6z7",
+					"expanded_url": "https://twitter.com/Queer_Goods/status/1114010303115587584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114010280617340900,
+					"id_str": "1114010280617340928",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCcqxUcAAfSLb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCcqxUcAAfSLb.jpg",
+					"url": "https://t.co/IgrjmEb6z7",
+					"display_url": "pic.twitter.com/IgrjmEb6z7",
+					"expanded_url": "https://twitter.com/Queer_Goods/status/1114010303115587584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114010284824248300,
+					"id_str": "1114010284824248320",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCc6cUwAAdvtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCc6cUwAAdvtv.jpg",
+					"url": "https://t.co/IgrjmEb6z7",
+					"display_url": "pic.twitter.com/IgrjmEb6z7",
+					"expanded_url": "https://twitter.com/Queer_Goods/status/1114010303115587584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114010293976191000,
+					"id_str": "1114010293976190976",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCdciUUAANzz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCdciUUAANzz5.jpg",
+					"url": "https://t.co/IgrjmEb6z7",
+					"display_url": "pic.twitter.com/IgrjmEb6z7",
+					"expanded_url": "https://twitter.com/Queer_Goods/status/1114010303115587584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114010300607422500,
+					"id_str": "1114010300607422464",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCd1PU4AAO90y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCd1PU4AAO90y.jpg",
+					"url": "https://t.co/IgrjmEb6z7",
+					"display_url": "pic.twitter.com/IgrjmEb6z7",
+					"expanded_url": "https://twitter.com/Queer_Goods/status/1114010303115587584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040057842546307100,
+			"id_str": "1040057842546307072",
+			"name": "퀴어 굿즈 안내봇",
+			"screen_name": "Queer_Goods",
+			"location": "",
+			"description": "수동봇 / 퀴어 굿즈 접근성을 높이기 위한 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1450,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Thu Sep 13 02:01:27 +0000 2018",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 660,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040065743604219905/t621W1D6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040065743604219905/t621W1D6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040057842546307072/1536805994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[여성, 남성, '지정하지 않음' - 비비에프 논바이너리 가시화 프로젝트]\n#퀴어굿즈 #퀴어스티커 #퀴어티셔츠 #논바이너리굿즈\n(4월 30일까지 텀블벅 펀딩중)\n링크 : https://t.co/0QsRt4CA4p https://t.co/IgrjmEb6z7"
+	},
+	{
+		"created_at": "Wed Apr 10 03:02:35 +0000 2019",
+		"id": 1115556404541001700,
+		"id_str": "1115812290249412608",
+		"full_text": "이보시오 넥플릭스양반.. https://t.co/u1cmfY7UdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115556379828219900,
+					"id_str": "1115556379828219904",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D3tAnfKU8AAbGb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3tAnfKU8AAbGb-.jpg",
+					"url": "https://t.co/u1cmfY7UdW",
+					"display_url": "pic.twitter.com/u1cmfY7UdW",
+					"expanded_url": "https://twitter.com/jayo2dx/status/1115556404541001728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115556379828219900,
+					"id_str": "1115556379828219904",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D3tAnfKU8AAbGb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3tAnfKU8AAbGb-.jpg",
+					"url": "https://t.co/u1cmfY7UdW",
+					"display_url": "pic.twitter.com/u1cmfY7UdW",
+					"expanded_url": "https://twitter.com/jayo2dx/status/1115556404541001728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115556386404888600,
+					"id_str": "1115556386404888576",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D3tAn3qU8AAnqGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3tAn3qU8AAnqGI.jpg",
+					"url": "https://t.co/u1cmfY7UdW",
+					"display_url": "pic.twitter.com/u1cmfY7UdW",
+					"expanded_url": "https://twitter.com/jayo2dx/status/1115556404541001728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 819,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115556391899422700,
+					"id_str": "1115556391899422720",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D3tAoMIU4AAgMjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3tAoMIU4AAgMjf.jpg",
+					"url": "https://t.co/u1cmfY7UdW",
+					"display_url": "pic.twitter.com/u1cmfY7UdW",
+					"expanded_url": "https://twitter.com/jayo2dx/status/1115556404541001728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115556398484480000,
+					"id_str": "1115556398484480000",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D3tAokqU4AAjdkQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3tAokqU4AAjdkQ.jpg",
+					"url": "https://t.co/u1cmfY7UdW",
+					"display_url": "pic.twitter.com/u1cmfY7UdW",
+					"expanded_url": "https://twitter.com/jayo2dx/status/1115556404541001728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72076027,
+			"id_str": "72076027",
+			"name": "JAYO♪ - Jaeyul Lee",
+			"screen_name": "jayo2dx",
+			"location": "Seoul 🇰🇷",
+			"description": "1986.12.27(-) / GITADORA : GM-JAYO?! (0031034B0E) / RhythmGame / Mobile / Railroad / Design / 불건전; / 기동전사 ψ(｀∇´)ψ @Mysticblue1024",
+			"url": "https://t.co/PbK3OaGPRq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PbK3OaGPRq",
+							"expanded_url": "http://bloody-k.com",
+							"display_url": "bloody-k.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 515,
+			"friends_count": 365,
+			"listed_count": 26,
+			"created_at": "Sun Sep 06 17:04:39 +0000 2009",
+			"favourites_count": 3245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126390,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992798935289741313/a8MvbrNr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992798935289741313/a8MvbrNr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/72076027/1491104176",
+			"profile_link_color": "A033AF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1798,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이보시오 넥플릭스양반.. https://t.co/u1cmfY7UdW"
+	},
+	{
+		"created_at": "Wed Apr 10 02:56:09 +0000 2019",
+		"id": 1115706003117498400,
+		"id_str": "1115810671499702272",
+		"full_text": "또또 마약이랑 동성애랑 결부시키는 시도 오랜 호모포비아 전통의 뉴시스가 다시금 선보이고 있지요. 게다가 '동성행각'이라네요. 너는 그 '언론행각'과 '기자행각'은 언제 그만두냐? https://t.co/24pOcgZ09w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115705994590543900,
+					"id_str": "1115705994590543881",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D3vIsNlX4AkXIkF.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3vIsNlX4AkXIkF.png",
+					"url": "https://t.co/24pOcgZ09w",
+					"display_url": "pic.twitter.com/24pOcgZ09w",
+					"expanded_url": "https://twitter.com/dmthoth/status/1115706003117498369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 755,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 755,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115705994590543900,
+					"id_str": "1115705994590543881",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D3vIsNlX4AkXIkF.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3vIsNlX4AkXIkF.png",
+					"url": "https://t.co/24pOcgZ09w",
+					"display_url": "pic.twitter.com/24pOcgZ09w",
+					"expanded_url": "https://twitter.com/dmthoth/status/1115706003117498369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 755,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 755,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259835096,
+			"id_str": "259835096",
+			"name": "Thoth",
+			"screen_name": "dmthoth",
+			"location": "Deutschland",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1793,
+			"friends_count": 288,
+			"listed_count": 40,
+			"created_at": "Wed Mar 02 17:59:35 +0000 2011",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24259,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753959282073272320/Zfv9uhxZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753959282073272320/Zfv9uhxZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259835096/1398605272",
+			"profile_link_color": "D7882E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또또 마약이랑 동성애랑 결부시키는 시도 오랜 호모포비아 전통의 뉴시스가 다시금 선보이고 있지요. 게다가 '동성행각'이라네요. 너는 그 '언론행각'과 '기자행각'은 언제 그만두냐? https://t.co/24pOcgZ09w"
+	},
+	{
 		"created_at": "Wed Apr 10 01:01:06 +0000 2019",
 		"id": 1114860133262082000,
 		"id_str": "1115781719687221248",
