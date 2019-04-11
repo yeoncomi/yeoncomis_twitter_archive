@@ -1,6 +1,972 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 04:01:37 +0000 2019",
+		"id": 1116183325335416800,
+		"id_str": "1116189534562054144",
+		"full_text": "guide to saving money on a japan trip\n\nstep 1: live on the west coast\nstep 2: fuck you https://t.co/1omY4cE6tL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116183317974605800,
+					"id_str": "1116183317974605824",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D3160FwX4AAOEpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3160FwX4AAOEpZ.jpg",
+					"url": "https://t.co/1omY4cE6tL",
+					"display_url": "pic.twitter.com/1omY4cE6tL",
+					"expanded_url": "https://twitter.com/zetsubouquet/status/1116183325335416832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 815,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116183317974605800,
+					"id_str": "1116183317974605824",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D3160FwX4AAOEpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3160FwX4AAOEpZ.jpg",
+					"url": "https://t.co/1omY4cE6tL",
+					"display_url": "pic.twitter.com/1omY4cE6tL",
+					"expanded_url": "https://twitter.com/zetsubouquet/status/1116183325335416832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 815,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116183323070664700,
+					"id_str": "1116183323070664705",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D3160YvXkAEHfOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3160YvXkAEHfOn.jpg",
+					"url": "https://t.co/1omY4cE6tL",
+					"display_url": "pic.twitter.com/1omY4cE6tL",
+					"expanded_url": "https://twitter.com/zetsubouquet/status/1116183325335416832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 115,
+							"h": 115,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 922,
+							"h": 115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 85,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 115,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112326932,
+			"id_str": "112326932",
+			"name": "🦋zetsubouquet🦋 @ MiMas",
+			"screen_name": "zetsubouquet",
+			"location": "ネオヴェネツィア",
+			"description": "dreaming of the yurikamome line. ARIA/YKK/軌跡シリーズ/DANCERUSH. 森久保P. 日本語が下手けど練習したい(笑). 助けてくれ.",
+			"url": "https://t.co/8SastmaLMJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8SastmaLMJ",
+							"expanded_url": "https://anilist.co/user/mooty/",
+							"display_url": "anilist.co/user/mooty/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3863,
+			"friends_count": 1016,
+			"listed_count": 119,
+			"created_at": "Mon Feb 08 03:01:34 +0000 2010",
+			"favourites_count": 81314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178744,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D2F38",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082197953236819973/2xlF84q__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082197953236819973/2xlF84q__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112326932/1489468351",
+			"profile_link_color": "6900E3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "guide to saving money on a japan trip\n\nstep 1: live on the west coast\nstep 2: fuck you https://t.co/1omY4cE6tL"
+	},
+	{
+		"created_at": "Thu Apr 11 03:56:07 +0000 2019",
+		"id": 1116188151842664400,
+		"id_str": "1116188151842664449",
+		"full_text": "Social Security를 중요하게 생각을 안하나보네 병신새끼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1116188074277347300,
+		"in_reply_to_status_id_str": "1116188074277347328",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1032,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "Social Security를 중요하게 생각을 안하나보네 병신새끼"
+	},
+	{
+		"created_at": "Thu Apr 11 03:55:49 +0000 2019",
+		"id": 1116188074277347300,
+		"id_str": "1116188074277347328",
+		"full_text": "마이크 모던 저새끼는 정신이 있는건지 없는건지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1116188008695251000,
+		"in_reply_to_status_id_str": "1116188008695250944",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1032,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마이크 모던 저새끼는 정신이 있는건지 없는건지"
+	},
+	{
+		"created_at": "Thu Apr 11 03:55:33 +0000 2019",
+		"id": 1116188008695251000,
+		"id_str": "1116188008695250944",
+		"full_text": "Maple Ridge mayor ramps up rhetoric, says homeless addicts 'raping and pillaging' https://t.co/zaGwQPfwDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zaGwQPfwDf",
+					"expanded_url": "https://www.cbc.ca/news/canada/british-columbia/maple-ridge-mayor-mike-morden-rhetoric-homeless-drug-users-raping-pillaging-1.5092352",
+					"display_url": "cbc.ca/news/canada/br…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1032,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maple Ridge mayor ramps up rhetoric, says homeless addicts 'raping and pillaging' https://t.co/zaGwQPfwDf"
+	},
+	{
+		"created_at": "Thu Apr 11 03:50:08 +0000 2019",
+		"id": 1116112905592721400,
+		"id_str": "1116186645596790784",
+		"full_text": "나는 꽤 오랜 세월을 운수노동자로 살았고 자랑스럽게 생각한다..\n운전기사 출신 어쩌고 하는 TV조선의 삐뚤어진 인식에 주먹이 부르르 떨린다. https://t.co/0HIj53tsFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0HIj53tsFL",
+					"expanded_url": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002527019",
+					"display_url": "ohmynews.com/NWS_Web/View/a…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78911633,
+			"id_str": "78911633",
+			"name": "정호희",
+			"screen_name": "baltong3",
+			"location": "seoul, KOREA",
+			"description": "놀면 뭐하나 리트윗이나 하자",
+			"url": "https://t.co/CoHYHhqCpQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CoHYHhqCpQ",
+							"expanded_url": "http://www.kongaru.net",
+							"display_url": "kongaru.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122910,
+			"friends_count": 111799,
+			"listed_count": 1685,
+			"created_at": "Thu Oct 01 14:07:52 +0000 2009",
+			"favourites_count": 1390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88421,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/580930074381176833/vSXjxGNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/580930074381176833/vSXjxGNB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78911633/1554090296",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 꽤 오랜 세월을 운수노동자로 살았고 자랑스럽게 생각한다..\n운전기사 출신 어쩌고 하는 TV조선의 삐뚤어진 인식에 주먹이 부르르 떨린다. https://t.co/0HIj53tsFL"
+	},
+	{
+		"created_at": "Thu Apr 11 03:46:09 +0000 2019",
+		"id": 1115935392727855100,
+		"id_str": "1116185643866939392",
+		"full_text": "와 유튜브새끼들 지금 장난하나???\n지난달까지 제한없던 모바일 실시간 스트리밍을 구독자수 1000명 이상인 채널만 허용한다고??????? 이걸 지금 말이라고 하는 소리냐??? YouTube https://t.co/Z45sfbxJi3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115935383471022100,
+					"id_str": "1115935383471022080",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3yZUZwUYAAN1qK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3yZUZwUYAAN1qK.jpg",
+					"url": "https://t.co/Z45sfbxJi3",
+					"display_url": "pic.twitter.com/Z45sfbxJi3",
+					"expanded_url": "https://twitter.com/GTK_Hyo_Ni/status/1115935392727855105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115935383471022100,
+					"id_str": "1115935383471022080",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3yZUZwUYAAN1qK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3yZUZwUYAAN1qK.jpg",
+					"url": "https://t.co/Z45sfbxJi3",
+					"display_url": "pic.twitter.com/Z45sfbxJi3",
+					"expanded_url": "https://twitter.com/GTK_Hyo_Ni/status/1115935392727855105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475035215,
+			"id_str": "475035215",
+			"name": "GTK_Hyo_Ni",
+			"screen_name": "GTK_Hyo_Ni",
+			"location": "Nurburgring Nordschleife",
+			"description": "R.I.P. 윤여태 a.k.a. TSUKi @Lunatic_Talk (93.02.08~15.09.05) / Gran Turismo, Assetto Corsa Nordschleife Specialist",
+			"url": "https://t.co/UUjufL3A9S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UUjufL3A9S",
+							"expanded_url": "http://youtube.com/apstjohn",
+							"display_url": "youtube.com/apstjohn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 2276,
+			"listed_count": 2,
+			"created_at": "Thu Jan 26 16:25:43 +0000 2012",
+			"favourites_count": 1100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65479,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602499922420576256/o2SM4N4d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602499922420576256/o2SM4N4d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475035215/1426461318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 유튜브새끼들 지금 장난하나???\n지난달까지 제한없던 모바일 실시간 스트리밍을 구독자수 1000명 이상인 채널만 허용한다고??????? 이걸 지금 말이라고 하는 소리냐??? YouTube https://t.co/Z45sfbxJi3"
+	},
+	{
+		"created_at": "Thu Apr 11 03:45:06 +0000 2019",
+		"id": 1116177861147103200,
+		"id_str": "1116185378883424256",
+		"full_text": "이번 브렉시트 연기에 관한 공동선언문을 보니,\n\n1. 하도 지랄하니 연기해줌\n2. 재협상 안 된다\n3. 탈퇴 취소하면 언제든 받아줌 ㅎㅎ\n4. 그동안 우리 EU에 대해 이래라 저래라 할 생각 마\n5. 우린 너네 빼고 회의한다\n\n야 진짜 국격이 이렇게 바닥을 치는구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4733,
+			"friends_count": 74,
+			"listed_count": 72,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 271,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번 브렉시트 연기에 관한 공동선언문을 보니,\n\n1. 하도 지랄하니 연기해줌\n2. 재협상 안 된다\n3. 탈퇴 취소하면 언제든 받아줌 ㅎㅎ\n4. 그동안 우리 EU에 대해 이래라 저래라 할 생각 마\n5. 우린 너네 빼고 회의한다\n\n야 진짜 국격이 이렇게 바닥을 치는구나"
+	},
+	{
 		"created_at": "Thu Apr 11 02:24:31 +0000 2019",
 		"id": 1116165097351573500,
 		"id_str": "1116165097351573504",
