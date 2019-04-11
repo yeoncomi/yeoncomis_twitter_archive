@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 08:57:15 +0000 2019",
+		"id": 1115994339694374900,
+		"id_str": "1116263932484673536",
+		"full_text": "컴공친구 \n\n1학년 : 야 컴공졸업하고 나면 그 일용직이 봉고차타고가는거처럼 자바 둘 C언어 하나! 하면 막 뛰어가서 봉고차타고 일하러간다함 ㅋㅋㅋㅋ\n\n2학년 : 개드립인줄알았는데 진짜래 .. 게다가 아무래도 저거 내 미래같음 ...\n\n3학년 : 야 저것도 아무나 하는거 아니랜다 ...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206672382,
+			"id_str": "206672382",
+			"name": "【◆▼◆】",
+			"screen_name": "kasio_03",
+			"location": "방구석",
+			"description": "【◆▼◆】 / 카시오 / 귀여운거 엄청 좋아함 / 바르고착한말 / ⁽⁽٩(^ᗨ ^)۶⁾⁾",
+			"url": "https://t.co/voy82mqdli",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/voy82mqdli",
+							"expanded_url": "https://ask.fm/k65i0?utm_source=tw_share_pr",
+							"display_url": "ask.fm/k65i0?utm_sour…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 430,
+			"listed_count": 4,
+			"created_at": "Sat Oct 23 13:22:33 +0000 2010",
+			"favourites_count": 3001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 210136,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112696080800473088/hIlssmb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112696080800473088/hIlssmb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206672382/1554096690",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "컴공친구 \n\n1학년 : 야 컴공졸업하고 나면 그 일용직이 봉고차타고가는거처럼 자바 둘 C언어 하나! 하면 막 뛰어가서 봉고차타고 일하러간다함 ㅋㅋㅋㅋ\n\n2학년 : 개드립인줄알았는데 진짜래 .. 게다가 아무래도 저거 내 미래같음 ...\n\n3학년 : 야 저것도 아무나 하는거 아니랜다 ..."
+	},
+	{
+		"created_at": "Thu Apr 11 08:35:54 +0000 2019",
+		"id": 1116255962032037900,
+		"id_str": "1116258558188720128",
+		"full_text": "디씨 본사 ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/UVnhVYzgYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116255954872352800,
+					"id_str": "1116255954872352768",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D3284HSUwAAKpDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3284HSUwAAKpDy.jpg",
+					"url": "https://t.co/UVnhVYzgYA",
+					"display_url": "pic.twitter.com/UVnhVYzgYA",
+					"expanded_url": "https://twitter.com/MauserKarabiner/status/1116255962032037890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116255954872352800,
+					"id_str": "1116255954872352768",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D3284HSUwAAKpDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3284HSUwAAKpDy.jpg",
+					"url": "https://t.co/UVnhVYzgYA",
+					"display_url": "pic.twitter.com/UVnhVYzgYA",
+					"expanded_url": "https://twitter.com/MauserKarabiner/status/1116255962032037890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4497164774,
+			"id_str": "4497164774",
+			"name": "d.Anze",
+			"screen_name": "MauserKarabiner",
+			"location": "Leinster, Western Australia",
+			"description": "피콜로 전공, Conservatory Student Flutist , BJD DD, 심하게 빻았으니 주의해주세요, Division2 JTF_Soldier ,",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 4990,
+			"listed_count": 4,
+			"created_at": "Tue Dec 08 13:36:44 +0000 2015",
+			"favourites_count": 12640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97749,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112134245391032320/IhYfE49V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112134245391032320/IhYfE49V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4497164774/1554129992",
+			"profile_link_color": "710C04",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디씨 본사 ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/UVnhVYzgYA"
+	},
+	{
 		"created_at": "Thu Apr 11 04:01:37 +0000 2019",
 		"id": 1116183325335416800,
 		"id_str": "1116189534562054144",
