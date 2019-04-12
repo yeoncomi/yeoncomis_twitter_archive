@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 04:05:19 +0000 2019",
+		"id": 1116494469732261900,
+		"id_str": "1116552851717672961",
+		"full_text": "이건 세관이 좆된다는 느낌적 느낌이구나! https://t.co/9c8iyMGyni",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116494450702684200,
+					"id_str": "1116494450702684160",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D36VyZfUEAACFZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D36VyZfUEAACFZb.jpg",
+					"url": "https://t.co/9c8iyMGyni",
+					"display_url": "pic.twitter.com/9c8iyMGyni",
+					"expanded_url": "https://twitter.com/inet_death/status/1116494469732261888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116494450702684200,
+					"id_str": "1116494450702684160",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D36VyZfUEAACFZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D36VyZfUEAACFZb.jpg",
+					"url": "https://t.co/9c8iyMGyni",
+					"display_url": "pic.twitter.com/9c8iyMGyni",
+					"expanded_url": "https://twitter.com/inet_death/status/1116494469732261888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30492944,
+			"id_str": "30492944",
+			"name": "과로 Inet",
+			"screen_name": "inet_death",
+			"location": "헬조센",
+			"description": "헬-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 332,
+			"listed_count": 24,
+			"created_at": "Sat Apr 11 18:11:47 +0000 2009",
+			"favourites_count": 6895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70118,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035734517351211008/sLS20SOL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035734517351211008/sLS20SOL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30492944/1535773370",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건 세관이 좆된다는 느낌적 느낌이구나! https://t.co/9c8iyMGyni"
+	},
+	{
+		"created_at": "Fri Apr 12 04:03:01 +0000 2019",
+		"id": 1116383825867599900,
+		"id_str": "1116552274665361408",
+		"full_text": "10시간동안 욕설 듣다 기절한 상담원....jpg https://t.co/EBIqh0ea8f https://t.co/W1lnOO4uqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBIqh0ea8f",
+					"expanded_url": "https://instiz.net/pt/6078947",
+					"display_url": "instiz.net/pt/6078947",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116383817827110900,
+					"id_str": "1116383817827110912",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D34xKt6UUAAAClA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D34xKt6UUAAAClA.jpg",
+					"url": "https://t.co/W1lnOO4uqc",
+					"display_url": "pic.twitter.com/W1lnOO4uqc",
+					"expanded_url": "https://twitter.com/instiz/status/1116383825867599872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 691,
+							"h": 918,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116383817827110900,
+					"id_str": "1116383817827110912",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D34xKt6UUAAAClA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D34xKt6UUAAAClA.jpg",
+					"url": "https://t.co/W1lnOO4uqc",
+					"display_url": "pic.twitter.com/W1lnOO4uqc",
+					"expanded_url": "https://twitter.com/instiz/status/1116383825867599872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 691,
+							"h": 918,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116383817806127100,
+					"id_str": "1116383817806127104",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D34xKt1UIAA-Ld8.png",
+					"media_url_https": "https://pbs.twimg.com/media/D34xKt1UIAA-Ld8.png",
+					"url": "https://t.co/W1lnOO4uqc",
+					"display_url": "pic.twitter.com/W1lnOO4uqc",
+					"expanded_url": "https://twitter.com/instiz/status/1116383825867599872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 691,
+							"h": 890,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 691,
+							"h": 890,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116383817810362400,
+					"id_str": "1116383817810362368",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D34xKt2UwAAAKYi.png",
+					"media_url_https": "https://pbs.twimg.com/media/D34xKt2UwAAAKYi.png",
+					"url": "https://t.co/W1lnOO4uqc",
+					"display_url": "pic.twitter.com/W1lnOO4uqc",
+					"expanded_url": "https://twitter.com/instiz/status/1116383825867599872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 691,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 691,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184363884,
+			"id_str": "184363884",
+			"name": "인스티즈 연예소식",
+			"screen_name": "instiz",
+			"location": "많은 연예계 이슈가 여기서 시작!",
+			"description": "국내 최대의 연예오락 커뮤니티 인스티즈(instiz, 音思提资)",
+			"url": "https://t.co/kA7Yyj98FV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kA7Yyj98FV",
+							"expanded_url": "http://www.instiz.net",
+							"display_url": "instiz.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879715,
+			"friends_count": 406266,
+			"listed_count": 1057,
+			"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78309,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1537878306",
+			"profile_link_color": "0DAB57",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3039,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10시간동안 욕설 듣다 기절한 상담원....jpg https://t.co/EBIqh0ea8f https://t.co/W1lnOO4uqc"
+	},
+	{
+		"created_at": "Fri Apr 12 04:00:14 +0000 2019",
+		"id": 1116504595478368300,
+		"id_str": "1116551573021184001",
+		"full_text": "의전병 걸리더니 대통령병도 걸렸네\n도른\n\n[단독]황교안, 방미 준비 착수.. 트럼프 면담도 타진 | 다음뉴스 https://t.co/AfoLNP0AU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AfoLNP0AU4",
+					"expanded_url": "https://news.v.daum.net/v/20190412030035240?f=m",
+					"display_url": "news.v.daum.net/v/201904120300…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145072774,
+			"id_str": "145072774",
+			"name": "꿀동",
+			"screen_name": "withallmyhearts",
+			"location": "",
+			"description": "JAY PARK / 박재범 / Jwalkerz (JAY-EFFECT) / PHOTOGRAPHY / 내 가수 덕질과 정치얘기 섞어서 하는 중 / 알계 플텍계 차단.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2707,
+			"friends_count": 275,
+			"listed_count": 30,
+			"created_at": "Tue May 18 02:05:09 +0000 2010",
+			"favourites_count": 36485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 199777,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/589325199499141120/_tztcV-t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/589325199499141120/_tztcV-t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145072774/1532359089",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "A6BAF5",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "의전병 걸리더니 대통령병도 걸렸네\n도른\n\n[단독]황교안, 방미 준비 착수.. 트럼프 면담도 타진 | 다음뉴스 https://t.co/AfoLNP0AU4"
+	},
+	{
+		"created_at": "Fri Apr 12 03:49:55 +0000 2019",
+		"id": 1114027951417258000,
+		"id_str": "1116548978898718721",
+		"full_text": "속초시청에서 보고 받는 황교안\n\n야 지금 뭐하는 거야???\n행정부 통솔 권한도 없는놈이  일하느라 바쁜 데 가서\n보고 받고 뭐하는 짓거리임???\n\n대통령이랑 국무총리도 의례적인 보고는 하지말고\n해야 할 일에 만전을 기하라고 부탁했는데\n이 자슥은  뭔데 진짜 https://t.co/GYrB6VObEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114027948758032400,
+					"id_str": "1114027948758032385",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XShFuUYAEspkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XShFuUYAEspkz.jpg",
+					"url": "https://t.co/GYrB6VObEh",
+					"display_url": "pic.twitter.com/GYrB6VObEh",
+					"expanded_url": "https://twitter.com/s17221/status/1114027951417257985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114027948758032400,
+					"id_str": "1114027948758032385",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XShFuUYAEspkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XShFuUYAEspkz.jpg",
+					"url": "https://t.co/GYrB6VObEh",
+					"display_url": "pic.twitter.com/GYrB6VObEh",
+					"expanded_url": "https://twitter.com/s17221/status/1114027951417257985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401392722,
+			"id_str": "401392722",
+			"name": "촛불 연대기수 (공수처설치)",
+			"screen_name": "s17221",
+			"location": "",
+			"description": "기회는 평등해야하고 ,과정은 공정해야하고,결과는 정의로와야한다 이게 우리가 앞으로 가져야할 가치관이다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56893,
+			"friends_count": 34717,
+			"listed_count": 218,
+			"created_at": "Sun Oct 30 13:42:35 +0000 2011",
+			"favourites_count": 60784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 628278,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106335585155768320/nPZ9wsgJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106335585155768320/nPZ9wsgJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401392722/1549157475",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4449,
+		"favorite_count": 998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속초시청에서 보고 받는 황교안\n\n야 지금 뭐하는 거야???\n행정부 통솔 권한도 없는놈이  일하느라 바쁜 데 가서\n보고 받고 뭐하는 짓거리임???\n\n대통령이랑 국무총리도 의례적인 보고는 하지말고\n해야 할 일에 만전을 기하라고 부탁했는데\n이 자슥은  뭔데 진짜 https://t.co/GYrB6VObEh"
+	},
+	{
 		"created_at": "Fri Apr 12 02:25:52 +0000 2019",
 		"id": 1116527827992449000,
 		"id_str": "1116527827992449024",
