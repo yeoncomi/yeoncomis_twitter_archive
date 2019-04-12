@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 00:56:55 +0000 2019",
+		"id": 1115538395747377200,
+		"id_str": "1116505441561767936",
+		"full_text": "논란의 시작이었던 동아리가 여성주의 동아리로 이름을 바꿨다. '전 페미니스트 모임' 이란 말이 꽤 상징적으로 다가온다. 그냥 TERF 동아리로 바꾸지. https://t.co/yqZ5ReZpPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115538134370938900,
+					"id_str": "1115538134370938881",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D3swBdiU8AE3YnN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3swBdiU8AE3YnN.png",
+					"url": "https://t.co/yqZ5ReZpPY",
+					"display_url": "pic.twitter.com/yqZ5ReZpPY",
+					"expanded_url": "https://twitter.com/Caster_KKW/status/1115538395747377153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115538134370938900,
+					"id_str": "1115538134370938881",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D3swBdiU8AE3YnN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3swBdiU8AE3YnN.png",
+					"url": "https://t.co/yqZ5ReZpPY",
+					"display_url": "pic.twitter.com/yqZ5ReZpPY",
+					"expanded_url": "https://twitter.com/Caster_KKW/status/1115538395747377153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 276,
+							"h": 112,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2969502211,
+			"id_str": "2969502211",
+			"name": "김경우 (aka. Esperanza)",
+			"screen_name": "Caster_KKW",
+			"location": "",
+			"description": "前 LCS, CK 게임캐스터 / FF14 (카벙클) / 뱅드림 AfterGlow 메인 / 사담 많습니다 / 약 스포 주의 / RT가 곧 동의는 아님 / #MSFWIN🐰 / 인장 @ C_01Z5님 커미션 / 마음봇 제발 오지 마세요 / TERF 안받습니다.",
+			"url": "https://t.co/FvFQOsoJRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FvFQOsoJRf",
+							"expanded_url": "https://www.twitch.tv/kimkyoungwoo",
+							"display_url": "twitch.tv/kimkyoungwoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 440,
+			"listed_count": 11,
+			"created_at": "Fri Jan 09 14:48:16 +0000 2015",
+			"favourites_count": 6013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46689,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089044835175026688/ujT8z9VR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089044835175026688/ujT8z9VR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2969502211/1550884708",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "논란의 시작이었던 동아리가 여성주의 동아리로 이름을 바꿨다. '전 페미니스트 모임' 이란 말이 꽤 상징적으로 다가온다. 그냥 TERF 동아리로 바꾸지. https://t.co/yqZ5ReZpPY"
+	},
+	{
 		"created_at": "Thu Apr 11 22:16:26 +0000 2019",
 		"id": 1116108074937249800,
 		"id_str": "1116465055577464832",
