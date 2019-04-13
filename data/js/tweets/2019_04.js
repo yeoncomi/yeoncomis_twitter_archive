@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 14:04:36 +0000 2019",
+		"id": 1116933160858554400,
+		"id_str": "1117066054696484864",
+		"full_text": "이 사진이 존나 오지는 이유\n\n두달전\n케냐쪽으로 군사고문으로 간 SAS 대원인데 자기 주변\n호텔에서 테러 벌어지니 자기 장비랑 총 트렁크에서 꺼낸뒤 출동한 케냐 경찰들 도와주면서 인질도 구출함 https://t.co/15efHdd1VQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116933145587118100,
+					"id_str": "1116933145587118081",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D4AkxzSUcAEZdBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4AkxzSUcAEZdBP.jpg",
+					"url": "https://t.co/15efHdd1VQ",
+					"display_url": "pic.twitter.com/15efHdd1VQ",
+					"expanded_url": "https://twitter.com/Triad_rin_/status/1116933160858554368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116933145587118100,
+					"id_str": "1116933145587118081",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D4AkxzSUcAEZdBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4AkxzSUcAEZdBP.jpg",
+					"url": "https://t.co/15efHdd1VQ",
+					"display_url": "pic.twitter.com/15efHdd1VQ",
+					"expanded_url": "https://twitter.com/Triad_rin_/status/1116933160858554368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 730,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 730,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116933153308827600,
+					"id_str": "1116933153308827648",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D4AkyQDUYAAbCKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4AkyQDUYAAbCKI.jpg",
+					"url": "https://t.co/15efHdd1VQ",
+					"display_url": "pic.twitter.com/15efHdd1VQ",
+					"expanded_url": "https://twitter.com/Triad_rin_/status/1116933160858554368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871315323118534700,
+			"id_str": "871315323118534657",
+			"name": "Rin💮Trinity💮",
+			"screen_name": "Triad_rin_",
+			"location": "B",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152,
+			"friends_count": 121,
+			"listed_count": 3,
+			"created_at": "Sun Jun 04 10:38:56 +0000 2017",
+			"favourites_count": 1114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76001,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110370924572733443/ZLFIfeiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110370924572733443/ZLFIfeiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871315323118534657/1554565284",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 사진이 존나 오지는 이유\n\n두달전\n케냐쪽으로 군사고문으로 간 SAS 대원인데 자기 주변\n호텔에서 테러 벌어지니 자기 장비랑 총 트렁크에서 꺼낸뒤 출동한 케냐 경찰들 도와주면서 인질도 구출함 https://t.co/15efHdd1VQ"
+	},
+	{
+		"created_at": "Sat Apr 13 13:50:35 +0000 2019",
+		"id": 1116973886225043500,
+		"id_str": "1117062528368988163",
+		"full_text": "나: 크롬을 클릭함\n크롬: *열리지 않음*\n나: *18번 더 크롬을 클릭함*\n크롬: https://t.co/tDVtaIlyQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116973876917854200,
+					"id_str": "1116973876917854208",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BJ0rUUYAAU-Zs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BJ0rUUYAAU-Zs.jpg",
+					"url": "https://t.co/tDVtaIlyQj",
+					"display_url": "pic.twitter.com/tDVtaIlyQj",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1116973886225043459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116973876917854200,
+					"id_str": "1116973876917854208",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BJ0rUUYAAU-Zs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BJ0rUUYAAU-Zs.jpg",
+					"url": "https://t.co/tDVtaIlyQj",
+					"display_url": "pic.twitter.com/tDVtaIlyQj",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1116973886225043459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "BRUH\n\n\n레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17178,
+			"friends_count": 2,
+			"listed_count": 50,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1128,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 762,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나: 크롬을 클릭함\n크롬: *열리지 않음*\n나: *18번 더 크롬을 클릭함*\n크롬: https://t.co/tDVtaIlyQj"
+	},
+	{
 		"created_at": "Sat Apr 13 08:43:09 +0000 2019",
 		"id": 1116985158765142000,
 		"id_str": "1116985158765142016",
