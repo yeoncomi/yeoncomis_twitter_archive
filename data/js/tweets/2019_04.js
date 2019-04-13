@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 22:28:47 +0000 2019",
+		"id": 1117120977094303700,
+		"id_str": "1117192936792289280",
+		"full_text": "https://t.co/3IK32k0uNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117120973969547300,
+					"id_str": "1117120973969547267",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4DPm2iX4AMBwTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4DPm2iX4AMBwTf.jpg",
+					"url": "https://t.co/3IK32k0uNZ",
+					"display_url": "pic.twitter.com/3IK32k0uNZ",
+					"expanded_url": "https://twitter.com/kenklippenstein/status/1117120977094303754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 965,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117120973969547300,
+					"id_str": "1117120973969547267",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4DPm2iX4AMBwTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4DPm2iX4AMBwTf.jpg",
+					"url": "https://t.co/3IK32k0uNZ",
+					"display_url": "pic.twitter.com/3IK32k0uNZ",
+					"expanded_url": "https://twitter.com/kenklippenstein/status/1117120977094303754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 965,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117120973986246700,
+					"id_str": "1117120973986246657",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4DPm2mWsAEacHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4DPm2mWsAEacHn.jpg",
+					"url": "https://t.co/3IK32k0uNZ",
+					"display_url": "pic.twitter.com/3IK32k0uNZ",
+					"expanded_url": "https://twitter.com/kenklippenstein/status/1117120977094303754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1634248890,
+			"id_str": "1634248890",
+			"name": "Ken Klippenstein",
+			"screen_name": "kenklippenstein",
+			"location": "USA! USA! USA!",
+			"description": "Reporter @tytinvestigates. FOIA nerd. *SEND TIPS*: 202-510-1268 (use Signal). Email: kenk@tyt.com IG: https://t.co/dWf8CtPb8S",
+			"url": "https://t.co/gfeiiAPfzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gfeiiAPfzj",
+							"expanded_url": "https://www.facebook.com/kenklippen",
+							"display_url": "facebook.com/kenklippen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dWf8CtPb8S",
+							"expanded_url": "https://www.instagram.com/kenklipp/",
+							"display_url": "instagram.com/kenklipp/",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 105106,
+			"friends_count": 3428,
+			"listed_count": 1478,
+			"created_at": "Wed Jul 31 01:41:01 +0000 2013",
+			"favourites_count": 59006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13096,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115723651914113024/sHvZayNP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115723651914113024/sHvZayNP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1634248890/1552616107",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2061,
+		"favorite_count": 9265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3IK32k0uNZ"
+	},
+	{
 		"created_at": "Sat Apr 13 14:04:36 +0000 2019",
 		"id": 1116933160858554400,
 		"id_str": "1117066054696484864",
