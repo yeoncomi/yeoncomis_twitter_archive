@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 06:12:57 +0000 2019",
+		"id": 1116876768294494200,
+		"id_str": "1116947360137895936",
+		"full_text": "#트친들_9할은_못해봤을_경험\n\n고려대 합격해 여장한 16학번 새내기 사연 (사진) https://t.co/GLEpolofU7 @insight_co_kr 님이 씀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트친들_9할은_못해봤을_경험",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "insight_co_kr",
+					"name": "인사이트",
+					"id": 1711736172,
+					"id_str": "1711736172",
+					"indices": [
+						71,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GLEpolofU7",
+					"expanded_url": "https://m.insight.co.kr/newsRead.php?ArtNo=52581",
+					"display_url": "m.insight.co.kr/newsRead.php?A…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3190841569,
+			"id_str": "3190841569",
+			"name": "LICIA compat",
+			"screen_name": "liciaesr",
+			"location": "~ 2021.09.18.",
+			"description": "Software Engineer, Rhythmgamer, Drinker, Cosplayer.\n\nKUCSE CATDOG; Team WF; Team GtH;\n\n@public_yuri💖\n본계: @liciaris",
+			"url": "https://t.co/TMbWxW1eQ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMbWxW1eQ5",
+							"expanded_url": "https://seiker.moe",
+							"display_url": "seiker.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 742,
+			"listed_count": 31,
+			"created_at": "Sun May 10 13:09:00 +0000 2015",
+			"favourites_count": 23617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 250929,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114761368727502849/p_4iCP2w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3190841569/1549289065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#트친들_9할은_못해봤을_경험\n\n고려대 합격해 여장한 16학번 새내기 사연 (사진) https://t.co/GLEpolofU7 @insight_co_kr 님이 씀"
+	},
+	{
+		"created_at": "Sat Apr 13 06:11:12 +0000 2019",
+		"id": 1041680579165474800,
+		"id_str": "1116946920033751040",
+		"full_text": "학점은 없어 내가 먹어치워 버렸거든!!! https://t.co/akTtjB5SEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1041680564133097500,
+					"id_str": "1041680564133097472",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DnTK9DqU8AAcVE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnTK9DqU8AAcVE0.jpg",
+					"url": "https://t.co/akTtjB5SEP",
+					"display_url": "pic.twitter.com/akTtjB5SEP",
+					"expanded_url": "https://twitter.com/hall_of_maple/status/1041680579165474817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1041680564133097500,
+					"id_str": "1041680564133097472",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DnTK9DqU8AAcVE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnTK9DqU8AAcVE0.jpg",
+					"url": "https://t.co/akTtjB5SEP",
+					"display_url": "pic.twitter.com/akTtjB5SEP",
+					"expanded_url": "https://twitter.com/hall_of_maple/status/1041680579165474817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 944055748383748100,
+			"id_str": "944055748383748097",
+			"name": "메이플 명예의 전당",
+			"screen_name": "hall_of_maple",
+			"location": "",
+			"description": "문의 및 제보는 DM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3438,
+			"friends_count": 1,
+			"listed_count": 4,
+			"created_at": "Fri Dec 22 04:03:24 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/973580123730411521/UsLiCIwq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/973580123730411521/UsLiCIwq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944055748383748097/1515342625",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3064,
+		"favorite_count": 911,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학점은 없어 내가 먹어치워 버렸거든!!! https://t.co/akTtjB5SEP"
+	},
+	{
+		"created_at": "Sat Apr 13 05:43:26 +0000 2019",
+		"id": 1116260147666382800,
+		"id_str": "1116939931316654080",
+		"full_text": "범죄자가 자수하는게 빠를 레벨 https://t.co/B3u1hMD6M2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116259855663165400,
+					"id_str": "1116259855663165440",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D33AbK3U8AAA-bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D33AbK3U8AAA-bi.jpg",
+					"url": "https://t.co/B3u1hMD6M2",
+					"display_url": "pic.twitter.com/B3u1hMD6M2",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1116260147666382849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1235,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116259855663165400,
+					"id_str": "1116259855663165440",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D33AbK3U8AAA-bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D33AbK3U8AAA-bi.jpg",
+					"url": "https://t.co/B3u1hMD6M2",
+					"display_url": "pic.twitter.com/B3u1hMD6M2",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1116260147666382849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1235,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116259893919379500,
+					"id_str": "1116259893919379456",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D33AdZYUcAA0axh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D33AdZYUcAA0axh.jpg",
+					"url": "https://t.co/B3u1hMD6M2",
+					"display_url": "pic.twitter.com/B3u1hMD6M2",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1116260147666382849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Warframe-Mesa",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 519,
+			"friends_count": 160,
+			"listed_count": 5,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 29698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113735793506283520/6cT-cOA8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113735793506283520/6cT-cOA8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1552026259",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6824,
+		"favorite_count": 2523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "범죄자가 자수하는게 빠를 레벨 https://t.co/B3u1hMD6M2"
+	},
+	{
+		"created_at": "Sat Apr 13 05:41:27 +0000 2019",
+		"id": 1116939125762875400,
+		"id_str": "1116939432467128321",
+		"full_text": "https://t.co/evbJud0Yna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116939122780692500,
+					"id_str": "1116939122780692480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4AqNuEUYAA3nct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4AqNuEUYAA3nct.jpg",
+					"url": "https://t.co/evbJud0Yna",
+					"display_url": "pic.twitter.com/evbJud0Yna",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1116939125762875393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116939122780692500,
+					"id_str": "1116939122780692480",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4AqNuEUYAA3nct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4AqNuEUYAA3nct.jpg",
+					"url": "https://t.co/evbJud0Yna",
+					"display_url": "pic.twitter.com/evbJud0Yna",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1116939125762875393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179891008,
+			"id_str": "179891008",
+			"name": "시프트 / shift*",
+			"screen_name": "shiftpsh",
+			"location": "바닐라",
+			"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, 모펀 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊",
+			"url": "https://t.co/KKdZ63KnmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKdZ63KnmY",
+							"expanded_url": "https://shift.moe",
+							"display_url": "shift.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RNmbjyXMBU",
+							"expanded_url": "http://sft.sh/works",
+							"display_url": "sft.sh/works",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/3hg2iNSCMZ",
+							"expanded_url": "http://sft.sh/ask",
+							"display_url": "sft.sh/ask",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2069,
+			"friends_count": 740,
+			"listed_count": 20,
+			"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+			"favourites_count": 26712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69949,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1553962316",
+			"profile_link_color": "FF3B57",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/evbJud0Yna"
+	},
+	{
 		"created_at": "Sat Apr 13 03:39:19 +0000 2019",
 		"id": 1116907027492589600,
 		"id_str": "1116908700210352128",
