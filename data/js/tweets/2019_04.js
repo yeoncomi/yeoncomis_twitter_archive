@@ -1,6 +1,1037 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 08:10:01 +0000 2019",
+		"id": 1116669941300600800,
+		"id_str": "1116976822090997760",
+		"full_text": "전두환의 민정당 창당 발기인 \n이명박근혜 열혈 공개 지지자\n4대강이 우리의 삶을 풍요롭게 한다고 홍보영상 출연자\n\n이. 순. 재.  \n\n그가 요즘 연예계의 어른? 쓴소리? 일침? 이런 걸 한다. 웃기고 있네. https://t.co/B33e6snLYq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116669496024895500,
+					"id_str": "1116669496024895490",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D380_YIUEAIOzYG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D380_YIUEAIOzYG.png",
+					"url": "https://t.co/B33e6snLYq",
+					"display_url": "pic.twitter.com/B33e6snLYq",
+					"expanded_url": "https://twitter.com/uklondon21/status/1116669941300600833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 509,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116669496024895500,
+					"id_str": "1116669496024895490",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D380_YIUEAIOzYG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D380_YIUEAIOzYG.png",
+					"url": "https://t.co/B33e6snLYq",
+					"display_url": "pic.twitter.com/B33e6snLYq",
+					"expanded_url": "https://twitter.com/uklondon21/status/1116669941300600833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 509,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116669518594445300,
+					"id_str": "1116669518594445312",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D381AsNUEAAgA7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D381AsNUEAAgA7l.jpg",
+					"url": "https://t.co/B33e6snLYq",
+					"display_url": "pic.twitter.com/B33e6snLYq",
+					"expanded_url": "https://twitter.com/uklondon21/status/1116669941300600833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 455,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 151,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 267,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111457242,
+			"id_str": "111457242",
+			"name": "보부상",
+			"screen_name": "uklondon21",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2013,
+			"friends_count": 343,
+			"listed_count": 14,
+			"created_at": "Fri Feb 05 00:29:56 +0000 2010",
+			"favourites_count": 55897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111457242/1457345264",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전두환의 민정당 창당 발기인 \n이명박근혜 열혈 공개 지지자\n4대강이 우리의 삶을 풍요롭게 한다고 홍보영상 출연자\n\n이. 순. 재.  \n\n그가 요즘 연예계의 어른? 쓴소리? 일침? 이런 걸 한다. 웃기고 있네. https://t.co/B33e6snLYq"
+	},
+	{
+		"created_at": "Sat Apr 13 07:50:57 +0000 2019",
+		"id": 1116972024709013500,
+		"id_str": "1116972024709013504",
+		"full_text": "#알티한_트친에게_문제내고_맞추면_소원권",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알티한_트친에게_문제내고_맞추면_소원권",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|@MarshyPlay|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 1030,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "#알티한_트친에게_문제내고_맞추면_소원권"
+	},
+	{
+		"created_at": "Sat Apr 13 07:49:56 +0000 2019",
+		"id": 1116318709461569500,
+		"id_str": "1116971767120023553",
+		"full_text": "これもうアニメの記事じゃないよ https://t.co/VPzUywpzwY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116318666331570200,
+					"id_str": "1116318666331570176",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D3316ZrUwAAjzCj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3316ZrUwAAjzCj.png",
+					"url": "https://t.co/VPzUywpzwY",
+					"display_url": "pic.twitter.com/VPzUywpzwY",
+					"expanded_url": "https://twitter.com/llillllliilil/status/1116318709461569536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 710,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116318666331570200,
+					"id_str": "1116318666331570176",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D3316ZrUwAAjzCj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3316ZrUwAAjzCj.png",
+					"url": "https://t.co/VPzUywpzwY",
+					"display_url": "pic.twitter.com/VPzUywpzwY",
+					"expanded_url": "https://twitter.com/llillllliilil/status/1116318709461569536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 710,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 907262228088332300,
+			"id_str": "907262228088332288",
+			"name": "琴葉らん🍀",
+			"screen_name": "llillllliilil",
+			"location": "私立いづも学園　生徒指導室",
+			"description": "狂気の長女→@Ib_NOeSIS　　　　　　狂愛の次女→@NegaPozi1　　　　　　愛でてる弟→@torikuji_2511　　　　　現在三姉妹の狂惑担当。\n最近はネクロダンサーとかパズドラとか、色々手を出してます。モンクゾーン2。たまに精神が不安定になりますが優しく見守ってやってください。ある葵ちゃんと絡んでます",
+			"url": "https://t.co/hoviBYlBcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hoviBYlBcV",
+							"expanded_url": "https://love-letter.club/to/llillllliilil/",
+							"display_url": "love-letter.club/to/llillllliil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 721,
+			"listed_count": 17,
+			"created_at": "Mon Sep 11 15:19:06 +0000 2017",
+			"favourites_count": 36193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23441,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112656791362396162/umaVzcyi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112656791362396162/umaVzcyi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/907262228088332288/1547824287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3945,
+		"favorite_count": 6190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "これもうアニメの記事じゃないよ https://t.co/VPzUywpzwY"
+	},
+	{
+		"created_at": "Sat Apr 13 07:48:07 +0000 2019",
+		"id": 1116768186597281800,
+		"id_str": "1116971309630537733",
+		"full_text": "No matter how positive of a development, like being the first person to take a photo of a black hole, YouTube's algorithm will reward the most extreme, almost universally negative version of any topic.\n\nIt's not just baked into the cake. It is the cake. https://t.co/C4OeDNPbO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4OeDNPbO8",
+					"expanded_url": "https://twitter.com/minimaxir/status/1116761154141876224",
+					"display_url": "twitter.com/minimaxir/stat…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102594136,
+			"id_str": "102594136",
+			"name": "Ben Collins",
+			"screen_name": "oneunderscore__",
+			"location": "New York, NY",
+			"description": "Reporter, dystopia beat, @NBCNews.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58235,
+			"friends_count": 4755,
+			"listed_count": 1030,
+			"created_at": "Thu Jan 07 06:09:14 +0000 2010",
+			"favourites_count": 58502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27322,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102594136/1488225362",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116761154141876200,
+		"quoted_status_id_str": "1116761154141876224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C4OeDNPbO8",
+			"expanded": "https://twitter.com/minimaxir/status/1116761154141876224",
+			"display": "twitter.com/minimaxir/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 12 17:53:02 +0000 2019",
+			"id": 1116761154141876200,
+			"id_str": "1116761154141876224",
+			"full_text": "YouTube algorithm vs. Katie Bouman https://t.co/3TABQ2vitN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116761149909811200,
+						"id_str": "1116761149909811202",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D3-IWVdUwAIiesR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3-IWVdUwAIiesR.jpg",
+						"url": "https://t.co/3TABQ2vitN",
+						"display_url": "pic.twitter.com/3TABQ2vitN",
+						"expanded_url": "https://twitter.com/minimaxir/status/1116761154141876224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1492,
+								"h": 706,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116761149909811200,
+						"id_str": "1116761149909811202",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D3-IWVdUwAIiesR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3-IWVdUwAIiesR.jpg",
+						"url": "https://t.co/3TABQ2vitN",
+						"display_url": "pic.twitter.com/3TABQ2vitN",
+						"expanded_url": "https://twitter.com/minimaxir/status/1116761154141876224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1492,
+								"h": 706,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145057047,
+				"id_str": "145057047",
+				"name": "Max Woolf",
+				"screen_name": "minimaxir",
+				"location": "San Francisco",
+				"description": "Data Scientist at @BuzzFeed in San Francisco. Ex-@Apple. @CarnegieMellon graduate. Plotter of pretty charts. Former TechCrunch comment troll.",
+				"url": "https://t.co/vdaa4ef66c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vdaa4ef66c",
+								"expanded_url": "http://minimaxir.com",
+								"display_url": "minimaxir.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4972,
+				"friends_count": 298,
+				"listed_count": 188,
+				"created_at": "Tue May 18 01:14:17 +0000 2010",
+				"favourites_count": 6768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12006,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1059191623140155392/xzuwKsIX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059191623140155392/xzuwKsIX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145057047/1450556243",
+				"profile_link_color": "2C3E50",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "111111",
+				"profile_text_color": "EEEEEE",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1249,
+			"favorite_count": 5186,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ht"
+		},
+		"retweet_count": 4770,
+		"favorite_count": 17327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No matter how positive of a development, like being the first person to take a photo of a black hole, YouTube's algorithm will reward the most extreme, almost universally negative version of any topic.\n\nIt's not just baked into the cake. It is the cake. https://t.co/C4OeDNPbO8"
+	},
+	{
+		"created_at": "Sat Apr 13 07:45:30 +0000 2019",
+		"id": 1065082565617303600,
+		"id_str": "1116970651728744449",
+		"full_text": "https://t.co/G0oQu1caoy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1065082518074908700,
+					"id_str": "1065082518074908672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsfu6DpVYAAWOAO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsfu6DpVYAAWOAO.jpg",
+					"url": "https://t.co/G0oQu1caoy",
+					"display_url": "pic.twitter.com/G0oQu1caoy",
+					"expanded_url": "https://twitter.com/NewGenHmmm/status/1065082565617303552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 833,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1065082518074908700,
+					"id_str": "1065082518074908672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsfu6DpVYAAWOAO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsfu6DpVYAAWOAO.jpg",
+					"url": "https://t.co/G0oQu1caoy",
+					"display_url": "pic.twitter.com/G0oQu1caoy",
+					"expanded_url": "https://twitter.com/NewGenHmmm/status/1065082565617303552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 833,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1062064002556092400,
+			"id_str": "1062064002556092416",
+			"name": "신세대 의문",
+			"screen_name": "NewGenHmmm",
+			"location": "식물이 태양을 먹나요",
+			"description": "신세대의 멍청함을 한국어로 느껴보세요👌😂💯",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27683,
+			"friends_count": 2,
+			"listed_count": 89,
+			"created_at": "Mon Nov 12 19:26:05 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115153688840921088/Ix6XZ-sA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115153688840921088/Ix6XZ-sA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1062064002556092416/1543802938",
+			"profile_link_color": "FF90FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1816,
+		"favorite_count": 437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/G0oQu1caoy"
+	},
+	{
+		"created_at": "Sat Apr 13 07:44:39 +0000 2019",
+		"id": 1116966757766328300,
+		"id_str": "1116970438033203200",
+		"full_text": "#알티한_트친에게_문제내고_맞추면_소원권\n\n객관식으로 함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알티한_트친에게_문제내고_맞추면_소원권",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4382629692,
+			"id_str": "4382629692",
+			"name": "페달",
+			"screen_name": "constituent_",
+			"location": "",
+			"description": "のんのんびより/ バンドリ / 少女終末旅行 / ばらかもん / Made in Abyss etc. / 休学中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 366,
+			"listed_count": 18,
+			"created_at": "Sat Nov 28 00:17:44 +0000 2015",
+			"favourites_count": 8108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116977174966259712/Qx0KHjiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116977174966259712/Qx0KHjiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4382629692/1553995666",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#알티한_트친에게_문제내고_맞추면_소원권\n\n객관식으로 함"
+	},
+	{
 		"created_at": "Sat Apr 13 06:40:08 +0000 2019",
 		"id": 1116954201953849300,
 		"id_str": "1116954201953849346",
