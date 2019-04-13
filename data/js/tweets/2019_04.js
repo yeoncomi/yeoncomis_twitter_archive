@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 03:02:42 +0000 2019",
+		"id": 1116623375202312200,
+		"id_str": "1116899485529989126",
+		"full_text": "개는 몸길이 95cm 되는  올드 잉글리쉬 쉽독.\n\n부산의 어느 아파트 복도에서 29여자와 개가 승강기를 나오다가\n\n음식물 쓰레기통을 들고 오던 39남성의 생식기를 깨물어버려\n\n봉합수술을 받았다함.\n\n29여자 견주는 과실치상혐의로 입건. https://t.co/9rXZI4B8W9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116623370596937700,
+					"id_str": "1116623370596937728",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D38LChhUcAAQhRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D38LChhUcAAQhRR.jpg",
+					"url": "https://t.co/9rXZI4B8W9",
+					"display_url": "pic.twitter.com/9rXZI4B8W9",
+					"expanded_url": "https://twitter.com/chaj92771/status/1116623375202312195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 135,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 135,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 135,
+							"h": 135,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116623370596937700,
+					"id_str": "1116623370596937728",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D38LChhUcAAQhRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D38LChhUcAAQhRR.jpg",
+					"url": "https://t.co/9rXZI4B8W9",
+					"display_url": "pic.twitter.com/9rXZI4B8W9",
+					"expanded_url": "https://twitter.com/chaj92771/status/1116623375202312195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 135,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 135,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 135,
+							"h": 135,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976761588945334300,
+			"id_str": "976761588945334272",
+			"name": "Cataria",
+			"screen_name": "chaj92771",
+			"location": "광주광역시",
+			"description": "영원한 고요절을 꿈꾸며",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 422,
+			"listed_count": 2,
+			"created_at": "Thu Mar 22 10:04:44 +0000 2018",
+			"favourites_count": 1586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112727563044974593/5rN6TauF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112727563044974593/5rN6TauF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976761588945334272/1554129943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개는 몸길이 95cm 되는  올드 잉글리쉬 쉽독.\n\n부산의 어느 아파트 복도에서 29여자와 개가 승강기를 나오다가\n\n음식물 쓰레기통을 들고 오던 39남성의 생식기를 깨물어버려\n\n봉합수술을 받았다함.\n\n29여자 견주는 과실치상혐의로 입건. https://t.co/9rXZI4B8W9"
+	},
+	{
+		"created_at": "Sat Apr 13 02:47:05 +0000 2019",
+		"id": 1116732014969753600,
+		"id_str": "1116895554787631104",
+		"full_text": "도서관보다 교회가 더 많은 한국. 도서관이 아닌 종교 단체가 지역사회의 거점이 되면 정보를 선택적으로 수용하면서 다양성 포용도가 낮아질 수 있음. 공공도서관은 시민들이 정보의 올바른 취사선택을 할 수 있도록 미디어 리터러시 교육을 강화해야 함. https://t.co/8gteW1rAs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116732010163138600,
+					"id_str": "1116732010163138563",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D39t2LcU8AMYOtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D39t2LcU8AMYOtq.jpg",
+					"url": "https://t.co/8gteW1rAs7",
+					"display_url": "pic.twitter.com/8gteW1rAs7",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1116732014969753600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116732010163138600,
+					"id_str": "1116732010163138563",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D39t2LcU8AMYOtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D39t2LcU8AMYOtq.jpg",
+					"url": "https://t.co/8gteW1rAs7",
+					"display_url": "pic.twitter.com/8gteW1rAs7",
+					"expanded_url": "https://twitter.com/kpark_librarian/status/1116732014969753600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 440,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225731045,
+			"id_str": "225731045",
+			"name": "바벨의 도서관",
+			"screen_name": "kpark_librarian",
+			"location": "캘리포니아 남쪽 마을 어딘가",
+			"description": "도서관 여행자&수집가/도서관에서 삶을 읽고 삶에서 도서관을 읽습니다/방구석 기타리스트/가계부를 소설로 쓴다는 INFP형 인간",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6776,
+			"friends_count": 359,
+			"listed_count": 57,
+			"created_at": "Sun Dec 12 09:20:18 +0000 2010",
+			"favourites_count": 2345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080144269766053888/E4i3Wy7w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080144269766053888/E4i3Wy7w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225731045/1546290883",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도서관보다 교회가 더 많은 한국. 도서관이 아닌 종교 단체가 지역사회의 거점이 되면 정보를 선택적으로 수용하면서 다양성 포용도가 낮아질 수 있음. 공공도서관은 시민들이 정보의 올바른 취사선택을 할 수 있도록 미디어 리터러시 교육을 강화해야 함. https://t.co/8gteW1rAs7"
+	},
+	{
+		"created_at": "Sat Apr 13 02:32:25 +0000 2019",
+		"id": 1116888502354894800,
+		"id_str": "1116891863867203585",
+		"full_text": "안녕하세요!\n즐거운 토요일이 또 돌아왔어요!\n\n즐거운 마음이 배가 될 수 있게 선물을 들고 왔는데요!\n있다가 오후 5시에 나눔이벤트 121번째 진행됩니다! 😍\n\n중고 상품을 모아 모아서 사무용 PC를 만들어 보았는데..\nG4560 + 4G RAM + SSD 120G 구성이구요!\n\n이벤트 아이템으로 적합하겠죠...!?🎙️ https://t.co/6fwQW0hrdd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116887645164937200,
+					"id_str": "1116887645164937218",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_7ZVAUIAILZF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_7ZVAUIAILZF0.jpg",
+					"url": "https://t.co/6fwQW0hrdd",
+					"display_url": "pic.twitter.com/6fwQW0hrdd",
+					"expanded_url": "https://twitter.com/compury_jaewoo/status/1116888502354894849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116887645164937200,
+					"id_str": "1116887645164937218",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_7ZVAUIAILZF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_7ZVAUIAILZF0.jpg",
+					"url": "https://t.co/6fwQW0hrdd",
+					"display_url": "pic.twitter.com/6fwQW0hrdd",
+					"expanded_url": "https://twitter.com/compury_jaewoo/status/1116888502354894849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116887657525571600,
+					"id_str": "1116887657525571584",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_7aDDUcAANpiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_7aDDUcAANpiS.jpg",
+					"url": "https://t.co/6fwQW0hrdd",
+					"display_url": "pic.twitter.com/6fwQW0hrdd",
+					"expanded_url": "https://twitter.com/compury_jaewoo/status/1116888502354894849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116887670741880800,
+					"id_str": "1116887670741880832",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_7a0SVUAAzzn2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_7a0SVUAAzzn2.jpg",
+					"url": "https://t.co/6fwQW0hrdd",
+					"display_url": "pic.twitter.com/6fwQW0hrdd",
+					"expanded_url": "https://twitter.com/compury_jaewoo/status/1116888502354894849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 938080534760005600,
+			"id_str": "938080534760005632",
+			"name": "조립PC 컴퓨리",
+			"screen_name": "compury_jaewoo",
+			"location": "서울시 용산구 새창로181, 선인상가 21동 2층 33, 34호",
+			"description": "조립PC 견적 및 구매문의 DM, 오픈카톡(https://t.co/j7p2E8y1RN)로 주세요!\n조립과정 100% 공개+부품박스100%동봉!\n조립PC 컴퓨리 공식블로그(https://t.co/eBxRLiQcPs)",
+			"url": "https://t.co/klwAuf5acH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klwAuf5acH",
+							"expanded_url": "https://smartstore.naver.com/compury/products/3841539323",
+							"display_url": "smartstore.naver.com/compury/produc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j7p2E8y1RN",
+							"expanded_url": "https://open.kakao.com/me/jaewoo",
+							"display_url": "open.kakao.com/me/jaewoo",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/eBxRLiQcPs",
+							"expanded_url": "http://www.compury.com",
+							"display_url": "compury.com",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27292,
+			"friends_count": 0,
+			"listed_count": 32,
+			"created_at": "Tue Dec 05 16:20:02 +0000 2017",
+			"favourites_count": 5667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4662,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094141314700955649/gX83GaAs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094141314700955649/gX83GaAs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/938080534760005632/1549700030",
+			"profile_link_color": "C6214A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요!\n즐거운 토요일이 또 돌아왔어요!\n\n즐거운 마음이 배가 될 수 있게 선물을 들고 왔는데요!\n있다가 오후 5시에 나눔이벤트 121번째 진행됩니다! 😍\n\n중고 상품을 모아 모아서 사무용 PC를 만들어 보았는데..\nG4560 + 4G RAM + SSD 120G 구성이구요!\n\n이벤트 아이템으로 적합하겠죠...!?🎙️ https://t.co/6fwQW0hrdd"
+	},
+	{
+		"created_at": "Sat Apr 13 02:30:08 +0000 2019",
+		"id": 1116583838111502300,
+		"id_str": "1116891289511792640",
+		"full_text": "도대체 남의 매장 물건은 왜 건드시나요? 투덱 모니터에 붙어있던 테이프를 누가 떼었던 흔적이 있네요. 모니터 뭐쓰는지 궁금하면 카운터에 와서 물어보시던가 왜 건드시는건지.\n이 자국 생기고 나무위키에 모니터 올라간거 보니까 나무위키충 같은데 건들지 맙시다. https://t.co/gRorhoJYgP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116583827936145400,
+					"id_str": "1116583827936145408",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/D37nE1oUcAAVwwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37nE1oUcAAVwwx.jpg",
+					"url": "https://t.co/gRorhoJYgP",
+					"display_url": "pic.twitter.com/gRorhoJYgP",
+					"expanded_url": "https://twitter.com/godoriaa/status/1116583838111502339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116583827936145400,
+					"id_str": "1116583827936145408",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/D37nE1oUcAAVwwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37nE1oUcAAVwwx.jpg",
+					"url": "https://t.co/gRorhoJYgP",
+					"display_url": "pic.twitter.com/gRorhoJYgP",
+					"expanded_url": "https://twitter.com/godoriaa/status/1116583838111502339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3194098424,
+			"id_str": "3194098424",
+			"name": "Godol",
+			"screen_name": "godoriaa",
+			"location": "CPU",
+			"description": "네",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 108,
+			"listed_count": 0,
+			"created_at": "Wed May 13 08:28:29 +0000 2015",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1508,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087114609738141696/Q7G94KcX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087114609738141696/Q7G94KcX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3194098424/1469009063",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도대체 남의 매장 물건은 왜 건드시나요? 투덱 모니터에 붙어있던 테이프를 누가 떼었던 흔적이 있네요. 모니터 뭐쓰는지 궁금하면 카운터에 와서 물어보시던가 왜 건드시는건지.\n이 자국 생기고 나무위키에 모니터 올라간거 보니까 나무위키충 같은데 건들지 맙시다. https://t.co/gRorhoJYgP"
+	},
+	{
 		"created_at": "Fri Apr 12 16:32:12 +0000 2019",
 		"id": 1116740814523256800,
 		"id_str": "1116740814523256833",
