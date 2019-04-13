@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 03:39:19 +0000 2019",
+		"id": 1116907027492589600,
+		"id_str": "1116908700210352128",
+		"full_text": "[김형석 칼럼]국민은 폐쇄적인 진보보다 열린 보수를 따른다 https://t.co/YaQ7lMdTL1 칼럼 어디에도 보수의 어디가 열려 있는지 1도 안적어놨다는게 개그포인트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YaQ7lMdTL1",
+					"expanded_url": "http://news.donga.com/3/all/20190412/95015067/1",
+					"display_url": "news.donga.com/3/all/20190412…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074809835831447600,
+			"id_str": "1074809835831447552",
+			"name": "Subsistence",
+			"screen_name": "Saemaeul_cap",
+			"location": "",
+			"description": "Now play",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 168,
+			"listed_count": 6,
+			"created_at": "Mon Dec 17 23:33:28 +0000 2018",
+			"favourites_count": 625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074809835831447552/1552635579",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김형석 칼럼]국민은 폐쇄적인 진보보다 열린 보수를 따른다 https://t.co/YaQ7lMdTL1 칼럼 어디에도 보수의 어디가 열려 있는지 1도 안적어놨다는게 개그포인트"
+	},
+	{
 		"created_at": "Sat Apr 13 03:02:42 +0000 2019",
 		"id": 1116623375202312200,
 		"id_str": "1116899485529989126",
