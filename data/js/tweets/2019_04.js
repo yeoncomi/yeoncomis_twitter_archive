@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 00:12:29 +0000 2019",
+		"id": 1117009674119761900,
+		"id_str": "1117219036687814657",
+		"full_text": "지정환 신부님의 부고를 다루는 언론사의 차이. 지정환 신부님은 80년에 우유를 트럭에 싣고 광주을 찾았을 정도로 7-80년대 민주화운동을 열심히 함께하신 분. 한국일보 기사엔 그 내용이 있는데 중앙일보는 쏙 빼고 농촌경제 활성화와 장애인 복지만 언급. 추하다 이것아... https://t.co/i269FeOwXd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117009650468081700,
+					"id_str": "1117009650468081669",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BqW-LVUAU3wHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BqW-LVUAU3wHa.jpg",
+					"url": "https://t.co/i269FeOwXd",
+					"display_url": "pic.twitter.com/i269FeOwXd",
+					"expanded_url": "https://twitter.com/joowoong/status/1117009674119761920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 699,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117009650468081700,
+					"id_str": "1117009650468081669",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BqW-LVUAU3wHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BqW-LVUAU3wHa.jpg",
+					"url": "https://t.co/i269FeOwXd",
+					"display_url": "pic.twitter.com/i269FeOwXd",
+					"expanded_url": "https://twitter.com/joowoong/status/1117009674119761920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 699,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 699,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117009650266673200,
+					"id_str": "1117009650266673154",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BqW9bUEAIq8yZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BqW9bUEAIq8yZ.jpg",
+					"url": "https://t.co/i269FeOwXd",
+					"display_url": "pic.twitter.com/i269FeOwXd",
+					"expanded_url": "https://twitter.com/joowoong/status/1117009674119761920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4335564199,
+			"id_str": "4335564199",
+			"name": "酒熊",
+			"screen_name": "joowoong",
+			"location": "",
+			"description": "크리스천 비장애인 시헤남 페미니스트 서울대 더불어민주당원 (쓰고 나니 끔찍하다) FUB FREE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 132,
+			"listed_count": 0,
+			"created_at": "Mon Nov 23 16:04:46 +0000 2015",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 247,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812287706768162818/Gf-wpaoZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812287706768162818/Gf-wpaoZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지정환 신부님의 부고를 다루는 언론사의 차이. 지정환 신부님은 80년에 우유를 트럭에 싣고 광주을 찾았을 정도로 7-80년대 민주화운동을 열심히 함께하신 분. 한국일보 기사엔 그 내용이 있는데 중앙일보는 쏙 빼고 농촌경제 활성화와 장애인 복지만 언급. 추하다 이것아... https://t.co/i269FeOwXd"
+	},
+	{
+		"created_at": "Sat Apr 13 23:50:09 +0000 2019",
+		"id": 1117209924126134300,
+		"id_str": "1117213416077180929",
+		"full_text": "\"스탈린이 소련 2를 릴리스하다\" https://t.co/97cGmFCvtm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117209915615899600,
+					"id_str": "1117209915615899653",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Egf7_UcAU0uW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Egf7_UcAU0uW1.jpg",
+					"url": "https://t.co/97cGmFCvtm",
+					"display_url": "pic.twitter.com/97cGmFCvtm",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1117209924126134272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117209915615899600,
+					"id_str": "1117209915615899653",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Egf7_UcAU0uW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Egf7_UcAU0uW1.jpg",
+					"url": "https://t.co/97cGmFCvtm",
+					"display_url": "pic.twitter.com/97cGmFCvtm",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1117209924126134272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "BRUH\n\n\n레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17221,
+			"friends_count": 3,
+			"listed_count": 50,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1141,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112834906395033600/KE41hbxK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"스탈린이 소련 2를 릴리스하다\" https://t.co/97cGmFCvtm"
+	},
+	{
 		"created_at": "Sat Apr 13 22:28:47 +0000 2019",
 		"id": 1117120977094303700,
 		"id_str": "1117192936792289280",
