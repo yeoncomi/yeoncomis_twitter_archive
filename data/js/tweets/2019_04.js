@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 19:46:13 +0000 2019",
+		"id": 1117316130698354700,
+		"id_str": "1117514413794136064",
+		"full_text": "거기 딱 멈추시게 내 친구 미머여\n모바일 데이터를 사용하고 있지는 않나 확인해 보시게나 https://t.co/eaDeHUzG3F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117316123169476600,
+					"id_str": "1117316123169476608",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D4GBGB9VUAAiMu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4GBGB9VUAAiMu9.jpg",
+					"url": "https://t.co/eaDeHUzG3F",
+					"display_url": "pic.twitter.com/eaDeHUzG3F",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1117316130698354690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1467,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117316123169476600,
+					"id_str": "1117316123169476608",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D4GBGB9VUAAiMu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4GBGB9VUAAiMu9.jpg",
+					"url": "https://t.co/eaDeHUzG3F",
+					"display_url": "pic.twitter.com/eaDeHUzG3F",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1117316130698354690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1467,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "BRUH\n\n\n레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17676,
+			"friends_count": 3,
+			"listed_count": 51,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1148,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1276,
+		"favorite_count": 411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거기 딱 멈추시게 내 친구 미머여\n모바일 데이터를 사용하고 있지는 않나 확인해 보시게나 https://t.co/eaDeHUzG3F"
+	},
+	{
+		"created_at": "Sun Apr 14 19:39:54 +0000 2019",
+		"id": 1117512558242459600,
+		"id_str": "1117512825092448257",
+		"full_text": "히토미에서 내려갔다는데 좌표는 어딨을까 https://t.co/ZHy7HoJlXb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117512553096069100,
+					"id_str": "1117512553096069120",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D4IzvwdUwAA2hpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4IzvwdUwAA2hpK.jpg",
+					"url": "https://t.co/ZHy7HoJlXb",
+					"display_url": "pic.twitter.com/ZHy7HoJlXb",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117512558242459648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117512553096069100,
+					"id_str": "1117512553096069120",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D4IzvwdUwAA2hpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4IzvwdUwAA2hpK.jpg",
+					"url": "https://t.co/ZHy7HoJlXb",
+					"display_url": "pic.twitter.com/ZHy7HoJlXb",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117512558242459648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117512555075788800,
+					"id_str": "1117512555075788800",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Izv31U4AAv1sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Izv31U4AAv1sk.jpg",
+					"url": "https://t.co/ZHy7HoJlXb",
+					"display_url": "pic.twitter.com/ZHy7HoJlXb",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117512558242459648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3151480658,
+			"id_str": "3151480658",
+			"name": "노시",
+			"screen_name": "KU_CU_QU",
+			"location": "하와와의증인",
+			"description": "금빛 모자이크 본진 - 오오미야 시노부(大宮 忍) 최애입니다! : 멘션주면 맞팔합니다! 금빛모자이크 야짤 알티나 올릴시 칼블락.백합회로 절찬리 오버클럭중",
+			"url": "https://t.co/ukvLeWiVYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukvLeWiVYy",
+							"expanded_url": "http://pixiv.me/kinmosa_nosi",
+							"display_url": "pixiv.me/kinmosa_nosi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 799,
+			"listed_count": 36,
+			"created_at": "Sun Apr 12 14:06:12 +0000 2015",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76747,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3151480658/1554131183",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "히토미에서 내려갔다는데 좌표는 어딨을까 https://t.co/ZHy7HoJlXb"
+	},
+	{
+		"created_at": "Sun Apr 14 19:37:52 +0000 2019",
+		"id": 1117509431309164500,
+		"id_str": "1117512311411859456",
+		"full_text": "교수님 질1문이 있습니다 저는 씨발 문과인데 이걸 왜 배우고있나요? https://t.co/v1Q30ZwVUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117509424988340200,
+					"id_str": "1117509424988340224",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Iw5rWUwAAb6XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Iw5rWUwAAb6XY.jpg",
+					"url": "https://t.co/v1Q30ZwVUU",
+					"display_url": "pic.twitter.com/v1Q30ZwVUU",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1117509431309164544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117509424988340200,
+					"id_str": "1117509424988340224",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Iw5rWUwAAb6XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Iw5rWUwAAb6XY.jpg",
+					"url": "https://t.co/v1Q30ZwVUU",
+					"display_url": "pic.twitter.com/v1Q30ZwVUU",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1117509431309164544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935120525222744000,
+			"id_str": "935120525222744064",
+			"name": "rennya.🌙",
+			"screen_name": "SATAN_KOHAI",
+			"location": "@pipe_scottie",
+			"description": "얀데레도 얼굴 가려가면서 집착해 일단 넌 아냐 걱정마.",
+			"url": "https://t.co/ZEiteI9o09",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZEiteI9o09",
+							"expanded_url": "https://tanilast.postype.com/",
+							"display_url": "tanilast.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 669,
+			"friends_count": 406,
+			"listed_count": 55,
+			"created_at": "Mon Nov 27 12:18:01 +0000 2017",
+			"favourites_count": 17325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57195,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117123434364850176/vBGjZGYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117123434364850176/vBGjZGYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935120525222744064/1551851338",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "교수님 질1문이 있습니다 저는 씨발 문과인데 이걸 왜 배우고있나요? https://t.co/v1Q30ZwVUU"
+	},
+	{
 		"created_at": "Sun Apr 14 17:25:23 +0000 2019",
 		"id": 1117438790111391700,
 		"id_str": "1117478972869079040",
