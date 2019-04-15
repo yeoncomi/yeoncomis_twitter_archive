@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 23:20:07 +0000 2019",
+		"id": 1117274519855480800,
+		"id_str": "1117568246041853952",
+		"full_text": "씨발이 없는게 아니라 심장이 없다고 씨발련아 https://t.co/JyGM6U5koo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117274513404678100,
+					"id_str": "1117274513404678144",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D4FbQBgVUAA61sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4FbQBgVUAA61sI.jpg",
+					"url": "https://t.co/JyGM6U5koo",
+					"display_url": "pic.twitter.com/JyGM6U5koo",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117274519855480832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 670,
+							"h": 951,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117274513404678100,
+					"id_str": "1117274513404678144",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D4FbQBgVUAA61sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4FbQBgVUAA61sI.jpg",
+					"url": "https://t.co/JyGM6U5koo",
+					"display_url": "pic.twitter.com/JyGM6U5koo",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117274519855480832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 670,
+							"h": 951,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3151480658,
+			"id_str": "3151480658",
+			"name": "노시",
+			"screen_name": "KU_CU_QU",
+			"location": "하와와의증인",
+			"description": "금빛 모자이크 본진 - 오오미야 시노부(大宮 忍) 최애입니다! : 멘션주면 맞팔합니다! 금빛모자이크 야짤 알티나 올릴시 칼블락.백합회로 절찬리 오버클럭중",
+			"url": "https://t.co/ukvLeWiVYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukvLeWiVYy",
+							"expanded_url": "http://pixiv.me/kinmosa_nosi",
+							"display_url": "pixiv.me/kinmosa_nosi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 800,
+			"listed_count": 36,
+			"created_at": "Sun Apr 12 14:06:12 +0000 2015",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76823,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3151480658/1554131183",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "씨발이 없는게 아니라 심장이 없다고 씨발련아 https://t.co/JyGM6U5koo"
+	},
+	{
 		"created_at": "Sun Apr 14 19:46:13 +0000 2019",
 		"id": 1117316130698354700,
 		"id_str": "1117514413794136064",
