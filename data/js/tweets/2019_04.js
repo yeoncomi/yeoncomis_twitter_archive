@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 11:13:49 +0000 2019",
+		"id": 1117522502333239300,
+		"id_str": "1117747852162162690",
+		"full_text": "인생의 구렁텅이로 끌고가는 과일들 https://t.co/uVnc6obK7h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117522483802849300,
+					"id_str": "1117522483802849280",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4I8xzOUwAALJoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4I8xzOUwAALJoH.jpg",
+					"url": "https://t.co/uVnc6obK7h",
+					"display_url": "pic.twitter.com/uVnc6obK7h",
+					"expanded_url": "https://twitter.com/p__RN/status/1117522502333239296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117522483802849300,
+					"id_str": "1117522483802849280",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4I8xzOUwAALJoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4I8xzOUwAALJoH.jpg",
+					"url": "https://t.co/uVnc6obK7h",
+					"display_url": "pic.twitter.com/uVnc6obK7h",
+					"expanded_url": "https://twitter.com/p__RN/status/1117522502333239296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117522483807080400,
+					"id_str": "1117522483807080448",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4I8xzPVUAAaCzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4I8xzPVUAAaCzO.jpg",
+					"url": "https://t.co/uVnc6obK7h",
+					"display_url": "pic.twitter.com/uVnc6obK7h",
+					"expanded_url": "https://twitter.com/p__RN/status/1117522502333239296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117522483802828800,
+					"id_str": "1117522483802828800",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4I8xzOUcAA9PJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4I8xzOUcAA9PJu.jpg",
+					"url": "https://t.co/uVnc6obK7h",
+					"display_url": "pic.twitter.com/uVnc6obK7h",
+					"expanded_url": "https://twitter.com/p__RN/status/1117522502333239296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2168333563,
+			"id_str": "2168333563",
+			"name": "꼬리가 귀여운 루ㄴ냥",
+			"screen_name": "p__RN",
+			"location": "",
+			"description": "어딜 보시는겁니까 그것은 저의 분신(@ITSLUNANYAN)입니다 / 인장 by 레냥이 / 케모나 아닙니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 225,
+			"listed_count": 14,
+			"created_at": "Fri Nov 01 12:11:25 +0000 2013",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72896,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102203185240825856/skDL4c8__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102203185240825856/skDL4c8__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2168333563/1541563468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 733,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인생의 구렁텅이로 끌고가는 과일들 https://t.co/uVnc6obK7h"
+	},
+	{
 		"created_at": "Mon Apr 15 02:45:47 +0000 2019",
 		"id": 1117620003258261500,
 		"id_str": "1117620003258261504",
