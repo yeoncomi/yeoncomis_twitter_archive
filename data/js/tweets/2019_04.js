@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 00:48:22 +0000 2019",
+		"id": 1098788349215526900,
+		"id_str": "1117590451517706240",
+		"full_text": "추천하는 프로그래밍 언어 번외\n\n7. 나는 형이 좋다\n혀엉...\n\n8. 나는 박근혜 지지자다\nGNE(그네)\n\n9. 나는 욕쟁이다\nBrainfuck\n\n10. 나는 오랑우탄이다\nOok!\n\n11. 나는 변태다\n어셈블리어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1098596984481632300,
+		"in_reply_to_status_id_str": "1098596984481632257",
+		"in_reply_to_user_id": 4921089134,
+		"in_reply_to_user_id_str": "4921089134",
+		"in_reply_to_screen_name": "chzyr",
+		"user": {
+			"id": 4921089134,
+			"id_str": "4921089134",
+			"name": "Raspbian (라즈비안)",
+			"screen_name": "chzyr",
+			"location": "제주도 서귀포시 (학교는 아산)",
+			"description": "원래는 게임계인데 사실 상 올리는 건 일상들  / 사이퍼즈 (닉넴 애완용여우) / 파판14 카벙클 (닉넴 라즈비안) / 마비노기 하프(닉넴 라즈비안) 만돌린 (닉넴 치즈요라) / 로스트 아크 이그라함 (닉넴 Raspbian) / 23살 / 책 좋아해요 / 요리도 좋아요",
+			"url": "https://t.co/5x0NEKE4Y6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5x0NEKE4Y6",
+							"expanded_url": "https://github.com/gowns764",
+							"display_url": "github.com/gowns764",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 253,
+			"listed_count": 2,
+			"created_at": "Wed Feb 17 13:32:38 +0000 2016",
+			"favourites_count": 4449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8141,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000781119762022400/jp6Eyb-Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000781119762022400/jp6Eyb-Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4921089134/1455716737",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "추천하는 프로그래밍 언어 번외\n\n7. 나는 형이 좋다\n혀엉...\n\n8. 나는 박근혜 지지자다\nGNE(그네)\n\n9. 나는 욕쟁이다\nBrainfuck\n\n10. 나는 오랑우탄이다\nOok!\n\n11. 나는 변태다\n어셈블리어"
+	},
+	{
+		"created_at": "Mon Apr 15 00:48:19 +0000 2019",
+		"id": 1098596984481632300,
+		"id_str": "1117590438787989504",
+		"full_text": "추천하는 프로그래밍 언어\n\n1. 게임을 만들고 싶다\nC++, C#, JAVA\n\n2. 웹사이트를 제작하고 싶다\nHTML, PHP, Javascript, CSS\n\n3. 서버를 구축하고 싶다\nNode.js, Java, C++, C, Python\n\n4. 빅데이터를 분석하고 싶다\nGo, Python, R\n\n5. 모바일이 좋다\nJava, Swift\n\n6. 나는 애국자다\n아희",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4921089134,
+			"id_str": "4921089134",
+			"name": "Raspbian (라즈비안)",
+			"screen_name": "chzyr",
+			"location": "제주도 서귀포시 (학교는 아산)",
+			"description": "원래는 게임계인데 사실 상 올리는 건 일상들  / 사이퍼즈 (닉넴 애완용여우) / 파판14 카벙클 (닉넴 라즈비안) / 마비노기 하프(닉넴 라즈비안) 만돌린 (닉넴 치즈요라) / 로스트 아크 이그라함 (닉넴 Raspbian) / 23살 / 책 좋아해요 / 요리도 좋아요",
+			"url": "https://t.co/5x0NEKE4Y6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5x0NEKE4Y6",
+							"expanded_url": "https://github.com/gowns764",
+							"display_url": "github.com/gowns764",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 253,
+			"listed_count": 2,
+			"created_at": "Wed Feb 17 13:32:38 +0000 2016",
+			"favourites_count": 4449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8141,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000781119762022400/jp6Eyb-Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000781119762022400/jp6Eyb-Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4921089134/1455716737",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5737,
+		"favorite_count": 3462,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "추천하는 프로그래밍 언어\n\n1. 게임을 만들고 싶다\nC++, C#, JAVA\n\n2. 웹사이트를 제작하고 싶다\nHTML, PHP, Javascript, CSS\n\n3. 서버를 구축하고 싶다\nNode.js, Java, C++, C, Python\n\n4. 빅데이터를 분석하고 싶다\nGo, Python, R\n\n5. 모바일이 좋다\nJava, Swift\n\n6. 나는 애국자다\n아희"
+	},
+	{
 		"created_at": "Sun Apr 14 23:20:07 +0000 2019",
 		"id": 1117274519855480800,
 		"id_str": "1117568246041853952",
