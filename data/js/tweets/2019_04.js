@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 16:21:58 +0000 2019",
+		"id": 1117642023618498600,
+		"id_str": "1117825400707530752",
+		"full_text": "노'너만'존이 되겠지 https://t.co/JshpjnwWbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117642009232076800,
+					"id_str": "1117642009232076801",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4KpfGJU8AE6Xv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4KpfGJU8AE6Xv8.jpg",
+					"url": "https://t.co/JshpjnwWbv",
+					"display_url": "pic.twitter.com/JshpjnwWbv",
+					"expanded_url": "https://twitter.com/ATROCITUS129/status/1117642023618498560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1059,
+							"h": 759,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1059,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117642009232076800,
+					"id_str": "1117642009232076801",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4KpfGJU8AE6Xv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4KpfGJU8AE6Xv8.jpg",
+					"url": "https://t.co/JshpjnwWbv",
+					"display_url": "pic.twitter.com/JshpjnwWbv",
+					"expanded_url": "https://twitter.com/ATROCITUS129/status/1117642023618498560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1059,
+							"h": 759,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1059,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 759917356923494400,
+			"id_str": "759917356923494400",
+			"name": "CLOW-IV-FACE",
+			"screen_name": "ATROCITUS129",
+			"location": "대한민국",
+			"description": "느금마 참피",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 533,
+			"friends_count": 395,
+			"listed_count": 7,
+			"created_at": "Mon Aug 01 01:03:11 +0000 2016",
+			"favourites_count": 7048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63495,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080241434010112000/ahb2lO8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080241434010112000/ahb2lO8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/759917356923494400/1533220781",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노'너만'존이 되겠지 https://t.co/JshpjnwWbv"
+	},
+	{
 		"created_at": "Mon Apr 15 16:16:26 +0000 2019",
 		"id": 1117729258191765500,
 		"id_str": "1117824010232877056",
