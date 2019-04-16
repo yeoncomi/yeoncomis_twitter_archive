@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 10:15:38 +0000 2019",
+		"id": 1118089839361036300,
+		"id_str": "1118095597989318657",
+		"full_text": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841) https://t.co/Hi91VSmHAn #windows #vulnerability https://t.co/teAxjUc5B0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "windows",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "vulnerability",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hi91VSmHAn",
+					"expanded_url": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+					"display_url": "krbtgt.pw/dacl-permissio…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118089801670983700,
+					"id_str": "1118089801670983686",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RAwC-WAAYeQ5G.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4RAwC-WAAYeQ5G.png",
+					"url": "https://t.co/teAxjUc5B0",
+					"display_url": "pic.twitter.com/teAxjUc5B0",
+					"expanded_url": "https://twitter.com/x0rz/status/1118089839361036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 713,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118089801670983700,
+					"id_str": "1118089801670983686",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RAwC-WAAYeQ5G.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4RAwC-WAAYeQ5G.png",
+					"url": "https://t.co/teAxjUc5B0",
+					"display_url": "pic.twitter.com/teAxjUc5B0",
+					"expanded_url": "https://twitter.com/x0rz/status/1118089839361036288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 713,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 548,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71522953,
+			"id_str": "71522953",
+			"name": "x0rz",
+			"screen_name": "x0rz",
+			"location": "France",
+			"description": "Security Researcher & Cyber Observer ㊙",
+			"url": "https://t.co/kXWHpfF6iB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kXWHpfF6iB",
+							"expanded_url": "https://0day.rocks/",
+							"display_url": "0day.rocks",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78511,
+			"friends_count": 353,
+			"listed_count": 1610,
+			"created_at": "Fri Sep 04 12:30:39 +0000 2009",
+			"favourites_count": 4382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948466032716472320/72zSILqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948466032716472320/72zSILqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71522953/1507535687",
+			"profile_link_color": "5757FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841) https://t.co/Hi91VSmHAn #windows #vulnerability https://t.co/teAxjUc5B0"
+	},
+	{
+		"created_at": "Tue Apr 16 10:13:24 +0000 2019",
+		"id": 1118039979102355500,
+		"id_str": "1118095037923913728",
+		"full_text": "이야 갈때까지 갑질이네 https://t.co/Lp9ZJHl5x5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lp9ZJHl5x5",
+					"expanded_url": "https://twitter.com/zoomx100/status/1118035716158541824",
+					"display_url": "twitter.com/zoomx100/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 1667,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35811,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118035716158541800,
+		"quoted_status_id_str": "1118035716158541824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lp9ZJHl5x5",
+			"expanded": "https://twitter.com/zoomx100/status/1118035716158541824",
+			"display": "twitter.com/zoomx100/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 06:17:41 +0000 2019",
+			"id": 1118035716158541800,
+			"id_str": "1118035716158541824",
+			"full_text": "https://t.co/hCOuKYLhux\n갑질로 그렇게 두드려 맞은 기업 대표(회장)의 죽음에 가족도 아닌 직원들 줄 세워 놓는 장례문화 나만 이해 안되는건가. https://t.co/TQCXrtOJMr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hCOuKYLhux",
+						"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0010765479",
+						"display_url": "news.naver.com/main/read.nhn?…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118035405423530000,
+						"id_str": "1118035405423529985",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/D4QPRxKUUAEiHpG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4QPRxKUUAEiHpG.jpg",
+						"url": "https://t.co/TQCXrtOJMr",
+						"display_url": "pic.twitter.com/TQCXrtOJMr",
+						"expanded_url": "https://twitter.com/zoomx100/status/1118035716158541824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118035405423530000,
+						"id_str": "1118035405423529985",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/D4QPRxKUUAEiHpG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4QPRxKUUAEiHpG.jpg",
+						"url": "https://t.co/TQCXrtOJMr",
+						"display_url": "pic.twitter.com/TQCXrtOJMr",
+						"expanded_url": "https://twitter.com/zoomx100/status/1118035716158541824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 231,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1118035419243802600,
+						"id_str": "1118035419243802624",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/D4QPSkpU8AAWYo2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4QPSkpU8AAWYo2.jpg",
+						"url": "https://t.co/TQCXrtOJMr",
+						"display_url": "pic.twitter.com/TQCXrtOJMr",
+						"expanded_url": "https://twitter.com/zoomx100/status/1118035716158541824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142991251,
+				"id_str": "142991251",
+				"name": "선택적 줌인",
+				"screen_name": "zoomx100",
+				"location": "",
+				"description": "미드/게임 좋아함. 대충 사는데도 피곤하네요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13860,
+				"friends_count": 260,
+				"listed_count": 176,
+				"created_at": "Wed May 12 08:32:13 +0000 2010",
+				"favourites_count": 2270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65710,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "275166",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042909157198708737/J2L3jMmO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042909157198708737/J2L3jMmO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142991251/1517389940",
+				"profile_link_color": "52C94C",
+				"profile_sidebar_border_color": "F2ECDF",
+				"profile_sidebar_fill_color": "EDF5F1",
+				"profile_text_color": "1B1C1C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1602,
+			"favorite_count": 204,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1139,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이야 갈때까지 갑질이네 https://t.co/Lp9ZJHl5x5"
+	},
+	{
 		"created_at": "Tue Apr 16 06:20:48 +0000 2019",
 		"id": 1117647153373925400,
 		"id_str": "1118036502590607360",
