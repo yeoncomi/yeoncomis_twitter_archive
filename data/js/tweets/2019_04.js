@@ -1,6 +1,2382 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 06:20:48 +0000 2019",
+		"id": 1117647153373925400,
+		"id_str": "1118036502590607360",
+		"full_text": "애니 수업 철회 이유 https://t.co/PQ9PZnEubr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117647145199231000,
+					"id_str": "1117647145199230976",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4KuKDHUYAA2V1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4KuKDHUYAA2V1W.jpg",
+					"url": "https://t.co/PQ9PZnEubr",
+					"display_url": "pic.twitter.com/PQ9PZnEubr",
+					"expanded_url": "https://twitter.com/Agaritalbba/status/1117647153373925376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 889,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117647145199231000,
+					"id_str": "1117647145199230976",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4KuKDHUYAA2V1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4KuKDHUYAA2V1W.jpg",
+					"url": "https://t.co/PQ9PZnEubr",
+					"display_url": "pic.twitter.com/PQ9PZnEubr",
+					"expanded_url": "https://twitter.com/Agaritalbba/status/1117647153373925376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 889,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048955654302388200,
+			"id_str": "1048955654302388224",
+			"name": "아가리 탈빠러",
+			"screen_name": "Agaritalbba",
+			"location": "",
+			"description": "아가리 탈빠만 100년 째인 사람들의 탐라입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Sun Oct 07 15:18:11 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048957695640797185/MFLB-2lR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048957695640797185/MFLB-2lR_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3102,
+		"favorite_count": 399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애니 수업 철회 이유 https://t.co/PQ9PZnEubr"
+	},
+	{
+		"created_at": "Tue Apr 16 06:19:35 +0000 2019",
+		"id": 1117976088250961900,
+		"id_str": "1118036195739492352",
+		"full_text": "오늘은 리브레 위키 설립 5주년이 되는 날입니다! https://t.co/CAcIUdY3f5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117976058853072900,
+					"id_str": "1117976058853072896",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PZTV9UIAAv4wk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4PZTV9UIAAv4wk.png",
+					"url": "https://t.co/CAcIUdY3f5",
+					"display_url": "pic.twitter.com/CAcIUdY3f5",
+					"expanded_url": "https://twitter.com/zlzleking/status/1117976088250961922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117976058853072900,
+					"id_str": "1117976058853072896",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PZTV9UIAAv4wk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4PZTV9UIAAv4wk.png",
+					"url": "https://t.co/CAcIUdY3f5",
+					"display_url": "pic.twitter.com/CAcIUdY3f5",
+					"expanded_url": "https://twitter.com/zlzleking/status/1117976088250961922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "채식증진 Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러  /  건담보다 단결된 짐이 더 강합니다. / 비타민 부족을 해소하기 위해 오늘도 채식거리를 찾습니다.",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1985,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112772673136783360/pZlfzQxM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112772673136783360/pZlfzQxM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1551519391",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 리브레 위키 설립 5주년이 되는 날입니다! https://t.co/CAcIUdY3f5"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:50 +0000 2019",
+		"id": 1118007186557325300,
+		"id_str": "1118036003795505152",
+		"full_text": "왜 트위터랑 VR챗을 고글 끄고 하는건데 https://t.co/d157R0ajfQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118007164969185300,
+					"id_str": "1118007164969185280",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P1l9RUcAADwoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P1l9RUcAADwoN.jpg",
+					"url": "https://t.co/d157R0ajfQ",
+					"display_url": "pic.twitter.com/d157R0ajfQ",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118007186557325312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118007164969185300,
+					"id_str": "1118007164969185280",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P1l9RUcAADwoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P1l9RUcAADwoN.jpg",
+					"url": "https://t.co/d157R0ajfQ",
+					"display_url": "pic.twitter.com/d157R0ajfQ",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118007186557325312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118007178214826000,
+					"id_str": "1118007178214825986",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P1munU4AIzL20.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P1munU4AIzL20.jpg",
+					"url": "https://t.co/d157R0ajfQ",
+					"display_url": "pic.twitter.com/d157R0ajfQ",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118007186557325312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118006468517589000,
+		"in_reply_to_status_id_str": "1118006468517588992",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 트위터랑 VR챗을 고글 끄고 하는건데 https://t.co/d157R0ajfQ"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:48 +0000 2019",
+		"id": 1118006468517589000,
+		"id_str": "1118035996929511424",
+		"full_text": "https://t.co/58nH8BvdII",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118006435445493800,
+					"id_str": "1118006435445493761",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P07flUUAEU3sS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P07flUUAEU3sS.jpg",
+					"url": "https://t.co/58nH8BvdII",
+					"display_url": "pic.twitter.com/58nH8BvdII",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118006468517588992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118006435445493800,
+					"id_str": "1118006435445493761",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P07flUUAEU3sS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P07flUUAEU3sS.jpg",
+					"url": "https://t.co/58nH8BvdII",
+					"display_url": "pic.twitter.com/58nH8BvdII",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118006468517588992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118006451765559300,
+					"id_str": "1118006451765559296",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P08cYUwAAwIbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P08cYUwAAwIbI.jpg",
+					"url": "https://t.co/58nH8BvdII",
+					"display_url": "pic.twitter.com/58nH8BvdII",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118006468517588992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118006462423265300,
+					"id_str": "1118006462423265280",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P09EFUcAAMEtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P09EFUcAAMEtO.jpg",
+					"url": "https://t.co/58nH8BvdII",
+					"display_url": "pic.twitter.com/58nH8BvdII",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118006468517588992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 529,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118006464814010400,
+					"id_str": "1118006464814010370",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P09M_UUAIs-AR.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4P09M_UUAIs-AR.png",
+					"url": "https://t.co/58nH8BvdII",
+					"display_url": "pic.twitter.com/58nH8BvdII",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118006468517588992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 301,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 301,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 301,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118005942275035100,
+		"in_reply_to_status_id_str": "1118005942275035136",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/58nH8BvdII"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:41 +0000 2019",
+		"id": 1118005942275035100,
+		"id_str": "1118035968127160320",
+		"full_text": "조리돌림 방지 전문가 https://t.co/GuKifsyLqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118005931978059800,
+					"id_str": "1118005931978059777",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P0eMBU8AEbGfa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P0eMBU8AEbGfa.jpg",
+					"url": "https://t.co/GuKifsyLqr",
+					"display_url": "pic.twitter.com/GuKifsyLqr",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005942275035136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118005931978059800,
+					"id_str": "1118005931978059777",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P0eMBU8AEbGfa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P0eMBU8AEbGfa.jpg",
+					"url": "https://t.co/GuKifsyLqr",
+					"display_url": "pic.twitter.com/GuKifsyLqr",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005942275035136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118005799039619100,
+		"in_reply_to_status_id_str": "1118005799039619072",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조리돌림 방지 전문가 https://t.co/GuKifsyLqr"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:32 +0000 2019",
+		"id": 1118005006995615700,
+		"id_str": "1118035929829003264",
+		"full_text": "이건 거짓입니다 프로그래머는 웃지 않습니다. https://t.co/6QQSQacy7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118004997084475400,
+					"id_str": "1118004997084475392",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PznxRU8AAQJvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PznxRU8AAQJvK.jpg",
+					"url": "https://t.co/6QQSQacy7b",
+					"display_url": "pic.twitter.com/6QQSQacy7b",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005006995615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118004997084475400,
+					"id_str": "1118004997084475392",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PznxRU8AAQJvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PznxRU8AAQJvK.jpg",
+					"url": "https://t.co/6QQSQacy7b",
+					"display_url": "pic.twitter.com/6QQSQacy7b",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005006995615744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118004808768581600,
+		"in_reply_to_status_id_str": "1118004808768581635",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건 거짓입니다 프로그래머는 웃지 않습니다. https://t.co/6QQSQacy7b"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:26 +0000 2019",
+		"id": 1118004052363628500,
+		"id_str": "1118035905523044352",
+		"full_text": "교수가 랩에서 자고 있는 대학원생을 깨우는 법 https://t.co/qppaJvBUq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118004008776396800,
+					"id_str": "1118004008776396800",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PyuPiUcAA8vLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PyuPiUcAA8vLf.jpg",
+					"url": "https://t.co/qppaJvBUq4",
+					"display_url": "pic.twitter.com/qppaJvBUq4",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118004052363628544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118004008776396800,
+					"id_str": "1118004008776396800",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PyuPiUcAA8vLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PyuPiUcAA8vLf.jpg",
+					"url": "https://t.co/qppaJvBUq4",
+					"display_url": "pic.twitter.com/qppaJvBUq4",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118004052363628544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118004021812322300,
+					"id_str": "1118004021812322304",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PyvAGU4AAlq1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PyvAGU4AAlq1W.jpg",
+					"url": "https://t.co/qppaJvBUq4",
+					"display_url": "pic.twitter.com/qppaJvBUq4",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118004052363628544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118004037591240700,
+					"id_str": "1118004037591240705",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Pyv64UEAEHgxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Pyv64UEAEHgxO.jpg",
+					"url": "https://t.co/qppaJvBUq4",
+					"display_url": "pic.twitter.com/qppaJvBUq4",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118004052363628544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118003768820293600,
+		"in_reply_to_status_id_str": "1118003768820293632",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "교수가 랩에서 자고 있는 대학원생을 깨우는 법 https://t.co/qppaJvBUq4"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:25 +0000 2019",
+		"id": 1118003768820293600,
+		"id_str": "1118035900179468288",
+		"full_text": "대학원생 놀리기 짤을 늘려가는 중 https://t.co/lj1VBRXW6B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118003719696633900,
+					"id_str": "1118003719696633856",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PydaoVUAAWgRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PydaoVUAAWgRH.jpg",
+					"url": "https://t.co/lj1VBRXW6B",
+					"display_url": "pic.twitter.com/lj1VBRXW6B",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118003768820293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118003719696633900,
+					"id_str": "1118003719696633856",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PydaoVUAAWgRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PydaoVUAAWgRH.jpg",
+					"url": "https://t.co/lj1VBRXW6B",
+					"display_url": "pic.twitter.com/lj1VBRXW6B",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118003768820293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118003731230904300,
+					"id_str": "1118003731230904320",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PyeFmUUAAPeqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PyeFmUUAAPeqA.jpg",
+					"url": "https://t.co/lj1VBRXW6B",
+					"display_url": "pic.twitter.com/lj1VBRXW6B",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118003768820293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118003742219964400,
+					"id_str": "1118003742219964416",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PyeuiUEAAmVME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PyeuiUEAAmVME.jpg",
+					"url": "https://t.co/lj1VBRXW6B",
+					"display_url": "pic.twitter.com/lj1VBRXW6B",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118003768820293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118003757336236000,
+					"id_str": "1118003757336236032",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Pyfm2UEAAVL6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Pyfm2UEAAVL6n.jpg",
+					"url": "https://t.co/lj1VBRXW6B",
+					"display_url": "pic.twitter.com/lj1VBRXW6B",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118003768820293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118003412602196000,
+		"in_reply_to_status_id_str": "1118003412602195969",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대학원생 놀리기 짤을 늘려가는 중 https://t.co/lj1VBRXW6B"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:18 +0000 2019",
+		"id": 1117998568671891500,
+		"id_str": "1118035871444246531",
+		"full_text": "망한 영화 하나와\n어 이게 여기 왜 있어 https://t.co/8NMuMoSCQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117998521112645600,
+					"id_str": "1117998521112645632",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Ptu0ZU0AAowkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Ptu0ZU0AAowkO.jpg",
+					"url": "https://t.co/8NMuMoSCQ7",
+					"display_url": "pic.twitter.com/8NMuMoSCQ7",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117998568671891457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117998521112645600,
+					"id_str": "1117998521112645632",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Ptu0ZU0AAowkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Ptu0ZU0AAowkO.jpg",
+					"url": "https://t.co/8NMuMoSCQ7",
+					"display_url": "pic.twitter.com/8NMuMoSCQ7",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117998568671891457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117998537290051600,
+					"id_str": "1117998537290051587",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PtvwqUcAMLqse.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PtvwqUcAMLqse.jpg",
+					"url": "https://t.co/8NMuMoSCQ7",
+					"display_url": "pic.twitter.com/8NMuMoSCQ7",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117998568671891457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117998555040342000,
+					"id_str": "1117998555040342016",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PtwyyUYAAOxgc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PtwyyUYAAOxgc.jpg",
+					"url": "https://t.co/8NMuMoSCQ7",
+					"display_url": "pic.twitter.com/8NMuMoSCQ7",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117998568671891457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1117997715038695400,
+		"in_reply_to_status_id_str": "1117997715038695424",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "망한 영화 하나와\n어 이게 여기 왜 있어 https://t.co/8NMuMoSCQ7"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:16 +0000 2019",
+		"id": 1117997715038695400,
+		"id_str": "1118035863441559553",
+		"full_text": "미쳤습니까 휴먼 https://t.co/IQ3SKDSVPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117997701784727600,
+					"id_str": "1117997701784727552",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Ps_IKU8AAtuZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Ps_IKU8AAtuZ-.jpg",
+					"url": "https://t.co/IQ3SKDSVPq",
+					"display_url": "pic.twitter.com/IQ3SKDSVPq",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117997715038695424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117997701784727600,
+					"id_str": "1117997701784727552",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Ps_IKU8AAtuZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Ps_IKU8AAtuZ-.jpg",
+					"url": "https://t.co/IQ3SKDSVPq",
+					"display_url": "pic.twitter.com/IQ3SKDSVPq",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117997715038695424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1117996757739135000,
+		"in_reply_to_status_id_str": "1117996757739134976",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미쳤습니까 휴먼 https://t.co/IQ3SKDSVPq"
+	},
+	{
+		"created_at": "Tue Apr 16 06:18:12 +0000 2019",
+		"id": 1117995403289317400,
+		"id_str": "1118035848237215747",
+		"full_text": "이게 당신의 존재이유가 뭐죠? 입니다.\n\n의료보험! https://t.co/yt3XDT59Ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117995391805296600,
+					"id_str": "1117995391805296641",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Pq4q0UEAEG0je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Pq4q0UEAEG0je.jpg",
+					"url": "https://t.co/yt3XDT59Ki",
+					"display_url": "pic.twitter.com/yt3XDT59Ki",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117995403289317376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117995391805296600,
+					"id_str": "1117995391805296641",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Pq4q0UEAEG0je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Pq4q0UEAEG0je.jpg",
+					"url": "https://t.co/yt3XDT59Ki",
+					"display_url": "pic.twitter.com/yt3XDT59Ki",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1117995403289317376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1117991381383778300,
+		"in_reply_to_status_id_str": "1117991381383778306",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 당신의 존재이유가 뭐죠? 입니다.\n\n의료보험! https://t.co/yt3XDT59Ki"
+	},
+	{
+		"created_at": "Tue Apr 16 06:17:49 +0000 2019",
+		"id": 1118005799039619100,
+		"id_str": "1118035749373272064",
+		"full_text": "인호교수님 랩 다니는 사람 놀릴 때 쓸 것 https://t.co/Pqk5M5IyGW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118005770686091300,
+					"id_str": "1118005770686091264",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P0UzKU0AAQ9Bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P0UzKU0AAQ9Bu.jpg",
+					"url": "https://t.co/Pqk5M5IyGW",
+					"display_url": "pic.twitter.com/Pqk5M5IyGW",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005799039619072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118005770686091300,
+					"id_str": "1118005770686091264",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P0UzKU0AAQ9Bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P0UzKU0AAQ9Bu.jpg",
+					"url": "https://t.co/Pqk5M5IyGW",
+					"display_url": "pic.twitter.com/Pqk5M5IyGW",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005799039619072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118005786146271200,
+					"id_str": "1118005786146271237",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D4P0VswUcAUr-K3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4P0VswUcAUr-K3.jpg",
+					"url": "https://t.co/Pqk5M5IyGW",
+					"display_url": "pic.twitter.com/Pqk5M5IyGW",
+					"expanded_url": "https://twitter.com/CppDDoLgi/status/1118005799039619072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1118005006995615700,
+		"in_reply_to_status_id_str": "1118005006995615744",
+		"in_reply_to_user_id": 776099946386759700,
+		"in_reply_to_user_id_str": "776099946386759680",
+		"in_reply_to_screen_name": "CppDDoLgi",
+		"user": {
+			"id": 776099946386759700,
+			"id_str": "776099946386759680",
+			"name": "김똘기, 사이언스는 신나지 않아",
+			"screen_name": "CppDDoLgi",
+			"location": "",
+			"description": "그게 신났으면 다들 대학원을 갔지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 192,
+			"listed_count": 2,
+			"created_at": "Wed Sep 14 16:47:01 +0000 2016",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080321876260352000/rxFaYl8m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776099946386759680/1536658425",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인호교수님 랩 다니는 사람 놀릴 때 쓸 것 https://t.co/Pqk5M5IyGW"
+	},
+	{
 		"created_at": "Tue Apr 16 06:14:31 +0000 2019",
 		"id": 1118034921254051800,
 		"id_str": "1118034921254051841",
