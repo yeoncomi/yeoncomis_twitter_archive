@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 12:42:07 +0000 2019",
+		"id": 1118110975884849200,
+		"id_str": "1118132462305964033",
+		"full_text": "콜넣고 싶으신분들 서울구치소 오세요 울오까고\n사이가 화이가 이엣타이가 대신에\n박근혜 석방해 사월십육일 하시면 될것같음 https://t.co/6A5s6TWpws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6A5s6TWpws",
+					"expanded_url": "https://twitter.com/ascoeur9/status/1118110174550482944",
+					"display_url": "twitter.com/ascoeur9/statu…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864563594,
+			"id_str": "864563594",
+			"name": "하레",
+			"screen_name": "ascoeur9",
+			"location": "",
+			"description": "파나 S1 존버 / 방린이 / 키구루미 / 코스 촬영문의 환영 / 답장이 꼭 필요한 연락은 DM말고 아래 전화번호로 문자 주세요 / 010-2860-6025 / 대행문의는 트위터 말고 https://t.co/c6Zxnmqaay",
+			"url": "https://t.co/48JwIBGgWy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/48JwIBGgWy",
+							"expanded_url": "https://www.youtube.com/channel/UCI7TKA41pow1lt46y_gtxYQ",
+							"display_url": "youtube.com/channel/UCI7TK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c6Zxnmqaay",
+							"expanded_url": "http://cafe.naver.com/haretrade",
+							"display_url": "cafe.naver.com/haretrade",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10899,
+			"friends_count": 692,
+			"listed_count": 14,
+			"created_at": "Sat Oct 06 11:47:59 +0000 2012",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142239,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097691875123748866/bDHy7VdJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097691875123748866/bDHy7VdJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864563594/1530797504",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118110174550483000,
+		"quoted_status_id_str": "1118110174550482944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6A5s6TWpws",
+			"expanded": "https://twitter.com/ascoeur9/status/1118110174550482944",
+			"display": "twitter.com/ascoeur9/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 11:13:33 +0000 2019",
+			"id": 1118110174550483000,
+			"id_str": "1118110174550482944",
+			"full_text": "아니 뭔뎈ㅋㅋㅋㅋㅋ https://t.co/9Jg7Hiocc9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118110159186698200,
+						"id_str": "1118110159186698240",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D4RTRAoUIAA1rgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4RTRAoUIAA1rgv.jpg",
+						"url": "https://t.co/9Jg7Hiocc9",
+						"display_url": "pic.twitter.com/9Jg7Hiocc9",
+						"expanded_url": "https://twitter.com/ascoeur9/status/1118110174550482944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118110159186698200,
+						"id_str": "1118110159186698240",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D4RTRAoUIAA1rgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4RTRAoUIAA1rgv.jpg",
+						"url": "https://t.co/9Jg7Hiocc9",
+						"display_url": "pic.twitter.com/9Jg7Hiocc9",
+						"expanded_url": "https://twitter.com/ascoeur9/status/1118110174550482944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 864563594,
+				"id_str": "864563594",
+				"name": "하레",
+				"screen_name": "ascoeur9",
+				"location": "",
+				"description": "파나 S1 존버 / 방린이 / 키구루미 / 코스 촬영문의 환영 / 답장이 꼭 필요한 연락은 DM말고 아래 전화번호로 문자 주세요 / 010-2860-6025 / 대행문의는 트위터 말고 https://t.co/c6Zxnmqaay",
+				"url": "https://t.co/48JwIBGgWy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/48JwIBGgWy",
+								"expanded_url": "https://www.youtube.com/channel/UCI7TKA41pow1lt46y_gtxYQ",
+								"display_url": "youtube.com/channel/UCI7TK…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/c6Zxnmqaay",
+								"expanded_url": "http://cafe.naver.com/haretrade",
+								"display_url": "cafe.naver.com/haretrade",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10899,
+				"friends_count": 692,
+				"listed_count": 14,
+				"created_at": "Sat Oct 06 11:47:59 +0000 2012",
+				"favourites_count": 1723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142239,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097691875123748866/bDHy7VdJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097691875123748866/bDHy7VdJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/864563594/1530797504",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콜넣고 싶으신분들 서울구치소 오세요 울오까고\n사이가 화이가 이엣타이가 대신에\n박근혜 석방해 사월십육일 하시면 될것같음 https://t.co/6A5s6TWpws"
+	},
+	{
+		"created_at": "Tue Apr 16 12:40:10 +0000 2019",
+		"id": 1118112752776540200,
+		"id_str": "1118131971912130560",
+		"full_text": "앵커가 친구들이 죽은 것을 알고 있냐는 질문을 했던 JTBC는 참사 당일 큰 비판을 받았다. 그러나 JTBC는 이후 끈질긴 연속보도로 한국기자상 대상까지 수상하면서 유가족들이 가장 지지하는 언론사로 거듭나는 데 성공했다. 기레기라 욕먹는 게 억울하다면, 한풀이하는 대신 좋은 보도로 답하면 된다. https://t.co/q4pzEgWu8X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118112741674250200,
+					"id_str": "1118112741674250241",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RVnVJU8AEQ8Ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4RVnVJU8AEQ8Ax.jpg",
+					"url": "https://t.co/q4pzEgWu8X",
+					"display_url": "pic.twitter.com/q4pzEgWu8X",
+					"expanded_url": "https://twitter.com/ibumangcheon/status/1118112752776540161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118112741674250200,
+					"id_str": "1118112741674250241",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RVnVJU8AEQ8Ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4RVnVJU8AEQ8Ax.jpg",
+					"url": "https://t.co/q4pzEgWu8X",
+					"display_url": "pic.twitter.com/q4pzEgWu8X",
+					"expanded_url": "https://twitter.com/ibumangcheon/status/1118112752776540161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180434310,
+			"id_str": "180434310",
+			"name": "🎗",
+			"screen_name": "ibumangcheon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 1062,
+			"listed_count": 16,
+			"created_at": "Thu Aug 19 16:42:45 +0000 2010",
+			"favourites_count": 1320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25256,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118080666522886144/O8mOkanh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118080666522886144/O8mOkanh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180434310/1539065385",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앵커가 친구들이 죽은 것을 알고 있냐는 질문을 했던 JTBC는 참사 당일 큰 비판을 받았다. 그러나 JTBC는 이후 끈질긴 연속보도로 한국기자상 대상까지 수상하면서 유가족들이 가장 지지하는 언론사로 거듭나는 데 성공했다. 기레기라 욕먹는 게 억울하다면, 한풀이하는 대신 좋은 보도로 답하면 된다. https://t.co/q4pzEgWu8X"
+	},
+	{
 		"created_at": "Tue Apr 16 11:26:19 +0000 2019",
 		"id": 1118113384514240500,
 		"id_str": "1118113384514240512",
