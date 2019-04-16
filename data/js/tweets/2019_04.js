@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 19:46:33 +0000 2019",
+		"id": 1117952648458588200,
+		"id_str": "1118239275705716736",
+		"full_text": "日本人です https://t.co/QwpJAoIInI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QwpJAoIInI",
+					"expanded_url": "https://twitter.com/reiji58/status/1117299758622629888",
+					"display_url": "twitter.com/reiji58/status…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8197432,
+			"id_str": "8197432",
+			"name": "fukumimi",
+			"screen_name": "fukumimi",
+			"location": "Mostly in Tokyo",
+			"description": "Just a random guy who tweets in English and Japanese",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2958,
+			"friends_count": 785,
+			"listed_count": 276,
+			"created_at": "Wed Aug 15 06:01:45 +0000 2007",
+			"favourites_count": 2743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/62431944/photo3_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/62431944/photo3_normal.JPG",
+			"profile_link_color": "4B97D1",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117299758622629900,
+		"quoted_status_id_str": "1117299758622629888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QwpJAoIInI",
+			"expanded": "https://twitter.com/reiji58/status/1117299758622629888",
+			"display": "twitter.com/reiji58/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 14 05:33:15 +0000 2019",
+			"id": 1117299758622629900,
+			"id_str": "1117299758622629888",
+			"full_text": "インド人🇮🇳の江戸川区議会議員候補だって\n#よぎ 頑張ってね https://t.co/XQgZEIj2v1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "よぎ",
+						"indices": [
+							21,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117299752897376300,
+						"id_str": "1117299752897376256",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D4FyNJ8UcAAgVia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4FyNJ8UcAAgVia.jpg",
+						"url": "https://t.co/XQgZEIj2v1",
+						"display_url": "pic.twitter.com/XQgZEIj2v1",
+						"expanded_url": "https://twitter.com/REIJI58/status/1117299758622629888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117299752897376300,
+						"id_str": "1117299752897376256",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D4FyNJ8UcAAgVia.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4FyNJ8UcAAgVia.jpg",
+						"url": "https://t.co/XQgZEIj2v1",
+						"display_url": "pic.twitter.com/XQgZEIj2v1",
+						"expanded_url": "https://twitter.com/REIJI58/status/1117299758622629888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755731225570979800,
+				"id_str": "755731225570979840",
+				"name": "REIJI58",
+				"screen_name": "REIJI58",
+				"location": "TOKYO EDGAWATTS CITY",
+				"description": "大杉東→明○バスケ部58 →？？ ロックシャネルズ クールス 矢沢永吉 松江魔邪不阿迦",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 389,
+				"listed_count": 0,
+				"created_at": "Wed Jul 20 11:48:59 +0000 2016",
+				"favourites_count": 6749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2717,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033612405551452160/L-n97jzh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033612405551452160/L-n97jzh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755731225570979840/1542540942",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 834,
+			"favorite_count": 1694,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 242,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "日本人です https://t.co/QwpJAoIInI"
+	},
+	{
 		"created_at": "Tue Apr 16 17:51:11 +0000 2019",
 		"id": 1117048821471514600,
 		"id_str": "1118210239797399553",
