@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 03:55:49 +0000 2019",
+		"id": 1117999021765746700,
+		"id_str": "1118000014544867328",
+		"full_text": "유비소프트 계정이 왜인지 캐나다국가로 되있길래 한국으로 변경요청 메일을 보냈는데 오늘 온 답장 https://t.co/neeV1o2REa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117998998999068700,
+					"id_str": "1117998998999068673",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PuKoqU8AEMe5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PuKoqU8AEMe5A.jpg",
+					"url": "https://t.co/neeV1o2REa",
+					"display_url": "pic.twitter.com/neeV1o2REa",
+					"expanded_url": "https://twitter.com/_Zivel/status/1117999021765746689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117998998999068700,
+					"id_str": "1117998998999068673",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PuKoqU8AEMe5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PuKoqU8AEMe5A.jpg",
+					"url": "https://t.co/neeV1o2REa",
+					"display_url": "pic.twitter.com/neeV1o2REa",
+					"expanded_url": "https://twitter.com/_Zivel/status/1117999021765746689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114627409,
+			"id_str": "114627409",
+			"name": "Zivel",
+			"screen_name": "_Zivel",
+			"location": "Voronezh, Russia",
+			"description": "당한만큼 갚아준다! 0.0001배로 갚는다! 실내모형 사진 좋아합니다. 찍은사진들은 https://t.co/TCm8nwPUrp… 에서 보실수 있습니다.",
+			"url": "https://t.co/fHb3hY0BY5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fHb3hY0BY5",
+							"expanded_url": "http://www.flickr.com/photos/zivel/",
+							"display_url": "flickr.com/photos/zivel/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TCm8nwPUrp",
+							"expanded_url": "https://twitter.com/i/moments/7821",
+							"display_url": "twitter.com/i/moments/7821",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 775,
+			"friends_count": 589,
+			"listed_count": 42,
+			"created_at": "Tue Feb 16 02:47:55 +0000 2010",
+			"favourites_count": 1705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 211204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111018740957790209/M4Swh_ys_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111018740957790209/M4Swh_ys_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114627409/1554180244",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유비소프트 계정이 왜인지 캐나다국가로 되있길래 한국으로 변경요청 메일을 보냈는데 오늘 온 답장 https://t.co/neeV1o2REa"
+	},
+	{
+		"created_at": "Tue Apr 16 03:50:22 +0000 2019",
+		"id": 1117995056634273800,
+		"id_str": "1117998643875762176",
+		"full_text": "\"올해의 개똥망겜\" 리뷰들\n-밸런스가 나쁘다\n-버그가 많다\n-과금밖에 없다\n-스토리가 개똥\n\n\"올해의 개똥망 야겜\" 리뷰들\n-설치 프로그램이 안돌아감\n-C드라이브가 망가짐\n-4GB짜리 공식 패치로 안 고쳐지던 버그가 수십KB짜리 유저 패치로 해결\n-\"XX파일을 덮어씌워주세요\"→XX파일이 안보임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137598328,
+			"id_str": "137598328",
+			"name": "ECHOES",
+			"screen_name": "echospherics",
+			"location": "",
+			"description": "DDR｜韓国勢｜4112-9325｜激鬼 MFC 304｜#GO4THETOP 2nd Lower 우승｜単発から発狂までいろいろやってます。時々綺麗な絵をRTしてます。/ RT 많으니 리트윗을 끄는 것을 권장합니다.",
+			"url": "https://t.co/pNjiHWEiIc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNjiHWEiIc",
+							"expanded_url": "http://skillattack.com/sa4/dancer_profile.php?ddrcode=41129325",
+							"display_url": "skillattack.com/sa4/dancer_pro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3822,
+			"friends_count": 5001,
+			"listed_count": 95,
+			"created_at": "Tue Apr 27 06:00:22 +0000 2010",
+			"favourites_count": 7207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 237691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103516746915303425/9YaGjjdi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103516746915303425/9YaGjjdi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137598328/1546574839",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"올해의 개똥망겜\" 리뷰들\n-밸런스가 나쁘다\n-버그가 많다\n-과금밖에 없다\n-스토리가 개똥\n\n\"올해의 개똥망 야겜\" 리뷰들\n-설치 프로그램이 안돌아감\n-C드라이브가 망가짐\n-4GB짜리 공식 패치로 안 고쳐지던 버그가 수십KB짜리 유저 패치로 해결\n-\"XX파일을 덮어씌워주세요\"→XX파일이 안보임"
+	},
+	{
+		"created_at": "Tue Apr 16 03:39:29 +0000 2019",
+		"id": 1117995732248584200,
+		"id_str": "1117995905695662080",
+		"full_text": "아니 병신아 내가 자몽맛으로 시키랬지 레몬맛을 주문하냐?..일단 맛있으니 화는 안내겠는데... https://t.co/NDO60nYIWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117995230899261400,
+					"id_str": "1117995230899261440",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PqvTZU0AAQriF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PqvTZU0AAQriF.jpg",
+					"url": "https://t.co/NDO60nYIWe",
+					"display_url": "pic.twitter.com/NDO60nYIWe",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117995732248584192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117995230899261400,
+					"id_str": "1117995230899261440",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4PqvTZU0AAQriF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4PqvTZU0AAQriF.jpg",
+					"url": "https://t.co/NDO60nYIWe",
+					"display_url": "pic.twitter.com/NDO60nYIWe",
+					"expanded_url": "https://twitter.com/KU_CU_QU/status/1117995732248584192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3151480658,
+			"id_str": "3151480658",
+			"name": "노시[술팟메인트]",
+			"screen_name": "KU_CU_QU",
+			"location": "하와와의증인",
+			"description": "금빛 모자이크 본진 - 오오미야 시노부(大宮 忍) 최애입니다! : 멘션주면 맞팔합니다! 금빛모자이크 야짤 알티나 올릴시 칼블락.백합회로 절찬리 오버클럭중",
+			"url": "https://t.co/ukvLeWiVYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukvLeWiVYy",
+							"expanded_url": "http://pixiv.me/kinmosa_nosi",
+							"display_url": "pixiv.me/kinmosa_nosi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1558,
+			"friends_count": 801,
+			"listed_count": 36,
+			"created_at": "Sun Apr 12 14:06:12 +0000 2015",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77039,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117009942290919424/0vnLnzcx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3151480658/1554131183",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 병신아 내가 자몽맛으로 시키랬지 레몬맛을 주문하냐?..일단 맛있으니 화는 안내겠는데... https://t.co/NDO60nYIWe"
+	},
+	{
+		"created_at": "Tue Apr 16 03:36:01 +0000 2019",
+		"id": 1117995032672231400,
+		"id_str": "1117995032672231424",
+		"full_text": "@tist0924 앗 실수",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tist0924",
+					"name": "티스트/Tist",
+					"id": 782944766187016200,
+					"id_str": "782944766187016192",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1117994929727295500,
+		"in_reply_to_status_id_str": "1117994929727295488",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@tist0924 앗 실수"
+	},
+	{
+		"created_at": "Tue Apr 16 03:35:37 +0000 2019",
+		"id": 1117994929727295500,
+		"id_str": "1117994929727295488",
+		"full_text": "@tist0924 항공기에서 보셨구나...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tist0924",
+					"name": "티스트/Tist",
+					"id": 782944766187016200,
+					"id_str": "782944766187016192",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1117986144904343600,
+		"in_reply_to_status_id_str": "1117986144904343555",
+		"in_reply_to_user_id": 782944766187016200,
+		"in_reply_to_user_id_str": "782944766187016192",
+		"in_reply_to_screen_name": "tist0924",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@tist0924 항공기에서 보셨구나..."
+	},
+	{
 		"created_at": "Tue Apr 16 02:53:29 +0000 2019",
 		"id": 1117984327084601300,
 		"id_str": "1117984327084601344",
