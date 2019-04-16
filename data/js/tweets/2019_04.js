@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 02:53:29 +0000 2019",
+		"id": 1117984327084601300,
+		"id_str": "1117984327084601344",
+		"full_text": "에어캐나다 기내 엔터테이먼트에서 이건 머지 하고 봤는데 쟀더라고요 https://t.co/WN9jGsO1iw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WN9jGsO1iw",
+					"expanded_url": "https://twitter.com/tist0924/status/1117980550826844161",
+					"display_url": "twitter.com/tist0924/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117980550826844200,
+		"quoted_status_id_str": "1117980550826844161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WN9jGsO1iw",
+			"expanded": "https://twitter.com/tist0924/status/1117980550826844161",
+			"display": "twitter.com/tist0924/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 02:38:29 +0000 2019",
+			"id": 1117980550826844200,
+			"id_str": "1117980550826844161",
+			"full_text": "한번 사서 봤는데 꽤 재밌었당 https://t.co/Qc37WWalrE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117980541746237400,
+						"id_str": "1117980541746237440",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/D4PdYSCVUAAMRMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4PdYSCVUAAMRMO.jpg",
+						"url": "https://t.co/Qc37WWalrE",
+						"display_url": "pic.twitter.com/Qc37WWalrE",
+						"expanded_url": "https://twitter.com/tist0924/status/1117980550826844161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117980541746237400,
+						"id_str": "1117980541746237440",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/D4PdYSCVUAAMRMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4PdYSCVUAAMRMO.jpg",
+						"url": "https://t.co/Qc37WWalrE",
+						"display_url": "pic.twitter.com/Qc37WWalrE",
+						"expanded_url": "https://twitter.com/tist0924/status/1117980550826844161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 651,
+								"h": 615,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 782944766187016200,
+				"id_str": "782944766187016192",
+				"name": "티스트/Tist",
+				"screen_name": "tist0924",
+				"location": "일본 도쿄..에 살고싶음",
+				"description": "I Love Sopmod 💕💕 그리고싶은걸 그려요  \n헤더 : @luttya_",
+				"url": "https://t.co/jzKViiX5Mh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzKViiX5Mh",
+								"expanded_url": "https://www.pixiv.net/manage/illusts/",
+								"display_url": "pixiv.net/manage/illusts/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 937,
+				"friends_count": 1287,
+				"listed_count": 0,
+				"created_at": "Mon Oct 03 14:05:53 +0000 2016",
+				"favourites_count": 8146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45728,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117612754548826112/EYNm6fLO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117612754548826112/EYNm6fLO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/782944766187016192/1555294626",
+				"profile_link_color": "FF1100",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에어캐나다 기내 엔터테이먼트에서 이건 머지 하고 봤는데 쟀더라고요 https://t.co/WN9jGsO1iw"
+	},
+	{
 		"created_at": "Tue Apr 16 00:51:25 +0000 2019",
 		"id": 1117945496125861900,
 		"id_str": "1117953607628754944",
