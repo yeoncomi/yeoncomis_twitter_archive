@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 17:51:11 +0000 2019",
+		"id": 1117048821471514600,
+		"id_str": "1118210239797399553",
+		"full_text": "글쓴이는 다 따먹어봣다 이건가 https://t.co/Y8dFZN24Ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117048797681467400,
+					"id_str": "1117048797681467393",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4CN9o6UwAEL7T1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4CN9o6UwAEL7T1.jpg",
+					"url": "https://t.co/Y8dFZN24Ri",
+					"display_url": "pic.twitter.com/Y8dFZN24Ri",
+					"expanded_url": "https://twitter.com/luv_Sjh/status/1117048821471514630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117048797681467400,
+					"id_str": "1117048797681467393",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4CN9o6UwAEL7T1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4CN9o6UwAEL7T1.jpg",
+					"url": "https://t.co/Y8dFZN24Ri",
+					"display_url": "pic.twitter.com/Y8dFZN24Ri",
+					"expanded_url": "https://twitter.com/luv_Sjh/status/1117048821471514630/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069627604947238900,
+			"id_str": "1069627604947238912",
+			"name": "❄️멍밥",
+			"screen_name": "luv_Sjh",
+			"location": "",
+			"description": "1차bl/서브공처돌이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 130,
+			"listed_count": 0,
+			"created_at": "Mon Dec 03 16:21:08 +0000 2018",
+			"favourites_count": 3064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101128596591075328/XRkQdmW__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101128596591075328/XRkQdmW__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069627604947238912/1552658198",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3290,
+		"favorite_count": 1105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "글쓴이는 다 따먹어봣다 이건가 https://t.co/Y8dFZN24Ri"
+	},
+	{
+		"created_at": "Tue Apr 16 17:44:49 +0000 2019",
+		"id": 1118093071860715500,
+		"id_str": "1118208640295399430",
+		"full_text": "번외: 신분당선을 타고 판교역 교보문고로 가라고 한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1118092835100565500,
+		"in_reply_to_status_id_str": "1118092835100565504",
+		"in_reply_to_user_id": 244330027,
+		"in_reply_to_user_id_str": "244330027",
+		"in_reply_to_screen_name": "64bitfox",
+		"user": {
+			"id": 244330027,
+			"id_str": "244330027",
+			"name": "64비트여우🎗",
+			"screen_name": "64bitfox",
+			"location": "",
+			"description": "나의 CPU 32비트, 자네의 CPU 32비트, 총 64비트의 CPU로 완벽한 작전을 짜야 한다네",
+			"url": "https://t.co/7CoKOerz9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7CoKOerz9G",
+							"expanded_url": "https://planet.moe/@64bitfox",
+							"display_url": "planet.moe/@64bitfox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1374,
+			"friends_count": 761,
+			"listed_count": 45,
+			"created_at": "Sat Jan 29 02:18:51 +0000 2011",
+			"favourites_count": 6679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56186,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117344888670961664/hfBI0MMz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117344888670961664/hfBI0MMz_normal.jpg",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "번외: 신분당선을 타고 판교역 교보문고로 가라고 한다"
+	},
+	{
+		"created_at": "Tue Apr 16 17:41:19 +0000 2019",
+		"id": 1118120868331130900,
+		"id_str": "1118207756702322689",
+		"full_text": "딜처박는거 보소 ㅋㅋㅋㅋ https://t.co/8Eh9cc93yN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118120861175693300,
+					"id_str": "1118120861175693312",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Rc_8pUwAAXPsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Rc_8pUwAAXPsB.jpg",
+					"url": "https://t.co/8Eh9cc93yN",
+					"display_url": "pic.twitter.com/8Eh9cc93yN",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1118120868331130880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 685,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118120861175693300,
+					"id_str": "1118120861175693312",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Rc_8pUwAAXPsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Rc_8pUwAAXPsB.jpg",
+					"url": "https://t.co/8Eh9cc93yN",
+					"display_url": "pic.twitter.com/8Eh9cc93yN",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1118120868331130880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 685,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, England",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 일본인 :: 한국어ok :: 사진과 여행, 먹고 마시는 것이 취미 :: Benz C클래스 그릴 오너 // 사진계정 @photo_berliquet",
+			"url": "https://t.co/B9v5jUZyFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B9v5jUZyFX",
+							"expanded_url": "https://peing.net/ko/ch_berliquet?event=0",
+							"display_url": "peing.net/ko/ch_berlique…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1311,
+			"friends_count": 494,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 20608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97665,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1554355979",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "딜처박는거 보소 ㅋㅋㅋㅋ https://t.co/8Eh9cc93yN"
+	},
+	{
 		"created_at": "Tue Apr 16 14:02:46 +0000 2019",
 		"id": 1118019186272264200,
 		"id_str": "1118152757381222400",
