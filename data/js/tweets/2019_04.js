@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 17:12:03 +0000 2019",
+		"id": 1118559574259159000,
+		"id_str": "1118562778908749826",
+		"full_text": "하객이 아니라 자객이네요 https://t.co/dBL8mtFYqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBL8mtFYqn",
+					"expanded_url": "https://twitter.com/i_love_shotgun/status/1118367126698582016",
+					"display_url": "twitter.com/i_love_shotgun…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1047434952512438300,
+			"id_str": "1047434952512438273",
+			"name": "류이진P",
+			"screen_name": "RYUYIJEEN",
+			"location": "만성찬팅",
+			"description": "마크로스 시리즈, 아이돌마스터, 20세, 남성, 주황색 물고기모양 마크인 대학에 재학중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 316,
+			"listed_count": 2,
+			"created_at": "Wed Oct 03 10:35:27 +0000 2018",
+			"favourites_count": 980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13185,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113003813206552576/i6c88HXa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113003813206552576/i6c88HXa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1047434952512438273/1554040000",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118367126698582000,
+		"quoted_status_id_str": "1118367126698582016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dBL8mtFYqn",
+			"expanded": "https://twitter.com/i_love_shotgun/status/1118367126698582016",
+			"display": "twitter.com/i_love_shotgun…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 04:14:35 +0000 2019",
+			"id": 1118367126698582000,
+			"id_str": "1118367126698582016",
+			"full_text": "하객 원피스..? https://t.co/aHdaYsCmgz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118367123691249700,
+						"id_str": "1118367123691249667",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/D4U8-UAXoAM6lk3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4U8-UAXoAM6lk3.jpg",
+						"url": "https://t.co/aHdaYsCmgz",
+						"display_url": "pic.twitter.com/aHdaYsCmgz",
+						"expanded_url": "https://twitter.com/i_love_shotgun/status/1118367126698582016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 728,
+								"h": 434,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 728,
+								"h": 434,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118367123691249700,
+						"id_str": "1118367123691249667",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/D4U8-UAXoAM6lk3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4U8-UAXoAM6lk3.jpg",
+						"url": "https://t.co/aHdaYsCmgz",
+						"display_url": "pic.twitter.com/aHdaYsCmgz",
+						"expanded_url": "https://twitter.com/i_love_shotgun/status/1118367126698582016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 728,
+								"h": 434,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 728,
+								"h": 434,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715749726402977800,
+				"id_str": "715749726402977797",
+				"name": "샷건빌런",
+				"screen_name": "i_love_shotgun",
+				"location": "",
+				"description": "케모노 프렌즈 2기 언제 나오냐",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3543,
+				"friends_count": 496,
+				"listed_count": 72,
+				"created_at": "Fri Apr 01 03:56:47 +0000 2016",
+				"favourites_count": 1706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 94745,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087661012520583168/0zYFgjTY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087661012520583168/0zYFgjTY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715749726402977797/1512789734",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하객이 아니라 자객이네요 https://t.co/dBL8mtFYqn"
+	},
+	{
 		"created_at": "Wed Apr 17 04:31:59 +0000 2019",
 		"id": 1118371502850760700,
 		"id_str": "1118371502850760704",
