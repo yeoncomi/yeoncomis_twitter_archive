@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 21:43:14 +0000 2019",
+		"id": 1118629040846303200,
+		"id_str": "1118631027142873088",
+		"full_text": "https://t.co/2nmvHdLXcl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118629027080593400,
+					"id_str": "1118629027080593409",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4YrLGKUYAEGvqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4YrLGKUYAEGvqt.jpg",
+					"url": "https://t.co/2nmvHdLXcl",
+					"display_url": "pic.twitter.com/2nmvHdLXcl",
+					"expanded_url": "https://twitter.com/maullarmaullar/status/1118629040846303234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118629027080593400,
+					"id_str": "1118629027080593409",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4YrLGKUYAEGvqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4YrLGKUYAEGvqt.jpg",
+					"url": "https://t.co/2nmvHdLXcl",
+					"display_url": "pic.twitter.com/2nmvHdLXcl",
+					"expanded_url": "https://twitter.com/maullarmaullar/status/1118629040846303234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118629031555948500,
+					"id_str": "1118629031555948545",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4YrLW1U4AE9glQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4YrLW1U4AE9glQ.jpg",
+					"url": "https://t.co/2nmvHdLXcl",
+					"display_url": "pic.twitter.com/2nmvHdLXcl",
+					"expanded_url": "https://twitter.com/maullarmaullar/status/1118629040846303234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2275408650,
+			"id_str": "2275408650",
+			"name": "maullar@Sakuracon Ikimasu~",
+			"screen_name": "maullarmaullar",
+			"location": "home for infinite lewders",
+			"description": "banned from hentai olympics for doping 🔞",
+			"url": "https://t.co/3XrsYGmp3n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3XrsYGmp3n",
+							"expanded_url": "http://pixiv.me/maullarmaullar",
+							"display_url": "pixiv.me/maullarmaullar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5373,
+			"friends_count": 1481,
+			"listed_count": 120,
+			"created_at": "Sat Jan 04 02:17:11 +0000 2014",
+			"favourites_count": 204345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184280,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112942905763651586/y4JOyM4__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112942905763651586/y4JOyM4__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275408650/1553837938",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/2nmvHdLXcl"
+	},
+	{
 		"created_at": "Wed Apr 17 20:15:57 +0000 2019",
 		"id": 1118609059173634000,
 		"id_str": "1118609059173634053",
