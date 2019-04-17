@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 23:05:45 +0000 2019",
+		"id": 1118327494896050200,
+		"id_str": "1118651794341519360",
+		"full_text": "시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ이건 나만 볼 수 없다 신자유주의페미에 이은 반공친미페미 https://t.co/iOR0j4qviC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118327486918447100,
+					"id_str": "1118327486918447104",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D4UY7JhUUAAR3Py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4UY7JhUUAAR3Py.jpg",
+					"url": "https://t.co/iOR0j4qviC",
+					"display_url": "pic.twitter.com/iOR0j4qviC",
+					"expanded_url": "https://twitter.com/Silverfrst/status/1118327494896050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118327486918447100,
+					"id_str": "1118327486918447104",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D4UY7JhUUAAR3Py.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4UY7JhUUAAR3Py.jpg",
+					"url": "https://t.co/iOR0j4qviC",
+					"display_url": "pic.twitter.com/iOR0j4qviC",
+					"expanded_url": "https://twitter.com/Silverfrst/status/1118327494896050176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4858500877,
+			"id_str": "4858500877",
+			"name": "은림🎗",
+			"screen_name": "Silverfrst",
+			"location": "언젠가 너에게 보여줄 세상",
+			"description": "한걸음씩 디뎠던 그 곳에서 해방의 불꽃들이 피어날 거야/민중의 힘 민중당/모두의 페미니즘",
+			"url": "https://t.co/eC9OnOuN4R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eC9OnOuN4R",
+							"expanded_url": "http://silverfrst.egloos.com/",
+							"display_url": "silverfrst.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124,
+			"friends_count": 195,
+			"listed_count": 1,
+			"created_at": "Thu Feb 04 10:31:54 +0000 2016",
+			"favourites_count": 1648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4873,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/789014215407210497/YLt7IB9g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/789014215407210497/YLt7IB9g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4858500877/1476950624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 980,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시발ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ이건 나만 볼 수 없다 신자유주의페미에 이은 반공친미페미 https://t.co/iOR0j4qviC"
+	},
+	{
 		"created_at": "Wed Apr 17 21:43:14 +0000 2019",
 		"id": 1118629040846303200,
 		"id_str": "1118631027142873088",
