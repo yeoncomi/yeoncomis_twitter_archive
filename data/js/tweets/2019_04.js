@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 18:44:44 +0000 2019",
+		"id": 1118520637935370200,
+		"id_str": "1118586106600050688",
+		"full_text": "한국 10대들 4월 베스트셀러 https://t.co/Vs2XAMDF2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118520571124314100,
+					"id_str": "1118520571124314114",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XIiIPU8AIekgT.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4XIiIPU8AIekgT.png",
+					"url": "https://t.co/Vs2XAMDF2T",
+					"display_url": "pic.twitter.com/Vs2XAMDF2T",
+					"expanded_url": "https://twitter.com/ELID00/status/1118520637935370240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118520571124314100,
+					"id_str": "1118520571124314114",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XIiIPU8AIekgT.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4XIiIPU8AIekgT.png",
+					"url": "https://t.co/Vs2XAMDF2T",
+					"display_url": "pic.twitter.com/Vs2XAMDF2T",
+					"expanded_url": "https://twitter.com/ELID00/status/1118520637935370240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107410295910096900,
+			"id_str": "1107410295910096896",
+			"name": "ELID",
+			"screen_name": "ELID00",
+			"location": "대한민국 서울",
+			"description": "日本語少しおｋ。 \n프로필 : @GitoshinP \n PAWOO : https://t.co/23W9nfMpOI…",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/23W9nfMpOI",
+							"expanded_url": "http://pawoo.net/web/accounts/9",
+							"display_url": "pawoo.net/web/accounts/9",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 418,
+			"friends_count": 286,
+			"listed_count": 1,
+			"created_at": "Sun Mar 17 22:36:04 +0000 2019",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3418,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118475796677419008/E13iHXx__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118475796677419008/E13iHXx__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107410295910096896/1554968064",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 10대들 4월 베스트셀러 https://t.co/Vs2XAMDF2T"
+	},
+	{
+		"created_at": "Wed Apr 17 18:44:11 +0000 2019",
+		"id": 1118572285005140000,
+		"id_str": "1118585967080656896",
+		"full_text": "Even the enterprise has been infected with RGB-ness! 😂 https://t.co/MiqnzpWTzx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118572261210878000,
+					"id_str": "1118572261210877953",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118572261210877953/pu/img/PReu9kBDhbYjaqwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118572261210877953/pu/img/PReu9kBDhbYjaqwU.jpg",
+					"url": "https://t.co/MiqnzpWTzx",
+					"display_url": "pic.twitter.com/MiqnzpWTzx",
+					"expanded_url": "https://twitter.com/LinusTech/status/1118572285005139968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118572261210878000,
+					"id_str": "1118572261210877953",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118572261210877953/pu/img/PReu9kBDhbYjaqwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118572261210877953/pu/img/PReu9kBDhbYjaqwU.jpg",
+					"url": "https://t.co/MiqnzpWTzx",
+					"display_url": "pic.twitter.com/MiqnzpWTzx",
+					"expanded_url": "https://twitter.com/LinusTech/status/1118572285005139968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6110,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1118572261210877953/pu/pl/bgi8QC8X9krdqWaZ.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118572261210877953/pu/vid/1280x720/Dml99xZr-OJY71Ar.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118572261210877953/pu/vid/640x360/AWZZ-L6RV_LNNVgw.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118572261210877953/pu/vid/320x180/skV7YLh9W6Q_gzi2.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403614288,
+			"id_str": "403614288",
+			"name": "Linus Tech Tips",
+			"screen_name": "LinusTech",
+			"location": "Vancouver, BC",
+			"description": "The official Twitter of the Linus Tech Tips and Techquickie YouTube channels. Run by the entire Linus Media Group crew. \nhttps://t.co/pOSv8ntTJA",
+			"url": "https://t.co/avXGSXi7Up",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/avXGSXi7Up",
+							"expanded_url": "http://www.youtube.com/LinusTechTips",
+							"display_url": "youtube.com/LinusTechTips",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pOSv8ntTJA",
+							"expanded_url": "http://www.linustechtips.com",
+							"display_url": "linustechtips.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 800626,
+			"friends_count": 241,
+			"listed_count": 2567,
+			"created_at": "Wed Nov 02 19:04:43 +0000 2011",
+			"favourites_count": 3144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034493707553140736/cDlQGimm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403614288/1535477488",
+			"profile_link_color": "FC5331",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even the enterprise has been infected with RGB-ness! 😂 https://t.co/MiqnzpWTzx"
+	},
+	{
+		"created_at": "Wed Apr 17 18:43:27 +0000 2019",
+		"id": 1118585783647006700,
+		"id_str": "1118585783647006720",
+		"full_text": "부활절연휴 머하지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "부활절연휴 머하지"
+	},
+	{
+		"created_at": "Wed Apr 17 18:39:40 +0000 2019",
+		"id": 1118574467255418900,
+		"id_str": "1118584832328515585",
+		"full_text": "The screen on my Galaxy Fold review unit is completely broken and unusable just two days in. Hard to know if this is widespread or not. https://t.co/G0OHj3DQHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118574460531986400,
+					"id_str": "1118574460531986432",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D4X5i57VUAABaLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4X5i57VUAABaLk.jpg",
+					"url": "https://t.co/G0OHj3DQHw",
+					"display_url": "pic.twitter.com/G0OHj3DQHw",
+					"expanded_url": "https://twitter.com/markgurman/status/1118574467255418880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118574460531986400,
+					"id_str": "1118574460531986432",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D4X5i57VUAABaLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4X5i57VUAABaLk.jpg",
+					"url": "https://t.co/G0OHj3DQHw",
+					"display_url": "pic.twitter.com/G0OHj3DQHw",
+					"expanded_url": "https://twitter.com/markgurman/status/1118574467255418880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118574460527759400,
+					"id_str": "1118574460527759361",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D4X5i56U0AE10K5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4X5i56U0AE10K5.jpg",
+					"url": "https://t.co/G0OHj3DQHw",
+					"display_url": "pic.twitter.com/G0OHj3DQHw",
+					"expanded_url": "https://twitter.com/markgurman/status/1118574467255418880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15958614,
+			"id_str": "15958614",
+			"name": "Mark Gurman",
+			"screen_name": "markgurman",
+			"location": "Los Angeles, CA",
+			"description": "Apple & Devices news for Bloomberg. Email: mark@markgurman.com. Wickr/Telegram/WeChat: gurmanmark. Signal:  413-340-6295. ProtonMail: markgurman@protonmail.com.",
+			"url": "https://t.co/99pOngBNOz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/99pOngBNOz",
+							"expanded_url": "https://www.bloomberg.com/authors/AS7Hj1mBMGM/mark-gurman",
+							"display_url": "bloomberg.com/authors/AS7Hj1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76324,
+			"friends_count": 2047,
+			"listed_count": 3207,
+			"created_at": "Sat Aug 23 16:43:17 +0000 2008",
+			"favourites_count": 20218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073001711067910146/OV_XRnhK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073001711067910146/OV_XRnhK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15958614/1551942918",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 630,
+		"favorite_count": 1116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The screen on my Galaxy Fold review unit is completely broken and unusable just two days in. Hard to know if this is widespread or not. https://t.co/G0OHj3DQHw"
+	},
+	{
+		"created_at": "Wed Apr 17 18:37:58 +0000 2019",
+		"id": 1118189058847432700,
+		"id_str": "1118584401237921792",
+		"full_text": "예약하고 말 없이 안오는 것.\n\n사람들이 \"취소 전화하면 미안한 느낌이 든다\" 혹은 \"내가 취소전화 안해도 안가면 다른 사람이 그 자리를 채우겠지\"라고 생각하는데\n\n보통 파인다이닝은 예약 받으면 테이블을 아예 예약석으로 빼둔다..\n그 자릴 채울 수 있는 사람은 없다는 것이다... https://t.co/hwSmpYCtGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118189047044661200,
+					"id_str": "1118189047044661250",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D4SbA4zUYAI5_8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4SbA4zUYAI5_8j.jpg",
+					"url": "https://t.co/hwSmpYCtGJ",
+					"display_url": "pic.twitter.com/hwSmpYCtGJ",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1118189058847432704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1331,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118189047044661200,
+					"id_str": "1118189047044661250",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D4SbA4zUYAI5_8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4SbA4zUYAI5_8j.jpg",
+					"url": "https://t.co/hwSmpYCtGJ",
+					"display_url": "pic.twitter.com/hwSmpYCtGJ",
+					"expanded_url": "https://twitter.com/ch_berliquet/status/1118189058847432704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1331,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2811166105,
+			"id_str": "2811166105",
+			"name": "東京都民ベルリケ @VRC",
+			"screen_name": "ch_berliquet",
+			"location": "Tokyo-to, Japan ↔ London, England",
+			"description": "国際天ちゃん協会長 :: VRC@ベルリケ :: ソムリエ🍷 :: 日常/旅/写真/お酒/料理 :: ただのオタク :: DD オーナー :: ウマ娘 :: 일본인 :: 한국어ok :: 사진과 여행, 먹고 마시는 것이 취미 :: Benz C클래스 그릴 오너 // 사진계정 @photo_berliquet",
+			"url": "https://t.co/B9v5jUZyFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B9v5jUZyFX",
+							"expanded_url": "https://peing.net/ko/ch_berliquet?event=0",
+							"display_url": "peing.net/ko/ch_berlique…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1315,
+			"friends_count": 494,
+			"listed_count": 64,
+			"created_at": "Mon Sep 15 11:16:30 +0000 2014",
+			"favourites_count": 20614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97923,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087376147313086465/1ubPbgtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2811166105/1554355979",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예약하고 말 없이 안오는 것.\n\n사람들이 \"취소 전화하면 미안한 느낌이 든다\" 혹은 \"내가 취소전화 안해도 안가면 다른 사람이 그 자리를 채우겠지\"라고 생각하는데\n\n보통 파인다이닝은 예약 받으면 테이블을 아예 예약석으로 빼둔다..\n그 자릴 채울 수 있는 사람은 없다는 것이다... https://t.co/hwSmpYCtGJ"
+	},
+	{
+		"created_at": "Wed Apr 17 18:36:34 +0000 2019",
+		"id": 1118499333836423200,
+		"id_str": "1118584050849968128",
+		"full_text": "한국에서는 워낙 큰 사고를 일으킨 성분인지라 용도에 관계없이 퇴출되어버렸습니다만 외국에서는 여전히 세정제로 쓰이고 있으므로 수입 세정제에는 이 성분이 포함될 수 있습니다. 따라서 지금까지 이 세정제를 사용하셨어도 가습기 살균제 때와 같은 문제가 발생하지 않으니 안심하셔도 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1118498663200723000,
+		"in_reply_to_status_id_str": "1118498663200722944",
+		"in_reply_to_user_id": 169690766,
+		"in_reply_to_user_id_str": "169690766",
+		"in_reply_to_screen_name": "Ex_Armydoc",
+		"user": {
+			"id": 169690766,
+			"id_str": "169690766",
+			"name": "월급루팡 엑스아미닥, M.D.",
+			"screen_name": "Ex_Armydoc",
+			"location": "Galaxy far, far away…",
+			"description": "M.D. • 하이개거 • 다크 사이드 • 아마추어 매지션 • 닥터페퍼 중독 • 교토 홀릭 // 먹짤계 : @GourmetArmydoc 교토여행계 : @KyoArmydoc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28842,
+			"friends_count": 752,
+			"listed_count": 326,
+			"created_at": "Thu Jul 22 23:14:42 +0000 2010",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 158101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169690766/1547011486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국에서는 워낙 큰 사고를 일으킨 성분인지라 용도에 관계없이 퇴출되어버렸습니다만 외국에서는 여전히 세정제로 쓰이고 있으므로 수입 세정제에는 이 성분이 포함될 수 있습니다. 따라서 지금까지 이 세정제를 사용하셨어도 가습기 살균제 때와 같은 문제가 발생하지 않으니 안심하셔도 됩니다."
+	},
+	{
 		"created_at": "Wed Apr 17 17:12:03 +0000 2019",
 		"id": 1118559574259159000,
 		"id_str": "1118562778908749826",
