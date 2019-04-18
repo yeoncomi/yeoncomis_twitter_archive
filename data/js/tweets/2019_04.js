@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 19:10:58 +0000 2019",
+		"id": 1118850942764322800,
+		"id_str": "1118955095708692481",
+		"full_text": "아이: 아빠 우리 맥도날드 가면 안돼요?\n아빠: 집에도 음식이 있지만 그래도 당연히 맥도날드에 갈 수 있지\n아이: 고마워요 아빠 https://t.co/W8pMTtaGia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118850936053485600,
+					"id_str": "1118850936053485569",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D4b0_5gU0AEan_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4b0_5gU0AEan_I.jpg",
+					"url": "https://t.co/W8pMTtaGia",
+					"display_url": "pic.twitter.com/W8pMTtaGia",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1118850942764322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118850936053485600,
+					"id_str": "1118850936053485569",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D4b0_5gU0AEan_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4b0_5gU0AEan_I.jpg",
+					"url": "https://t.co/W8pMTtaGia",
+					"display_url": "pic.twitter.com/W8pMTtaGia",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1118850942764322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "BRUH\n\n\n레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n밈의 보급에 힘쓰겠습니다.\n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18275,
+			"friends_count": 3,
+			"listed_count": 50,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1183,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이: 아빠 우리 맥도날드 가면 안돼요?\n아빠: 집에도 음식이 있지만 그래도 당연히 맥도날드에 갈 수 있지\n아이: 고마워요 아빠 https://t.co/W8pMTtaGia"
+	},
+	{
+		"created_at": "Thu Apr 18 19:07:37 +0000 2019",
+		"id": 1051387764682371100,
+		"id_str": "1118954251059781632",
+		"full_text": "318. 지리 문제 https://t.co/hUJYVREplQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051387744117641200,
+					"id_str": "1051387744117641216",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DpdHlTFU0AAdvdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpdHlTFU0AAdvdV.jpg",
+					"url": "https://t.co/hUJYVREplQ",
+					"display_url": "pic.twitter.com/hUJYVREplQ",
+					"expanded_url": "https://twitter.com/E_rii_mnts/status/1051387764682371072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051387744117641200,
+					"id_str": "1051387744117641216",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DpdHlTFU0AAdvdV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpdHlTFU0AAdvdV.jpg",
+					"url": "https://t.co/hUJYVREplQ",
+					"display_url": "pic.twitter.com/hUJYVREplQ",
+					"expanded_url": "https://twitter.com/E_rii_mnts/status/1051387764682371072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1051387754523680800,
+					"id_str": "1051387754523680768",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DpdHl52UYAAKWPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpdHl52UYAAKWPX.jpg",
+					"url": "https://t.co/hUJYVREplQ",
+					"display_url": "pic.twitter.com/hUJYVREplQ",
+					"expanded_url": "https://twitter.com/E_rii_mnts/status/1051387764682371072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961846007435731000,
+			"id_str": "961846007435730944",
+			"name": "Play of the Timeline",
+			"screen_name": "E_rii_mnts",
+			"location": "",
+			"description": "트잉여 처치 (+100)",
+			"url": "https://t.co/ITDfJW6yXL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ITDfJW6yXL",
+							"expanded_url": "https://youtu.be/ghk8O1yiY0I",
+							"display_url": "youtu.be/ghk8O1yiY0I",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Fri Feb 09 06:15:33 +0000 2018",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970609646640640000/2ny9ugxy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970609646640640000/2ny9ugxy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961846007435730944/1549009127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "318. 지리 문제 https://t.co/hUJYVREplQ"
+	},
+	{
+		"created_at": "Thu Apr 18 19:05:47 +0000 2019",
+		"id": 1118778395968491500,
+		"id_str": "1118953792379080704",
+		"full_text": "세균수를 측정하는 공식 단위인 변기를 써주길 요구합니다. https://t.co/UvC1QeHipD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UvC1QeHipD",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1118777949203746817",
+					"display_url": "twitter.com/HuffPostKorea/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154189636,
+			"id_str": "154189636",
+			"name": "Aerycrow",
+			"screen_name": "Aerycrow",
+			"location": "눈에 박힌 사과",
+			"description": "번역자. 과학소설가. Translator. Science Fiction Writer. Fatty outside, hollow inside. I won't follow you back. sf작가연대 회원  과학동아 17-8월호. \"돌아간 사람들\"\n#GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 720,
+			"listed_count": 45,
+			"created_at": "Thu Jun 10 16:17:12 +0000 2010",
+			"favourites_count": 3371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 246396,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "416930",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112654657409540102/zw2X-yg3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112654657409540102/zw2X-yg3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154189636/1483301819",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118777949203746800,
+		"quoted_status_id_str": "1118777949203746817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UvC1QeHipD",
+			"expanded": "https://twitter.com/HuffPostKorea/status/1118777949203746817",
+			"display": "twitter.com/HuffPostKorea/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 07:27:03 +0000 2019",
+			"id": 1118777949203746800,
+			"id_str": "1118777949203746817",
+			"full_text": "수염을 기른 남성은 개보다 세균이 많다는 연구 결과가 나왔다 https://t.co/FSqOdka7HM https://t.co/m9HcbM1wqU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FSqOdka7HM",
+						"expanded_url": "http://huffp.st/HPN4RmP",
+						"display_url": "huffp.st/HPN4RmP",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118777934058152000,
+						"id_str": "1118777934058151936",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D4aymn4U4AA67s_.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4aymn4U4AA67s_.png",
+						"url": "https://t.co/m9HcbM1wqU",
+						"display_url": "pic.twitter.com/m9HcbM1wqU",
+						"expanded_url": "https://twitter.com/HuffPostKorea/status/1118777949203746817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 690,
+								"h": 392,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 690,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118777934058152000,
+						"id_str": "1118777934058151936",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D4aymn4U4AA67s_.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4aymn4U4AA67s_.png",
+						"url": "https://t.co/m9HcbM1wqU",
+						"display_url": "pic.twitter.com/m9HcbM1wqU",
+						"expanded_url": "https://twitter.com/HuffPostKorea/status/1118777949203746817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 690,
+								"h": 392,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 690,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 543778633,
+				"id_str": "543778633",
+				"name": "허프포스트코리아",
+				"screen_name": "HuffPostKorea",
+				"location": "SEOUL",
+				"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+				"url": "https://t.co/Xkw1g4GZOB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkw1g4GZOB",
+								"expanded_url": "http://www.huffpost.kr",
+								"display_url": "huffpost.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e7LG5sl4oo",
+								"expanded_url": "https://www.facebook.com/huffpostkorea",
+								"display_url": "facebook.com/huffpostkorea",
+								"indices": [
+									15,
+									38
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 722108,
+				"friends_count": 17,
+				"listed_count": 1215,
+				"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 111597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E7060",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+				"profile_link_color": "2E7060",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 294,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1573,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세균수를 측정하는 공식 단위인 변기를 써주길 요구합니다. https://t.co/UvC1QeHipD"
+	},
+	{
 		"created_at": "Thu Apr 18 17:48:05 +0000 2019",
 		"id": 1118934238751903700,
 		"id_str": "1118934238751903744",
