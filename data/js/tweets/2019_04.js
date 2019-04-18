@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 15:31:40 +0000 2019",
+		"id": 1118542831436435500,
+		"id_str": "1118899907492843520",
+		"full_text": "올해 수능특강 문제.. 사탄 1패 https://t.co/RyNbccTFuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118542778005278700,
+					"id_str": "1118542778005278725",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XcuvUVUAU-2Pz.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4XcuvUVUAU-2Pz.png",
+					"url": "https://t.co/RyNbccTFuk",
+					"display_url": "pic.twitter.com/RyNbccTFuk",
+					"expanded_url": "https://twitter.com/JinJaeJae/status/1118542831436435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118542778005278700,
+					"id_str": "1118542778005278725",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XcuvUVUAU-2Pz.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4XcuvUVUAU-2Pz.png",
+					"url": "https://t.co/RyNbccTFuk",
+					"display_url": "pic.twitter.com/RyNbccTFuk",
+					"expanded_url": "https://twitter.com/JinJaeJae/status/1118542831436435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882303038416797700,
+			"id_str": "882303038416797696",
+			"name": "제제¿",
+			"screen_name": "JinJaeJae",
+			"location": "수원 모 대학",
+			"description": "올라운더 리게이/일상多/방도리/메이플/시즈?/백합/프리코네/흔한 문정과 학생/디코:JJ#2970",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 357,
+			"listed_count": 1,
+			"created_at": "Tue Jul 04 18:20:11 +0000 2017",
+			"favourites_count": 12316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23002,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116627773852749827/20poF42a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116627773852749827/20poF42a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882303038416797696/1533948044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2675,
+		"favorite_count": 427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 수능특강 문제.. 사탄 1패 https://t.co/RyNbccTFuk"
+	},
+	{
+		"created_at": "Thu Apr 18 15:30:35 +0000 2019",
+		"id": 1118898136817127400,
+		"id_str": "1118899632346517509",
+		"full_text": "게임 유통사 주제에 공식 굿즈 유통권 계약까지 해놓고 도매가로 못가져오며 개인샵을 일반 오픈마켓보다 수수료 감당도 못할거면 어줍잖게 건들지나 마라.\n공식이란 새끼들이 능력부족을 유저 돈으로 채우네. https://t.co/qfXEuOvIJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118898122543861800,
+					"id_str": "1118898122543861761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cf6g4UEAE1uF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cf6g4UEAE1uF4.jpg",
+					"url": "https://t.co/qfXEuOvIJp",
+					"display_url": "pic.twitter.com/qfXEuOvIJp",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1118898136817127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 806,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 268,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118898122543861800,
+					"id_str": "1118898122543861761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cf6g4UEAE1uF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cf6g4UEAE1uF4.jpg",
+					"url": "https://t.co/qfXEuOvIJp",
+					"display_url": "pic.twitter.com/qfXEuOvIJp",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1118898136817127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 806,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 268,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232113411,
+			"id_str": "232113411",
+			"name": "Sumire🔞",
+			"screen_name": "Sumire_12K",
+			"location": "Kor/Jpn 👌🏽",
+			"description": "Saiga-12 스킨 나왔는지 확인하는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2617,
+			"friends_count": 520,
+			"listed_count": 37,
+			"created_at": "Thu Dec 30 08:09:15 +0000 2010",
+			"favourites_count": 35646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 193939,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115622431866023937/cTRIosOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115622431866023937/cTRIosOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/232113411/1553485292",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임 유통사 주제에 공식 굿즈 유통권 계약까지 해놓고 도매가로 못가져오며 개인샵을 일반 오픈마켓보다 수수료 감당도 못할거면 어줍잖게 건들지나 마라.\n공식이란 새끼들이 능력부족을 유저 돈으로 채우네. https://t.co/qfXEuOvIJp"
+	},
+	{
+		"created_at": "Thu Apr 18 15:30:15 +0000 2019",
+		"id": 1118899549458686000,
+		"id_str": "1118899549458685953",
+		"full_text": "＼ #本田とじゃんけん　／ 私は、#本田にパーで勝つ ✋ １日１回 @pepsi_jpn をフォローしてじゃんけんに挑戦！ 勝てば、その場で #ペプシ #ジャパンコーラ コンビニの無料引換えクーポンもらえる！計16万名様！ 【4/19まで #毎日挑戦】 https://t.co/QnMecYqV6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "本田とじゃんけん",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "本田にパーで勝つ",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "ペプシ",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "ジャパンコーラ",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "毎日挑戦",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pepsi_jpn",
+					"name": "Pepsi（ペプシ）",
+					"id": 1017321652923711500,
+					"id_str": "1017321652923711488",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QnMecYqV6k",
+					"expanded_url": "http://bit.ly/2IcJudY",
+					"display_url": "bit.ly/2IcJudY",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1023,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＼ #本田とじゃんけん　／ 私は、#本田にパーで勝つ ✋ １日１回 @pepsi_jpn をフォローしてじゃんけんに挑戦！ 勝てば、その場で #ペプシ #ジャパンコーラ コンビニの無料引換えクーポンもらえる！計16万名様！ 【4/19まで #毎日挑戦】 https://t.co/QnMecYqV6k"
+	},
+	{
 		"created_at": "Thu Apr 18 04:24:25 +0000 2019",
 		"id": 1117432830122844200,
 		"id_str": "1118731986850344960",
