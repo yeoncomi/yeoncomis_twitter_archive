@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 00:53:43 +0000 2019",
+		"id": 1118630921261895700,
+		"id_str": "1118678964015226881",
+		"full_text": "한국식 경영입니다. 불법이라도 자기에게 이익(돈)이 되면 일단 하죠... https://t.co/wOoDb6uCM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wOoDb6uCM5",
+					"expanded_url": "https://twitter.com/yopyop7777/status/1118429506102935552",
+					"display_url": "twitter.com/yopyop7777/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123404726,
+			"id_str": "123404726",
+			"name": "狂筆",
+			"screen_name": "madpen10",
+			"location": "seoul, korea",
+			"description": "캐나다에도 마티즈 배달 오나효?\n\n무작정 맞팔은 해주지도, 원하지도 않습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7267,
+			"friends_count": 1135,
+			"listed_count": 142,
+			"created_at": "Tue Mar 16 00:35:14 +0000 2010",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459002735380013056/-Klir7q7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459002735380013056/-Klir7q7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118429506102935600,
+		"quoted_status_id_str": "1118429506102935552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wOoDb6uCM5",
+			"expanded": "https://twitter.com/yopyop7777/status/1118429506102935552",
+			"display": "twitter.com/yopyop7777/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 08:22:28 +0000 2019",
+			"id": 1118429506102935600,
+			"id_str": "1118429506102935552",
+			"full_text": "애초에 사고방식 자체가 다릅니다.ㅋㅋ\n허락을 못 받았으면\n안내야지.ㅋㅋㅋㅋㅋㅋㅋㅋ\n존경하는.뭔데?ㅋㅋㅋㅋㅋ https://t.co/TzHqspK0WU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118429272383746000,
+						"id_str": "1118429272383746048",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D4V1f17U8AA3ED_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4V1f17U8AA3ED_.jpg",
+						"url": "https://t.co/TzHqspK0WU",
+						"display_url": "pic.twitter.com/TzHqspK0WU",
+						"expanded_url": "https://twitter.com/yopyop7777/status/1118429506102935552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 873,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1114,
+								"h": 1532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 494,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118429272383746000,
+						"id_str": "1118429272383746048",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D4V1f17U8AA3ED_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4V1f17U8AA3ED_.jpg",
+						"url": "https://t.co/TzHqspK0WU",
+						"display_url": "pic.twitter.com/TzHqspK0WU",
+						"expanded_url": "https://twitter.com/yopyop7777/status/1118429506102935552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 873,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1114,
+								"h": 1532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 494,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1118429344039202800,
+						"id_str": "1118429344039202817",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D4V1kA3UcAE_xjk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4V1kA3UcAE_xjk.jpg",
+						"url": "https://t.co/TzHqspK0WU",
+						"display_url": "pic.twitter.com/TzHqspK0WU",
+						"expanded_url": "https://twitter.com/yopyop7777/status/1118429506102935552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1542,
+								"h": 1282,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 998,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2939733613,
+				"id_str": "2939733613",
+				"name": "큐잉",
+				"screen_name": "yopyop7777",
+				"location": "",
+				"description": "레데리2",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 471,
+				"listed_count": 1,
+				"created_at": "Mon Dec 22 15:59:42 +0000 2014",
+				"favourites_count": 440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49619,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071395549654343680/JILSneU7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071395549654343680/JILSneU7_normal.jpg",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3373,
+			"favorite_count": 370,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 18,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국식 경영입니다. 불법이라도 자기에게 이익(돈)이 되면 일단 하죠... https://t.co/wOoDb6uCM5"
+	},
+	{
+		"created_at": "Thu Apr 18 00:52:52 +0000 2019",
+		"id": 1118492805440008200,
+		"id_str": "1118678749736685568",
+		"full_text": "광고들은 솔직해져야할 필요가 있다. https://t.co/EU3Q9Eq1KW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118492765652865000,
+					"id_str": "1118492765652865024",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WvPoyVUAAvU7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WvPoyVUAAvU7_.jpg",
+					"url": "https://t.co/EU3Q9Eq1KW",
+					"display_url": "pic.twitter.com/EU3Q9Eq1KW",
+					"expanded_url": "https://twitter.com/nepher0809/status/1118492805440008192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118492765652865000,
+					"id_str": "1118492765652865024",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WvPoyVUAAvU7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WvPoyVUAAvU7_.jpg",
+					"url": "https://t.co/EU3Q9Eq1KW",
+					"display_url": "pic.twitter.com/EU3Q9Eq1KW",
+					"expanded_url": "https://twitter.com/nepher0809/status/1118492805440008192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118492773043171300,
+					"id_str": "1118492773043171329",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D4WvQEUUcAE0iXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4WvQEUUcAE0iXK.jpg",
+					"url": "https://t.co/EU3Q9Eq1KW",
+					"display_url": "pic.twitter.com/EU3Q9Eq1KW",
+					"expanded_url": "https://twitter.com/nepher0809/status/1118492805440008192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 786182607000088600,
+			"id_str": "786182607000088576",
+			"name": "ㄴ{{ㅍ{{ㅇ{🐬",
+			"screen_name": "nepher0809",
+			"location": "대한민국",
+			"description": "Neptunia Maniac 'Nepher = 네페어' ∥ @TeamDeLIGHT_ Leader ∥ 용접기사 ∥ DJMAX & Guitarfreaks ∥ FUB FREE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440,
+			"friends_count": 382,
+			"listed_count": 16,
+			"created_at": "Wed Oct 12 12:31:55 +0000 2016",
+			"favourites_count": 5727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16722,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118682649038442496/ufSv-bPt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118682649038442496/ufSv-bPt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/786182607000088576/1554042093",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "광고들은 솔직해져야할 필요가 있다. https://t.co/EU3Q9Eq1KW"
+	},
+	{
+		"created_at": "Thu Apr 18 00:51:32 +0000 2019",
+		"id": 1118140363867291600,
+		"id_str": "1118678414699839488",
+		"full_text": "흰둥이 36세 https://t.co/LK8Ux5ixSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118140319349006300,
+					"id_str": "1118140319349006336",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Rusj_W4AA3kZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Rusj_W4AA3kZ7.jpg",
+					"url": "https://t.co/LK8Ux5ixSu",
+					"display_url": "pic.twitter.com/LK8Ux5ixSu",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1118140363867291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 549,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 311,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118140319349006300,
+					"id_str": "1118140319349006336",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Rusj_W4AA3kZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Rusj_W4AA3kZ7.jpg",
+					"url": "https://t.co/LK8Ux5ixSu",
+					"display_url": "pic.twitter.com/LK8Ux5ixSu",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1118140363867291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 549,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 311,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118140331739025400,
+					"id_str": "1118140331739025409",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RutSJXkAE1asv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4RutSJXkAE1asv.jpg",
+					"url": "https://t.co/LK8Ux5ixSu",
+					"display_url": "pic.twitter.com/LK8Ux5ixSu",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1118140363867291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 552,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 1227,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118140341276827600,
+					"id_str": "1118140341276827648",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Rut1rW4AASolc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Rut1rW4AASolc.jpg",
+					"url": "https://t.co/LK8Ux5ixSu",
+					"display_url": "pic.twitter.com/LK8Ux5ixSu",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1118140363867291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 1277,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1118140353033506800,
+					"id_str": "1118140353033506818",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/D4RuuheXkAILs7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4RuuheXkAILs7L.jpg",
+					"url": "https://t.co/LK8Ux5ixSu",
+					"display_url": "pic.twitter.com/LK8Ux5ixSu",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1118140363867291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 564,
+							"h": 928,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 928,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 413,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/YakIWhm56h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YakIWhm56h",
+							"expanded_url": "https://youtu.be/evDOp8HzGfY",
+							"display_url": "youtu.be/evDOp8HzGfY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1752,
+			"friends_count": 377,
+			"listed_count": 21,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130860,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115609876300881920/-DMUzFro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115609876300881920/-DMUzFro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16421,
+		"favorite_count": 5768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흰둥이 36세 https://t.co/LK8Ux5ixSu"
+	},
+	{
 		"created_at": "Wed Apr 17 23:31:34 +0000 2019",
 		"id": 1118526549458690000,
 		"id_str": "1118658290148200448",
