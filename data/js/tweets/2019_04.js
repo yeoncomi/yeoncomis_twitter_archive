@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 23:31:34 +0000 2019",
+		"id": 1118526549458690000,
+		"id_str": "1118658290148200448",
+		"full_text": "어벤저스 엔드게임을 \"예매만으로 3 엄복동\"이라고 표현하고, 다른 흥행 망작들의 흥행성적도 n엄복동으로 표현되는 현상이 자리잡은 것으로 미루어보아, \"엄복동 하나만 기억해달라\"던 정지훈의 염원은 확실히 이루어진 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248685731,
+			"id_str": "248685731",
+			"name": "김상식:보수는무능하다",
+			"screen_name": "sangseek_kim",
+			"location": "",
+			"description": "팔로잉/팔로워 상시 정리 중.\n\n남양불매 중(since 1993)\n\n애경, SK캐미컬 불매해주세요.",
+			"url": "https://t.co/DUBtvy4cyN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DUBtvy4cyN",
+							"expanded_url": "https://ask.fm/sangseek_kim",
+							"display_url": "ask.fm/sangseek_kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3428,
+			"friends_count": 1167,
+			"listed_count": 53,
+			"created_at": "Mon Feb 07 14:29:02 +0000 2011",
+			"favourites_count": 29034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 415383,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112714497167228928/23-MJQTJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112714497167228928/23-MJQTJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248685731/1554639834",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어벤저스 엔드게임을 \"예매만으로 3 엄복동\"이라고 표현하고, 다른 흥행 망작들의 흥행성적도 n엄복동으로 표현되는 현상이 자리잡은 것으로 미루어보아, \"엄복동 하나만 기억해달라\"던 정지훈의 염원은 확실히 이루어진 것 같다."
+	},
+	{
 		"created_at": "Wed Apr 17 23:05:45 +0000 2019",
 		"id": 1118327494896050200,
 		"id_str": "1118651794341519360",
