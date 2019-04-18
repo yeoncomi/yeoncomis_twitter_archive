@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 19:52:17 +0000 2019",
+		"id": 1118959945838420000,
+		"id_str": "1118965494462046208",
+		"full_text": "As the BBM messaging service ends, BlackBerry is trying to win over some of its users by opening up their enterprise service to individuals. https://t.co/Tt7x7iEMor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tt7x7iEMor",
+					"expanded_url": "https://www.cbc.ca/1.5103535",
+					"display_url": "cbc.ca/1.5103535",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6433472,
+			"id_str": "6433472",
+			"name": "CBC News",
+			"screen_name": "CBCNews",
+			"location": "Canada",
+			"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+			"url": "http://t.co/ZLZObOnET1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZLZObOnET1",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2705456,
+			"friends_count": 1036,
+			"listed_count": 14563,
+			"created_at": "Wed May 30 05:20:39 +0000 2007",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 215149,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the BBM messaging service ends, BlackBerry is trying to win over some of its users by opening up their enterprise service to individuals. https://t.co/Tt7x7iEMor"
+	},
+	{
 		"created_at": "Thu Apr 18 19:10:58 +0000 2019",
 		"id": 1118850942764322800,
 		"id_str": "1118955095708692481",
