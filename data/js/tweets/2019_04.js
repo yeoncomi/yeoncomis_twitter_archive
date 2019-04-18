@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 04:24:25 +0000 2019",
+		"id": 1117432830122844200,
+		"id_str": "1118731986850344960",
+		"full_text": "생물학적 성별 어쩌구하면서 간성 얘기 졸라 많이하다가 결국엔 지정성별로 돌아가서 여자 아님 남잔데 저 사람은 트랜스여성이니 v남자v일 것이다 이러면 얼마나 한심하냐고요 https://t.co/EIBA8tqpdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EIBA8tqpdz",
+					"expanded_url": "https://twitter.com/_Waterco1or/status/1116947770248585217",
+					"display_url": "twitter.com/_Waterco1or/st…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885499377363542000,
+			"id_str": "885499377363542021",
+			"name": "🌈깨미🌈",
+			"screen_name": "GGami_oc",
+			"location": "🦁앤캐 귀여워🦁",
+			"description": "슈뢰딩거의 보지를 가진 논바이너리",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 1014,
+			"listed_count": 0,
+			"created_at": "Thu Jul 13 14:01:18 +0000 2017",
+			"favourites_count": 4356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079311884124213248/BW6AWXyE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079311884124213248/BW6AWXyE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885499377363542021/1500119685",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116947770248585200,
+		"quoted_status_id_str": "1116947770248585217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EIBA8tqpdz",
+			"expanded": "https://twitter.com/_Waterco1or/status/1116947770248585217",
+			"display": "twitter.com/_Waterco1or/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 13 06:14:34 +0000 2019",
+			"id": 1116947770248585200,
+			"id_str": "1116947770248585217",
+			"full_text": "송우주 생물학적 남자 맞음. 지 만화에서도 자기는 지정성별 '남성'이고 남성호르몬이 부족한 장애가 있다고 했음. 모르면 말을 하지 말자^^ https://t.co/TTsyr4ip9o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TTsyr4ip9o",
+						"expanded_url": "https://twitter.com/wicked_queer/status/1116203320689827840",
+						"display_url": "twitter.com/wicked_queer/s…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1106886127019974700,
+				"id_str": "1106886127019974656",
+				"name": "수채화",
+				"screen_name": "_Waterco1or",
+				"location": "바이, 애인있음(남자)",
+				"description": "https://t.co/abUNaM1xqf //그림계 : @__Waterco1or // 젠더론, 빻장르 안받음 //\n지뢰 : ㅂㅌㅅㄴㄷ / ㅂㄱㅎ(503) 남돌들 // 충남 홍성에 사시는분 찾는중 // 이별 많이 함다. 걸러져도 신경쓰지 마세요^^",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/abUNaM1xqf",
+								"expanded_url": "http://ask.fm/suhyeon219",
+								"display_url": "ask.fm/suhyeon219",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 439,
+				"friends_count": 462,
+				"listed_count": 0,
+				"created_at": "Sat Mar 16 11:53:12 +0000 2019",
+				"favourites_count": 1496,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3602,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116017065024819201/Hb-hTEI4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116017065024819201/Hb-hTEI4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106886127019974656/1554716409",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1116203320689827800,
+			"quoted_status_id_str": "1116203320689827840",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TTsyr4ip9o",
+				"expanded": "https://twitter.com/wicked_queer/status/1116203320689827840",
+				"display": "twitter.com/wicked_queer/s…"
+			},
+			"retweet_count": 18,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 85,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생물학적 성별 어쩌구하면서 간성 얘기 졸라 많이하다가 결국엔 지정성별로 돌아가서 여자 아님 남잔데 저 사람은 트랜스여성이니 v남자v일 것이다 이러면 얼마나 한심하냐고요 https://t.co/EIBA8tqpdz"
+	},
+	{
 		"created_at": "Thu Apr 18 04:04:09 +0000 2019",
 		"id": 1118525025181507600,
 		"id_str": "1118726887377752064",
