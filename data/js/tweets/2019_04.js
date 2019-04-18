@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 02:15:24 +0000 2019",
+		"id": 1118699520303321100,
+		"id_str": "1118699520303321090",
+		"full_text": "미국에서 배대지로 배송시켜서 아이팟 클래식 고장난거랑 아이팟 라디오 리모트 시켰는데 세관에서 5일동안 존버중...\nCBSA 일안하고 뭐하는거냐... https://t.co/PIkzT7f4nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118699345161777200,
+					"id_str": "1118699345161777154",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ZrIJbUcAIGCQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ZrIJbUcAIGCQY.jpg",
+					"url": "https://t.co/PIkzT7f4nB",
+					"display_url": "pic.twitter.com/PIkzT7f4nB",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1118699520303321090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 111,
+							"h": 111,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 53,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 94,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 111,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118699345161777200,
+					"id_str": "1118699345161777154",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ZrIJbUcAIGCQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ZrIJbUcAIGCQY.jpg",
+					"url": "https://t.co/PIkzT7f4nB",
+					"display_url": "pic.twitter.com/PIkzT7f4nB",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1118699520303321090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 111,
+							"h": 111,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 53,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 94,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 111,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1024,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "216dd1bcf824f9f7",
+			"url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+			"place_type": "admin",
+			"name": "Greater Vancouver",
+			"full_name": "Greater Vancouver, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-123.738375,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.001921
+						],
+						[
+							-122.406655,
+							49.574551
+						],
+						[
+							-123.738375,
+							49.574551
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국에서 배대지로 배송시켜서 아이팟 클래식 고장난거랑 아이팟 라디오 리모트 시켰는데 세관에서 5일동안 존버중...\nCBSA 일안하고 뭐하는거냐... https://t.co/PIkzT7f4nB"
+	},
+	{
+		"created_at": "Thu Apr 18 01:36:44 +0000 2019",
+		"id": 1118646564832997400,
+		"id_str": "1118689790520467456",
+		"full_text": "마동석 마블 합류! https://t.co/c8otuPQgbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c8otuPQgbd",
+					"expanded_url": "https://twitter.com/MCU_Direct/status/1118617160404828160",
+					"display_url": "twitter.com/MCU_Direct/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380745993,
+			"id_str": "380745993",
+			"name": "카라차",
+			"screen_name": "RealKaracha",
+			"location": "프로필 이미지 by BU-NONG",
+			"description": "성인소설을 씁니다. 성인인증과 결제가 필요합니다.",
+			"url": "https://t.co/CDZllLbjRi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CDZllLbjRi",
+							"expanded_url": "http://www.lezhin.com/novel/plantgirl",
+							"display_url": "lezhin.com/novel/plantgirl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14207,
+			"friends_count": 948,
+			"listed_count": 215,
+			"created_at": "Tue Sep 27 04:51:23 +0000 2011",
+			"favourites_count": 6729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41123,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380745993/1441145716",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118617160404828200,
+		"quoted_status_id_str": "1118617160404828160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c8otuPQgbd",
+			"expanded": "https://twitter.com/MCU_Direct/status/1118617160404828160",
+			"display": "twitter.com/MCU_Direct/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 20:48:08 +0000 2019",
+			"id": 1118617160404828200,
+			"id_str": "1118617160404828160",
+			"full_text": "BREAKING: South Korean actor Ma Dong-seok (\"Train to Busan\") has reportedly joined the cast of @MarvelStudios' THE ETERNALS! https://t.co/gX0RU8UAJn https://t.co/y5TdK65Fhz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarvelStudios",
+						"name": "Marvel Studios",
+						"id": 750751206427861000,
+						"id_str": "750751206427860992",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gX0RU8UAJn",
+						"expanded_url": "http://bit.ly/2v6rQ3I",
+						"display_url": "bit.ly/2v6rQ3I",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118617096500523000,
+						"id_str": "1118617096500523019",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/D4YgUpSXsAsOO71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4YgUpSXsAsOO71.jpg",
+						"url": "https://t.co/y5TdK65Fhz",
+						"display_url": "pic.twitter.com/y5TdK65Fhz",
+						"expanded_url": "https://twitter.com/MCU_Direct/status/1118617160404828160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118617096500523000,
+						"id_str": "1118617096500523019",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/D4YgUpSXsAsOO71.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4YgUpSXsAsOO71.jpg",
+						"url": "https://t.co/y5TdK65Fhz",
+						"display_url": "pic.twitter.com/y5TdK65Fhz",
+						"expanded_url": "https://twitter.com/MCU_Direct/status/1118617160404828160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 846923375209594900,
+				"id_str": "846923375209594880",
+				"name": "MCU Direct",
+				"screen_name": "MCU_Direct",
+				"location": "",
+				"description": "The best source for all Marvel Cinematic Universe goodness!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250514,
+				"friends_count": 80,
+				"listed_count": 920,
+				"created_at": "Wed Mar 29 03:14:02 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3291,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106238426293194753/Gl0lq7WU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106238426293194753/Gl0lq7WU_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/846923375209594880/1552582835",
+				"profile_link_color": "E20000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2988,
+			"favorite_count": 4421,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1063,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마동석 마블 합류! https://t.co/c8otuPQgbd"
+	},
+	{
 		"created_at": "Thu Apr 18 00:53:43 +0000 2019",
 		"id": 1118630921261895700,
 		"id_str": "1118678964015226881",
