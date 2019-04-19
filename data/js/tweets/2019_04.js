@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 03:36:48 +0000 2019",
+		"id": 1118926277514158100,
+		"id_str": "1119082392629628928",
+		"full_text": "아이구!!!! 내손!!!\n포토샵을 툭툭 건드리니 10분만에 이런게 나왔다.\n돈 낭비 위에 작게 안칠한부분 불-편 https://t.co/MO8GxWO788",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118926270585135100,
+					"id_str": "1118926270585135104",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D4c5g8gUYAAvjeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4c5g8gUYAAvjeF.jpg",
+					"url": "https://t.co/MO8GxWO788",
+					"display_url": "pic.twitter.com/MO8GxWO788",
+					"expanded_url": "https://twitter.com/sheeptery_59/status/1118926277514158080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118926270585135100,
+					"id_str": "1118926270585135104",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D4c5g8gUYAAvjeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4c5g8gUYAAvjeF.jpg",
+					"url": "https://t.co/MO8GxWO788",
+					"display_url": "pic.twitter.com/MO8GxWO788",
+					"expanded_url": "https://twitter.com/sheeptery_59/status/1118926277514158080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058740798383022100,
+			"id_str": "1058740798383022080",
+			"name": "태리",
+			"screen_name": "sheeptery_59",
+			"location": "뒷계 : EROTERY_52",
+			"description": "북쪽에 살면서 음매드 간간히 만들면서 유튭 소소하게 하고있는 태리입니다! 유튜브 태리's 음매드 검색 많이 부탁드립니다! 윽...\n잡덕이지만 그중에서도 유카리를 최후의 1인자로 보고있습니다 유카리만세\n(18.11.04 12:30분 시작.)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66,
+			"friends_count": 100,
+			"listed_count": 0,
+			"created_at": "Sat Nov 03 15:20:51 +0000 2018",
+			"favourites_count": 3848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2516,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118296353333899264/jklt6eM3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118296353333899264/jklt6eM3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058740798383022080/1554135170",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이구!!!! 내손!!!\n포토샵을 툭툭 건드리니 10분만에 이런게 나왔다.\n돈 낭비 위에 작게 안칠한부분 불-편 https://t.co/MO8GxWO788"
+	},
+	{
 		"created_at": "Fri Apr 19 02:59:57 +0000 2019",
 		"id": 1118354893306126300,
 		"id_str": "1119073118645915648",
