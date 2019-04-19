@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 02:59:57 +0000 2019",
+		"id": 1118354893306126300,
+		"id_str": "1119073118645915648",
+		"full_text": "그래서 이새끼들 몇주쯤 전에 일본 AV갖다가 남자라면 다 아는 그 수영장 어쩌구로 개드립쳤던 건 사과했음? https://t.co/2wlqtlJ4kt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wlqtlJ4kt",
+					"expanded_url": "https://twitter.com/game_meca/status/1118319150214995969",
+					"display_url": "twitter.com/game_meca/stat…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1101512504755204100,
+			"id_str": "1101512504755204097",
+			"name": "김희립",
+			"screen_name": "hyeelib",
+			"location": "",
+			"description": "교대생/사회변혁노동자당 당원/프사: @kangdanakang",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 450,
+			"listed_count": 0,
+			"created_at": "Fri Mar 01 16:00:21 +0000 2019",
+			"favourites_count": 6664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1033,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118175628665032704/nyhQwLtA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118175628665032704/nyhQwLtA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101512504755204097/1555218853",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118319150214996000,
+		"quoted_status_id_str": "1118319150214995969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2wlqtlJ4kt",
+			"expanded": "https://twitter.com/game_meca/status/1118319150214995969",
+			"display": "twitter.com/game_meca/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 01:03:57 +0000 2019",
+			"id": 1118319150214996000,
+			"id_str": "1118319150214995969",
+			"full_text": "안녕하세요 게임메카 트윗지기입니다. 어제 러브라이브 팬덤을 프로듀서라고 지칭하는 대죄를 저질렀습니다. 정말 죄송합니다. 다시는 그런 일 없도록 조심하고 또 조심하겠습니다. #그랜도게자 #럽알못 #사죄 https://t.co/fNtbs1D88G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "그랜도게자",
+						"indices": [
+							96,
+							102
+						]
+					},
+					{
+						"text": "럽알못",
+						"indices": [
+							103,
+							107
+						]
+					},
+					{
+						"text": "사죄",
+						"indices": [
+							108,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118319144884064300,
+						"id_str": "1118319144884064256",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D4URVlBVUAAY17d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4URVlBVUAAY17d.jpg",
+						"url": "https://t.co/fNtbs1D88G",
+						"display_url": "pic.twitter.com/fNtbs1D88G",
+						"expanded_url": "https://twitter.com/game_meca/status/1118319150214995969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118319144884064300,
+						"id_str": "1118319144884064256",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D4URVlBVUAAY17d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4URVlBVUAAY17d.jpg",
+						"url": "https://t.co/fNtbs1D88G",
+						"display_url": "pic.twitter.com/fNtbs1D88G",
+						"expanded_url": "https://twitter.com/game_meca/status/1118319150214995969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130681816,
+				"id_str": "130681816",
+				"name": "게임메카/Gamemeca",
+				"screen_name": "game_meca",
+				"location": "South Korea",
+				"description": "인터넷신문협회 소속, 대한민국 대표 게임 전문지 게임메카입니다.",
+				"url": "http://t.co/GgZkMtElKg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GgZkMtElKg",
+								"expanded_url": "http://www.gamemeca.com",
+								"display_url": "gamemeca.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 134160,
+				"friends_count": 2776,
+				"listed_count": 340,
+				"created_at": "Thu Apr 08 00:38:23 +0000 2010",
+				"favourites_count": 4274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27035,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875628424269660167/ub00WjBe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875628424269660167/ub00WjBe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130681816/1497601077",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2996,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4755,
+		"favorite_count": 384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래서 이새끼들 몇주쯤 전에 일본 AV갖다가 남자라면 다 아는 그 수영장 어쩌구로 개드립쳤던 건 사과했음? https://t.co/2wlqtlJ4kt"
+	},
+	{
+		"created_at": "Fri Apr 19 02:56:53 +0000 2019",
+		"id": 1119015199581720600,
+		"id_str": "1119072344918515712",
+		"full_text": "[단독] ”한국이 전체주의 국가냐” 공기업 통일의무교육 논란  https://t.co/ZBbtUHYN4A 틀딱 할배들 와서 으어어 자유민주주의, 으어어 시장경제, 으어어 빨갱이 척결 하는 교육은 10년간 잘도 들으신 거 처럼 얘기하시네...그 영감탱이들 안봐도 된다고 해서 좋아하는 사람이 더 많잖아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZBbtUHYN4A",
+					"expanded_url": "https://dcnewsj.joins.com/article/23443768",
+					"display_url": "dcnewsj.joins.com/article/234437…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074809835831447600,
+			"id_str": "1074809835831447552",
+			"name": "Subsistence",
+			"screen_name": "Saemaeul_cap",
+			"location": "",
+			"description": "Now play",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354,
+			"friends_count": 167,
+			"listed_count": 7,
+			"created_at": "Mon Dec 17 23:33:28 +0000 2018",
+			"favourites_count": 683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074809835831447552/1552635579",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] ”한국이 전체주의 국가냐” 공기업 통일의무교육 논란  https://t.co/ZBbtUHYN4A 틀딱 할배들 와서 으어어 자유민주주의, 으어어 시장경제, 으어어 빨갱이 척결 하는 교육은 10년간 잘도 들으신 거 처럼 얘기하시네...그 영감탱이들 안봐도 된다고 해서 좋아하는 사람이 더 많잖아"
+	},
+	{
+		"created_at": "Fri Apr 19 02:56:12 +0000 2019",
+		"id": 1118782487218376700,
+		"id_str": "1119072175904792577",
+		"full_text": "럽폭도새끼들은 원래 미개하냐? https://t.co/fBM0wNekRT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118782480440389600,
+					"id_str": "1118782480440389632",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4a2vQeUcAAUmdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4a2vQeUcAAUmdv.jpg",
+					"url": "https://t.co/fBM0wNekRT",
+					"display_url": "pic.twitter.com/fBM0wNekRT",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1118782487218376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118782480440389600,
+					"id_str": "1118782480440389632",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D4a2vQeUcAAUmdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4a2vQeUcAAUmdv.jpg",
+					"url": "https://t.co/fBM0wNekRT",
+					"display_url": "pic.twitter.com/fBM0wNekRT",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1118782487218376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 758667030,
+			"id_str": "758667030",
+			"name": "신코",
+			"screen_name": "Futaba_Sinco_L",
+			"location": "#죽창이_꿈꾸는_세상",
+			"description": "종합방송인 \n매일 오전9시부터 오후6시까지 twitch에서 만나요!  \n유튜브도 구독과 좋아요 알람설정까지 알지? \n광고문의는 DM.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1865,
+			"friends_count": 3450,
+			"listed_count": 28,
+			"created_at": "Wed Aug 15 05:45:02 +0000 2012",
+			"favourites_count": 28478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146765,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758667030/1470842476",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "럽폭도새끼들은 원래 미개하냐? https://t.co/fBM0wNekRT"
+	},
+	{
 		"created_at": "Fri Apr 19 00:49:21 +0000 2019",
 		"id": 1119032975071612900,
 		"id_str": "1119040253589778433",
