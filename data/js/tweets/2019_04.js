@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 15:35:33 +0000 2019",
+		"id": 1119237553012396000,
+		"id_str": "1119263273105235968",
+		"full_text": "한 화면에서 보는 유시민·홍준표? ‘알릴레오’·‘TV홍카콜라’ 공동방송 추진\nhttps://t.co/f6qCtmOQCR \n\n방송 시기는 고 노무현 전 대통령의 서거일인 다음달 23일 이후가 점쳐지고 있습니다. https://t.co/dfo2OMozTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6qCtmOQCR",
+					"expanded_url": "https://news.joins.com/article/23446087",
+					"display_url": "news.joins.com/article/234460…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119237540416872400,
+					"id_str": "1119237540416872450",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hUnO_UYAIIGbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hUnO_UYAIIGbS.jpg",
+					"url": "https://t.co/dfo2OMozTQ",
+					"display_url": "pic.twitter.com/dfo2OMozTQ",
+					"expanded_url": "https://twitter.com/joongangilbo/status/1119237553012396032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119237540416872400,
+					"id_str": "1119237540416872450",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hUnO_UYAIIGbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hUnO_UYAIIGbS.jpg",
+					"url": "https://t.co/dfo2OMozTQ",
+					"display_url": "pic.twitter.com/dfo2OMozTQ",
+					"expanded_url": "https://twitter.com/joongangilbo/status/1119237553012396032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213591116,
+			"id_str": "213591116",
+			"name": "중앙일보",
+			"screen_name": "joongangilbo",
+			"location": "Seoul",
+			"description": "JoongAng Group is Korea's only comprehensive content group. / Facebook: https://t.co/1TuEOM6mwy",
+			"url": "http://t.co/tglh3q22E5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tglh3q22E5",
+							"expanded_url": "http://www.joongang.co.kr",
+							"display_url": "joongang.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1TuEOM6mwy",
+							"expanded_url": "https://www.facebook.com/joongang",
+							"display_url": "facebook.com/joongang",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 295153,
+			"friends_count": 45117,
+			"listed_count": 1670,
+			"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 118758,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FA9A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+			"profile_link_color": "88847F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 화면에서 보는 유시민·홍준표? ‘알릴레오’·‘TV홍카콜라’ 공동방송 추진\nhttps://t.co/f6qCtmOQCR \n\n방송 시기는 고 노무현 전 대통령의 서거일인 다음달 23일 이후가 점쳐지고 있습니다. https://t.co/dfo2OMozTQ"
+	},
+	{
 		"created_at": "Fri Apr 19 13:08:04 +0000 2019",
 		"id": 1119152828100923400,
 		"id_str": "1119226155339378690",
@@ -1846,7 +2040,7 @@ Grailbird.data.tweets_2019_04 =
 		"user": {
 			"id": 1616031284,
 			"id_str": "1616031284",
-			"name": "Lindsay 🏳️‍🌈",
+			"name": "Lindsay 🏳️🌈",
 			"screen_name": "LindsayPB",
 			"location": "Leicester, England",
 			"description": "Labour candidate for Western ward in Leicester; Youth officer for Leicester South CLP; lesbian; 3D animator; nuclear autodidact. All views: mine alone.",
