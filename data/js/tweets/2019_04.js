@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 15:16:47 +0000 2019",
+		"id": 1119620936909484000,
+		"id_str": "1119620936909484033",
+		"full_text": "@perillamint 345",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perillamint",
+					"name": "perillamint🧝🧙⚧",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119568684404490200,
+		"in_reply_to_status_id_str": "1119568684404490240",
+		"in_reply_to_user_id": 2890022617,
+		"in_reply_to_user_id_str": "2890022617",
+		"in_reply_to_screen_name": "perillamint",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33448,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@perillamint 345"
+	},
+	{
+		"created_at": "Sat Apr 20 15:13:30 +0000 2019",
+		"id": 1119615733325942800,
+		"id_str": "1119620111059415040",
+		"full_text": "정말 놀라운 광경 이엇다\n김도아잣시가 음머어 하면서 돈지르니까 시청자들이 지르는데 보태쓰라고 5만원 10만원씩 기부하고 잇드라구...... https://t.co/JXDAHfJ9qd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXDAHfJ9qd",
+					"expanded_url": "https://twitter.com/KimDoe82/status/1119235521396428800",
+					"display_url": "twitter.com/KimDoe82/statu…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 981095443336609800,
+			"id_str": "981095443336609795",
+			"name": "애옹(5/24일까지 냥체)",
+			"screen_name": "cleangirl1118",
+			"location": "",
+			"description": "고추폭파의 달인 / 프사 @sIlentIum0110 / @meiringring",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 697,
+			"listed_count": 60,
+			"created_at": "Tue Apr 03 09:05:56 +0000 2018",
+			"favourites_count": 29414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57066,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082612993735614464/KtdfkElo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/981095443336609795/1546866875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119235521396428800,
+		"quoted_status_id_str": "1119235521396428800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JXDAHfJ9qd",
+			"expanded": "https://twitter.com/KimDoe82/status/1119235521396428800",
+			"display": "twitter.com/KimDoe82/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 13:45:17 +0000 2019",
+			"id": 1119235521396428800,
+			"id_str": "1119235521396428800",
+			"full_text": "음머어 https://t.co/dGDBnADbqD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				3
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119235404383674400,
+						"id_str": "1119235404383674368",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/D4hSq5pUYAAbGCU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4hSq5pUYAAbGCU.jpg",
+						"url": "https://t.co/dGDBnADbqD",
+						"display_url": "pic.twitter.com/dGDBnADbqD",
+						"expanded_url": "https://twitter.com/KimDoe82/status/1119235521396428800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1397,
+								"h": 783,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119235404383674400,
+						"id_str": "1119235404383674368",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/D4hSq5pUYAAbGCU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4hSq5pUYAAbGCU.jpg",
+						"url": "https://t.co/dGDBnADbqD",
+						"display_url": "pic.twitter.com/dGDBnADbqD",
+						"expanded_url": "https://twitter.com/KimDoe82/status/1119235521396428800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1397,
+								"h": 783,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1029017967017640000,
+				"id_str": "1029017967017639937",
+				"name": "김도",
+				"screen_name": "KimDoe82",
+				"location": "트위치TV 게임방송",
+				"description": "",
+				"url": "https://t.co/DkPFsplxyU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DkPFsplxyU",
+								"expanded_url": "https://www.youtube.com/channel/UC2_VPutZK0o_tG8ca_QrQRA",
+								"display_url": "youtube.com/channel/UC2_VP…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3331,
+				"friends_count": 0,
+				"listed_count": 1,
+				"created_at": "Mon Aug 13 14:52:56 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029193885552005120/O7fYqgW-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029193885552005120/O7fYqgW-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029017967017639937/1534173704",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 561,
+			"favorite_count": 430,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말 놀라운 광경 이엇다\n김도아잣시가 음머어 하면서 돈지르니까 시청자들이 지르는데 보태쓰라고 5만원 10만원씩 기부하고 잇드라구...... https://t.co/JXDAHfJ9qd"
+	},
+	{
 		"created_at": "Sat Apr 20 14:10:39 +0000 2019",
 		"id": 1119555788878434300,
 		"id_str": "1119604292992679936",
