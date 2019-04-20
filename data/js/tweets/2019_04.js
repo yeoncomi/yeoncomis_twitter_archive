@@ -1,10 +1,171 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 11:00:09 +0000 2019",
+		"id": 1119551869007695900,
+		"id_str": "1119556353406619648",
+		"full_text": "문재인 is TOP  ㅋㅋ https://t.co/agRiatMKf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119551864138158100,
+					"id_str": "1119551864138158083",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lyfSGU0AMivaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lyfSGU0AMivaa.jpg",
+					"url": "https://t.co/agRiatMKf4",
+					"display_url": "pic.twitter.com/agRiatMKf4",
+					"expanded_url": "https://twitter.com/DrMineral/status/1119551869007695872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119551864138158100,
+					"id_str": "1119551864138158083",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lyfSGU0AMivaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lyfSGU0AMivaa.jpg",
+					"url": "https://t.co/agRiatMKf4",
+					"display_url": "pic.twitter.com/agRiatMKf4",
+					"expanded_url": "https://twitter.com/DrMineral/status/1119551869007695872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594161483,
+			"id_str": "594161483",
+			"name": "조선일보 폐간하라!!!",
+			"screen_name": "DrMineral",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2504,
+			"friends_count": 2695,
+			"listed_count": 6,
+			"created_at": "Wed May 30 00:33:53 +0000 2012",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020996532575719424/KP38ukRc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020996532575719424/KP38ukRc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594161483/1513563460",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문재인 is TOP  ㅋㅋ https://t.co/agRiatMKf4"
+	},
+	{
 		"created_at": "Sat Apr 20 06:01:05 +0000 2019",
 		"id": 1119474230129676300,
 		"id_str": "1119481091008548864",
-		"full_text": "みんな、ちゃんとお風呂入ってね🙋‍♂️ https://t.co/Psb6uTLIY0",
+		"full_text": "みんな、ちゃんとお風呂入ってね🙋♂️ https://t.co/Psb6uTLIY0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -178,7 +339,7 @@ Grailbird.data.tweets_2019_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "みんな、ちゃんとお風呂入ってね🙋‍♂️ https://t.co/Psb6uTLIY0"
+		"text": "みんな、ちゃんとお風呂入ってね🙋♂️ https://t.co/Psb6uTLIY0"
 	},
 	{
 		"created_at": "Sat Apr 20 05:59:43 +0000 2019",
@@ -1178,7 +1339,7 @@ Grailbird.data.tweets_2019_04 =
 			"user_mentions": [
 				{
 					"screen_name": "XecaChan",
-					"name": "쩨카짱🏳️‍🌈🎗️",
+					"name": "쩨카짱🏳️🌈🎗️",
 					"id": 2397782161,
 					"id_str": "2397782161",
 					"indices": [
