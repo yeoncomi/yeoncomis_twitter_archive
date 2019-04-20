@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 17:57:57 +0000 2019",
+		"id": 1119660762342015000,
+		"id_str": "1119661495158132736",
+		"full_text": "Marijuana possession, production and distribution will make immigrants ineligible for US citizenship -- even in states where it is legal https://t.co/9yyYasB6tl https://t.co/rfUT3Fum2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9yyYasB6tl",
+					"expanded_url": "https://cnn.it/2XymeeP",
+					"display_url": "cnn.it/2XymeeP",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119660760194592800,
+					"id_str": "1119660760194592769",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D4nVh3hXsAEk7J0.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4nVh3hXsAEk7J0.png",
+					"url": "https://t.co/rfUT3Fum2l",
+					"display_url": "pic.twitter.com/rfUT3Fum2l",
+					"expanded_url": "https://twitter.com/CNN/status/1119660762342014976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 780,
+							"h": 438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119660760194592800,
+					"id_str": "1119660760194592769",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D4nVh3hXsAEk7J0.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4nVh3hXsAEk7J0.png",
+					"url": "https://t.co/rfUT3Fum2l",
+					"display_url": "pic.twitter.com/rfUT3Fum2l",
+					"expanded_url": "https://twitter.com/CNN/status/1119660762342014976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 780,
+							"h": 438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 438,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 759251,
+			"id_str": "759251",
+			"name": "CNN",
+			"screen_name": "CNN",
+			"location": "",
+			"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app 📲https://t.co/Xgo5kjIt8c",
+			"url": "http://t.co/IaghNW8Xm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IaghNW8Xm2",
+							"expanded_url": "http://www.cnn.com",
+							"display_url": "cnn.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Xgo5kjIt8c",
+							"expanded_url": "http://cnn.it/apps",
+							"display_url": "cnn.it/apps",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41763946,
+			"friends_count": 1109,
+			"listed_count": 138297,
+			"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 237371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+			"profile_link_color": "004287",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marijuana possession, production and distribution will make immigrants ineligible for US citizenship -- even in states where it is legal https://t.co/9yyYasB6tl https://t.co/rfUT3Fum2l"
+	},
+	{
 		"created_at": "Sat Apr 20 17:10:45 +0000 2019",
 		"id": 1119454159005200400,
 		"id_str": "1119649618390728704",
@@ -238,7 +432,7 @@ Grailbird.data.tweets_2019_04 =
 			"name": "역보",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgAlEp",
 			"entities": {
 				"url": {
@@ -333,7 +527,7 @@ Grailbird.data.tweets_2019_04 =
 			"name": "역보",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgAlEp",
 			"entities": {
 				"url": {
@@ -438,7 +632,7 @@ Grailbird.data.tweets_2019_04 =
 			"name": "역보",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgAlEp",
 			"entities": {
 				"url": {
