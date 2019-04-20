@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 22:15:32 +0000 2019",
+		"id": 1119688111213154300,
+		"id_str": "1119726320009633792",
+		"full_text": "지금 언론계에 일베 사람들이 정말 가득히 침투해 있는건 명백한 사실같음. 사상적 의미에서의 동조자 정도가 아니라 정말로 게이들아 좌빨 삼일한은 하고 일베하노 뭐 이러면서 문자 그대로 일베에서 놀던 사람들이 아닐까 싶음. 학창시절 일베하고 지금 직장인 언론인 된 부류 중에 가득할 것 https://t.co/NVNoE7YfPk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NVNoE7YfPk",
+					"expanded_url": "https://twitter.com/sewoosil/status/1119580918228762624",
+					"display_url": "twitter.com/sewoosil/statu…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 983420781085581300,
+			"id_str": "983420781085581312",
+			"name": "ImmatureGrownAssMan",
+			"screen_name": "demobjectified",
+			"location": "Atlanta, Georgia, USA",
+			"description": "Yes I play Video Games",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 205,
+			"listed_count": 3,
+			"created_at": "Mon Apr 09 19:06:00 +0000 2018",
+			"favourites_count": 3206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112707006278840321/8a50KBBt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112707006278840321/8a50KBBt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/983420781085581312/1554124999",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119580918228762600,
+		"quoted_status_id_str": "1119580918228762624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NVNoE7YfPk",
+			"expanded": "https://twitter.com/sewoosil/status/1119580918228762624",
+			"display": "twitter.com/sewoosil/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 20 12:37:46 +0000 2019",
+			"id": 1119580918228762600,
+			"id_str": "1119580918228762624",
+			"full_text": "DJ 장남 김홍일 별세 사진 선정 때문에 욕먹고 기사 삭제한 연합뉴스\n\n고문 후유증으로 파킨슨병을 앓았는데, 굳이 와병 후 사진으로 저렇게 기사냈다가 욕처먹고 지금은 삭제를 했다죠.\n\n연합뉴스죠? 최근에 무슨 일 있었는지 아시죠? 백퍼 복수고 백퍼 고의죠. https://t.co/tpC5aQHA1r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119580754051092500,
+						"id_str": "1119580754051092481",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D4mMw5aUUAENzNP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4mMw5aUUAENzNP.jpg",
+						"url": "https://t.co/tpC5aQHA1r",
+						"display_url": "pic.twitter.com/tpC5aQHA1r",
+						"expanded_url": "https://twitter.com/sewoosil/status/1119580918228762624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 707,
+								"h": 928,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 707,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119580754051092500,
+						"id_str": "1119580754051092481",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D4mMw5aUUAENzNP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4mMw5aUUAENzNP.jpg",
+						"url": "https://t.co/tpC5aQHA1r",
+						"display_url": "pic.twitter.com/tpC5aQHA1r",
+						"expanded_url": "https://twitter.com/sewoosil/status/1119580918228762624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 707,
+								"h": 928,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 707,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1119580789614583800,
+						"id_str": "1119580789614583808",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D4mMy95UIAABgTv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4mMy95UIAABgTv.jpg",
+						"url": "https://t.co/tpC5aQHA1r",
+						"display_url": "pic.twitter.com/tpC5aQHA1r",
+						"expanded_url": "https://twitter.com/sewoosil/status/1119580918228762624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 389,
+								"h": 102,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 389,
+								"h": 102,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 389,
+								"h": 102,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 102,
+								"h": 102,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66627692,
+				"id_str": "66627692",
+				"name": "𝙨𝙚𝙬𝙤𝙤𝙨𝙞𝙡",
+				"screen_name": "sewoosil",
+				"location": "37.500015,127.036564",
+				"description": "생활의 일부분으로서의 정치에 관심 많은 웹개발자이자 태지매니아, 특히 효연이가 아이돌의 완전체라 생각하는 광적인 소녀시대 덕후. 해물과 회에 환장하는 연예 누리꾼. 일베충, 워마드는 무조건 차단합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6393,
+				"friends_count": 793,
+				"listed_count": 231,
+				"created_at": "Tue Aug 18 07:58:25 +0000 2009",
+				"favourites_count": 2131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89021,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108982111602536448/eQcOhu6I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108982111602536448/eQcOhu6I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66627692/1553236917",
+				"profile_link_color": "FFABA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 569,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 언론계에 일베 사람들이 정말 가득히 침투해 있는건 명백한 사실같음. 사상적 의미에서의 동조자 정도가 아니라 정말로 게이들아 좌빨 삼일한은 하고 일베하노 뭐 이러면서 문자 그대로 일베에서 놀던 사람들이 아닐까 싶음. 학창시절 일베하고 지금 직장인 언론인 된 부류 중에 가득할 것 https://t.co/NVNoE7YfPk"
+	},
+	{
+		"created_at": "Sat Apr 20 22:14:40 +0000 2019",
+		"id": 1119704121911550000,
+		"id_str": "1119726100882448384",
+		"full_text": "Ben &amp; Jerry’s is marking 4/20 by endorsing a petition calling on Congress to expunge marijuana convictions. https://t.co/fbJ8ClHl35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fbJ8ClHl35",
+					"expanded_url": "https://twitter.com/i/events/1119676727020548096",
+					"display_url": "twitter.com/i/events/11196…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3873984133,
+			"id_str": "3873984133",
+			"name": "Twitter Moments Canada",
+			"screen_name": "CanadaMoments",
+			"location": "Toronto, Ontario",
+			"description": "The best of what’s happening on Twitter in an instant.",
+			"url": "https://t.co/nYOx6qThjk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nYOx6qThjk",
+							"expanded_url": "https://about.twitter.com/company/moments-guidelines",
+							"display_url": "about.twitter.com/company/moment…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40433,
+			"friends_count": 12,
+			"listed_count": 382,
+			"created_at": "Mon Oct 12 22:07:20 +0000 2015",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715225650156716033/PDBxLv_l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715225650156716033/PDBxLv_l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3873984133/1459358221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ben &amp; Jerry’s is marking 4/20 by endorsing a petition calling on Congress to expunge marijuana convictions. https://t.co/fbJ8ClHl35"
+	},
+	{
 		"created_at": "Sat Apr 20 19:03:33 +0000 2019",
 		"id": 1119678003380801500,
 		"id_str": "1119678003380801536",
