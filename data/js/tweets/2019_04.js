@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 00:24:51 +0000 2019",
+		"id": 1118833107811979300,
+		"id_str": "1119396475232874496",
+		"full_text": "2019년 버전: 프리미어 애프터이펙트 베가스를 들키지 마시오 조회수 157회짜리 회사 유튜브 운영하게 된다 https://t.co/WO316Enemq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WO316Enemq",
+					"expanded_url": "https://twitter.com/_everymoment/status/1118717735553261570",
+					"display_url": "twitter.com/_everymoment/s…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3634449434,
+			"id_str": "3634449434",
+			"name": "🥑🍅",
+			"screen_name": "avocadomato",
+			"location": "",
+			"description": "제 안엔 작은 빨치산이 살아요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4593,
+			"friends_count": 164,
+			"listed_count": 43,
+			"created_at": "Mon Sep 21 05:20:35 +0000 2015",
+			"favourites_count": 101803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3706,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109781773880180736/rd0ILh0e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109781773880180736/rd0ILh0e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3634449434/1489434833",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118717735553261600,
+		"quoted_status_id_str": "1118717735553261570",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WO316Enemq",
+			"expanded": "https://twitter.com/_everymoment/status/1118717735553261570",
+			"display": "twitter.com/_everymoment/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 03:27:47 +0000 2019",
+			"id": 1118717735553261600,
+			"id_str": "1118717735553261570",
+			"full_text": "포토샵이나 일러스트레이터를 할 줄 안다면 절대 회사에 들키지 마세요",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 482731042,
+				"id_str": "482731042",
+				"name": "은하수🏳️‍🌈",
+				"screen_name": "_everymoment",
+				"location": "ReVeluv",
+				"description": "반도의 흔한 바이섹슈얼 페미니스트 흰둥이 덕후 @_zoorassicpark #GirlsCanDoAnything",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1132,
+				"friends_count": 778,
+				"listed_count": 16,
+				"created_at": "Sat Feb 04 07:37:52 +0000 2012",
+				"favourites_count": 4729,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94541,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1078336600499617792/uAm72Dn1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078336600499617792/uAm72Dn1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482731042/1555342521",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12144,
+			"favorite_count": 3996,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2156,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 버전: 프리미어 애프터이펙트 베가스를 들키지 마시오 조회수 157회짜리 회사 유튜브 운영하게 된다 https://t.co/WO316Enemq"
+	},
+	{
+		"created_at": "Sat Apr 20 00:24:16 +0000 2019",
+		"id": 1119099898828214300,
+		"id_str": "1119396328570671111",
+		"full_text": "보는내가 괜히 꼰대같고  화난다;; 자격증 공부하는채팅방인데 리눅스를 너무사랑하시는거아닌지.. 처음에 학생하나가 모바일로라도 자격증공부하겠다는데 ;; https://t.co/z9jyblZDYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119099883166650400,
+					"id_str": "1119099883166650368",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D4fXahxUUAAg_nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4fXahxUUAAg_nO.jpg",
+					"url": "https://t.co/z9jyblZDYb",
+					"display_url": "pic.twitter.com/z9jyblZDYb",
+					"expanded_url": "https://twitter.com/ysb5938/status/1119099898828214279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119099883166650400,
+					"id_str": "1119099883166650368",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D4fXahxUUAAg_nO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4fXahxUUAAg_nO.jpg",
+					"url": "https://t.co/z9jyblZDYb",
+					"display_url": "pic.twitter.com/z9jyblZDYb",
+					"expanded_url": "https://twitter.com/ysb5938/status/1119099898828214279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1392,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119099890267648000,
+					"id_str": "1119099890267648000",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D4fXa8OU8AA23cB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4fXa8OU8AA23cB.jpg",
+					"url": "https://t.co/z9jyblZDYb",
+					"display_url": "pic.twitter.com/z9jyblZDYb",
+					"expanded_url": "https://twitter.com/ysb5938/status/1119099898828214279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1505,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058219176089636900,
+			"id_str": "1058219176089636864",
+			"name": "이청연",
+			"screen_name": "ysb5938",
+			"location": "",
+			"description": "꿈꾸는웹개발자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 30,
+			"listed_count": 1,
+			"created_at": "Fri Nov 02 04:48:07 +0000 2018",
+			"favourites_count": 184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114926606965809152/OjqVfbdk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114926606965809152/OjqVfbdk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058219176089636864/1554654250",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보는내가 괜히 꼰대같고  화난다;; 자격증 공부하는채팅방인데 리눅스를 너무사랑하시는거아닌지.. 처음에 학생하나가 모바일로라도 자격증공부하겠다는데 ;; https://t.co/z9jyblZDYb"
+	},
+	{
+		"created_at": "Sat Apr 20 00:23:11 +0000 2019",
+		"id": 1119161232370483200,
+		"id_str": "1119396056599420929",
+		"full_text": "So @Nintendo has, in their infinite wisdom, decided that this stage featuring the trans flag violates their TOS. #SmashBros #NintendoSwitch https://t.co/9FWgQpcCDG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SmashBros",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "NintendoSwitch",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nintendo",
+					"name": "任天堂株式会社",
+					"id": 307902310,
+					"id_str": "307902310",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119161230269112300,
+					"id_str": "1119161230269112321",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gPNZiUYAErvvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gPNZiUYAErvvH.jpg",
+					"url": "https://t.co/9FWgQpcCDG",
+					"display_url": "pic.twitter.com/9FWgQpcCDG",
+					"expanded_url": "https://twitter.com/WarmSafflina/status/1119161232370483200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119161230269112300,
+					"id_str": "1119161230269112321",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gPNZiUYAErvvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gPNZiUYAErvvH.jpg",
+					"url": "https://t.co/9FWgQpcCDG",
+					"display_url": "pic.twitter.com/9FWgQpcCDG",
+					"expanded_url": "https://twitter.com/WarmSafflina/status/1119161232370483200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.nintendo.com/countryselector\" rel=\"nofollow\">Nintendo Switch Share</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852968208550076400,
+			"id_str": "852968208550076416",
+			"name": "Warm Safflina",
+			"screen_name": "WarmSafflina",
+			"location": "",
+			"description": "Tracking my journey across Hyrule and other strange lands on the Nintendo Switch. \npronouns: she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Apr 14 19:34:03 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852971325576445952/tce1IXT1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852971325576445952/tce1IXT1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852968208550076416/1492199294",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 1019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So @Nintendo has, in their infinite wisdom, decided that this stage featuring the trans flag violates their TOS. #SmashBros #NintendoSwitch https://t.co/9FWgQpcCDG"
+	},
+	{
 		"created_at": "Sat Apr 20 00:16:06 +0000 2019",
 		"id": 1119142216813797400,
 		"id_str": "1119394274087292928",
