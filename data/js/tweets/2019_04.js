@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 14:10:39 +0000 2019",
+		"id": 1119555788878434300,
+		"id_str": "1119604292992679936",
+		"full_text": "오~ \"좌파천국\"이라니 너무 좋아!! https://t.co/r3GNkxXA5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119555782855409700,
+					"id_str": "1119555782855409664",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D4l2DYdUwAAmCW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4l2DYdUwAAmCW1.jpg",
+					"url": "https://t.co/r3GNkxXA5S",
+					"display_url": "pic.twitter.com/r3GNkxXA5S",
+					"expanded_url": "https://twitter.com/so_picky/status/1119555788878434309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1030,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119555782855409700,
+					"id_str": "1119555782855409664",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D4l2DYdUwAAmCW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4l2DYdUwAAmCW1.jpg",
+					"url": "https://t.co/r3GNkxXA5S",
+					"display_url": "pic.twitter.com/r3GNkxXA5S",
+					"expanded_url": "https://twitter.com/so_picky/status/1119555788878434309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1030,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1030,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14100332,
+			"id_str": "14100332",
+			"name": "so picky",
+			"screen_name": "so_picky",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52677,
+			"friends_count": 1369,
+			"listed_count": 485,
+			"created_at": "Sat Mar 08 14:14:45 +0000 2008",
+			"favourites_count": 1956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108795,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064847423908925447/ZkJ6oJOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064847423908925447/ZkJ6oJOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14100332/1355009242",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "D0D3D4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오~ \"좌파천국\"이라니 너무 좋아!! https://t.co/r3GNkxXA5S"
+	},
+	{
+		"created_at": "Sat Apr 20 14:09:25 +0000 2019",
+		"id": 1119603241170325500,
+		"id_str": "1119603983465635841",
+		"full_text": "일본 아이돌 근황이라는데 도저히 뇌가 이해를 못하고있다. https://t.co/RA74csssCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119603196710674400,
+					"id_str": "1119603196710674432",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4mhLO1U4AAl34p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4mhLO1U4AAl34p.jpg",
+					"url": "https://t.co/RA74csssCy",
+					"display_url": "pic.twitter.com/RA74csssCy",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1119603241170325505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119603196710674400,
+					"id_str": "1119603196710674432",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4mhLO1U4AAl34p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4mhLO1U4AAl34p.jpg",
+					"url": "https://t.co/RA74csssCy",
+					"display_url": "pic.twitter.com/RA74csssCy",
+					"expanded_url": "https://twitter.com/Sumire_12K/status/1119603241170325505/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4mhLO1U4AAl34p.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232113411,
+			"id_str": "232113411",
+			"name": "Sumire🔞",
+			"screen_name": "Sumire_12K",
+			"location": "Kor/Jpn 👌🏽",
+			"description": "Saiga-12 스킨 나왔는지 확인하는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2621,
+			"friends_count": 519,
+			"listed_count": 37,
+			"created_at": "Thu Dec 30 08:09:15 +0000 2010",
+			"favourites_count": 35719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 194094,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115622431866023937/cTRIosOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115622431866023937/cTRIosOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/232113411/1553485292",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 아이돌 근황이라는데 도저히 뇌가 이해를 못하고있다. https://t.co/RA74csssCy"
+	},
+	{
+		"created_at": "Sat Apr 20 14:02:13 +0000 2019",
+		"id": 1119506202038116400,
+		"id_str": "1119602170922295297",
+		"full_text": "2019년 4월 17일에 멈춰있는 '그 위키' 조던 피터슨 문서(씇) https://t.co/nD43WiS4NL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119506198942765000,
+					"id_str": "1119506198942765056",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lI9N_U0AACR8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lI9N_U0AACR8C.jpg",
+					"url": "https://t.co/nD43WiS4NL",
+					"display_url": "pic.twitter.com/nD43WiS4NL",
+					"expanded_url": "https://twitter.com/421_0301/status/1119506202038116352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119506198942765000,
+					"id_str": "1119506198942765056",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lI9N_U0AACR8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lI9N_U0AACR8C.jpg",
+					"url": "https://t.co/nD43WiS4NL",
+					"display_url": "pic.twitter.com/nD43WiS4NL",
+					"expanded_url": "https://twitter.com/421_0301/status/1119506202038116352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 708224848670011400,
+			"id_str": "708224848670011393",
+			"name": "武鬪(홍익표 재평가하는 노뼈)",
+			"screen_name": "421_0301",
+			"location": "아지태의 아지트 서원경",
+			"description": "좋은 자유당 지지자와 보리적 합수는 죽은 사람 뿐/랟펨이 나쁘다고 안티페미들의 자유당 지지를 눈감아 줄 수는 없다/시대정신은 Make Gongju Great Again/남양과 농심은 믿고 거른다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 100,
+			"listed_count": 3,
+			"created_at": "Fri Mar 11 09:35:36 +0000 2016",
+			"favourites_count": 1345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21549,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118650421013168128/9tTmomBN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118650421013168128/9tTmomBN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/708224848670011393/1555542017",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 4월 17일에 멈춰있는 '그 위키' 조던 피터슨 문서(씇) https://t.co/nD43WiS4NL"
+	},
+	{
+		"created_at": "Sat Apr 20 13:57:30 +0000 2019",
+		"id": 1119512549601333200,
+		"id_str": "1119600982634012674",
+		"full_text": "마라샹궈집 사장님이 비닐봉투 벌금문다고 통만 주더니 물기생기니까 뚜껑열고 가라고 손수 뚜껑 반쯤 열어주고 가서 지금 마라부는 사나이됨 지나가는 사람들이 마라탕냄새난다고 그러고 택시아저씨가 뭘 사가지고가는거냐고 자꾸 킁킁댐 쏘리 https://t.co/jkWxVEt4yM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119512537467211800,
+					"id_str": "1119512537467211778",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lOuK1UUAIgg--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lOuK1UUAIgg--.jpg",
+					"url": "https://t.co/jkWxVEt4yM",
+					"display_url": "pic.twitter.com/jkWxVEt4yM",
+					"expanded_url": "https://twitter.com/S2eumenes/status/1119512549601333248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119512537467211800,
+					"id_str": "1119512537467211778",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D4lOuK1UUAIgg--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4lOuK1UUAIgg--.jpg",
+					"url": "https://t.co/jkWxVEt4yM",
+					"display_url": "pic.twitter.com/jkWxVEt4yM",
+					"expanded_url": "https://twitter.com/S2eumenes/status/1119512549601333248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1482133423,
+			"id_str": "1482133423",
+			"name": "쑤미쑤미",
+			"screen_name": "S2eumenes",
+			"location": "",
+			"description": "쑴/쑤미/MUSSUM(ʘᴗʘ)   포토블로그 https://t.co/YcKr8UB7TA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YcKr8UB7TA",
+							"expanded_url": "http://mussum8585.blog.me",
+							"display_url": "mussum8585.blog.me",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3330,
+			"friends_count": 186,
+			"listed_count": 63,
+			"created_at": "Tue Jun 04 12:03:55 +0000 2013",
+			"favourites_count": 16394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2456,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087622633783361538/vljhmpJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087622633783361538/vljhmpJQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482133423/1548143748",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3174,
+		"favorite_count": 645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마라샹궈집 사장님이 비닐봉투 벌금문다고 통만 주더니 물기생기니까 뚜껑열고 가라고 손수 뚜껑 반쯤 열어주고 가서 지금 마라부는 사나이됨 지나가는 사람들이 마라탕냄새난다고 그러고 택시아저씨가 뭘 사가지고가는거냐고 자꾸 킁킁댐 쏘리 https://t.co/jkWxVEt4yM"
+	},
+	{
 		"created_at": "Sat Apr 20 11:00:09 +0000 2019",
 		"id": 1119551869007695900,
 		"id_str": "1119556353406619648",
