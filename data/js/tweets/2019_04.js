@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 15:19:35 +0000 2019",
+		"id": 1119621641984602100,
+		"id_str": "1119621641984602112",
+		"full_text": "월마트 쵝 오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 24979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "월마트 쵝 오"
+	},
+	{
+		"created_at": "Sat Apr 20 15:19:28 +0000 2019",
+		"id": 1119416376123256800,
+		"id_str": "1119621612645437441",
+		"full_text": "아 월마트 미쳣냐고 https://t.co/03qnuc864v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119416367621345300,
+					"id_str": "1119416367621345280",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D4j3QWPUEAAP-mb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4j3QWPUEAAP-mb.jpg",
+					"url": "https://t.co/03qnuc864v",
+					"display_url": "pic.twitter.com/03qnuc864v",
+					"expanded_url": "https://twitter.com/metchaumang/status/1119416376123256832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119416367621345300,
+					"id_str": "1119416367621345280",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D4j3QWPUEAAP-mb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4j3QWPUEAAP-mb.jpg",
+					"url": "https://t.co/03qnuc864v",
+					"display_url": "pic.twitter.com/03qnuc864v",
+					"expanded_url": "https://twitter.com/metchaumang/status/1119416376123256832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738012164124860400,
+			"id_str": "738012164124860416",
+			"name": "아스카 (  ͡•. •. ͡ ) #SUPERHUMAN",
+			"screen_name": "metchaumang",
+			"location": "NCT MARK / RPS MARK RIGHT",
+			"description": "profile pic: by @_mikomi",
+			"url": "https://t.co/v4VzhK2A17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v4VzhK2A17",
+							"expanded_url": "https://ask.fm/metchaumang",
+							"display_url": "ask.fm/metchaumang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5157,
+			"friends_count": 549,
+			"listed_count": 64,
+			"created_at": "Wed Jun 01 14:19:46 +0000 2016",
+			"favourites_count": 88237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 184696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113234151203688448/jl9F3ykq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113234151203688448/jl9F3ykq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738012164124860416/1546146894",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1595,
+		"favorite_count": 520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 월마트 미쳣냐고 https://t.co/03qnuc864v"
+	},
+	{
+		"created_at": "Sat Apr 20 15:17:32 +0000 2019",
+		"id": 1119620475800318000,
+		"id_str": "1119621127158943744",
+		"full_text": "우즈베크 대통령의 한국 사랑 \"문재인 대통령은 형님\" | 다음 뉴스 https://t.co/2VZEMRKONX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2VZEMRKONX",
+					"expanded_url": "https://news.v.daum.net/v/20190420210000621",
+					"display_url": "news.v.daum.net/v/201904202100…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323535974,
+			"id_str": "323535974",
+			"name": "명왕 #공수처를설치하라",
+			"screen_name": "toto8688",
+			"location": "문재인대통령님 옆",
+			"description": "민주주의  최후의 보루는 깨어있는 시민의 조직된 힘입니다 🎗🎗🎗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10836,
+			"friends_count": 6488,
+			"listed_count": 15,
+			"created_at": "Sat Jun 25 00:29:36 +0000 2011",
+			"favourites_count": 14058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74558,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118177682854797314/IkM4CPVK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118177682854797314/IkM4CPVK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323535974/1537872108",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우즈베크 대통령의 한국 사랑 \"문재인 대통령은 형님\" | 다음 뉴스 https://t.co/2VZEMRKONX"
+	},
+	{
 		"created_at": "Sat Apr 20 15:16:47 +0000 2019",
 		"id": 1119620936909484000,
 		"id_str": "1119620936909484033",
