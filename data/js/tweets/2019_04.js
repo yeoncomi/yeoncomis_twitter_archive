@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 03:29:25 +0000 2019",
+		"id": 1119805309197770800,
+		"id_str": "1119805309197770752",
+		"full_text": "픽셀버드도 구리구리한데 뭐 저런게 되나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "연커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1025,
+			"listed_count": 7,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "픽셀버드도 구리구리한데 뭐 저런게 되나"
+	},
+	{
+		"created_at": "Sun Apr 21 03:28:50 +0000 2019",
+		"id": 1119803897135026200,
+		"id_str": "1119805163273773056",
+		"full_text": "세상에서 가장 막강한 서버를 가진 구글도 실시간 음성 통역이 실질적으로 불가능한데 저 조그만 이어폰 안에 들어 있는 컴퓨터가 무슨 방법으로 실시간으로 대상어를 녹음하고 -&gt; 텍스트화하고 -&gt; 목표어로 번역해서 -&gt; TTS를 해 주는 걸까요 https://t.co/IdpciMpWN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IdpciMpWN1",
+					"expanded_url": "https://twitter.com/Planemo_X/status/1119747064676487168",
+					"display_url": "twitter.com/Planemo_X/stat…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1111,
+			"friends_count": 196,
+			"listed_count": 20,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 6008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119747064676487200,
+		"quoted_status_id_str": "1119747064676487168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IdpciMpWN1",
+			"expanded": "https://twitter.com/Planemo_X/status/1119747064676487168",
+			"display": "twitter.com/Planemo_X/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 20 23:37:58 +0000 2019",
+			"id": 1119747064676487200,
+			"id_str": "1119747064676487168",
+			"full_text": "와, 이거 괜찮다. \n노이즈 캔슬링 기능이 포함된 쌍방향 동시 통역 이어폰\n219불\n인공지능이 한국어 포함 39개 언어를 95% 수준 실시간 통역해 준다고. \n5시간 연속 대화 가능. https://t.co/sKqIe7Yejl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119747058187952100,
+						"id_str": "1119747058187952128",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D4okBEmU4AAdsqU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4okBEmU4AAdsqU.jpg",
+						"url": "https://t.co/sKqIe7Yejl",
+						"display_url": "pic.twitter.com/sKqIe7Yejl",
+						"expanded_url": "https://twitter.com/Planemo_X/status/1119747064676487168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 645,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119747058187952100,
+						"id_str": "1119747058187952128",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D4okBEmU4AAdsqU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4okBEmU4AAdsqU.jpg",
+						"url": "https://t.co/sKqIe7Yejl",
+						"display_url": "pic.twitter.com/sKqIe7Yejl",
+						"expanded_url": "https://twitter.com/Planemo_X/status/1119747064676487168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 645,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1119747058179592200,
+						"id_str": "1119747058179592192",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D4okBEkVUAAk60h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4okBEkVUAAk60h.jpg",
+						"url": "https://t.co/sKqIe7Yejl",
+						"display_url": "pic.twitter.com/sKqIe7Yejl",
+						"expanded_url": "https://twitter.com/Planemo_X/status/1119747064676487168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1196,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 397,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 701,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1119747058183753700,
+						"id_str": "1119747058183753729",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/D4okBElU0AEnwwD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4okBElU0AEnwwD.jpg",
+						"url": "https://t.co/sKqIe7Yejl",
+						"display_url": "pic.twitter.com/sKqIe7Yejl",
+						"expanded_url": "https://twitter.com/Planemo_X/status/1119747064676487168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1241,
+								"h": 1828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 815,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1524217440,
+				"id_str": "1524217440",
+				"name": "플래니모",
+				"screen_name": "Planemo_X",
+				"location": "대한민국",
+				"description": "Planemo, 공전할 태양이 없는 행성. 無無明 亦無無明盡  Somethings to spread",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3174,
+				"friends_count": 1037,
+				"listed_count": 81,
+				"created_at": "Mon Jun 17 08:02:01 +0000 2013",
+				"favourites_count": 7096,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75424,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765386716597202948/RD1r9ONF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765386716597202948/RD1r9ONF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524217440/1412835177",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에서 가장 막강한 서버를 가진 구글도 실시간 음성 통역이 실질적으로 불가능한데 저 조그만 이어폰 안에 들어 있는 컴퓨터가 무슨 방법으로 실시간으로 대상어를 녹음하고 -&gt; 텍스트화하고 -&gt; 목표어로 번역해서 -&gt; TTS를 해 주는 걸까요 https://t.co/IdpciMpWN1"
+	},
+	{
 		"created_at": "Sun Apr 21 03:15:43 +0000 2019",
 		"id": 1119801860364193800,
 		"id_str": "1119801860364193792",
