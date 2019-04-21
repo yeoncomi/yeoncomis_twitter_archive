@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 15:26:32 +0000 2019",
+		"id": 1119985776157048800,
+		"id_str": "1119985776157048833",
+		"full_text": "@libertin_ko 아조시...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libertin_ko",
+					"name": "libertin [ko]",
+					"id": 703517349387726800,
+					"id_str": "703517349387726848",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119942578806222800,
+		"in_reply_to_status_id_str": "1119942578806222848",
+		"in_reply_to_user_id": 703517349387726800,
+		"in_reply_to_user_id_str": "703517349387726848",
+		"in_reply_to_screen_name": "libertin_ko",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1026,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@libertin_ko 아조시..."
+	},
+	{
 		"created_at": "Sun Apr 21 12:13:54 +0000 2019",
 		"id": 1119936738317586400,
 		"id_str": "1119937300719235078",
@@ -3844,7 +3950,7 @@ Grailbird.data.tweets_2019_04 =
 		"user": {
 			"id": 404111164,
 			"id_str": "404111164",
-			"name": "☂🏴️시무シムshimu🎗🏳️‍🌈",
+			"name": "☂🏴️시무シムshimu🎗🏳️🌈",
 			"screen_name": "zenzen_wakannai",
 			"location": "Technopolis ＴＯＫＩＯ",
 			"description": "#RefugeesWelcome #난민환영 #ANTIFA #TransRightsAreHumanRights #WithYou 취직을 못 한 저는 대학원생이 되어 버렸습니다. 각종 음악. 애국은 인간들끼리. ロックとかパンク野郎。豚に国も法律もねえよ language: 조선말 日本語 English",
