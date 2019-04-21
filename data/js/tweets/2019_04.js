@@ -1,6 +1,1369 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 10:51:37 +0000 2019",
+		"id": 1119239088815530000,
+		"id_str": "1119916593650077696",
+		"full_text": "차라리 \"지금 이거 RT하면 배터리 늘어납니다\"가 설득력 있겠다 이놈들아 https://t.co/8ILPbcR0xo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119238584198844400,
+					"id_str": "1119238584198844416",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hVj_YVUAAXlDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hVj_YVUAAXlDD.jpg",
+					"url": "https://t.co/8ILPbcR0xo",
+					"display_url": "pic.twitter.com/8ILPbcR0xo",
+					"expanded_url": "https://twitter.com/d01n/status/1119239088815529985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119238584198844400,
+					"id_str": "1119238584198844416",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hVj_YVUAAXlDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hVj_YVUAAXlDD.jpg",
+					"url": "https://t.co/8ILPbcR0xo",
+					"display_url": "pic.twitter.com/8ILPbcR0xo",
+					"expanded_url": "https://twitter.com/d01n/status/1119239088815529985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119238600023875600,
+					"id_str": "1119238600023875584",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hVk6VUIAA-Fxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hVk6VUIAA-Fxp.jpg",
+					"url": "https://t.co/8ILPbcR0xo",
+					"display_url": "pic.twitter.com/8ILPbcR0xo",
+					"expanded_url": "https://twitter.com/d01n/status/1119239088815529985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 519,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 519,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 631,
+							"h": 519,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131536363,
+			"id_str": "131536363",
+			"name": "Doin",
+			"screen_name": "d01n",
+			"location": "대한민국",
+			"description": "Composer, Track Maker, Game Designer  https://t.co/R4UHhCesnE 　Contact to  ✉ djd01nnn@gmail.com     @d01n_private (Personal)",
+			"url": "https://t.co/PRKPTprS8d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRKPTprS8d",
+							"expanded_url": "https://www.facebook.com/doin.D01N/",
+							"display_url": "facebook.com/doin.D01N/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R4UHhCesnE",
+							"expanded_url": "http://namu.wiki/w/Doin",
+							"display_url": "namu.wiki/w/Doin",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 790,
+			"friends_count": 213,
+			"listed_count": 11,
+			"created_at": "Sat Apr 10 15:28:05 +0000 2010",
+			"favourites_count": 1255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 688,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099777238587723776/cN8weYF4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099777238587723776/cN8weYF4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131536363/1550961746",
+			"profile_link_color": "9999FF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차라리 \"지금 이거 RT하면 배터리 늘어납니다\"가 설득력 있겠다 이놈들아 https://t.co/8ILPbcR0xo"
+	},
+	{
+		"created_at": "Sun Apr 21 10:41:46 +0000 2019",
+		"id": 1119911290372120600,
+		"id_str": "1119914112903827456",
+		"full_text": "이상한 서브레딧도 있군 서브레딧 중에는 존 시나 섭이랑 감자샐러드 섭이 있는데 존 시나 짤을 찾으려면 감자샐러드 섭으로 가야 되고 감자샐러드 짤은 존 시나 섭에 올라온다고 함. 만우절 조크로 서로 바꿨다가 그대로 그냥 유지됐다는 설이 있나보다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006534270234398700,
+			"id_str": "1006534270234398720",
+			"name": "방어씨",
+			"screen_name": "hamachee",
+			"location": "",
+			"description": "부리쟈나이 하마치다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 157,
+			"listed_count": 3,
+			"created_at": "Tue Jun 12 13:50:45 +0000 2018",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115190551068823552/tMpkgLvh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115190551068823552/tMpkgLvh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006534270234398720/1532858545",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이상한 서브레딧도 있군 서브레딧 중에는 존 시나 섭이랑 감자샐러드 섭이 있는데 존 시나 짤을 찾으려면 감자샐러드 섭으로 가야 되고 감자샐러드 짤은 존 시나 섭에 올라온다고 함. 만우절 조크로 서로 바꿨다가 그대로 그냥 유지됐다는 설이 있나보다."
+	},
+	{
+		"created_at": "Sun Apr 21 10:41:20 +0000 2019",
+		"id": 1119727129422209000,
+		"id_str": "1119914006775353344",
+		"full_text": "페이스북 경영진이 인스타그램의 빠른 성장을 경계하고 방해했으며 저커버그의 참견을 참지 못하고 결국 창업자들이 퇴사했다는 내용  https://t.co/GlgYqjtxVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GlgYqjtxVO",
+					"expanded_url": "https://www.theverge.com/interface/2019/4/17/18411363/why-instagram-founders-quit-hamburger-button-location-tracking",
+					"display_url": "theverge.com/interface/2019…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14696334,
+			"id_str": "14696334",
+			"name": "사이버 요정 성치",
+			"screen_name": "sungchi",
+			"location": "seoul",
+			"description": "폭두직딩 성치 (19XX ~ 21XX)",
+			"url": "http://t.co/chVqYOJQ8J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/chVqYOJQ8J",
+							"expanded_url": "http://plan9.kr",
+							"display_url": "plan9.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761,
+			"friends_count": 696,
+			"listed_count": 143,
+			"created_at": "Thu May 08 04:47:43 +0000 2008",
+			"favourites_count": 37122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76817,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14696334/1348057641",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페이스북 경영진이 인스타그램의 빠른 성장을 경계하고 방해했으며 저커버그의 참견을 참지 못하고 결국 창업자들이 퇴사했다는 내용  https://t.co/GlgYqjtxVO"
+	},
+	{
+		"created_at": "Sun Apr 21 10:41:00 +0000 2019",
+		"id": 1119913921719062500,
+		"id_str": "1119913921719062528",
+		"full_text": "음 은행을 크레딧카드 만들즈음에 심플리로 옮길까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1026,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음 은행을 크레딧카드 만들즈음에 심플리로 옮길까"
+	},
+	{
+		"created_at": "Sun Apr 21 10:40:40 +0000 2019",
+		"id": 1119857743039307800,
+		"id_str": "1119913838164340736",
+		"full_text": "씨발 왜케웃기짘ㅋㅋㅋㅌㅌㅌ https://t.co/Jx1q5dD7fh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119857740577304600,
+					"id_str": "1119857740577304577",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qIrooU8AENLR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qIrooU8AENLR3.jpg",
+					"url": "https://t.co/Jx1q5dD7fh",
+					"display_url": "pic.twitter.com/Jx1q5dD7fh",
+					"expanded_url": "https://twitter.com/LEFT_CTR/status/1119857743039307776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119857740577304600,
+					"id_str": "1119857740577304577",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qIrooU8AENLR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qIrooU8AENLR3.jpg",
+					"url": "https://t.co/Jx1q5dD7fh",
+					"display_url": "pic.twitter.com/Jx1q5dD7fh",
+					"expanded_url": "https://twitter.com/LEFT_CTR/status/1119857743039307776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967979659995443200,
+			"id_str": "967979659995443200",
+			"name": "LCTR",
+			"screen_name": "LEFT_CTR",
+			"location": "",
+			"description": "프로 안테나설치러\n프로 전선매설러\n헤더 By BatteryFlavor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 437,
+			"listed_count": 0,
+			"created_at": "Mon Feb 26 04:28:29 +0000 2018",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7272,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114520253424259075/CtxIR7C-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114520253424259075/CtxIR7C-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967979659995443200/1544016207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "씨발 왜케웃기짘ㅋㅋㅋㅌㅌㅌ https://t.co/Jx1q5dD7fh"
+	},
+	{
+		"created_at": "Sun Apr 21 10:38:22 +0000 2019",
+		"id": 1119908619229597700,
+		"id_str": "1119913260721917952",
+		"full_text": "\"넷플릭스 한 판 붙자\" 100원 파격요금 내놓은 토종 OTT연합 | 다음 뉴스 https://t.co/CWruquZ9rn\n\n한 판 붙자\n맞짱대결\n나 떨고있니?\n게 섯거라\n로 제목 짓는 기사들 특징 : 보통 패배할 놈들이 더 나댐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CWruquZ9rn",
+					"expanded_url": "https://news.v.daum.net/v/20190421182547695?f=m",
+					"display_url": "news.v.daum.net/v/201904211825…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 181939933,
+			"id_str": "181939933",
+			"name": "G.Stephenson_86",
+			"screen_name": "Mtuc_sct",
+			"location": "경기도 부곡군 월암리",
+			"description": "반지하노동희망자",
+			"url": "https://t.co/diujKOKfeq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/diujKOKfeq",
+							"expanded_url": "http://intersect.dcmys.kr",
+							"display_url": "intersect.dcmys.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 437,
+			"listed_count": 20,
+			"created_at": "Mon Aug 23 12:32:54 +0000 2010",
+			"favourites_count": 1412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14480,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733201637972414464/WPYrtNPs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733201637972414464/WPYrtNPs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181939933/1426918075",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"넷플릭스 한 판 붙자\" 100원 파격요금 내놓은 토종 OTT연합 | 다음 뉴스 https://t.co/CWruquZ9rn\n\n한 판 붙자\n맞짱대결\n나 떨고있니?\n게 섯거라\n로 제목 짓는 기사들 특징 : 보통 패배할 놈들이 더 나댐"
+	},
+	{
+		"created_at": "Sun Apr 21 10:33:15 +0000 2019",
+		"id": 1119841404098732000,
+		"id_str": "1119911969065017344",
+		"full_text": "지난 19일 일본 이케부쿠로에서 83세 노인이 폭주운전으로 길가던 모자를 치어서 그자리에서 숨지게 만드는 사건이 있었는데...\n\n문제는 용의자가 모 유명 기업 임원이었던 양반이라 미디어 보도에는 용의자라는 표현조차 제대로 나오지 않는 모양 https://t.co/DD05INxKWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DD05INxKWj",
+					"expanded_url": "https://twitter.com/livedoornews/status/1119831880344453121",
+					"display_url": "twitter.com/livedoornews/s…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149925820,
+			"id_str": "149925820",
+			"name": "잉크(돼지해에도 흑우)/インク",
+			"screen_name": "zpdldlfrkwl",
+			"location": "",
+			"description": "오덕질 관련 잡학주의자. 짱깨겜 빠질 주의. 명일방주&클로버 시어터&우마무스메 발매기원. 2개국어 제멋대로 지원\n\n二カ国語のクソ朝鮮人野郎、乱雑な中国萌えアプリ信者。アークナイツ＆クローバーシアター&ウマ娘リリース祈願\n\nActive: 벽람항로(アズレン), 붕괴3rd(崩壊3rd)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1711,
+			"friends_count": 3590,
+			"listed_count": 39,
+			"created_at": "Sun May 30 15:53:16 +0000 2010",
+			"favourites_count": 67894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100559,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073809764948164609/niyp3ph5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073809764948164609/niyp3ph5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149925820/1529261700",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119831880344453100,
+		"quoted_status_id_str": "1119831880344453121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DD05INxKWj",
+			"expanded": "https://twitter.com/livedoornews/status/1119831880344453121",
+			"display": "twitter.com/livedoornews/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 21 05:15:00 +0000 2019",
+			"id": 1119831880344453100,
+			"id_str": "1119831880344453121",
+			"full_text": "【判明】池袋の暴走車、ハンドル操作せず一直線に突っ込む\nhttps://t.co/PQZDo8E9dM\n\nガードパイプに接触した後に車のハンドルを操作せず、制限速度を超えるスピードで一直線に走行していたことがわかった。 https://t.co/oXx1S5acVW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PQZDo8E9dM",
+						"expanded_url": "http://news.livedoor.com/article/detail/16349383/",
+						"display_url": "news.livedoor.com/article/detail…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1119818365663531000,
+						"id_str": "1119818365663531008",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D4pk3tpVUAA3Hdt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4pk3tpVUAA3Hdt.jpg",
+						"url": "https://t.co/oXx1S5acVW",
+						"display_url": "pic.twitter.com/oXx1S5acVW",
+						"expanded_url": "https://twitter.com/livedoornews/status/1119831880344453121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119818365663531000,
+						"id_str": "1119818365663531008",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D4pk3tpVUAA3Hdt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4pk3tpVUAA3Hdt.jpg",
+						"url": "https://t.co/oXx1S5acVW",
+						"display_url": "pic.twitter.com/oXx1S5acVW",
+						"expanded_url": "https://twitter.com/livedoornews/status/1119831880344453121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17306975,
+				"id_str": "17306975",
+				"name": "ライブドアニュース",
+				"screen_name": "livedoornews",
+				"location": "",
+				"description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。／  特集・インタビューhttps://t.co/N2sQK2czYN",
+				"url": "http://t.co/Q4Bh3OCfgY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Q4Bh3OCfgY",
+								"expanded_url": "http://news.livedoor.com/",
+								"display_url": "news.livedoor.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N2sQK2czYN",
+								"expanded_url": "http://news.livedoor.com/interview/",
+								"display_url": "news.livedoor.com/interview/",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 780481,
+				"friends_count": 98,
+				"listed_count": 7778,
+				"created_at": "Tue Nov 11 09:56:31 +0000 2008",
+				"favourites_count": 2510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 231303,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875662964988166149/whdJTD2I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875662964988166149/whdJTD2I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17306975/1515713729",
+				"profile_link_color": "51ADD4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 281,
+			"favorite_count": 313,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 78,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 19일 일본 이케부쿠로에서 83세 노인이 폭주운전으로 길가던 모자를 치어서 그자리에서 숨지게 만드는 사건이 있었는데...\n\n문제는 용의자가 모 유명 기업 임원이었던 양반이라 미디어 보도에는 용의자라는 표현조차 제대로 나오지 않는 모양 https://t.co/DD05INxKWj"
+	},
+	{
+		"created_at": "Sun Apr 21 10:32:35 +0000 2019",
+		"id": 1119598703348604900,
+		"id_str": "1119911802240819200",
+		"full_text": "저건 영창 보내야지\n아무리 대통령이 좆같아도 시발\n\n정치적 중립 준수의무 위반에 상관 모독죄인데\n지 상관 누군지도 모르는 새끼를; https://t.co/ntxsSXXLvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119598695693951000,
+					"id_str": "1119598695693950978",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mdFPPUIAI1-fD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mdFPPUIAI1-fD.jpg",
+					"url": "https://t.co/ntxsSXXLvb",
+					"display_url": "pic.twitter.com/ntxsSXXLvb",
+					"expanded_url": "https://twitter.com/ChibiMarisa/status/1119598703348604928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119598695693951000,
+					"id_str": "1119598695693950978",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mdFPPUIAI1-fD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mdFPPUIAI1-fD.jpg",
+					"url": "https://t.co/ntxsSXXLvb",
+					"display_url": "pic.twitter.com/ntxsSXXLvb",
+					"expanded_url": "https://twitter.com/ChibiMarisa/status/1119598703348604928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870132120,
+			"id_str": "870132120",
+			"name": "레바리에",
+			"screen_name": "ChibiMarisa",
+			"location": "대한민국 광주광역시",
+			"description": "소울워커/워썬더/소전/붕괴3/AGA\n이것저것좀 많이 해요,\n -인장:@CV5YT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 685,
+			"listed_count": 5,
+			"created_at": "Tue Oct 09 15:58:24 +0000 2012",
+			"favourites_count": 39252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80612,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087000298248261633/eXHH9B4__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087000298248261633/eXHH9B4__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870132120/1531759220",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저건 영창 보내야지\n아무리 대통령이 좆같아도 시발\n\n정치적 중립 준수의무 위반에 상관 모독죄인데\n지 상관 누군지도 모르는 새끼를; https://t.co/ntxsSXXLvb"
+	},
+	{
+		"created_at": "Sun Apr 21 10:23:43 +0000 2019",
+		"id": 1119909572636885000,
+		"id_str": "1119909572636884992",
+		"full_text": "@twotwo2019 저도 뭐 나이를 먹어서 ㅁㄴㅇㄹ 기억이 안나네요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twotwo2019",
+					"name": "벨라의사람 вовк",
+					"id": 226132861,
+					"id_str": "226132861",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119909449336942600,
+		"in_reply_to_status_id_str": "1119909449336942592",
+		"in_reply_to_user_id": 226132861,
+		"in_reply_to_user_id_str": "226132861",
+		"in_reply_to_screen_name": "twotwo2019",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1026,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@twotwo2019 저도 뭐 나이를 먹어서 ㅁㄴㅇㄹ 기억이 안나네요"
+	},
+	{
 		"created_at": "Sun Apr 21 09:57:31 +0000 2019",
 		"id": 1119902977706192900,
 		"id_str": "1119902977706192896",
