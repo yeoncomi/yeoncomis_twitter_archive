@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 01:13:33 +0000 2019",
+		"id": 1119761748666376200,
+		"id_str": "1119771117411901440",
+		"full_text": "황선생님은 실제로 취재하거나 책에서 보고 얻은 지식과 뇌피셜을 혼동하는 느낌인게.. 삼겹살만 봐도 일본에 수출하면서 한국 양돈업이 발전한건 사실인데 일본이 선호하는 안심, 등심만 수출하고 나머지인 삼겹살을 먹기 시작한 것은 뇌피셜. 일본에 수출할 때 통 돼지인 지육으로 수출했기 때문 https://t.co/P2NhxJpAZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119761743662551000,
+					"id_str": "1119761743662551041",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D4oxX4QUEAEjGbN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4oxX4QUEAEjGbN.jpg",
+					"url": "https://t.co/P2NhxJpAZ6",
+					"display_url": "pic.twitter.com/P2NhxJpAZ6",
+					"expanded_url": "https://twitter.com/kcanari/status/1119761748666376192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119761743662551000,
+					"id_str": "1119761743662551041",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D4oxX4QUEAEjGbN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4oxX4QUEAEjGbN.jpg",
+					"url": "https://t.co/P2NhxJpAZ6",
+					"display_url": "pic.twitter.com/P2NhxJpAZ6",
+					"expanded_url": "https://twitter.com/kcanari/status/1119761748666376192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49530,
+			"friends_count": 269,
+			"listed_count": 243,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 109253,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "황선생님은 실제로 취재하거나 책에서 보고 얻은 지식과 뇌피셜을 혼동하는 느낌인게.. 삼겹살만 봐도 일본에 수출하면서 한국 양돈업이 발전한건 사실인데 일본이 선호하는 안심, 등심만 수출하고 나머지인 삼겹살을 먹기 시작한 것은 뇌피셜. 일본에 수출할 때 통 돼지인 지육으로 수출했기 때문 https://t.co/P2NhxJpAZ6"
+	},
+	{
+		"created_at": "Sun Apr 21 01:10:22 +0000 2019",
+		"id": 1119765105510469600,
+		"id_str": "1119770318275403776",
+		"full_text": "제주도의 돼지고기가 발달한 것은 돼지고기 먹는 문화 때문이 아니라 1954년에 제주도에 부임한 맥글린치 신부님이 아일랜드의 선진 양돈 기술을 한국에 제일 먼저 도입한 결과였다는 것도 좀 놀랐음. https://t.co/hGlPePFGW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119765100632477700,
+					"id_str": "1119765100632477696",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D4o0bR8UEAAI7xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4o0bR8UEAAI7xr.jpg",
+					"url": "https://t.co/hGlPePFGW7",
+					"display_url": "pic.twitter.com/hGlPePFGW7",
+					"expanded_url": "https://twitter.com/kcanari/status/1119765105510469632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1117,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119765100632477700,
+					"id_str": "1119765100632477696",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D4o0bR8UEAAI7xr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4o0bR8UEAAI7xr.jpg",
+					"url": "https://t.co/hGlPePFGW7",
+					"display_url": "pic.twitter.com/hGlPePFGW7",
+					"expanded_url": "https://twitter.com/kcanari/status/1119765105510469632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1117,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49530,
+			"friends_count": 269,
+			"listed_count": 243,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 109253,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제주도의 돼지고기가 발달한 것은 돼지고기 먹는 문화 때문이 아니라 1954년에 제주도에 부임한 맥글린치 신부님이 아일랜드의 선진 양돈 기술을 한국에 제일 먼저 도입한 결과였다는 것도 좀 놀랐음. https://t.co/hGlPePFGW7"
+	},
+	{
 		"created_at": "Sat Apr 20 22:15:32 +0000 2019",
 		"id": 1119688111213154300,
 		"id_str": "1119726320009633792",
