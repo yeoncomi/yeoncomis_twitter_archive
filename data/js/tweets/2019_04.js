@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 18:45:58 +0000 2019",
+		"id": 1119940525262426100,
+		"id_str": "1120035967677558784",
+		"full_text": "아 맞다. 나는 손씻지 않겠다 어쩌고 신문기사 이슈됐을때 하려다가 까먹은 말. \n\n보통 말하는, 자잘한 감염에 많이 노출되는것이 획득면역력에 도움이 될거라는 일반적인 믿음은 현대 생물학 연구과정에서 심각하게 재고 되고 있는 내용인데다가 애초에 과학적 증명으로 만들어진 개념이 아님.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461263284,
+			"id_str": "461263284",
+			"name": "GG🌱",
+			"screen_name": "operationoxygen",
+			"location": "대한민국",
+			"description": "에피쿰 뚝딱! axon regeneration & degeneration. 어쩌다 보니 혈액암. 잘 이겨내자...!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2743,
+			"friends_count": 1719,
+			"listed_count": 55,
+			"created_at": "Wed Jan 11 16:30:21 +0000 2012",
+			"favourites_count": 174841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107710,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050771296617779200/nAVniCLe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050771296617779200/nAVniCLe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461263284/1486039667",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 548,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 맞다. 나는 손씻지 않겠다 어쩌고 신문기사 이슈됐을때 하려다가 까먹은 말. \n\n보통 말하는, 자잘한 감염에 많이 노출되는것이 획득면역력에 도움이 될거라는 일반적인 믿음은 현대 생물학 연구과정에서 심각하게 재고 되고 있는 내용인데다가 애초에 과학적 증명으로 만들어진 개념이 아님."
+	},
+	{
+		"created_at": "Sun Apr 21 18:43:24 +0000 2019",
+		"id": 1119879455114088400,
+		"id_str": "1120035322866176001",
+		"full_text": "트위터에서 병크가 터지면 어떻게해야할까요?\n\n누군지알아내서 비난을해요!\n\n틀렸어요, 그냥무시하고 자기할일 하면돼요. https://t.co/Cgv0GH9MIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119879452953964500,
+					"id_str": "1119879452953964544",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qcbdiUcAA8FMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qcbdiUcAA8FMj.jpg",
+					"url": "https://t.co/Cgv0GH9MIq",
+					"display_url": "pic.twitter.com/Cgv0GH9MIq",
+					"expanded_url": "https://twitter.com/vutus1/status/1119879455114088448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119879452953964500,
+					"id_str": "1119879452953964544",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qcbdiUcAA8FMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qcbdiUcAA8FMj.jpg",
+					"url": "https://t.co/Cgv0GH9MIq",
+					"display_url": "pic.twitter.com/Cgv0GH9MIq",
+					"expanded_url": "https://twitter.com/vutus1/status/1119879455114088448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 731956656,
+			"id_str": "731956656",
+			"name": "소품제작러🌮소제🌯",
+			"screen_name": "vutus1",
+			"location": "",
+			"description": "(드라마,코스프레)소품제작/handmade/Rainbow 6 siege/Cosplay/VR  game 기타등등 다양하게하고있는 소제입니당",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1282,
+			"friends_count": 449,
+			"listed_count": 7,
+			"created_at": "Thu Aug 02 02:20:31 +0000 2012",
+			"favourites_count": 1758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6508,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114934303236841472/gx9TsFZy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114934303236841472/gx9TsFZy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/731956656/1532834063",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터에서 병크가 터지면 어떻게해야할까요?\n\n누군지알아내서 비난을해요!\n\n틀렸어요, 그냥무시하고 자기할일 하면돼요. https://t.co/Cgv0GH9MIq"
+	},
+	{
+		"created_at": "Sun Apr 21 18:43:18 +0000 2019",
+		"id": 1120035294474985500,
+		"id_str": "1120035294474985472",
+		"full_text": "@ITSYOURKME Cross line",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITSYOURKME",
+					"name": "유크",
+					"id": 824875953629257700,
+					"id_str": "824875953629257728",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1120035186647822300,
+		"in_reply_to_status_id_str": "1120035186647822336",
+		"in_reply_to_user_id": 824875953629257700,
+		"in_reply_to_user_id_str": "824875953629257728",
+		"in_reply_to_screen_name": "ITSYOURKME",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ITSYOURKME Cross line"
+	},
+	{
 		"created_at": "Sun Apr 21 18:11:43 +0000 2019",
 		"id": 1120026696437116900,
 		"id_str": "1120027349817286656",
