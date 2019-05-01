@@ -1,6 +1,509 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 14:48:34 +0000 2019",
+		"id": 1123595564757803000,
+		"id_str": "1123600103044894720",
+		"full_text": "U.S. prosecutors claim Huawei was desperate to obtain T-Mobile's proprietary technology, namely a cellphone-testing robot called Tappy.  https://t.co/68ISYZqYla @proctor_jason",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "proctor_jason",
+					"name": "Jason Proctor",
+					"id": 116513917,
+					"id_str": "116513917",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/68ISYZqYla",
+					"expanded_url": "https://www.cbc.ca/1.5085279",
+					"display_url": "cbc.ca/1.5085279",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6433472,
+			"id_str": "6433472",
+			"name": "CBC News",
+			"screen_name": "CBCNews",
+			"location": "Canada",
+			"description": "Canadian breaking news and analysis from CBCNews.ca, TV and radio.",
+			"url": "http://t.co/ZLZObOnET1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZLZObOnET1",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2708655,
+			"friends_count": 1037,
+			"listed_count": 14569,
+			"created_at": "Wed May 30 05:20:39 +0000 2007",
+			"favourites_count": 5893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 215747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6433472/1400096610",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "U.S. prosecutors claim Huawei was desperate to obtain T-Mobile's proprietary technology, namely a cellphone-testing robot called Tappy.  https://t.co/68ISYZqYla @proctor_jason"
+	},
+	{
+		"created_at": "Wed May 01 14:26:52 +0000 2019",
+		"id": 1123537773145641000,
+		"id_str": "1123594641205485568",
+		"full_text": "이게무슨일이냐;;;; \n팀쿡은 대놓고 새시대 온거 축하한다는데 다들 손에 쥐고있는 아이폰 당장 던져버리지않고 뭐함 한국인의 매운맛 보여주자 https://t.co/n8aPkfCPJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n8aPkfCPJp",
+					"expanded_url": "https://twitter.com/tim_cook/status/1123358499826626560",
+					"display_url": "twitter.com/tim_cook/statu…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960572081510338600,
+			"id_str": "960572081510338560",
+			"name": "highly evolved hotdog",
+			"screen_name": "mimyo_profile",
+			"location": "",
+			"description": "닉넴 자꾸 바꿈 :\n누군지 헷갈리실땐 언제든 편하게 디엠으로 물어봐주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 221,
+			"listed_count": 1,
+			"created_at": "Mon Feb 05 17:53:25 +0000 2018",
+			"favourites_count": 6222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 909,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121765617286012928/AuHqSIxW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121765617286012928/AuHqSIxW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/960572081510338560/1556605519",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123358499826626600,
+		"quoted_status_id_str": "1123358499826626560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n8aPkfCPJp",
+			"expanded": "https://twitter.com/tim_cook/status/1123358499826626560",
+			"display": "twitter.com/tim_cook/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 30 22:48:32 +0000 2019",
+			"id": 1123358499826626600,
+			"id_str": "1123358499826626560",
+			"full_text": "新しい御代の幕開けに心からお祝い申し上げます。『令和』が日本の国に平和と繁栄をもたらす祝福された時代となるよう祈念致しております。🇯🇵 Congratulations on the beginning of the new era! We hope 令和 will be blessed with peace and prosperity for everyone in Japan.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1636590253,
+				"id_str": "1636590253",
+				"name": "Tim Cook",
+				"screen_name": "tim_cook",
+				"location": "Cupertino",
+				"description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11302599,
+				"friends_count": 63,
+				"listed_count": 20599,
+				"created_at": "Wed Jul 31 22:41:25 +0000 2013",
+				"favourites_count": 1541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 762,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035649273721847809/B0f8n_oe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1636590253/1535753003",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4734,
+			"favorite_count": 15268,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 95,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게무슨일이냐;;;; \n팀쿡은 대놓고 새시대 온거 축하한다는데 다들 손에 쥐고있는 아이폰 당장 던져버리지않고 뭐함 한국인의 매운맛 보여주자 https://t.co/n8aPkfCPJp"
+	},
+	{
+		"created_at": "Wed May 01 14:26:21 +0000 2019",
+		"id": 1123247377429745700,
+		"id_str": "1123594512301903873",
+		"full_text": "movie sonic eats some chilli dogs https://t.co/UWFVkm8mug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123247081857134600,
+					"id_str": "1123247081857134592",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123247081857134592/pu/img/dikbzZdPRWpThCZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123247081857134592/pu/img/dikbzZdPRWpThCZX.jpg",
+					"url": "https://t.co/UWFVkm8mug",
+					"display_url": "pic.twitter.com/UWFVkm8mug",
+					"expanded_url": "https://twitter.com/StrangeWoof/status/1123247377429745664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123247081857134600,
+					"id_str": "1123247081857134592",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123247081857134592/pu/img/dikbzZdPRWpThCZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123247081857134592/pu/img/dikbzZdPRWpThCZX.jpg",
+					"url": "https://t.co/UWFVkm8mug",
+					"display_url": "pic.twitter.com/UWFVkm8mug",
+					"expanded_url": "https://twitter.com/StrangeWoof/status/1123247377429745664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 30880,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123247081857134592/pu/vid/480x270/yzd_vbLtyTgmDkfX.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123247081857134592/pu/vid/640x360/fslZ0and7nlRC45j.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1123247081857134592/pu/pl/LdfYfzFYeogyIv8S.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123247081857134592/pu/vid/854x480/8NVP7wAqbKoKvxho.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 528832921,
+			"id_str": "528832921",
+			"name": "Corgillini🍝@CFz",
+			"screen_name": "StrangeWoof",
+			"location": "Manchester, England",
+			"description": "22💙He/Him💙Corgsky!💙Manchester's Official No.1 GoodBoy™️💙CFz2018 Dance Competition Winner💙@MancFurs and @Club_Collared Staff💙",
+			"url": "https://t.co/OLb0e3fFtW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OLb0e3fFtW",
+							"expanded_url": "https://www.youtube.com/c/StrangeWoof",
+							"display_url": "youtube.com/c/StrangeWoof",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 1181,
+			"listed_count": 15,
+			"created_at": "Sun Mar 18 20:43:06 +0000 2012",
+			"favourites_count": 27309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118476225620606976/I390Simg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118476225620606976/I390Simg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/528832921/1555090449",
+			"profile_link_color": "00F9FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4759,
+		"favorite_count": 14148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "movie sonic eats some chilli dogs https://t.co/UWFVkm8mug"
+	},
+	{
 		"created_at": "Wed May 01 08:55:12 +0000 2019",
 		"id": 1123361507276771300,
 		"id_str": "1123511172718706688",
