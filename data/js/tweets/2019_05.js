@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 04:42:27 +0000 2019",
+		"id": 1123776307509235700,
+		"id_str": "1123809957726642178",
+		"full_text": "도대체 무슨 아수라장인거지 https://t.co/IT8l5nQVtZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123776300274069500,
+					"id_str": "1123776300274069505",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D5h0l1DWsAE_zar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5h0l1DWsAE_zar.jpg",
+					"url": "https://t.co/IT8l5nQVtZ",
+					"display_url": "pic.twitter.com/IT8l5nQVtZ",
+					"expanded_url": "https://twitter.com/LRFLine_Metal/status/1123776307509235714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123776300274069500,
+					"id_str": "1123776300274069505",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D5h0l1DWsAE_zar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5h0l1DWsAE_zar.jpg",
+					"url": "https://t.co/IT8l5nQVtZ",
+					"display_url": "pic.twitter.com/IT8l5nQVtZ",
+					"expanded_url": "https://twitter.com/LRFLine_Metal/status/1123776307509235714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 958929061606146000,
+			"id_str": "958929061606146048",
+			"name": "[LRFLM]롱플[SJS]",
+			"screen_name": "LRFLine_Metal",
+			"location": "대전 어딘가/제주 어딘가",
+			"description": "망상가/밀덕/SF덕/역덕/이외에 애니 등등 여러가지 팜/미니어처게임, 프라모델, 3D 프린팅 등의 모형에 관심많음/밀코하는 비정상인/AUG 와쨩 루이스 조아/의식의 흐름을 타는 탐라입니다/디코:SJS6091/스팀:LRFLineMetal/2019.09.23 육군입대/\n무멘팔 환영",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Thu Feb 01 05:04:39 +0000 2018",
+			"favourites_count": 34210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21670,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123584407372042241/9shKSfu-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123584407372042241/9shKSfu-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/958929061606146048/1556424285",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도대체 무슨 아수라장인거지 https://t.co/IT8l5nQVtZ"
+	},
+	{
+		"created_at": "Thu May 02 04:37:56 +0000 2019",
+		"id": 1123806134446456800,
+		"id_str": "1123808818377494529",
+		"full_text": "이건또뭐야 ㅋㅋㅋㅋㅋㅋㅋ, https://t.co/NKsCOYkLgL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123806128985575400,
+					"id_str": "1123806128985575424",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iPuFqXkAAZlLc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iPuFqXkAAZlLc.jpg",
+					"url": "https://t.co/NKsCOYkLgL",
+					"display_url": "pic.twitter.com/NKsCOYkLgL",
+					"expanded_url": "https://twitter.com/Mcpolygon/status/1123806134446456832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123806128985575400,
+					"id_str": "1123806128985575424",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iPuFqXkAAZlLc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iPuFqXkAAZlLc.jpg",
+					"url": "https://t.co/NKsCOYkLgL",
+					"display_url": "pic.twitter.com/NKsCOYkLgL",
+					"expanded_url": "https://twitter.com/Mcpolygon/status/1123806134446456832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2606700223,
+			"id_str": "2606700223",
+			"name": "乙l곤⛰️🎺",
+			"screen_name": "Mcpolygon",
+			"location": "해피엔딩을 향해",
+			"description": "포켓몬ポケモン/울려라 유포니엄響けユーフォニアム/虫,淡水魚/🍺🥃🍸",
+			"url": "https://t.co/2kC1Tu5goM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2kC1Tu5goM",
+							"expanded_url": "https://odaibako.net/u/Mcpolygon",
+							"display_url": "odaibako.net/u/Mcpolygon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 914,
+			"listed_count": 11,
+			"created_at": "Sun Jul 06 03:40:32 +0000 2014",
+			"favourites_count": 8888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 204549,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112732264293519360/yBWORMMG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112732264293519360/yBWORMMG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2606700223/1550248885",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건또뭐야 ㅋㅋㅋㅋㅋㅋㅋ, https://t.co/NKsCOYkLgL"
+	},
+	{
+		"created_at": "Thu May 02 04:23:36 +0000 2019",
+		"id": 1123527322986934300,
+		"id_str": "1123805211401781249",
+		"full_text": "??? : 타노스 데려와!! https://t.co/lLzsDQNqjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123527311167352800,
+					"id_str": "1123527311167352833",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eSIwWUcAE4vxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eSIwWUcAE4vxG.jpg",
+					"url": "https://t.co/lLzsDQNqjg",
+					"display_url": "pic.twitter.com/lLzsDQNqjg",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1123527322986934272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123527311167352800,
+					"id_str": "1123527311167352833",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eSIwWUcAE4vxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eSIwWUcAE4vxG.jpg",
+					"url": "https://t.co/lLzsDQNqjg",
+					"display_url": "pic.twitter.com/lLzsDQNqjg",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1123527322986934272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/YakIWhm56h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YakIWhm56h",
+							"expanded_url": "https://youtu.be/evDOp8HzGfY",
+							"display_url": "youtu.be/evDOp8HzGfY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1763,
+			"friends_count": 371,
+			"listed_count": 23,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130946,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115609876300881920/-DMUzFro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115609876300881920/-DMUzFro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "??? : 타노스 데려와!! https://t.co/lLzsDQNqjg"
+	},
+	{
+		"created_at": "Thu May 02 04:19:38 +0000 2019",
+		"id": 1123587775842771000,
+		"id_str": "1123804215309217794",
+		"full_text": "오프닝에서 애니의 수준이 보인다는데\n\n진짜임 개잘보임 ㅋㅋㅋㅋ https://t.co/5gbbQRhWzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123587733883015200,
+					"id_str": "1123587733883015169",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5fJF0gVUAEsKM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5fJF0gVUAEsKM2.jpg",
+					"url": "https://t.co/5gbbQRhWzm",
+					"display_url": "pic.twitter.com/5gbbQRhWzm",
+					"expanded_url": "https://twitter.com/reiteru1367/status/1123587775842770944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123587733883015200,
+					"id_str": "1123587733883015169",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5fJF0gVUAEsKM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5fJF0gVUAEsKM2.jpg",
+					"url": "https://t.co/5gbbQRhWzm",
+					"display_url": "pic.twitter.com/5gbbQRhWzm",
+					"expanded_url": "https://twitter.com/reiteru1367/status/1123587775842770944/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5fJF0gVUAEsKM2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951736467058917400,
+			"id_str": "951736467058917376",
+			"name": "레이테르",
+			"screen_name": "reiteru1367",
+			"location": "대한민국 북구",
+			"description": "/아이돌 마스터, 8월의 신데렐라 나인, 댄스러시 스타덤 / 줄리아, 리이나, 유이카, 아이미, 아카네 / 맞팔 멘션 / FUB free",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 179,
+			"listed_count": 7,
+			"created_at": "Fri Jan 12 08:43:50 +0000 2018",
+			"favourites_count": 2345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11108,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123553457590263808/TdZas8X8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123553457590263808/TdZas8X8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951736467058917376/1555504513",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오프닝에서 애니의 수준이 보인다는데\n\n진짜임 개잘보임 ㅋㅋㅋㅋ https://t.co/5gbbQRhWzm"
+	},
+	{
 		"created_at": "Thu May 02 04:13:41 +0000 2019",
 		"id": 1123791584544346100,
 		"id_str": "1123802715073798144",
@@ -38,7 +721,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "불가피",
 			"screen_name": "yoongaphee",
 			"location": "Seoul",
-			"description": "[재밌다! 평양을 세일합니다] \n✷교보 : https://t.co/djI1cmtj4h\n✷알라딘 : https://t.co/MNVNLAsxNg\n* yes24 : https://t.co/zN2xPoArlL​",
+			"description": "[재밌다! 평양을 세일합니다] \n✷교보 : https://t.co/djI1cmtj4h\n✷알라딘 : https://t.co/MNVNLAsxNg\n* yes24 : https://t.co/zN2xPoArlL",
 			"url": null,
 			"entities": {
 				"description": {
