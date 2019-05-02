@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 01:35:55 +0000 2019",
+		"id": 1123110656184586200,
+		"id_str": "1123763012408680451",
+		"full_text": "Today's the day we celebrate Hitler's one correct action: Killing Hitler https://t.co/vxnlvc7xoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123110580670345200,
+					"id_str": "1123110580670345216",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D5YXH2RWsAAtdlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5YXH2RWsAAtdlH.jpg",
+					"url": "https://t.co/vxnlvc7xoZ",
+					"display_url": "pic.twitter.com/vxnlvc7xoZ",
+					"expanded_url": "https://twitter.com/Hbomberguy/status/1123110656184586240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 209,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123110580670345200,
+					"id_str": "1123110580670345216",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D5YXH2RWsAAtdlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5YXH2RWsAAtdlH.jpg",
+					"url": "https://t.co/vxnlvc7xoZ",
+					"display_url": "pic.twitter.com/vxnlvc7xoZ",
+					"expanded_url": "https://twitter.com/Hbomberguy/status/1123110656184586240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 209,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29472053,
+			"id_str": "29472053",
+			"name": "Hbomb",
+			"screen_name": "Hbomberguy",
+			"location": "",
+			"description": "former knitwear model\nhttps://t.co/owRmkTexIU\nhttps://t.co/dHV2Yhrqzv\nhttps://t.co/NNCh6Ycdax\n\nAvatar- ddr museum \nHeader-@Skutchdraws",
+			"url": "https://t.co/TkZK2bngwL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TkZK2bngwL",
+							"expanded_url": "https://www.youtube.com/hbomberguy",
+							"display_url": "youtube.com/hbomberguy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/owRmkTexIU",
+							"expanded_url": "http://patreon.com/Hbomb",
+							"display_url": "patreon.com/Hbomb",
+							"indices": [
+								22,
+								45
+							]
+						},
+						{
+							"url": "https://t.co/dHV2Yhrqzv",
+							"expanded_url": "http://twitch.tv/hbomberguy",
+							"display_url": "twitch.tv/hbomberguy",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/NNCh6Ycdax",
+							"expanded_url": "http://curiouscat.me/Hbomberguy",
+							"display_url": "curiouscat.me/Hbomberguy",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 116058,
+			"friends_count": 908,
+			"listed_count": 298,
+			"created_at": "Tue Apr 07 15:37:12 +0000 2009",
+			"favourites_count": 29934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123034324910129158/nsAtaPyW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123034324910129158/nsAtaPyW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29472053/1546755894",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4367,
+		"favorite_count": 19281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's the day we celebrate Hitler's one correct action: Killing Hitler https://t.co/vxnlvc7xoZ"
+	},
+	{
 		"created_at": "Thu May 02 01:02:18 +0000 2019",
 		"id": 1123550130861330400,
 		"id_str": "1123754551998406656",
