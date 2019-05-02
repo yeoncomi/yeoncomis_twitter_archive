@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 10:22:41 +0000 2019",
+		"id": 1123895576662347800,
+		"id_str": "1123895576662347777",
+		"full_text": "신카도 쓰려면 써야...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 1038,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "신카도 쓰려면 써야..."
+	},
+	{
+		"created_at": "Thu May 02 10:22:33 +0000 2019",
+		"id": 1123850444953014300,
+		"id_str": "1123895544705966080",
+		"full_text": "트위터에서 체크카드만 쓰랫다고 체크카드만 오지게쓰고 나중에 신용등급 안나와서 대출 못받고 대학가지말래서 안갓다가 취직 잘 안되면 누구 탓 할라고 그러시는지? 인생을 트위터에 맽기지마세요.. 막 조언하지도 마시구요..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191278264,
+			"id_str": "3191278264",
+			"name": "🎗 김",
+			"screen_name": "mung_nyang",
+			"location": "",
+			"description": "20190331 💍  |  💗 ⌒_⌒ 💗  |  체블  |  icon @mprhddnjs",
+			"url": "https://t.co/I4gSacg4QO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I4gSacg4QO",
+							"expanded_url": "http://www.20190318.co.kr",
+							"display_url": "20190318.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145,
+			"friends_count": 150,
+			"listed_count": 5,
+			"created_at": "Tue Apr 21 15:40:08 +0000 2015",
+			"favourites_count": 5059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10198,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122066519565803520/ELV0l8ny_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122066519565803520/ELV0l8ny_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191278264/1554171491",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6463,
+		"favorite_count": 815,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터에서 체크카드만 쓰랫다고 체크카드만 오지게쓰고 나중에 신용등급 안나와서 대출 못받고 대학가지말래서 안갓다가 취직 잘 안되면 누구 탓 할라고 그러시는지? 인생을 트위터에 맽기지마세요.. 막 조언하지도 마시구요.."
+	},
+	{
+		"created_at": "Thu May 02 10:21:29 +0000 2019",
+		"id": 1123588299640135700,
+		"id_str": "1123895278313066496",
+		"full_text": "근데 마라 무서운 게 무슨 맛인지는 기억 안 나고 그냥 '마라를 원한다'는 감정만 남아있음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1026746115587096600,
+			"id_str": "1026746115587096578",
+			"name": "챔블 the 월스 ⓥ",
+			"screen_name": "goodforchyamble",
+			"location": "",
+			"description": "저는 월드스타가 될 거라니까요?",
+			"url": "https://t.co/62R05HTiUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/62R05HTiUg",
+							"expanded_url": "https://asked.kr/goodforyeche",
+							"display_url": "asked.kr/goodforyeche",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Tue Aug 07 08:25:24 +0000 2018",
+			"favourites_count": 6148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121828256162779136/Y62Hvr4F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121828256162779136/Y62Hvr4F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1026746115587096578/1555867433",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8837,
+		"favorite_count": 1971,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 마라 무서운 게 무슨 맛인지는 기억 안 나고 그냥 '마라를 원한다'는 감정만 남아있음"
+	},
+	{
 		"created_at": "Thu May 02 10:13:19 +0000 2019",
 		"id": 1123890683650224100,
 		"id_str": "1123893221849956352",
