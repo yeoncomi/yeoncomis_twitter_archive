@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 04:19:50 +0000 2019",
+		"id": 1121631765116751900,
+		"id_str": "1124166649966256128",
+		"full_text": "저희 독일어 교수님 연구실 문앞에 이런게 붙여있는데요 ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/FCWD7Fbo6H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121631751061721100,
+					"id_str": "1121631751061721088",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D5DWIorVUAAkups.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5DWIorVUAAkups.jpg",
+					"url": "https://t.co/FCWD7Fbo6H",
+					"display_url": "pic.twitter.com/FCWD7Fbo6H",
+					"expanded_url": "https://twitter.com/elsword_pn/status/1121631765116751874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121631751061721100,
+					"id_str": "1121631751061721088",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D5DWIorVUAAkups.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5DWIorVUAAkups.jpg",
+					"url": "https://t.co/FCWD7Fbo6H",
+					"display_url": "pic.twitter.com/FCWD7Fbo6H",
+					"expanded_url": "https://twitter.com/elsword_pn/status/1121631765116751874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042130103533092900,
+			"id_str": "1042130103533092864",
+			"name": "메케1기팬 메가🍰프🆕️",
+			"screen_name": "elsword_pn",
+			"location": "",
+			"description": "엘소드 버닝중🌼/아샤른/잡덕/연성 조금/RT,마음 많음/헤어질 땐 블언블/무멘팔 구독간주/잘부탁드려요~!!😉",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Tue Sep 18 19:15:53 +0000 2018",
+			"favourites_count": 10555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6698,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121346009852825600/CuS8Anfe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121346009852825600/CuS8Anfe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042130103533092864/1556181491",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3359,
+		"favorite_count": 788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희 독일어 교수님 연구실 문앞에 이런게 붙여있는데요 ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/FCWD7Fbo6H"
+	},
+	{
 		"created_at": "Fri May 03 04:15:43 +0000 2019",
 		"id": 1123155680511139800,
 		"id_str": "1124165616464621568",
