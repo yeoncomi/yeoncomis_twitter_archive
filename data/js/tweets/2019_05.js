@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 17:31:06 +0000 2019",
+		"id": 1123998973382004700,
+		"id_str": "1124365782425554944",
+		"full_text": "ㅋㅋㅋ... level5라고 무시하지마라...\n느그 고향애들 DB에 レベル5 더 나아가서 reberu_go 라고 써놓은 애들 분명히 있다 ㅋㅋㅋ... https://t.co/js1WYihTn2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123998966109044700,
+					"id_str": "1123998966109044739",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D5k_Gr7WAAMPpU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5k_Gr7WAAMPpU0.jpg",
+					"url": "https://t.co/js1WYihTn2",
+					"display_url": "pic.twitter.com/js1WYihTn2",
+					"expanded_url": "https://twitter.com/Robust_kr/status/1123998973382004737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123998966109044700,
+					"id_str": "1123998966109044739",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D5k_Gr7WAAMPpU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5k_Gr7WAAMPpU0.jpg",
+					"url": "https://t.co/js1WYihTn2",
+					"display_url": "pic.twitter.com/js1WYihTn2",
+					"expanded_url": "https://twitter.com/Robust_kr/status/1123998973382004737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 436,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1060089860420071400,
+			"id_str": "1060089860420071424",
+			"name": "라브",
+			"screen_name": "Robust_kr",
+			"location": "일본",
+			"description": "혹시 야요이 프로듀서를 TV로 보거나 짤방으로 본 적이 있습니까? 그것이 저입니다. 항상 행복하십시오, 휴먼.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 220,
+			"listed_count": 0,
+			"created_at": "Wed Nov 07 08:41:33 +0000 2018",
+			"favourites_count": 2536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7656,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108776425593556992/a5iJfQuG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108776425593556992/a5iJfQuG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1060089860420071424/1543845820",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ㅋㅋㅋ... level5라고 무시하지마라...\n느그 고향애들 DB에 レベル5 더 나아가서 reberu_go 라고 써놓은 애들 분명히 있다 ㅋㅋㅋ... https://t.co/js1WYihTn2"
+	},
+	{
+		"created_at": "Fri May 03 17:29:04 +0000 2019",
+		"id": 1124359890858721300,
+		"id_str": "1124365268984053760",
+		"full_text": "PornHub가 텀블러 매수에 관심이 있다는 보도. 버라이즌이 쫓아낸 성인물 사용자들을 다시 불러들이길 희망하는 듯.  https://t.co/lCa38af8Rs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lCa38af8Rs",
+					"expanded_url": "https://arstechnica.com/?p=1499817",
+					"display_url": "arstechnica.com/?p=1499817",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/2JilCs4nFl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2JilCs4nFl",
+							"expanded_url": "https://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2670,
+			"friends_count": 2724,
+			"listed_count": 136,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 40049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 192810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068883705026895872/vyAsyRFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PornHub가 텀블러 매수에 관심이 있다는 보도. 버라이즌이 쫓아낸 성인물 사용자들을 다시 불러들이길 희망하는 듯.  https://t.co/lCa38af8Rs"
+	},
+	{
+		"created_at": "Fri May 03 17:28:44 +0000 2019",
+		"id": 1124309509684383700,
+		"id_str": "1124365186184253440",
+		"full_text": "프로스티이 ㅋㅋㅋ 유튜브가서도 무식한소리하는거니? https://t.co/eFOxNGAZiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124309502616936400,
+					"id_str": "1124309502616936448",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pZiSkUIAA62EN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pZiSkUIAA62EN.jpg",
+					"url": "https://t.co/eFOxNGAZiF",
+					"display_url": "pic.twitter.com/eFOxNGAZiF",
+					"expanded_url": "https://twitter.com/mangonaam/status/1124309509684383744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124309502616936400,
+					"id_str": "1124309502616936448",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pZiSkUIAA62EN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pZiSkUIAA62EN.jpg",
+					"url": "https://t.co/eFOxNGAZiF",
+					"display_url": "pic.twitter.com/eFOxNGAZiF",
+					"expanded_url": "https://twitter.com/mangonaam/status/1124309509684383744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126783453,
+			"id_str": "126783453",
+			"name": "앙",
+			"screen_name": "mangonaam",
+			"location": "Mango, Piemonte",
+			"description": "월급은 빚을 이길 수 없다. 커피는 잠을 이길 수 없다. 집값은 침몰하지 않는다. 우리는 퇴근하지 않는다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2481,
+			"friends_count": 218,
+			"listed_count": 32,
+			"created_at": "Sat Mar 27 00:21:54 +0000 2010",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 145521,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940113015684206592/Qc3NEbUn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940113015684206592/Qc3NEbUn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126783453/1539247950",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프로스티이 ㅋㅋㅋ 유튜브가서도 무식한소리하는거니? https://t.co/eFOxNGAZiF"
+	},
+	{
+		"created_at": "Fri May 03 17:27:20 +0000 2019",
+		"id": 1124361884210085900,
+		"id_str": "1124364834387009536",
+		"full_text": "Poweramp Full Version Unlocker (Android App) $1  https://t.co/xXzrXFY3Lo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xXzrXFY3Lo",
+					"expanded_url": "https://slickdeals.net/f/13058179-poweramp-full-version-unlocker-android-app-0-99-google-play?utm_campaign=470269&utm_medium=social&utm_source=twitter&utm_term=deal&utm_content=auto",
+					"display_url": "slickdeals.net/f/13058179-pow…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://slickdeals.net/\" rel=\"nofollow\">Slickdeals FP Feed</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966106666629447700,
+			"id_str": "966106666629447680",
+			"name": "Slickdeals Feed",
+			"screen_name": "SlickdealsFeed",
+			"location": "",
+			"description": "Automated live feed of all Frontpage Slickdeals. Follow our main account: @slickdeals",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3041,
+			"friends_count": 1,
+			"listed_count": 107,
+			"created_at": "Wed Feb 21 00:25:53 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966107291501043712/eIxP5Igm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966107291501043712/eIxP5Igm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966106666629447680/1519173316",
+			"profile_link_color": "3173B5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Poweramp Full Version Unlocker (Android App) $1  https://t.co/xXzrXFY3Lo"
+	},
+	{
 		"created_at": "Fri May 03 17:13:06 +0000 2019",
 		"id": 1123925940462084100,
 		"id_str": "1124361251318947841",
