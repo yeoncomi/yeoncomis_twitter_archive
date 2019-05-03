@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 20:57:59 +0000 2019",
+		"id": 1123812073929048000,
+		"id_str": "1124417845679480832",
+		"full_text": "준교야... https://t.co/31nF5UcBos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123812064944906200,
+					"id_str": "1123812064944906240",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iVHm1W4AAxDDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iVHm1W4AAxDDm.jpg",
+					"url": "https://t.co/31nF5UcBos",
+					"display_url": "pic.twitter.com/31nF5UcBos",
+					"expanded_url": "https://twitter.com/Jebichuriii/status/1123812073929048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123812064944906200,
+					"id_str": "1123812064944906240",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iVHm1W4AAxDDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iVHm1W4AAxDDm.jpg",
+					"url": "https://t.co/31nF5UcBos",
+					"display_url": "pic.twitter.com/31nF5UcBos",
+					"expanded_url": "https://twitter.com/Jebichuriii/status/1123812073929048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123812064907206700,
+					"id_str": "1123812064907206656",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iVHmsXoAAtIFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iVHmsXoAAtIFW.jpg",
+					"url": "https://t.co/31nF5UcBos",
+					"display_url": "pic.twitter.com/31nF5UcBos",
+					"expanded_url": "https://twitter.com/Jebichuriii/status/1123812073929048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 319,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 570,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 319,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123812064907210800,
+					"id_str": "1123812064907210752",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D5iVHmsXsAA9rrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5iVHmsXsAA9rrc.jpg",
+					"url": "https://t.co/31nF5UcBos",
+					"display_url": "pic.twitter.com/31nF5UcBos",
+					"expanded_url": "https://twitter.com/Jebichuriii/status/1123812073929048064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 801,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091155303423389700,
+			"id_str": "1091155303423389697",
+			"name": "제비추리🐐",
+			"screen_name": "Jebichuriii",
+			"location": "",
+			"description": "문\"파\" 워너비",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 1973,
+			"listed_count": 2,
+			"created_at": "Fri Feb 01 02:04:31 +0000 2019",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7657,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091570097963978752/OjyKhiVQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091570097963978752/OjyKhiVQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091155303423389697/1549085529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "준교야... https://t.co/31nF5UcBos"
+	},
+	{
 		"created_at": "Fri May 03 17:31:06 +0000 2019",
 		"id": 1123998973382004700,
 		"id_str": "1124365782425554944",
