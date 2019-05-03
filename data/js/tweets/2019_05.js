@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 09:04:07 +0000 2019",
+		"id": 1124234841749323800,
+		"id_str": "1124238194227027968",
+		"full_text": "The Pixel 2 won't officially get the Pixel 3's Top Shot Google Camera feature https://t.co/q2pqZeLLkV https://t.co/Jh6IMUx8vl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q2pqZeLLkV",
+					"expanded_url": "https://www.xda-developers.com/pixel-2-wont-get-pixel-3-google-camera-top-shot/",
+					"display_url": "xda-developers.com/pixel-2-wont-g…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124234838859485200,
+					"id_str": "1124234838859485184",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oVoSZWkAAuPf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oVoSZWkAAuPf-.jpg",
+					"url": "https://t.co/Jh6IMUx8vl",
+					"display_url": "pic.twitter.com/Jh6IMUx8vl",
+					"expanded_url": "https://twitter.com/xdadevelopers/status/1124234841749323779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124234838859485200,
+					"id_str": "1124234838859485184",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oVoSZWkAAuPf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oVoSZWkAAuPf-.jpg",
+					"url": "https://t.co/Jh6IMUx8vl",
+					"display_url": "pic.twitter.com/Jh6IMUx8vl",
+					"expanded_url": "https://twitter.com/xdadevelopers/status/1124234841749323779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.xda-developers.com\" rel=\"nofollow\">XDA Portal</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65119912,
+			"id_str": "65119912",
+			"name": "XDA Developers",
+			"screen_name": "xdadevelopers",
+			"location": "USA",
+			"description": "You have found the world-famous XDA-Developers Twitter! Catch up on the latest news or just say Hi",
+			"url": "https://t.co/tZkgJaDQ6i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tZkgJaDQ6i",
+							"expanded_url": "http://www.xda-developers.com",
+							"display_url": "xda-developers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470793,
+			"friends_count": 985,
+			"listed_count": 8248,
+			"created_at": "Wed Aug 12 18:43:03 +0000 2009",
+			"favourites_count": 20199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635865458114084864/Gy_lShBq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635865458114084864/Gy_lShBq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65119912/1540829707",
+			"profile_link_color": "F2840E",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Pixel 2 won't officially get the Pixel 3's Top Shot Google Camera feature https://t.co/q2pqZeLLkV https://t.co/Jh6IMUx8vl"
+	},
+	{
 		"created_at": "Fri May 03 04:19:50 +0000 2019",
 		"id": 1121631765116751900,
 		"id_str": "1124166649966256128",
