@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 17:13:06 +0000 2019",
+		"id": 1123925940462084100,
+		"id_str": "1124361251318947841",
+		"full_text": "트와이스가 음악방송 1위 했는데도 사나씨는 웃지도 못하고 눈치만 보다가 울먹거리네 마음 아프다 정말... https://t.co/VM2vaaHApi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123925907444572200,
+					"id_str": "1123925907444572162",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5j8qHMXoAIKXJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5j8qHMXoAIKXJk.jpg",
+					"url": "https://t.co/VM2vaaHApi",
+					"display_url": "pic.twitter.com/VM2vaaHApi",
+					"expanded_url": "https://twitter.com/cos_changcheon/status/1123925940462084098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123925907444572200,
+					"id_str": "1123925907444572162",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5j8qHMXoAIKXJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5j8qHMXoAIKXJk.jpg",
+					"url": "https://t.co/VM2vaaHApi",
+					"display_url": "pic.twitter.com/VM2vaaHApi",
+					"expanded_url": "https://twitter.com/cos_changcheon/status/1123925940462084098/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 368,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D5j8qHMXoAIKXJk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1089515707493056500,
+			"id_str": "1089515707493056512",
+			"name": "창천",
+			"screen_name": "cos_changcheon",
+			"location": "대한민국",
+			"description": "1997/cosplayer/starcraft2/e-sports/hip hop/dnb/ https://t.co/5TbDNbBDOi / https://t.co/7kHz3Z8w7n /soccer/Kpop/IZ*ONE",
+			"url": "https://t.co/OggAAMlGbW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OggAAMlGbW",
+							"expanded_url": "https://blog.naver.com/jyjsh1234",
+							"display_url": "blog.naver.com/jyjsh1234",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5TbDNbBDOi",
+							"expanded_url": "http://worldcosplay.net/member/187782",
+							"display_url": "worldcosplay.net/member/187782",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/7kHz3Z8w7n",
+							"expanded_url": "http://instagram.com/changcheon_cos/",
+							"display_url": "instagram.com/changcheon_cos/",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Sun Jan 27 13:29:21 +0000 2019",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 903,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112367083575099392/yeAfx6j3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112367083575099392/yeAfx6j3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1089515707493056512/1548863538",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6196,
+		"favorite_count": 3084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트와이스가 음악방송 1위 했는데도 사나씨는 웃지도 못하고 눈치만 보다가 울먹거리네 마음 아프다 정말... https://t.co/VM2vaaHApi"
+	},
+	{
 		"created_at": "Fri May 03 09:04:07 +0000 2019",
 		"id": 1124234841749323800,
 		"id_str": "1124238194227027968",
