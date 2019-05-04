@@ -1,6 +1,1078 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 08:09:30 +0000 2019",
+		"id": 1124541145596301300,
+		"id_str": "1124586835395563522",
+		"full_text": "수학과 출신친구 취직안되어서 자영업한다는 말에 뭘로 자영업할거냐 묻자 카레집을 할거라고 말함.\n왜 하필 카레집이여 했는데 가게이름 '푸앵카레'로 하려고..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051494542648651800,
+			"id_str": "1051494542648651776",
+			"name": "똘쇠",
+			"screen_name": "fareuwell",
+			"location": "",
+			"description": "아이고 마님 나으리가 장판을 맞고 그만",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35,
+			"friends_count": 49,
+			"listed_count": 0,
+			"created_at": "Sun Oct 14 15:26:49 +0000 2018",
+			"favourites_count": 487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121872507525447680/63CKt2FX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121872507525447680/63CKt2FX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051494542648651776/1550951528",
+			"profile_link_color": "0B0B61",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 573,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "수학과 출신친구 취직안되어서 자영업한다는 말에 뭘로 자영업할거냐 묻자 카레집을 할거라고 말함.\n왜 하필 카레집이여 했는데 가게이름 '푸앵카레'로 하려고.."
+	},
+	{
+		"created_at": "Sat May 04 08:09:19 +0000 2019",
+		"id": 1124332562552381400,
+		"id_str": "1124586789316939776",
+		"full_text": "아 영어 답은 또 왜이래. 문제집 해설이 맛이갔나.\n\nNew Nintendo ____ is great!\n\n빈칸에 들어갈 말을 고르시오 인데\n\n보기중에 console이랑 controllers가 있고 답은 controllers래…. 단 복수 안가리냐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61207120,
+			"id_str": "61207120",
+			"name": "TW / 티떱",
+			"screen_name": "TeeDDub",
+			"location": "You know where to find me",
+			"description": "오늘의 티떱은... 번역을 합니다. 미국 만화 관련 글을 씁니다. 일을 구하고 있습니다. 헛소리가 많습니다.",
+			"url": "https://t.co/pTe4QpxdG6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pTe4QpxdG6",
+							"expanded_url": "http://comicstimeline.com",
+							"display_url": "comicstimeline.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963,
+			"friends_count": 499,
+			"listed_count": 30,
+			"created_at": "Wed Jul 29 14:29:30 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7153,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082964399004893184/RIibiB6J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082964399004893184/RIibiB6J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61207120/1547033526",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "80877C",
+			"profile_sidebar_fill_color": "797D77",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 영어 답은 또 왜이래. 문제집 해설이 맛이갔나.\n\nNew Nintendo ____ is great!\n\n빈칸에 들어갈 말을 고르시오 인데\n\n보기중에 console이랑 controllers가 있고 답은 controllers래…. 단 복수 안가리냐"
+	},
+	{
+		"created_at": "Sat May 04 07:56:18 +0000 2019",
+		"id": 1124146862858985500,
+		"id_str": "1124583516107206656",
+		"full_text": "실수로 삼킨 에어팟, 배 속에서도 작동…배변 후 계속 사용 (출처 : 서울신문 | 네이버 뉴스) https://t.co/bQP55z8hVd\n\n\"쉬의 소식을 접한 현지인들은 “아무리 멀쩡하게 작동한다 해도 꼭 그 에어팟을 다시 귀에 꽂아야 하느냐”는 반응을 쏟아냈다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bQP55z8hVd",
+					"expanded_url": "http://naver.me/FmbHiLxZ",
+					"display_url": "naver.me/FmbHiLxZ",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 588224784,
+			"id_str": "588224784",
+			"name": "끼멀고사",
+			"screen_name": "deepdarkyellow",
+			"location": "대한민국 인천",
+			"description": "안녕하세요 저는 키머고사입니다 방가방가",
+			"url": "https://t.co/TGtCRSFscE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TGtCRSFscE",
+							"expanded_url": "http://blog.naver.com/chling",
+							"display_url": "blog.naver.com/chling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190,
+			"friends_count": 333,
+			"listed_count": 16,
+			"created_at": "Wed May 23 09:14:09 +0000 2012",
+			"favourites_count": 1203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124879,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112718102981074944/wU0sejlc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112718102981074944/wU0sejlc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/588224784/1555072268",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5366,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실수로 삼킨 에어팟, 배 속에서도 작동…배변 후 계속 사용 (출처 : 서울신문 | 네이버 뉴스) https://t.co/bQP55z8hVd\n\n\"쉬의 소식을 접한 현지인들은 “아무리 멀쩡하게 작동한다 해도 꼭 그 에어팟을 다시 귀에 꽂아야 하느냐”는 반응을 쏟아냈다.\""
+	},
+	{
+		"created_at": "Sat May 04 07:53:02 +0000 2019",
+		"id": 1124557935244238800,
+		"id_str": "1124582693436411904",
+		"full_text": "이제 곧이다\n\n에이즈 전염 '제로' 눈 앞..항레트로바이러스 치료로 '성공' | 다음 뉴스 https://t.co/w5NJ7otxYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5NJ7otxYn",
+					"expanded_url": "https://news.v.daum.net/v/20190503094033600?f=m",
+					"display_url": "news.v.daum.net/v/201905030940…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248942233,
+			"id_str": "248942233",
+			"name": "🌈레디컬스까 콘딕 징역6월 집행유예1년",
+			"screen_name": "Condomase_Dick",
+			"location": "",
+			"description": "시스젠더바이섹슈어폴리가미. 울산에서 성남으로 이사함. 불친절한 페미. 울산 THISWAY 회원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2300,
+			"friends_count": 1425,
+			"listed_count": 41,
+			"created_at": "Tue Feb 08 01:26:25 +0000 2011",
+			"favourites_count": 32782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 213609,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060485666302115840/nGSBfMWb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060485666302115840/nGSBfMWb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248942233/1462793449",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 곧이다\n\n에이즈 전염 '제로' 눈 앞..항레트로바이러스 치료로 '성공' | 다음 뉴스 https://t.co/w5NJ7otxYn"
+	},
+	{
+		"created_at": "Sat May 04 07:42:48 +0000 2019",
+		"id": 1124580120029683700,
+		"id_str": "1124580120029683712",
+		"full_text": "@Ai_Minachan 아아 마제소바.. 어디서 들어본거같아요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ai_Minachan",
+					"name": "미나",
+					"id": 3195435608,
+					"id_str": "3195435608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124579977716830200,
+		"in_reply_to_status_id_str": "1124579977716830208",
+		"in_reply_to_user_id": 3195435608,
+		"in_reply_to_user_id_str": "3195435608",
+		"in_reply_to_screen_name": "Ai_Minachan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1041,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ai_Minachan 아아 마제소바.. 어디서 들어본거같아요"
+	},
+	{
+		"created_at": "Sat May 04 07:42:28 +0000 2019",
+		"id": 1124580032733597700,
+		"id_str": "1124580032733597696",
+		"full_text": "@cailia 메뉴 한국어 번역판도 있었네요.. 만날 유튜브에서는 북미용 리뷰를 봐서..",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cailia",
+					"name": "Cailia",
+					"id": 19104463,
+					"id_str": "19104463",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124579647885152300,
+		"in_reply_to_status_id_str": "1124579647885152261",
+		"in_reply_to_user_id": 19104463,
+		"in_reply_to_user_id_str": "19104463",
+		"in_reply_to_screen_name": "cailia",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1041,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@cailia 메뉴 한국어 번역판도 있었네요.. 만날 유튜브에서는 북미용 리뷰를 봐서.."
+	},
+	{
+		"created_at": "Sat May 04 07:39:24 +0000 2019",
+		"id": 1124579261677850600,
+		"id_str": "1124579261677850624",
+		"full_text": "@Ai_Minachan 지루멘인가요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ai_Minachan",
+					"name": "미나",
+					"id": 3195435608,
+					"id_str": "3195435608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124579171319992300,
+		"in_reply_to_status_id_str": "1124579171319992320",
+		"in_reply_to_user_id": 3195435608,
+		"in_reply_to_user_id_str": "3195435608",
+		"in_reply_to_screen_name": "Ai_Minachan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1041,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ai_Minachan 지루멘인가요"
+	},
+	{
+		"created_at": "Sat May 04 07:36:32 +0000 2019",
+		"id": 1123979990423474200,
+		"id_str": "1124578541952049152",
+		"full_text": "암호화폐/블록체인을 업으로 삼으면 얻는 이득 :\n1. C++ 디버깅을 잘 하게 된다\n2. Rust/Haskell/Go/Python/Java 등등 안 써본 언어가 없다\n3. 욕이 입에 붙는다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4167778644,
+			"id_str": "4167778644",
+			"name": "Bengi",
+			"screen_name": "Bengi_Mk3",
+			"location": "127.0.0.1",
+			"description": "FUB Free |&gt; Embedded & Reverse Engineering w/ asm, Python, Erlang, C99, C++11 (!) + a |&gt; #GirlsCanDoAnything Anime Game Geek |&gt; Private -&gt; @Bengi_mk2",
+			"url": "https://t.co/5kobtWt0pi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5kobtWt0pi",
+							"expanded_url": "http://Bengi.kr",
+							"display_url": "Bengi.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 517,
+			"friends_count": 1239,
+			"listed_count": 9,
+			"created_at": "Sun Nov 08 11:56:29 +0000 2015",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29992,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980373841695289345/EklK16Rg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980373841695289345/EklK16Rg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4167778644/1509025081",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "암호화폐/블록체인을 업으로 삼으면 얻는 이득 :\n1. C++ 디버깅을 잘 하게 된다\n2. Rust/Haskell/Go/Python/Java 등등 안 써본 언어가 없다\n3. 욕이 입에 붙는다"
+	},
+	{
+		"created_at": "Sat May 04 07:35:26 +0000 2019",
+		"id": 1124547180273053700,
+		"id_str": "1124578265157423104",
+		"full_text": "모니터의 색역을 파악하고 제대로 프로파일을 지정 하셨나요? \"돌아버린 형광파랑\" 같은 현상은 보통 AdobeRGB 색역의 모니터를 sRGB 프로파일로 사용할때 나타나는 현상입니다.. 사용하시는 디스플레이 기기의 색감이 특히 형광색이라고 느껴진다면, 다음 글 참고해 보세요. https://t.co/sZQgmAHtSc https://t.co/FaSv3Rl7Cy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sZQgmAHtSc",
+					"expanded_url": "https://m.blog.naver.com/PostView.nhn?blogId=howardkim&logNo=60204235192&proxyReferer=https%3A%2F%2Fwww.google.com%2F",
+					"display_url": "m.blog.naver.com/PostView.nhn?b…",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/FaSv3Rl7Cy",
+					"expanded_url": "https://twitter.com/shot0_cake/status/1124284700736901125",
+					"display_url": "twitter.com/shot0_cake/sta…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80697039,
+			"id_str": "80697039",
+			"name": "Sunjun Kim @ 🇫🇮🇰🇷🏳️‍🌈",
+			"screen_name": "sunjun_kim",
+			"location": "Espoo, Suomi",
+			"description": "Postdoc Researcher, Human-Computer Interaction, 핀란드 거주, 페미니즘 지지자. 성 소수자 커플의 법적 권리 보장을 지지합니다.",
+			"url": "https://t.co/g6MdclywU5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g6MdclywU5",
+							"expanded_url": "http://kuaa.net",
+							"display_url": "kuaa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 266,
+			"listed_count": 11,
+			"created_at": "Wed Oct 07 22:37:13 +0000 2009",
+			"favourites_count": 1986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7319,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006441758161559552/O1iYs4Pq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006441758161559552/O1iYs4Pq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80697039/1460276342",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124284700736901100,
+		"quoted_status_id_str": "1124284700736901125",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FaSv3Rl7Cy",
+			"expanded": "https://twitter.com/shot0_cake/status/1124284700736901125",
+			"display": "twitter.com/shot0_cake/sta…"
+		},
+		"retweet_count": 53,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모니터의 색역을 파악하고 제대로 프로파일을 지정 하셨나요? \"돌아버린 형광파랑\" 같은 현상은 보통 AdobeRGB 색역의 모니터를 sRGB 프로파일로 사용할때 나타나는 현상입니다.. 사용하시는 디스플레이 기기의 색감이 특히 형광색이라고 느껴진다면, 다음 글 참고해 보세요. https://t.co/sZQgmAHtSc https://t.co/FaSv3Rl7Cy"
+	},
+	{
+		"created_at": "Sat May 04 07:32:16 +0000 2019",
+		"id": 1124511586838646800,
+		"id_str": "1124577467430137856",
+		"full_text": "남초는 우경화 점령지네 뭐 거의...\n\n현대차 공장 근무기강이 개판이면 현대차 잘못이지\n민주노총은 왜 나오는데 https://t.co/TtXoy8dNZ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124511575476326400,
+					"id_str": "1124511575476326400",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D5sRUeoU0AADhy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5sRUeoU0AADhy2.jpg",
+					"url": "https://t.co/TtXoy8dNZ4",
+					"display_url": "pic.twitter.com/TtXoy8dNZ4",
+					"expanded_url": "https://twitter.com/pigori/status/1124511586838646784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124511575476326400,
+					"id_str": "1124511575476326400",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D5sRUeoU0AADhy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5sRUeoU0AADhy2.jpg",
+					"url": "https://t.co/TtXoy8dNZ4",
+					"display_url": "pic.twitter.com/TtXoy8dNZ4",
+					"expanded_url": "https://twitter.com/pigori/status/1124511586838646784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "ピゴリ",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 100,
+			"listed_count": 15,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 8325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34418,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1540016887",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남초는 우경화 점령지네 뭐 거의...\n\n현대차 공장 근무기강이 개판이면 현대차 잘못이지\n민주노총은 왜 나오는데 https://t.co/TtXoy8dNZ4"
+	},
+	{
 		"created_at": "Sat May 04 06:54:17 +0000 2019",
 		"id": 1124567906535129100,
 		"id_str": "1124567906535129088",
