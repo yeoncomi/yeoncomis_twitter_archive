@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 23:15:46 +0000 2019",
+		"id": 1124762343903121400,
+		"id_str": "1124814907315183616",
+		"full_text": "@TeddyDief MARIJUANA MARCH TOKYO 2019.  #マリファナマーチ https://t.co/b4C96VuPHq",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "マリファナマーチ",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeddyDief",
+					"name": "TEDDY・DIEF",
+					"id": 188668717,
+					"id_str": "188668717",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124762304627667000,
+					"id_str": "1124762304627666949",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D5v1W1gU8AUtceq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5v1W1gU8AUtceq.jpg",
+					"url": "https://t.co/b4C96VuPHq",
+					"display_url": "pic.twitter.com/b4C96VuPHq",
+					"expanded_url": "https://twitter.com/420HERBAL/status/1124762343903121408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124762304627667000,
+					"id_str": "1124762304627666949",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D5v1W1gU8AUtceq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5v1W1gU8AUtceq.jpg",
+					"url": "https://t.co/b4C96VuPHq",
+					"display_url": "pic.twitter.com/b4C96VuPHq",
+					"expanded_url": "https://twitter.com/420HERBAL/status/1124762343903121408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124704033032138800,
+		"in_reply_to_status_id_str": "1124704033032138752",
+		"in_reply_to_user_id": 188668717,
+		"in_reply_to_user_id_str": "188668717",
+		"in_reply_to_screen_name": "TeddyDief",
+		"user": {
+			"id": 84117794,
+			"id_str": "84117794",
+			"name": "HERBAL　420 JAPAN",
+			"screen_name": "420HERBAL",
+			"location": "いまだに大麻が違法な唯一の先進国",
+			"description": "医療大麻の冷静な議論から始めよう。 大麻取締法は違憲。大麻取締法は人権侵害。 大麻ニュース CANNABIS FACTIVIST IN JAPAN . MARIJUANA MARCH TOKYO. タイ、オーストラリア、沖縄に住んでました。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5624,
+			"friends_count": 783,
+			"listed_count": 127,
+			"created_at": "Wed Oct 21 17:14:37 +0000 2009",
+			"favourites_count": 10418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14875,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4CD968",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2812851157/98359c467bd84f28d9766696149ceaa7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2812851157/98359c467bd84f28d9766696149ceaa7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84117794/1405426635",
+			"profile_link_color": "3D7508",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "88C36B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "@TeddyDief MARIJUANA MARCH TOKYO 2019.  #マリファナマーチ https://t.co/b4C96VuPHq"
+	},
+	{
 		"created_at": "Sat May 04 20:26:52 +0000 2019",
 		"id": 1124638421689995300,
 		"id_str": "1124772400225079296",
