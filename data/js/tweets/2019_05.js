@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 04:56:39 +0000 2019",
+		"id": 1124517948704510000,
+		"id_str": "1124538303993147393",
+		"full_text": "자유한국당 황교안 대표는 광주를 찾았다가 시민들로부터 거센 항의를 받은 것과 관련, \"특정 단체 회원들의 거친 항의도 있었지만 일반 광주시민의 목소리는 '제발 좀 살게 해주십시오'라는 외침뿐이었다\"고 4일 밝혔다. https://t.co/9wCnAyiawU 환청이 들리는듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wCnAyiawU",
+					"expanded_url": "https://news.v.daum.net/v/20190504110628286?f=m",
+					"display_url": "news.v.daum.net/v/201905041106…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14100332,
+			"id_str": "14100332",
+			"name": "so picky",
+			"screen_name": "so_picky",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52604,
+			"friends_count": 1368,
+			"listed_count": 484,
+			"created_at": "Sat Mar 08 14:14:45 +0000 2008",
+			"favourites_count": 1997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109046,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122411151470383105/8HUmuD-Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122411151470383105/8HUmuD-Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14100332/1355009242",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "D0D3D4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자유한국당 황교안 대표는 광주를 찾았다가 시민들로부터 거센 항의를 받은 것과 관련, \"특정 단체 회원들의 거친 항의도 있었지만 일반 광주시민의 목소리는 '제발 좀 살게 해주십시오'라는 외침뿐이었다\"고 4일 밝혔다. https://t.co/9wCnAyiawU 환청이 들리는듯"
+	},
+	{
+		"created_at": "Sat May 04 04:56:14 +0000 2019",
+		"id": 1121354483118698500,
+		"id_str": "1124538198862942208",
+		"full_text": "https://t.co/C7W4V21U3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121354480195211300,
+					"id_str": "1121354480195211265",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4_Z9WNUEAE8P6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4_Z9WNUEAE8P6a.jpg",
+					"url": "https://t.co/C7W4V21U3H",
+					"display_url": "pic.twitter.com/C7W4V21U3H",
+					"expanded_url": "https://twitter.com/ygKSw469uX38uU8/status/1121354483118698496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121354480195211300,
+					"id_str": "1121354480195211265",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D4_Z9WNUEAE8P6a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4_Z9WNUEAE8P6a.jpg",
+					"url": "https://t.co/C7W4V21U3H",
+					"display_url": "pic.twitter.com/C7W4V21U3H",
+					"expanded_url": "https://twitter.com/ygKSw469uX38uU8/status/1121354483118698496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1103652207277203500,
+			"id_str": "1103652207277203457",
+			"name": "깔깔갤러리",
+			"screen_name": "ygKSw469uX38uU8",
+			"location": "중복이 있을수도 있음/마음함을 보세요",
+			"description": "짤제보 하고싶으면 주세요 단 내가 노잼이면 안올림",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59036,
+			"friends_count": 0,
+			"listed_count": 99,
+			"created_at": "Thu Mar 07 13:42:45 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 422,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112717877566558208/59L-vEko_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112717877566558208/59L-vEko_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7980,
+		"favorite_count": 1834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/C7W4V21U3H"
+	},
+	{
+		"created_at": "Sat May 04 04:49:31 +0000 2019",
+		"id": 1124398937572401200,
+		"id_str": "1124536511033106432",
+		"full_text": "그리고 이 기자가 바로 그 '이대남' 기사를 올린 기자인데,\n고대가 이대에게 &lt;어떠한 이유&gt;로 난동을 부리고 사건이 터지며, \n여성혐오 및 성폭력을 저질렀는지를 생각하며\n명품을 치장하는 남자에게 '이대남' 이라는 수식어를 붙인다 라는 기사를 보면 정말 한결같이 마초적이고 저급하지 않은가 https://t.co/QPt1qhMow2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124398932396691500,
+					"id_str": "1124398932396691456",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D5qq3ydVUAAIGXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5qq3ydVUAAIGXi.jpg",
+					"url": "https://t.co/QPt1qhMow2",
+					"display_url": "pic.twitter.com/QPt1qhMow2",
+					"expanded_url": "https://twitter.com/crzyatsprdafam/status/1124398937572401152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1277,
+							"h": 867,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 815,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124398932396691500,
+					"id_str": "1124398932396691456",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D5qq3ydVUAAIGXi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5qq3ydVUAAIGXi.jpg",
+					"url": "https://t.co/QPt1qhMow2",
+					"display_url": "pic.twitter.com/QPt1qhMow2",
+					"expanded_url": "https://twitter.com/crzyatsprdafam/status/1124398937572401152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1277,
+							"h": 867,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 815,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124398930609836000,
+		"in_reply_to_status_id_str": "1124398930609836032",
+		"in_reply_to_user_id": 1110624144436019200,
+		"in_reply_to_user_id_str": "1110624144436019202",
+		"in_reply_to_screen_name": "crzyatsprdafam",
+		"user": {
+			"id": 1110624144436019200,
+			"id_str": "1110624144436019202",
+			"name": "👿판디디😈",
+			"screen_name": "crzyatsprdafam",
+			"location": "",
+			"description": "본계 @88mmmkk 본계는 게임 언급 잘 없습니다ㅠ \n / 20⬆️ 성인입니다 / 게임계/\n데메크와 그 외 게임 얘기들만 거의 하려고 노력하고 리트윗도 데메크 플4 게임 위주입니다😈😈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Tue Mar 26 19:26:45 +0000 2019",
+			"favourites_count": 2714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2492,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120786789721972736/CA_msmt3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120786789721972736/CA_msmt3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110624144436019202/1553628825",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1796,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고 이 기자가 바로 그 '이대남' 기사를 올린 기자인데,\n고대가 이대에게 &lt;어떠한 이유&gt;로 난동을 부리고 사건이 터지며, \n여성혐오 및 성폭력을 저질렀는지를 생각하며\n명품을 치장하는 남자에게 '이대남' 이라는 수식어를 붙인다 라는 기사를 보면 정말 한결같이 마초적이고 저급하지 않은가 https://t.co/QPt1qhMow2"
+	},
+	{
+		"created_at": "Sat May 04 04:48:51 +0000 2019",
+		"id": 1124221626067734500,
+		"id_str": "1124536341608316929",
+		"full_text": "사나가 데뷔는 커녕 연습생 시절도 아니던, 15살 일반인 여중생 시절 트위터에 쓴 트윗.(방송에서 언급한 실제 사용했던 계정임)\n“한국 흥미있어 가고싶어 가고싶어”\nㅋㅋㅋ이런 애보고 혐한이다, 음침하다, 출근길에 눈물 흘리는거 노림수다 하는 모 커뮤니티 이용자들 보면 이제 헛웃음 밖에 안나옴. https://t.co/WZkqFglPAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124221608753647600,
+					"id_str": "1124221608753647616",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oJmMaUUAAmdjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oJmMaUUAAmdjN.jpg",
+					"url": "https://t.co/WZkqFglPAI",
+					"display_url": "pic.twitter.com/WZkqFglPAI",
+					"expanded_url": "https://twitter.com/ahuhxhxh/status/1124221626067734528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124221608753647600,
+					"id_str": "1124221608753647616",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oJmMaUUAAmdjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oJmMaUUAAmdjN.jpg",
+					"url": "https://t.co/WZkqFglPAI",
+					"display_url": "pic.twitter.com/WZkqFglPAI",
+					"expanded_url": "https://twitter.com/ahuhxhxh/status/1124221626067734528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 727,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124221608749555700,
+					"id_str": "1124221608749555712",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oJmMZV4AAsUET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oJmMZV4AAsUET.jpg",
+					"url": "https://t.co/WZkqFglPAI",
+					"display_url": "pic.twitter.com/WZkqFglPAI",
+					"expanded_url": "https://twitter.com/ahuhxhxh/status/1124221626067734528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 847,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124221608749457400,
+					"id_str": "1124221608749457408",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oJmMZUYAATo9t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oJmMZUYAATo9t.jpg",
+					"url": "https://t.co/WZkqFglPAI",
+					"display_url": "pic.twitter.com/WZkqFglPAI",
+					"expanded_url": "https://twitter.com/ahuhxhxh/status/1124221626067734528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 797431460479148000,
+			"id_str": "797431460479148032",
+			"name": "🔥미나토핫키🔥",
+			"screen_name": "ahuhxhxh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 112,
+			"listed_count": 0,
+			"created_at": "Sat Nov 12 13:30:50 +0000 2016",
+			"favourites_count": 1094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4256,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122578961437847552/mPoCUGe0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122578961437847552/mPoCUGe0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/797431460479148032/1556478614",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사나가 데뷔는 커녕 연습생 시절도 아니던, 15살 일반인 여중생 시절 트위터에 쓴 트윗.(방송에서 언급한 실제 사용했던 계정임)\n“한국 흥미있어 가고싶어 가고싶어”\nㅋㅋㅋ이런 애보고 혐한이다, 음침하다, 출근길에 눈물 흘리는거 노림수다 하는 모 커뮤니티 이용자들 보면 이제 헛웃음 밖에 안나옴. https://t.co/WZkqFglPAI"
+	},
+	{
+		"created_at": "Sat May 04 04:46:35 +0000 2019",
+		"id": 1122694361152491500,
+		"id_str": "1124535770683924480",
+		"full_text": "어벤져스 새끼들 거 9호선 출근시간 급행 한번만 타보면 눈물 흘리면서 타노스님의 사상에 공감하게 될 것임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229794866,
+			"id_str": "229794866",
+			"name": "김에밀",
+			"screen_name": "Peria1024",
+			"location": "Heroes No.30",
+			"description": "🔑😭 히어로즈 🙆‍♀️🙆‍♂️ 탬파베이 레이스 리버풀 FC 병욱단 / Red Velvet",
+			"url": "https://t.co/pjrC6N06cv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjrC6N06cv",
+							"expanded_url": "http://peria1024.tistory.com",
+							"display_url": "peria1024.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1030,
+			"friends_count": 231,
+			"listed_count": 21,
+			"created_at": "Thu Dec 23 10:23:50 +0000 2010",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229154,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124089250155311104/yAzy-d7u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124089250155311104/yAzy-d7u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229794866/1398354745",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4052,
+		"favorite_count": 806,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어벤져스 새끼들 거 9호선 출근시간 급행 한번만 타보면 눈물 흘리면서 타노스님의 사상에 공감하게 될 것임"
+	},
+	{
+		"created_at": "Sat May 04 04:46:05 +0000 2019",
+		"id": 1123464126062374900,
+		"id_str": "1124535647413260289",
+		"full_text": "어벤져스 캐릭터 지역별 선호도라는데 서부하고 중남부ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그 와중에 캡마 7개 지역 먹은 거 너무 대단하고🤭🤭 https://t.co/ExPBrolajO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123464111587778600,
+					"id_str": "1123464111587778562",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D5dYqDkW4AI6Qfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5dYqDkW4AI6Qfs.jpg",
+					"url": "https://t.co/ExPBrolajO",
+					"display_url": "pic.twitter.com/ExPBrolajO",
+					"expanded_url": "https://twitter.com/flavor_11/status/1123464126062374913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 943,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123464111587778600,
+					"id_str": "1123464111587778562",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D5dYqDkW4AI6Qfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5dYqDkW4AI6Qfs.jpg",
+					"url": "https://t.co/ExPBrolajO",
+					"display_url": "pic.twitter.com/ExPBrolajO",
+					"expanded_url": "https://twitter.com/flavor_11/status/1123464126062374913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 943,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090223833863221200,
+			"id_str": "1090223833863221254",
+			"name": "맛👻",
+			"screen_name": "flavor_11",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39,
+			"friends_count": 24,
+			"listed_count": 0,
+			"created_at": "Tue Jan 29 12:23:12 +0000 2019",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 795,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090226536249085953/f2GUu57P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090226536249085953/f2GUu57P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090223833863221254/1548951933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2578,
+		"favorite_count": 1042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어벤져스 캐릭터 지역별 선호도라는데 서부하고 중남부ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그 와중에 캡마 7개 지역 먹은 거 너무 대단하고🤭🤭 https://t.co/ExPBrolajO"
+	},
+	{
+		"created_at": "Sat May 04 04:45:24 +0000 2019",
+		"id": 1123936524205207600,
+		"id_str": "1124535474284945409",
+		"full_text": "마블 게섯거라! '한국형 어벤져스' 나가신다!\n\n캡틴 엄복동\n코리안 스트레인지 https://t.co/8cF2FYY0Jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123936136081100800,
+					"id_str": "1123936136081100800",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kF9f1W0AANR1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kF9f1W0AANR1E.jpg",
+					"url": "https://t.co/8cF2FYY0Jo",
+					"display_url": "pic.twitter.com/8cF2FYY0Jo",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1123936524205207554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123936136081100800,
+					"id_str": "1123936136081100800",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kF9f1W0AANR1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kF9f1W0AANR1E.jpg",
+					"url": "https://t.co/8cF2FYY0Jo",
+					"display_url": "pic.twitter.com/8cF2FYY0Jo",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1123936524205207554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123936152837341200,
+					"id_str": "1123936152837341186",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kF-eQWwAIkOWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kF-eQWwAIkOWW.jpg",
+					"url": "https://t.co/8cF2FYY0Jo",
+					"display_url": "pic.twitter.com/8cF2FYY0Jo",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1123936524205207554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 758667030,
+			"id_str": "758667030",
+			"name": "신코",
+			"screen_name": "Futaba_Sinco_L",
+			"location": "#죽창이_꿈꾸는_세상",
+			"description": "종합방송인 \n매일 오전9시부터 오후6시까지 twitch에서 만나요!  \n유튜브도 구독과 좋아요 알람설정까지 알지? \n광고문의는 DM.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1911,
+			"friends_count": 3479,
+			"listed_count": 27,
+			"created_at": "Wed Aug 15 05:45:02 +0000 2012",
+			"favourites_count": 28610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147395,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758667030/1470842476",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마블 게섯거라! '한국형 어벤져스' 나가신다!\n\n캡틴 엄복동\n코리안 스트레인지 https://t.co/8cF2FYY0Jo"
+	},
+	{
 		"created_at": "Sat May 04 03:23:03 +0000 2019",
 		"id": 1124514748333154300,
 		"id_str": "1124514748333154304",
