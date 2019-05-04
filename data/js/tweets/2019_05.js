@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 03:03:48 +0000 2019",
+		"id": 1123983814131425300,
+		"id_str": "1124509906000797696",
+		"full_text": "애널에서 물나오는 병 https://t.co/sRXRVIZWZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123983719964999700,
+					"id_str": "1123983719964999680",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kxPPnWAAAfKPm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5kxPPnWAAAfKPm.png",
+					"url": "https://t.co/sRXRVIZWZ7",
+					"display_url": "pic.twitter.com/sRXRVIZWZ7",
+					"expanded_url": "https://twitter.com/_kyusss/status/1123983814131425280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1329,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123983719964999700,
+					"id_str": "1123983719964999680",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kxPPnWAAAfKPm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5kxPPnWAAAfKPm.png",
+					"url": "https://t.co/sRXRVIZWZ7",
+					"display_url": "pic.twitter.com/sRXRVIZWZ7",
+					"expanded_url": "https://twitter.com/_kyusss/status/1123983814131425280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1329,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051503288103759900,
+			"id_str": "1051503288103759872",
+			"name": "규스",
+			"screen_name": "_kyusss",
+			"location": "大 田 市",
+			"description": "구독계안받음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 166,
+			"listed_count": 0,
+			"created_at": "Sun Oct 14 16:01:34 +0000 2018",
+			"favourites_count": 2243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4712,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118808984469643264/8P7JEW0a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118808984469643264/8P7JEW0a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051503288103759872/1555555387",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2856,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애널에서 물나오는 병 https://t.co/sRXRVIZWZ7"
+	},
+	{
+		"created_at": "Sat May 04 02:45:32 +0000 2019",
+		"id": 1124505142101831700,
+		"id_str": "1124505306933841920",
+		"full_text": "이쯤되면 저 회사 주석에 // 아직 늦지 않았어 지금이라도 탈출해\n\n적혀있을듯 https://t.co/YizFogxpwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124505130445881300,
+					"id_str": "1124505130445881344",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D5sLdVBUwAAyjPq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5sLdVBUwAAyjPq.jpg",
+					"url": "https://t.co/YizFogxpwz",
+					"display_url": "pic.twitter.com/YizFogxpwz",
+					"expanded_url": "https://twitter.com/perillamint/status/1124505142101831680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124505130445881300,
+					"id_str": "1124505130445881344",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D5sLdVBUwAAyjPq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5sLdVBUwAAyjPq.jpg",
+					"url": "https://t.co/YizFogxpwz",
+					"display_url": "pic.twitter.com/YizFogxpwz",
+					"expanded_url": "https://twitter.com/perillamint/status/1124505142101831680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1311,
+			"friends_count": 847,
+			"listed_count": 73,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177588,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이쯤되면 저 회사 주석에 // 아직 늦지 않았어 지금이라도 탈출해\n\n적혀있을듯 https://t.co/YizFogxpwz"
+	},
+	{
+		"created_at": "Sat May 04 02:38:49 +0000 2019",
+		"id": 1124072033514606600,
+		"id_str": "1124503619716280326",
+		"full_text": "https://t.co/6tRYyGgsrm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124072031144824800,
+					"id_str": "1124072031144824832",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D5mBjoZW0AAz8Nq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5mBjoZW0AAz8Nq.jpg",
+					"url": "https://t.co/6tRYyGgsrm",
+					"display_url": "pic.twitter.com/6tRYyGgsrm",
+					"expanded_url": "https://twitter.com/thememebookoc/status/1124072033514606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124072031144824800,
+					"id_str": "1124072031144824832",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D5mBjoZW0AAz8Nq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5mBjoZW0AAz8Nq.jpg",
+					"url": "https://t.co/6tRYyGgsrm",
+					"display_url": "pic.twitter.com/6tRYyGgsrm",
+					"expanded_url": "https://twitter.com/thememebookoc/status/1124072033514606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 975024183594901500,
+			"id_str": "975024183594901504",
+			"name": "The Meme Book",
+			"screen_name": "thememebookoc",
+			"location": "🅱️",
+			"description": "Disclaimer - We do not own all content that is upload to this account.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77623,
+			"friends_count": 7,
+			"listed_count": 110,
+			"created_at": "Sat Mar 17 15:00:55 +0000 2018",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975025185752539136/1ASvcGp4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975025185752539136/1ASvcGp4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/975024183594901504/1521299093",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2099,
+		"favorite_count": 7064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/6tRYyGgsrm"
+	},
+	{
 		"created_at": "Sat May 04 02:12:21 +0000 2019",
 		"id": 1124496955726368800,
 		"id_str": "1124496955726368768",
