@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 14:11:28 +0000 2019",
+		"id": 1124649898920386600,
+		"id_str": "1124677927591759873",
+		"full_text": "불꽃놀이 후기: 아크원자로 터짐 https://t.co/iPx3o1REDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124649857115803600,
+					"id_str": "1124649857115803648",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D5uPFh4U0AAedyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5uPFh4U0AAedyI.jpg",
+					"url": "https://t.co/iPx3o1REDq",
+					"display_url": "pic.twitter.com/iPx3o1REDq",
+					"expanded_url": "https://twitter.com/L_Phase/status/1124649898920386560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1199,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124649857115803600,
+					"id_str": "1124649857115803648",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D5uPFh4U0AAedyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5uPFh4U0AAedyI.jpg",
+					"url": "https://t.co/iPx3o1REDq",
+					"display_url": "pic.twitter.com/iPx3o1REDq",
+					"expanded_url": "https://twitter.com/L_Phase/status/1124649898920386560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1199,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 760892320011001900,
+			"id_str": "760892320011001856",
+			"name": "Lenia 🌮",
+			"screen_name": "L_Phase",
+			"location": "Samsung",
+			"description": "Tacoscape Photographer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 666,
+			"friends_count": 627,
+			"listed_count": 29,
+			"created_at": "Wed Aug 03 17:37:20 +0000 2016",
+			"favourites_count": 10665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 322072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119520195477790721/8dcMaVLS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119520195477790721/8dcMaVLS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/760892320011001856/1541259526",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "불꽃놀이 후기: 아크원자로 터짐 https://t.co/iPx3o1REDq"
+	},
+	{
+		"created_at": "Sat May 04 14:00:20 +0000 2019",
+		"id": 1124240309267730400,
+		"id_str": "1124675126342049794",
+		"full_text": "믿기어렵겠지만....라이터 가스 충전구를 몰카라고 트위터에 올리셨던 여성분의 사진을 보면 아디팩스란 약이 있는데.  이것은 강력한 비만 치료제로 남용하게 되면 망상, 환각증상이 일어납니다. https://t.co/ZpytxeSAU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124239953662058500,
+					"id_str": "1124239953662058496",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oaSAhUIAAdctp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oaSAhUIAAdctp.jpg",
+					"url": "https://t.co/ZpytxeSAU8",
+					"display_url": "pic.twitter.com/ZpytxeSAU8",
+					"expanded_url": "https://twitter.com/lovecat8046/status/1124240309267730432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 558,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 316,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 1338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124239953662058500,
+					"id_str": "1124239953662058496",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oaSAhUIAAdctp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oaSAhUIAAdctp.jpg",
+					"url": "https://t.co/ZpytxeSAU8",
+					"display_url": "pic.twitter.com/ZpytxeSAU8",
+					"expanded_url": "https://twitter.com/lovecat8046/status/1124240309267730432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 558,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 316,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 1338,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124239966635057200,
+					"id_str": "1124239966635057153",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D5oaSw2UYAEKayP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5oaSw2UYAEKayP.jpg",
+					"url": "https://t.co/ZpytxeSAU8",
+					"display_url": "pic.twitter.com/ZpytxeSAU8",
+					"expanded_url": "https://twitter.com/lovecat8046/status/1124240309267730432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 891,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 891,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734208066883702800,
+			"id_str": "734208066883702784",
+			"name": "애묘마왕",
+			"screen_name": "lovecat8046",
+			"location": "",
+			"description": "라이프스타일",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 6,
+			"listed_count": 15,
+			"created_at": "Sun May 22 02:23:38 +0000 2016",
+			"favourites_count": 281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2747,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123766422994395137/fAO7K3eW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123766422994395137/fAO7K3eW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734208066883702784/1556753994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "믿기어렵겠지만....라이터 가스 충전구를 몰카라고 트위터에 올리셨던 여성분의 사진을 보면 아디팩스란 약이 있는데.  이것은 강력한 비만 치료제로 남용하게 되면 망상, 환각증상이 일어납니다. https://t.co/ZpytxeSAU8"
+	},
+	{
 		"created_at": "Sat May 04 08:09:30 +0000 2019",
 		"id": 1124541145596301300,
 		"id_str": "1124586835395563522",
@@ -833,7 +1191,7 @@ Grailbird.data.tweets_2019_05 =
 		"user": {
 			"id": 80697039,
 			"id_str": "80697039",
-			"name": "Sunjun Kim @ 🇫🇮🇰🇷🏳️‍🌈",
+			"name": "Sunjun Kim @ 🇫🇮🇰🇷🏳️🌈",
 			"screen_name": "sunjun_kim",
 			"location": "Espoo, Suomi",
 			"description": "Postdoc Researcher, Human-Computer Interaction, 핀란드 거주, 페미니즘 지지자. 성 소수자 커플의 법적 권리 보장을 지지합니다.",
