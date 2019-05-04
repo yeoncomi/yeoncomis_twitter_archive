@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 23:36:55 +0000 2019",
+		"id": 1124027042331267100,
+		"id_str": "1124457843233443840",
+		"full_text": "DMs should be end-to-end encrypted. #FixItAlready, @Twitter.\nhttps://t.co/R3Oo0FbRwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FixItAlready",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R3Oo0FbRwx",
+					"expanded_url": "https://fixitalready.eff.org/twitter",
+					"display_url": "fixitalready.eff.org/twitter",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18466967,
+			"id_str": "18466967",
+			"name": "The Tor Project",
+			"screen_name": "torproject",
+			"location": "Everywhere",
+			"description": "We advance human rights and defend your privacy online. Download Tor Browser for protection against tracking, surveillance, and censorship.",
+			"url": "https://t.co/7C0pADprIC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7C0pADprIC",
+							"expanded_url": "https://www.torproject.org/",
+							"display_url": "torproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293204,
+			"friends_count": 1320,
+			"listed_count": 5291,
+			"created_at": "Tue Dec 30 02:26:02 +0000 2008",
+			"favourites_count": 8287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7641,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "009933",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054712414929850368/m7aqWHm1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054712414929850368/m7aqWHm1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18466967/1553711024",
+			"profile_link_color": "68B030",
+			"profile_sidebar_border_color": "ECEAC7",
+			"profile_sidebar_fill_color": "ECEAC7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DMs should be end-to-end encrypted. #FixItAlready, @Twitter.\nhttps://t.co/R3Oo0FbRwx"
+	},
+	{
+		"created_at": "Fri May 03 23:35:45 +0000 2019",
+		"id": 1124187394784161800,
+		"id_str": "1124457549866995713",
+		"full_text": "단국대 물리학 교수님\n케장콘 쓰면 케장콘으로 답변해주심\nㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋ https://t.co/BQQZZHo9jA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124187388270399500,
+					"id_str": "1124187388270399488",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nqeTLU0AAftmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nqeTLU0AAftmP.jpg",
+					"url": "https://t.co/BQQZZHo9jA",
+					"display_url": "pic.twitter.com/BQQZZHo9jA",
+					"expanded_url": "https://twitter.com/LIShikaT/status/1124187394784161794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124187388270399500,
+					"id_str": "1124187388270399488",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nqeTLU0AAftmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nqeTLU0AAftmP.jpg",
+					"url": "https://t.co/BQQZZHo9jA",
+					"display_url": "pic.twitter.com/BQQZZHo9jA",
+					"expanded_url": "https://twitter.com/LIShikaT/status/1124187394784161794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807212008642777100,
+			"id_str": "807212008642777089",
+			"name": "삐부삐부 으앙모름",
+			"screen_name": "LIShikaT",
+			"location": "Fulham, London, England",
+			"description": "두덩두덩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 172,
+			"listed_count": 3,
+			"created_at": "Fri Dec 09 13:15:14 +0000 2016",
+			"favourites_count": 837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14209,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995873218589179904/rhjkJCJR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995873218589179904/rhjkJCJR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807212008642777089/1516211353",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11814,
+		"favorite_count": 3713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "단국대 물리학 교수님\n케장콘 쓰면 케장콘으로 답변해주심\nㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㄱㅋㄱㅋ https://t.co/BQQZZHo9jA"
+	},
+	{
 		"created_at": "Fri May 03 22:33:39 +0000 2019",
 		"id": 1124215889736241200,
 		"id_str": "1124441920019681280",
