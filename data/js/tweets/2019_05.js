@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 05:43:27 +0000 2019",
+		"id": 1124522798511116300,
+		"id_str": "1124550081955319808",
+		"full_text": "7년 전부터 보이는 이야기같은데... 서드파티 앱 권한 설정은 딱 세가지입니다\n* 읽기\n* 읽기, 쓰기 (삭제 포함)\n* 읽기, 쓰기, DM\n이렇게 3개가 선택지로 되어있기때문에...... 여기서 개발자가 할 수 없는 걸 굳이 명시하려 해도 할 수 없는 형태입니다. (cont\nhttps://t.co/UETSRDiQns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UETSRDiQns",
+					"expanded_url": "https://twitter.com/volopacem/status/1124144171839672320",
+					"display_url": "twitter.com/volopacem/stat…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://theworld09.com\" rel=\"nofollow\">from TheWorld</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "종이 aka hibiya",
+			"screen_name": "hibiyasleep",
+			"location": "사키히비 4/5",
+			"description": "파산 #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 776,
+			"friends_count": 864,
+			"listed_count": 25,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 19186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 758382,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112218313294123008/xvY_stjd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112218313294123008/xvY_stjd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1556462480",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124144171839672300,
+		"quoted_status_id_str": "1124144171839672320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UETSRDiQns",
+			"expanded": "https://twitter.com/volopacem/status/1124144171839672320",
+			"display": "twitter.com/volopacem/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 03 02:50:30 +0000 2019",
+			"id": 1124144171839672300,
+			"id_str": "1124144171839672320",
+			"full_text": "어제 자기전에 트윗청소기 쓰려다 안 썼음. 항목 자세히 보세요. 제 프로필 업데이트 가능함. 누굴 팔로우하는지, 누가 나 팔로우하는지 볼수 있음. 나를 대신해 트윗을 작성할수 있음. 궁극적으로 맘접게 한건 ‘DM 볼수 있음’ 이거였다. https://t.co/otwiDFIELk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124144165393129500,
+						"id_str": "1124144165393129472",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nDKZaV4AAxTUd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nDKZaV4AAxTUd.jpg",
+						"url": "https://t.co/otwiDFIELk",
+						"display_url": "pic.twitter.com/otwiDFIELk",
+						"expanded_url": "https://twitter.com/volopacem/status/1124144171839672320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124144165393129500,
+						"id_str": "1124144165393129472",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nDKZaV4AAxTUd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nDKZaV4AAxTUd.jpg",
+						"url": "https://t.co/otwiDFIELk",
+						"display_url": "pic.twitter.com/otwiDFIELk",
+						"expanded_url": "https://twitter.com/volopacem/status/1124144171839672320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134571129,
+				"id_str": "134571129",
+				"name": "풍채가 좋아진 Mich",
+				"screen_name": "volopacem",
+				"location": "",
+				"description": "Feminist. Data.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 772,
+				"friends_count": 468,
+				"listed_count": 2,
+				"created_at": "Sun Apr 18 20:36:39 +0000 2010",
+				"favourites_count": 43059,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8189,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988333950782205952/Vliu-J3R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988333950782205952/Vliu-J3R_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3122,
+			"favorite_count": 379,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 44,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7년 전부터 보이는 이야기같은데... 서드파티 앱 권한 설정은 딱 세가지입니다\n* 읽기\n* 읽기, 쓰기 (삭제 포함)\n* 읽기, 쓰기, DM\n이렇게 3개가 선택지로 되어있기때문에...... 여기서 개발자가 할 수 없는 걸 굳이 명시하려 해도 할 수 없는 형태입니다. (cont\nhttps://t.co/UETSRDiQns"
+	},
+	{
+		"created_at": "Sat May 04 05:39:16 +0000 2019",
+		"id": 1124549030644572200,
+		"id_str": "1124549030644572160",
+		"full_text": "@hibiyasleep @sokcuri ESP32용클라이언트 개발하려다가 아직도 약 1년째 approval이 안뜨네요",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "종이 aka hibiya",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sokcuri",
+					"name": "sokcuri",
+					"id": 1083486550132834300,
+					"id_str": "1083486550132834305",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124524798128738300,
+		"in_reply_to_status_id_str": "1124524798128738304",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1041,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34207,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep @sokcuri ESP32용클라이언트 개발하려다가 아직도 약 1년째 approval이 안뜨네요"
+	},
+	{
 		"created_at": "Sat May 04 04:56:39 +0000 2019",
 		"id": 1124517948704510000,
 		"id_str": "1124538303993147393",
@@ -675,7 +1050,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "김에밀",
 			"screen_name": "Peria1024",
 			"location": "Heroes No.30",
-			"description": "🔑😭 히어로즈 🙆‍♀️🙆‍♂️ 탬파베이 레이스 리버풀 FC 병욱단 / Red Velvet",
+			"description": "🔑😭 히어로즈 🙆♀️🙆♂️ 탬파베이 레이스 리버풀 FC 병욱단 / Red Velvet",
 			"url": "https://t.co/pjrC6N06cv",
 			"entities": {
 				"url": {
