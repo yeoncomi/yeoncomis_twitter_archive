@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 17:53:36 +0000 2019",
+		"id": 1125093628853071900,
+		"id_str": "1125096219154370560",
+		"full_text": "“자네 장모님 계신 곳으로 보내주겠네.”\n처갓집 치킨 먹으며 나르코스 s3를 봤더니 계속 저런 생각만 든다.\n#처돌이 https://t.co/O5QgJkLOBs https://t.co/JxP3FTacO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "처돌이",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O5QgJkLOBs",
+					"expanded_url": "http://bit.ly/2UXymUN",
+					"display_url": "bit.ly/2UXymUN",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125093627661836300,
+					"id_str": "1125093627661836289",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D50isX_W4AEaaSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D50isX_W4AEaaSu.jpg",
+					"url": "https://t.co/JxP3FTacO2",
+					"display_url": "pic.twitter.com/JxP3FTacO2",
+					"expanded_url": "https://twitter.com/nimishel/status/1125093628853071872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125093627661836300,
+					"id_str": "1125093627661836289",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D50isX_W4AEaaSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D50isX_W4AEaaSu.jpg",
+					"url": "https://t.co/JxP3FTacO2",
+					"display_url": "pic.twitter.com/JxP3FTacO2",
+					"expanded_url": "https://twitter.com/nimishel/status/1125093628853071872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57837980,
+			"id_str": "57837980",
+			"name": "nimishel",
+			"screen_name": "nimishel",
+			"location": "",
+			"description": "머리 안에 잔돈 밖에 안 들어있어서 잘그락거리는 소리가 납니다. 잘그락잘그락",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 1394,
+			"listed_count": 16,
+			"created_at": "Sat Jul 18 03:08:11 +0000 2009",
+			"favourites_count": 24289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102451923125301253/bf08K1w__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102451923125301253/bf08K1w__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57837980/1547610092",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "“자네 장모님 계신 곳으로 보내주겠네.”\n처갓집 치킨 먹으며 나르코스 s3를 봤더니 계속 저런 생각만 든다.\n#처돌이 https://t.co/O5QgJkLOBs https://t.co/JxP3FTacO2"
+	},
+	{
 		"created_at": "Sun May 05 09:33:31 +0000 2019",
 		"id": 1124938223950549000,
 		"id_str": "1124970367385198593",
