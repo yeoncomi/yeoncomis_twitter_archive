@@ -1,6 +1,696 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 19:16:44 +0000 2019",
+		"id": 1125114074683981800,
+		"id_str": "1125117139092852736",
+		"full_text": "B.C. Greens target use of tax money for Liberal political attack billboards https://t.co/zudi6fXCE7 https://t.co/xoooPSCChF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zudi6fXCE7",
+					"expanded_url": "http://dlvr.it/R46VY3",
+					"display_url": "dlvr.it/R46VY3",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125114072905633800,
+					"id_str": "1125114072905633792",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D501ScdVUAA85zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D501ScdVUAA85zb.jpg",
+					"url": "https://t.co/xoooPSCChF",
+					"display_url": "pic.twitter.com/xoooPSCChF",
+					"expanded_url": "https://twitter.com/globeandmail/status/1125114074683981824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125114072905633800,
+					"id_str": "1125114072905633792",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D501ScdVUAA85zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D501ScdVUAA85zb.jpg",
+					"url": "https://t.co/xoooPSCChF",
+					"display_url": "pic.twitter.com/xoooPSCChF",
+					"expanded_url": "https://twitter.com/globeandmail/status/1125114074683981824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1757926,
+			"friends_count": 557,
+			"listed_count": 14233,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 456945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "B.C. Greens target use of tax money for Liberal political attack billboards https://t.co/zudi6fXCE7 https://t.co/xoooPSCChF"
+	},
+	{
+		"created_at": "Sun May 05 19:14:43 +0000 2019",
+		"id": 1125097665211985900,
+		"id_str": "1125116631477133312",
+		"full_text": "NTFS에서 섞인 파일 140000개중에 중복된 파일 체크해야하는 현재 상태 https://t.co/7O1A2BZcD9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125097488128495600,
+					"id_str": "1125097488128495616",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D50mNFWVUAAjJQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D50mNFWVUAAjJQc.jpg",
+					"url": "https://t.co/7O1A2BZcD9",
+					"display_url": "pic.twitter.com/7O1A2BZcD9",
+					"expanded_url": "https://twitter.com/_Akamig/status/1125097665211985920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125097488128495600,
+					"id_str": "1125097488128495616",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D50mNFWVUAAjJQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D50mNFWVUAAjJQc.jpg",
+					"url": "https://t.co/7O1A2BZcD9",
+					"display_url": "pic.twitter.com/7O1A2BZcD9",
+					"expanded_url": "https://twitter.com/_Akamig/status/1125097665211985920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154702781,
+			"id_str": "154702781",
+			"name": "Akamig",
+			"screen_name": "_Akamig",
+			"location": "Glitch City",
+			"description": "Not Akaming Currently / Music / Programming / Electronics / Synthesizer / Games / Reddit / Translate / VA-11 HALL-A",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 750,
+			"listed_count": 44,
+			"created_at": "Sat Jun 12 00:13:43 +0000 2010",
+			"favourites_count": 5515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 141979,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124366609047379968/fbswxZt0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124366609047379968/fbswxZt0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154702781/1522600437",
+			"profile_link_color": "FF007A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0AA8D",
+			"profile_text_color": "F9C098",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NTFS에서 섞인 파일 140000개중에 중복된 파일 체크해야하는 현재 상태 https://t.co/7O1A2BZcD9"
+	},
+	{
+		"created_at": "Sun May 05 19:13:12 +0000 2019",
+		"id": 1124973509308895200,
+		"id_str": "1125116250936365056",
+		"full_text": "속보) 경기도 부천, 제 5 로마 선언 https://t.co/WU2AlVjMxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124973495849349100,
+					"id_str": "1124973495849349122",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D5y1byHUcAIoeWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5y1byHUcAIoeWu.jpg",
+					"url": "https://t.co/WU2AlVjMxe",
+					"display_url": "pic.twitter.com/WU2AlVjMxe",
+					"expanded_url": "https://twitter.com/HailtheVader/status/1124973509308895233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124973495849349100,
+					"id_str": "1124973495849349122",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D5y1byHUcAIoeWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5y1byHUcAIoeWu.jpg",
+					"url": "https://t.co/WU2AlVjMxe",
+					"display_url": "pic.twitter.com/WU2AlVjMxe",
+					"expanded_url": "https://twitter.com/HailtheVader/status/1124973509308895233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040833979333537800,
+			"id_str": "1040833979333537792",
+			"name": "이과빌런",
+			"screen_name": "HailtheVader",
+			"location": "쥐트티롤 어딘가",
+			"description": "00년생 이과빌런/판도학 전문 역덕/오스트리아 빠돌이/죽은 스타워즈 ㅂㄹ만지는중/ㅈ르비아 범슬라브주의자 밴",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 89,
+			"listed_count": 1,
+			"created_at": "Sat Sep 15 05:25:33 +0000 2018",
+			"favourites_count": 1879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1264,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112387130947334144/r6_22rE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112387130947334144/r6_22rE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040833979333537792/1554048734",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보) 경기도 부천, 제 5 로마 선언 https://t.co/WU2AlVjMxe"
+	},
+	{
+		"created_at": "Sun May 05 19:12:00 +0000 2019",
+		"id": 1124777105986732000,
+		"id_str": "1125115948531208192",
+		"full_text": "🤔？ https://t.co/MihC06pPmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124777098168520700,
+					"id_str": "1124777098168520704",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/D5wCz7vUUAA7Wh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5wCz7vUUAA7Wh3.jpg",
+					"url": "https://t.co/MihC06pPmb",
+					"display_url": "pic.twitter.com/MihC06pPmb",
+					"expanded_url": "https://twitter.com/tokkyo/status/1124777105986732033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124777098168520700,
+					"id_str": "1124777098168520704",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/D5wCz7vUUAA7Wh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5wCz7vUUAA7Wh3.jpg",
+					"url": "https://t.co/MihC06pPmb",
+					"display_url": "pic.twitter.com/MihC06pPmb",
+					"expanded_url": "https://twitter.com/tokkyo/status/1124777105986732033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4873941,
+			"id_str": "4873941",
+			"name": "tokkyo",
+			"screen_name": "tokkyo",
+			"location": "外神田n丁目",
+			"description": "programmmmer。おなかすいた族！",
+			"url": "https://t.co/FrzIaBHmOQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FrzIaBHmOQ",
+							"expanded_url": "http://wiki.onakasuita.org/pukiwiki/",
+							"display_url": "wiki.onakasuita.org/pukiwiki/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 3283,
+			"listed_count": 119,
+			"created_at": "Mon Apr 16 13:11:27 +0000 2007",
+			"favourites_count": 70638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112867,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930977338178732032/L631hfbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930977338178732032/L631hfbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4873941/1444231950",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1156,
+		"favorite_count": 1318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤔？ https://t.co/MihC06pPmb"
+	},
+	{
 		"created_at": "Sun May 05 17:53:36 +0000 2019",
 		"id": 1125093628853071900,
 		"id_str": "1125096219154370560",
