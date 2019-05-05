@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 02:42:14 +0000 2019",
+		"id": 1124865090136625200,
+		"id_str": "1124866864364974081",
+		"full_text": "아야야\nhttps://t.co/fQnFFCMFZ5 https://t.co/Rt8DA4cphL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQnFFCMFZ5",
+					"expanded_url": "https://www.reddit.com/r/ProgrammerHumor/comments/bglkl7/i_see_your_yeet_and_i_raise_you_an_ayaya/",
+					"display_url": "reddit.com/r/ProgrammerHu…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124865081261477900,
+					"id_str": "1124865081261477889",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xS1OTU0AEA5Qm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5xS1OTU0AEA5Qm.png",
+					"url": "https://t.co/Rt8DA4cphL",
+					"display_url": "pic.twitter.com/Rt8DA4cphL",
+					"expanded_url": "https://twitter.com/ajieSnijiK/status/1124865090136625152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124865081261477900,
+					"id_str": "1124865081261477889",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xS1OTU0AEA5Qm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5xS1OTU0AEA5Qm.png",
+					"url": "https://t.co/Rt8DA4cphL",
+					"display_url": "pic.twitter.com/Rt8DA4cphL",
+					"expanded_url": "https://twitter.com/ajieSnijiK/status/1124865090136625152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 721312797284405200,
+			"id_str": "721312797284405248",
+			"name": "6B6390AA",
+			"screen_name": "ajieSnijiK",
+			"location": "깡촌",
+			"description": "평범한 시체인 것 같다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 19,
+			"listed_count": 1,
+			"created_at": "Sat Apr 16 12:22:27 +0000 2016",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1409,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020591036060450817/nC8p338P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020591036060450817/nC8p338P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/721312797284405248/1553471334",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아야야\nhttps://t.co/fQnFFCMFZ5 https://t.co/Rt8DA4cphL"
+	},
+	{
+		"created_at": "Sun May 05 02:30:29 +0000 2019",
+		"id": 1124863906986377200,
+		"id_str": "1124863906986377217",
+		"full_text": "yeoncomi\nツイート数:48(前日比:+9)\nRTした数:36(前日比:+2)\nRTされた数:0(前日比:0)\n送ったリプライ数:7(前日比:+4)\n受け取ったリプライ数:3(前日比:+1)\nいいねされた数:1(前日比:+1)\nhttps://t.co/k4kBmDY1iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4kBmDY1iR",
+					"expanded_url": "http://utabami.com/TodaysTwitterLife",
+					"display_url": "utabami.com/TodaysTwitterL…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1041,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "yeoncomi\nツイート数:48(前日比:+9)\nRTした数:36(前日比:+2)\nRTされた数:0(前日比:0)\n送ったリプライ数:7(前日比:+4)\n受け取ったリプライ数:3(前日比:+1)\nいいねされた数:1(前日比:+1)\nhttps://t.co/k4kBmDY1iR"
+	},
+	{
+		"created_at": "Sun May 05 02:29:05 +0000 2019",
+		"id": 1124842786761498600,
+		"id_str": "1124863557449830400",
+		"full_text": "주유소 이름값\n\nhttps://t.co/8c9e1zrgAz https://t.co/hC9qZ4qge2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8c9e1zrgAz",
+					"expanded_url": "http://m.inven.co.kr/board/powerbbs.php?come_idx=2097&l=1198627&iskin=webzine",
+					"display_url": "m.inven.co.kr/board/powerbbs…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124842781485092900,
+					"id_str": "1124842781485092864",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w-jNKU0AANaQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w-jNKU0AANaQY.jpg",
+					"url": "https://t.co/hC9qZ4qge2",
+					"display_url": "pic.twitter.com/hC9qZ4qge2",
+					"expanded_url": "https://twitter.com/gallrof/status/1124842786761498625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 739,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124842781485092900,
+					"id_str": "1124842781485092864",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w-jNKU0AANaQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w-jNKU0AANaQY.jpg",
+					"url": "https://t.co/hC9qZ4qge2",
+					"display_url": "pic.twitter.com/hC9qZ4qge2",
+					"expanded_url": "https://twitter.com/gallrof/status/1124842786761498625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 739,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2561096209,
+			"id_str": "2561096209",
+			"name": "gallrof",
+			"screen_name": "gallrof",
+			"location": "",
+			"description": "Lovelyz : @gallrof_LV / Red Velvet : @gallrof_RV / Apink",
+			"url": "https://t.co/OyMx4w2DEF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OyMx4w2DEF",
+							"expanded_url": "http://gallrof.tistory.com",
+							"display_url": "gallrof.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4146,
+			"friends_count": 173,
+			"listed_count": 152,
+			"created_at": "Wed Jun 11 10:30:59 +0000 2014",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48211,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899544671046717440/jVcRRsD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899544671046717440/jVcRRsD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2561096209/1503303138",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주유소 이름값\n\nhttps://t.co/8c9e1zrgAz https://t.co/hC9qZ4qge2"
+	},
+	{
+		"created_at": "Sun May 05 02:26:19 +0000 2019",
+		"id": 1124561076857663500,
+		"id_str": "1124862858435518464",
+		"full_text": "명탐정 피카츄 후기\n\n1. 영화 내내 쓰이는 일본어 느낌의 영어 폰트가 있는데 진짜 너무 멋졋음\n2. 더빙판 피카츄는 자막이랑 느낌이 많이 다름. 잘생긴 목소리임.\n3. 포켓몬 팬이면 알아보는 옛작에 대한 오마주가 있음.\n4. 진짜 살아있는 듯한 느낌을 살리는데 집중한 듯\n5. 자막 박지훈 https://t.co/mWEk3iix22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124560604532854800,
+					"id_str": "1124560604532854784",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D5s96WGUUAAv_cT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5s96WGUUAAv_cT.jpg",
+					"url": "https://t.co/mWEk3iix22",
+					"display_url": "pic.twitter.com/mWEk3iix22",
+					"expanded_url": "https://twitter.com/Kch_for_goyangi/status/1124561076857663489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124560604532854800,
+					"id_str": "1124560604532854784",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D5s96WGUUAAv_cT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5s96WGUUAAv_cT.jpg",
+					"url": "https://t.co/mWEk3iix22",
+					"display_url": "pic.twitter.com/mWEk3iix22",
+					"expanded_url": "https://twitter.com/Kch_for_goyangi/status/1124561076857663489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 741220206849069000,
+			"id_str": "741220206849069056",
+			"name": "탐명정 카피츄 보고 온 크츠",
+			"screen_name": "Kch_for_goyangi",
+			"location": "136139",
+			"description": "1차 창작 캐릭터・포켓몬 시리즈 본진  ∴",
+			"url": "https://t.co/4O0B04IVfu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4O0B04IVfu",
+							"expanded_url": "http://blog.naver.com/dlskrutusrnr",
+							"display_url": "blog.naver.com/dlskrutusrnr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 139,
+			"listed_count": 2,
+			"created_at": "Fri Jun 10 10:47:23 +0000 2016",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4323,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123990386127572993/dEKx9XXA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123990386127572993/dEKx9XXA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/741220206849069056/1546959554",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5569,
+		"favorite_count": 1408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "명탐정 피카츄 후기\n\n1. 영화 내내 쓰이는 일본어 느낌의 영어 폰트가 있는데 진짜 너무 멋졋음\n2. 더빙판 피카츄는 자막이랑 느낌이 많이 다름. 잘생긴 목소리임.\n3. 포켓몬 팬이면 알아보는 옛작에 대한 오마주가 있음.\n4. 진짜 살아있는 듯한 느낌을 살리는데 집중한 듯\n5. 자막 박지훈 https://t.co/mWEk3iix22"
+	},
+	{
 		"created_at": "Sun May 05 00:31:12 +0000 2019",
 		"id": 1124604095946313700,
 		"id_str": "1124833890865111040",
