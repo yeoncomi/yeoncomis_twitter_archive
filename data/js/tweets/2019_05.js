@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 01:35:24 +0000 2019",
+		"id": 1125004118433550300,
+		"id_str": "1125212435630026752",
+		"full_text": "사이코패스 https://t.co/2wBybmPCAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125004099668156400,
+					"id_str": "1125004099668156416",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zRRKOUIAAKJB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zRRKOUIAAKJB6.jpg",
+					"url": "https://t.co/2wBybmPCAf",
+					"display_url": "pic.twitter.com/2wBybmPCAf",
+					"expanded_url": "https://twitter.com/imoneyno/status/1125004118433550337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125004099668156400,
+					"id_str": "1125004099668156416",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zRRKOUIAAKJB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zRRKOUIAAKJB6.jpg",
+					"url": "https://t.co/2wBybmPCAf",
+					"display_url": "pic.twitter.com/2wBybmPCAf",
+					"expanded_url": "https://twitter.com/imoneyno/status/1125004118433550337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1551257700,
+			"id_str": "1551257700",
+			"name": "텅빈",
+			"screen_name": "imoneyno",
+			"location": "",
+			"description": "아이큐점프에서 블러드 드래곤 블레이드 연재중 // 스컬단 처돌이😄",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 77,
+			"listed_count": 8,
+			"created_at": "Thu Jun 27 18:54:33 +0000 2013",
+			"favourites_count": 5655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 341,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122801221734002688/ZOXyVvAR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122801221734002688/ZOXyVvAR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1551257700/1555244666",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5865,
+		"favorite_count": 2302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사이코패스 https://t.co/2wBybmPCAf"
+	},
+	{
+		"created_at": "Mon May 06 01:23:30 +0000 2019",
+		"id": 1124953298421698600,
+		"id_str": "1125209439282143232",
+		"full_text": "느그재용이 권력 뽕맛에 안 찬거면 박근혜랑은 사적인 관계였나요? https://t.co/HP9mox3uxN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124953265458667500,
+					"id_str": "1124953265458667520",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D5yjCOCUYAA0gTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5yjCOCUYAA0gTC.jpg",
+					"url": "https://t.co/HP9mox3uxN",
+					"display_url": "pic.twitter.com/HP9mox3uxN",
+					"expanded_url": "https://twitter.com/Juneyuwall/status/1124953298421698561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124953265458667500,
+					"id_str": "1124953265458667520",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D5yjCOCUYAA0gTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5yjCOCUYAA0gTC.jpg",
+					"url": "https://t.co/HP9mox3uxN",
+					"display_url": "pic.twitter.com/HP9mox3uxN",
+					"expanded_url": "https://twitter.com/Juneyuwall/status/1124953298421698561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961137239504965600,
+			"id_str": "961137239504965634",
+			"name": "🏳️‍🌈호플바이 이온💖💜💙",
+			"screen_name": "Juneyuwall",
+			"location": "우리미래",
+			"description": "진입장벽 낮음 | 퀴어/정치/일상계 / 호모플렉시블 바이(양성애자) 시스젠더(여) 2n🌈 / 범좌파 / 우리미래 당원 / 정연(TWICE) / 귀곡의문 / 포비아 친박 거름 / 애인님(동성) 있어요❣/ 퀴어고민 잦음 / 이별 블언블\n\n#우리미래 #이영싫 #상호교차성페미니즘 #FSM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1019,
+			"friends_count": 1086,
+			"listed_count": 6,
+			"created_at": "Wed Feb 07 07:19:09 +0000 2018",
+			"favourites_count": 6629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12753,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124884433742360577/XkWFCsN3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124884433742360577/XkWFCsN3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961137239504965634/1556469620",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "느그재용이 권력 뽕맛에 안 찬거면 박근혜랑은 사적인 관계였나요? https://t.co/HP9mox3uxN"
+	},
+	{
 		"created_at": "Mon May 06 01:10:13 +0000 2019",
 		"id": 1124672291017764900,
 		"id_str": "1125206097189433344",
