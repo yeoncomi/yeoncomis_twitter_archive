@@ -1,6 +1,728 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 06:16:55 +0000 2019",
+		"id": 1125283280369045500,
+		"id_str": "1125283280369045505",
+		"full_text": "@BLU_P_ 비아니",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLU_P_",
+					"name": "Px4 11日/Blu-Berry Pi (*´꒳`*)",
+					"id": 2837796253,
+					"id_str": "2837796253",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1082952325902331900,
+		"in_reply_to_status_id_str": "1082952325902331904",
+		"in_reply_to_user_id": 2837796253,
+		"in_reply_to_user_id_str": "2837796253",
+		"in_reply_to_screen_name": "BLU_P_",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1042,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@BLU_P_ 비아니"
+	},
+	{
+		"created_at": "Mon May 06 06:10:33 +0000 2019",
+		"id": 1125073089077727200,
+		"id_str": "1125281678602072065",
+		"full_text": "이곳은 통영에 있는 스탠포드 호텔이며 이 호텔에는 한국어 사인이 없다. 그리고 영어로 '헬스 룸' 같은걸 적어놓음ㅋㅋㅋ https://t.co/SujYBm6G4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125072940536553500,
+					"id_str": "1125072940536553473",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D50P4OcV4AE1dld.png",
+					"media_url_https": "https://pbs.twimg.com/media/D50P4OcV4AE1dld.png",
+					"url": "https://t.co/SujYBm6G4y",
+					"display_url": "pic.twitter.com/SujYBm6G4y",
+					"expanded_url": "https://twitter.com/damefreya/status/1125073089077727237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125072940536553500,
+					"id_str": "1125072940536553473",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D50P4OcV4AE1dld.png",
+					"media_url_https": "https://pbs.twimg.com/media/D50P4OcV4AE1dld.png",
+					"url": "https://t.co/SujYBm6G4y",
+					"display_url": "pic.twitter.com/SujYBm6G4y",
+					"expanded_url": "https://twitter.com/damefreya/status/1125073089077727237/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 785080171,
+			"id_str": "785080171",
+			"name": "킴죠",
+			"screen_name": "damefreya",
+			"location": "",
+			"description": "운동복 그만사라",
+			"url": "https://t.co/UimUbv0JpA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UimUbv0JpA",
+							"expanded_url": "https://blog.naver.com/kimzo322",
+							"display_url": "blog.naver.com/kimzo322",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 109,
+			"listed_count": 6,
+			"created_at": "Mon Aug 27 17:04:20 +0000 2012",
+			"favourites_count": 12712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32686,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116383278666137602/Bn6GOb9q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116383278666137602/Bn6GOb9q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이곳은 통영에 있는 스탠포드 호텔이며 이 호텔에는 한국어 사인이 없다. 그리고 영어로 '헬스 룸' 같은걸 적어놓음ㅋㅋㅋ https://t.co/SujYBm6G4y"
+	},
+	{
+		"created_at": "Mon May 06 06:08:41 +0000 2019",
+		"id": 1124837551657775100,
+		"id_str": "1125281209477525504",
+		"full_text": "어린이날 행사왔는데 이거 뭐임ㅋㅋㅋㅋ\n\n역시 과학의 도시 대전\n미래의 기계병사를 육성합니다 https://t.co/XXBKqtJkb4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124837485551312900,
+					"id_str": "1124837485551312896",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w5u8RUYAA8nZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w5u8RUYAA8nZR.jpg",
+					"url": "https://t.co/XXBKqtJkb4",
+					"display_url": "pic.twitter.com/XXBKqtJkb4",
+					"expanded_url": "https://twitter.com/sinso2913/status/1124837551657775104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1709,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124837485551312900,
+					"id_str": "1124837485551312896",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w5u8RUYAA8nZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w5u8RUYAA8nZR.jpg",
+					"url": "https://t.co/XXBKqtJkb4",
+					"display_url": "pic.twitter.com/XXBKqtJkb4",
+					"expanded_url": "https://twitter.com/sinso2913/status/1124837551657775104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1709,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124837509366599700,
+					"id_str": "1124837509366599680",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w5wU_U0AAK2Yj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w5wU_U0AAK2Yj.jpg",
+					"url": "https://t.co/XXBKqtJkb4",
+					"display_url": "pic.twitter.com/XXBKqtJkb4",
+					"expanded_url": "https://twitter.com/sinso2913/status/1124837551657775104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 983,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124837533320245200,
+					"id_str": "1124837533320245248",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D5w5xuOUcAAfsOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5w5xuOUcAAfsOo.jpg",
+					"url": "https://t.co/XXBKqtJkb4",
+					"display_url": "pic.twitter.com/XXBKqtJkb4",
+					"expanded_url": "https://twitter.com/sinso2913/status/1124837551657775104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 829096171545063400,
+			"id_str": "829096171545063427",
+			"name": "TToyon🦄또욘",
+			"screen_name": "sinso2913",
+			"location": "",
+			"description": "💙Adventure time💛+💎Steven universe💎+👷The LEGO movie👩‍🎤+🐝Bee&Puppycat🐝+🦄My little pony🦄\nAnd many cartoon, movie or game\n\n뒷계-@Ttiletto",
+			"url": "https://t.co/5fAMKUbne1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5fAMKUbne1",
+							"expanded_url": "https://ask.fm/sinso2913?utm_source=copy_link&utm_medium=android",
+							"display_url": "ask.fm/sinso2913?utm_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2587,
+			"friends_count": 362,
+			"listed_count": 20,
+			"created_at": "Tue Feb 07 22:35:05 +0000 2017",
+			"favourites_count": 50989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101323,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110086742818742272/zn0thXCP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110086742818742272/zn0thXCP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/829096171545063427/1556711451",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6485,
+		"favorite_count": 1631,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어린이날 행사왔는데 이거 뭐임ㅋㅋㅋㅋ\n\n역시 과학의 도시 대전\n미래의 기계병사를 육성합니다 https://t.co/XXBKqtJkb4"
+	},
+	{
+		"created_at": "Mon May 06 06:04:31 +0000 2019",
+		"id": 1125207414641291300,
+		"id_str": "1125280159899066368",
+		"full_text": "게임의 폭력성을 막기 위해 싸워온 미상원의원 ㅋㅋ https://t.co/V3Rg6adrjf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125207410010800100,
+					"id_str": "1125207410010800129",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D52KLYRUwAE7Vvd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D52KLYRUwAE7Vvd.jpg",
+					"url": "https://t.co/V3Rg6adrjf",
+					"display_url": "pic.twitter.com/V3Rg6adrjf",
+					"expanded_url": "https://twitter.com/endolph/status/1125207414641291264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125207410010800100,
+					"id_str": "1125207410010800129",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D52KLYRUwAE7Vvd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D52KLYRUwAE7Vvd.jpg",
+					"url": "https://t.co/V3Rg6adrjf",
+					"display_url": "pic.twitter.com/V3Rg6adrjf",
+					"expanded_url": "https://twitter.com/endolph/status/1125207414641291264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125207410019143700,
+					"id_str": "1125207410019143680",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D52KLYTUEAAbAEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D52KLYTUEAAbAEy.jpg",
+					"url": "https://t.co/V3Rg6adrjf",
+					"display_url": "pic.twitter.com/V3Rg6adrjf",
+					"expanded_url": "https://twitter.com/endolph/status/1125207414641291264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 635,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 635,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276441485,
+			"id_str": "276441485",
+			"name": "원펀치맨",
+			"screen_name": "endolph",
+			"location": "",
+			"description": "스스로 생각할줄 모르는 언론과 팟캐의 노예들은 블락입니다. 찢빠들은 저 보자마자 알아서 블락해주세여.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3329,
+			"friends_count": 1631,
+			"listed_count": 16,
+			"created_at": "Sun Apr 03 10:57:12 +0000 2011",
+			"favourites_count": 87514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79752,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112501247767015424/y3V-QRLX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112501247767015424/y3V-QRLX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276441485/1555302969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임의 폭력성을 막기 위해 싸워온 미상원의원 ㅋㅋ https://t.co/V3Rg6adrjf"
+	},
+	{
 		"created_at": "Mon May 06 02:27:44 +0000 2019",
 		"id": 1125225604989644800,
 		"id_str": "1125225604989644801",
