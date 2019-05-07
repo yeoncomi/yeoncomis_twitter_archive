@@ -1,6 +1,776 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 03:23:18 +0000 2019",
+		"id": 1124544374451441700,
+		"id_str": "1125601976207564801",
+		"full_text": "DO U KNO DE WAE https://t.co/MFrb7VLjxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124544370726846500,
+					"id_str": "1124544370726846464",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D5svJadWwAAIpZf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5svJadWwAAIpZf.jpg",
+					"url": "https://t.co/MFrb7VLjxZ",
+					"display_url": "pic.twitter.com/MFrb7VLjxZ",
+					"expanded_url": "https://twitter.com/fersanime/status/1124544374451441664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124544370726846500,
+					"id_str": "1124544370726846464",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D5svJadWwAAIpZf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5svJadWwAAIpZf.jpg",
+					"url": "https://t.co/MFrb7VLjxZ",
+					"display_url": "pic.twitter.com/MFrb7VLjxZ",
+					"expanded_url": "https://twitter.com/fersanime/status/1124544374451441664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1100243661273657300,
+			"id_str": "1100243661273657344",
+			"name": "69th Hokage",
+			"screen_name": "fersanime",
+			"location": "Hidden Oppai Village",
+			"description": "YOSH. 33x Apex Champion, 16x Kill leader, anime lover, a force to be reckoned with, etc.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2035,
+			"friends_count": 1958,
+			"listed_count": 1,
+			"created_at": "Tue Feb 26 03:58:25 +0000 2019",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112417133223383041/UYDIUcNO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112417133223383041/UYDIUcNO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1100243661273657344/1555561940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13108,
+		"favorite_count": 35016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DO U KNO DE WAE https://t.co/MFrb7VLjxZ"
+	},
+	{
+		"created_at": "Tue May 07 03:21:57 +0000 2019",
+		"id": 1125599821778145300,
+		"id_str": "1125601634833145856",
+		"full_text": "트위터 써드파티들이 dm볼수 있음으로 뜨는데 그 이유가\n\n트위터가 써드파티 권한을 한꺼번에 묶어놨기 때문임. 그걸 세분화 해서 나눠나야 하는데.\n\n단순 트윗 지우는 기능만 넣으려고 했는데 지우는 기능을 쓸려면 dm도 읽는 권한이 따라오는 형식",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714805252948557800,
+			"id_str": "714805252948557824",
+			"name": "네이샤렌",
+			"screen_name": "LuvHoli",
+			"location": "",
+			"description": "우주를 여행하는 히치하이커",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 40,
+			"listed_count": 1,
+			"created_at": "Tue Mar 29 13:23:47 +0000 2016",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125341425980207105/Xo6QIwwO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125341425980207105/Xo6QIwwO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714805252948557824/1524222682",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터 써드파티들이 dm볼수 있음으로 뜨는데 그 이유가\n\n트위터가 써드파티 권한을 한꺼번에 묶어놨기 때문임. 그걸 세분화 해서 나눠나야 하는데.\n\n단순 트윗 지우는 기능만 넣으려고 했는데 지우는 기능을 쓸려면 dm도 읽는 권한이 따라오는 형식"
+	},
+	{
+		"created_at": "Tue May 07 03:21:40 +0000 2019",
+		"id": 1125601565459357700,
+		"id_str": "1125601565459357696",
+		"full_text": "#마음당_동거해야_알_수_있는_나의_일면 https://t.co/rx648hFcOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마음당_동거해야_알_수_있는_나의_일면",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125601561227419600,
+					"id_str": "1125601561227419648",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D57wp_-V4AAAGV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57wp_-V4AAAGV8.jpg",
+					"url": "https://t.co/rx648hFcOU",
+					"display_url": "pic.twitter.com/rx648hFcOU",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1125601565459357696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 708,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125601561227419600,
+					"id_str": "1125601561227419648",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D57wp_-V4AAAGV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57wp_-V4AAAGV8.jpg",
+					"url": "https://t.co/rx648hFcOU",
+					"display_url": "pic.twitter.com/rx648hFcOU",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1125601565459357696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 708,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1044,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#마음당_동거해야_알_수_있는_나의_일면 https://t.co/rx648hFcOU"
+	},
+	{
+		"created_at": "Tue May 07 03:21:01 +0000 2019",
+		"id": 1125601400510042100,
+		"id_str": "1125601400510042113",
+		"full_text": "헉 나도 운동해야하는데 찔린다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 1044,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헉 나도 운동해야하는데 찔린다"
+	},
+	{
+		"created_at": "Tue May 07 03:19:55 +0000 2019",
+		"id": 1124729289021071400,
+		"id_str": "1125601124910637056",
+		"full_text": "예전엔 이거 좀 이해하기 어려웠는데\n\n'그림체가 다르잖아' 로 정리되는거 보고 이해함 https://t.co/Iy8kg2hCOB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124729146695868400,
+					"id_str": "1124729146695868416",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D5vXMylV4AAbwek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5vXMylV4AAbwek.jpg",
+					"url": "https://t.co/Iy8kg2hCOB",
+					"display_url": "pic.twitter.com/Iy8kg2hCOB",
+					"expanded_url": "https://twitter.com/mi_ku/status/1124729289021071361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 1434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124729146695868400,
+					"id_str": "1124729146695868416",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D5vXMylV4AAbwek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5vXMylV4AAbwek.jpg",
+					"url": "https://t.co/Iy8kg2hCOB",
+					"display_url": "pic.twitter.com/Iy8kg2hCOB",
+					"expanded_url": "https://twitter.com/mi_ku/status/1124729289021071361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 1434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48946191,
+			"id_str": "48946191",
+			"name": "💎🌞유시⛈💎",
+			"screen_name": "mi_ku",
+			"location": "나는 오늘도 훌륭하게 귀엽고 사랑스러운 쓰레기다",
+			"description": "INTP-T /프사 본인 /디코:유시#4124 /글씀 /그림그림 /게임함 /140자 대본소설 / ⛈️ [#강의실 , #교실 , #자기야 , #악당과_꼬마 , #건전한_서큐버스 #마비썰 ] dmsdbtl@gmail.com / https://t.co/0gMNpLkJbr",
+			"url": "https://t.co/4jp3ZBr9pJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4jp3ZBr9pJ",
+							"expanded_url": "https://www.instagram.com/yu_see_chan/",
+							"display_url": "instagram.com/yu_see_chan/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0gMNpLkJbr",
+							"expanded_url": "http://ask.fm/miku509",
+							"display_url": "ask.fm/miku509",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2488,
+			"friends_count": 4357,
+			"listed_count": 48,
+			"created_at": "Sat Jun 20 06:37:07 +0000 2009",
+			"favourites_count": 12802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 491490,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124893898768146433/YwLvSJD3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124893898768146433/YwLvSJD3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48946191/1554132706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1537,
+		"favorite_count": 431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전엔 이거 좀 이해하기 어려웠는데\n\n'그림체가 다르잖아' 로 정리되는거 보고 이해함 https://t.co/Iy8kg2hCOB"
+	},
+	{
 		"created_at": "Tue May 07 03:16:55 +0000 2019",
 		"id": 1125203912875761700,
 		"id_str": "1125600368149188608",
