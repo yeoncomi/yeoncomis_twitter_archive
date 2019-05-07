@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 17:49:59 +0000 2019",
+		"id": 1125565047663579100,
+		"id_str": "1125820086084722688",
+		"full_text": "교수님 제가 잘못했습니다 https://t.co/A55wvgpgR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125564990402908200,
+					"id_str": "1125564990402908165",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D57PZTCU0AU2t1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57PZTCU0AU2t1u.jpg",
+					"url": "https://t.co/A55wvgpgR6",
+					"display_url": "pic.twitter.com/A55wvgpgR6",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1125565047663579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125564990402908200,
+					"id_str": "1125564990402908165",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D57PZTCU0AU2t1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57PZTCU0AU2t1u.jpg",
+					"url": "https://t.co/A55wvgpgR6",
+					"display_url": "pic.twitter.com/A55wvgpgR6",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1125565047663579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125565010673954800,
+					"id_str": "1125565010673954816",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D57PaejUcAAPDD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57PaejUcAAPDD2.jpg",
+					"url": "https://t.co/A55wvgpgR6",
+					"display_url": "pic.twitter.com/A55wvgpgR6",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1125565047663579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125565023521202200,
+					"id_str": "1125565023521202176",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D57PbOaV4AAD-In.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57PbOaV4AAD-In.jpg",
+					"url": "https://t.co/A55wvgpgR6",
+					"display_url": "pic.twitter.com/A55wvgpgR6",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1125565047663579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125565037152571400,
+					"id_str": "1125565037152571392",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D57PcBMUEAAT-Qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57PcBMUEAAT-Qa.jpg",
+					"url": "https://t.co/A55wvgpgR6",
+					"display_url": "pic.twitter.com/A55wvgpgR6",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1125565047663579136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1432,
+							"h": 1596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028140777862352900,
+			"id_str": "1028140777862352896",
+			"name": "디씨의 소리를 찾아서",
+			"screen_name": "DCinside_voice",
+			"location": "",
+			"description": "세상에서 제일 재미있는 디씨스샷을 올리는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Sat Aug 11 04:47:18 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 270,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028140777862352896/1533963178",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "교수님 제가 잘못했습니다 https://t.co/A55wvgpgR6"
+	},
+	{
 		"created_at": "Tue May 07 06:02:22 +0000 2019",
 		"id": 1125642006418485200,
 		"id_str": "1125642006418485249",
