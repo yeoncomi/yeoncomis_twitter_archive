@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 22:33:17 +0000 2019",
+		"id": 1125748094744780800,
+		"id_str": "1125891380260196352",
+		"full_text": "일반인들이 생각하는 프로그래머와 실제 종사자.mp4\nhttps://t.co/bi4YgP7ncw\n\n이런거 별로 올리고 싶지 않았는데 뒤에 나오는 리얼이 진짜 리얼리스틱해서 올리지 않을 수가 없었다ㅋㅋㅋㅋㅋㅋㅋ https://t.co/shvpsQ7iX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bi4YgP7ncw",
+					"expanded_url": "https://www.dogdrip.net/207235494",
+					"display_url": "dogdrip.net/207235494",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125747910337937400,
+					"id_str": "1125747910337937408",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125747910337937408/pu/img/g1OOd36LAgjotMYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125747910337937408/pu/img/g1OOd36LAgjotMYD.jpg",
+					"url": "https://t.co/shvpsQ7iX5",
+					"display_url": "pic.twitter.com/shvpsQ7iX5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1125748094744780802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125747910337937400,
+					"id_str": "1125747910337937408",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125747910337937408/pu/img/g1OOd36LAgjotMYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125747910337937408/pu/img/g1OOd36LAgjotMYD.jpg",
+					"url": "https://t.co/shvpsQ7iX5",
+					"display_url": "pic.twitter.com/shvpsQ7iX5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1125748094744780802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29497,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125747910337937408/pu/vid/640x360/JdvPOtN42mBRRO2Q.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125747910337937408/pu/vid/320x180/60GFEIQBOt65tIc2.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1125747910337937408/pu/pl/HYKzq1ObawFw-nNU.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125747910337937408/pu/vid/1280x720/wra74DEpX4cWoalC.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1880,
+			"friends_count": 1538,
+			"listed_count": 36,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 65468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 198437,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7136,
+		"favorite_count": 1999,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일반인들이 생각하는 프로그래머와 실제 종사자.mp4\nhttps://t.co/bi4YgP7ncw\n\n이런거 별로 올리고 싶지 않았는데 뒤에 나오는 리얼이 진짜 리얼리스틱해서 올리지 않을 수가 없었다ㅋㅋㅋㅋㅋㅋㅋ https://t.co/shvpsQ7iX5"
+	},
+	{
 		"created_at": "Tue May 07 19:25:32 +0000 2019",
 		"id": 1125844130087628800,
 		"id_str": "1125844130087628800",
