@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 04:15:31 +0000 2019",
+		"id": 1125648355009253400,
+		"id_str": "1125977504827580416",
+		"full_text": "장애아 학부모를 무릎꿇게 한\n서울 서진 특수학교 건설 근황 https://t.co/o0Zpz1oVMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125648333811249200,
+					"id_str": "1125648333811249152",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D58bMhbUcAA_Hak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D58bMhbUcAA_Hak.jpg",
+					"url": "https://t.co/o0Zpz1oVMv",
+					"display_url": "pic.twitter.com/o0Zpz1oVMv",
+					"expanded_url": "https://twitter.com/go1rani/status/1125648355009253376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 786,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125648333811249200,
+					"id_str": "1125648333811249152",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D58bMhbUcAA_Hak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D58bMhbUcAA_Hak.jpg",
+					"url": "https://t.co/o0Zpz1oVMv",
+					"display_url": "pic.twitter.com/o0Zpz1oVMv",
+					"expanded_url": "https://twitter.com/go1rani/status/1125648355009253376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 786,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125648344389316600,
+					"id_str": "1125648344389316608",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D58bNI1U8AAv6zd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D58bNI1U8AAv6zd.jpg",
+					"url": "https://t.co/o0Zpz1oVMv",
+					"display_url": "pic.twitter.com/o0Zpz1oVMv",
+					"expanded_url": "https://twitter.com/go1rani/status/1125648355009253376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "go1rani",
+			"location": "",
+			"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30912,
+			"friends_count": 5,
+			"listed_count": 66,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 983,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4878,
+		"favorite_count": 953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장애아 학부모를 무릎꿇게 한\n서울 서진 특수학교 건설 근황 https://t.co/o0Zpz1oVMv"
+	},
+	{
+		"created_at": "Wed May 08 04:09:44 +0000 2019",
+		"id": 1117644622497378300,
+		"id_str": "1125976050335268869",
+		"full_text": "눈물....... https://t.co/YBoAd19ai4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117644615077621800,
+					"id_str": "1117644615077621760",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Kr2xrUcAAqa87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Kr2xrUcAAqa87.jpg",
+					"url": "https://t.co/YBoAd19ai4",
+					"display_url": "pic.twitter.com/YBoAd19ai4",
+					"expanded_url": "https://twitter.com/yesgame_nolife/status/1117644622497378304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117644615077621800,
+					"id_str": "1117644615077621760",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Kr2xrUcAAqa87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Kr2xrUcAAqa87.jpg",
+					"url": "https://t.co/YBoAd19ai4",
+					"display_url": "pic.twitter.com/YBoAd19ai4",
+					"expanded_url": "https://twitter.com/yesgame_nolife/status/1117644622497378304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088814598428508200,
+			"id_str": "1088814598428508161",
+			"name": "게임인생",
+			"screen_name": "yesgame_nolife",
+			"location": "",
+			"description": "게임트윗을 씁니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2596,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Fri Jan 25 15:03:24 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089695262870667264/sqqaTeF-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089695262870667264/sqqaTeF-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088814598428508161/1548638569",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1086,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈물....... https://t.co/YBoAd19ai4"
+	},
+	{
+		"created_at": "Wed May 08 04:08:37 +0000 2019",
+		"id": 1125734686792110100,
+		"id_str": "1125975770181001216",
+		"full_text": "현시각 ㅈ되버린 대천항 횟집들 근황.jpg https://t.co/eO1FzUgfRP https://t.co/MdltsXQNo7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO1FzUgfRP",
+					"expanded_url": "https://instiz.net/pt/6111928",
+					"display_url": "instiz.net/pt/6111928",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125734676138618900,
+					"id_str": "1125734676138618880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D59puTqU8AAFr2L.png",
+					"media_url_https": "https://pbs.twimg.com/media/D59puTqU8AAFr2L.png",
+					"url": "https://t.co/MdltsXQNo7",
+					"display_url": "pic.twitter.com/MdltsXQNo7",
+					"expanded_url": "https://twitter.com/instiz/status/1125734686792110082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125734676138618900,
+					"id_str": "1125734676138618880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D59puTqU8AAFr2L.png",
+					"media_url_https": "https://pbs.twimg.com/media/D59puTqU8AAFr2L.png",
+					"url": "https://t.co/MdltsXQNo7",
+					"display_url": "pic.twitter.com/MdltsXQNo7",
+					"expanded_url": "https://twitter.com/instiz/status/1125734686792110082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184363884,
+			"id_str": "184363884",
+			"name": "인스티즈 연예소식",
+			"screen_name": "instiz",
+			"location": "많은 연예계 이슈가 여기서 시작!",
+			"description": "국내 최대의 연예오락 커뮤니티 인스티즈(instiz, 音思提资)",
+			"url": "https://t.co/kA7Yyj98FV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kA7Yyj98FV",
+							"expanded_url": "http://www.instiz.net",
+							"display_url": "instiz.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 877082,
+			"friends_count": 404761,
+			"listed_count": 1059,
+			"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79302,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080841501242867712/aJYac-ri_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1537878306",
+			"profile_link_color": "0DAB57",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현시각 ㅈ되버린 대천항 횟집들 근황.jpg https://t.co/eO1FzUgfRP https://t.co/MdltsXQNo7"
+	},
+	{
+		"created_at": "Wed May 08 04:08:14 +0000 2019",
+		"id": 1125972172197859300,
+		"id_str": "1125975670826229760",
+		"full_text": "뭐니뭐니 해도 민원이 최고입니다. \n수 천 수 백건까지 필요 없고 끈질기게 몇 명이라도 지속적으로 적법한 항의를 제기하면 분명 유의미한 효과를 발휘합니다 https://t.co/G5VH3CjkWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G5VH3CjkWK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1125954377242398720",
+					"display_url": "twitter.com/eun_gong/statu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "주공에 살던 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8239,
+			"friends_count": 613,
+			"listed_count": 139,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269173,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125954377242398700,
+		"quoted_status_id_str": "1125954377242398720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G5VH3CjkWK",
+			"expanded": "https://twitter.com/eun_gong/status/1125954377242398720",
+			"display": "twitter.com/eun_gong/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 02:43:37 +0000 2019",
+			"id": 1125954377242398700,
+			"id_str": "1125954377242398720",
+			"full_text": "금번 서울시 공무원들의 ‘서울광장 퀴어행사를 반대한다’ 성명서를 성소수자 차별 및 종교중립의 의무 위반으로 서울시 응답소(https://t.co/D5yQgwZIef) 혹은 \"원순씨에게 바란다\" (https://t.co/eM7EIMEZ2n) 국민신문고 (https://t.co/CI1dulfK8L)를 통해서 민원 한 통씩 넣으시는 건 어떨까요. https://t.co/EMA26lI0xS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D5yQgwZIef",
+						"expanded_url": "http://eungdapso.seoul.go.kr/Req/Req02/Req02_not1.jsp",
+						"display_url": "eungdapso.seoul.go.kr/Req/Req02/Req0…",
+						"indices": [
+							68,
+							91
+						]
+					},
+					{
+						"url": "https://t.co/eM7EIMEZ2n",
+						"expanded_url": "https://eungdapso.seoul.go.kr/Shr/Shr01/Shr01_lis.jsp",
+						"display_url": "eungdapso.seoul.go.kr/Shr/Shr01/Shr0…",
+						"indices": [
+							109,
+							132
+						]
+					},
+					{
+						"url": "https://t.co/CI1dulfK8L",
+						"expanded_url": "https://www.epeople.go.kr/jsp/user/pc/cvreq/UPcCvreqForm.paid?flag=N",
+						"display_url": "epeople.go.kr/jsp/user/pc/cv…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125953928238063600,
+						"id_str": "1125953928238063616",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/D6AxIdYV4AAbD0P.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6AxIdYV4AAbD0P.png",
+						"url": "https://t.co/EMA26lI0xS",
+						"display_url": "pic.twitter.com/EMA26lI0xS",
+						"expanded_url": "https://twitter.com/eun_gong/status/1125954377242398720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 871,
+								"h": 374,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 871,
+								"h": 374,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125953928238063600,
+						"id_str": "1125953928238063616",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/D6AxIdYV4AAbD0P.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6AxIdYV4AAbD0P.png",
+						"url": "https://t.co/EMA26lI0xS",
+						"display_url": "pic.twitter.com/EMA26lI0xS",
+						"expanded_url": "https://twitter.com/eun_gong/status/1125954377242398720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 871,
+								"h": 374,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 871,
+								"h": 374,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1125939537295732700,
+			"in_reply_to_status_id_str": "1125939537295732736",
+			"in_reply_to_user_id": 165325098,
+			"in_reply_to_user_id_str": "165325098",
+			"in_reply_to_screen_name": "eun_gong",
+			"user": {
+				"id": 165325098,
+				"id_str": "165325098",
+				"name": "주공에 살던 銀空",
+				"screen_name": "eun_gong",
+				"location": "대한민국",
+				"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8239,
+				"friends_count": 613,
+				"listed_count": 139,
+				"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+				"favourites_count": 9051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 269173,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7EE6BD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭐니뭐니 해도 민원이 최고입니다. \n수 천 수 백건까지 필요 없고 끈질기게 몇 명이라도 지속적으로 적법한 항의를 제기하면 분명 유의미한 효과를 발휘합니다 https://t.co/G5VH3CjkWK"
+	},
+	{
 		"created_at": "Wed May 08 02:57:46 +0000 2019",
 		"id": 1125765807995142100,
 		"id_str": "1125957939087286272",
