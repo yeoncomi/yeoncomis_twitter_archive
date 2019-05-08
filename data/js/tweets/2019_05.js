@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 01:47:37 +0000 2019",
+		"id": 1125939537295732700,
+		"id_str": "1125940286654255104",
+		"full_text": "\"안찬율 대표를 비롯한 서울시 공무원 19인은 ‘서울시 다수 공무원들은 서울광장 퀴어행사를 반대한다’는 제목의 성명서를 8일 발표했다\" https://t.co/UX7NIFSSQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125939380713951200,
+					"id_str": "1125939380713951232",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Aj5roUEAAhRDf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6Aj5roUEAAhRDf.png",
+					"url": "https://t.co/UX7NIFSSQF",
+					"display_url": "pic.twitter.com/UX7NIFSSQF",
+					"expanded_url": "https://twitter.com/eun_gong/status/1125939537295732736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 871,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 871,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125939380713951200,
+					"id_str": "1125939380713951232",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Aj5roUEAAhRDf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6Aj5roUEAAhRDf.png",
+					"url": "https://t.co/UX7NIFSSQF",
+					"display_url": "pic.twitter.com/UX7NIFSSQF",
+					"expanded_url": "https://twitter.com/eun_gong/status/1125939537295732736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 871,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 871,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1125935022353944600,
+		"in_reply_to_status_id_str": "1125935022353944576",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "주공에 살던 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8242,
+			"friends_count": 613,
+			"listed_count": 139,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269161,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"안찬율 대표를 비롯한 서울시 공무원 19인은 ‘서울시 다수 공무원들은 서울광장 퀴어행사를 반대한다’는 제목의 성명서를 8일 발표했다\" https://t.co/UX7NIFSSQF"
+	},
+	{
+		"created_at": "Wed May 08 01:44:57 +0000 2019",
+		"id": 1125692633722941400,
+		"id_str": "1125939615288872960",
+		"full_text": "이거 누가 실토하거나 제보한거네 ㅋㅋ-ㅋㅋㅋㅋㅋ https://t.co/BqVIduadyj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqVIduadyj",
+					"expanded_url": "https://twitter.com/hankookilbo/status/1125687561874096128",
+					"display_url": "twitter.com/hankookilbo/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150192751,
+			"id_str": "150192751",
+			"name": "Qua",
+			"screen_name": "Rhe_0x",
+			"location": "",
+			"description": "인용 RT 대환영. 반론은 인용 RT로",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 4999,
+			"listed_count": 8,
+			"created_at": "Mon May 31 09:33:01 +0000 2010",
+			"favourites_count": 30093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48236,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125687561874096100,
+		"quoted_status_id_str": "1125687561874096128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BqVIduadyj",
+			"expanded": "https://twitter.com/hankookilbo/status/1125687561874096128",
+			"display": "twitter.com/hankookilbo/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 09:03:23 +0000 2019",
+			"id": 1125687561874096100,
+			"id_str": "1125687561874096128",
+			"full_text": "삼성바이오로 공장 바닥에 숨겨진 분식회계 결정적 자료\n\n배선 공간에 묻은 뒤 다시 마루를 덮어서 은닉한 것으로 드러났다.\n\nhttps://t.co/UXcuuV6wHe https://t.co/nDw5xoxJyq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UXcuuV6wHe",
+						"expanded_url": "http://bitly.kr/ttolAH",
+						"display_url": "bitly.kr/ttolAH",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125687556635385900,
+						"id_str": "1125687556635385856",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D58-3l1UYAAy4eo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D58-3l1UYAAy4eo.jpg",
+						"url": "https://t.co/nDw5xoxJyq",
+						"display_url": "pic.twitter.com/nDw5xoxJyq",
+						"expanded_url": "https://twitter.com/hankookilbo/status/1125687561874096128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125687556635385900,
+						"id_str": "1125687556635385856",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/D58-3l1UYAAy4eo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D58-3l1UYAAy4eo.jpg",
+						"url": "https://t.co/nDw5xoxJyq",
+						"display_url": "pic.twitter.com/nDw5xoxJyq",
+						"expanded_url": "https://twitter.com/hankookilbo/status/1125687561874096128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134371459,
+				"id_str": "134371459",
+				"name": "한국일보",
+				"screen_name": "hankookilbo",
+				"location": "Seoul,KOREA",
+				"description": "한국일보 공식 트위터입니다. 치우치지 않는 신문.사실에 충실한 보도. 중도ㆍ정론지. 한국일보가 여러분에게 눈과 귀를 열고 있습니다. 제보 02)724-2312 webmaster@hankookilbo.com  https://t.co/bUvgBdr41j",
+				"url": "http://t.co/HpuZ3tGl9f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HpuZ3tGl9f",
+								"expanded_url": "http://www.hankookilbo.com",
+								"display_url": "hankookilbo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bUvgBdr41j",
+								"expanded_url": "http://www.facebook.com/hkilbo",
+								"display_url": "facebook.com/hkilbo",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 173263,
+				"friends_count": 45669,
+				"listed_count": 2644,
+				"created_at": "Sun Apr 18 06:43:33 +0000 2010",
+				"favourites_count": 860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64676,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741258876608090115/LTRiJbbn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134371459/1439279203",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 527,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 374,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 누가 실토하거나 제보한거네 ㅋㅋ-ㅋㅋㅋㅋㅋ https://t.co/BqVIduadyj"
+	},
+	{
+		"created_at": "Wed May 08 01:40:21 +0000 2019",
+		"id": 1125883036401188900,
+		"id_str": "1125938454800609280",
+		"full_text": "서울시 공무원 4만여명중 17명 서울광장 퀴어축제 반대 https://t.co/JK4CXhxuV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125883030298513400,
+					"id_str": "1125883030298513410",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D5_wpp-VUAIxz4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5_wpp-VUAIxz4d.jpg",
+					"url": "https://t.co/JK4CXhxuV3",
+					"display_url": "pic.twitter.com/JK4CXhxuV3",
+					"expanded_url": "https://twitter.com/deckybi/status/1125883036401188864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1606,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125883030298513400,
+					"id_str": "1125883030298513410",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D5_wpp-VUAIxz4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5_wpp-VUAIxz4d.jpg",
+					"url": "https://t.co/JK4CXhxuV3",
+					"display_url": "pic.twitter.com/JK4CXhxuV3",
+					"expanded_url": "https://twitter.com/deckybi/status/1125883036401188864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1606,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125883030298435600,
+					"id_str": "1125883030298435584",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D5_wpp-UIAAa0Dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5_wpp-UIAAa0Dg.jpg",
+					"url": "https://t.co/JK4CXhxuV3",
+					"display_url": "pic.twitter.com/JK4CXhxuV3",
+					"expanded_url": "https://twitter.com/deckybi/status/1125883036401188864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54256163,
+			"id_str": "54256163",
+			"name": "DECK🏳️‍🌈",
+			"screen_name": "deckybi",
+			"location": "Seoul, Korea",
+			"description": "문화기획자/B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2999,
+			"friends_count": 1172,
+			"listed_count": 72,
+			"created_at": "Mon Jul 06 16:37:25 +0000 2009",
+			"favourites_count": 2150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35456,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A2A2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7700",
+			"profile_text_color": "1A1A1A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 440,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시 공무원 4만여명중 17명 서울광장 퀴어축제 반대 https://t.co/JK4CXhxuV3"
+	},
+	{
 		"created_at": "Tue May 07 22:33:17 +0000 2019",
 		"id": 1125748094744780800,
 		"id_str": "1125891380260196352",
