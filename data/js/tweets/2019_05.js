@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 04:24:18 +0000 2019",
+		"id": 1125961424482603000,
+		"id_str": "1125979713715859456",
+		"full_text": "우마무스메 컨텐츠 프로듀서 퇴임 안내\n\n말딸 망했다 망했다 하더니 진짜로 망해버림 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\nウマ娘コンテンツプロデューサー退任のお知らせ｜ウマ娘 プリティーダービー 公式ポータルサイト｜Cygames https://t.co/W5U0SioYUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5U0SioYUb",
+					"expanded_url": "https://umamusume.jp/sp/news/detail.php?id=news-0124",
+					"display_url": "umamusume.jp/sp/news/detail…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291867260,
+			"id_str": "3291867260",
+			"name": "라클♬",
+			"screen_name": "Synesthesia_R",
+			"location": "프로덕션 사무소",
+			"description": "Profile Image by @rkellri / 타치바나 아리스가 너무너무 귀여운 사람 / デレステ 988079642 / 신데렐라걸즈 극장 번역 계정 @cingeki_wide_kr 운영 중 / 언제든 어디서든 초면에 죄송하실 필요 없습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 168,
+			"listed_count": 8,
+			"created_at": "Sat Jul 25 04:51:43 +0000 2015",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37898,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059807076405243904/DcBnorRE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059807076405243904/DcBnorRE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291867260/1550404127",
+			"profile_link_color": "3355AA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "우마무스메 컨텐츠 프로듀서 퇴임 안내\n\n말딸 망했다 망했다 하더니 진짜로 망해버림 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n\nウマ娘コンテンツプロデューサー退任のお知らせ｜ウマ娘 プリティーダービー 公式ポータルサイト｜Cygames https://t.co/W5U0SioYUb"
+	},
+	{
 		"created_at": "Wed May 08 04:15:31 +0000 2019",
 		"id": 1125648355009253400,
 		"id_str": "1125977504827580416",
