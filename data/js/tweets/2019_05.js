@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 15:24:39 +0000 2019",
+		"id": 1126028744173318100,
+		"id_str": "1126508285186592769",
+		"full_text": "キリスト教(カトリック)では生後7週間になると祝福の儀礼として乳幼児の頭部にエナジードリンクを掛け流す伝統があるんですよ。かつては魔除けと健康を願って赤ワインを使ってたらしいですけど、時代の移り変わりと共に現代に適応した結果だと聞いてます。 https://t.co/dfkRmnlACD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126028738108375000,
+					"id_str": "1126028738108375040",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D6B1K93UwAAvX4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6B1K93UwAAvX4F.jpg",
+					"url": "https://t.co/dfkRmnlACD",
+					"display_url": "pic.twitter.com/dfkRmnlACD",
+					"expanded_url": "https://twitter.com/Rickn0812/status/1126028744173318144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126028738108375000,
+					"id_str": "1126028738108375040",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D6B1K93UwAAvX4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6B1K93UwAAvX4F.jpg",
+					"url": "https://t.co/dfkRmnlACD",
+					"display_url": "pic.twitter.com/dfkRmnlACD",
+					"expanded_url": "https://twitter.com/Rickn0812/status/1126028744173318144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2304328680,
+			"id_str": "2304328680",
+			"name": "り",
+			"screen_name": "Rickn0812",
+			"location": "カントー地方",
+			"description": "映画とか音楽とか好き",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 434,
+			"friends_count": 185,
+			"listed_count": 17,
+			"created_at": "Wed Jan 22 06:23:35 +0000 2014",
+			"favourites_count": 51129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35453,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126107759152222209/5lIS1B6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126107759152222209/5lIS1B6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304328680/1554271493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1216,
+		"favorite_count": 1921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "キリスト教(カトリック)では生後7週間になると祝福の儀礼として乳幼児の頭部にエナジードリンクを掛け流す伝統があるんですよ。かつては魔除けと健康を願って赤ワインを使ってたらしいですけど、時代の移り変わりと共に現代に適応した結果だと聞いてます。 https://t.co/dfkRmnlACD"
+	},
+	{
 		"created_at": "Thu May 09 14:25:20 +0000 2019",
 		"id": 1126111730512171000,
 		"id_str": "1126493358518497280",
