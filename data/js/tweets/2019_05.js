@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 14:25:20 +0000 2019",
+		"id": 1126111730512171000,
+		"id_str": "1126493358518497280",
+		"full_text": "これコーラに限らず色々煽れるやんwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww https://t.co/kSfPIUL8rO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126111702532026400,
+					"id_str": "1126111702532026368",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126111702532026368/pu/img/dHHqQRbHAD49hT6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126111702532026368/pu/img/dHHqQRbHAD49hT6A.jpg",
+					"url": "https://t.co/kSfPIUL8rO",
+					"display_url": "pic.twitter.com/kSfPIUL8rO",
+					"expanded_url": "https://twitter.com/kaninayuta0212/status/1126111730512171011/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126111702532026400,
+					"id_str": "1126111702532026368",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126111702532026368/pu/img/dHHqQRbHAD49hT6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126111702532026368/pu/img/dHHqQRbHAD49hT6A.jpg",
+					"url": "https://t.co/kSfPIUL8rO",
+					"display_url": "pic.twitter.com/kSfPIUL8rO",
+					"expanded_url": "https://twitter.com/kaninayuta0212/status/1126111730512171011/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 3330,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126111702532026368/pu/vid/638x360/HwHmUD1VslpYMkP_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126111702532026368/pu/vid/1136x640/OZ39QaxOPn9e4wzz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1126111702532026368/pu/pl/l3xEE6e4BjYQ6hyE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126111702532026368/pu/vid/478x270/tgfkdyeMnamgzT9u.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025417904399896600,
+			"id_str": "1025417904399896576",
+			"name": "なゆゆゆゆゆゆゆゆゆゆゆゆゆゆゆゆちゃん",
+			"screen_name": "kaninayuta0212",
+			"location": "coquette",
+			"description": "なゆでだよ/たいたつ/黄八段/蒼金玄人/CS/@MarineMirage522の囲い/面白い変態@Kastera0401/昔からよく関わってる生徒！ @6TYnhlY1fTFZorx/くまっしーファンクラブ/CF/#五等分/#いもさえ/#俺ガイル/#きんモザ/色々アニメみてる/声優/ガルパ/丸山、ひまり推し",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442,
+			"friends_count": 426,
+			"listed_count": 12,
+			"created_at": "Fri Aug 03 16:27:34 +0000 2018",
+			"favourites_count": 12528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125282955935354880/0Xlu-tCZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125282955935354880/0Xlu-tCZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025417904399896576/1557077540",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2691,
+		"favorite_count": 6228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "これコーラに限らず色々煽れるやんwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww https://t.co/kSfPIUL8rO"
+	},
+	{
 		"created_at": "Thu May 09 02:30:30 +0000 2019",
 		"id": 1126313464790523900,
 		"id_str": "1126313464790523906",
