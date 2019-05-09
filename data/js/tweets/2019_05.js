@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 01:12:22 +0000 2019",
+		"id": 1126109902080958500,
+		"id_str": "1126293803055206400",
+		"full_text": "이쯤하면 삼성도 슬슬 눈치 채고 三星의 세 개의 별은 각각 노동자, 기술자, 연구자를 상징한다고 홍보해야 할 것 같은데... 마침 로고도 “붉은 별”... https://t.co/1ueYanb7VQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126109896988979200,
+					"id_str": "1126109896988979200",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C-_CQUcAAHH1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C-_CQUcAAHH1h.jpg",
+					"url": "https://t.co/1ueYanb7VQ",
+					"display_url": "pic.twitter.com/1ueYanb7VQ",
+					"expanded_url": "https://twitter.com/eun_gong/status/1126109902080958466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126109896988979200,
+					"id_str": "1126109896988979200",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C-_CQUcAAHH1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C-_CQUcAAHH1h.jpg",
+					"url": "https://t.co/1ueYanb7VQ",
+					"display_url": "pic.twitter.com/1ueYanb7VQ",
+					"expanded_url": "https://twitter.com/eun_gong/status/1126109902080958466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 189,
+							"h": 163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126109005380644900,
+		"in_reply_to_status_id_str": "1126109005380644865",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "주공에 살던 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8249,
+			"friends_count": 614,
+			"listed_count": 139,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269198,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이쯤하면 삼성도 슬슬 눈치 채고 三星의 세 개의 별은 각각 노동자, 기술자, 연구자를 상징한다고 홍보해야 할 것 같은데... 마침 로고도 “붉은 별”... https://t.co/1ueYanb7VQ"
+	},
+	{
+		"created_at": "Thu May 09 01:12:06 +0000 2019",
+		"id": 1126109005380644900,
+		"id_str": "1126293733215838213",
+		"full_text": "현 정부의 경제정책에 만족하지 않는 국민이 52%이지만... 국민들이 고른 해답은 공정™️한 경제와 소득주도™️이니 가야 할 길이 너무나 명확한 것이다... https://t.co/BPB5tJxhtL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126108994823524400,
+					"id_str": "1126108994823524354",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C-KhbUEAIXNVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C-KhbUEAIXNVT.jpg",
+					"url": "https://t.co/BPB5tJxhtL",
+					"display_url": "pic.twitter.com/BPB5tJxhtL",
+					"expanded_url": "https://twitter.com/eun_gong/status/1126109005380644865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126108994823524400,
+					"id_str": "1126108994823524354",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D6C-KhbUEAIXNVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6C-KhbUEAIXNVT.jpg",
+					"url": "https://t.co/BPB5tJxhtL",
+					"display_url": "pic.twitter.com/BPB5tJxhtL",
+					"expanded_url": "https://twitter.com/eun_gong/status/1126109005380644865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "주공에 살던 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8249,
+			"friends_count": 614,
+			"listed_count": 139,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269198,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현 정부의 경제정책에 만족하지 않는 국민이 52%이지만... 국민들이 고른 해답은 공정™️한 경제와 소득주도™️이니 가야 할 길이 너무나 명확한 것이다... https://t.co/BPB5tJxhtL"
+	},
+	{
 		"created_at": "Thu May 09 00:05:05 +0000 2019",
 		"id": 1126162021462921200,
 		"id_str": "1126276870914199552",
