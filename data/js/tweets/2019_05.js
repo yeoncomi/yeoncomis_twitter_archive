@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 19:06:09 +0000 2019",
+		"id": 1126554978347311100,
+		"id_str": "1126564027474145280",
+		"full_text": "Chinese court holds appeal hearing for Canadian sentenced to death https://t.co/VSsvOwcAMV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VSsvOwcAMV",
+					"expanded_url": "http://huffp.st/Y8xkDsU",
+					"display_url": "huffp.st/Y8xkDsU",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289998339,
+			"id_str": "289998339",
+			"name": "HuffPost Canada",
+			"screen_name": "HuffPostCanada",
+			"location": "Canada",
+			"description": "Informing, engaging, and amplifying Canadians. Breaking news, analysis, opinion and more. DMs are open. Or email us: canada@huffpost.com.",
+			"url": "https://t.co/oC96egtnle",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oC96egtnle",
+							"expanded_url": "http://huffingtonpost.ca",
+							"display_url": "huffingtonpost.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395452,
+			"friends_count": 2262,
+			"listed_count": 3665,
+			"created_at": "Fri Apr 29 15:42:44 +0000 2011",
+			"favourites_count": 1280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875431846020075525/R4paGby9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289998339/1476141226",
+			"profile_link_color": "DD1A20",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chinese court holds appeal hearing for Canadian sentenced to death https://t.co/VSsvOwcAMV"
+	},
+	{
+		"created_at": "Thu May 09 19:04:54 +0000 2019",
+		"id": 1122042139884396500,
+		"id_str": "1126563714679787520",
+		"full_text": "https://t.co/VDxzzEIG3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122042107311452200,
+					"id_str": "1122042107311452160",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122042107311452160/pu/img/CXwcaJyY1gssdOEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122042107311452160/pu/img/CXwcaJyY1gssdOEa.jpg",
+					"url": "https://t.co/VDxzzEIG3C",
+					"display_url": "pic.twitter.com/VDxzzEIG3C",
+					"expanded_url": "https://twitter.com/UnusualVideos/status/1122042139884396545/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122042107311452200,
+					"id_str": "1122042107311452160",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122042107311452160/pu/img/CXwcaJyY1gssdOEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122042107311452160/pu/img/CXwcaJyY1gssdOEa.jpg",
+					"url": "https://t.co/VDxzzEIG3C",
+					"display_url": "pic.twitter.com/VDxzzEIG3C",
+					"expanded_url": "https://twitter.com/UnusualVideos/status/1122042139884396545/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							169
+						],
+						"duration_millis": 3203,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122042107311452160/pu/vid/510x270/-dO1Hgrme9ibbzOd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122042107311452160/pu/vid/640x338/yPMvQJq0gj_qikAJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1122042107311452160/pu/pl/q1SIqvSXBUCHP3uG.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 928022995964190700,
+			"id_str": "928022995964190720",
+			"name": "Unusual Videos 🤔",
+			"screen_name": "UnusualVideos",
+			"location": "",
+			"description": "videos are used with permission from creators - if I messed up please dm so I can fix",
+			"url": "https://t.co/0rqT53YTUl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0rqT53YTUl",
+							"expanded_url": "https://www.youtube.com/UnusualVideos",
+							"display_url": "youtube.com/UnusualVideos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 509144,
+			"friends_count": 269,
+			"listed_count": 733,
+			"created_at": "Tue Nov 07 22:14:58 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 813,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928731422361309184/6S9yatHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928731422361309184/6S9yatHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/928022995964190720/1548366283",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16342,
+		"favorite_count": 55931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/VDxzzEIG3C"
+	},
+	{
+		"created_at": "Thu May 09 19:04:30 +0000 2019",
+		"id": 1126562545257652200,
+		"id_str": "1126563614259679232",
+		"full_text": "#ThrowbackThursday 1967 edition! #tbt\n.\nLa nostalgie du jeudi, version 1967! https://t.co/gSrOJMC6QF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThrowbackThursday",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "tbt",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126562528711123000,
+					"id_str": "1126562528711122944",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Japq0XoAAYW7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Japq0XoAAYW7k.jpg",
+					"url": "https://t.co/gSrOJMC6QF",
+					"display_url": "pic.twitter.com/gSrOJMC6QF",
+					"expanded_url": "https://twitter.com/AirCanada/status/1126562545257652225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126562528711123000,
+					"id_str": "1126562528711122944",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Japq0XoAAYW7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Japq0XoAAYW7k.jpg",
+					"url": "https://t.co/gSrOJMC6QF",
+					"display_url": "pic.twitter.com/gSrOJMC6QF",
+					"expanded_url": "https://twitter.com/AirCanada/status/1126562545257652225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54904679,
+			"id_str": "54904679",
+			"name": "Air Canada",
+			"screen_name": "AirCanada",
+			"location": "",
+			"description": "Tag your pics with #FlyTheFlag! ✈️// Ajoutez le mot-clic #HautLeDrapeau à vos photos!",
+			"url": "https://t.co/rMUbpNkSHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rMUbpNkSHO",
+							"expanded_url": "http://www.aircanada.com/FlyTheFlag",
+							"display_url": "aircanada.com/FlyTheFlag",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 456004,
+			"friends_count": 28576,
+			"listed_count": 3492,
+			"created_at": "Wed Jul 08 14:06:50 +0000 2009",
+			"favourites_count": 7077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 316329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829743882267144192/4W1IV0qe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829743882267144192/4W1IV0qe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54904679/1531832062",
+			"profile_link_color": "072C4A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "363636",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#ThrowbackThursday 1967 edition! #tbt\n.\nLa nostalgie du jeudi, version 1967! https://t.co/gSrOJMC6QF"
+	},
+	{
 		"created_at": "Thu May 09 17:13:02 +0000 2019",
 		"id": 1126535560334495700,
 		"id_str": "1126535560334495744",
