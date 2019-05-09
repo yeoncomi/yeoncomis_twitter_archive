@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 02:06:45 +0000 2019",
+		"id": 1125264308307284000,
+		"id_str": "1126307486569353217",
+		"full_text": "요시키 좀 보게. ㅎ https://t.co/vHpBHP2BKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125264303504875500,
+					"id_str": "1125264303504875520",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5297BDV4AA9a8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5297BDV4AA9a8g.jpg",
+					"url": "https://t.co/vHpBHP2BKr",
+					"display_url": "pic.twitter.com/vHpBHP2BKr",
+					"expanded_url": "https://twitter.com/_qazplm__/status/1125264308307283969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125264303504875500,
+					"id_str": "1125264303504875520",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5297BDV4AA9a8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5297BDV4AA9a8g.jpg",
+					"url": "https://t.co/vHpBHP2BKr",
+					"display_url": "pic.twitter.com/vHpBHP2BKr",
+					"expanded_url": "https://twitter.com/_qazplm__/status/1125264308307283969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 610,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125264303508971500,
+					"id_str": "1125264303508971520",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5297BEUYAAGzCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5297BEUYAAGzCe.jpg",
+					"url": "https://t.co/vHpBHP2BKr",
+					"display_url": "pic.twitter.com/vHpBHP2BKr",
+					"expanded_url": "https://twitter.com/_qazplm__/status/1125264308307283969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 616,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125264303509033000,
+					"id_str": "1125264303509032961",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D5297BEVUAEfLOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5297BEVUAEfLOC.jpg",
+					"url": "https://t.co/vHpBHP2BKr",
+					"display_url": "pic.twitter.com/vHpBHP2BKr",
+					"expanded_url": "https://twitter.com/_qazplm__/status/1125264308307283969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 594,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2321803459,
+			"id_str": "2321803459",
+			"name": "왕수⚗️",
+			"screen_name": "_qazplm__",
+			"location": "",
+			"description": "안철수와 국지모는 정신차리세요. 손가혁도 같이 정신차리세요. + 주장할 때는 (자신의 신념이 아닌) 근거를 갖춰 해주세요. 차단의 이유가 될 수 있습니다. 논쟁 좋아합니다. 대신 상대 수준에 맞춰서 합니다. 언팔하시려거든 차단해주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6387,
+			"friends_count": 763,
+			"listed_count": 45,
+			"created_at": "Sat Feb 01 05:07:10 +0000 2014",
+			"favourites_count": 10912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54812,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079739470948102145/cO64g2FF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079739470948102145/cO64g2FF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2321803459/1543045114",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5239,
+		"favorite_count": 969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요시키 좀 보게. ㅎ https://t.co/vHpBHP2BKr"
+	},
+	{
 		"created_at": "Thu May 09 01:12:22 +0000 2019",
 		"id": 1126109902080958500,
 		"id_str": "1126293803055206400",
