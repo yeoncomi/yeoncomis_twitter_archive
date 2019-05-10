@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 20:47:52 +0000 2019",
+		"id": 1126830488222494700,
+		"id_str": "1126952012279468032",
+		"full_text": "일베발 가짜뉴스가 어떤 것인지 그리고 그 씨앗을 누가 뿌리고 있는지 알 수 있다 https://t.co/UtR1O5HLPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126830416135053300,
+					"id_str": "1126830416135053312",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NOSxPV4AA18gV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NOSxPV4AA18gV.jpg",
+					"url": "https://t.co/UtR1O5HLPT",
+					"display_url": "pic.twitter.com/UtR1O5HLPT",
+					"expanded_url": "https://twitter.com/voqmz/status/1126830488222494721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126830416135053300,
+					"id_str": "1126830416135053312",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NOSxPV4AA18gV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NOSxPV4AA18gV.jpg",
+					"url": "https://t.co/UtR1O5HLPT",
+					"display_url": "pic.twitter.com/UtR1O5HLPT",
+					"expanded_url": "https://twitter.com/voqmz/status/1126830488222494721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126830435571458000,
+					"id_str": "1126830435571458049",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NOT5pV4AEmhma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NOT5pV4AEmhma.jpg",
+					"url": "https://t.co/UtR1O5HLPT",
+					"display_url": "pic.twitter.com/UtR1O5HLPT",
+					"expanded_url": "https://twitter.com/voqmz/status/1126830488222494721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126830454970015700,
+					"id_str": "1126830454970015744",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NOVB6UYAANJgc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NOVB6UYAANJgc.jpg",
+					"url": "https://t.co/UtR1O5HLPT",
+					"display_url": "pic.twitter.com/UtR1O5HLPT",
+					"expanded_url": "https://twitter.com/voqmz/status/1126830488222494721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126830471751422000,
+					"id_str": "1126830471751421952",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NOWAbUUAApDAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NOWAbUUAApDAp.jpg",
+					"url": "https://t.co/UtR1O5HLPT",
+					"display_url": "pic.twitter.com/UtR1O5HLPT",
+					"expanded_url": "https://twitter.com/voqmz/status/1126830488222494721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1016884240531669000,
+			"id_str": "1016884240531668992",
+			"name": "Viktor",
+			"screen_name": "voqmz",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 108,
+			"listed_count": 0,
+			"created_at": "Wed Jul 11 03:17:50 +0000 2018",
+			"favourites_count": 1244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26252,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124838794232918016/lNzujq9E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124838794232918016/lNzujq9E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1016884240531668992/1556972768",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일베발 가짜뉴스가 어떤 것인지 그리고 그 씨앗을 누가 뿌리고 있는지 알 수 있다 https://t.co/UtR1O5HLPT"
+	},
+	{
 		"created_at": "Fri May 10 19:22:29 +0000 2019",
 		"id": 969432595195809800,
 		"id_str": "1126930524843327488",
