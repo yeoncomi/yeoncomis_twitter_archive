@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 22:31:51 +0000 2019",
+		"id": 1126977651803951100,
+		"id_str": "1126978182442172416",
+		"full_text": "독일 맥도날드가 베지버거를 발전시킨 새로운 비건버거와 빅비건TS를 내놓았다. 콩과 밀에서 추출한 단백질로 만든 패티에 토마토, 피클, 롤로비온다 상추 등으로 고기없이 진짜 맥도날드의 맛을 담아냈다며 독일 전역에서 베지버거를 대체하여 판매가 시작됐다. 빅비건 단품가 3.89€ https://t.co/VovtplDCGq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126973927471796200,
+					"id_str": "1126973927471796224",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PQ0OoVUAALIye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PQ0OoVUAALIye.jpg",
+					"url": "https://t.co/VovtplDCGq",
+					"display_url": "pic.twitter.com/VovtplDCGq",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1126977651803951105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1083,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126973927471796200,
+					"id_str": "1126973927471796224",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PQ0OoVUAALIye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PQ0OoVUAALIye.jpg",
+					"url": "https://t.co/VovtplDCGq",
+					"display_url": "pic.twitter.com/VovtplDCGq",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1126977651803951105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1083,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1083,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210400,
+			"friends_count": 496,
+			"listed_count": 349,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38357,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1551049603",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "독일 맥도날드가 베지버거를 발전시킨 새로운 비건버거와 빅비건TS를 내놓았다. 콩과 밀에서 추출한 단백질로 만든 패티에 토마토, 피클, 롤로비온다 상추 등으로 고기없이 진짜 맥도날드의 맛을 담아냈다며 독일 전역에서 베지버거를 대체하여 판매가 시작됐다. 빅비건 단품가 3.89€ https://t.co/VovtplDCGq"
+	},
+	{
 		"created_at": "Fri May 10 20:47:52 +0000 2019",
 		"id": 1126830488222494700,
 		"id_str": "1126952012279468032",
