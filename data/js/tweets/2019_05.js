@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 06:56:37 +0000 2019",
+		"id": 1126659395297767400,
+		"id_str": "1126742822818725888",
+		"full_text": "이북리더 김정은 https://t.co/YCvTIgbDXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126659388352024600,
+					"id_str": "1126659388352024577",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D6KyvpGU0AEMNTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6KyvpGU0AEMNTE.jpg",
+					"url": "https://t.co/YCvTIgbDXN",
+					"display_url": "pic.twitter.com/YCvTIgbDXN",
+					"expanded_url": "https://twitter.com/Ai_Minachan/status/1126659395297767430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126659388352024600,
+					"id_str": "1126659388352024577",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D6KyvpGU0AEMNTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6KyvpGU0AEMNTE.jpg",
+					"url": "https://t.co/YCvTIgbDXN",
+					"display_url": "pic.twitter.com/YCvTIgbDXN",
+					"expanded_url": "https://twitter.com/Ai_Minachan/status/1126659395297767430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3195435608,
+			"id_str": "3195435608",
+			"name": "미나리",
+			"screen_name": "Ai_Minachan",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 182,
+			"listed_count": 3,
+			"created_at": "Thu May 14 15:18:22 +0000 2015",
+			"favourites_count": 9744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2990,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126339107121065986/5wezwDjl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126339107121065986/5wezwDjl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3195435608/1555493445",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이북리더 김정은 https://t.co/YCvTIgbDXN"
+	},
+	{
 		"created_at": "Fri May 10 05:35:47 +0000 2019",
 		"id": 1126488837343965200,
 		"id_str": "1126722481157361666",
