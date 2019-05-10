@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 19:22:29 +0000 2019",
+		"id": 969432595195809800,
+		"id_str": "1126930524843327488",
+		"full_text": "-드시고 계신게 뭔가요?\n-아, 이거요? 맥머핀입니다\n-맥머핀이 뭔가요?\n-맥도날드에서 파는 아침 메뉴랍니다\n-이 동네에는 맥도날드가 없는데요?\n-아, 그럼 아무것도 아니군요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223079039,
+			"id_str": "223079039",
+			"name": "마사토끼",
+			"screen_name": "masatokki",
+			"location": "",
+			"description": "마사토끼와 함께, 어쨌거나 길게가는것이 목적인 만화가/스토리작가",
+			"url": "https://t.co/3QNV5rFmoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3QNV5rFmoR",
+							"expanded_url": "https://blog.naver.com/masaruchi",
+							"display_url": "blog.naver.com/masaruchi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35988,
+			"friends_count": 116,
+			"listed_count": 239,
+			"created_at": "Sun Dec 05 09:46:15 +0000 2010",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3257,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/627062858136731648/IfquL-F__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/627062858136731648/IfquL-F__normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "-드시고 계신게 뭔가요?\n-아, 이거요? 맥머핀입니다\n-맥머핀이 뭔가요?\n-맥도날드에서 파는 아침 메뉴랍니다\n-이 동네에는 맥도날드가 없는데요?\n-아, 그럼 아무것도 아니군요"
+	},
+	{
 		"created_at": "Fri May 10 06:56:37 +0000 2019",
 		"id": 1126659395297767400,
 		"id_str": "1126742822818725888",
