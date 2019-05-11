@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 15:16:32 +0000 2019",
+		"id": 1126803072259317800,
+		"id_str": "1127231018291740672",
+		"full_text": "이 카톡 대화의 가장 무서운 점은, 이걸 캡쳐해서 올린 쪽이 총무가 아니라 사용자 측이라는 사실이다. https://t.co/OJCXYdFsir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OJCXYdFsir",
+					"expanded_url": "https://twitter.com/go1rani/status/1126773908567257090",
+					"display_url": "twitter.com/go1rani/status…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380745993,
+			"id_str": "380745993",
+			"name": "카라차",
+			"screen_name": "RealKaracha",
+			"location": "프로필 이미지 by BU-NONG",
+			"description": "성인소설을 씁니다. 성인인증과 결제가 필요합니다.",
+			"url": "https://t.co/CDZllLbjRi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CDZllLbjRi",
+							"expanded_url": "http://www.lezhin.com/novel/plantgirl",
+							"display_url": "lezhin.com/novel/plantgirl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14174,
+			"friends_count": 949,
+			"listed_count": 213,
+			"created_at": "Tue Sep 27 04:51:23 +0000 2011",
+			"favourites_count": 6777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380745993/1441145716",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126773908567257100,
+		"quoted_status_id_str": "1126773908567257090",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OJCXYdFsir",
+			"expanded": "https://twitter.com/go1rani/status/1126773908567257090",
+			"display": "twitter.com/go1rani/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 09:00:08 +0000 2019",
+			"id": 1126773908567257100,
+			"id_str": "1126773908567257090",
+			"full_text": "3년을 견딘 독서실 총무 https://t.co/zA9vkDQjzz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1126773902275858400,
+						"id_str": "1126773902275858433",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ma5OtVUAEBPtJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ma5OtVUAEBPtJ.jpg",
+						"url": "https://t.co/zA9vkDQjzz",
+						"display_url": "pic.twitter.com/zA9vkDQjzz",
+						"expanded_url": "https://twitter.com/go1rani/status/1126773908567257090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 935,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 935,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126773902275858400,
+						"id_str": "1126773902275858433",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ma5OtVUAEBPtJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ma5OtVUAEBPtJ.jpg",
+						"url": "https://t.co/zA9vkDQjzz",
+						"display_url": "pic.twitter.com/zA9vkDQjzz",
+						"expanded_url": "https://twitter.com/go1rani/status/1126773908567257090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 935,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 935,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1126773902267433000,
+						"id_str": "1126773902267432961",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ma5OrUwAE7amG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ma5OrUwAE7amG.jpg",
+						"url": "https://t.co/zA9vkDQjzz",
+						"display_url": "pic.twitter.com/zA9vkDQjzz",
+						"expanded_url": "https://twitter.com/go1rani/status/1126773908567257090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 492,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1036,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1126773902280015900,
+						"id_str": "1126773902280015873",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ma5OuUwAE5wxv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ma5OuUwAE5wxv.jpg",
+						"url": "https://t.co/zA9vkDQjzz",
+						"display_url": "pic.twitter.com/zA9vkDQjzz",
+						"expanded_url": "https://twitter.com/go1rani/status/1126773908567257090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 784,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 651,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1023826712822333400,
+				"id_str": "1023826712822333441",
+				"name": "무슨 일이 일어나고 있나요?",
+				"screen_name": "go1rani",
+				"location": "",
+				"description": "주로 답글창이 폭발하는 사회적 이슈를 다룹니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31949,
+				"friends_count": 5,
+				"listed_count": 69,
+				"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1006,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072328137793527808/S5Kh_giw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1534055590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13429,
+			"favorite_count": 2975,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3012,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 카톡 대화의 가장 무서운 점은, 이걸 캡쳐해서 올린 쪽이 총무가 아니라 사용자 측이라는 사실이다. https://t.co/OJCXYdFsir"
+	},
+	{
+		"created_at": "Sat May 11 15:11:42 +0000 2019",
+		"id": 1127159696492646400,
+		"id_str": "1127229802568605698",
+		"full_text": "#RT한_트친의_스킨십_한계선\n\n0:접근 X\n1:인사\n2:지그시 바라보기\n3:손잡기\n4:어깨에 손 올리기\n5:머리카락 쓰다듬기\n6:얼굴 만지기/부비부비\n7:안기기/안기\n8:이마 쪽\n9:볼 쪽\n10:입술 쪽\n11:딥키스\n12:낮은 수위(같은 자리에서 자기)\n13:중간 수위(목욕)\n14:높은 수위(🔞)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT한_트친의_스킨십_한계선",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3195435608,
+			"id_str": "3195435608",
+			"name": "미나리",
+			"screen_name": "Ai_Minachan",
+			"location": "",
+			"description": "고양잇과 고양이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 183,
+			"listed_count": 3,
+			"created_at": "Thu May 14 15:18:22 +0000 2015",
+			"favourites_count": 9754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126339107121065986/5wezwDjl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126339107121065986/5wezwDjl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3195435608/1555493445",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#RT한_트친의_스킨십_한계선\n\n0:접근 X\n1:인사\n2:지그시 바라보기\n3:손잡기\n4:어깨에 손 올리기\n5:머리카락 쓰다듬기\n6:얼굴 만지기/부비부비\n7:안기기/안기\n8:이마 쪽\n9:볼 쪽\n10:입술 쪽\n11:딥키스\n12:낮은 수위(같은 자리에서 자기)\n13:중간 수위(목욕)\n14:높은 수위(🔞)"
+	},
+	{
+		"created_at": "Sat May 11 15:11:22 +0000 2019",
+		"id": 1127229717063462900,
+		"id_str": "1127229717063462912",
+		"full_text": "@KangseolA_Moe 맥",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KangseolA_Moe",
+					"name": "Alice♡",
+					"id": 815864912622690300,
+					"id_str": "815864912622690305",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127219936504320000,
+		"in_reply_to_status_id_str": "1127219936504320002",
+		"in_reply_to_user_id": 815864912622690300,
+		"in_reply_to_user_id_str": "815864912622690305",
+		"in_reply_to_screen_name": "KangseolA_Moe",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1051,
+			"listed_count": 8,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@KangseolA_Moe 맥"
+	},
+	{
 		"created_at": "Sat May 11 02:29:03 +0000 2019",
 		"id": 1127037875608903700,
 		"id_str": "1127037875608903680",
