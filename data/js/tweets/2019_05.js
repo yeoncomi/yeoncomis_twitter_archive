@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 00:58:21 +0000 2019",
+		"id": 1127013094788493300,
+		"id_str": "1127015049371852800",
+		"full_text": "외부에 유출된 명탐정 피카츄의 장면 https://t.co/LqhlrQJnwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127013085988786200,
+					"id_str": "1127013085988786176",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D6P0bjeUEAAxZ6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6P0bjeUEAAxZ6T.jpg",
+					"url": "https://t.co/LqhlrQJnwn",
+					"display_url": "pic.twitter.com/LqhlrQJnwn",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1127013094788493312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 905,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127013085988786200,
+					"id_str": "1127013085988786176",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D6P0bjeUEAAxZ6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6P0bjeUEAAxZ6T.jpg",
+					"url": "https://t.co/LqhlrQJnwn",
+					"display_url": "pic.twitter.com/LqhlrQJnwn",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1127013094788493312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 905,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "",
+			"description": "BRUH I LOVE YOU 3000\n\n\n레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \n밈의 보급에 힘쓰겠습니다.\n\n표현 및 오역제보 받습니다/의역 있음/ NO 초멘나사이 ZONE/오타주의",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20036,
+			"friends_count": 4,
+			"listed_count": 61,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1277,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117354057792774144/grhQCU4Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1552221617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "외부에 유출된 명탐정 피카츄의 장면 https://t.co/LqhlrQJnwn"
+	},
+	{
+		"created_at": "Sat May 11 00:58:09 +0000 2019",
+		"id": 1126789405807530000,
+		"id_str": "1127015000596312065",
+		"full_text": "당신 방금...                     맛이...\n   치킨을...                   어떠셨습니까...?\n드셨습니까...? https://t.co/ErkeeOmhSB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126789389776875500,
+					"id_str": "1126789389776875520",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Mo-uJUcAA5c78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Mo-uJUcAA5c78.jpg",
+					"url": "https://t.co/ErkeeOmhSB",
+					"display_url": "pic.twitter.com/ErkeeOmhSB",
+					"expanded_url": "https://twitter.com/Shalliste/status/1126789405807529984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126789389776875500,
+					"id_str": "1126789389776875520",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Mo-uJUcAA5c78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Mo-uJUcAA5c78.jpg",
+					"url": "https://t.co/ErkeeOmhSB",
+					"display_url": "pic.twitter.com/ErkeeOmhSB",
+					"expanded_url": "https://twitter.com/Shalliste/status/1126789405807529984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126789398186512400,
+					"id_str": "1126789398186512389",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Mo_NeVUAUmn7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Mo_NeVUAUmn7s.jpg",
+					"url": "https://t.co/ErkeeOmhSB",
+					"display_url": "pic.twitter.com/ErkeeOmhSB",
+					"expanded_url": "https://twitter.com/Shalliste/status/1126789405807529984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3314322480,
+			"id_str": "3314322480",
+			"name": "SHΔRUΠΣ",
+			"screen_name": "Shalliste",
+			"location": "하늘잔 마루 2구 확장구역 나나모 대풍차 35호실",
+			"description": "ＦＩＮＡＬ ＦＡＮＴＡＳＹ ＸＩＶ",
+			"url": "https://t.co/dqWzKcIwBX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqWzKcIwBX",
+							"expanded_url": "https://ask.fm/shaarune",
+							"display_url": "ask.fm/shaarune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 722,
+			"listed_count": 0,
+			"created_at": "Thu Aug 13 13:40:17 +0000 2015",
+			"favourites_count": 12268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21266,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120635852948819969/AkdJtgM6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120635852948819969/AkdJtgM6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3314322480/1556015382",
+			"profile_link_color": "DAA520",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13490,
+		"favorite_count": 4889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신 방금...                     맛이...\n   치킨을...                   어떠셨습니까...?\n드셨습니까...? https://t.co/ErkeeOmhSB"
+	},
+	{
 		"created_at": "Fri May 10 22:31:51 +0000 2019",
 		"id": 1126977651803951100,
 		"id_str": "1126978182442172416",
