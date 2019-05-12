@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 23:23:12 +0000 2019",
+		"id": 1126682585063620600,
+		"id_str": "1127353491079348225",
+		"full_text": "Whoever is creating “White” Hulk edits:\n\nFUCKING STOP https://t.co/AoC0lOMGnb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126682581137809400,
+					"id_str": "1126682581137809408",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D6LH1o9W4AAf_YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6LH1o9W4AAf_YI.jpg",
+					"url": "https://t.co/AoC0lOMGnb",
+					"display_url": "pic.twitter.com/AoC0lOMGnb",
+					"expanded_url": "https://twitter.com/saltydkdan/status/1126682585063620608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126682581137809400,
+					"id_str": "1126682581137809408",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D6LH1o9W4AAf_YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6LH1o9W4AAf_YI.jpg",
+					"url": "https://t.co/AoC0lOMGnb",
+					"display_url": "pic.twitter.com/AoC0lOMGnb",
+					"expanded_url": "https://twitter.com/saltydkdan/status/1126682585063620608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126682581146251300,
+					"id_str": "1126682581146251264",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D6LH1o_XsAAxpik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6LH1o_XsAAxpik.jpg",
+					"url": "https://t.co/AoC0lOMGnb",
+					"display_url": "pic.twitter.com/AoC0lOMGnb",
+					"expanded_url": "https://twitter.com/saltydkdan/status/1126682585063620608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1752,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2806437800,
+			"id_str": "2806437800",
+			"name": "Salty",
+			"screen_name": "saltydkdan",
+			"location": "People's Republic of China",
+			"description": "Voice Actor, Artist, “Streamer”, and video maker| Banner Avatar by @tehjaxks | PFP by @aeroartwork | Opinions expressed here are my own",
+			"url": "https://t.co/yrAojYHip8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yrAojYHip8",
+							"expanded_url": "https://m.youtube.com/Saltydkdan",
+							"display_url": "m.youtube.com/Saltydkdan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22970,
+			"friends_count": 1316,
+			"listed_count": 172,
+			"created_at": "Sat Sep 13 00:26:28 +0000 2014",
+			"favourites_count": 46278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107811947347673088/2jtvZMg1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107811947347673088/2jtvZMg1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2806437800/1509563454",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4583,
+		"favorite_count": 24693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoever is creating “White” Hulk edits:\n\nFUCKING STOP https://t.co/AoC0lOMGnb"
+	},
+	{
 		"created_at": "Sat May 11 15:16:32 +0000 2019",
 		"id": 1126803072259317800,
 		"id_str": "1127231018291740672",
