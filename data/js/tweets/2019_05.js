@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 04:21:59 +0000 2019",
+		"id": 1127167061573001200,
+		"id_str": "1127428682434220033",
+		"full_text": "서강대 대숲 근황 https://t.co/NuX6kzQqDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127167049992527900,
+					"id_str": "1127167049992527872",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SAdcFUYAA9sOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SAdcFUYAA9sOJ.jpg",
+					"url": "https://t.co/NuX6kzQqDy",
+					"display_url": "pic.twitter.com/NuX6kzQqDy",
+					"expanded_url": "https://twitter.com/seka_1204/status/1127167061573001216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 966,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127167049992527900,
+					"id_str": "1127167049992527872",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SAdcFUYAA9sOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SAdcFUYAA9sOJ.jpg",
+					"url": "https://t.co/NuX6kzQqDy",
+					"display_url": "pic.twitter.com/NuX6kzQqDy",
+					"expanded_url": "https://twitter.com/seka_1204/status/1127167061573001216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 966,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127167049988370400,
+					"id_str": "1127167049988370433",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SAdcEU8AEZCsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SAdcEU8AEZCsE.jpg",
+					"url": "https://t.co/NuX6kzQqDy",
+					"display_url": "pic.twitter.com/NuX6kzQqDy",
+					"expanded_url": "https://twitter.com/seka_1204/status/1127167061573001216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 706,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1061915375103750100,
+			"id_str": "1061915375103750144",
+			"name": "세카[🌏]",
+			"screen_name": "seka_1204",
+			"location": "127.0.0.1",
+			"description": "@POSTECHLINQ에 서식하는 퀴어🏳️‍🌈 / 물리하고 싶은 휴학생 / 포유류 안 먹어 / 넹글 돌음 / @seka_insane / 애슼픔 https://t.co/QkOdfUsOWs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QkOdfUsOWs",
+							"expanded_url": "http://ask.fm/seka_1204",
+							"display_url": "ask.fm/seka_1204",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 150,
+			"listed_count": 0,
+			"created_at": "Mon Nov 12 09:35:29 +0000 2018",
+			"favourites_count": 1939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061919555205787648/U2XIJibe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061919555205787648/U2XIJibe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061915375103750144/1548168734",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 604,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서강대 대숲 근황 https://t.co/NuX6kzQqDy"
+	},
+	{
+		"created_at": "Sun May 12 04:21:34 +0000 2019",
+		"id": 1127185611708817400,
+		"id_str": "1127428579875155968",
+		"full_text": "엄마.. 생일 축하해.. 이 못난 아들.. 보러 여기까지 나와주구... 이렇게 볼줄은 몰랐네? 엄마..사랑해..마망... https://t.co/9AOERqViEV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127185599234863100,
+					"id_str": "1127185599234863104",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SRVJZUcAABvoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SRVJZUcAABvoj.jpg",
+					"url": "https://t.co/9AOERqViEV",
+					"display_url": "pic.twitter.com/9AOERqViEV",
+					"expanded_url": "https://twitter.com/Erase_you_/status/1127185611708817408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127185599234863100,
+					"id_str": "1127185599234863104",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SRVJZUcAABvoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SRVJZUcAABvoj.jpg",
+					"url": "https://t.co/9AOERqViEV",
+					"display_url": "pic.twitter.com/9AOERqViEV",
+					"expanded_url": "https://twitter.com/Erase_you_/status/1127185611708817408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1036920335025627100,
+			"id_str": "1036920335025627136",
+			"name": "레룹",
+			"screen_name": "Erase_you_",
+			"location": "@K_eleven_Reruvb",
+			"description": "@_Erase_you",
+			"url": "https://t.co/3lKahNigOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3lKahNigOd",
+							"expanded_url": "http://ask.fm/Rerub_Desuyo",
+							"display_url": "ask.fm/Rerub_Desuyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 611,
+			"listed_count": 74,
+			"created_at": "Tue Sep 04 10:14:07 +0000 2018",
+			"favourites_count": 11401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65444,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120761444381773824/XbNE454S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120761444381773824/XbNE454S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1036920335025627136/1556614634",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엄마.. 생일 축하해.. 이 못난 아들.. 보러 여기까지 나와주구... 이렇게 볼줄은 몰랐네? 엄마..사랑해..마망... https://t.co/9AOERqViEV"
+	},
+	{
+		"created_at": "Sun May 12 04:19:16 +0000 2019",
+		"id": 1127194167291957200,
+		"id_str": "1127428001195364352",
+		"full_text": "인싸들에게 오타쿠도 뺐긴지 오래임... \n\n게다가 인싸들이 소비하는 오타쿠 이미지도 알만함.,,, https://t.co/i4JJTOXMXj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127194160199397400,
+					"id_str": "1127194160199397377",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SZHdeUcAE3DWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SZHdeUcAE3DWa.jpg",
+					"url": "https://t.co/i4JJTOXMXj",
+					"display_url": "pic.twitter.com/i4JJTOXMXj",
+					"expanded_url": "https://twitter.com/kcanari/status/1127194167291957249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 1387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127194160199397400,
+					"id_str": "1127194160199397377",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SZHdeUcAE3DWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SZHdeUcAE3DWa.jpg",
+					"url": "https://t.co/i4JJTOXMXj",
+					"display_url": "pic.twitter.com/i4JJTOXMXj",
+					"expanded_url": "https://twitter.com/kcanari/status/1127194167291957249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 1387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127194160195178500,
+					"id_str": "1127194160195178496",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SZHddUEAAM8aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SZHddUEAAM8aq.jpg",
+					"url": "https://t.co/i4JJTOXMXj",
+					"display_url": "pic.twitter.com/i4JJTOXMXj",
+					"expanded_url": "https://twitter.com/kcanari/status/1127194167291957249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 915,
+							"h": 592,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 915,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49477,
+			"friends_count": 278,
+			"listed_count": 246,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 110259,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인싸들에게 오타쿠도 뺐긴지 오래임... \n\n게다가 인싸들이 소비하는 오타쿠 이미지도 알만함.,,, https://t.co/i4JJTOXMXj"
+	},
+	{
+		"created_at": "Sun May 12 04:18:38 +0000 2019",
+		"id": 1127259471141429200,
+		"id_str": "1127427842277429248",
+		"full_text": "한글과컴퓨터 현황 : 이제 대놓고 회사에 구매이력이 없으면 잠재적 복돌이 취급함\n\n한글 프로그램 빼면 그냥 시체인걸 아는지 기여이 다른거랑 끼워팔기 하는걸 떠나서 이렇게 지들 프로그램 구매이력이 없다고 잠재적 복돌이로 취급하면 누가 좋게 볼까 https://t.co/YSHSp78HRh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127259458348838900,
+					"id_str": "1127259458348838919",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TUgUCU8AcU3v0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TUgUCU8AcU3v0.jpg",
+					"url": "https://t.co/YSHSp78HRh",
+					"display_url": "pic.twitter.com/YSHSp78HRh",
+					"expanded_url": "https://twitter.com/longhorn573/status/1127259471141429248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127259458348838900,
+					"id_str": "1127259458348838919",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TUgUCU8AcU3v0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TUgUCU8AcU3v0.jpg",
+					"url": "https://t.co/YSHSp78HRh",
+					"display_url": "pic.twitter.com/YSHSp78HRh",
+					"expanded_url": "https://twitter.com/longhorn573/status/1127259471141429248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3281733980,
+			"id_str": "3281733980",
+			"name": "Longhorni",
+			"screen_name": "longhorn573",
+			"location": "몸은 지옥불반도에 정신은 안드로메다에",
+			"description": "보컬로이드(VOCALOID) 카가미네 렌(Kagamine Len/鏡音レン)이 최애캐인 갓스물이며 정작 트위터에 적는거는 욕설이랑 IT관련글이 절반이 넘기는합니다.\n(닉네임 변경 순서 ViperZR→Longhorni→ViperZR→Longhorni)\n(마음/하트 있으면 잘못 누른거에요.)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 429,
+			"listed_count": 1,
+			"created_at": "Thu Jul 16 15:54:04 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27530,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116870097916715013/ZEzlmOG8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116870097916715013/ZEzlmOG8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3281733980/1546532142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1436,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한글과컴퓨터 현황 : 이제 대놓고 회사에 구매이력이 없으면 잠재적 복돌이 취급함\n\n한글 프로그램 빼면 그냥 시체인걸 아는지 기여이 다른거랑 끼워팔기 하는걸 떠나서 이렇게 지들 프로그램 구매이력이 없다고 잠재적 복돌이로 취급하면 누가 좋게 볼까 https://t.co/YSHSp78HRh"
+	},
+	{
 		"created_at": "Sun May 12 03:02:56 +0000 2019",
 		"id": 1127173270996840400,
 		"id_str": "1127408789651464192",
