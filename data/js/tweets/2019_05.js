@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 16:26:53 +0000 2019",
+		"id": 1126396453490810900,
+		"id_str": "1127611111929290752",
+		"full_text": "쇼코 오열중 https://t.co/ifMRyvlJ7a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126396443101524000,
+					"id_str": "1126396443101523968",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D6HDmNtUcAAs0MW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6HDmNtUcAAs0MW.jpg",
+					"url": "https://t.co/ifMRyvlJ7a",
+					"display_url": "pic.twitter.com/ifMRyvlJ7a",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1126396453490810880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 457,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 259,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 1417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126396443101524000,
+					"id_str": "1126396443101523968",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D6HDmNtUcAAs0MW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6HDmNtUcAAs0MW.jpg",
+					"url": "https://t.co/ifMRyvlJ7a",
+					"display_url": "pic.twitter.com/ifMRyvlJ7a",
+					"expanded_url": "https://twitter.com/DCinside_voice/status/1126396453490810880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 457,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 259,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 1417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028140777862352900,
+			"id_str": "1028140777862352896",
+			"name": "디씨의 소리를 찾아서",
+			"screen_name": "DCinside_voice",
+			"location": "",
+			"description": "세상에서 제일 재미있는 디씨스샷을 올리는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Sat Aug 11 04:47:18 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028142201925074944/TfgBENQD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028140777862352896/1533963178",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쇼코 오열중 https://t.co/ifMRyvlJ7a"
+	},
+	{
 		"created_at": "Sun May 12 10:58:01 +0000 2019",
 		"id": 1127441027055251500,
 		"id_str": "1127528350287687680",
