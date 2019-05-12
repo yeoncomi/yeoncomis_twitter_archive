@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 10:58:01 +0000 2019",
+		"id": 1127441027055251500,
+		"id_str": "1127528350287687680",
+		"full_text": "언제부터 언론사 기자들에게 문자 돌린 걸 사과로 퉁치는 문화가 생겼나? 정론관 나가서 직접 하는게 여의도 사과 형식 아니었나? 언론이 한통속 티를 내내 https://t.co/f0bgQgSY8B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f0bgQgSY8B",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1127360049867661312",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 453845917,
+			"id_str": "453845917",
+			"name": "루나(안남시 작전세력 교육분과)",
+			"screen_name": "fakemommy",
+			"location": "대한민국 어딘가",
+			"description": "아무말 막말러",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5992,
+			"friends_count": 934,
+			"listed_count": 101,
+			"created_at": "Tue Jan 03 10:30:36 +0000 2012",
+			"favourites_count": 1766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52192,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127360049867661300,
+		"quoted_status_id_str": "1127360049867661312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f0bgQgSY8B",
+			"expanded": "https://twitter.com/yonhaptweet/status/1127360049867661312",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 11 23:49:15 +0000 2019",
+			"id": 1127360049867661300,
+			"id_str": "1127360049867661312",
+			"full_text": "나경원, '문빠·달창' 발언 논란에 사과…\"의미·유래 몰랐다\"\nhttps://t.co/0WTemtg6pB\n\n자유한국당 나경원 원내대표는 11일 '문빠'·'달창' 등의 용어로 문재인 대통령 지지자들을 표현한 데 대해 사과했습니다 https://t.co/WvhSaMkpfC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0WTemtg6pB",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20190511051900001?input=tw",
+						"display_url": "yna.co.kr/view/AKR201905…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1127359983169859600,
+						"id_str": "1127359983169859586",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Uv7oLUcAIeXMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Uv7oLUcAIeXMh.jpg",
+						"url": "https://t.co/WvhSaMkpfC",
+						"display_url": "pic.twitter.com/WvhSaMkpfC",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1127360049867661312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 529,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127359983169859600,
+						"id_str": "1127359983169859586",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Uv7oLUcAIeXMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Uv7oLUcAIeXMh.jpg",
+						"url": "https://t.co/WvhSaMkpfC",
+						"display_url": "pic.twitter.com/WvhSaMkpfC",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1127360049867661312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 529,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "https://t.co/1xjsaY9KNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 304478,
+				"friends_count": 73970,
+				"listed_count": 4810,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 186028,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 147,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "언제부터 언론사 기자들에게 문자 돌린 걸 사과로 퉁치는 문화가 생겼나? 정론관 나가서 직접 하는게 여의도 사과 형식 아니었나? 언론이 한통속 티를 내내 https://t.co/f0bgQgSY8B"
+	},
+	{
+		"created_at": "Sun May 12 10:56:40 +0000 2019",
+		"id": 1127246897721200600,
+		"id_str": "1127528009135603713",
+		"full_text": "문제 발상 부터가 틀렸다\n\n이게 왜 악마냐? 천사고만 https://t.co/fv4v9RGOCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127246889806483500,
+					"id_str": "1127246889806483456",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TJEukUUAAIf4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TJEukUUAAIf4S.jpg",
+					"url": "https://t.co/fv4v9RGOCH",
+					"display_url": "pic.twitter.com/fv4v9RGOCH",
+					"expanded_url": "https://twitter.com/pigori/status/1127246897721200640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127246889806483500,
+					"id_str": "1127246889806483456",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TJEukUUAAIf4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TJEukUUAAIf4S.jpg",
+					"url": "https://t.co/fv4v9RGOCH",
+					"display_url": "pic.twitter.com/fv4v9RGOCH",
+					"expanded_url": "https://twitter.com/pigori/status/1127246897721200640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "ピゴリ",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 100,
+			"listed_count": 16,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 8364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34989,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1540016887",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3459,
+		"favorite_count": 729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문제 발상 부터가 틀렸다\n\n이게 왜 악마냐? 천사고만 https://t.co/fv4v9RGOCH"
+	},
+	{
 		"created_at": "Sun May 12 05:22:27 +0000 2019",
 		"id": 1127132676152913900,
 		"id_str": "1127443902837870594",
