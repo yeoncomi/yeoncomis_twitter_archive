@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 05:22:27 +0000 2019",
+		"id": 1127132676152913900,
+		"id_str": "1127443902837870594",
+		"full_text": "얼마나 싸갈머리 없게 문의를 보내야 답이 저렇게 올까\n\n와중에 틀린말은 하나도 없는데 빼애앵 싸가지없어 https://t.co/ek2MP2yoR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ek2MP2yoR0",
+					"expanded_url": "https://twitter.com/moodtosleep/status/1126911465770721280",
+					"display_url": "twitter.com/moodtosleep/st…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 761497903781154800,
+			"id_str": "761497903781154816",
+			"name": "청조",
+			"screen_name": "BluedBlueBird",
+			"location": "애스크에 지랄하면 나도할것",
+			"description": "귀여움",
+			"url": "https://t.co/zQNdoBD59X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zQNdoBD59X",
+							"expanded_url": "https://ask.fm/pte097086?utm_source=tw_share_pr",
+							"display_url": "ask.fm/pte097086?utm_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 292,
+			"listed_count": 5,
+			"created_at": "Fri Aug 05 09:43:43 +0000 2016",
+			"favourites_count": 6687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9522,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112858767866028032/tG6TM36H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112858767866028032/tG6TM36H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/761497903781154816/1542154214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126911465770721300,
+		"quoted_status_id_str": "1126911465770721280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ek2MP2yoR0",
+			"expanded": "https://twitter.com/moodtosleep/status/1126911465770721280",
+			"display": "twitter.com/moodtosleep/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 18:06:45 +0000 2019",
+			"id": 1126911465770721300,
+			"id_str": "1126911465770721280",
+			"full_text": "케이티 보겸이 광고하는 거에 항의하신 분 답 이렇게 오셨다는데 답변 진짜 싸갈머리 없는 것 봐 우리가 누굴 쓰든 니네 알 바 아니라는 거야 뭐야 내가 통신사 바꾸고말지 진짜 짜증나서 https://t.co/4UmfEEIrE9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1126911459621883900,
+						"id_str": "1126911459621883904",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/D6OYAHwUUAA-Bx0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6OYAHwUUAA-Bx0.jpg",
+						"url": "https://t.co/4UmfEEIrE9",
+						"display_url": "pic.twitter.com/4UmfEEIrE9",
+						"expanded_url": "https://twitter.com/moodtosleep/status/1126911465770721280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 698,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126911459621883900,
+						"id_str": "1126911459621883904",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/D6OYAHwUUAA-Bx0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6OYAHwUUAA-Bx0.jpg",
+						"url": "https://t.co/4UmfEEIrE9",
+						"display_url": "pic.twitter.com/4UmfEEIrE9",
+						"expanded_url": "https://twitter.com/moodtosleep/status/1126911465770721280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 698,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965514811994853400,
+				"id_str": "965514811994853376",
+				"name": "영원",
+				"screen_name": "moodtosleep",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 686,
+				"friends_count": 84,
+				"listed_count": 8,
+				"created_at": "Mon Feb 19 09:14:04 +0000 2018",
+				"favourites_count": 2945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1413,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120322719415803904/BtIFy2aU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120322719415803904/BtIFy2aU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/965514811994853376/1536922043",
+				"profile_link_color": "859DD6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31391,
+			"favorite_count": 3825,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 21,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼마나 싸갈머리 없게 문의를 보내야 답이 저렇게 올까\n\n와중에 틀린말은 하나도 없는데 빼애앵 싸가지없어 https://t.co/ek2MP2yoR0"
+	},
+	{
 		"created_at": "Sun May 12 04:21:59 +0000 2019",
 		"id": 1127167061573001200,
 		"id_str": "1127428682434220033",
@@ -142,7 +415,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "세카[🌏]",
 			"screen_name": "seka_1204",
 			"location": "127.0.0.1",
-			"description": "@POSTECHLINQ에 서식하는 퀴어🏳️‍🌈 / 물리하고 싶은 휴학생 / 포유류 안 먹어 / 넹글 돌음 / @seka_insane / 애슼픔 https://t.co/QkOdfUsOWs",
+			"description": "@POSTECHLINQ에 서식하는 퀴어🏳️🌈 / 물리하고 싶은 휴학생 / 포유류 안 먹어 / 넹글 돌음 / @seka_insane / 애슼픔 https://t.co/QkOdfUsOWs",
 			"url": null,
 			"entities": {
 				"description": {
