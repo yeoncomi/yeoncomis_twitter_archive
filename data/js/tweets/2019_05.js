@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 22:54:52 +0000 2019",
+		"id": 1127524292864954400,
+		"id_str": "1127708749844533248",
+		"full_text": "전근대적 의전을 무슨 정보 전달처럼 말할게 아니고 쪽팔린줄 알아야한다. 뉴스 이렇게 멍청하게 해도 되냐 https://t.co/BhPidGqSxP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BhPidGqSxP",
+					"expanded_url": "https://twitter.com/mbcnews/status/1126690825147121664",
+					"display_url": "twitter.com/mbcnews/status…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4364385194,
+			"id_str": "4364385194",
+			"name": "영감탱 가만안둬",
+			"screen_name": "myogimyo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2390,
+			"friends_count": 117,
+			"listed_count": 23,
+			"created_at": "Thu Nov 26 07:28:14 +0000 2015",
+			"favourites_count": 9386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978332564292292608/DPBif4Uo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978332564292292608/DPBif4Uo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4364385194/1522085576",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126690825147121700,
+		"quoted_status_id_str": "1126690825147121664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BhPidGqSxP",
+			"expanded": "https://twitter.com/mbcnews/status/1126690825147121664",
+			"display": "twitter.com/mbcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 03:30:00 +0000 2019",
+			"id": 1126690825147121700,
+			"id_str": "1126690825147121664",
+			"full_text": "엘리베이터 안에도 상석이 있다는 사실 알고 계시나요? https://t.co/thjPsou1Y7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1126654160072392700,
+						"id_str": "1126654160072392704",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Kyw8gUcAAVP2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Kyw8gUcAAVP2R.jpg",
+						"url": "https://t.co/thjPsou1Y7",
+						"display_url": "pic.twitter.com/thjPsou1Y7",
+						"expanded_url": "https://twitter.com/mbcnews/status/1126690825147121664/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126654160072392700,
+						"id_str": "1126654160072392704",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Kyw8gUcAAVP2R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Kyw8gUcAAVP2R.jpg",
+						"url": "https://t.co/thjPsou1Y7",
+						"display_url": "pic.twitter.com/thjPsou1Y7",
+						"expanded_url": "https://twitter.com/mbcnews/status/1126690825147121664/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 78278,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1126654160072392704/vid/640x360/nq6PXj56ZESRu-rQ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1126654160072392704/pl/monRmAisqg7jxfbG.m3u8?tag=12"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1126654160072392704/vid/320x180/_K6HevuuNcQ_SPpO.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1126654160072392704/vid/1280x720/Jui8n5oIyZTAibrc.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "엘리베이터 상석은 어디?",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://imnews.imbc.com/news/snsNews/5282601_22345.html?menuid=Msp16"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41735670,
+				"id_str": "41735670",
+				"name": "MBC News (MBC 뉴스)",
+				"screen_name": "mbcnews",
+				"location": "",
+				"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+				"url": "http://t.co/g6J4PaiDlj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g6J4PaiDlj",
+								"expanded_url": "http://imnews.imbc.com",
+								"display_url": "imnews.imbc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 373710,
+				"friends_count": 154037,
+				"listed_count": 3700,
+				"created_at": "Fri May 22 02:45:13 +0000 2009",
+				"favourites_count": 504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121038,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1531700689",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 565,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 310,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전근대적 의전을 무슨 정보 전달처럼 말할게 아니고 쪽팔린줄 알아야한다. 뉴스 이렇게 멍청하게 해도 되냐 https://t.co/BhPidGqSxP"
+	},
+	{
+		"created_at": "Sun May 12 22:52:16 +0000 2019",
+		"id": 1127684932472660000,
+		"id_str": "1127708097143697408",
+		"full_text": "Ich will eine Katze haben... \nAlle haben eine Katze außer mir \n나도 고양이 키울래... 나빼고 다 고양이 있어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749714997459247100,
+			"id_str": "749714997459247105",
+			"name": "독일어봇",
+			"screen_name": "Koreanerin_inDE",
+			"location": "Deutschland",
+			"description": "직접 관리하는 수동봇,의식의 흐름대로 트윗함. 초멘나사이 안하셔도 됩니다. 정치계, 박근혜 사면 운운하는 사람들 차단. ❤️우리는 잘 하고 있습니다.❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6652,
+			"friends_count": 44,
+			"listed_count": 40,
+			"created_at": "Sun Jul 03 21:22:39 +0000 2016",
+			"favourites_count": 1916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2877,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/967913886090432512/DP911MtW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/967913886090432512/DP911MtW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749714997459247105/1467581607",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Ich will eine Katze haben... \nAlle haben eine Katze außer mir \n나도 고양이 키울래... 나빼고 다 고양이 있어"
+	},
+	{
+		"created_at": "Sun May 12 22:49:59 +0000 2019",
+		"id": 1127190480373014500,
+		"id_str": "1127707522016501760",
+		"full_text": "이 양반 슬슬 버츄얼 유튜버 할 생각 없는 것 같은데 https://t.co/zxDbkTtnsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127190471749525500,
+					"id_str": "1127190471749525504",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SVww7V4AAmori.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6SVww7V4AAmori.png",
+					"url": "https://t.co/zxDbkTtnsj",
+					"display_url": "pic.twitter.com/zxDbkTtnsj",
+					"expanded_url": "https://twitter.com/mota6nako/status/1127190480373014530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 102,
+							"h": 102,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127190471749525500,
+					"id_str": "1127190471749525504",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SVww7V4AAmori.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6SVww7V4AAmori.png",
+					"url": "https://t.co/zxDbkTtnsj",
+					"display_url": "pic.twitter.com/zxDbkTtnsj",
+					"expanded_url": "https://twitter.com/mota6nako/status/1127190480373014530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 102,
+							"h": 102,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 247,
+							"h": 102,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227568097,
+			"id_str": "227568097",
+			"name": "천솜향",
+			"screen_name": "mota6nako",
+			"location": "",
+			"description": "3D modeler, (前)만화가",
+			"url": "https://t.co/GRJDyZAOZi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRJDyZAOZi",
+							"expanded_url": "https://www.pixiv.net/member.php?id=2049900",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3127,
+			"friends_count": 369,
+			"listed_count": 16,
+			"created_at": "Fri Dec 17 05:07:54 +0000 2010",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095061894283460608/FyZJVEJT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095061894283460608/FyZJVEJT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227568097/1553953194",
+			"profile_link_color": "03BCFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 양반 슬슬 버츄얼 유튜버 할 생각 없는 것 같은데 https://t.co/zxDbkTtnsj"
+	},
+	{
 		"created_at": "Sun May 12 21:52:59 +0000 2019",
 		"id": 1127683374993199100,
 		"id_str": "1127693177178050560",
