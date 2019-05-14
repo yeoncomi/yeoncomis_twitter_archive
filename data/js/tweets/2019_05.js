@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 15:30:53 +0000 2019",
+		"id": 1128281907504902100,
+		"id_str": "1128321794136363008",
+		"full_text": "내가 치마를 입게 된 이유\n\n막내동생(1997년생)이 띠동갑인데\n\n나 중학교 때 2살도 안되서 전신화상 입었음\n\n여동생이라서 더 안타까웠고\n\n지금은 성인이지만\n\n제대로 꾸밀 수도 없는 아이...\n\n그 아이를 위해서 메이크업을 배웠고\n\n치마를 입고 보여주면서\n\n즐겁게 해줬던 기억이난다..\n\n사랑해 To. H https://t.co/qGwXQdk4Hh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128281905097465900,
+					"id_str": "1128281905097465856",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D6h2ai_V4AA9KhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6h2ai_V4AA9KhO.jpg",
+					"url": "https://t.co/qGwXQdk4Hh",
+					"display_url": "pic.twitter.com/qGwXQdk4Hh",
+					"expanded_url": "https://twitter.com/Hayoonmi85/status/1128281907504902144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128281905097465900,
+					"id_str": "1128281905097465856",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D6h2ai_V4AA9KhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6h2ai_V4AA9KhO.jpg",
+					"url": "https://t.co/qGwXQdk4Hh",
+					"display_url": "pic.twitter.com/qGwXQdk4Hh",
+					"expanded_url": "https://twitter.com/Hayoonmi85/status/1128281907504902144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966846195854274600,
+			"id_str": "966846195854274561",
+			"name": "HYM",
+			"screen_name": "Hayoonmi85",
+			"location": "대한민국 대전",
+			"description": "난 댄스러쉬 어린이 댄리니입니다.\n\n많은 가르침 주세요☆ Love L\n\n여장+코스어 취미를 색안경쓰고 보지말아요~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4407,
+			"friends_count": 168,
+			"listed_count": 12,
+			"created_at": "Fri Feb 23 01:24:31 +0000 2018",
+			"favourites_count": 2389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106931957819039744/AzCztxik_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106931957819039744/AzCztxik_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966846195854274561/1519967284",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 치마를 입게 된 이유\n\n막내동생(1997년생)이 띠동갑인데\n\n나 중학교 때 2살도 안되서 전신화상 입었음\n\n여동생이라서 더 안타까웠고\n\n지금은 성인이지만\n\n제대로 꾸밀 수도 없는 아이...\n\n그 아이를 위해서 메이크업을 배웠고\n\n치마를 입고 보여주면서\n\n즐겁게 해줬던 기억이난다..\n\n사랑해 To. H https://t.co/qGwXQdk4Hh"
+	},
+	{
+		"created_at": "Tue May 14 15:28:43 +0000 2019",
+		"id": 1127835962183041000,
+		"id_str": "1128321248973295616",
+		"full_text": "스브스뉴스 유튜브 채널의 어르신 카톡짤의 출처찾는 편 너무 흥미롭다! 으르신 중심으로 카톡으로 유포되는 화려한 명언움짤들은 전국 노인복지회관에서 이루어지는 포토샵 수업의 중장년층 학생들로 부터 제작되는 거였음!!!!! https://t.co/c78vHlisfb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127835880180183000,
+					"id_str": "1127835880180183041",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bgwesUcAEVseq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bgwesUcAEVseq.jpg",
+					"url": "https://t.co/c78vHlisfb",
+					"display_url": "pic.twitter.com/c78vHlisfb",
+					"expanded_url": "https://twitter.com/hotpitanly/status/1127835962183041024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127835880180183000,
+					"id_str": "1127835880180183041",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bgwesUcAEVseq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bgwesUcAEVseq.jpg",
+					"url": "https://t.co/c78vHlisfb",
+					"display_url": "pic.twitter.com/c78vHlisfb",
+					"expanded_url": "https://twitter.com/hotpitanly/status/1127835962183041024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127835908747620400,
+					"id_str": "1127835908747620352",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bgyJHU8AAg80E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bgyJHU8AAg80E.jpg",
+					"url": "https://t.co/c78vHlisfb",
+					"display_url": "pic.twitter.com/c78vHlisfb",
+					"expanded_url": "https://twitter.com/hotpitanly/status/1127835962183041024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127835932739039200,
+					"id_str": "1127835932739039233",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bgzifU8AElbU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bgzifU8AElbU3.jpg",
+					"url": "https://t.co/c78vHlisfb",
+					"display_url": "pic.twitter.com/c78vHlisfb",
+					"expanded_url": "https://twitter.com/hotpitanly/status/1127835962183041024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127835948840972300,
+					"id_str": "1127835948840972288",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bg0eeU8AA73lQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bg0eeU8AA73lQ.jpg",
+					"url": "https://t.co/c78vHlisfb",
+					"display_url": "pic.twitter.com/c78vHlisfb",
+					"expanded_url": "https://twitter.com/hotpitanly/status/1127835962183041024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1138548727,
+			"id_str": "1138548727",
+			"name": "권삐딴리",
+			"screen_name": "hotpitanly",
+			"location": "女性が未来だ。",
+			"description": "어이 할 말 있으면 몸으로 말해요로 해라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553,
+			"friends_count": 249,
+			"listed_count": 28,
+			"created_at": "Fri Feb 01 02:53:51 +0000 2013",
+			"favourites_count": 12595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31963,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124930548399427584/T4fmyIZK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124930548399427584/T4fmyIZK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138548727/1505822895",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5576,
+		"favorite_count": 1716,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스브스뉴스 유튜브 채널의 어르신 카톡짤의 출처찾는 편 너무 흥미롭다! 으르신 중심으로 카톡으로 유포되는 화려한 명언움짤들은 전국 노인복지회관에서 이루어지는 포토샵 수업의 중장년층 학생들로 부터 제작되는 거였음!!!!! https://t.co/c78vHlisfb"
+	},
+	{
+		"created_at": "Tue May 14 15:24:44 +0000 2019",
+		"id": 1128320246761177100,
+		"id_str": "1128320246761177088",
+		"full_text": "@lattedayo 삐빅- 거짓입니다",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lattedayo",
+					"name": "🐑양라떼☕",
+					"id": 767354737469460500,
+					"id_str": "767354737469460480",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128316570705350700,
+		"in_reply_to_status_id_str": "1128316570705350656",
+		"in_reply_to_user_id": 767354737469460500,
+		"in_reply_to_user_id_str": "767354737469460480",
+		"in_reply_to_screen_name": "lattedayo",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@lattedayo 삐빅- 거짓입니다"
+	},
+	{
 		"created_at": "Tue May 14 15:10:47 +0000 2019",
 		"id": 1128316734258106400,
 		"id_str": "1128316734258106368",
