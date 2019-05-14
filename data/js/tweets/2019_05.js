@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 02:12:21 +0000 2019",
+		"id": 1128116750950719500,
+		"id_str": "1128120834969591808",
+		"full_text": "바로 '그 CEO'가 자리에 앉고 나서 순식간에 말아먹었지ㅋㅋㅋㅋㅋ\n\n[오늘Who] 조주연 한국맥도날드 대표 3년, 맥도날드가 희미해진다 https://t.co/nuu9W8Y1Jc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nuu9W8Y1Jc",
+					"expanded_url": "http://m.businesspost.co.kr/BP?command=article_view&num=80763",
+					"display_url": "m.businesspost.co.kr/BP?command=art…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155061670,
+			"id_str": "155061670",
+			"name": "₩9",
+			"screen_name": "Pleasure54",
+			"location": "2.5D",
+			"description": "야구 개막하면 폭트함 주의(⚾LG Twins, SoftBank) / 일반인은 주의 / 유해함 / FGO(🇯🇵) 167,777,622",
+			"url": "https://t.co/WAyBDTX6oP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WAyBDTX6oP",
+							"expanded_url": "https://peing.net/ko/pleasure54",
+							"display_url": "peing.net/ko/pleasure54",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6101,
+			"friends_count": 782,
+			"listed_count": 124,
+			"created_at": "Sun Jun 13 01:16:26 +0000 2010",
+			"favourites_count": 58249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 507773,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104013190659072002/WIoB_soi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104013190659072002/WIoB_soi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155061670/1552049978",
+			"profile_link_color": "02207A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바로 '그 CEO'가 자리에 앉고 나서 순식간에 말아먹었지ㅋㅋㅋㅋㅋ\n\n[오늘Who] 조주연 한국맥도날드 대표 3년, 맥도날드가 희미해진다 https://t.co/nuu9W8Y1Jc"
+	},
+	{
 		"created_at": "Mon May 13 15:32:23 +0000 2019",
 		"id": 1127955164445306900,
 		"id_str": "1127959784789921799",
