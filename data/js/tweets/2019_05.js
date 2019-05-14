@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 15:10:47 +0000 2019",
+		"id": 1128316734258106400,
+		"id_str": "1128316734258106368",
+		"full_text": "@hibiyasleep 흠흠 뭔가 체인점 느낌이 나긴 하는데 가보긴 해야할거같네요 제대로된 치킨 못먹은지 오래되서",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "종이 aka hibiya",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128312899095498800,
+		"in_reply_to_status_id_str": "1128312899095498753",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep 흠흠 뭔가 체인점 느낌이 나긴 하는데 가보긴 해야할거같네요 제대로된 치킨 못먹은지 오래되서"
+	},
+	{
+		"created_at": "Tue May 14 14:56:56 +0000 2019",
+		"id": 1128206999324225500,
+		"id_str": "1128313248783056898",
+		"full_text": "나경원, 문 대통령 향해 \"문노스\"…또 일베 용어 사용 https://t.co/jrqSgyFjQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jrqSgyFjQT",
+					"expanded_url": "http://www.mediaus.co.kr/news/articleView.html?idxno=152631",
+					"display_url": "mediaus.co.kr/news/articleVi…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180715634,
+			"id_str": "180715634",
+			"name": "luuvy",
+			"screen_name": "_luuvy",
+			"location": "somewhere in this world",
+			"description": "인생이란 결코 공정하지 않다. 이 사실에 익숙해져라. \nLife is not fair. Get used to it.",
+			"url": "https://t.co/zDQZitzl4h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zDQZitzl4h",
+							"expanded_url": "https://twitter.com/_luuvy",
+							"display_url": "twitter.com/_luuvy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255372,
+			"friends_count": 288695,
+			"listed_count": 1052,
+			"created_at": "Fri Aug 20 08:40:52 +0000 2010",
+			"favourites_count": 900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58592,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715500053440233472/mZetqT84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715500053440233472/mZetqT84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180715634/1542346441",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나경원, 문 대통령 향해 \"문노스\"…또 일베 용어 사용 https://t.co/jrqSgyFjQT"
+	},
+	{
+		"created_at": "Tue May 14 14:56:25 +0000 2019",
+		"id": 1128289092607758300,
+		"id_str": "1128313119229399043",
+		"full_text": "아니 개새끼야 씨발 https://t.co/1m3Xy4XvGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128289081987743700,
+					"id_str": "1128289081987743750",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D6h88S_UwAYY_PB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6h88S_UwAYY_PB.jpg",
+					"url": "https://t.co/1m3Xy4XvGE",
+					"display_url": "pic.twitter.com/1m3Xy4XvGE",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1128289092607758336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128289081987743700,
+					"id_str": "1128289081987743750",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D6h88S_UwAYY_PB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6h88S_UwAYY_PB.jpg",
+					"url": "https://t.co/1m3Xy4XvGE",
+					"display_url": "pic.twitter.com/1m3Xy4XvGE",
+					"expanded_url": "https://twitter.com/SATAN_KOHAI/status/1128289092607758336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935120525222744000,
+			"id_str": "935120525222744064",
+			"name": "rennya.🌙",
+			"screen_name": "SATAN_KOHAI",
+			"location": "@pipe_scottie",
+			"description": "얀데레도 얼굴 가려가면서 집착해 일단 넌 아냐 걱정마.",
+			"url": "https://t.co/ZEiteI9o09",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZEiteI9o09",
+							"expanded_url": "https://tanilast.postype.com/",
+							"display_url": "tanilast.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 427,
+			"listed_count": 55,
+			"created_at": "Mon Nov 27 12:18:01 +0000 2017",
+			"favourites_count": 16403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59083,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117123434364850176/vBGjZGYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117123434364850176/vBGjZGYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935120525222744064/1551851338",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 개새끼야 씨발 https://t.co/1m3Xy4XvGE"
+	},
+	{
+		"created_at": "Tue May 14 14:54:54 +0000 2019",
+		"id": 1128163650143809500,
+		"id_str": "1128312738097156096",
+		"full_text": "친구가 미국가서 맥날 찍은걸 보니 한국은 망하는게 너무나도 당연해보인다... https://t.co/MtEIceGyNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128163646473850900,
+					"id_str": "1128163646473850881",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gK2_SVUAEURTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gK2_SVUAEURTj.jpg",
+					"url": "https://t.co/MtEIceGyNd",
+					"display_url": "pic.twitter.com/MtEIceGyNd",
+					"expanded_url": "https://twitter.com/kinomoto1/status/1128163650143809536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128163646473850900,
+					"id_str": "1128163646473850881",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gK2_SVUAEURTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gK2_SVUAEURTj.jpg",
+					"url": "https://t.co/MtEIceGyNd",
+					"display_url": "pic.twitter.com/MtEIceGyNd",
+					"expanded_url": "https://twitter.com/kinomoto1/status/1128163650143809536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPane for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231264880,
+			"id_str": "231264880",
+			"name": "키노",
+			"screen_name": "kinomoto1",
+			"location": "37.2892379,127.1229632",
+			"description": "자기가 소개입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 98,
+			"listed_count": 11,
+			"created_at": "Tue Dec 28 01:58:56 +0000 2010",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000580543459/3b8adb4fa05d97cf7fbc147f0fcdb605_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000580543459/3b8adb4fa05d97cf7fbc147f0fcdb605_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친구가 미국가서 맥날 찍은걸 보니 한국은 망하는게 너무나도 당연해보인다... https://t.co/MtEIceGyNd"
+	},
+	{
+		"created_at": "Tue May 14 14:54:21 +0000 2019",
+		"id": 1128312599039209500,
+		"id_str": "1128312599039209473",
+		"full_text": "@hibiyasleep 흠 어느동네일라나요.. 가보고싶네요 치킨무한리필이라니",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "종이 aka hibiya",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128309672128024600,
+		"in_reply_to_status_id_str": "1128309672128024576",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep 흠 어느동네일라나요.. 가보고싶네요 치킨무한리필이라니"
+	},
+	{
 		"created_at": "Tue May 14 05:13:02 +0000 2019",
 		"id": 1128166013563019300,
 		"id_str": "1128166306010681345",
