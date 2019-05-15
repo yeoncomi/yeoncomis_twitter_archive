@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 00:48:36 +0000 2019",
+		"id": 1128453903463399400,
+		"id_str": "1128462147116195841",
+		"full_text": "⛔No discrimination\n⛔No persecution \n⛔No harassment\n⛔No stigma\n⛔No hate\n\nNo one should face violence or discrimination for being who they are.\nCanada - a strong and proud advocate for #LGBTQ2 rights 🏳️‍🌈\n\n#Canada4Rights🇨🇦 #LoveIsLove https://t.co/EYgx6oqLI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LGBTQ2",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "Canada4Rights",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"text": "LoveIsLove",
+					"indices": [
+						221,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128453412402749400,
+					"id_str": "1128453412402749445",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6kSZlfX4AU92lB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6kSZlfX4AU92lB.jpg",
+					"url": "https://t.co/EYgx6oqLI9",
+					"display_url": "pic.twitter.com/EYgx6oqLI9",
+					"expanded_url": "https://twitter.com/CanEmbKorea/status/1128453903463399424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128453412402749400,
+					"id_str": "1128453412402749445",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6kSZlfX4AU92lB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6kSZlfX4AU92lB.jpg",
+					"url": "https://t.co/EYgx6oqLI9",
+					"display_url": "pic.twitter.com/EYgx6oqLI9",
+					"expanded_url": "https://twitter.com/CanEmbKorea/status/1128453903463399424/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6kSZlfX4AU92lB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 529102084,
+			"id_str": "529102084",
+			"name": "Canada in Korea",
+			"screen_name": "CanEmbKorea",
+			"location": "Korea",
+			"description": "Embassy of Canada to Korea - Français : @AmbCanCoree / 한글: @CanEmbROK - http://t.co/pc5bCwITYL",
+			"url": "http://t.co/F0Kv71TcER",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F0Kv71TcER",
+							"expanded_url": "http://www.korea.gc.ca",
+							"display_url": "korea.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/pc5bCwITYL",
+							"expanded_url": "http://international.gc.ca/SocialMedia",
+							"display_url": "international.gc.ca/SocialMedia",
+							"indices": [
+								72,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 789,
+			"listed_count": 103,
+			"created_at": "Mon Mar 19 04:36:21 +0000 2012",
+			"favourites_count": 295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889988821504454656/1MW1BKK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889988821504454656/1MW1BKK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/529102084/1557704839",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⛔No discrimination\n⛔No persecution \n⛔No harassment\n⛔No stigma\n⛔No hate\n\nNo one should face violence or discrimination for being who they are.\nCanada - a strong and proud advocate for #LGBTQ2 rights 🏳️‍🌈\n\n#Canada4Rights🇨🇦 #LoveIsLove https://t.co/EYgx6oqLI9"
+	},
+	{
 		"created_at": "Tue May 14 15:30:53 +0000 2019",
 		"id": 1128281907504902100,
 		"id_str": "1128321794136363008",
