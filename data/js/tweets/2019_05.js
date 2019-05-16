@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 16:08:21 +0000 2019",
+		"id": 1129054955556356100,
+		"id_str": "1129055997970935808",
+		"full_text": "개쩌네요 참.. https://t.co/YZd2ThyUrt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129054937038463000,
+					"id_str": "1129054937038462976",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D6s1e7YUIAAwGQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6s1e7YUIAAwGQy.jpg",
+					"url": "https://t.co/YZd2ThyUrt",
+					"display_url": "pic.twitter.com/YZd2ThyUrt",
+					"expanded_url": "https://twitter.com/Leegwa_angry/status/1129054955556356097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129054937038463000,
+					"id_str": "1129054937038462976",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D6s1e7YUIAAwGQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6s1e7YUIAAwGQy.jpg",
+					"url": "https://t.co/YZd2ThyUrt",
+					"display_url": "pic.twitter.com/YZd2ThyUrt",
+					"expanded_url": "https://twitter.com/Leegwa_angry/status/1129054955556356097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3810768140,
+			"id_str": "3810768140",
+			"name": "이과한숨봇",
+			"screen_name": "Leegwa_angry",
+			"location": "캡처가능(이름 가리지 마세요)FUB Free",
+			"description": "이과한숨봇이지만 일반인한숨봇이 되어버렸습니다 ㅣ 신한 110457719055 ㅊㅇㅅ\n하나 56591025576707 ㅂㅁㅈ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27792,
+			"friends_count": 17,
+			"listed_count": 56,
+			"created_at": "Wed Oct 07 05:02:53 +0000 2015",
+			"favourites_count": 1222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14735,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100300863770259456/9GKtSm2F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100300863770259456/9GKtSm2F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3810768140/1557219591",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개쩌네요 참.. https://t.co/YZd2ThyUrt"
+	},
+	{
 		"created_at": "Thu May 16 14:57:23 +0000 2019",
 		"id": 1121261306923761700,
 		"id_str": "1129038139018883072",
