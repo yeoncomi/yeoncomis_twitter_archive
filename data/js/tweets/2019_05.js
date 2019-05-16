@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 22:21:54 +0000 2019",
+		"id": 1129067702625230800,
+		"id_str": "1129150006777171969",
+		"full_text": "South Korea poses itself as a \"Internet leader\" country, but when it comes to IPv6 deployment then everybody stops talking and silently ignoring. Clearly reflected in such statistics. https://t.co/nufzVuWgB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nufzVuWgB2",
+					"expanded_url": "https://twitter.com/Enno_Insinuator/status/1129063879919788032",
+					"display_url": "twitter.com/Enno_Insinuato…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/TwidereProject\" rel=\"nofollow\">Twidere for Android #8</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377728241,
+			"id_str": "3377728241",
+			"name": "Shinjo Park",
+			"screen_name": "ad_ili_rai_en",
+			"location": "Berlin, Deutschland",
+			"description": "KDE, mobile security, and others. Account of @ad_ili_rai in English. Not affiliated with the red hat.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 81,
+			"listed_count": 5,
+			"created_at": "Wed Jul 15 19:21:37 +0000 2015",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/621401933576859648/1kkDrYxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/621401933576859648/1kkDrYxB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129063879919788000,
+		"quoted_status_id_str": "1129063879919788032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nufzVuWgB2",
+			"expanded": "https://twitter.com/Enno_Insinuator/status/1129063879919788032",
+			"display": "twitter.com/Enno_Insinuato…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 16:39:40 +0000 2019",
+			"id": 1129063879919788000,
+			"id_str": "1129063879919788032",
+			"full_text": "Top Countries re: IPv6 deployment #RIPE78\nsrc: https://t.co/tA9nuHQ79s https://t.co/LL7rpdzllZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RIPE78",
+						"indices": [
+							34,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tA9nuHQ79s",
+						"expanded_url": "https://stats.labs.apnic.net/ipv6/",
+						"display_url": "stats.labs.apnic.net/ipv6/",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1129063813100261400,
+						"id_str": "1129063813100261376",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/D6s9jlSW0AAC09y.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6s9jlSW0AAC09y.png",
+						"url": "https://t.co/LL7rpdzllZ",
+						"display_url": "pic.twitter.com/LL7rpdzllZ",
+						"expanded_url": "https://twitter.com/Enno_Insinuator/status/1129063879919788032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 988,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 988,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1129063813100261400,
+						"id_str": "1129063813100261376",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/D6s9jlSW0AAC09y.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6s9jlSW0AAC09y.png",
+						"url": "https://t.co/LL7rpdzllZ",
+						"display_url": "pic.twitter.com/LL7rpdzllZ",
+						"expanded_url": "https://twitter.com/Enno_Insinuator/status/1129063879919788032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 988,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 988,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 278193727,
+				"id_str": "278193727",
+				"name": "Enno Rey",
+				"screen_name": "Enno_Insinuator",
+				"location": "Chiemsee",
+				"description": "Old school netwrk sec guy. Founded @WEareTROOPERS @Insinuator & ERNW. Still proudly running the team!\nDoes some stuff with #IPv6, since 1999.",
+				"url": "http://t.co/zTbyQ0PeO1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zTbyQ0PeO1",
+								"expanded_url": "http://www.ernw.de",
+								"display_url": "ernw.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4942,
+				"friends_count": 573,
+				"listed_count": 242,
+				"created_at": "Wed Apr 06 20:04:36 +0000 2011",
+				"favourites_count": 3161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/420503276988026881/7PoU6SwY_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/420503276988026881/7PoU6SwY_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "South Korea poses itself as a \"Internet leader\" country, but when it comes to IPv6 deployment then everybody stops talking and silently ignoring. Clearly reflected in such statistics. https://t.co/nufzVuWgB2"
+	},
+	{
 		"created_at": "Thu May 16 19:01:44 +0000 2019",
 		"id": 1128589375758000100,
 		"id_str": "1129099631499984896",
