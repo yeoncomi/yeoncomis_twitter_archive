@@ -1,6 +1,794 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 05:14:33 +0000 2019",
+		"id": 1128854688915308500,
+		"id_str": "1128891464388190208",
+		"full_text": "아 컴O존에서도 \"가격이 비싸니 저희가 직접 퀵으로 배송하겠습니다\"가 고작이었다. 법인 카드니 추가할인은 안되더라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128854415316619300,
+		"in_reply_to_status_id_str": "1128854415316619264",
+		"in_reply_to_user_id": 109616478,
+		"in_reply_to_user_id_str": "109616478",
+		"in_reply_to_screen_name": "RheaStrikeAI",
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 컴O존에서도 \"가격이 비싸니 저희가 직접 퀵으로 배송하겠습니다\"가 고작이었다. 법인 카드니 추가할인은 안되더라."
+	},
+	{
+		"created_at": "Thu May 16 05:14:29 +0000 2019",
+		"id": 1128854107945558000,
+		"id_str": "1128891448881864705",
+		"full_text": "근데 지금 5만원이래도 PC 한대에 8기가 꽂아줄 가격이라 아낄 수 밖에 없다... .",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128853695234334700,
+		"in_reply_to_status_id_str": "1128853695234334721",
+		"in_reply_to_user_id": 109616478,
+		"in_reply_to_user_id_str": "109616478",
+		"in_reply_to_screen_name": "RheaStrikeAI",
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 지금 5만원이래도 PC 한대에 8기가 꽂아줄 가격이라 아낄 수 밖에 없다... ."
+	},
+	{
+		"created_at": "Thu May 16 05:14:24 +0000 2019",
+		"id": 1128853695234334700,
+		"id_str": "1128891426060656641",
+		"full_text": "사실 이번껀도 거래처에서 100정도 비싸게 불러 부품별로 개별 구입하는거임... . 물론 나도 더 바빠지고 회사가 돈 많이 벌어 \"고작 그 정도 비용 따위야\"라고 다 맡겨버리고 싶다....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128853349363617800,
+		"in_reply_to_status_id_str": "1128853349363617792",
+		"in_reply_to_user_id": 109616478,
+		"in_reply_to_user_id_str": "109616478",
+		"in_reply_to_screen_name": "RheaStrikeAI",
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사실 이번껀도 거래처에서 100정도 비싸게 불러 부품별로 개별 구입하는거임... . 물론 나도 더 바빠지고 회사가 돈 많이 벌어 \"고작 그 정도 비용 따위야\"라고 다 맡겨버리고 싶다...."
+	},
+	{
+		"created_at": "Thu May 16 05:14:19 +0000 2019",
+		"id": 1128853349363617800,
+		"id_str": "1128891407341477888",
+		"full_text": "며칠전에도 말했지만 세금계산서, 연구비, 법인...등이 무엇인지 모르는, 개념없이 코묻은 돈만 받는 가게들도 많다. 솔직히 많이 팔긴 어려워 보인다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128853005149716500,
+		"in_reply_to_status_id_str": "1128853005149716480",
+		"in_reply_to_user_id": 109616478,
+		"in_reply_to_user_id_str": "109616478",
+		"in_reply_to_screen_name": "RheaStrikeAI",
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "며칠전에도 말했지만 세금계산서, 연구비, 법인...등이 무엇인지 모르는, 개념없이 코묻은 돈만 받는 가게들도 많다. 솔직히 많이 팔긴 어려워 보인다."
+	},
+	{
+		"created_at": "Thu May 16 05:14:13 +0000 2019",
+		"id": 1128853005149716500,
+		"id_str": "1128891379352891392",
+		"full_text": "다시 말하지만 작년에 \"트위터에서 유명한 가게\"에 천단위로 물건 사러 갔다가 사기꾼 취급 받고 쫓겨났다는 사실은 또 말하고 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128852145350963200,
+		"in_reply_to_status_id_str": "1128852145350963200",
+		"in_reply_to_user_id": 109616478,
+		"in_reply_to_user_id_str": "109616478",
+		"in_reply_to_screen_name": "RheaStrikeAI",
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다시 말하지만 작년에 \"트위터에서 유명한 가게\"에 천단위로 물건 사러 갔다가 사기꾼 취급 받고 쫓겨났다는 사실은 또 말하고 싶다."
+	},
+	{
+		"created_at": "Thu May 16 05:14:11 +0000 2019",
+		"id": 1128852145350963200,
+		"id_str": "1128891372252016641",
+		"full_text": "컴O존에서 2080Ti를 여러장 구입하자마자 전화가 걸려온다. 근데 법인카드라서 할인은 안된단다. 뭐 할인이란게 다 그런게 아니겠냐......",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109616478,
+			"id_str": "109616478",
+			"name": "R.H.E.A",
+			"screen_name": "RheaStrikeAI",
+			"location": "예전 동네로 돌아가고파",
+			"description": "jp: @harmonica06",
+			"url": "https://t.co/PvUfxNdw0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvUfxNdw0T",
+							"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+							"display_url": "flickr.com/photos/rheastr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 548,
+			"listed_count": 58,
+			"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+			"favourites_count": 13973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197248,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119674401429962753/cgZ48Re7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1533916036",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "컴O존에서 2080Ti를 여러장 구입하자마자 전화가 걸려온다. 근데 법인카드라서 할인은 안된단다. 뭐 할인이란게 다 그런게 아니겠냐......"
+	},
+	{
+		"created_at": "Thu May 16 05:13:34 +0000 2019",
+		"id": 1128648826812633100,
+		"id_str": "1128891217561804800",
+		"full_text": "요즘 PHP는 예전의 그 PHP가 아니라는데 한번 읽어 보시죠. 버전이 벌써 7.3이고 안정적으로 개발되고 있으며 활발한 생태계가 만들어졌다고 합니다! https://t.co/heZXxM0sTj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/heZXxM0sTj",
+					"expanded_url": "https://twitter.com/newsycombinator/status/1128616301432397824",
+					"display_url": "twitter.com/newsycombinato…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21652174,
+			"id_str": "21652174",
+			"name": "Soonson Kwon",
+			"screen_name": "ksoonson",
+			"location": "127.0.0.1",
+			"description": "Head of CJK&ANZ DevRel Ecosystem at Google/Founder of KLDP(Korean Linux Documentation Project). Change the world for creative minds. Opinions are mine.",
+			"url": "https://t.co/BqmJPmTyAb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BqmJPmTyAb",
+							"expanded_url": "http://kldp.org/~kss",
+							"display_url": "kldp.org/~kss",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4321,
+			"friends_count": 84,
+			"listed_count": 223,
+			"created_at": "Mon Feb 23 13:32:52 +0000 2009",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3055,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505144289/kssprofile_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505144289/kssprofile_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21652174/1354684412",
+			"profile_link_color": "2A8FBD",
+			"profile_sidebar_border_color": "F8F9BB",
+			"profile_sidebar_fill_color": "CDD7B6",
+			"profile_text_color": "1F127F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128616301432397800,
+		"quoted_status_id_str": "1128616301432397824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/heZXxM0sTj",
+			"expanded": "https://twitter.com/newsycombinator/status/1128616301432397824",
+			"display": "twitter.com/newsycombinato…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 11:01:09 +0000 2019",
+			"id": 1128616301432397800,
+			"id_str": "1128616301432397824",
+			"full_text": "PHP isn't the same old crappy language it was ten years ago https://t.co/8QxEhuosIi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8QxEhuosIi",
+						"expanded_url": "https://stitcher.io/blog/php-in-2019",
+						"display_url": "stitcher.io/blog/php-in-20…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14335498,
+				"id_str": "14335498",
+				"name": "Hacker News",
+				"screen_name": "newsycombinator",
+				"location": "The Internet",
+				"description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+				"url": "http://t.co/gliZLgXpD1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gliZLgXpD1",
+								"expanded_url": "http://news.ycombinator.com/",
+								"display_url": "news.ycombinator.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190446,
+				"friends_count": 2,
+				"listed_count": 7590,
+				"created_at": "Tue Apr 08 19:58:28 +0000 2008",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 119750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+				"profile_link_color": "F06200",
+				"profile_sidebar_border_color": "F5F5F5",
+				"profile_sidebar_fill_color": "FF6600",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 PHP는 예전의 그 PHP가 아니라는데 한번 읽어 보시죠. 버전이 벌써 7.3이고 안정적으로 개발되고 있으며 활발한 생태계가 만들어졌다고 합니다! https://t.co/heZXxM0sTj"
+	},
+	{
 		"created_at": "Thu May 16 04:03:07 +0000 2019",
 		"id": 1128583086030053400,
 		"id_str": "1128873488683397120",
