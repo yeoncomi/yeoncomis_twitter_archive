@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 05:42:11 +0000 2019",
+		"id": 1128866729847771100,
+		"id_str": "1128898417776779264",
+		"full_text": "단순 제작참여인줄알앗는대,, 저희교수님이,, 보쿠노피코 감독이라고합니다,,,, 그럿다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128592862667366400,
+		"in_reply_to_status_id_str": "1128592862667366400",
+		"in_reply_to_user_id": 1067430782640083000,
+		"in_reply_to_user_id_str": "1067430782640082951",
+		"in_reply_to_screen_name": "Ultimatekakkoii",
+		"user": {
+			"id": 1067430782640083000,
+			"id_str": "1067430782640082951",
+			"name": "녹스",
+			"screen_name": "Ultimatekakkoii",
+			"location": "Osaka City, Osaka",
+			"description": "Touken ranbu+musical/Onmyoji/Homestuck/2.5d/Teen titans💚Shinkengumi lover💙 An artist, and a cosplayer/She,her/♏/20",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Tue Nov 27 14:51:45 +0000 2018",
+			"favourites_count": 1033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4485,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099598428726648832/MVBzCN-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099598428726648832/MVBzCN-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067430782640082951/1557596498",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 889,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "단순 제작참여인줄알앗는대,, 저희교수님이,, 보쿠노피코 감독이라고합니다,,,, 그럿다.."
+	},
+	{
+		"created_at": "Thu May 16 05:42:10 +0000 2019",
+		"id": 1128592862667366400,
+		"id_str": "1128898412252819456",
+		"full_text": "도랏나. 교수님이 자기가 참여한 작품들 보여주는데 갑분보쿠노피코틀어주심. https://t.co/KAk01qMeOr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128592850612998100,
+					"id_str": "1128592850612998144",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mRN9TVUAAE5R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mRN9TVUAAE5R6.jpg",
+					"url": "https://t.co/KAk01qMeOr",
+					"display_url": "pic.twitter.com/KAk01qMeOr",
+					"expanded_url": "https://twitter.com/Ultimatekakkoii/status/1128592862667366400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128592850612998100,
+					"id_str": "1128592850612998144",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mRN9TVUAAE5R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mRN9TVUAAE5R6.jpg",
+					"url": "https://t.co/KAk01qMeOr",
+					"display_url": "pic.twitter.com/KAk01qMeOr",
+					"expanded_url": "https://twitter.com/Ultimatekakkoii/status/1128592862667366400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067430782640083000,
+			"id_str": "1067430782640082951",
+			"name": "녹스",
+			"screen_name": "Ultimatekakkoii",
+			"location": "Osaka City, Osaka",
+			"description": "Touken ranbu+musical/Onmyoji/Homestuck/2.5d/Teen titans💚Shinkengumi lover💙 An artist, and a cosplayer/She,her/♏/20",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Tue Nov 27 14:51:45 +0000 2018",
+			"favourites_count": 1033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4485,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099598428726648832/MVBzCN-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099598428726648832/MVBzCN-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067430782640082951/1557596498",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3445,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도랏나. 교수님이 자기가 참여한 작품들 보여주는데 갑분보쿠노피코틀어주심. https://t.co/KAk01qMeOr"
+	},
+	{
+		"created_at": "Thu May 16 05:41:12 +0000 2019",
+		"id": 1128875041238601700,
+		"id_str": "1128898171453599744",
+		"full_text": "참고로 이건 틀린 말에 가깝습니다. 이거 보고 뷔페에서 탄산음료 먹으면 오히려 손해에요. 결론적으로 탄산음료는 식욕을 억제합니다.\n1. 액상과당은 포도당+과당이고 포도당은 인슐린,렙틴 경로를 자극한다\n2. 단기 과당 섭취는 렙틴 신호를 차단하지 읺는다. \n3. 과당 역시 식욕을 충분히 억제한다 https://t.co/txDf1wpvCt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128875036373164000,
+					"id_str": "1128875036373164032",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qR3VLUIAA_BUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qR3VLUIAA_BUf.jpg",
+					"url": "https://t.co/txDf1wpvCt",
+					"display_url": "pic.twitter.com/txDf1wpvCt",
+					"expanded_url": "https://twitter.com/hosa_Y/status/1128875041238601728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128875036373164000,
+					"id_str": "1128875036373164032",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qR3VLUIAA_BUf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qR3VLUIAA_BUf.jpg",
+					"url": "https://t.co/txDf1wpvCt",
+					"display_url": "pic.twitter.com/txDf1wpvCt",
+					"expanded_url": "https://twitter.com/hosa_Y/status/1128875041238601728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1128875038831022100,
+					"id_str": "1128875038831022080",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qR3eVUEAAOXnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qR3eVUEAAOXnX.jpg",
+					"url": "https://t.co/txDf1wpvCt",
+					"display_url": "pic.twitter.com/txDf1wpvCt",
+					"expanded_url": "https://twitter.com/hosa_Y/status/1128875041238601728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 201,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 201,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176626275,
+			"id_str": "176626275",
+			"name": "「호사🐦」",
+			"screen_name": "hosa_Y",
+			"location": "한국,일본,중국,대만,동남아,아프리카",
+			"description": "Rostratula benghalensis/PSYCHO-PASS/Luxury Hotel & Travel",
+			"url": "https://t.co/QvefWkAW5c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QvefWkAW5c",
+							"expanded_url": "http://ask.fm/hosaY263",
+							"display_url": "ask.fm/hosaY263",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 259,
+			"listed_count": 22,
+			"created_at": "Tue Aug 10 01:06:08 +0000 2010",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 162067,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112726965285351424/5rC4-7pk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112726965285351424/5rC4-7pk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176626275/1503590151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참고로 이건 틀린 말에 가깝습니다. 이거 보고 뷔페에서 탄산음료 먹으면 오히려 손해에요. 결론적으로 탄산음료는 식욕을 억제합니다.\n1. 액상과당은 포도당+과당이고 포도당은 인슐린,렙틴 경로를 자극한다\n2. 단기 과당 섭취는 렙틴 신호를 차단하지 읺는다. \n3. 과당 역시 식욕을 충분히 억제한다 https://t.co/txDf1wpvCt"
+	},
+	{
+		"created_at": "Thu May 16 05:26:17 +0000 2019",
+		"id": 1128864181405360100,
+		"id_str": "1128894417937395712",
+		"full_text": "\"그리스도 한방에 제거!!\"\nAntichrist(2019) https://t.co/u8e0zl6Fbg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128864171234193400,
+					"id_str": "1128864171234193408",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qH-5YUcAA6glA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qH-5YUcAA6glA.jpg",
+					"url": "https://t.co/u8e0zl6Fbg",
+					"display_url": "pic.twitter.com/u8e0zl6Fbg",
+					"expanded_url": "https://twitter.com/annam_cat/status/1128864181405360128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128864171234193400,
+					"id_str": "1128864171234193408",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D6qH-5YUcAA6glA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6qH-5YUcAA6glA.jpg",
+					"url": "https://t.co/u8e0zl6Fbg",
+					"display_url": "pic.twitter.com/u8e0zl6Fbg",
+					"expanded_url": "https://twitter.com/annam_cat/status/1128864181405360128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148587563,
+			"id_str": "148587563",
+			"name": "안남처돌고양이🐔(임다슬아님)",
+			"screen_name": "annam_cat",
+			"location": "퀵폭력 타살도시 안남",
+			"description": "I❤KYOTO \nI❤OSAKA\nI❤처돌이\n#MeToo #WithYou\n#Remember0416",
+			"url": "https://t.co/XYKAzmtqTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XYKAzmtqTk",
+							"expanded_url": "http://iannam.net/",
+							"display_url": "iannam.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2123,
+			"friends_count": 1536,
+			"listed_count": 22,
+			"created_at": "Thu May 27 02:43:38 +0000 2010",
+			"favourites_count": 78051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128536,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049851697181290496/k4o2xjvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049851697181290496/k4o2xjvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1557073211",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 636,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"그리스도 한방에 제거!!\"\nAntichrist(2019) https://t.co/u8e0zl6Fbg"
+	},
+	{
 		"created_at": "Thu May 16 05:14:33 +0000 2019",
 		"id": 1128854688915308500,
 		"id_str": "1128891464388190208",
