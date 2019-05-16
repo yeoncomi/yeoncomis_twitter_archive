@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 19:01:44 +0000 2019",
+		"id": 1128589375758000100,
+		"id_str": "1129099631499984896",
+		"full_text": "https://t.co/Llp1GJxjdj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128589370359836700,
+					"id_str": "1128589370359836672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mODYWUcAAovlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mODYWUcAAovlB.jpg",
+					"url": "https://t.co/Llp1GJxjdj",
+					"display_url": "pic.twitter.com/Llp1GJxjdj",
+					"expanded_url": "https://twitter.com/justformine_/status/1128589375758000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128589370359836700,
+					"id_str": "1128589370359836672",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mODYWUcAAovlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mODYWUcAAovlB.jpg",
+					"url": "https://t.co/Llp1GJxjdj",
+					"display_url": "pic.twitter.com/Llp1GJxjdj",
+					"expanded_url": "https://twitter.com/justformine_/status/1128589375758000128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073662360378851300,
+			"id_str": "1073662360378851328",
+			"name": "우볼계",
+			"screen_name": "justformine_",
+			"location": "",
+			"description": "혼자보려는이미지를저장합니다/병신박제목적이아닌캡쳐본은당사자요청시삭제합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14097,
+			"friends_count": 0,
+			"listed_count": 50,
+			"created_at": "Fri Dec 14 19:33:49 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 949,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Llp1GJxjdj"
+	},
+	{
+		"created_at": "Thu May 16 19:00:45 +0000 2019",
+		"id": 1129088260716630000,
+		"id_str": "1129099382890962949",
+		"full_text": "여튼 레알 교수님이 야타베 감독이면 엄청난 사람을 데려온것이다...\n부러운 것이다....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129087658641117200,
+		"in_reply_to_status_id_str": "1129087658641117184",
+		"in_reply_to_user_id": 145957494,
+		"in_reply_to_user_id_str": "145957494",
+		"in_reply_to_screen_name": "suruga08",
+		"user": {
+			"id": 145957494,
+			"id_str": "145957494",
+			"name": "엘릭시르",
+			"screen_name": "suruga08",
+			"location": "男の娘ランド",
+			"description": "오토코노코는 진리입니다!!!/RT많음방해되면 알티뮤트 추천드림 /  프리파라,프리리즈, 기타등등 / 니 창작물도 아닌거에 이상한 사상 덧씌운 뇌내망상을 공식이라고 우기지마셍 /프사본인 헤더는 내그림임",
+			"url": "https://t.co/22ozwcUeGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/22ozwcUeGR",
+							"expanded_url": "http://www.tinami.com/search/list?prof_id=47823",
+							"display_url": "tinami.com/search/list?pr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748,
+			"friends_count": 1262,
+			"listed_count": 20,
+			"created_at": "Thu May 20 08:15:06 +0000 2010",
+			"favourites_count": 35084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 243356,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127612931523338240/7eUzMMs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127612931523338240/7eUzMMs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145957494/1424846437",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여튼 레알 교수님이 야타베 감독이면 엄청난 사람을 데려온것이다...\n부러운 것이다...."
+	},
+	{
+		"created_at": "Thu May 16 19:00:44 +0000 2019",
+		"id": 1129087658641117200,
+		"id_str": "1129099378369617921",
+		"full_text": "보쿠노 피코 참가한 사람들 보면 진짜 빵빵한 사람 많음...\n남성향 오톸 에로애니라고 얕볼만한 그런것이 아닌것ㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129087425542647800,
+		"in_reply_to_status_id_str": "1129087425542647808",
+		"in_reply_to_user_id": 145957494,
+		"in_reply_to_user_id_str": "145957494",
+		"in_reply_to_screen_name": "suruga08",
+		"user": {
+			"id": 145957494,
+			"id_str": "145957494",
+			"name": "엘릭시르",
+			"screen_name": "suruga08",
+			"location": "男の娘ランド",
+			"description": "오토코노코는 진리입니다!!!/RT많음방해되면 알티뮤트 추천드림 /  프리파라,프리리즈, 기타등등 / 니 창작물도 아닌거에 이상한 사상 덧씌운 뇌내망상을 공식이라고 우기지마셍 /프사본인 헤더는 내그림임",
+			"url": "https://t.co/22ozwcUeGR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/22ozwcUeGR",
+							"expanded_url": "http://www.tinami.com/search/list?prof_id=47823",
+							"display_url": "tinami.com/search/list?pr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748,
+			"friends_count": 1262,
+			"listed_count": 20,
+			"created_at": "Thu May 20 08:15:06 +0000 2010",
+			"favourites_count": 35084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 243356,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127612931523338240/7eUzMMs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127612931523338240/7eUzMMs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145957494/1424846437",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보쿠노 피코 참가한 사람들 보면 진짜 빵빵한 사람 많음...\n남성향 오톸 에로애니라고 얕볼만한 그런것이 아닌것ㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Thu May 16 18:57:52 +0000 2019",
+		"id": 1128845349559230500,
+		"id_str": "1129098658366943232",
+		"full_text": "태국 대사관에서 항의할 일 아니냐\n\"원시와 야만의 장소에 지금 세계 최고 수준의 도시가 서 있다. 이 불가사의한 도약이 일어나던 때의 국민은 100년 전 흙집에 살며 대소변을 집 앞 길에 버리던 사람들의 아들딸과 손주다. 그대로였으면 지금 잘됐어도 태국 정도일 것이다\"\nhttps://t.co/Vl0qTkBTKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vl0qTkBTKP",
+					"expanded_url": "http://news.chosun.com/site/data/html_dir/2019/05/15/2019051503695.html?utm_source=twitter&utm_medium=shareM&utm_campaign=Mnews",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1179,
+			"friends_count": 191,
+			"listed_count": 23,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 6320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16637,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948564566354481154/5_EGZNwg_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 341,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태국 대사관에서 항의할 일 아니냐\n\"원시와 야만의 장소에 지금 세계 최고 수준의 도시가 서 있다. 이 불가사의한 도약이 일어나던 때의 국민은 100년 전 흙집에 살며 대소변을 집 앞 길에 버리던 사람들의 아들딸과 손주다. 그대로였으면 지금 잘됐어도 태국 정도일 것이다\"\nhttps://t.co/Vl0qTkBTKP"
+	},
+	{
 		"created_at": "Thu May 16 16:08:21 +0000 2019",
 		"id": 1129054955556356100,
 		"id_str": "1129055997970935808",
