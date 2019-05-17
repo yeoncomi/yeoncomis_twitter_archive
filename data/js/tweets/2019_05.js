@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 14:12:38 +0000 2019",
+		"id": 1129178311769280500,
+		"id_str": "1129389266017038339",
+		"full_text": "크흡 이거 시유가 먼저 한건데 ㅠㅠ (백댄서는 심지어 방탄) https://t.co/XwTqZl6cD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XwTqZl6cD1",
+					"expanded_url": "https://twitter.com/cool18621/status/1128636520003334145",
+					"display_url": "twitter.com/cool18621/stat…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1652,
+			"friends_count": 1676,
+			"listed_count": 19,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128636520003334100,
+		"quoted_status_id_str": "1128636520003334145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XwTqZl6cD1",
+			"expanded": "https://twitter.com/cool18621/status/1128636520003334145",
+			"display": "twitter.com/cool18621/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 12:21:30 +0000 2019",
+			"id": 1128636520003334100,
+			"id_str": "1128636520003334145",
+			"full_text": "이제 캐릭터 한테도 백댄서를 붙여준다 향후 몇년뒤에 또다른 전자 아이돌이 탄생하겠지...! https://t.co/ZXOGoDe9wD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128634891749355500,
+						"id_str": "1128634891749355520",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128634891749355520/pu/img/ThPajLl8wzBbcLmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128634891749355520/pu/img/ThPajLl8wzBbcLmZ.jpg",
+						"url": "https://t.co/ZXOGoDe9wD",
+						"display_url": "pic.twitter.com/ZXOGoDe9wD",
+						"expanded_url": "https://twitter.com/cool18621/status/1128636520003334145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128634891749355500,
+						"id_str": "1128634891749355520",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128634891749355520/pu/img/ThPajLl8wzBbcLmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128634891749355520/pu/img/ThPajLl8wzBbcLmZ.jpg",
+						"url": "https://t.co/ZXOGoDe9wD",
+						"display_url": "pic.twitter.com/ZXOGoDe9wD",
+						"expanded_url": "https://twitter.com/cool18621/status/1128636520003334145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 123481,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128634891749355520/pu/vid/320x180/p2HbPRtn-EmxRL51.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128634891749355520/pu/vid/640x360/4i_3U8aEkakSKWxr.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1128634891749355520/pu/vid/1280x720/imsxQglcz9bZrvC4.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1128634891749355520/pu/pl/Znixis2TpffWHZF1.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1009757776392810500,
+				"id_str": "1009757776392810496",
+				"name": "❄쿨CooL❄",
+				"screen_name": "cool18621",
+				"location": "",
+				"description": "잡덕/그림쟁이/지뢰없음/귀여운거♡/알티소식/게임소식/애니소식/PS4/PSVITA/여러가지 PC&모바일 게임을 하고있는 카와이한 쿨이애오☆",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 571,
+				"friends_count": 411,
+				"listed_count": 33,
+				"created_at": "Thu Jun 21 11:19:49 +0000 2018",
+				"favourites_count": 662,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7510,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128177323344195585/o_cjnqP7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128177323344195585/o_cjnqP7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1009757776392810496/1557813431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3071,
+			"favorite_count": 1753,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1235,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크흡 이거 시유가 먼저 한건데 ㅠㅠ (백댄서는 심지어 방탄) https://t.co/XwTqZl6cD1"
+	},
+	{
 		"created_at": "Fri May 17 05:15:20 +0000 2019",
 		"id": 1129214607757795300,
 		"id_str": "1129254049121890304",
