@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 18:42:58 +0000 2019",
+		"id": 1129455482744262700,
+		"id_str": "1129457296281522181",
+		"full_text": "Prime Minister Justin Trudeau welcomes the decision by the United States to remove tariffs on Canadian steel and aluminum: https://t.co/ibU78A2E2h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ibU78A2E2h",
+					"expanded_url": "http://ow.ly/pz5w50ugB2A",
+					"display_url": "ow.ly/pz5w50ugB2A",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14713787,
+			"id_str": "14713787",
+			"name": "CanadianPM",
+			"screen_name": "CanadianPM",
+			"location": "Ottawa, Ontario, Canada",
+			"description": "Official Twitter account of Justin Trudeau, Prime Minister of Canada – Terms: https://t.co/cVtd0EBoub – Français: @PMcanadien",
+			"url": "http://t.co/jPe9bww8XL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jPe9bww8XL",
+							"expanded_url": "http://www.pm.gc.ca",
+							"display_url": "pm.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cVtd0EBoub",
+							"expanded_url": "http://ow.ly/KKus300hWpn",
+							"display_url": "ow.ly/KKus300hWpn",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225257,
+			"friends_count": 1091,
+			"listed_count": 1604,
+			"created_at": "Fri May 09 14:25:26 +0000 2008",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00124B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877227485724909568/U3Pxb5h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877227485724909568/U3Pxb5h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14713787/1537481835",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "91D4FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prime Minister Justin Trudeau welcomes the decision by the United States to remove tariffs on Canadian steel and aluminum: https://t.co/ibU78A2E2h"
+	},
+	{
+		"created_at": "Fri May 17 18:21:41 +0000 2019",
+		"id": 1129446723682746400,
+		"id_str": "1129451941904306176",
+		"full_text": "HPE buys supercomputer company Cray for $1.3 billion https://t.co/UNTZHnLeDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNTZHnLeDq",
+					"expanded_url": "http://www.zdnet.com/article/hpe-buys-supercomputer-company-cray-for-1-3-billion/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cdef6caa78c46000108ca1f&utm_medium=trueAnthem&utm_source=twitter",
+					"display_url": "zdnet.com/article/hpe-bu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3819701,
+			"id_str": "3819701",
+			"name": "ZDNet",
+			"screen_name": "ZDNet",
+			"location": "USA | UK | Asia | Australia",
+			"description": "Where technology means business",
+			"url": "http://t.co/5onVPZr4O4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5onVPZr4O4",
+							"expanded_url": "http://www.zdnet.com",
+							"display_url": "zdnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436528,
+			"friends_count": 188,
+			"listed_count": 12018,
+			"created_at": "Sun Apr 08 21:05:10 +0000 2007",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 212291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11182A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1518123078",
+			"profile_link_color": "11182A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE4E9",
+			"profile_text_color": "6A6D6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HPE buys supercomputer company Cray for $1.3 billion https://t.co/UNTZHnLeDq"
+	},
+	{
 		"created_at": "Fri May 17 14:12:38 +0000 2019",
 		"id": 1129178311769280500,
 		"id_str": "1129389266017038339",
