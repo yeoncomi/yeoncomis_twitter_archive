@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 16:49:26 +0000 2019",
+		"id": 1129788458656944100,
+		"id_str": "1129791114083307520",
+		"full_text": "못생김 https://t.co/4dTKGenS9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129788442282381300,
+					"id_str": "1129788442282381312",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/D63QmjWVUAAWPwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D63QmjWVUAAWPwD.jpg",
+					"url": "https://t.co/4dTKGenS9X",
+					"display_url": "pic.twitter.com/4dTKGenS9X",
+					"expanded_url": "https://twitter.com/GOGI_NIKU/status/1129788458656944128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129788442282381300,
+					"id_str": "1129788442282381312",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/D63QmjWVUAAWPwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D63QmjWVUAAWPwD.jpg",
+					"url": "https://t.co/4dTKGenS9X",
+					"display_url": "pic.twitter.com/4dTKGenS9X",
+					"expanded_url": "https://twitter.com/GOGI_NIKU/status/1129788458656944128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093928476845912000,
+			"id_str": "1093928476845912065",
+			"name": "니쿠",
+			"screen_name": "GOGI_NIKU",
+			"location": "@zeongp",
+			"description": "-그림 그리는데 못그림\n\n-싸인 지우지 않으시면 자유롭게 사용하셔도 됩니다.\n\n-마노 좋음\n이쿠 좋음\n미야코 좋음\n히비키 존나좋음\n설명끗 \n------------\n\n지인계\n@NIKU_GIIN\n\n프사 개",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 709,
+			"friends_count": 586,
+			"listed_count": 26,
+			"created_at": "Fri Feb 08 17:44:07 +0000 2019",
+			"favourites_count": 2227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129728523390869507/zim1yd5C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129728523390869507/zim1yd5C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093928476845912065/1557905386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "못생김 https://t.co/4dTKGenS9X"
+	},
+	{
 		"created_at": "Sat May 18 15:38:37 +0000 2019",
 		"id": 1129549319168593900,
 		"id_str": "1129773291311251456",
