@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 15:38:37 +0000 2019",
+		"id": 1129549319168593900,
+		"id_str": "1129773291311251456",
+		"full_text": "holy shit this guy fuckin owns https://t.co/WbmJU97w9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129549314362003500,
+					"id_str": "1129549314362003459",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z3HebVUAMJ2hN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6z3HebVUAMJ2hN.png",
+					"url": "https://t.co/WbmJU97w9a",
+					"display_url": "pic.twitter.com/WbmJU97w9a",
+					"expanded_url": "https://twitter.com/ChieGuevara/status/1129549319168593921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 778,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129549314362003500,
+					"id_str": "1129549314362003459",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z3HebVUAMJ2hN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6z3HebVUAMJ2hN.png",
+					"url": "https://t.co/WbmJU97w9a",
+					"display_url": "pic.twitter.com/WbmJU97w9a",
+					"expanded_url": "https://twitter.com/ChieGuevara/status/1129549319168593921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 778,
+							"h": 287,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129549314370367500,
+					"id_str": "1129549314370367488",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z3HedU8AAnTyV.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6z3HedU8AAnTyV.png",
+					"url": "https://t.co/WbmJU97w9a",
+					"display_url": "pic.twitter.com/WbmJU97w9a",
+					"expanded_url": "https://twitter.com/ChieGuevara/status/1129549319168593921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 265,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 863,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129549314349387800,
+					"id_str": "1129549314349387777",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z3HeYU0AE8141.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6z3HeYU0AE8141.jpg",
+					"url": "https://t.co/WbmJU97w9a",
+					"display_url": "pic.twitter.com/WbmJU97w9a",
+					"expanded_url": "https://twitter.com/ChieGuevara/status/1129549319168593921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 953,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 953,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129549314362028000,
+					"id_str": "1129549314362028033",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z3HebVsAE4yZW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6z3HebVsAE4yZW.png",
+					"url": "https://t.co/WbmJU97w9a",
+					"display_url": "pic.twitter.com/WbmJU97w9a",
+					"expanded_url": "https://twitter.com/ChieGuevara/status/1129549319168593921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 176,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 213,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 213,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 427229564,
+			"id_str": "427229564",
+			"name": "Megan Gear Solid 3: Snack Eater",
+			"screen_name": "ChieGuevara",
+			"location": "spooky forest ossuary",
+			"description": "native of dogstar; animal friend; backroom beefaroni; jellybean bird; ♥https://t.co/2IYfvGSr3x♥; Sukeban Sans Frontières; avatar = @Saccharengine;",
+			"url": "http://t.co/5nWT12D5az",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5nWT12D5az",
+							"expanded_url": "http://chieguevara.tumblr.com/",
+							"display_url": "chieguevara.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2IYfvGSr3x",
+							"expanded_url": "https://twitter.com/eggbabie",
+							"display_url": "twitter.com/eggbabie",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 797,
+			"friends_count": 184,
+			"listed_count": 10,
+			"created_at": "Sat Dec 03 08:26:26 +0000 2011",
+			"favourites_count": 4389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FDBB26",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115888755997642753/VKXmhnuY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115888755997642753/VKXmhnuY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/427229564/1554883605",
+			"profile_link_color": "7C7390",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6313,
+		"favorite_count": 19535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "holy shit this guy fuckin owns https://t.co/WbmJU97w9a"
+	},
+	{
+		"created_at": "Sat May 18 15:30:42 +0000 2019",
+		"id": 1129730053183553500,
+		"id_str": "1129771298966638593",
+		"full_text": "미친 존나웃었네ㅋㅋㅋㅋㅋ https://t.co/Ip5btsgMDm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129730041057808400,
+					"id_str": "1129730041057808384",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D62bfJ1WkAAjibB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62bfJ1WkAAjibB.jpg",
+					"url": "https://t.co/Ip5btsgMDm",
+					"display_url": "pic.twitter.com/Ip5btsgMDm",
+					"expanded_url": "https://twitter.com/kine_2nd/status/1129730053183553537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 221,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 666,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129730041057808400,
+					"id_str": "1129730041057808384",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D62bfJ1WkAAjibB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62bfJ1WkAAjibB.jpg",
+					"url": "https://t.co/Ip5btsgMDm",
+					"display_url": "pic.twitter.com/Ip5btsgMDm",
+					"expanded_url": "https://twitter.com/kine_2nd/status/1129730053183553537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 221,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 666,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1089935084143034400,
+			"id_str": "1089935084143034370",
+			"name": "키네",
+			"screen_name": "kine_2nd",
+			"location": "",
+			"description": "남의 일에 관심보이기 전에 본인을 되돌아봅시다. ;)",
+			"url": "https://t.co/Yqibkq3AE0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yqibkq3AE0",
+							"expanded_url": "https://twitter.com/kine_2nd/status/1108635920566087680?s=19",
+							"display_url": "twitter.com/kine_2nd/statu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 661,
+			"listed_count": 35,
+			"created_at": "Mon Jan 28 17:15:48 +0000 2019",
+			"favourites_count": 2471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126741745717264386/Xl-EFRsm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126741745717264386/Xl-EFRsm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1089935084143034370/1557471140",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친 존나웃었네ㅋㅋㅋㅋㅋ https://t.co/Ip5btsgMDm"
+	},
+	{
+		"created_at": "Sat May 18 15:28:41 +0000 2019",
+		"id": 1129706846313373700,
+		"id_str": "1129770792596561920",
+		"full_text": "부산 갈매기 부른게 더 빡치네.. 광주 이전에 부산 마산이 있었는데 이것들이 어디서 부산 갈매기 부르고 지롤이여. 미친 것들. 아우. \n\n https://t.co/oZckoSk5Wl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oZckoSk5Wl",
+					"expanded_url": "https://news.v.daum.net/v/20190518172105060",
+					"display_url": "news.v.daum.net/v/201905181721…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "mjuːl",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "멜랑꼴리의 묘약",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2641,
+			"friends_count": 2493,
+			"listed_count": 63,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 18172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124217568581931009/9fEv6E0c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124217568581931009/9fEv6E0c_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부산 갈매기 부른게 더 빡치네.. 광주 이전에 부산 마산이 있었는데 이것들이 어디서 부산 갈매기 부르고 지롤이여. 미친 것들. 아우. \n\n https://t.co/oZckoSk5Wl"
+	},
+	{
+		"created_at": "Sat May 18 15:19:48 +0000 2019",
+		"id": 1129265236131819500,
+		"id_str": "1129768557930270720",
+		"full_text": "남양유업이 스스로 죽여달라고 요청했다는 소식 https://t.co/m94kHcK75u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129265227499880400,
+					"id_str": "1129265227499880448",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D6v0vcZUwAAlj7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6v0vcZUwAAlj7e.jpg",
+					"url": "https://t.co/m94kHcK75u",
+					"display_url": "pic.twitter.com/m94kHcK75u",
+					"expanded_url": "https://twitter.com/woochick/status/1129265236131819520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129265227499880400,
+					"id_str": "1129265227499880448",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D6v0vcZUwAAlj7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6v0vcZUwAAlj7e.jpg",
+					"url": "https://t.co/m94kHcK75u",
+					"display_url": "pic.twitter.com/m94kHcK75u",
+					"expanded_url": "https://twitter.com/woochick/status/1129265236131819520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 570,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 1270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 323,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63066773,
+			"id_str": "63066773",
+			"name": "춰",
+			"screen_name": "woochick",
+			"location": "덕우주",
+			"description": "부채깎는 노인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1358,
+			"friends_count": 254,
+			"listed_count": 28,
+			"created_at": "Wed Aug 05 07:45:08 +0000 2009",
+			"favourites_count": 1129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38545,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B6B6B6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066773/1394723610",
+			"profile_link_color": "FFBB00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BF0000",
+			"profile_text_color": "4D3339",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5492,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남양유업이 스스로 죽여달라고 요청했다는 소식 https://t.co/m94kHcK75u"
+	},
+	{
 		"created_at": "Sat May 18 15:16:41 +0000 2019",
 		"id": 1129260098251923500,
 		"id_str": "1129767770193891328",
