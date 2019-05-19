@@ -1,6 +1,1216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 23:03:43 +0000 2019",
+		"id": 1130100511854620700,
+		"id_str": "1130247693308030976",
+		"full_text": "후진하던 계엄군 장갑차에 깔린 병사가 전진하는 시민군 장갑차에 깔린걸로 둔갑하게된 사연. #518 \nhttps://t.co/t2CzDtTXef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t2CzDtTXef",
+					"expanded_url": "https://newstapa.org/44124",
+					"display_url": "newstapa.org/44124",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2941926854,
+			"id_str": "2941926854",
+			"name": "애니프사형 GMIII 24602호기",
+			"screen_name": "1_djr123",
+			"location": "안초멘나사이 운동본부중앙회 트위터지부",
+			"description": "24602번째 GMIII 입니다. 애니프사라서 당신의 kibun이 나쁜것에 대해서 안 죄송하군요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 454,
+			"friends_count": 447,
+			"listed_count": 33,
+			"created_at": "Wed Dec 24 13:13:11 +0000 2014",
+			"favourites_count": 4164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 402109,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820143272693678081/-rJWxYZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820143272693678081/-rJWxYZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2941926854/1419506132",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후진하던 계엄군 장갑차에 깔린 병사가 전진하는 시민군 장갑차에 깔린걸로 둔갑하게된 사연. #518 \nhttps://t.co/t2CzDtTXef"
+	},
+	{
+		"created_at": "Sun May 19 22:57:19 +0000 2019",
+		"id": 1130067519757115400,
+		"id_str": "1130246081231515648",
+		"full_text": "민원취하 안 하니까 금융질서문란자로 등록해서 신용카드 전부 정지되고 신불자도 만들어버렸다가 민원취하하니까 바로 등록 삭제해버림 은행이란게 이렇게 일개 개인 신용을 걸레짝으로 만들 수 있구나 한순간에",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1130067514887528400,
+		"in_reply_to_status_id_str": "1130067514887528448",
+		"in_reply_to_user_id": 538350955,
+		"in_reply_to_user_id_str": "538350955",
+		"in_reply_to_screen_name": "MSONIC_Y",
+		"user": {
+			"id": 538350955,
+			"id_str": "538350955",
+			"name": "Never See You Again",
+			"screen_name": "MSONIC_Y",
+			"location": "999718",
+			"description": "jubeat(2009~), EXC 3179/3720(30+6, 4, 141, 360). SDVX / パズドラ / メモデフ / 트친소는 따로 안 합니다 언제든 팔로하시되 맞팔은 제 자유입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 370,
+			"listed_count": 4,
+			"created_at": "Tue Mar 27 17:41:09 +0000 2012",
+			"favourites_count": 2191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187002,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075445379460526080/3XjxV1By_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075445379460526080/3XjxV1By_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/538350955/1416969064",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "민원취하 안 하니까 금융질서문란자로 등록해서 신용카드 전부 정지되고 신불자도 만들어버렸다가 민원취하하니까 바로 등록 삭제해버림 은행이란게 이렇게 일개 개인 신용을 걸레짝으로 만들 수 있구나 한순간에"
+	},
+	{
+		"created_at": "Sun May 19 22:57:16 +0000 2019",
+		"id": 1130067514887528400,
+		"id_str": "1130246068916981760",
+		"full_text": "중도금 대출받은거 건설사가 부도나서 빚 떠안았다가 개인파산 신청해서 면책받았는데 그걸 채권으로 등록해놨길래 금감원에 민원넣으니까 '니 사정 고려해서 사기대출로 등록을 안 해놨었는데 금감원에 민원넣었으니 우리도 FM으로 간다' 하고 협박했다는 내용임 https://t.co/wX9n8GmObz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130067473305202700,
+					"id_str": "1130067473305202690",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D67OYS6UcAIoglK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67OYS6UcAIoglK.jpg",
+					"url": "https://t.co/wX9n8GmObz",
+					"display_url": "pic.twitter.com/wX9n8GmObz",
+					"expanded_url": "https://twitter.com/MSONIC_Y/status/1130067514887528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130067473305202700,
+					"id_str": "1130067473305202690",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D67OYS6UcAIoglK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67OYS6UcAIoglK.jpg",
+					"url": "https://t.co/wX9n8GmObz",
+					"display_url": "pic.twitter.com/wX9n8GmObz",
+					"expanded_url": "https://twitter.com/MSONIC_Y/status/1130067514887528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130067483434479600,
+					"id_str": "1130067483434479617",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D67OY4pU8AEM2qc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67OY4pU8AEM2qc.jpg",
+					"url": "https://t.co/wX9n8GmObz",
+					"display_url": "pic.twitter.com/wX9n8GmObz",
+					"expanded_url": "https://twitter.com/MSONIC_Y/status/1130067514887528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130067494285168600,
+					"id_str": "1130067494285168641",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D67OZhEVUAEcm9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67OZhEVUAEcm9U.jpg",
+					"url": "https://t.co/wX9n8GmObz",
+					"display_url": "pic.twitter.com/wX9n8GmObz",
+					"expanded_url": "https://twitter.com/MSONIC_Y/status/1130067514887528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130067504770895900,
+					"id_str": "1130067504770895872",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D67OaIIU0AANI7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67OaIIU0AANI7_.jpg",
+					"url": "https://t.co/wX9n8GmObz",
+					"display_url": "pic.twitter.com/wX9n8GmObz",
+					"expanded_url": "https://twitter.com/MSONIC_Y/status/1130067514887528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 538350955,
+			"id_str": "538350955",
+			"name": "Never See You Again",
+			"screen_name": "MSONIC_Y",
+			"location": "999718",
+			"description": "jubeat(2009~), EXC 3179/3720(30+6, 4, 141, 360). SDVX / パズドラ / メモデフ / 트친소는 따로 안 합니다 언제든 팔로하시되 맞팔은 제 자유입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 370,
+			"listed_count": 4,
+			"created_at": "Tue Mar 27 17:41:09 +0000 2012",
+			"favourites_count": 2191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187002,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075445379460526080/3XjxV1By_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075445379460526080/3XjxV1By_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/538350955/1416969064",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중도금 대출받은거 건설사가 부도나서 빚 떠안았다가 개인파산 신청해서 면책받았는데 그걸 채권으로 등록해놨길래 금감원에 민원넣으니까 '니 사정 고려해서 사기대출로 등록을 안 해놨었는데 금감원에 민원넣었으니 우리도 FM으로 간다' 하고 협박했다는 내용임 https://t.co/wX9n8GmObz"
+	},
+	{
+		"created_at": "Sun May 19 22:56:04 +0000 2019",
+		"id": 1129581153210388500,
+		"id_str": "1130245768470646784",
+		"full_text": "일본라노베에 한국어 욕 나오는건 신기하다 ㅋㅋㅋ https://t.co/xjOgv6h8JR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129581144528130000,
+					"id_str": "1129581144528130053",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D60UEPCUEAU_a6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D60UEPCUEAU_a6U.jpg",
+					"url": "https://t.co/xjOgv6h8JR",
+					"display_url": "pic.twitter.com/xjOgv6h8JR",
+					"expanded_url": "https://twitter.com/ELID00/status/1129581153210388480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 319,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129581144528130000,
+					"id_str": "1129581144528130053",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D60UEPCUEAU_a6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D60UEPCUEAU_a6U.jpg",
+					"url": "https://t.co/xjOgv6h8JR",
+					"display_url": "pic.twitter.com/xjOgv6h8JR",
+					"expanded_url": "https://twitter.com/ELID00/status/1129581153210388480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 319,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107410295910096900,
+			"id_str": "1107410295910096896",
+			"name": "ELID",
+			"screen_name": "ELID00",
+			"location": "",
+			"description": "그림공부중\n\nPIXIV : https://t.co/oj0nWS350i\n\n프사 : https://t.co/D6KBuIwrjW",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								15,
+								38
+							]
+						},
+						{
+							"url": "https://t.co/D6KBuIwrjW",
+							"expanded_url": "https://twitter.com/wooperfuri/status/1115378184541704192",
+							"display_url": "twitter.com/wooperfuri/sta…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Sun Mar 17 22:36:04 +0000 2019",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3074,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125963728954974209/_bEPeS2c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125963728954974209/_bEPeS2c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107410295910096896/1557617209",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 940,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본라노베에 한국어 욕 나오는건 신기하다 ㅋㅋㅋ https://t.co/xjOgv6h8JR"
+	},
+	{
+		"created_at": "Sun May 19 22:55:45 +0000 2019",
+		"id": 1130245688359415800,
+		"id_str": "1130245688359415808",
+		"full_text": "@shiftpsh Sog",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shiftpsh",
+					"name": "시프트 / shift*",
+					"id": 179891008,
+					"id_str": "179891008",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1130241596853645300,
+		"in_reply_to_status_id_str": "1130241596853645312",
+		"in_reply_to_user_id": 179891008,
+		"in_reply_to_user_id_str": "179891008",
+		"in_reply_to_screen_name": "shiftpsh",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@shiftpsh Sog"
+	},
+	{
+		"created_at": "Sun May 19 22:53:37 +0000 2019",
+		"id": 1130188971911200800,
+		"id_str": "1130245150645424128",
+		"full_text": "앞으로 화웨이 스마트폰에 구글 플레이를 비롯한 구글서비스 탑재불가. \n\n안드로이드에서 구글 플레이 안된다는말은 뭐다?? 좆됬다는뜻이지 하하하ㅏ!! 신난다!!!!!! https://t.co/i2AKgZmDg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i2AKgZmDg5",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/1130176933008891904",
+					"display_url": "twitter.com/AndroidPolice/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1464969817,
+			"id_str": "1464969817",
+			"name": "공산당 만세",
+			"screen_name": "Matchya_Qcta",
+			"location": "일본",
+			"description": "느금마",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 972,
+			"listed_count": 8,
+			"created_at": "Tue May 28 15:22:49 +0000 2013",
+			"favourites_count": 8859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86872,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089445650872250368/PcWSpg73_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089445650872250368/PcWSpg73_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1464969817/1516272310",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130176933008891900,
+		"quoted_status_id_str": "1130176933008891904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i2AKgZmDg5",
+			"expanded": "https://twitter.com/AndroidPolice/status/1130176933008891904",
+			"display": "twitter.com/AndroidPolice/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 19 18:22:33 +0000 2019",
+			"id": 1130176933008891900,
+			"id_str": "1130176933008891904",
+			"full_text": "Huawei's future phones reportedly won't have access to Google services, including the Play Store https://t.co/dnYqXHh4QA https://t.co/gc3yUlSwj1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dnYqXHh4QA",
+						"expanded_url": "https://www.androidpolice.com/2019/05/19/huaweis-future-phones-reportedly-wont-have-access-to-google-services-including-the-play-store/",
+						"display_url": "androidpolice.com/2019/05/19/hua…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1130176931498881000,
+						"id_str": "1130176931498881024",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+						"url": "https://t.co/gc3yUlSwj1",
+						"display_url": "pic.twitter.com/gc3yUlSwj1",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/1130176933008891904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 728,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130176931498881000,
+						"id_str": "1130176931498881024",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+						"url": "https://t.co/gc3yUlSwj1",
+						"display_url": "pic.twitter.com/gc3yUlSwj1",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/1130176933008891904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 728,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98335997,
+				"id_str": "98335997",
+				"name": "Android Police",
+				"screen_name": "AndroidPolice",
+				"location": "San Francisco, CA",
+				"description": "We cover Android news, apps and games, phones and tablets. Sometimes we rant. Got a hot tip? tips@androidpolice.com.",
+				"url": "http://t.co/oPxy87IP2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oPxy87IP2B",
+								"expanded_url": "http://www.androidpolice.com",
+								"display_url": "androidpolice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 496773,
+				"friends_count": 359,
+				"listed_count": 8018,
+				"created_at": "Mon Dec 21 09:35:39 +0000 2009",
+				"favourites_count": 608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 60005,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98335997/1423092178",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 227,
+			"favorite_count": 360,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 27,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앞으로 화웨이 스마트폰에 구글 플레이를 비롯한 구글서비스 탑재불가. \n\n안드로이드에서 구글 플레이 안된다는말은 뭐다?? 좆됬다는뜻이지 하하하ㅏ!! 신난다!!!!!! https://t.co/i2AKgZmDg5"
+	},
+	{
+		"created_at": "Sun May 19 22:52:19 +0000 2019",
+		"id": 1130176933008891900,
+		"id_str": "1130244824370573313",
+		"full_text": "Huawei's future phones reportedly won't have access to Google services, including the Play Store https://t.co/dnYqXHh4QA https://t.co/gc3yUlSwj1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnYqXHh4QA",
+					"expanded_url": "https://www.androidpolice.com/2019/05/19/huaweis-future-phones-reportedly-wont-have-access-to-google-services-including-the-play-store/",
+					"display_url": "androidpolice.com/2019/05/19/hua…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130176931498881000,
+					"id_str": "1130176931498881024",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+					"url": "https://t.co/gc3yUlSwj1",
+					"display_url": "pic.twitter.com/gc3yUlSwj1",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/1130176933008891904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130176931498881000,
+					"id_str": "1130176931498881024",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D68x7mdU8AAYn-c.jpg",
+					"url": "https://t.co/gc3yUlSwj1",
+					"display_url": "pic.twitter.com/gc3yUlSwj1",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/1130176933008891904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98335997,
+			"id_str": "98335997",
+			"name": "Android Police",
+			"screen_name": "AndroidPolice",
+			"location": "San Francisco, CA",
+			"description": "We cover Android news, apps and games, phones and tablets. Sometimes we rant. Got a hot tip? tips@androidpolice.com.",
+			"url": "http://t.co/oPxy87IP2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oPxy87IP2B",
+							"expanded_url": "http://www.androidpolice.com",
+							"display_url": "androidpolice.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496773,
+			"friends_count": 359,
+			"listed_count": 8018,
+			"created_at": "Mon Dec 21 09:35:39 +0000 2009",
+			"favourites_count": 608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 60005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98335997/1423092178",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huawei's future phones reportedly won't have access to Google services, including the Play Store https://t.co/dnYqXHh4QA https://t.co/gc3yUlSwj1"
+	},
+	{
 		"created_at": "Sun May 19 07:09:51 +0000 2019",
 		"id": 1129942537353945100,
 		"id_str": "1130007643697770497",
