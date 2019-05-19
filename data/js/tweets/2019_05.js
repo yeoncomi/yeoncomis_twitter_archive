@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 23:39:08 +0000 2019",
+		"id": 1129844871882141700,
+		"id_str": "1129894216346116096",
+		"full_text": "when all your friends are done with ib testing but you still have another week to go https://t.co/yiKePqNgxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129844858846244900,
+					"id_str": "1129844858846244864",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D64D6bbU8AALCbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64D6bbU8AALCbl.jpg",
+					"url": "https://t.co/yiKePqNgxc",
+					"display_url": "pic.twitter.com/yiKePqNgxc",
+					"expanded_url": "https://twitter.com/IBProblemss/status/1129844871882141696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129844858846244900,
+					"id_str": "1129844858846244864",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D64D6bbU8AALCbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64D6bbU8AALCbl.jpg",
+					"url": "https://t.co/yiKePqNgxc",
+					"display_url": "pic.twitter.com/yiKePqNgxc",
+					"expanded_url": "https://twitter.com/IBProblemss/status/1129844871882141696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 433928923,
+			"id_str": "433928923",
+			"name": "IB Problems",
+			"screen_name": "IBProblemss",
+			"location": "Worldwide",
+			"description": "IB: Getting kids into college, one mental breakdown at a time. ibproblemss@gmail.com Est. Dec. 11, 2011 *Not IBO Affiliated*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51358,
+			"friends_count": 307,
+			"listed_count": 66,
+			"created_at": "Sun Dec 11 06:09:48 +0000 2011",
+			"favourites_count": 1428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2913,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1771659300/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1771659300/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/433928923/1348014302",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "when all your friends are done with ib testing but you still have another week to go https://t.co/yiKePqNgxc"
+	},
+	{
+		"created_at": "Sat May 18 23:31:14 +0000 2019",
+		"id": 1129887568747569200,
+		"id_str": "1129892227675697152",
+		"full_text": "2015년 기사인데....이런 기사를 볼 때마다. \n\n신용카드 정보를 구입하려고 산 비트코인을 계속 가지고 있었으면....이라는 가정이 머리에서 떠나지 않는다. https://t.co/p9IXphq4nD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129887562170978300,
+					"id_str": "1129887562170978304",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D64qwFtVUAAm5b0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64qwFtVUAAm5b0.jpg",
+					"url": "https://t.co/p9IXphq4nD",
+					"display_url": "pic.twitter.com/p9IXphq4nD",
+					"expanded_url": "https://twitter.com/kcanari/status/1129887568747569152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 736,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129887562170978300,
+					"id_str": "1129887562170978304",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D64qwFtVUAAm5b0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D64qwFtVUAAm5b0.jpg",
+					"url": "https://t.co/p9IXphq4nD",
+					"display_url": "pic.twitter.com/p9IXphq4nD",
+					"expanded_url": "https://twitter.com/kcanari/status/1129887568747569152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 736,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49436,
+			"friends_count": 279,
+			"listed_count": 248,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 110559,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2015년 기사인데....이런 기사를 볼 때마다. \n\n신용카드 정보를 구입하려고 산 비트코인을 계속 가지고 있었으면....이라는 가정이 머리에서 떠나지 않는다. https://t.co/p9IXphq4nD"
+	},
+	{
+		"created_at": "Sat May 18 23:29:15 +0000 2019",
+		"id": 1129466732018409500,
+		"id_str": "1129891728343781376",
+		"full_text": "국제화란?\n\n토론토에 본사가 있는 일본 브랜드 회사가 주문해 태국에서 만든 영국식 밀크티를 캘거리에 있는 한인마트에서 사오는 것 https://t.co/hrSwcDrPsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129466687617609700,
+					"id_str": "1129466687617609729",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yr990VsAEq0t9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yr990VsAEq0t9.jpg",
+					"url": "https://t.co/hrSwcDrPsi",
+					"display_url": "pic.twitter.com/hrSwcDrPsi",
+					"expanded_url": "https://twitter.com/madpen10/status/1129466732018409472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129466687617609700,
+					"id_str": "1129466687617609729",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yr990VsAEq0t9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yr990VsAEq0t9.jpg",
+					"url": "https://t.co/hrSwcDrPsi",
+					"display_url": "pic.twitter.com/hrSwcDrPsi",
+					"expanded_url": "https://twitter.com/madpen10/status/1129466732018409472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129466711688671200,
+					"id_str": "1129466711688671232",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yr_XfU8AA2Z8x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yr_XfU8AA2Z8x.jpg",
+					"url": "https://t.co/hrSwcDrPsi",
+					"display_url": "pic.twitter.com/hrSwcDrPsi",
+					"expanded_url": "https://twitter.com/madpen10/status/1129466732018409472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123404726,
+			"id_str": "123404726",
+			"name": "狂筆",
+			"screen_name": "madpen10",
+			"location": "seoul, korea",
+			"description": "캐나다에도 마티즈 배달 오나효?\n\n무작정 맞팔은 해주지도, 원하지도 않습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7262,
+			"friends_count": 1135,
+			"listed_count": 147,
+			"created_at": "Tue Mar 16 00:35:14 +0000 2010",
+			"favourites_count": 561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459002735380013056/-Klir7q7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459002735380013056/-Klir7q7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국제화란?\n\n토론토에 본사가 있는 일본 브랜드 회사가 주문해 태국에서 만든 영국식 밀크티를 캘거리에 있는 한인마트에서 사오는 것 https://t.co/hrSwcDrPsi"
+	},
+	{
 		"created_at": "Sat May 18 19:27:57 +0000 2019",
 		"id": 1129831003210494000,
 		"id_str": "1129831003210493953",
