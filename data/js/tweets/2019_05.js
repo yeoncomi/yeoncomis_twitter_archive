@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 02:40:06 +0000 2019",
+		"id": 1129628115955642400,
+		"id_str": "1129939758195494912",
+		"full_text": "ㅋ..ㅋㅋㅋㅋ...이 강아지테러한 사람은....정말 놀랍게도...강아지키우는 사람이었데..ㅋㅋ..ㅋㅋ..어이없어...\n대형견들 공원 오지말라고...소형견 키우는 견주가 만든거래...ㅋㅋ..ㅋㅋ\n\n진짜...뒤통수 오진다 진짜 https://t.co/Mu6LLJXKzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mu6LLJXKzN",
+					"expanded_url": "https://twitter.com/jungkkakkung10/status/1129227666551320576",
+					"display_url": "twitter.com/jungkkakkung10…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105795287602192400,
+			"id_str": "1105795287602192384",
+			"name": "송태원 가슴",
+			"screen_name": "jungkkakkung10",
+			"location": "",
+			"description": "멘션주시면 맞팔합니다(태원유진,중혁독자,제천독자 팡인)\njungkkakkung10의 질문함입니다 https://t.co/mskTR0ndKo… #질문함 #peing",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mskTR0ndKo",
+							"expanded_url": "http://peing.net/ko/jungkkakkun",
+							"display_url": "peing.net/ko/jungkkakkun",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 754,
+			"friends_count": 239,
+			"listed_count": 6,
+			"created_at": "Wed Mar 13 11:38:36 +0000 2019",
+			"favourites_count": 8521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14349,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112374044735619072/NVcS-LjC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112374044735619072/NVcS-LjC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105795287602192384/1554205230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129227666551320600,
+		"quoted_status_id_str": "1129227666551320576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mu6LLJXKzN",
+			"expanded": "https://twitter.com/jungkkakkung10/status/1129227666551320576",
+			"display": "twitter.com/jungkkakkung10…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 03:30:30 +0000 2019",
+			"id": 1129227666551320600,
+			"id_str": "1129227666551320576",
+			"full_text": "정발산역 근방에서도 떡밥처럼 뭉친 간식안에 쥐약을 넣어둔걸 발견했다고합니다..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1129220531218108400,
+			"in_reply_to_status_id_str": "1129220531218108416",
+			"in_reply_to_user_id": 1105795287602192400,
+			"in_reply_to_user_id_str": "1105795287602192384",
+			"in_reply_to_screen_name": "jungkkakkung10",
+			"user": {
+				"id": 1105795287602192400,
+				"id_str": "1105795287602192384",
+				"name": "송태원 가슴",
+				"screen_name": "jungkkakkung10",
+				"location": "",
+				"description": "멘션주시면 맞팔합니다(태원유진,중혁독자,제천독자 팡인)\njungkkakkung10의 질문함입니다 https://t.co/mskTR0ndKo… #질문함 #peing",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mskTR0ndKo",
+								"expanded_url": "http://peing.net/ko/jungkkakkun",
+								"display_url": "peing.net/ko/jungkkakkun",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 754,
+				"friends_count": 239,
+				"listed_count": 6,
+				"created_at": "Wed Mar 13 11:38:36 +0000 2019",
+				"favourites_count": 8521,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14349,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112374044735619072/NVcS-LjC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112374044735619072/NVcS-LjC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105795287602192384/1554205230",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1067,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3467,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋ..ㅋㅋㅋㅋ...이 강아지테러한 사람은....정말 놀랍게도...강아지키우는 사람이었데..ㅋㅋ..ㅋㅋ..어이없어...\n대형견들 공원 오지말라고...소형견 키우는 견주가 만든거래...ㅋㅋ..ㅋㅋ\n\n진짜...뒤통수 오진다 진짜 https://t.co/Mu6LLJXKzN"
+	},
+	{
+		"created_at": "Sun May 19 02:32:31 +0000 2019",
+		"id": 1129436455632293900,
+		"id_str": "1129937850210836480",
+		"full_text": "美학교식당 직원, 돈없는 학생에게 공짜점심 줬다가 해고 [자료사진]\nhttps://t.co/Wfw3WadPJa\n\n미국 뉴햄프셔주에 있는 한 학교 식당 직원이 학생에게 무료로 점심을 줬다는 이유로 해고돼 논란이 일고 있습니다 https://t.co/LhYjnoq20f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wfw3WadPJa",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20190517125700009?input=tw",
+					"display_url": "yna.co.kr/view/AKR201905…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129436454059429900,
+					"id_str": "1129436454059429890",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yQeJCW0AIk7Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yQeJCW0AIk7Sk.jpg",
+					"url": "https://t.co/LhYjnoq20f",
+					"display_url": "pic.twitter.com/LhYjnoq20f",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1129436455632293890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129436454059429900,
+					"id_str": "1129436454059429890",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yQeJCW0AIk7Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yQeJCW0AIk7Sk.jpg",
+					"url": "https://t.co/LhYjnoq20f",
+					"display_url": "pic.twitter.com/LhYjnoq20f",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1129436455632293890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304318,
+			"friends_count": 73950,
+			"listed_count": 4812,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 186580,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "美학교식당 직원, 돈없는 학생에게 공짜점심 줬다가 해고 [자료사진]\nhttps://t.co/Wfw3WadPJa\n\n미국 뉴햄프셔주에 있는 한 학교 식당 직원이 학생에게 무료로 점심을 줬다는 이유로 해고돼 논란이 일고 있습니다 https://t.co/LhYjnoq20f"
+	},
+	{
+		"created_at": "Sun May 19 02:32:00 +0000 2019",
+		"id": 1128675622358642700,
+		"id_str": "1129937720497672192",
+		"full_text": "一部の人間から見えなくなる ひみつ道具 https://t.co/ms5gekXEzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128675421539594200,
+					"id_str": "1128675421539594241",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ncUN-U8AEnYkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ncUN-U8AEnYkx.jpg",
+					"url": "https://t.co/ms5gekXEzC",
+					"display_url": "pic.twitter.com/ms5gekXEzC",
+					"expanded_url": "https://twitter.com/study666i/status/1128675622358642688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128675421539594200,
+					"id_str": "1128675421539594241",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ncUN-U8AEnYkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ncUN-U8AEnYkx.jpg",
+					"url": "https://t.co/ms5gekXEzC",
+					"display_url": "pic.twitter.com/ms5gekXEzC",
+					"expanded_url": "https://twitter.com/study666i/status/1128675622358642688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 619524869,
+			"id_str": "619524869",
+			"name": "STUDY（反省）",
+			"screen_name": "study666i",
+			"location": "「座右の銘 真面目に不真面目」",
+			"description": "イラストレーターです。絵を描く事が好きです。地味な絵を描きます。 『今日もツノがある』原作 ＬＩＮＥスタンプ【https://t.co/A5QftRchVo】 グッズ【https://t.co/fk3CWpfFN5】【尊敬】小林賢太郎さん/井上涼さん/安達亨さん",
+			"url": "https://t.co/Ef9owLabZd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ef9owLabZd",
+							"expanded_url": "https://www.studykurukuru.com/contact",
+							"display_url": "studykurukuru.com/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/A5QftRchVo",
+							"expanded_url": "http://goo.gl/KWiiBh",
+							"display_url": "goo.gl/KWiiBh",
+							"indices": [
+								55,
+								78
+							]
+						},
+						{
+							"url": "https://t.co/fk3CWpfFN5",
+							"expanded_url": "http://goo.gl/SjeOQj",
+							"display_url": "goo.gl/SjeOQj",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 158314,
+			"friends_count": 582,
+			"listed_count": 1642,
+			"created_at": "Wed Jun 27 00:07:55 +0000 2012",
+			"favourites_count": 16948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123212,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983425769861824514/SHbmXbYL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983425769861824514/SHbmXbYL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/619524869/1544501799",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 492,
+		"favorite_count": 3083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "一部の人間から見えなくなる ひみつ道具 https://t.co/ms5gekXEzC"
+	},
+	{
 		"created_at": "Sat May 18 23:39:08 +0000 2019",
 		"id": 1129844871882141700,
 		"id_str": "1129894216346116096",
