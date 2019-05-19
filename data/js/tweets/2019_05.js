@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 07:09:51 +0000 2019",
+		"id": 1129942537353945100,
+		"id_str": "1130007643697770497",
+		"full_text": "ㅋㅋㅋㄱㄱ시발 막나가네 우리은행ㅋㅋㅋㅋㅋ\n쓸일도없지만 앞으론 안쓴다 ㅅㄱ https://t.co/cEcWu55S8B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129942529200099300,
+					"id_str": "1129942529200099328",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D65cvl2UEAAKnjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D65cvl2UEAAKnjf.jpg",
+					"url": "https://t.co/cEcWu55S8B",
+					"display_url": "pic.twitter.com/cEcWu55S8B",
+					"expanded_url": "https://twitter.com/kbnm1326/status/1129942537353945088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129942529200099300,
+					"id_str": "1129942529200099328",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D65cvl2UEAAKnjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D65cvl2UEAAKnjf.jpg",
+					"url": "https://t.co/cEcWu55S8B",
+					"display_url": "pic.twitter.com/cEcWu55S8B",
+					"expanded_url": "https://twitter.com/kbnm1326/status/1129942537353945088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1278955044,
+			"id_str": "1278955044",
+			"name": "멍청한곰",
+			"screen_name": "kbnm1326",
+			"location": "뇌내망상",
+			"description": "생각많은 멍청이/검은사막,디비전2\n레식시팔꺼 버그로 손절ㅅㄱ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 373,
+			"listed_count": 1,
+			"created_at": "Mon Mar 18 23:04:59 +0000 2013",
+			"favourites_count": 5764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14294,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951352849966948353/Bsj5irje_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951352849966948353/Bsj5irje_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1278955044/1487527368",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㄱㄱ시발 막나가네 우리은행ㅋㅋㅋㅋㅋ\n쓸일도없지만 앞으론 안쓴다 ㅅㄱ https://t.co/cEcWu55S8B"
+	},
+	{
+		"created_at": "Sun May 19 07:05:45 +0000 2019",
+		"id": 1129742800000565200,
+		"id_str": "1130006614096850944",
+		"full_text": "방도리 곡 커버한 거 같은데 무슨 캐릭터지? https://t.co/YqP2AgPE5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129742791221944300,
+					"id_str": "1129742791221944325",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D62nFT5XoAUeELL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62nFT5XoAUeELL.jpg",
+					"url": "https://t.co/YqP2AgPE5j",
+					"display_url": "pic.twitter.com/YqP2AgPE5j",
+					"expanded_url": "https://twitter.com/fundamental_of/status/1129742800000565253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129742791221944300,
+					"id_str": "1129742791221944325",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D62nFT5XoAUeELL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62nFT5XoAUeELL.jpg",
+					"url": "https://t.co/YqP2AgPE5j",
+					"display_url": "pic.twitter.com/YqP2AgPE5j",
+					"expanded_url": "https://twitter.com/fundamental_of/status/1129742800000565253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951660898975858700,
+			"id_str": "951660898975858688",
+			"name": "망자",
+			"screen_name": "fundamental_of",
+			"location": "",
+			"description": "신선한 몬린이 본계 → @gs11099",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 53,
+			"listed_count": 0,
+			"created_at": "Fri Jan 12 03:43:34 +0000 2018",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13846,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112397742649700354/nFtIbST0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112397742649700354/nFtIbST0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951660898975858688/1554051512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 406,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방도리 곡 커버한 거 같은데 무슨 캐릭터지? https://t.co/YqP2AgPE5j"
+	},
+	{
 		"created_at": "Sun May 19 05:21:19 +0000 2019",
 		"id": 1129980329475878900,
 		"id_str": "1129980329475878912",
