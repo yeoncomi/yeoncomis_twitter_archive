@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 18:52:04 +0000 2019",
+		"id": 1130473487708016600,
+		"id_str": "1130546752019296256",
+		"full_text": "에이~ 이거 9595쇼 에피소드 중에 하나겠지? 9595쇼보다 더 웃긴게 다큐일리가 없잖아? 그럴 꺼야.. 이건 진짜 합성일거야.. 이건 9595쇼 백반토론이 분명함! https://t.co/rZTpvs7MsF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130150594587418600,
+					"id_str": "1130150594587418625",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130150594587418625/pu/img/2F7KqDf2VaCBhOPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130150594587418625/pu/img/2F7KqDf2VaCBhOPt.jpg",
+					"url": "https://t.co/rZTpvs7MsF",
+					"display_url": "pic.twitter.com/rZTpvs7MsF",
+					"expanded_url": "https://twitter.com/DqmjnX0/status/1130151159237189633/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1130151159237189600,
+					"source_status_id_str": "1130151159237189633",
+					"source_user_id": 863730265629184000,
+					"source_user_id_str": "863730265629184001"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130150594587418600,
+					"id_str": "1130150594587418625",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130150594587418625/pu/img/2F7KqDf2VaCBhOPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130150594587418625/pu/img/2F7KqDf2VaCBhOPt.jpg",
+					"url": "https://t.co/rZTpvs7MsF",
+					"display_url": "pic.twitter.com/rZTpvs7MsF",
+					"expanded_url": "https://twitter.com/DqmjnX0/status/1130151159237189633/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1130151159237189600,
+					"source_status_id_str": "1130151159237189633",
+					"source_user_id": 863730265629184000,
+					"source_user_id_str": "863730265629184001",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 110022,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130150594587418625/pu/vid/640x360/Ix7-OeUy6-g4INhI.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130150594587418625/pu/vid/320x180/bv9b-w5jCFgv5sxn.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130150594587418625/pu/vid/1280x720/yWfMPVTD8IRvOuOi.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1130150594587418625/pu/pl/v7fnFOqQ17YBTfys.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 863730265629184000,
+							"id_str": "863730265629184001",
+							"name": "도네",
+							"screen_name": "DqmjnX0",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 299,
+							"friends_count": 319,
+							"listed_count": 11,
+							"created_at": "Sun May 14 12:18:37 +0000 2017",
+							"favourites_count": 48588,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 31510,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1119961602722160642/yKpV6m7T_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119961602722160642/yKpV6m7T_normal.jpg",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1030546363,
+			"id_str": "1030546363",
+			"name": "🐝핵노잼🐝김밥공수처장🐝",
+			"screen_name": "coreazang",
+			"location": "서울 사당역 15번 출구",
+			"description": "이재명 지지자 진짜 아닙니다. 김밥 꼬투리 잡으면 맛있어요~ 좌우의 꼬투리로 완성되는 김밥명장. 김밥명장은 가상의 캐릭터 입니다. 죽이지 않아요~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7435,
+			"friends_count": 6673,
+			"listed_count": 33,
+			"created_at": "Sun Dec 23 13:05:33 +0000 2012",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80723,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114906732952580097/6RrEVDBu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114906732952580097/6RrEVDBu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030546363/1499130886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에이~ 이거 9595쇼 에피소드 중에 하나겠지? 9595쇼보다 더 웃긴게 다큐일리가 없잖아? 그럴 꺼야.. 이건 진짜 합성일거야.. 이건 9595쇼 백반토론이 분명함! https://t.co/rZTpvs7MsF"
+	},
+	{
 		"created_at": "Mon May 20 07:37:08 +0000 2019",
 		"id": 1130301123653300200,
 		"id_str": "1130376896116547584",
