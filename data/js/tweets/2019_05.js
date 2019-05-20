@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 07:37:08 +0000 2019",
+		"id": 1130301123653300200,
+		"id_str": "1130376896116547584",
+		"full_text": "근데 중국은 트위터 금지해놓고 인민일보는 트위터 왜 하나요? (공식적으로는) 자기편 아무도 못 들어오게 해놓고 혼자 떠들면 이렇게 명치에서 먼지나게 쳐맞는데 https://t.co/MTmPgUJStO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130301117206749200,
+					"id_str": "1130301117206749184",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D6-i4KRV4AA5zF5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6-i4KRV4AA5zF5.png",
+					"url": "https://t.co/MTmPgUJStO",
+					"display_url": "pic.twitter.com/MTmPgUJStO",
+					"expanded_url": "https://twitter.com/cat_cargo/status/1130301123653300226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130301117206749200,
+					"id_str": "1130301117206749184",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D6-i4KRV4AA5zF5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6-i4KRV4AA5zF5.png",
+					"url": "https://t.co/MTmPgUJStO",
+					"display_url": "pic.twitter.com/MTmPgUJStO",
+					"expanded_url": "https://twitter.com/cat_cargo/status/1130301123653300226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4786,
+			"friends_count": 74,
+			"listed_count": 72,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "근데 중국은 트위터 금지해놓고 인민일보는 트위터 왜 하나요? (공식적으로는) 자기편 아무도 못 들어오게 해놓고 혼자 떠들면 이렇게 명치에서 먼지나게 쳐맞는데 https://t.co/MTmPgUJStO"
+	},
+	{
 		"created_at": "Mon May 20 03:34:45 +0000 2019",
 		"id": 1130078683123683300,
 		"id_str": "1130315900148539392",
