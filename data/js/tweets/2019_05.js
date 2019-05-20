@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 23:23:44 +0000 2019",
+		"id": 1130252543680843800,
+		"id_str": "1130252728985219072",
+		"full_text": "민족의 밝은 미래를 하루빨리 안아오자면\n판문점선언과 9월평양공동선언을 리행하는데서 그 누구의 눈치를 보거나 객관적조건에 빙자해서는 안되며 모든 문제를 우리 민족끼리 힘을 합쳐 풀어나가기 위해 노력해야 한다.\nhttps://t.co/FqvRDjtaX2 https://t.co/oE6tttSsun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FqvRDjtaX2",
+					"expanded_url": "http://uriminzokkiri.com/index.php?ptype=ugisa1&no=1171131&pagenum=1",
+					"display_url": "uriminzokkiri.com/index.php?ptyp…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130252528593932300,
+					"id_str": "1130252528593932288",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D692r7lUEAAWoc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D692r7lUEAAWoc2.jpg",
+					"url": "https://t.co/oE6tttSsun",
+					"display_url": "pic.twitter.com/oE6tttSsun",
+					"expanded_url": "https://twitter.com/uriminzok/status/1130252543680843776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 703,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130252528593932300,
+					"id_str": "1130252528593932288",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D692r7lUEAAWoc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D692r7lUEAAWoc2.jpg",
+					"url": "https://t.co/oE6tttSsun",
+					"display_url": "pic.twitter.com/oE6tttSsun",
+					"expanded_url": "https://twitter.com/uriminzok/status/1130252543680843776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 703,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166848234,
+			"id_str": "166848234",
+			"name": "uriminzokkiri",
+			"screen_name": "uriminzok",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/YxRdagdWdi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YxRdagdWdi",
+							"expanded_url": "http://www.uriminzokkiri.com",
+							"display_url": "uriminzokkiri.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15900,
+			"friends_count": 5,
+			"listed_count": 889,
+			"created_at": "Thu Jul 15 04:02:45 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1DC1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041231308872048641/a58TyxjO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041231308872048641/a58TyxjO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166848234/1537084029",
+			"profile_link_color": "00B2B8",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민족의 밝은 미래를 하루빨리 안아오자면\n판문점선언과 9월평양공동선언을 리행하는데서 그 누구의 눈치를 보거나 객관적조건에 빙자해서는 안되며 모든 문제를 우리 민족끼리 힘을 합쳐 풀어나가기 위해 노력해야 한다.\nhttps://t.co/FqvRDjtaX2 https://t.co/oE6tttSsun"
+	},
+	{
+		"created_at": "Sun May 19 23:23:18 +0000 2019",
+		"id": 1130156675933982700,
+		"id_str": "1130252622160510976",
+		"full_text": "#ㅇㅌㅎ_ㅌㅊㅇㄱ_ㅊㅅㅍㅈ_ㅆㅈㄱ https://t.co/Q1pNnxGHi1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ㅇㅌㅎ_ㅌㅊㅇㄱ_ㅊㅅㅍㅈ_ㅆㅈㄱ",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130156668178747400,
+					"id_str": "1130156668178747392",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D68fgHtVUAA3Z5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D68fgHtVUAA3Z5O.jpg",
+					"url": "https://t.co/Q1pNnxGHi1",
+					"display_url": "pic.twitter.com/Q1pNnxGHi1",
+					"expanded_url": "https://twitter.com/ITSYOURKME/status/1130156675933982720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130156668178747400,
+					"id_str": "1130156668178747392",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D68fgHtVUAA3Z5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D68fgHtVUAA3Z5O.jpg",
+					"url": "https://t.co/Q1pNnxGHi1",
+					"display_url": "pic.twitter.com/Q1pNnxGHi1",
+					"expanded_url": "https://twitter.com/ITSYOURKME/status/1130156675933982720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 336,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824875953629257700,
+			"id_str": "824875953629257728",
+			"name": "유크",
+			"screen_name": "ITSYOURKME",
+			"location": "대한민국 창원시",
+			"description": "FUB Free",
+			"url": "https://t.co/yVkpxNXq76",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yVkpxNXq76",
+							"expanded_url": "http://yourk.me",
+							"display_url": "yourk.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 568,
+			"listed_count": 7,
+			"created_at": "Fri Jan 27 07:05:27 +0000 2017",
+			"favourites_count": 28405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49716,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127940908421222403/mPTvaDW5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127940908421222403/mPTvaDW5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824875953629257728/1558027117",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ㅇㅌㅎ_ㅌㅊㅇㄱ_ㅊㅅㅍㅈ_ㅆㅈㄱ https://t.co/Q1pNnxGHi1"
+	},
+	{
+		"created_at": "Sun May 19 23:22:40 +0000 2019",
+		"id": 1130047887423856600,
+		"id_str": "1130252462647009280",
+		"full_text": "인민일보: 중국의 대만 지역의회의원들이  아시아에서 처음 동성결혼합법화를 했다고 지역 언론에서 보도했습니다\n\n대만외교부:아뇨! 해당 법안은 우리 국회에서 통과 시켰으며 총통에 의해 서명되었습니다. \n대만은 하나의 나라이며, 중국 독재정권과 아무 관련이 없습니다.\n인민일보 빨갱이새끼 조까 https://t.co/u5X7DhGgBn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130047286879277000,
+					"id_str": "1130047286879277057",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D668BSnVUAECyks.png",
+					"media_url_https": "https://pbs.twimg.com/media/D668BSnVUAECyks.png",
+					"url": "https://t.co/u5X7DhGgBn",
+					"display_url": "pic.twitter.com/u5X7DhGgBn",
+					"expanded_url": "https://twitter.com/ELID00/status/1130047887423856640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130047286879277000,
+					"id_str": "1130047286879277057",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D668BSnVUAECyks.png",
+					"media_url_https": "https://pbs.twimg.com/media/D668BSnVUAECyks.png",
+					"url": "https://t.co/u5X7DhGgBn",
+					"display_url": "pic.twitter.com/u5X7DhGgBn",
+					"expanded_url": "https://twitter.com/ELID00/status/1130047887423856640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 165,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1130047297562107900,
+					"id_str": "1130047297562107904",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D668B6aUYAATLgJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D668B6aUYAATLgJ.png",
+					"url": "https://t.co/u5X7DhGgBn",
+					"display_url": "pic.twitter.com/u5X7DhGgBn",
+					"expanded_url": "https://twitter.com/ELID00/status/1130047887423856640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 566,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 566,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 530,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107410295910096900,
+			"id_str": "1107410295910096896",
+			"name": "ELID",
+			"screen_name": "ELID00",
+			"location": "",
+			"description": "그림공부중\n\nPIXIV : https://t.co/oj0nWS350i\n\n프사 : https://t.co/D6KBuIwrjW",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								15,
+								38
+							]
+						},
+						{
+							"url": "https://t.co/D6KBuIwrjW",
+							"expanded_url": "https://twitter.com/wooperfuri/status/1115378184541704192",
+							"display_url": "twitter.com/wooperfuri/sta…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Sun Mar 17 22:36:04 +0000 2019",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3075,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125963728954974209/_bEPeS2c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125963728954974209/_bEPeS2c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107410295910096896/1557617209",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 423,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인민일보: 중국의 대만 지역의회의원들이  아시아에서 처음 동성결혼합법화를 했다고 지역 언론에서 보도했습니다\n\n대만외교부:아뇨! 해당 법안은 우리 국회에서 통과 시켰으며 총통에 의해 서명되었습니다. \n대만은 하나의 나라이며, 중국 독재정권과 아무 관련이 없습니다.\n인민일보 빨갱이새끼 조까 https://t.co/u5X7DhGgBn"
+	},
+	{
 		"created_at": "Sun May 19 23:03:43 +0000 2019",
 		"id": 1130100511854620700,
 		"id_str": "1130247693308030976",
