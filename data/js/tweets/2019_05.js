@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 15:08:32 +0000 2019",
+		"id": 1130774313122975700,
+		"id_str": "1130852885875400712",
+		"full_text": "사탄:아ㅋㅋ;은퇴각이자너:;; https://t.co/1BO7vvb9L6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130774300787597300,
+					"id_str": "1130774300787597313",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D7FRPEeV4AEY1ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7FRPEeV4AEY1ep.jpg",
+					"url": "https://t.co/1BO7vvb9L6",
+					"display_url": "pic.twitter.com/1BO7vvb9L6",
+					"expanded_url": "https://twitter.com/justformine_/status/1130774313122975745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 709,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 709,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130774300787597300,
+					"id_str": "1130774300787597313",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D7FRPEeV4AEY1ep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7FRPEeV4AEY1ep.jpg",
+					"url": "https://t.co/1BO7vvb9L6",
+					"display_url": "pic.twitter.com/1BO7vvb9L6",
+					"expanded_url": "https://twitter.com/justformine_/status/1130774313122975745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 709,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 709,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130774310581297200,
+					"id_str": "1130774310581297153",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/D7FRPo9V4AEvl8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7FRPo9V4AEvl8H.jpg",
+					"url": "https://t.co/1BO7vvb9L6",
+					"display_url": "pic.twitter.com/1BO7vvb9L6",
+					"expanded_url": "https://twitter.com/justformine_/status/1130774313122975745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073662360378851300,
+			"id_str": "1073662360378851328",
+			"name": "우볼계",
+			"screen_name": "justformine_",
+			"location": "",
+			"description": "혼자보려는이미지를저장합니다/병신박제목적이아닌캡쳐본은당사자요청시삭제합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14584,
+			"friends_count": 0,
+			"listed_count": 50,
+			"created_at": "Fri Dec 14 19:33:49 +0000 2018",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 983,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1112,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사탄:아ㅋㅋ;은퇴각이자너:;; https://t.co/1BO7vvb9L6"
+	},
+	{
 		"created_at": "Tue May 21 05:34:11 +0000 2019",
 		"id": 1130707556534554600,
 		"id_str": "1130708345164185601",
@@ -397,7 +593,7 @@ Grailbird.data.tweets_2019_05 =
 		"user": {
 			"id": 925862129281855500,
 			"id_str": "925862129281855488",
-			"name": "휴가중🏳️‍🌈",
+			"name": "휴가중🏳️🌈",
 			"screen_name": "murakamiradio2",
 			"location": "",
 			"description": "페미니스트. 이제 백수 아닙니다. 의사 김현철 성폭력 폭로 계정.",
