@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 03:16:37 +0000 2019",
+		"id": 1130638065825853400,
+		"id_str": "1130673723629948928",
+		"full_text": "5일 전, 아시아경제: '불황의 역설' 생계형 1t 트럭도 안 팔린다\n\n오늘, 조선일보: ‘최후의 생계수단’ 포터·봉고 판매 증가…일자리 붕괴 영향\n\n언론의 목표: 아몰라, 일단 아무렇게나 싸지르다보면 뭐 하난 걸리겠지 ㅋ https://t.co/Lftfl9kERO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130638058678702100,
+					"id_str": "1130638058678702080",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DVUvEU0AA09tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DVUvEU0AA09tY.jpg",
+					"url": "https://t.co/Lftfl9kERO",
+					"display_url": "pic.twitter.com/Lftfl9kERO",
+					"expanded_url": "https://twitter.com/the_maccam/status/1130638065825853440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130638058678702100,
+					"id_str": "1130638058678702080",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DVUvEU0AA09tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DVUvEU0AA09tY.jpg",
+					"url": "https://t.co/Lftfl9kERO",
+					"display_url": "pic.twitter.com/Lftfl9kERO",
+					"expanded_url": "https://twitter.com/the_maccam/status/1130638065825853440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130638058674565100,
+					"id_str": "1130638058674565121",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DVUvDVsAEIC_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DVUvDVsAEIC_n.jpg",
+					"url": "https://t.co/Lftfl9kERO",
+					"display_url": "pic.twitter.com/Lftfl9kERO",
+					"expanded_url": "https://twitter.com/the_maccam/status/1130638065825853440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 934,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724968577225216000,
+			"id_str": "724968577225216001",
+			"name": "Mac 🌱 caM",
+			"screen_name": "the_maccam",
+			"location": "Democratic Party",
+			"description": "I'm a Democrat, and Proud of it.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5330,
+			"friends_count": 93,
+			"listed_count": 21,
+			"created_at": "Tue Apr 26 14:29:12 +0000 2016",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9945,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969301179652964352/AaA9Jcnq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969301179652964352/AaA9Jcnq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724968577225216001/1515935745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5일 전, 아시아경제: '불황의 역설' 생계형 1t 트럭도 안 팔린다\n\n오늘, 조선일보: ‘최후의 생계수단’ 포터·봉고 판매 증가…일자리 붕괴 영향\n\n언론의 목표: 아몰라, 일단 아무렇게나 싸지르다보면 뭐 하난 걸리겠지 ㅋ https://t.co/Lftfl9kERO"
+	},
+	{
+		"created_at": "Tue May 21 02:53:15 +0000 2019",
+		"id": 1130656044831596500,
+		"id_str": "1130667842737598464",
+		"full_text": "야 이거는 견인 안한게 다행이다 https://t.co/QqUskF1n5a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130655962405019600,
+					"id_str": "1130655962405019648",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Dlm3pUIAAYI3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Dlm3pUIAAYI3e.jpg",
+					"url": "https://t.co/QqUskF1n5a",
+					"display_url": "pic.twitter.com/QqUskF1n5a",
+					"expanded_url": "https://twitter.com/ChesherBuild/status/1130656044831596544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130655962405019600,
+					"id_str": "1130655962405019648",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Dlm3pUIAAYI3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Dlm3pUIAAYI3e.jpg",
+					"url": "https://t.co/QqUskF1n5a",
+					"display_url": "pic.twitter.com/QqUskF1n5a",
+					"expanded_url": "https://twitter.com/ChesherBuild/status/1130656044831596544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130655976531480600,
+					"id_str": "1130655976531480576",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DlnsRU0AAJrBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DlnsRU0AAJrBa.jpg",
+					"url": "https://t.co/QqUskF1n5a",
+					"display_url": "pic.twitter.com/QqUskF1n5a",
+					"expanded_url": "https://twitter.com/ChesherBuild/status/1130656044831596544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 912,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 912,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130655989710041100,
+					"id_str": "1130655989710041089",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7DlodXVsAEHpuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7DlodXVsAEHpuY.jpg",
+					"url": "https://t.co/QqUskF1n5a",
+					"display_url": "pic.twitter.com/QqUskF1n5a",
+					"expanded_url": "https://twitter.com/ChesherBuild/status/1130656044831596544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1127948783340310500,
+			"id_str": "1127948783340310529",
+			"name": "CHESHER",
+			"screen_name": "ChesherBuild",
+			"location": "게임 QA(였었음)",
+			"description": "플라스틱 보디의 뜨거운 하트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24,
+			"friends_count": 100,
+			"listed_count": 0,
+			"created_at": "Mon May 13 14:48:41 +0000 2019",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130195673779859456/7iisvtrP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130195673779859456/7iisvtrP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1127948783340310529/1557762545",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 이거는 견인 안한게 다행이다 https://t.co/QqUskF1n5a"
+	},
+	{
+		"created_at": "Tue May 21 02:52:18 +0000 2019",
+		"id": 1129247825844408300,
+		"id_str": "1130667604694130690",
+		"full_text": "https://t.co/MyXqoQwWoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129247819645227000,
+					"id_str": "1129247819645227013",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6vk6LFWkAUEy5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6vk6LFWkAUEy5c.jpg",
+					"url": "https://t.co/MyXqoQwWoV",
+					"display_url": "pic.twitter.com/MyXqoQwWoV",
+					"expanded_url": "https://twitter.com/cursedMCmedia/status/1129247825844408320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129247819645227000,
+					"id_str": "1129247819645227013",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6vk6LFWkAUEy5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6vk6LFWkAUEy5c.jpg",
+					"url": "https://t.co/MyXqoQwWoV",
+					"display_url": "pic.twitter.com/MyXqoQwWoV",
+					"expanded_url": "https://twitter.com/cursedMCmedia/status/1129247825844408320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1102616275061276700,
+			"id_str": "1102616275061276676",
+			"name": "Cursed Minecraft Media",
+			"screen_name": "cursedMCmedia",
+			"location": "The Void",
+			"description": "aw man | owned by @liberalSSB_ and @TX__Cameron",
+			"url": "https://t.co/0jhWkpFY43",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0jhWkpFY43",
+							"expanded_url": "http://discord.gg/Hswgk3q",
+							"display_url": "discord.gg/Hswgk3q",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27949,
+			"friends_count": 7,
+			"listed_count": 15,
+			"created_at": "Mon Mar 04 17:06:20 +0000 2019",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102617972236058624/cGR1vuSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102617972236058624/cGR1vuSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102616275061276676/1554352614",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 2438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MyXqoQwWoV"
+	},
+	{
 		"created_at": "Mon May 20 23:48:08 +0000 2019",
 		"id": 1130318181720051700,
 		"id_str": "1130621257282514944",
@@ -1135,7 +1739,7 @@ Grailbird.data.tweets_2019_05 =
 		"user": {
 			"id": 961137239504965600,
 			"id_str": "961137239504965634",
-			"name": "🏳️‍🌈𝘉𝘐 이온💖💜💙",
+			"name": "🏳️🌈𝘉𝘐 이온💖💜💙",
 			"screen_name": "Juneyuwall",
 			"location": "우리미래",
 			"description": "진입장벽 낮음 | 퀴어/정치/일상계 / 호모플렉시블 바이(양성애자) 지정성별여 2n🌈 / 범좌파 / 우리미래 당원 / 정연(TWICE) / 귀곡의문 / 포비아 친박 거름 / 애인님(동성)❣/ 퀴어고민 잦음 / 이별 블언블\n\n#우리미래 #이영싫 #상호교차성페미니즘 #FSM",
