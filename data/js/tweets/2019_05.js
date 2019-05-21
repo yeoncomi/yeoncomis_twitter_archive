@@ -1,6 +1,1163 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 22:34:13 +0000 2019",
+		"id": 1130234796938940400,
+		"id_str": "1130965045511254017",
+		"full_text": "Can someone from @VCHhealthcare tell me why these anti choice protestors are allowed on Lions Gate Hospital property???? As you can see, they are literally on the grass &amp; entry stairs. What about the bubble zones to protect patients??? @nvanrcmp #MyBodyMyChoice  #ProChoiceAlways https://t.co/1fJUkP6Zry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyBodyMyChoice",
+					"indices": [
+						250,
+						265
+					]
+				},
+				{
+					"text": "ProChoiceAlways",
+					"indices": [
+						267,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VCHhealthcare",
+					"name": "Vancouver Coastal Health",
+					"id": 317255492,
+					"id_str": "317255492",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "nvanrcmp",
+					"name": "North Vancouver RCMP",
+					"id": 191673052,
+					"id_str": "191673052",
+					"indices": [
+						240,
+						249
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130234472379502600,
+					"id_str": "1130234472379502592",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D69mQ68U0AA7uEw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D69mQ68U0AA7uEw.jpg",
+					"url": "https://t.co/1fJUkP6Zry",
+					"display_url": "pic.twitter.com/1fJUkP6Zry",
+					"expanded_url": "https://twitter.com/CarrieBercic/status/1130234796938940417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130234472379502600,
+					"id_str": "1130234472379502592",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D69mQ68U0AA7uEw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D69mQ68U0AA7uEw.jpg",
+					"url": "https://t.co/1fJUkP6Zry",
+					"display_url": "pic.twitter.com/1fJUkP6Zry",
+					"expanded_url": "https://twitter.com/CarrieBercic/status/1130234796938940417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130234561168793600,
+					"id_str": "1130234561168793600",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D69mWFtV4AADdn8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D69mWFtV4AADdn8.jpg",
+					"url": "https://t.co/1fJUkP6Zry",
+					"display_url": "pic.twitter.com/1fJUkP6Zry",
+					"expanded_url": "https://twitter.com/CarrieBercic/status/1130234796938940417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130234661035159600,
+					"id_str": "1130234661035159552",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D69mb5vVsAAEDRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D69mb5vVsAAEDRn.jpg",
+					"url": "https://t.co/1fJUkP6Zry",
+					"display_url": "pic.twitter.com/1fJUkP6Zry",
+					"expanded_url": "https://twitter.com/CarrieBercic/status/1130234796938940417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130234746481520600,
+					"id_str": "1130234746481520640",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D69mg4DVsAArwXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D69mg4DVsAArwXc.jpg",
+					"url": "https://t.co/1fJUkP6Zry",
+					"display_url": "pic.twitter.com/1fJUkP6Zry",
+					"expanded_url": "https://twitter.com/CarrieBercic/status/1130234796938940417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 201524587,
+			"id_str": "201524587",
+			"name": "Carrie Bercic",
+			"screen_name": "CarrieBercic",
+			"location": "Vancouver",
+			"description": "Former OneCity VSB trustee. Member of Public Education Project. Advocate, activist, and ally. ✊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 444,
+			"listed_count": 40,
+			"created_at": "Tue Oct 12 01:30:53 +0000 2010",
+			"favourites_count": 15215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F5A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011049784742838273/NaYqTw-Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011049784742838273/NaYqTw-Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201524587/1546923351",
+			"profile_link_color": "AEB404",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can someone from @VCHhealthcare tell me why these anti choice protestors are allowed on Lions Gate Hospital property???? As you can see, they are literally on the grass &amp; entry stairs. What about the bubble zones to protect patients??? @nvanrcmp #MyBodyMyChoice  #ProChoiceAlways https://t.co/1fJUkP6Zry"
+	},
+	{
+		"created_at": "Tue May 21 22:33:33 +0000 2019",
+		"id": 1130450726751051800,
+		"id_str": "1130964876862431232",
+		"full_text": "영국에서 극우 정치인들에게 밀크 셰이크 투척이 이어지는 중. 영상은 극우 정치인 나이젤 페라지 영국 브렉시트당 대표가 뉴캐슬에서 유세 중 밀크셰이크 투척 당한 영상. 경찰은 맥도날드에 밀크셰이크 판매 중단을 요청했고 맥도날드는 수용. 이에 버거킹은 \"우리는 판매합니다\"라고 트윗. https://t.co/WBcOJA3IOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WBcOJA3IOz",
+					"expanded_url": "https://twitter.com/seddonnews/status/1130446247171710976",
+					"display_url": "twitter.com/seddonnews/sta…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4688784475,
+			"id_str": "4688784475",
+			"name": "베트남 라이프 (하노이 영미)",
+			"screen_name": "vietnam_salayo",
+			"location": "여긴 엔씨티!(이고 싶은 하노이씨티...)",
+			"description": "하노이 살고 이것저것 좀 알고(자하며) 베트남어도 하는 것 같은 사람 NCT 디엠해",
+			"url": "https://t.co/xlzTJf6iSN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xlzTJf6iSN",
+							"expanded_url": "https://peing.net/ko/vietnam_salayo",
+							"display_url": "peing.net/ko/vietnam_sal…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 110,
+			"listed_count": 19,
+			"created_at": "Fri Jan 01 10:41:31 +0000 2016",
+			"favourites_count": 823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5653,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959307780992638976/itI_Sw9v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959307780992638976/itI_Sw9v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4688784475/1517552326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130446247171711000,
+		"quoted_status_id_str": "1130446247171710976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WBcOJA3IOz",
+			"expanded": "https://twitter.com/seddonnews/status/1130446247171710976",
+			"display": "twitter.com/seddonnews/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 12:12:42 +0000 2019",
+			"id": 1130446247171711000,
+			"id_str": "1130446247171710976",
+			"full_text": "Chaotic scenes in Newcastle city centre as Nigel Farage hit by a milkshake. He’s been whisked away by his security. This is the aftermath. https://t.co/qxz8yay492",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130446054267215900,
+						"id_str": "1130446054267215873",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130446054267215873/pu/img/lcXE9UwzDPx7x_xD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130446054267215873/pu/img/lcXE9UwzDPx7x_xD.jpg",
+						"url": "https://t.co/qxz8yay492",
+						"display_url": "pic.twitter.com/qxz8yay492",
+						"expanded_url": "https://twitter.com/seddonnews/status/1130446247171710976/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130446054267215900,
+						"id_str": "1130446054267215873",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130446054267215873/pu/img/lcXE9UwzDPx7x_xD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130446054267215873/pu/img/lcXE9UwzDPx7x_xD.jpg",
+						"url": "https://t.co/qxz8yay492",
+						"display_url": "pic.twitter.com/qxz8yay492",
+						"expanded_url": "https://twitter.com/seddonnews/status/1130446247171710976/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 74167,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1130446054267215873/pu/pl/WDrlkQX-5hOHyf3i.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130446054267215873/pu/vid/640x360/ctfKbV8n_kVp-GzK.mp4?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130446054267215873/pu/vid/320x180/YolgUkDeU2Gzwu_d.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130446054267215873/pu/vid/1280x720/0BBz1I1C08d_IMcI.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1721945328,
+				"id_str": "1721945328",
+				"name": "Sean Seddon",
+				"screen_name": "seddonnews",
+				"location": "North East, UK",
+				"description": "Reporter for @ChronicleLive ¦ Let's craic on: sean.seddon@trinitymirror.com 01912016073",
+				"url": "https://t.co/evg1GfRGaw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evg1GfRGaw",
+								"expanded_url": "https://www.chroniclelive.co.uk/authors/sean-seddon/",
+								"display_url": "chroniclelive.co.uk/authors/sean-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2037,
+				"friends_count": 2743,
+				"listed_count": 30,
+				"created_at": "Mon Sep 02 10:53:34 +0000 2013",
+				"favourites_count": 299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "36474F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869649733949816832/b01LCM7S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869649733949816832/b01LCM7S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1721945328/1483879162",
+				"profile_link_color": "822620",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7059,
+			"favorite_count": 27598,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2082,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영국에서 극우 정치인들에게 밀크 셰이크 투척이 이어지는 중. 영상은 극우 정치인 나이젤 페라지 영국 브렉시트당 대표가 뉴캐슬에서 유세 중 밀크셰이크 투척 당한 영상. 경찰은 맥도날드에 밀크셰이크 판매 중단을 요청했고 맥도날드는 수용. 이에 버거킹은 \"우리는 판매합니다\"라고 트윗. https://t.co/WBcOJA3IOz"
+	},
+	{
+		"created_at": "Tue May 21 22:31:24 +0000 2019",
+		"id": 1130770606402691100,
+		"id_str": "1130964335130365953",
+		"full_text": "육사를 해체하면 헬리오시티 약 5개 즉 민간분양으로도 5만가구 가까이 공공임대주택은 더 많이 공급 가능 #주택난해소 https://t.co/TgufRXNoAO https://t.co/EJlmgH7iOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주택난해소",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgufRXNoAO",
+					"expanded_url": "https://twitter.com/Rhe_0x/status/1130767740233342976",
+					"display_url": "twitter.com/Rhe_0x/status/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130770600828366800,
+					"id_str": "1130770600828366848",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D7FN3tDUcAATzee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7FN3tDUcAATzee.jpg",
+					"url": "https://t.co/EJlmgH7iOL",
+					"display_url": "pic.twitter.com/EJlmgH7iOL",
+					"expanded_url": "https://twitter.com/_4835979/status/1130770606402691073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130770600828366800,
+					"id_str": "1130770600828366848",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D7FN3tDUcAATzee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7FN3tDUcAATzee.jpg",
+					"url": "https://t.co/EJlmgH7iOL",
+					"display_url": "pic.twitter.com/EJlmgH7iOL",
+					"expanded_url": "https://twitter.com/_4835979/status/1130770606402691073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPane for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd 🎗",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 152,
+			"listed_count": 21,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20047,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1534001062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130767740233343000,
+		"quoted_status_id_str": "1130767740233342976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TgufRXNoAO",
+			"expanded": "https://twitter.com/Rhe_0x/status/1130767740233342976",
+			"display": "twitter.com/Rhe_0x/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 21 09:30:12 +0000 2019",
+			"id": 1130767740233343000,
+			"id_str": "1130767740233342976",
+			"full_text": "서울 땅도 부족한데 육사 해체시키고 육군 똥별들 좋아라 하는 평택이나 논산즈음에 새로 학교 지으면 될 듯",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150192751,
+				"id_str": "150192751",
+				"name": "Qua",
+				"screen_name": "Rhe_0x",
+				"location": "",
+				"description": "인용 RT 대환영. 반론은 인용 RT로",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 725,
+				"friends_count": 5005,
+				"listed_count": 11,
+				"created_at": "Mon May 31 09:33:01 +0000 2010",
+				"favourites_count": 30891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49786,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021337098949804033/sGGV5z0k_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 90,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "육사를 해체하면 헬리오시티 약 5개 즉 민간분양으로도 5만가구 가까이 공공임대주택은 더 많이 공급 가능 #주택난해소 https://t.co/TgufRXNoAO https://t.co/EJlmgH7iOL"
+	},
+	{
+		"created_at": "Tue May 21 22:31:15 +0000 2019",
+		"id": 1130679631374311400,
+		"id_str": "1130964295838076928",
+		"full_text": "그건 그렇고 얼마 전 좀 재미있는 걸 발견했습니다. 김현철씨가 다녀왔다던 오믹스 학회에 낸 초록입니다.\n\n내용 이전에 영어가 예술입니다. 시간 되시면 한 번 읽어 보세요. 왜 김현철씨가 가짜학회밖에 못 갔는지 알 만 합니다. 제대로 된 곳이라면 바로 리젝이겠죠. https://t.co/JWcd1e39zx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130678932909436900,
+					"id_str": "1130678932909436928",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D7D6f7cVsAAYAtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7D6f7cVsAAYAtC.jpg",
+					"url": "https://t.co/JWcd1e39zx",
+					"display_url": "pic.twitter.com/JWcd1e39zx",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1130679631374311424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 754,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 754,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130678932909436900,
+					"id_str": "1130678932909436928",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D7D6f7cVsAAYAtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7D6f7cVsAAYAtC.jpg",
+					"url": "https://t.co/JWcd1e39zx",
+					"display_url": "pic.twitter.com/JWcd1e39zx",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1130679631374311424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 754,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 754,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130678934008238100,
+					"id_str": "1130678934008238081",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D7D6f_iUEAE7u20.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7D6f_iUEAE7u20.jpg",
+					"url": "https://t.co/JWcd1e39zx",
+					"display_url": "pic.twitter.com/JWcd1e39zx",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1130679631374311424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 846,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130679613267501000,
+					"id_str": "1130679613267501056",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D7D7Hh-V4AAdIow.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7D7Hh-V4AAdIow.jpg",
+					"url": "https://t.co/JWcd1e39zx",
+					"display_url": "pic.twitter.com/JWcd1e39zx",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1130679631374311424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 574,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1336,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130679614425014300,
+					"id_str": "1130679614425014272",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D7D7HmSUIAAyi-4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7D7HmSUIAAyi-4.jpg",
+					"url": "https://t.co/JWcd1e39zx",
+					"display_url": "pic.twitter.com/JWcd1e39zx",
+					"expanded_url": "https://twitter.com/Ex_Armydoc/status/1130679631374311424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 941,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169690766,
+			"id_str": "169690766",
+			"name": "월급루팡 엑스아미닥, M.D.",
+			"screen_name": "Ex_Armydoc",
+			"location": "Galaxy far, far away…",
+			"description": "M.D. • 하이개거 • 다크 사이드 • 아마추어 매지션 • 닥터페퍼 중독 • 교토 홀릭 // 먹짤계 : @GourmetArmydoc 교토여행계 : @KyoArmydoc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28916,
+			"friends_count": 795,
+			"listed_count": 326,
+			"created_at": "Thu Jul 22 23:14:42 +0000 2010",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 160007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096204889846210560/rJclxgXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169690766/1547011486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그건 그렇고 얼마 전 좀 재미있는 걸 발견했습니다. 김현철씨가 다녀왔다던 오믹스 학회에 낸 초록입니다.\n\n내용 이전에 영어가 예술입니다. 시간 되시면 한 번 읽어 보세요. 왜 김현철씨가 가짜학회밖에 못 갔는지 알 만 합니다. 제대로 된 곳이라면 바로 리젝이겠죠. https://t.co/JWcd1e39zx"
+	},
+	{
 		"created_at": "Tue May 21 21:36:39 +0000 2019",
 		"id": 1130950558238462000,
 		"id_str": "1130950558238461953",
