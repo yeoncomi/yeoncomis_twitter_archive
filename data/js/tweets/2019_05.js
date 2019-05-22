@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 01:00:31 +0000 2019",
+		"id": 1130642422768197600,
+		"id_str": "1131001862625251328",
+		"full_text": "미친 코미디언 출신 우크라이나 대통령 취임하자마자 국회 해산해버림ㅋㅋ\nhttps://t.co/xyZwlyYn3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xyZwlyYn3j",
+					"expanded_url": "https://news.v.daum.net/v/20190520211402711",
+					"display_url": "news.v.daum.net/v/201905202114…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357468426,
+			"id_str": "357468426",
+			"name": "대학원생 달토끼",
+			"screen_name": "BunnyTheHuman_",
+			"location": "",
+			"description": "박애주의자/생물학적 환원주의자/기계적 유물론자/사회성이 부족한 메타-이성적인 사람/리버럴리스트/뇌가 어떻게 만들어지는지 연구합니다/저는 과학자가 될 겁니다/토끼를 너무 사랑한 나머지 본인이 직접 토끼가 되기로 결정한 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 244,
+			"listed_count": 5,
+			"created_at": "Thu Aug 18 12:16:56 +0000 2011",
+			"favourites_count": 1401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084897717132832769/vkMKBznx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084897717132832769/vkMKBznx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357468426/1531324090",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친 코미디언 출신 우크라이나 대통령 취임하자마자 국회 해산해버림ㅋㅋ\nhttps://t.co/xyZwlyYn3j"
+	},
+	{
+		"created_at": "Wed May 22 00:59:43 +0000 2019",
+		"id": 1130870394003513300,
+		"id_str": "1131001659469910016",
+		"full_text": "언제나 사고와 참사는 FM을 벗어난 \"이정도 정도는 되겠지\"가 점점 허용되다가 나중에 터지죠 ㅅㅂ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1130870042353004500,
+		"in_reply_to_status_id_str": "1130870042353004545",
+		"in_reply_to_user_id": 2219958492,
+		"in_reply_to_user_id_str": "2219958492",
+		"in_reply_to_screen_name": "jejak2460",
+		"user": {
+			"id": 2219958492,
+			"id_str": "2219958492",
+			"name": "MapJo with RYZEN & PS4",
+			"screen_name": "jejak2460",
+			"location": "BUSAN / 부산광역시",
+			"description": "GITADORA Drum / Play Station 4 & Games / 시티즈 스카이라인 / 아이돌마스터 / 에반게리온 / 취미생활은 플스4와 함께 / CPU는 라이젠 / 그외 시뮬레이터 관련 게임 좋아합니다 / 정치얘기 꽤 하는 부산시민",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 254,
+			"listed_count": 7,
+			"created_at": "Thu Nov 28 15:49:11 +0000 2013",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2219958492/1536477437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "언제나 사고와 참사는 FM을 벗어난 \"이정도 정도는 되겠지\"가 점점 허용되다가 나중에 터지죠 ㅅㅂ"
+	},
+	{
+		"created_at": "Wed May 22 00:59:41 +0000 2019",
+		"id": 1130870042353004500,
+		"id_str": "1131001651622342657",
+		"full_text": "이거 때문에 특별사법경찰관 파견한다니까 한수원이 반발한다고 하더라고? 쳐돌은 새끼들인가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1130868906275594200,
+		"in_reply_to_status_id_str": "1130868906275594241",
+		"in_reply_to_user_id": 2219958492,
+		"in_reply_to_user_id_str": "2219958492",
+		"in_reply_to_screen_name": "jejak2460",
+		"user": {
+			"id": 2219958492,
+			"id_str": "2219958492",
+			"name": "MapJo with RYZEN & PS4",
+			"screen_name": "jejak2460",
+			"location": "BUSAN / 부산광역시",
+			"description": "GITADORA Drum / Play Station 4 & Games / 시티즈 스카이라인 / 아이돌마스터 / 에반게리온 / 취미생활은 플스4와 함께 / CPU는 라이젠 / 그외 시뮬레이터 관련 게임 좋아합니다 / 정치얘기 꽤 하는 부산시민",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 254,
+			"listed_count": 7,
+			"created_at": "Thu Nov 28 15:49:11 +0000 2013",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2219958492/1536477437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이거 때문에 특별사법경찰관 파견한다니까 한수원이 반발한다고 하더라고? 쳐돌은 새끼들인가?"
+	},
+	{
+		"created_at": "Wed May 22 00:59:30 +0000 2019",
+		"id": 1130868906275594200,
+		"id_str": "1131001605514416129",
+		"full_text": "ㅅㅂ ㅋㅋㅋㅋㅋ 한수원 자기 마음대로 판단할거면 법은 왜 있음? https://t.co/98JKVg2Lqj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130868836255772700,
+					"id_str": "1130868836255772672",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7GnNwiVsAAHf_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7GnNwiVsAAHf_u.jpg",
+					"url": "https://t.co/98JKVg2Lqj",
+					"display_url": "pic.twitter.com/98JKVg2Lqj",
+					"expanded_url": "https://twitter.com/jejak2460/status/1130868906275594241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1174,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130868836255772700,
+					"id_str": "1130868836255772672",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7GnNwiVsAAHf_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7GnNwiVsAAHf_u.jpg",
+					"url": "https://t.co/98JKVg2Lqj",
+					"display_url": "pic.twitter.com/98JKVg2Lqj",
+					"expanded_url": "https://twitter.com/jejak2460/status/1130868906275594241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1174,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2219958492,
+			"id_str": "2219958492",
+			"name": "MapJo with RYZEN & PS4",
+			"screen_name": "jejak2460",
+			"location": "BUSAN / 부산광역시",
+			"description": "GITADORA Drum / Play Station 4 & Games / 시티즈 스카이라인 / 아이돌마스터 / 에반게리온 / 취미생활은 플스4와 함께 / CPU는 라이젠 / 그외 시뮬레이터 관련 게임 좋아합니다 / 정치얘기 꽤 하는 부산시민",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 254,
+			"listed_count": 7,
+			"created_at": "Thu Nov 28 15:49:11 +0000 2013",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038684875908206593/YtVSWbJA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2219958492/1536477437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅅㅂ ㅋㅋㅋㅋㅋ 한수원 자기 마음대로 판단할거면 법은 왜 있음? https://t.co/98JKVg2Lqj"
+	},
+	{
 		"created_at": "Tue May 21 22:34:13 +0000 2019",
 		"id": 1130234796938940400,
 		"id_str": "1130965045511254017",
