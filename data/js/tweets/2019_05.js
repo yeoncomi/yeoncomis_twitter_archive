@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 17:04:29 +0000 2019",
+		"id": 1131154419398074400,
+		"id_str": "1131244451655905280",
+		"full_text": "다들 중국에 쌓인게 많았던 모양이다 https://t.co/Y8wQBxGGz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y8wQBxGGz7",
+					"expanded_url": "https://twitter.com/roricon/status/1131152163227328512",
+					"display_url": "twitter.com/roricon/status…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022207629,
+			"id_str": "1022207629",
+			"name": "단순한생각",
+			"screen_name": "lemay_wp",
+			"location": "FE Warren / 33 EOR",
+			"description": "덕질 하고 싶은 계정 / MAKE PENTAX GREAT AGAIN",
+			"url": "https://t.co/SHrXTMmOdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHrXTMmOdL",
+							"expanded_url": "https://youtu.be/FM7MFYoylVs",
+							"display_url": "youtu.be/FM7MFYoylVs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 747,
+			"friends_count": 576,
+			"listed_count": 8,
+			"created_at": "Wed Dec 19 14:34:02 +0000 2012",
+			"favourites_count": 3072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079698930068119553/LjS_AuhR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022207629/1550144695",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131152163227328500,
+		"quoted_status_id_str": "1131152163227328512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y8wQBxGGz7",
+			"expanded": "https://twitter.com/roricon/status/1131152163227328512",
+			"display": "twitter.com/roricon/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 10:57:46 +0000 2019",
+			"id": 1131152163227328500,
+			"id_str": "1131152163227328512",
+			"full_text": "UK chip designer ARM to suspend business with Huawei: BBC https://t.co/Hm8R4PY6xj 진짜 망했다 화웨이!!!!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Hm8R4PY6xj",
+						"expanded_url": "https://www.reuters.com/article/us-huawei-tech-arm/uk-chip-designer-arm-to-suspend-business-with-huawei-bbc-idUSKCN1SS0Z9",
+						"display_url": "reuters.com/article/us-hua…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60690714,
+				"id_str": "60690714",
+				"name": "RORICON",
+				"screen_name": "roricon",
+				"location": "korea",
+				"description": "트위터도 열었지만..디스플레이 트위터는 아닙니다",
+				"url": "http://t.co/tmfGbuDGIh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tmfGbuDGIh",
+								"expanded_url": "http://roricon.egloos.com",
+								"display_url": "roricon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2568,
+				"friends_count": 702,
+				"listed_count": 70,
+				"created_at": "Mon Jul 27 19:47:12 +0000 2009",
+				"favourites_count": 4934,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 326766,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772104296103972864/8NEe_zZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772104296103972864/8NEe_zZ4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60690714/1396969546",
+				"profile_link_color": "B3007A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 48,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 중국에 쌓인게 많았던 모양이다 https://t.co/Y8wQBxGGz7"
+	},
+	{
 		"created_at": "Wed May 22 15:19:11 +0000 2019",
 		"id": 1131068175615909900,
 		"id_str": "1131217952445911040",
