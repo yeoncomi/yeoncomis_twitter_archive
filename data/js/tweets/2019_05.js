@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 20:30:39 +0000 2019",
+		"id": 1131211346329055200,
+		"id_str": "1131296335280218112",
+		"full_text": "이 짤 뒤져서 겨우 찾았다. 치킨 10마리가 아니라 피자 10판으로 뒤지고 있던게 원인. 피자 먹고 싶다 https://t.co/VyzRqQrsyB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131211339542589400,
+					"id_str": "1131211339542589442",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D7LeuEtUcAIG18t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7LeuEtUcAIG18t.jpg",
+					"url": "https://t.co/VyzRqQrsyB",
+					"display_url": "pic.twitter.com/VyzRqQrsyB",
+					"expanded_url": "https://twitter.com/if1live/status/1131211346329055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131211339542589400,
+					"id_str": "1131211339542589442",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D7LeuEtUcAIG18t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7LeuEtUcAIG18t.jpg",
+					"url": "https://t.co/VyzRqQrsyB",
+					"display_url": "pic.twitter.com/VyzRqQrsyB",
+					"expanded_url": "https://twitter.com/if1live/status/1131211346329055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63709382,
+			"id_str": "63709382",
+			"name": "씨언",
+			"screen_name": "if1live",
+			"location": "반도",
+			"description": "혁명의 그 날이 올때까지 존버하자. 존버는 승리한다!",
+			"url": "https://t.co/S1W5wgDjew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1W5wgDjew",
+							"expanded_url": "http://libsora.so",
+							"display_url": "libsora.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1248,
+			"friends_count": 1080,
+			"listed_count": 74,
+			"created_at": "Fri Aug 07 12:43:46 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744940575627960323/pi3ASZ5Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63709382/1466133215",
+			"profile_link_color": "49A7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 짤 뒤져서 겨우 찾았다. 치킨 10마리가 아니라 피자 10판으로 뒤지고 있던게 원인. 피자 먹고 싶다 https://t.co/VyzRqQrsyB"
+	},
+	{
+		"created_at": "Wed May 22 20:24:59 +0000 2019",
+		"id": 1131213602143313900,
+		"id_str": "1131294910747832321",
+		"full_text": "When idols and seiyuu post pictures with people in the background https://t.co/bN4oTffjtw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131213576528638000,
+					"id_str": "1131213576528637952",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D7LgwSIWsAAP8FD.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7LgwSIWsAAP8FD.png",
+					"url": "https://t.co/bN4oTffjtw",
+					"display_url": "pic.twitter.com/bN4oTffjtw",
+					"expanded_url": "https://twitter.com/kevo31415/status/1131213602143313921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 845,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 845,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131213576528638000,
+					"id_str": "1131213576528637952",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D7LgwSIWsAAP8FD.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7LgwSIWsAAP8FD.png",
+					"url": "https://t.co/bN4oTffjtw",
+					"display_url": "pic.twitter.com/bN4oTffjtw",
+					"expanded_url": "https://twitter.com/kevo31415/status/1131213602143313921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 845,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 845,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19929092,
+			"id_str": "19929092",
+			"name": "kevo@わーすた (AN 5/25)",
+			"screen_name": "kevo31415",
+			"location": "Chicago, USA",
+			"description": "Founder of @AnimeMaru. Anime, Idols, Food, Sports. DD 🚂 WUG! (山下七海) ¤ 虹コン (的場華鈴) ¤  でんぱ組.inc (古川未鈴) ¤ FES☆TIVE (真野彩里愛) ¤ わーすた (坂元葉月) ¤ 神宿 ( 一ノ瀬みか)",
+			"url": "https://t.co/JJCkkdYdVN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JJCkkdYdVN",
+							"expanded_url": "http://animemaru.com",
+							"display_url": "animemaru.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1922,
+			"friends_count": 743,
+			"listed_count": 64,
+			"created_at": "Mon Feb 02 20:27:02 +0000 2009",
+			"favourites_count": 4776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108444729568620544/-WsBW6dn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108444729568620544/-WsBW6dn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19929092/1546621539",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "2B2E8B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When idols and seiyuu post pictures with people in the background https://t.co/bN4oTffjtw"
+	},
+	{
 		"created_at": "Wed May 22 19:26:57 +0000 2019",
 		"id": 1131143511351414800,
 		"id_str": "1131280302905499648",
