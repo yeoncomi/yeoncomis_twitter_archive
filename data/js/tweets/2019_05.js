@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 17:42:35 +0000 2019",
+		"id": 1131254038903656400,
+		"id_str": "1131254038903656448",
+		"full_text": "@ch_berliquet 아에로플로트가 원래 싼건가요 아니면 비수기인건가요",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ch_berliquet",
+					"name": "東京都民『ベルリケ』公式",
+					"id": 2811166105,
+					"id_str": "2811166105",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1131248210687619100,
+		"in_reply_to_status_id_str": "1131248210687619072",
+		"in_reply_to_user_id": 2811166105,
+		"in_reply_to_user_id_str": "2811166105",
+		"in_reply_to_screen_name": "ch_berliquet",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@ch_berliquet 아에로플로트가 원래 싼건가요 아니면 비수기인건가요"
+	},
+	{
+		"created_at": "Wed May 22 17:41:12 +0000 2019",
+		"id": 1131065746555957200,
+		"id_str": "1131253689925062656",
+		"full_text": "한국판 구스 https://t.co/OIycFGy897",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131065739849265200,
+					"id_str": "1131065739849265153",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D7JaTDlUcAEQGWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7JaTDlUcAEQGWA.jpg",
+					"url": "https://t.co/OIycFGy897",
+					"display_url": "pic.twitter.com/OIycFGy897",
+					"expanded_url": "https://twitter.com/yaksi_0124/status/1131065746555957248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131065739849265200,
+					"id_str": "1131065739849265153",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D7JaTDlUcAEQGWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7JaTDlUcAEQGWA.jpg",
+					"url": "https://t.co/OIycFGy897",
+					"display_url": "pic.twitter.com/OIycFGy897",
+					"expanded_url": "https://twitter.com/yaksi_0124/status/1131065746555957248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4507551194,
+			"id_str": "4507551194",
+			"name": "약시 트친소 돌리는데",
+			"screen_name": "yaksi_0124",
+			"location": "헤더는 할리언니",
+			"description": "미자 무명의 드러머 지망생 잡덕 커뮤러 글그림쟁이 마블연성☞#약시짧글 퀸패스연성☞#약시썰 옵치영상☞#약시의_오버워치 #나의_브록_럽로우 @BROCK__RUMLOW_ 럼로우 나페스합니다 럼로약시",
+			"url": "https://t.co/svArc8Klaa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/svArc8Klaa",
+							"expanded_url": "https://ask.fm/yaksi_0124?utm_source=tw_share_pr",
+							"display_url": "ask.fm/yaksi_0124?utm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1032,
+			"friends_count": 971,
+			"listed_count": 38,
+			"created_at": "Wed Dec 09 13:08:12 +0000 2015",
+			"favourites_count": 16926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131087345690632194/3TRpRYgx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131087345690632194/3TRpRYgx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4507551194/1554943812",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7470,
+		"favorite_count": 3461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국판 구스 https://t.co/OIycFGy897"
+	},
+	{
+		"created_at": "Wed May 22 17:30:22 +0000 2019",
+		"id": 1131108019536744400,
+		"id_str": "1131250964256608256",
+		"full_text": "187개국 회원국중에 대부분이 핵심협약을 비준했는데\n\n한국이 비준 안했다는건 무슨 뜻일까요?\n\n뭐긴뭐야 한국의 노동환경이 개씹창이고 노동자의 권익은 좆도 없는데 경제규모 11위를 하는 괴상한 나라라는 거죠 https://t.co/KdsoRktcrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131107996648427500,
+					"id_str": "1131107996648427521",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KAuubVUAETSV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KAuubVUAETSV8.jpg",
+					"url": "https://t.co/KdsoRktcrv",
+					"display_url": "pic.twitter.com/KdsoRktcrv",
+					"expanded_url": "https://twitter.com/paladin_0114/status/1131108019536744448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1164,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 1346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131107996648427500,
+					"id_str": "1131107996648427521",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KAuubVUAETSV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KAuubVUAETSV8.jpg",
+					"url": "https://t.co/KdsoRktcrv",
+					"display_url": "pic.twitter.com/KdsoRktcrv",
+					"expanded_url": "https://twitter.com/paladin_0114/status/1131108019536744448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1164,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 1346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714103850345476100,
+			"id_str": "714103850345476096",
+			"name": "팔라딘",
+			"screen_name": "paladin_0114",
+			"location": "paladinc22@gmail.com",
+			"description": "러브라이브, 일상물등을 좋아합니다. 잘 부탁드려요!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 278,
+			"listed_count": 7,
+			"created_at": "Sun Mar 27 14:56:40 +0000 2016",
+			"favourites_count": 50454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123944659426992128/_hkfr72X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123944659426992128/_hkfr72X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714103850345476096/1555764442",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "187개국 회원국중에 대부분이 핵심협약을 비준했는데\n\n한국이 비준 안했다는건 무슨 뜻일까요?\n\n뭐긴뭐야 한국의 노동환경이 개씹창이고 노동자의 권익은 좆도 없는데 경제규모 11위를 하는 괴상한 나라라는 거죠 https://t.co/KdsoRktcrv"
+	},
+	{
+		"created_at": "Wed May 22 17:28:40 +0000 2019",
+		"id": 1131133562386669600,
+		"id_str": "1131250538505334784",
+		"full_text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6RJrbHLJhG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131133556284055600,
+					"id_str": "1131133556284055553",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KX-ffV4AEwf-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KX-ffV4AEwf-R.jpg",
+					"url": "https://t.co/6RJrbHLJhG",
+					"display_url": "pic.twitter.com/6RJrbHLJhG",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1131133562386669568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131133556284055600,
+					"id_str": "1131133556284055553",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KX-ffV4AEwf-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KX-ffV4AEwf-R.jpg",
+					"url": "https://t.co/6RJrbHLJhG",
+					"display_url": "pic.twitter.com/6RJrbHLJhG",
+					"expanded_url": "https://twitter.com/Futaba_Sinco_L/status/1131133562386669568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 758667030,
+			"id_str": "758667030",
+			"name": "신코",
+			"screen_name": "Futaba_Sinco_L",
+			"location": "#죽창이_꿈꾸는_세상",
+			"description": "종합방송인 \n매일 오전9시부터 오후6시까지 twitch에서 만나요!  \n유튜브도 구독과 좋아요 알람설정까지 알지? \n광고문의는 DM.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1913,
+			"friends_count": 3518,
+			"listed_count": 26,
+			"created_at": "Wed Aug 15 05:45:02 +0000 2012",
+			"favourites_count": 28788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112374344456364032/I_h_9kqF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758667030/1470842476",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6RJrbHLJhG"
+	},
+	{
+		"created_at": "Wed May 22 17:28:31 +0000 2019",
+		"id": 1131250500685275100,
+		"id_str": "1131250500685275136",
+		"full_text": "No fuck No https://t.co/Vp1KKlHm51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vp1KKlHm51",
+					"expanded_url": "https://twitter.com/ZDNet/status/1131245876989456384",
+					"display_url": "twitter.com/ZDNet/status/1…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131245876989456400,
+		"quoted_status_id_str": "1131245876989456384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vp1KKlHm51",
+			"expanded": "https://twitter.com/ZDNet/status/1131245876989456384",
+			"display": "twitter.com/ZDNet/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 17:10:09 +0000 2019",
+			"id": 1131245876989456400,
+			"id_str": "1131245876989456384",
+			"full_text": "For the Pixel to succeed, Google might have to become more like Apple https://t.co/2dklikPLUJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2dklikPLUJ",
+						"expanded_url": "https://zd.net/2VW9yBZ",
+						"display_url": "zd.net/2VW9yBZ",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.zdnet.com\" rel=\"nofollow\">zdnet API</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3819701,
+				"id_str": "3819701",
+				"name": "ZDNet",
+				"screen_name": "ZDNet",
+				"location": "USA | UK | Asia | Australia",
+				"description": "Where technology means business",
+				"url": "http://t.co/5onVPZr4O4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5onVPZr4O4",
+								"expanded_url": "http://www.zdnet.com",
+								"display_url": "zdnet.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 437248,
+				"friends_count": 188,
+				"listed_count": 12007,
+				"created_at": "Sun Apr 08 21:05:10 +0000 2007",
+				"favourites_count": 225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 212907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "11182A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1518123078",
+				"profile_link_color": "11182A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDE4E9",
+				"profile_text_color": "6A6D6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No fuck No https://t.co/Vp1KKlHm51"
+	},
+	{
 		"created_at": "Wed May 22 17:04:29 +0000 2019",
 		"id": 1131154419398074400,
 		"id_str": "1131244451655905280",
