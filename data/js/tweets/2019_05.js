@@ -1,6 +1,679 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 02:47:57 +0000 2019",
+		"id": 1130778076382605300,
+		"id_str": "1131028899532435456",
+		"full_text": "한국 생리대 미쳤나 발암물질도 있고 구더기도 있고 좆같은거 다있네 이러다 생리대 포장 뜯었는데 황교안 나오는 거 아녀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104698624120840200,
+			"id_str": "1104698624120840193",
+			"name": "아몬드브리즈프사",
+			"screen_name": "imalmondbrieze",
+			"location": "브라자(브리라슨을 사랑하는 자)/비팔알림X",
+			"description": "\"K팝 좋아하듯 브리라슨 좋아했다\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1397,
+			"friends_count": 70,
+			"listed_count": 5,
+			"created_at": "Sun Mar 10 11:00:51 +0000 2019",
+			"favourites_count": 1580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125417425317400576/j3i92R86_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125417425317400576/j3i92R86_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104698624120840193/1552720856",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4684,
+		"favorite_count": 817,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 생리대 미쳤나 발암물질도 있고 구더기도 있고 좆같은거 다있네 이러다 생리대 포장 뜯었는데 황교안 나오는 거 아녀"
+	},
+	{
+		"created_at": "Wed May 22 02:44:44 +0000 2019",
+		"id": 1130703261760024600,
+		"id_str": "1131028087049580545",
+		"full_text": "이거 둘이 사귀는거 맞지 https://t.co/FQSdZsZjTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130703250426982400,
+					"id_str": "1130703250426982400",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EQnZQUcAA33OZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EQnZQUcAA33OZ.jpg",
+					"url": "https://t.co/FQSdZsZjTF",
+					"display_url": "pic.twitter.com/FQSdZsZjTF",
+					"expanded_url": "https://twitter.com/its1nthegutter/status/1130703261760024576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 1417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130703250426982400,
+					"id_str": "1130703250426982400",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EQnZQUcAA33OZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EQnZQUcAA33OZ.jpg",
+					"url": "https://t.co/FQSdZsZjTF",
+					"display_url": "pic.twitter.com/FQSdZsZjTF",
+					"expanded_url": "https://twitter.com/its1nthegutter/status/1130703261760024576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 1417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817065962499240000,
+			"id_str": "817065962499239936",
+			"name": "와1들",
+			"screen_name": "its1nthegutter",
+			"location": "",
+			"description": "이것만 사고(buy) 그만 살게(die)...............",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 116,
+			"listed_count": 2,
+			"created_at": "Thu Jan 05 17:51:20 +0000 2017",
+			"favourites_count": 7140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130396884076453888/ZHBlV3M2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130396884076453888/ZHBlV3M2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817065962499239936/1557992806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2042,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 둘이 사귀는거 맞지 https://t.co/FQSdZsZjTF"
+	},
+	{
+		"created_at": "Wed May 22 02:43:38 +0000 2019",
+		"id": 1130742102755749900,
+		"id_str": "1131027813652295681",
+		"full_text": "미친거 아니냐고 https://t.co/5tdUFCaM1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130742074020585500,
+					"id_str": "1130742074020585473",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ez7OaV4AEyCs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ez7OaV4AEyCs3.jpg",
+					"url": "https://t.co/5tdUFCaM1p",
+					"display_url": "pic.twitter.com/5tdUFCaM1p",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130742102755749888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130742074020585500,
+					"id_str": "1130742074020585473",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ez7OaV4AEyCs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ez7OaV4AEyCs3.jpg",
+					"url": "https://t.co/5tdUFCaM1p",
+					"display_url": "pic.twitter.com/5tdUFCaM1p",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130742102755749888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130742073982718000,
+					"id_str": "1130742073982717952",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Ez7ORUEAAz_77.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Ez7ORUEAAz_77.jpg",
+					"url": "https://t.co/5tdUFCaM1p",
+					"display_url": "pic.twitter.com/5tdUFCaM1p",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130742102755749888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1130741434653372400,
+		"in_reply_to_status_id_str": "1130741434653372418",
+		"in_reply_to_user_id": 4655630088,
+		"in_reply_to_user_id_str": "4655630088",
+		"in_reply_to_screen_name": "illmarrysomeday",
+		"user": {
+			"id": 4655630088,
+			"id_str": "4655630088",
+			"name": "혼전파뿌리주의자",
+			"screen_name": "illmarrysomeday",
+			"location": "From the Bottom of my bottom",
+			"description": "어이가무 재미가노",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8608,
+			"friends_count": 281,
+			"listed_count": 55,
+			"created_at": "Sat Dec 26 14:27:49 +0000 2015",
+			"favourites_count": 19438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 138647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114182550182813697/d5weuW1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114182550182813697/d5weuW1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4655630088/1554477548",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친거 아니냐고 https://t.co/5tdUFCaM1p"
+	},
+	{
+		"created_at": "Wed May 22 02:43:33 +0000 2019",
+		"id": 1130741434653372400,
+		"id_str": "1131027792538193920",
+		"full_text": "무려 &gt;&gt;&gt;국방홍보원&lt;&lt;&lt;이 만든 성년의 날 만화란다 일베나 기안84이런애들이 아니고 나랏돈으로 만든 ㅋㅋㅋㅋㅋ 만화 꼬라지가 이모양이라고 \n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ㅋㅋㅋㅋㅋ ㅋㅋ다음 내용: 미필은 여자친구를 위해서 바퀴벌레 못잡아 주는데 군필은 잡아줌 &lt;-ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/uwaAS5QgpL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130741411458846700,
+					"id_str": "1130741411458846720",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EzUqLUEAARiVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EzUqLUEAARiVw.jpg",
+					"url": "https://t.co/uwaAS5QgpL",
+					"display_url": "pic.twitter.com/uwaAS5QgpL",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130741434653372418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130741411458846700,
+					"id_str": "1130741411458846720",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EzUqLUEAARiVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EzUqLUEAARiVw.jpg",
+					"url": "https://t.co/uwaAS5QgpL",
+					"display_url": "pic.twitter.com/uwaAS5QgpL",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130741434653372418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130741411433738200,
+					"id_str": "1130741411433738240",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EzUqFU8AA7lCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EzUqFU8AA7lCx.jpg",
+					"url": "https://t.co/uwaAS5QgpL",
+					"display_url": "pic.twitter.com/uwaAS5QgpL",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130741434653372418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 941,
+							"h": 933,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 941,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130741411421204500,
+					"id_str": "1130741411421204480",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D7EzUqCVsAAjDAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7EzUqCVsAAjDAB.jpg",
+					"url": "https://t.co/uwaAS5QgpL",
+					"display_url": "pic.twitter.com/uwaAS5QgpL",
+					"expanded_url": "https://twitter.com/illmarrysomeday/status/1130741434653372418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4655630088,
+			"id_str": "4655630088",
+			"name": "혼전파뿌리주의자",
+			"screen_name": "illmarrysomeday",
+			"location": "From the Bottom of my bottom",
+			"description": "어이가무 재미가노",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8608,
+			"friends_count": 281,
+			"listed_count": 55,
+			"created_at": "Sat Dec 26 14:27:49 +0000 2015",
+			"favourites_count": 19438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 138647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114182550182813697/d5weuW1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114182550182813697/d5weuW1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4655630088/1554477548",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1351,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무려 &gt;&gt;&gt;국방홍보원&lt;&lt;&lt;이 만든 성년의 날 만화란다 일베나 기안84이런애들이 아니고 나랏돈으로 만든 ㅋㅋㅋㅋㅋ 만화 꼬라지가 이모양이라고 \n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ ㅋㅋㅋㅋㅋ ㅋㅋ다음 내용: 미필은 여자친구를 위해서 바퀴벌레 못잡아 주는데 군필은 잡아줌 &lt;-ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/uwaAS5QgpL"
+	},
+	{
 		"created_at": "Wed May 22 01:29:19 +0000 2019",
 		"id": 1130845689045368800,
 		"id_str": "1131009110097375233",
