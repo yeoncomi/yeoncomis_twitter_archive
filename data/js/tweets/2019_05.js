@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 01:29:19 +0000 2019",
+		"id": 1130845689045368800,
+		"id_str": "1131009110097375233",
+		"full_text": "헐 엄청난걸 깨달았다\n초증고딩때 학교 끝나면 학원을 간다\n    따라서 대학교 끝나면 대학원을 간다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4798909994,
+			"id_str": "4798909994",
+			"name": "ᴉɔs‾nʎɹᴉS@💥@Siryu_sci",
+			"screen_name": "Siryu_sci",
+			"location": "@@@Siryu_sci",
+			"description": "이상한거 하는 문과",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 211,
+			"listed_count": 2,
+			"created_at": "Fri Jan 22 16:21:25 +0000 2016",
+			"favourites_count": 19692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112723693904363520/vP34v8XD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112723693904363520/vP34v8XD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4798909994/1545852922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "헐 엄청난걸 깨달았다\n초증고딩때 학교 끝나면 학원을 간다\n    따라서 대학교 끝나면 대학원을 간다"
+	},
+	{
+		"created_at": "Wed May 22 01:21:31 +0000 2019",
+		"id": 1131004258122264600,
+		"id_str": "1131007144961011712",
+		"full_text": "정부 지원금 받아쳐먹는 연합뉴스는 허구한날 이런 가짜뉴스나 생산하고 있고 https://t.co/qroXrkOw5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qroXrkOw5J",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1131001505002057729",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4916326303,
+			"id_str": "4916326303",
+			"name": "선규",
+			"screen_name": "insangmolkka",
+			"location": "",
+			"description": "오리프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 387,
+			"listed_count": 2,
+			"created_at": "Tue Feb 16 14:13:47 +0000 2016",
+			"favourites_count": 9111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107808691451916288/isaxmv-D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4916326303/1552957344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131001505002057700,
+		"quoted_status_id_str": "1131001505002057729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qroXrkOw5J",
+			"expanded": "https://twitter.com/yonhaptweet/status/1131001505002057729",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 00:59:06 +0000 2019",
+			"id": 1131001505002057700,
+			"id_str": "1131001505002057729",
+			"full_text": "국민 3명 중 1명 \"내년도 최저임금 동결해야\"[리얼미터]\nhttps://t.co/Ck875M2UXL\n\n국민 3명 중 1명은 내년도 최저임금을 올해와 같은 수준으로 동결하는 것이 적당하다고 생각한다는 여론조사 결과가 22일 나왔습니다. https://t.co/fcwNtH6685",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ck875M2UXL",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20190522035800001?input=tw",
+						"display_url": "yna.co.kr/view/AKR201905…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1131001485607690200,
+						"id_str": "1131001485607690241",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/D7If294V4AEvDgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7If294V4AEvDgv.jpg",
+						"url": "https://t.co/fcwNtH6685",
+						"display_url": "pic.twitter.com/fcwNtH6685",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1131001505002057729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131001485607690200,
+						"id_str": "1131001485607690241",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/D7If294V4AEvDgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7If294V4AEvDgv.jpg",
+						"url": "https://t.co/fcwNtH6685",
+						"display_url": "pic.twitter.com/fcwNtH6685",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1131001505002057729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "https://t.co/1xjsaY9KNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 304280,
+				"friends_count": 73931,
+				"listed_count": 4813,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 119,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 186759,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 72,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부 지원금 받아쳐먹는 연합뉴스는 허구한날 이런 가짜뉴스나 생산하고 있고 https://t.co/qroXrkOw5J"
+	},
+	{
+		"created_at": "Wed May 22 01:19:43 +0000 2019",
+		"id": 1131006464812884000,
+		"id_str": "1131006693557411840",
+		"full_text": "https://t.co/BN2XFqkAbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131006445091270700,
+					"id_str": "1131006445091270657",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131006445091270657/pu/img/TDlUpzbdeiKTIVF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131006445091270657/pu/img/TDlUpzbdeiKTIVF6.jpg",
+					"url": "https://t.co/BN2XFqkAbu",
+					"display_url": "pic.twitter.com/BN2XFqkAbu",
+					"expanded_url": "https://twitter.com/unusualImagery/status/1131006464812883971/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131006445091270700,
+					"id_str": "1131006445091270657",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131006445091270657/pu/img/TDlUpzbdeiKTIVF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131006445091270657/pu/img/TDlUpzbdeiKTIVF6.jpg",
+					"url": "https://t.co/BN2XFqkAbu",
+					"display_url": "pic.twitter.com/BN2XFqkAbu",
+					"expanded_url": "https://twitter.com/unusualImagery/status/1131006464812883971/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4737,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1131006445091270657/pu/pl/DX4I-rOer65_11_I.m3u8?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131006445091270657/pu/vid/320x320/Jpfu21CtzQZOHnkN.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131006445091270657/pu/vid/480x480/coM9V8GXPwCyqhqE.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2395114790,
+			"id_str": "2395114790",
+			"name": "Unusual Things",
+			"screen_name": "unusualImagery",
+			"location": "",
+			"description": "I post memes and make YouTube videos. Business inquires: unusualthingsbiz@gmail.com",
+			"url": "https://t.co/e2V3CXQKwT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2V3CXQKwT",
+							"expanded_url": "https://www.youtube.com/channel/UC9HdPGHfpI0bVItquI1r0PQ",
+							"display_url": "youtube.com/channel/UC9HdP…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125994,
+			"friends_count": 77,
+			"listed_count": 502,
+			"created_at": "Mon Mar 17 21:18:17 +0000 2014",
+			"favourites_count": 3398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965257283155480577/hNTDf1Rx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965257283155480577/hNTDf1Rx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2395114790/1520527986",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/BN2XFqkAbu"
+	},
+	{
 		"created_at": "Wed May 22 01:00:31 +0000 2019",
 		"id": 1130642422768197600,
 		"id_str": "1131001862625251328",
