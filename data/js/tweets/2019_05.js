@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 15:16:58 +0000 2019",
+		"id": 1131018766488203300,
+		"id_str": "1131217395484250112",
+		"full_text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/8YDdWTtr0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131018759542415400,
+					"id_str": "1131018759542415360",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D7IvkcTUIAAT6kg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7IvkcTUIAAT6kg.jpg",
+					"url": "https://t.co/8YDdWTtr0W",
+					"display_url": "pic.twitter.com/8YDdWTtr0W",
+					"expanded_url": "https://twitter.com/dlwns2007/status/1131018766488203271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131018759542415400,
+					"id_str": "1131018759542415360",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D7IvkcTUIAAT6kg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7IvkcTUIAAT6kg.jpg",
+					"url": "https://t.co/8YDdWTtr0W",
+					"display_url": "pic.twitter.com/8YDdWTtr0W",
+					"expanded_url": "https://twitter.com/dlwns2007/status/1131018766488203271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 445362086,
+			"id_str": "445362086",
+			"name": "쥰세린이@me2",
+			"screen_name": "dlwns2007",
+			"location": "피로",
+			"description": "구)세기의뷁/법학 전공/RT많아요, RT=동의 가 아닙니다/샆창/눈치 없는 Wide오지랖/ショタ/Queer/19+,정치,젠더이슈가 자주 올라옵니다. /정당인(?)/노스텔 유저/맞팔멘션/DM환영!/日本語OK/블락하시기 전에 메인트 한 번 꼭 봐주세요...",
+			"url": "https://t.co/omFOSYWJwC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/omFOSYWJwC",
+							"expanded_url": "http://me2day.net/dlwns2007",
+							"display_url": "me2day.net/dlwns2007",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049,
+			"friends_count": 3030,
+			"listed_count": 13,
+			"created_at": "Sat Dec 24 09:31:16 +0000 2011",
+			"favourites_count": 25407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 197917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112559976961044481/MJSWrxiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112559976961044481/MJSWrxiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445362086/1541416181",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/8YDdWTtr0W"
+	},
+	{
 		"created_at": "Wed May 22 02:47:57 +0000 2019",
 		"id": 1130778076382605300,
 		"id_str": "1131028899532435456",
