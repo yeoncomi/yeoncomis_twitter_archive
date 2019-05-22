@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 19:26:57 +0000 2019",
+		"id": 1131143511351414800,
+		"id_str": "1131280302905499648",
+		"full_text": "When the guy sat next to you goes to the toilet and leaves the work laptop alone, turned on and logged in... don’t do this guys! I could be anyone! When I told him he said “you didn’t look dodgy. You’re a small blonde woman”....... #security #cyber #Awareness https://t.co/Jvac79gWHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "security",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"text": "cyber",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "Awareness",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131143505152233500,
+					"id_str": "1131143505152233472",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KhBl6W0AABpms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KhBl6W0AABpms.jpg",
+					"url": "https://t.co/Jvac79gWHI",
+					"display_url": "pic.twitter.com/Jvac79gWHI",
+					"expanded_url": "https://twitter.com/LisaForteUK/status/1131143511351414784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1674,
+							"h": 1278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 916,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131143505152233500,
+					"id_str": "1131143505152233472",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KhBl6W0AABpms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KhBl6W0AABpms.jpg",
+					"url": "https://t.co/Jvac79gWHI",
+					"display_url": "pic.twitter.com/Jvac79gWHI",
+					"expanded_url": "https://twitter.com/LisaForteUK/status/1131143511351414784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1674,
+							"h": 1278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 916,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 519,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1043484575329144800,
+			"id_str": "1043484575329144834",
+			"name": "Lisa Forte",
+			"screen_name": "LisaForteUK",
+			"location": "United Kingdom",
+			"description": "Social Engineering Expert - won “Top 100 Women In Tech” - professional keynote speaker - Founder @redgoatcyber - ex-Police - views = mine. Coffee lover 🇮🇹🇬🇧",
+			"url": "https://t.co/usnxhdVypg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/usnxhdVypg",
+							"expanded_url": "http://www.red-goat.com",
+							"display_url": "red-goat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4081,
+			"friends_count": 2496,
+			"listed_count": 59,
+			"created_at": "Sat Sep 22 12:58:04 +0000 2018",
+			"favourites_count": 1058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110805520217268224/8KMmXBq8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110805520217268224/8KMmXBq8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1043484575329144834/1551790580",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the guy sat next to you goes to the toilet and leaves the work laptop alone, turned on and logged in... don’t do this guys! I could be anyone! When I told him he said “you didn’t look dodgy. You’re a small blonde woman”....... #security #cyber #Awareness https://t.co/Jvac79gWHI"
+	},
+	{
+		"created_at": "Wed May 22 19:19:34 +0000 2019",
+		"id": 1096215752208658400,
+		"id_str": "1131278447416815616",
+		"full_text": "게임 만드는 사람으로써 판매량이 전부는 아니라는 걸 알지만.. 꼴랑 100개 남짓 판매한 보드게임 하나가 유일한 경력인 사람이 게임기획자라는 이름 달고 게임중독 예방법이라는 걸 강의한다는 데서 더 이상 할 말을 잃어버리고 말았다.. 보드게이머로써 부끄럽다 ㅋㅋ https://t.co/ImrFbMnGtt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096215738094805000,
+					"id_str": "1096215738094804993",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaKZ-JVYAEV6p-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaKZ-JVYAEV6p-.jpg",
+					"url": "https://t.co/ImrFbMnGtt",
+					"display_url": "pic.twitter.com/ImrFbMnGtt",
+					"expanded_url": "https://twitter.com/DarkRiss/status/1096215752208658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096215738094805000,
+					"id_str": "1096215738094804993",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaKZ-JVYAEV6p-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaKZ-JVYAEV6p-.jpg",
+					"url": "https://t.co/ImrFbMnGtt",
+					"display_url": "pic.twitter.com/ImrFbMnGtt",
+					"expanded_url": "https://twitter.com/DarkRiss/status/1096215752208658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 493,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096215738086379500,
+					"id_str": "1096215738086379520",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaKZ-HU0AACC38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaKZ-HU0AACC38.jpg",
+					"url": "https://t.co/ImrFbMnGtt",
+					"display_url": "pic.twitter.com/ImrFbMnGtt",
+					"expanded_url": "https://twitter.com/DarkRiss/status/1096215752208658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096215738090569700,
+					"id_str": "1096215738090569728",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaKZ-IUwAAF9Xl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaKZ-IUwAAF9Xl.jpg",
+					"url": "https://t.co/ImrFbMnGtt",
+					"display_url": "pic.twitter.com/ImrFbMnGtt",
+					"expanded_url": "https://twitter.com/DarkRiss/status/1096215752208658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096215738090569700,
+					"id_str": "1096215738090569729",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaKZ-IUwAEXsK9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaKZ-IUwAEXsK9.jpg",
+					"url": "https://t.co/ImrFbMnGtt",
+					"display_url": "pic.twitter.com/ImrFbMnGtt",
+					"expanded_url": "https://twitter.com/DarkRiss/status/1096215752208658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43034096,
+			"id_str": "43034096",
+			"name": "다크리스",
+			"screen_name": "DarkRiss",
+			"location": "안경미소녀는 진리입니다",
+			"description": "40세 기혼 남자 / 게임 기획자 / 보드게임 / 마작 / 콘솔게임 / 모바일게임 / iPhone 6S+ / Apple Watch / PSN : DarkRiss- / 3DS : 4983-5161-6200 / Switch : SW-6541-1981-6027 / 리스라고 불러주세요",
+			"url": "https://t.co/khHDX0Jg6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/khHDX0Jg6V",
+							"expanded_url": "https://www.instagram.com/darkriss/",
+							"display_url": "instagram.com/darkriss/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1260,
+			"friends_count": 240,
+			"listed_count": 40,
+			"created_at": "Thu May 28 03:05:24 +0000 2009",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 188184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078983038845865985/YCdjSCcM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078983038845865985/YCdjSCcM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43034096/1507295984",
+			"profile_link_color": "999999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임 만드는 사람으로써 판매량이 전부는 아니라는 걸 알지만.. 꼴랑 100개 남짓 판매한 보드게임 하나가 유일한 경력인 사람이 게임기획자라는 이름 달고 게임중독 예방법이라는 걸 강의한다는 데서 더 이상 할 말을 잃어버리고 말았다.. 보드게이머로써 부끄럽다 ㅋㅋ https://t.co/ImrFbMnGtt"
+	},
+	{
 		"created_at": "Wed May 22 17:42:35 +0000 2019",
 		"id": 1131254038903656400,
 		"id_str": "1131254038903656448",
