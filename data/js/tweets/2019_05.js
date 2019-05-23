@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 00:22:37 +0000 2019",
+		"id": 1131160203750023200,
+		"id_str": "1131354709900423169",
+		"full_text": "@cursedcons https://t.co/Cw2mvflBlz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cursedcons",
+					"name": "cursed rhythm game controllers",
+					"id": 1047277701516615700,
+					"id_str": "1047277701516615681",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131160145147310100,
+					"id_str": "1131160145147310085",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KwKKuVsAUnIMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KwKKuVsAUnIMw.jpg",
+					"url": "https://t.co/Cw2mvflBlz",
+					"display_url": "pic.twitter.com/Cw2mvflBlz",
+					"expanded_url": "https://twitter.com/kry_rain/status/1131160203750023168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131160145147310100,
+					"id_str": "1131160145147310085",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D7KwKKuVsAUnIMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7KwKKuVsAUnIMw.jpg",
+					"url": "https://t.co/Cw2mvflBlz",
+					"display_url": "pic.twitter.com/Cw2mvflBlz",
+					"expanded_url": "https://twitter.com/kry_rain/status/1131160203750023168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1047277701516615700,
+		"in_reply_to_user_id_str": "1047277701516615681",
+		"in_reply_to_screen_name": "cursedcons",
+		"user": {
+			"id": 750503470835183600,
+			"id_str": "750503470835183617",
+			"name": "kurai ren",
+			"screen_name": "kry_rain",
+			"location": "It's pretty chilly up here in the mountains...",
+			"description": "-still in the progress of being less of a degenerate-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 42,
+			"listed_count": 0,
+			"created_at": "Wed Jul 06 01:35:45 +0000 2016",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124676949694042118/op7sMJy4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124676949694042118/op7sMJy4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750503470835183617/1558082489",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@cursedcons https://t.co/Cw2mvflBlz"
+	},
+	{
 		"created_at": "Wed May 22 20:30:39 +0000 2019",
 		"id": 1131211346329055200,
 		"id_str": "1131296335280218112",
