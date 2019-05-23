@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 04:39:49 +0000 2019",
+		"id": 1131028910596976600,
+		"id_str": "1131419436781514752",
+		"full_text": "요즘 인싸템 이라는 제목으로 커뮤니티에서 떠돌고 있는데 뭐라고 대답해야할지 모르겠다\n\n((타락한녀석 입니다 https://t.co/fxKDpwO5bb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131028848236159000,
+					"id_str": "1131028848236158976",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7I4vrnV4AAhfvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7I4vrnV4AAhfvU.jpg",
+					"url": "https://t.co/fxKDpwO5bb",
+					"display_url": "pic.twitter.com/fxKDpwO5bb",
+					"expanded_url": "https://twitter.com/MOSJ02/status/1131028910596976646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131028848236159000,
+					"id_str": "1131028848236158976",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7I4vrnV4AAhfvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7I4vrnV4AAhfvU.jpg",
+					"url": "https://t.co/fxKDpwO5bb",
+					"display_url": "pic.twitter.com/fxKDpwO5bb",
+					"expanded_url": "https://twitter.com/MOSJ02/status/1131028910596976646/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							75,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7I4vrnV4AAhfvU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107086348014411800,
+			"id_str": "1107086348014411776",
+			"name": "MOSJ",
+			"screen_name": "MOSJ02",
+			"location": "제냐의 노예",
+			"description": "#맞팔 99.9% #모스즈 #남성 #고딩 #이과생 #음향덕후 #자동차 #furry\n많은 분들과 친해지고 싶은 마음은 넘칩니다!\n\n진입장벽? 그런게 있었나??\n맞팔은 무멘팔 하셔도 제가 달려갑니다!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 835,
+			"listed_count": 4,
+			"created_at": "Sun Mar 17 01:08:48 +0000 2019",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129524703389872128/wm54gpgC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129524703389872128/wm54gpgC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107086348014411776/1557421440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1202,
+		"favorite_count": 437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 인싸템 이라는 제목으로 커뮤니티에서 떠돌고 있는데 뭐라고 대답해야할지 모르겠다\n\n((타락한녀석 입니다 https://t.co/fxKDpwO5bb"
+	},
+	{
 		"created_at": "Thu May 23 02:27:46 +0000 2019",
 		"id": 1131386206753681400,
 		"id_str": "1131386206753681409",
