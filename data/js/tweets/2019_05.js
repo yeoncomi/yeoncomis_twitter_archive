@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 14:55:59 +0000 2019",
+		"id": 1131380583534288900,
+		"id_str": "1131574501106376705",
+		"full_text": "-15일전 한빛원전 시험가동중 과부하\n-메뉴얼대로라면 중지했어야됬지만, 무면허 기술자가 그거 모르고 과열상태로 12시간을 가동함\n-원자로 폭주로 폭발해서 우리나라 체르노빌꼴날뻔함. 그걸 한수원이 열흘간 숨기다가 들통남\n\n님들 우리 보름전에 전부 죽을뻔했어요ㅎㅎ https://t.co/6fD0EZFdSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131380554639609900,
+					"id_str": "1131380554639609856",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N4nsEUEAAGLSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N4nsEUEAAGLSt.jpg",
+					"url": "https://t.co/6fD0EZFdSu",
+					"display_url": "pic.twitter.com/6fD0EZFdSu",
+					"expanded_url": "https://twitter.com/ZENTIUM5/status/1131380583534288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 913,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131380554639609900,
+					"id_str": "1131380554639609856",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N4nsEUEAAGLSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N4nsEUEAAGLSt.jpg",
+					"url": "https://t.co/6fD0EZFdSu",
+					"display_url": "pic.twitter.com/6fD0EZFdSu",
+					"expanded_url": "https://twitter.com/ZENTIUM5/status/1131380583534288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 913,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131380564710133800,
+					"id_str": "1131380564710133760",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N4oRlUEAA646x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N4oRlUEAA646x.jpg",
+					"url": "https://t.co/6fD0EZFdSu",
+					"display_url": "pic.twitter.com/6fD0EZFdSu",
+					"expanded_url": "https://twitter.com/ZENTIUM5/status/1131380583534288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 569,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 569,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131380571660202000,
+					"id_str": "1131380571660201984",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N4oreVsAA0_ru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N4oreVsAA0_ru.jpg",
+					"url": "https://t.co/6fD0EZFdSu",
+					"display_url": "pic.twitter.com/6fD0EZFdSu",
+					"expanded_url": "https://twitter.com/ZENTIUM5/status/1131380583534288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 925,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 925,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997792419004366800,
+			"id_str": "997792419004366848",
+			"name": "[Team.H_R] ZENTIUM",
+			"screen_name": "ZENTIUM5",
+			"location": "삿파리월드",
+			"description": "@TeamHeavyRain 부팀장/소녀전선/댄스러쉬/자동차마니아/FUB Free/'#젠티엄의_자동차상식' 연재중! 리트윗 대환영!/프로필사진 본인임/English OK!/무멘팔은 구독계로 봄/Cosplayer ZENTIUM/\n💕@adelie6190",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 556,
+			"listed_count": 19,
+			"created_at": "Sat May 19 10:53:45 +0000 2018",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129098294334959617/uNng0Gsi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129098294334959617/uNng0Gsi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997792419004366848/1557225480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4746,
+		"favorite_count": 612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "-15일전 한빛원전 시험가동중 과부하\n-메뉴얼대로라면 중지했어야됬지만, 무면허 기술자가 그거 모르고 과열상태로 12시간을 가동함\n-원자로 폭주로 폭발해서 우리나라 체르노빌꼴날뻔함. 그걸 한수원이 열흘간 숨기다가 들통남\n\n님들 우리 보름전에 전부 죽을뻔했어요ㅎㅎ https://t.co/6fD0EZFdSu"
+	},
+	{
+		"created_at": "Thu May 23 14:55:48 +0000 2019",
+		"id": 1131574328632500200,
+		"id_str": "1131574456294334464",
+		"full_text": "5.18 관련 가짜 뉴스 @YouTube 영상을 \"독일\"에서 \"정치적 극단주의 조장\"으로 신고했더니 \"we didn't find grounds to restrict the URL(s) at issue under German law.\"라는 답을 받은 적이 있었다. 도대체 어떻게 해야 신고를 넣을 수가 있을지 모르겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253043045,
+			"id_str": "253043045",
+			"name": "Shinjo Park",
+			"screen_name": "ad_ili_rai",
+			"location": "Berlin, Germany",
+			"description": "트윗 RT/특정인에 대한 팔로우는 항상 동의의 의미가 아닙니다. 체인블락 AUT! Infosec, Mobile, Train, Sex positive. For non-Korean speakers please follow @ad_ili_rai_en",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 230,
+			"listed_count": 19,
+			"created_at": "Wed Feb 16 12:51:40 +0000 2011",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/520888414464253952/ePaI9jRX_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/520888414464253952/ePaI9jRX_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5.18 관련 가짜 뉴스 @YouTube 영상을 \"독일\"에서 \"정치적 극단주의 조장\"으로 신고했더니 \"we didn't find grounds to restrict the URL(s) at issue under German law.\"라는 답을 받은 적이 있었다. 도대체 어떻게 해야 신고를 넣을 수가 있을지 모르겠다."
+	},
+	{
+		"created_at": "Thu May 23 14:54:17 +0000 2019",
+		"id": 1131342502659682300,
+		"id_str": "1131574075325739008",
+		"full_text": "https://t.co/3e8RwqTLn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131342495441231900,
+					"id_str": "1131342495441231873",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D7NWAWgUIAE49y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7NWAWgUIAE49y_.jpg",
+					"url": "https://t.co/3e8RwqTLn4",
+					"display_url": "pic.twitter.com/3e8RwqTLn4",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1131342502659682304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131342495441231900,
+					"id_str": "1131342495441231873",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D7NWAWgUIAE49y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7NWAWgUIAE49y_.jpg",
+					"url": "https://t.co/3e8RwqTLn4",
+					"display_url": "pic.twitter.com/3e8RwqTLn4",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1131342502659682304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "r/memes",
+			"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \nMemes of this account are all from r/memes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22653,
+			"friends_count": 4,
+			"listed_count": 70,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128905565965438976/iIB2TJ92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128905565965438976/iIB2TJ92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1557987131",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45965,
+		"favorite_count": 21930,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3e8RwqTLn4"
+	},
+	{
+		"created_at": "Thu May 23 14:54:11 +0000 2019",
+		"id": 1131568957888970800,
+		"id_str": "1131574047790075904",
+		"full_text": "#탐라너머_자주봤는데_맞팔하고싶다_지금이기회 https://t.co/It1e0kFLZ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탐라너머_자주봤는데_맞팔하고싶다_지금이기회",
+					"indices": [
+						0,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131568954348990500,
+					"id_str": "1131568954348990464",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qj9_rU8AA_64r.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qj9_rU8AA_64r.png",
+					"url": "https://t.co/It1e0kFLZ3",
+					"display_url": "pic.twitter.com/It1e0kFLZ3",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1131568957888970752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 869,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131568954348990500,
+					"id_str": "1131568954348990464",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qj9_rU8AA_64r.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qj9_rU8AA_64r.png",
+					"url": "https://t.co/It1e0kFLZ3",
+					"display_url": "pic.twitter.com/It1e0kFLZ3",
+					"expanded_url": "https://twitter.com/hibiyasleep/status/1131568957888970752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 869,
+							"h": 489,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://theworld09.com\" rel=\"nofollow\">from TheWorld</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257896974,
+			"id_str": "2257896974",
+			"name": "히비야가 쏘아올린 작은 3d6*5",
+			"screen_name": "hibiyasleep",
+			"location": "사키히비 4/5",
+			"description": "= (15).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769,
+			"friends_count": 870,
+			"listed_count": 26,
+			"created_at": "Sun Dec 22 16:23:09 +0000 2013",
+			"favourites_count": 19664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 761302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126556987058036736/w0g44-A7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126556987058036736/w0g44-A7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257896974/1558329368",
+			"profile_link_color": "4477CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#탐라너머_자주봤는데_맞팔하고싶다_지금이기회 https://t.co/It1e0kFLZ3"
+	},
+	{
+		"created_at": "Thu May 23 14:51:15 +0000 2019",
+		"id": 1131481731146453000,
+		"id_str": "1131573312247611393",
+		"full_text": "OCN도 당했다 https://t.co/05KwID6k8T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131481719108919300,
+					"id_str": "1131481719108919296",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7PUoPFV4AAhW6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7PUoPFV4AAhW6h.jpg",
+					"url": "https://t.co/05KwID6k8T",
+					"display_url": "pic.twitter.com/05KwID6k8T",
+					"expanded_url": "https://twitter.com/MEDE_VR/status/1131481731146452992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 657,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1043,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1043,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131481719108919300,
+					"id_str": "1131481719108919296",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7PUoPFV4AAhW6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7PUoPFV4AAhW6h.jpg",
+					"url": "https://t.co/05KwID6k8T",
+					"display_url": "pic.twitter.com/05KwID6k8T",
+					"expanded_url": "https://twitter.com/MEDE_VR/status/1131481731146452992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 657,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1043,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1043,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2458077236,
+			"id_str": "2458077236",
+			"name": "💜MEDE💜",
+			"screen_name": "MEDE_VR",
+			"location": "💜미냥이 맘속☪💜",
+			"description": "💜 미냥이꺼 @Minyang_44 💜 VRChat 풀트래커 💜 인장=욤욤 💜 코스프레(서코) 💜 일상트 많아요 💜 무멘팔=구독💜 귀여운거 좋아해요 💜 뭉멍이 💜 야옹이🐱💜 실사 꽤나 올려요 부담스러우면 뮤트나 블락👀 💜 친화력 좋아요 💜@mede_low ☠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 402,
+			"friends_count": 297,
+			"listed_count": 28,
+			"created_at": "Tue Apr 22 12:38:20 +0000 2014",
+			"favourites_count": 24931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129636269170995200/-qgMgaTj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129636269170995200/-qgMgaTj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2458077236/1558266661",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "OCN도 당했다 https://t.co/05KwID6k8T"
+	},
+	{
 		"created_at": "Thu May 23 04:39:49 +0000 2019",
 		"id": 1131028910596976600,
 		"id_str": "1131419436781514752",
