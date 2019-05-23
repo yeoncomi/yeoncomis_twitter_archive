@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 02:16:22 +0000 2019",
+		"id": 1131383339225497600,
+		"id_str": "1131383339225497600",
+		"full_text": "@Ayana_Dayo_ 맞아염! 가물가물 하긴 했는데",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ayana_Dayo_",
+					"name": "彩菜",
+					"id": 2680482451,
+					"id_str": "2680482451",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1131383248519483400,
+		"in_reply_to_status_id_str": "1131383248519483393",
+		"in_reply_to_user_id": 2680482451,
+		"in_reply_to_user_id_str": "2680482451",
+		"in_reply_to_screen_name": "Ayana_Dayo_",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ayana_Dayo_ 맞아염! 가물가물 하긴 했는데"
+	},
+	{
+		"created_at": "Thu May 23 02:15:38 +0000 2019",
+		"id": 1131383154093092900,
+		"id_str": "1131383154093092865",
+		"full_text": "1. 호칭 :아야나님!\n2. 호감도 :80/100\n3. 첫인상 :?\n4. 현인상 :헉 기여운 아야나님이다\n5. 생각나는 디저트 :딸기 크로아상\n6. 생각나는 동물 :곰\n7. 생각나는 캐릭터 :미사키\n8. 어울리는 색 :빨강\n9. 같이 먹고싶은 음식 :돈가스 https://t.co/3Q92wghw1u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Q92wghw1u",
+					"expanded_url": "https://twitter.com/Ayana_Dayo_/status/1131130281245564929",
+					"display_url": "twitter.com/Ayana_Dayo_/st…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 25997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131130281245564900,
+		"quoted_status_id_str": "1131130281245564929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3Q92wghw1u",
+			"expanded": "https://twitter.com/Ayana_Dayo_/status/1131130281245564929",
+			"display": "twitter.com/Ayana_Dayo_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 09:30:49 +0000 2019",
+			"id": 1131130281245564900,
+			"id_str": "1131130281245564929",
+			"full_text": "#트친들이_인용으로_해준다 \n\n1. 호칭 :\n2. 호감도 :\n3. 첫인상 :\n4. 현인상 :\n5. 생각나는 디저트 :\n6. 생각나는 동물 :\n7. 생각나는 캐릭터 :\n8. 어울리는 색 :\n9. 같이 먹고싶은 음식 :",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "트친들이_인용으로_해준다",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2680482451,
+				"id_str": "2680482451",
+				"name": "彩菜",
+				"screen_name": "Ayana_Dayo_",
+				"location": "",
+				"description": "백합...백합을주세요.... /\n뱅드림/레뷰(스타리라함)메인. /\n이외에도 백합이면 일단 먹고봅니다. /\n잡소리가 많습니다. /\n시스젠더는 아닙니다./\n호모 플렉시블./\n폴리./",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 154,
+				"listed_count": 1,
+				"created_at": "Fri Jul 25 20:56:56 +0000 2014",
+				"favourites_count": 6389,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21594,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128169182288236544/xibVb30C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128169182288236544/xibVb30C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2680482451/1554731253",
+				"profile_link_color": "961B1B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1. 호칭 :아야나님!\n2. 호감도 :80/100\n3. 첫인상 :?\n4. 현인상 :헉 기여운 아야나님이다\n5. 생각나는 디저트 :딸기 크로아상\n6. 생각나는 동물 :곰\n7. 생각나는 캐릭터 :미사키\n8. 어울리는 색 :빨강\n9. 같이 먹고싶은 음식 :돈가스 https://t.co/3Q92wghw1u"
+	},
+	{
 		"created_at": "Thu May 23 00:22:37 +0000 2019",
 		"id": 1131160203750023200,
 		"id_str": "1131354709900423169",
