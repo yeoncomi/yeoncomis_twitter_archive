@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 00:15:07 +0000 2019",
+		"id": 1131715210463436800,
+		"id_str": "1131715210463436800",
+		"full_text": "펭귄문제 계산 있나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펭귄문제 계산 있나"
+	},
+	{
+		"created_at": "Fri May 24 00:12:44 +0000 2019",
+		"id": 1131714611521081300,
+		"id_str": "1131714611521081344",
+		"full_text": "@hibiyasleep Think Pad 삭제!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "히비야가 쏘아올린 작은 3d6*5",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1131710959670575100,
+		"in_reply_to_status_id_str": "1131710959670575104",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 유학생|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1052,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085901015495323652/jEJn4oS-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep Think Pad 삭제!"
+	},
+	{
+		"created_at": "Fri May 24 00:10:27 +0000 2019",
+		"id": 1131549212942803000,
+		"id_str": "1131714038046416896",
+		"full_text": "기레기들 헤드라인 보소 https://t.co/6MiC427Uym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131549180554465300,
+					"id_str": "1131549180554465280",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QR_AjVUAAMzvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QR_AjVUAAMzvR.jpg",
+					"url": "https://t.co/6MiC427Uym",
+					"display_url": "pic.twitter.com/6MiC427Uym",
+					"expanded_url": "https://twitter.com/kbj3634/status/1131549212942802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131549180554465300,
+					"id_str": "1131549180554465280",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QR_AjVUAAMzvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QR_AjVUAAMzvR.jpg",
+					"url": "https://t.co/6MiC427Uym",
+					"display_url": "pic.twitter.com/6MiC427Uym",
+					"expanded_url": "https://twitter.com/kbj3634/status/1131549212942802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131549183909830700,
+					"id_str": "1131549183909830657",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QR_NDUIAE8xdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QR_NDUIAE8xdL.jpg",
+					"url": "https://t.co/6MiC427Uym",
+					"display_url": "pic.twitter.com/6MiC427Uym",
+					"expanded_url": "https://twitter.com/kbj3634/status/1131549212942802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 580,
+							"h": 323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131549196811526100,
+					"id_str": "1131549196811526147",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QR_9HUYAMq4qR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QR_9HUYAMq4qR.jpg",
+					"url": "https://t.co/6MiC427Uym",
+					"display_url": "pic.twitter.com/6MiC427Uym",
+					"expanded_url": "https://twitter.com/kbj3634/status/1131549212942802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131549204164227100,
+					"id_str": "1131549204164227073",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QSAYgVsAELAPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QSAYgVsAELAPf.jpg",
+					"url": "https://t.co/6MiC427Uym",
+					"display_url": "pic.twitter.com/6MiC427Uym",
+					"expanded_url": "https://twitter.com/kbj3634/status/1131549212942802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 580,
+							"h": 325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 325,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2843224740,
+			"id_str": "2843224740",
+			"name": "싱숭생숭",
+			"screen_name": "kbj3634",
+			"location": "대한민국 대구",
+			"description": "ㄷㅡ6// 공수처 신설하라//복심사칭꾼 안삽니다//유시민 정치은퇴 번복하지마라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949,
+			"friends_count": 922,
+			"listed_count": 8,
+			"created_at": "Tue Oct 07 08:33:37 +0000 2014",
+			"favourites_count": 2426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083260015656333313/gk81Gtzw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083260015656333313/gk81Gtzw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2843224740/1555692356",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기레기들 헤드라인 보소 https://t.co/6MiC427Uym"
+	},
+	{
 		"created_at": "Thu May 23 21:11:09 +0000 2019",
 		"id": 1131420673555853300,
 		"id_str": "1131668915484889089",
