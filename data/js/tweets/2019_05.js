@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 19:27:45 +0000 2019",
+		"id": 1131815920475574300,
+		"id_str": "1132005281645207552",
+		"full_text": "아스바진짜 울고있음 https://t.co/PlYLBiwZzH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131815911579504600,
+					"id_str": "1131815911579504640",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D7UEkzDU0AA1egU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7UEkzDU0AA1egU.jpg",
+					"url": "https://t.co/PlYLBiwZzH",
+					"display_url": "pic.twitter.com/PlYLBiwZzH",
+					"expanded_url": "https://twitter.com/judaslady_ut/status/1131815920475574272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131815911579504600,
+					"id_str": "1131815911579504640",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D7UEkzDU0AA1egU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7UEkzDU0AA1egU.jpg",
+					"url": "https://t.co/PlYLBiwZzH",
+					"display_url": "pic.twitter.com/PlYLBiwZzH",
+					"expanded_url": "https://twitter.com/judaslady_ut/status/1131815920475574272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735580013429329900,
+			"id_str": "735580013429329920",
+			"name": "마창입니다 지나가세요🥕당근모찌🥕",
+			"screen_name": "judaslady_ut",
+			"location": "*Grillbyz",
+			"description": "언텔/할나/야짤/썰 인장 샨님 헤더 듀님 커미션",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 707,
+			"listed_count": 47,
+			"created_at": "Wed May 25 21:15:16 +0000 2016",
+			"favourites_count": 71386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116718279744057344/T35yqe4F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116718279744057344/T35yqe4F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735580013429329920/1524004692",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1137,
+		"favorite_count": 386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아스바진짜 울고있음 https://t.co/PlYLBiwZzH"
+	},
+	{
+		"created_at": "Fri May 24 19:27:25 +0000 2019",
+		"id": 1130114780117602300,
+		"id_str": "1132005197302026240",
+		"full_text": "심즈에 새로운 게임팩 나왔길래 해보는데\n이렇게까지 무섭게 만들어야 했는지 https://t.co/gl2zD4jVsX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130111046218207200,
+					"id_str": "1130111046218207232",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D672AkqU0AA4Nyu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D672AkqU0AA4Nyu.png",
+					"url": "https://t.co/gl2zD4jVsX",
+					"display_url": "pic.twitter.com/gl2zD4jVsX",
+					"expanded_url": "https://twitter.com/__delll/status/1130114780117602305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130111046218207200,
+					"id_str": "1130111046218207232",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D672AkqU0AA4Nyu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D672AkqU0AA4Nyu.png",
+					"url": "https://t.co/gl2zD4jVsX",
+					"display_url": "pic.twitter.com/gl2zD4jVsX",
+					"expanded_url": "https://twitter.com/__delll/status/1130114780117602305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 364,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1130111094083612700,
+					"id_str": "1130111094083612673",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D672DW-U8AEEAUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D672DW-U8AEEAUu.jpg",
+					"url": "https://t.co/gl2zD4jVsX",
+					"display_url": "pic.twitter.com/gl2zD4jVsX",
+					"expanded_url": "https://twitter.com/__delll/status/1130114780117602305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130111190380630000,
+					"id_str": "1130111190380630016",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D672I9tU0AAynGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D672I9tU0AAynGW.jpg",
+					"url": "https://t.co/gl2zD4jVsX",
+					"display_url": "pic.twitter.com/gl2zD4jVsX",
+					"expanded_url": "https://twitter.com/__delll/status/1130114780117602305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130114180076298200,
+					"id_str": "1130114180076298240",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D6742_MUYAAW3dp.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6742_MUYAAW3dp.png",
+					"url": "https://t.co/gl2zD4jVsX",
+					"display_url": "pic.twitter.com/gl2zD4jVsX",
+					"expanded_url": "https://twitter.com/__delll/status/1130114780117602305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 276,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 276,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 933386118212370400,
+			"id_str": "933386118212370432",
+			"name": "델",
+			"screen_name": "__delll",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Wed Nov 22 17:26:06 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944104819119177729/rAd01ByH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944104819119177729/rAd01ByH_normal.jpg",
+			"profile_link_color": "212121",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심즈에 새로운 게임팩 나왔길래 해보는데\n이렇게까지 무섭게 만들어야 했는지 https://t.co/gl2zD4jVsX"
+	},
+	{
+		"created_at": "Fri May 24 19:20:40 +0000 2019",
+		"id": 1131879381020708900,
+		"id_str": "1132003500802551808",
+		"full_text": "'아주 나쁘고 무책임한 사람들이다'\n아 진짜 개그페이지냐고 ㅋㅋㅋㅋㅋ https://t.co/H2kDn4yZQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131879367787761700,
+					"id_str": "1131879367787761664",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D7U-Sb2VUAA9c9O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7U-Sb2VUAA9c9O.jpg",
+					"url": "https://t.co/H2kDn4yZQo",
+					"display_url": "pic.twitter.com/H2kDn4yZQo",
+					"expanded_url": "https://twitter.com/TanukiDaruma/status/1131879381020708864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131879367787761700,
+					"id_str": "1131879367787761664",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D7U-Sb2VUAA9c9O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7U-Sb2VUAA9c9O.jpg",
+					"url": "https://t.co/H2kDn4yZQo",
+					"display_url": "pic.twitter.com/H2kDn4yZQo",
+					"expanded_url": "https://twitter.com/TanukiDaruma/status/1131879381020708864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778441535914332200,
+			"id_str": "778441535914332161",
+			"name": "헌터 타누다루",
+			"screen_name": "TanukiDaruma",
+			"location": "",
+			"description": "Homoflexible / HIV positive",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Wed Sep 21 03:51:39 +0000 2016",
+			"favourites_count": 2629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126855395320799234/kzwZZ55-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126855395320799234/kzwZZ55-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778441535914332161/1513942510",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'아주 나쁘고 무책임한 사람들이다'\n아 진짜 개그페이지냐고 ㅋㅋㅋㅋㅋ https://t.co/H2kDn4yZQo"
+	},
+	{
 		"created_at": "Fri May 24 18:40:27 +0000 2019",
 		"id": 1131976019307450400,
 		"id_str": "1131993378998984704",
