@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 21:01:46 +0000 2019",
+		"id": 1131795529522851800,
+		"id_str": "1132028943618285568",
+		"full_text": "저 물집난거 너무 애정가서 이름도 지어줬어요 \"헨리 옥스포드 막시밀리언 아우구스투스 트찰라 마리온네트 쥴-사무엘 레온니우스 XIII세\"에요 귀엽죠 https://t.co/HgvW5wxHoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131795488024383500,
+					"id_str": "1131795488024383488",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Tx__YVUAAjMUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Tx__YVUAAjMUR.jpg",
+					"url": "https://t.co/HgvW5wxHoE",
+					"display_url": "pic.twitter.com/HgvW5wxHoE",
+					"expanded_url": "https://twitter.com/sineofx_/status/1131795529522851842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131795488024383500,
+					"id_str": "1131795488024383488",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Tx__YVUAAjMUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Tx__YVUAAjMUR.jpg",
+					"url": "https://t.co/HgvW5wxHoE",
+					"display_url": "pic.twitter.com/HgvW5wxHoE",
+					"expanded_url": "https://twitter.com/sineofx_/status/1131795529522851842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130993297944485900,
+			"id_str": "1130993297944485888",
+			"name": "엑사인@Garakuta Doll Play FR!",
+			"screen_name": "sineofx_",
+			"location": "020419~ing",
+			"description": "계이한 @neko_sine_ /English OK/컾인장 @La7yu",
+			"url": "https://t.co/s4zk9Wo1fX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s4zk9Wo1fX",
+							"expanded_url": "https://twitter.com/sineofx_/status/1131000210161672192?s=19",
+							"display_url": "twitter.com/sineofx_/statu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Wed May 22 00:26:29 +0000 2019",
+			"favourites_count": 187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130993568577810432/9cZGpLT0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130993568577810432/9cZGpLT0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130993297944485888/1558487505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저 물집난거 너무 애정가서 이름도 지어줬어요 \"헨리 옥스포드 막시밀리언 아우구스투스 트찰라 마리온네트 쥴-사무엘 레온니우스 XIII세\"에요 귀엽죠 https://t.co/HgvW5wxHoE"
+	},
+	{
 		"created_at": "Fri May 24 19:27:45 +0000 2019",
 		"id": 1131815920475574300,
 		"id_str": "1132005281645207552",
