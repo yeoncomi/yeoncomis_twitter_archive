@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 18:40:27 +0000 2019",
+		"id": 1131976019307450400,
+		"id_str": "1131993378998984704",
+		"full_text": "저 엔드게임 다 보고 왔는데 이거 만든 사람 대체 누굽니까? https://t.co/bvtLTzDqF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131976011602489300,
+					"id_str": "1131976011602489345",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WWL2HUcAEJKu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WWL2HUcAEJKu2.jpg",
+					"url": "https://t.co/bvtLTzDqF8",
+					"display_url": "pic.twitter.com/bvtLTzDqF8",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1131976019307450368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131976011602489300,
+					"id_str": "1131976011602489345",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WWL2HUcAEJKu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WWL2HUcAEJKu2.jpg",
+					"url": "https://t.co/bvtLTzDqF8",
+					"display_url": "pic.twitter.com/bvtLTzDqF8",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1131976019307450368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179891008,
+			"id_str": "179891008",
+			"name": "시프트 / shift*",
+			"screen_name": "shiftpsh",
+			"location": "바닐라",
+			"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, 모펀 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊 / 미러블락 사용 중",
+			"url": "https://t.co/KKdZ63KnmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKdZ63KnmY",
+							"expanded_url": "https://shift.moe",
+							"display_url": "shift.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RNmbjyXMBU",
+							"expanded_url": "http://sft.sh/works",
+							"display_url": "sft.sh/works",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/3hg2iNSCMZ",
+							"expanded_url": "http://sft.sh/ask",
+							"display_url": "sft.sh/ask",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2172,
+			"friends_count": 751,
+			"listed_count": 21,
+			"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+			"favourites_count": 28252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1553962316",
+			"profile_link_color": "FF3B57",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저 엔드게임 다 보고 왔는데 이거 만든 사람 대체 누굽니까? https://t.co/bvtLTzDqF8"
+	},
+	{
+		"created_at": "Fri May 24 18:39:56 +0000 2019",
+		"id": 1131782503885205500,
+		"id_str": "1131993248061255680",
+		"full_text": "나 같은 엑스세대에게 꼭 필요한 가공식품이 이제서야 세상에 그 모습을 드러냈다. https://t.co/cTRSwLV2KV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131782488429191200,
+					"id_str": "1131782488429191169",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D7TmLUHUYAEZFQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7TmLUHUYAEZFQG.jpg",
+					"url": "https://t.co/cTRSwLV2KV",
+					"display_url": "pic.twitter.com/cTRSwLV2KV",
+					"expanded_url": "https://twitter.com/nimishel/status/1131782503885205504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131782488429191200,
+					"id_str": "1131782488429191169",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D7TmLUHUYAEZFQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7TmLUHUYAEZFQG.jpg",
+					"url": "https://t.co/cTRSwLV2KV",
+					"display_url": "pic.twitter.com/cTRSwLV2KV",
+					"expanded_url": "https://twitter.com/nimishel/status/1131782503885205504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57837980,
+			"id_str": "57837980",
+			"name": "nimishel",
+			"screen_name": "nimishel",
+			"location": "",
+			"description": "머리 안에 잔돈 밖에 안 들어있어서 잘그락거리는 소리가 납니다. 잘그락잘그락",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 692,
+			"friends_count": 1440,
+			"listed_count": 16,
+			"created_at": "Sat Jul 18 03:08:11 +0000 2009",
+			"favourites_count": 25417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131719576465682433/CIN5Ehg1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131719576465682433/CIN5Ehg1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57837980/1558657950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "나 같은 엑스세대에게 꼭 필요한 가공식품이 이제서야 세상에 그 모습을 드러냈다. https://t.co/cTRSwLV2KV"
+	},
+	{
+		"created_at": "Fri May 24 18:36:51 +0000 2019",
+		"id": 1131897763166281700,
+		"id_str": "1131992472047853568",
+		"full_text": "15년 전부터 인터넷 밈으로 유명한 롱캣이 아직도 건강하게 잘 살고 있다는 소식이네요!\n\n\"지금도 우리집에서 제일 나이 많은 고양이로 건강하게 잘 살고 있습니다.\" https://t.co/AyDSXWRXGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyDSXWRXGw",
+					"expanded_url": "https://twitter.com/miyabi_2222/status/1131721775123841024",
+					"display_url": "twitter.com/miyabi_2222/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017892758063702000,
+			"id_str": "1017892758063702016",
+			"name": "동물좋아 나랑이",
+			"screen_name": "miyari_s",
+			"location": "Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31348,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Fri Jul 13 22:05:19 +0000 2018",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091786324783198208/-QC1wjVL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091786324783198208/-QC1wjVL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131721775123841000,
+		"quoted_status_id_str": "1131721775123841024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AyDSXWRXGw",
+			"expanded": "https://twitter.com/miyabi_2222/status/1131721775123841024",
+			"display": "twitter.com/miyabi_2222/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 00:41:12 +0000 2019",
+			"id": 1131721775123841000,
+			"id_str": "1131721775123841024",
+			"full_text": "「ながーい」って言うと、うちの猫かなぁ。15年くらい前、ながーいコラをたくさん作っていただきました。その子は今も存命で、我が家の最長老猫です。 #nhk_suppin https://t.co/uquWQtzlkf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nhk_suppin",
+						"indices": [
+							72,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1131721464925835300,
+						"id_str": "1131721464925835264",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/D7SurR2W0AABY6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7SurR2W0AABY6q.jpg",
+						"url": "https://t.co/uquWQtzlkf",
+						"display_url": "pic.twitter.com/uquWQtzlkf",
+						"expanded_url": "https://twitter.com/miyabi_2222/status/1131721775123841024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 924,
+								"h": 1644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131721464925835300,
+						"id_str": "1131721464925835264",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/D7SurR2W0AABY6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7SurR2W0AABY6q.jpg",
+						"url": "https://t.co/uquWQtzlkf",
+						"display_url": "pic.twitter.com/uquWQtzlkf",
+						"expanded_url": "https://twitter.com/miyabi_2222/status/1131721775123841024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 924,
+								"h": 1644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1131721651782078500,
+						"id_str": "1131721651782078464",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Su2J8W0AAJVgl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Su2J8W0AAJVgl.jpg",
+						"url": "https://t.co/uquWQtzlkf",
+						"display_url": "pic.twitter.com/uquWQtzlkf",
+						"expanded_url": "https://twitter.com/miyabi_2222/status/1131721775123841024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 531,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 554,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1131721756278968300,
+						"id_str": "1131721756278968320",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Su8POW0AAvaww.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Su8POW0AAvaww.jpg",
+						"url": "https://t.co/uquWQtzlkf",
+						"display_url": "pic.twitter.com/uquWQtzlkf",
+						"expanded_url": "https://twitter.com/miyabi_2222/status/1131721775123841024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 931160047,
+				"id_str": "931160047",
+				"name": "無冠の女王みーこ＠高知",
+				"screen_name": "miyabi_2222",
+				"location": "",
+				"description": "母と主人と息子、そして猫7匹と暮らしています。趣味は料理と写真と読書。猫がいて、カメラと本があれば幸せです。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1290,
+				"friends_count": 156,
+				"listed_count": 43,
+				"created_at": "Wed Nov 07 03:47:26 +0000 2012",
+				"favourites_count": 819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2817112856/658dc602a3b8b1e96ab5af14d981c69c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2817112856/658dc602a3b8b1e96ab5af14d981c69c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/931160047/1352516980",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41004,
+			"favorite_count": 111828,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2493,
+		"favorite_count": 1010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "15년 전부터 인터넷 밈으로 유명한 롱캣이 아직도 건강하게 잘 살고 있다는 소식이네요!\n\n\"지금도 우리집에서 제일 나이 많은 고양이로 건강하게 잘 살고 있습니다.\" https://t.co/AyDSXWRXGw"
+	},
+	{
 		"created_at": "Fri May 24 04:44:39 +0000 2019",
 		"id": 1131783041691541500,
 		"id_str": "1131783041691541504",
