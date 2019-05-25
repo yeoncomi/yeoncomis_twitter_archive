@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 20:06:33 +0000 2019",
+		"id": 1132377434383212500,
+		"id_str": "1132377434383212544",
+		"full_text": "@CenoX_Kang 좀 헤비하게 쓸 학교 공룡 서버라서 16코어가 필요할거같기는 해요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenoX_Kang",
+					"name": "CenoX Kang",
+					"id": 3242188621,
+					"id_str": "3242188621",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132374102834991100,
+		"in_reply_to_status_id_str": "1132374102834991104",
+		"in_reply_to_user_id": 3242188621,
+		"in_reply_to_user_id_str": "3242188621",
+		"in_reply_to_screen_name": "CenoX_Kang",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@CenoX_Kang 좀 헤비하게 쓸 학교 공룡 서버라서 16코어가 필요할거같기는 해요"
+	},
+	{
+		"created_at": "Sat May 25 20:01:36 +0000 2019",
+		"id": 1132376189668958200,
+		"id_str": "1132376189668958208",
+		"full_text": "@tist0924 캬오ㅓ아악",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tist0924",
+					"name": "티스트/Tist",
+					"id": 782944766187016200,
+					"id_str": "782944766187016192",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1132374901615054800,
+		"in_reply_to_status_id_str": "1132374901615054849",
+		"in_reply_to_user_id": 782944766187016200,
+		"in_reply_to_user_id_str": "782944766187016192",
+		"in_reply_to_screen_name": "tist0924",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@tist0924 캬오ㅓ아악"
+	},
+	{
+		"created_at": "Sat May 25 19:51:37 +0000 2019",
+		"id": 1132358802936913900,
+		"id_str": "1132373676983111680",
+		"full_text": "Not often we see A340s in formation! https://t.co/76pKxSMe7d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/76pKxSMe7d",
+					"expanded_url": "https://twitter.com/aeroskippah/status/1132341736615874563",
+					"display_url": "twitter.com/aeroskippah/st…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2280470022,
+			"id_str": "2280470022",
+			"name": "AIRLIVE",
+			"screen_name": "airlivenet",
+			"location": "FL360",
+			"description": "Live Airspace & Services - #avgeek team ✈️",
+			"url": "https://t.co/LYe0i8ANVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LYe0i8ANVU",
+							"expanded_url": "http://www.airlive.net",
+							"display_url": "airlive.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180091,
+			"friends_count": 1607,
+			"listed_count": 2566,
+			"created_at": "Tue Jan 07 11:38:00 +0000 2014",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 54959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/828597831829168128/DfHMnzf1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/828597831829168128/DfHMnzf1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2280470022/1484934905",
+			"profile_link_color": "00B1EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132341736615874600,
+		"quoted_status_id_str": "1132341736615874563",
+		"quoted_status_permalink": {
+			"url": "https://t.co/76pKxSMe7d",
+			"expanded": "https://twitter.com/aeroskippah/status/1132341736615874563",
+			"display": "twitter.com/aeroskippah/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 25 17:44:42 +0000 2019",
+			"id": 1132341736615874600,
+			"id_str": "1132341736615874563",
+			"full_text": "May 25: Two South African Airways A340 in formation with the South African air force performed a flyby today during the SA presidential inauguration at Loftus Versfeld Stadium in Pretoria #AvGeek \n\nCredit: @BongaDlulane https://t.co/qpQB5xooOz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AvGeek",
+						"indices": [
+							188,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BongaDlulane",
+						"name": "Bonga Dlulane",
+						"id": 419527340,
+						"id_str": "419527340",
+						"indices": [
+							206,
+							219
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1132341662498345000,
+						"id_str": "1132341662498344960",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132341662498344960/pu/img/tenjr8vIyz0weV5S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132341662498344960/pu/img/tenjr8vIyz0weV5S.jpg",
+						"url": "https://t.co/qpQB5xooOz",
+						"display_url": "pic.twitter.com/qpQB5xooOz",
+						"expanded_url": "https://twitter.com/AeroSkippah/status/1132341736615874563/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132341662498345000,
+						"id_str": "1132341662498344960",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132341662498344960/pu/img/tenjr8vIyz0weV5S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132341662498344960/pu/img/tenjr8vIyz0weV5S.jpg",
+						"url": "https://t.co/qpQB5xooOz",
+						"display_url": "pic.twitter.com/qpQB5xooOz",
+						"expanded_url": "https://twitter.com/AeroSkippah/status/1132341736615874563/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 11890,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132341662498344960/pu/vid/640x360/kVguQuWdq-BxHoDp.mp4?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132341662498344960/pu/vid/320x180/82apsoQljgnP6VdI.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1132341662498344960/pu/pl/QduypI3lnEPVl6Bz.m3u8?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132341662498344960/pu/vid/1280x720/9AQSKEDlDnhlBdol.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65742056,
+				"id_str": "65742056",
+				"name": "AeroSkippah",
+				"screen_name": "AeroSkippah",
+				"location": "Nairobi, Kenya",
+				"description": "Pilot #AvGeek Spaceflight enthusiast.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1090,
+				"friends_count": 289,
+				"listed_count": 36,
+				"created_at": "Fri Aug 14 21:34:01 +0000 2009",
+				"favourites_count": 3313,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0B0C0D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088436749217513472/qi8Q18AT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088436749217513472/qi8Q18AT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65742056/1488356910",
+				"profile_link_color": "183636",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AEBFBC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 281,
+			"favorite_count": 615,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 60,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not often we see A340s in formation! https://t.co/76pKxSMe7d"
+	},
+	{
+		"created_at": "Sat May 25 19:50:53 +0000 2019",
+		"id": 1132373491473297400,
+		"id_str": "1132373491473297408",
+		"full_text": "@CenoX_Kang 투머갈 해서 16코어 하려고요 \n64긱 램으로 업글할까 고민중이기도 하고 현재 32긱인데",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenoX_Kang",
+					"name": "CenoX Kang",
+					"id": 3242188621,
+					"id_str": "3242188621",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132373194759786500,
+		"in_reply_to_status_id_str": "1132373194759786498",
+		"in_reply_to_user_id": 3242188621,
+		"in_reply_to_user_id_str": "3242188621",
+		"in_reply_to_screen_name": "CenoX_Kang",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@CenoX_Kang 투머갈 해서 16코어 하려고요 \n64긱 램으로 업글할까 고민중이기도 하고 현재 32긱인데"
+	},
+	{
+		"created_at": "Sat May 25 19:49:06 +0000 2019",
+		"id": 1132373041172795400,
+		"id_str": "1132373041172795392",
+		"full_text": "@CenoX_Kang 히이이 \n서버 근데 제가 생각해도 구린거 산게 맞는거같아요 \nE5-2407 싱글이었으니",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenoX_Kang",
+					"name": "CenoX Kang",
+					"id": 3242188621,
+					"id_str": "3242188621",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132372558236475400,
+		"in_reply_to_status_id_str": "1132372558236475392",
+		"in_reply_to_user_id": 3242188621,
+		"in_reply_to_user_id_str": "3242188621",
+		"in_reply_to_screen_name": "CenoX_Kang",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@CenoX_Kang 히이이 \n서버 근데 제가 생각해도 구린거 산게 맞는거같아요 \nE5-2407 싱글이었으니"
+	},
+	{
+		"created_at": "Sat May 25 19:46:35 +0000 2019",
+		"id": 1132372409816715300,
+		"id_str": "1132372409816715265",
+		"full_text": "@CenoX_Kang 2011v2 가지고싶다",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenoX_Kang",
+					"name": "CenoX Kang",
+					"id": 3242188621,
+					"id_str": "3242188621",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132372282502860800,
+		"in_reply_to_status_id_str": "1132372282502860800",
+		"in_reply_to_user_id": 3242188621,
+		"in_reply_to_user_id_str": "3242188621",
+		"in_reply_to_screen_name": "CenoX_Kang",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@CenoX_Kang 2011v2 가지고싶다"
+	},
+	{
+		"created_at": "Sat May 25 19:44:45 +0000 2019",
+		"id": 1132371948032352300,
+		"id_str": "1132371948032352256",
+		"full_text": "@CenoX_Kang 그거 근데 제건 플랫폼이 LGA1356이네요 2011은 아니네",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CenoX_Kang",
+					"name": "CenoX Kang",
+					"id": 3242188621,
+					"id_str": "3242188621",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132371590962769900,
+		"in_reply_to_status_id_str": "1132371590962769921",
+		"in_reply_to_user_id": 3242188621,
+		"in_reply_to_user_id_str": "3242188621",
+		"in_reply_to_screen_name": "CenoX_Kang",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@CenoX_Kang 그거 근데 제건 플랫폼이 LGA1356이네요 2011은 아니네"
+	},
+	{
+		"created_at": "Sat May 25 19:44:01 +0000 2019",
+		"id": 1132371763248033800,
+		"id_str": "1132371763248033792",
+		"full_text": "새벽에 같이 놀으실분",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1053,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "새벽에 같이 놀으실분"
+	},
+	{
 		"created_at": "Sat May 25 17:29:55 +0000 2019",
 		"id": 1132338017258025000,
 		"id_str": "1132338017258024961",
