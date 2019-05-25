@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 17:13:05 +0000 2019",
+		"id": 1132089845877076000,
+		"id_str": "1132333778762838016",
+		"full_text": "취미로 과외를 하는 사람이다 https://t.co/YWpsNnRQKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132089838620962800,
+					"id_str": "1132089838620962816",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D7X9tczU8AAT0vK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7X9tczU8AAT0vK.jpg",
+					"url": "https://t.co/YWpsNnRQKY",
+					"display_url": "pic.twitter.com/YWpsNnRQKY",
+					"expanded_url": "https://twitter.com/Potatorial/status/1132089845877075968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132089838620962800,
+					"id_str": "1132089838620962816",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D7X9tczU8AAT0vK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7X9tczU8AAT0vK.jpg",
+					"url": "https://t.co/YWpsNnRQKY",
+					"display_url": "pic.twitter.com/YWpsNnRQKY",
+					"expanded_url": "https://twitter.com/Potatorial/status/1132089845877075968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053961549809741800,
+			"id_str": "1053961549809741827",
+			"name": "모르감자🥔",
+			"screen_name": "Potatorial",
+			"location": "북조선 대홍단군",
+			"description": "왕감자/감자 관련은RT/SL/2020년6월4일 전역/DM을 잘 못해요/고구마는 감자의 친척이아님/수인?/모쏠/매우낮은확률로 NSFW RT함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Sun Oct 21 10:49:49 +0000 2018",
+			"favourites_count": 2850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130421495610478592/_SWgB1vj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130421495610478592/_SWgB1vj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053961549809741827/1554187353",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "취미로 과외를 하는 사람이다 https://t.co/YWpsNnRQKY"
+	},
+	{
+		"created_at": "Sat May 25 17:10:20 +0000 2019",
+		"id": 1132238824182935600,
+		"id_str": "1132333087663124480",
+		"full_text": "“김 원장은 직원들이 환자에 대해 알려주는 텔레그램 대화 내용으로 환자 상태에 대해 감을 잡은 다음, 화장실을 가면서 대기 중인 환자의 얼굴을 확인하는 방식으로 ‘대면 진료’를 했으며 또 “상태가 안정적인 환자들은 제가 진료실 안에서 CCTV로 다 보고 있다”고 말했다” https://t.co/HFL9R0BRm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HFL9R0BRm9",
+					"expanded_url": "https://news.v.daum.net/v/20190525180235452?f=m",
+					"display_url": "news.v.daum.net/v/201905251802…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1894893595,
+			"id_str": "1894893595",
+			"name": "케쉐르",
+			"screen_name": "Manong_Eirene",
+			"location": "트월드",
+			"description": "비금융정보 신용평가 회사원님. 저는 맞춤법을 잘 압니다. 틀리게 쓰는 것이 있다면 그것은 드립입니다",
+			"url": "https://t.co/4cWHhHs12t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cWHhHs12t",
+							"expanded_url": "http://ask.fm/manong_eirene2",
+							"display_url": "ask.fm/manong_eirene2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7641,
+			"friends_count": 368,
+			"listed_count": 143,
+			"created_at": "Sun Sep 22 19:39:31 +0000 2013",
+			"favourites_count": 3048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 571254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129284164526587904/zsCPQFmq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129284164526587904/zsCPQFmq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1894893595/1554467840",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“김 원장은 직원들이 환자에 대해 알려주는 텔레그램 대화 내용으로 환자 상태에 대해 감을 잡은 다음, 화장실을 가면서 대기 중인 환자의 얼굴을 확인하는 방식으로 ‘대면 진료’를 했으며 또 “상태가 안정적인 환자들은 제가 진료실 안에서 CCTV로 다 보고 있다”고 말했다” https://t.co/HFL9R0BRm9"
+	},
+	{
 		"created_at": "Sat May 25 07:58:41 +0000 2019",
 		"id": 1132141762292506600,
 		"id_str": "1132194259136684033",
@@ -2191,7 +2458,7 @@ Grailbird.data.tweets_2019_05 =
 			"user": {
 				"id": 2969231070,
 				"id_str": "2969231070",
-				"name": "이몽 🧙‍♀️",
+				"name": "이몽 🧙♀️",
 				"screen_name": "_2mong",
 				"location": "",
 				"description": "It’s hot outside and womyn decided to do something with her life . feminist . bisexual . living with ADHD .",
