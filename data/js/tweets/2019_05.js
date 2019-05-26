@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 05:51:43 +0000 2019",
+		"id": 1019781487741157400,
+		"id_str": "1132524696832839680",
+		"full_text": "댄디 보수 X\n강남 8학군 &amp; SKY &amp; 개신교 근본주의 &amp; 극우 (O)\n\nhttps://t.co/cvTMclbZjr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cvTMclbZjr",
+					"expanded_url": "http://news.chosun.com/site/data/html_dir/2018/07/19/2018071900202.html",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "주공에 살던 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8372,
+			"friends_count": 626,
+			"listed_count": 146,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 269798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112395694701047810/yn9Z_f2H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1554050986",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3128,
+		"favorite_count": 585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "댄디 보수 X\n강남 8학군 &amp; SKY &amp; 개신교 근본주의 &amp; 극우 (O)\n\nhttps://t.co/cvTMclbZjr"
+	},
+	{
 		"created_at": "Sun May 26 05:00:25 +0000 2019",
 		"id": 1132235537157255200,
 		"id_str": "1132511784332476417",
