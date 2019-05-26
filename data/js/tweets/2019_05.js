@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 22:54:17 +0000 2019",
+		"id": 1132653454357254100,
+		"id_str": "1132782034911354880",
+		"full_text": "와시발 존나웃긴다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/lF4gvgFVTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132653326162546700,
+					"id_str": "1132653326162546688",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D7f-MveVUAAEclJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7f-MveVUAAEclJ.jpg",
+					"url": "https://t.co/lF4gvgFVTJ",
+					"display_url": "pic.twitter.com/lF4gvgFVTJ",
+					"expanded_url": "https://twitter.com/TheFact_JJ/status/1132653454357254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132653326162546700,
+					"id_str": "1132653326162546688",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D7f-MveVUAAEclJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7f-MveVUAAEclJ.jpg",
+					"url": "https://t.co/lF4gvgFVTJ",
+					"display_url": "pic.twitter.com/lF4gvgFVTJ",
+					"expanded_url": "https://twitter.com/TheFact_JJ/status/1132653454357254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132653432127365100,
+					"id_str": "1132653432127365121",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D7f-S6OUIAEoDay.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7f-S6OUIAEoDay.png",
+					"url": "https://t.co/lF4gvgFVTJ",
+					"display_url": "pic.twitter.com/lF4gvgFVTJ",
+					"expanded_url": "https://twitter.com/TheFact_JJ/status/1132653454357254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 506,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 506,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468106321,
+			"id_str": "468106321",
+			"name": "지 주½",
+			"screen_name": "TheFact_JJ",
+			"location": "",
+			"description": "우리가 함께있으면\n문득 행복하고 자주 괴롭겠지",
+			"url": "https://t.co/zObqSvycwv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zObqSvycwv",
+							"expanded_url": "https://open.kakao.com/o/s3Sj5TC",
+							"display_url": "open.kakao.com/o/s3Sj5TC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1396,
+			"friends_count": 731,
+			"listed_count": 15,
+			"created_at": "Thu Jan 19 05:30:52 +0000 2012",
+			"favourites_count": 3589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 326383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101288464190849025/JMBBTop6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101288464190849025/JMBBTop6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468106321/1557853024",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와시발 존나웃긴다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/lF4gvgFVTJ"
+	},
+	{
 		"created_at": "Sun May 26 16:56:09 +0000 2019",
 		"id": 1132684632460320800,
 		"id_str": "1132691905915998208",
