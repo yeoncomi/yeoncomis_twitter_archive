@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 00:03:24 +0000 2019",
+		"id": 1132436613454106600,
+		"id_str": "1132437039201210369",
+		"full_text": "503때 기무사 ㅋㅋ 놀이터에서 놀고있는 꼬맹이들 까지 사찰했었네 ㅋㅋ \n역시 범죄자정권.... https://t.co/WzvJ6FEWWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132436449641373700,
+					"id_str": "1132436449641373696",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D7c483eUIAABnb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7c483eUIAABnb2.png",
+					"url": "https://t.co/WzvJ6FEWWo",
+					"display_url": "pic.twitter.com/WzvJ6FEWWo",
+					"expanded_url": "https://twitter.com/ELID00/status/1132436613454106624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132436449641373700,
+					"id_str": "1132436449641373696",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D7c483eUIAABnb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7c483eUIAABnb2.png",
+					"url": "https://t.co/WzvJ6FEWWo",
+					"display_url": "pic.twitter.com/WzvJ6FEWWo",
+					"expanded_url": "https://twitter.com/ELID00/status/1132436613454106624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107410295910096900,
+			"id_str": "1107410295910096896",
+			"name": "ELID",
+			"screen_name": "ELID00",
+			"location": "",
+			"description": "그림공부중\n\nPIXIV : https://t.co/oj0nWS350i\n\n프사 : https://t.co/D6KBuIwrjW",
+			"url": "https://t.co/oj0nWS350i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oj0nWS350i",
+							"expanded_url": "https://www.pixiv.net/member.php?id=758366",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								15,
+								38
+							]
+						},
+						{
+							"url": "https://t.co/D6KBuIwrjW",
+							"expanded_url": "https://twitter.com/wooperfuri/status/1115378184541704192",
+							"display_url": "twitter.com/wooperfuri/sta…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Sun Mar 17 22:36:04 +0000 2019",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132281847423963136/Pdakm2EZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132281847423963136/Pdakm2EZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107410295910096896/1557617209",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "503때 기무사 ㅋㅋ 놀이터에서 놀고있는 꼬맹이들 까지 사찰했었네 ㅋㅋ \n역시 범죄자정권.... https://t.co/WzvJ6FEWWo"
+	},
+	{
 		"created_at": "Sat May 25 20:26:50 +0000 2019",
 		"id": 1132382540331798500,
 		"id_str": "1132382540331798528",
