@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 07:50:34 +0000 2019",
+		"id": 1132554605651349500,
+		"id_str": "1132554605651349504",
+		"full_text": "@hibiyasleep 징거더블다운 포장도 바뀌었네요.. 사이즈도 커졌어... 2015년하고는 확연히 다르군요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hibiyasleep",
+					"name": "히비야가 쏘아올린 어려운 1d100",
+					"id": 2257896974,
+					"id_str": "2257896974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132553620547821600,
+		"in_reply_to_status_id_str": "1132553620547821568",
+		"in_reply_to_user_id": 2257896974,
+		"in_reply_to_user_id_str": "2257896974",
+		"in_reply_to_screen_name": "hibiyasleep",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1054,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hibiyasleep 징거더블다운 포장도 바뀌었네요.. 사이즈도 커졌어... 2015년하고는 확연히 다르군요"
+	},
+	{
+		"created_at": "Sun May 26 07:43:35 +0000 2019",
+		"id": 1132550893021171700,
+		"id_str": "1132552846958768131",
+		"full_text": "프랑스어 놀리는 미국인들 https://t.co/DyLuC6wpd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132550890282397700,
+					"id_str": "1132550890282397697",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ehCMFVsAE9XWA.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7ehCMFVsAE9XWA.png",
+					"url": "https://t.co/DyLuC6wpd4",
+					"display_url": "pic.twitter.com/DyLuC6wpd4",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1132550893021171713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132550890282397700,
+					"id_str": "1132550890282397697",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ehCMFVsAE9XWA.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7ehCMFVsAE9XWA.png",
+					"url": "https://t.co/DyLuC6wpd4",
+					"display_url": "pic.twitter.com/DyLuC6wpd4",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1132550893021171713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/YakIWhm56h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YakIWhm56h",
+							"expanded_url": "https://youtu.be/evDOp8HzGfY",
+							"display_url": "youtu.be/evDOp8HzGfY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1792,
+			"friends_count": 371,
+			"listed_count": 26,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126144626090364930/7w_jsSsl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126144626090364930/7w_jsSsl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프랑스어 놀리는 미국인들 https://t.co/DyLuC6wpd4"
+	},
+	{
 		"created_at": "Sun May 26 05:51:43 +0000 2019",
 		"id": 1019781487741157400,
 		"id_str": "1132524696832839680",
