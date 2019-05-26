@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 05:00:25 +0000 2019",
+		"id": 1132235537157255200,
+		"id_str": "1132511784332476417",
+		"full_text": "예수께서 가라사대 https://t.co/1MASC1AkV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132235529607454700,
+					"id_str": "1132235529607454721",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D7aCNyBUIAEvLB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7aCNyBUIAEvLB9.jpg",
+					"url": "https://t.co/1MASC1AkV9",
+					"display_url": "pic.twitter.com/1MASC1AkV9",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1132235537157255169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132235529607454700,
+					"id_str": "1132235529607454721",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D7aCNyBUIAEvLB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7aCNyBUIAEvLB9.jpg",
+					"url": "https://t.co/1MASC1AkV9",
+					"display_url": "pic.twitter.com/1MASC1AkV9",
+					"expanded_url": "https://twitter.com/Aririkawaii/status/1132235537157255169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700605175073886200,
+			"id_str": "700605175073886210",
+			"name": "아콩",
+			"screen_name": "Aririkawaii",
+			"location": "",
+			"description": "언팔은 오류나 실수임",
+			"url": "https://t.co/YakIWhm56h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YakIWhm56h",
+							"expanded_url": "https://youtu.be/evDOp8HzGfY",
+							"display_url": "youtu.be/evDOp8HzGfY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1793,
+			"friends_count": 371,
+			"listed_count": 26,
+			"created_at": "Fri Feb 19 08:57:45 +0000 2016",
+			"favourites_count": 24909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126144626090364930/7w_jsSsl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126144626090364930/7w_jsSsl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700605175073886210/1546265158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예수께서 가라사대 https://t.co/1MASC1AkV9"
+	},
+	{
 		"created_at": "Sun May 26 04:07:17 +0000 2019",
 		"id": 1132498416418918400,
 		"id_str": "1132498416418918406",
@@ -855,7 +1029,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Sun May 26 03:32:48 +0000 2019",
 		"id": 1132489303383261200,
 		"id_str": "1132489738428997632",
-		"full_text": "This week in security snafus:\n👻Snapchat employees spied on private snaps\n🚘A license plate surveillance company got hacked\n🛡️Baltimore is still crippled by a ransomware attack\n🏌️‍♂️Trump's golf score got hacked\n\nhttps://t.co/PzsqJT7Suc",
+		"full_text": "This week in security snafus:\n👻Snapchat employees spied on private snaps\n🚘A license plate surveillance company got hacked\n🛡️Baltimore is still crippled by a ransomware attack\n🏌️♂️Trump's golf score got hacked\n\nhttps://t.co/PzsqJT7Suc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -942,7 +1116,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "This week in security snafus:\n👻Snapchat employees spied on private snaps\n🚘A license plate surveillance company got hacked\n🛡️Baltimore is still crippled by a ransomware attack\n🏌️‍♂️Trump's golf score got hacked\n\nhttps://t.co/PzsqJT7Suc"
+		"text": "This week in security snafus:\n👻Snapchat employees spied on private snaps\n🚘A license plate surveillance company got hacked\n🛡️Baltimore is still crippled by a ransomware attack\n🏌️♂️Trump's golf score got hacked\n\nhttps://t.co/PzsqJT7Suc"
 	},
 	{
 		"created_at": "Sun May 26 03:32:19 +0000 2019",
