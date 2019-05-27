@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 16:33:06 +0000 2019",
+		"id": 1133032018835583000,
+		"id_str": "1133048493000388608",
+		"full_text": "1388은 걍..\n\n오늘 밥먹었어요\n-그렇군요.. 울친구가 오늘 밥을 먹었군요?\n\n죽고싶어요\n-울친구가 많이 힘들군요..\n\n저는미친씹개병신년이에요\n-그렇군요.. 울친구는 스스로를 미친씹개병신년이라고 생각하는거군요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728463159875412000,
+			"id_str": "728463159875411968",
+			"name": "와루이",
+			"screen_name": "0q3q0",
+			"location": "내 위치 찾기",
+			"description": "",
+			"url": "https://t.co/6IhAOFxz68",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6IhAOFxz68",
+							"expanded_url": "http://cubi.so",
+							"display_url": "cubi.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Fri May 06 05:55:26 +0000 2016",
+			"favourites_count": 2707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132713207607496706/x7Uh5h0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132713207607496706/x7Uh5h0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728463159875411968/1555316449",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1388은 걍..\n\n오늘 밥먹었어요\n-그렇군요.. 울친구가 오늘 밥을 먹었군요?\n\n죽고싶어요\n-울친구가 많이 힘들군요..\n\n저는미친씹개병신년이에요\n-그렇군요.. 울친구는 스스로를 미친씹개병신년이라고 생각하는거군요?"
+	},
+	{
+		"created_at": "Mon May 27 16:31:47 +0000 2019",
+		"id": 1133048047087366100,
+		"id_str": "1133048163621752840",
+		"full_text": "BREAKING: Jane Philpott announces she will run as an independent in the federal election #cdnpoli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cdnpoli",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124302756,
+			"id_str": "124302756",
+			"name": "Vassy Kapelos",
+			"screen_name": "VassyKapelos",
+			"location": "Ottawa, Ontario",
+			"description": "@PnPCBC host covering #cdnpoli 🤓. M-F @CBCNews 5pm ET. Story idea? Vassy.kapelos@cbc.ca",
+			"url": "https://t.co/PaGakpirS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PaGakpirS9",
+							"expanded_url": "http://Instagram.com/vassykapelos",
+							"display_url": "Instagram.com/vassykapelos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37720,
+			"friends_count": 7011,
+			"listed_count": 607,
+			"created_at": "Thu Mar 18 23:38:37 +0000 2010",
+			"favourites_count": 7294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732375752327483392/FNYhsjds_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732375752327483392/FNYhsjds_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124302756/1520291350",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Jane Philpott announces she will run as an independent in the federal election #cdnpoli"
+	},
+	{
 		"created_at": "Mon May 27 16:14:51 +0000 2019",
 		"id": 1132991091337191400,
 		"id_str": "1133043902368235520",
