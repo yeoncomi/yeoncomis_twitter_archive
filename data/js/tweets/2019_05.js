@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 16:14:51 +0000 2019",
+		"id": 1132991091337191400,
+		"id_str": "1133043902368235520",
+		"full_text": "워게이밍의 마케팅 전략 https://t.co/AwytDS7NcK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132991037922656300,
+					"id_str": "1132991037922656256",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kxWJ0UwAABvds.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7kxWJ0UwAABvds.png",
+					"url": "https://t.co/AwytDS7NcK",
+					"display_url": "pic.twitter.com/AwytDS7NcK",
+					"expanded_url": "https://twitter.com/Luxuryseo/status/1132991091337191425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132991037922656300,
+					"id_str": "1132991037922656256",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kxWJ0UwAABvds.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7kxWJ0UwAABvds.png",
+					"url": "https://t.co/AwytDS7NcK",
+					"display_url": "pic.twitter.com/AwytDS7NcK",
+					"expanded_url": "https://twitter.com/Luxuryseo/status/1132991091337191425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 222,
+							"h": 208,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1132991055966527500,
+					"id_str": "1132991055966527489",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kxXNCUYAEu6sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7kxXNCUYAEu6sg.jpg",
+					"url": "https://t.co/AwytDS7NcK",
+					"display_url": "pic.twitter.com/AwytDS7NcK",
+					"expanded_url": "https://twitter.com/Luxuryseo/status/1132991091337191425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 272,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 330,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128495598,
+			"id_str": "128495598",
+			"name": "Luxury",
+			"screen_name": "Luxuryseo",
+			"location": "seoul, south korea",
+			"description": "三森すずこ♥ / 宮脇咲良♥ / 강혜원 / μ's / IZ*ONE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1831,
+			"friends_count": 1147,
+			"listed_count": 41,
+			"created_at": "Thu Apr 01 08:46:24 +0000 2010",
+			"favourites_count": 10458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 283136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112723085394796545/IkV1T3sF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112723085394796545/IkV1T3sF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128495598/1534083682",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "워게이밍의 마케팅 전략 https://t.co/AwytDS7NcK"
+	},
+	{
+		"created_at": "Mon May 27 16:05:28 +0000 2019",
+		"id": 1133041268123152400,
+		"id_str": "1133041539427340288",
+		"full_text": "BREAKING: Jody Wilson Raybould announces she will run in 2019 federal election as an independent #cdnpoli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cdnpoli",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124302756,
+			"id_str": "124302756",
+			"name": "Vassy Kapelos",
+			"screen_name": "VassyKapelos",
+			"location": "Ottawa, Ontario",
+			"description": "@PnPCBC host covering #cdnpoli 🤓. M-F @CBCNews 5pm ET. Story idea? Vassy.kapelos@cbc.ca",
+			"url": "https://t.co/PaGakpirS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PaGakpirS9",
+							"expanded_url": "http://Instagram.com/vassykapelos",
+							"display_url": "Instagram.com/vassykapelos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37715,
+			"friends_count": 7011,
+			"listed_count": 606,
+			"created_at": "Thu Mar 18 23:38:37 +0000 2010",
+			"favourites_count": 7294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732375752327483392/FNYhsjds_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732375752327483392/FNYhsjds_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124302756/1520291350",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Jody Wilson Raybould announces she will run in 2019 federal election as an independent #cdnpoli"
+	},
+	{
+		"created_at": "Mon May 27 16:01:51 +0000 2019",
+		"id": 1132966721021722600,
+		"id_str": "1133040628219035650",
+		"full_text": "빡치게 하네 https://t.co/mPB2TEbuQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132966717645348900,
+					"id_str": "1132966717645348864",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kbOhuXYAAhAc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7kbOhuXYAAhAc7.jpg",
+					"url": "https://t.co/mPB2TEbuQ1",
+					"display_url": "pic.twitter.com/mPB2TEbuQ1",
+					"expanded_url": "https://twitter.com/18__CM_/status/1132966721021722625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132966717645348900,
+					"id_str": "1132966717645348864",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D7kbOhuXYAAhAc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7kbOhuXYAAhAc7.jpg",
+					"url": "https://t.co/mPB2TEbuQ1",
+					"display_url": "pic.twitter.com/mPB2TEbuQ1",
+					"expanded_url": "https://twitter.com/18__CM_/status/1132966721021722625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1897513123,
+			"id_str": "1897513123",
+			"name": "CM",
+			"screen_name": "18__CM_",
+			"location": "",
+			"description": "A28 | 관켸 애래쉬 웹소설 처돌이 | FUB Free",
+			"url": "https://t.co/zIB2onO5gK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zIB2onO5gK",
+							"expanded_url": "https://ask.fm/Grizzlycm",
+							"display_url": "ask.fm/Grizzlycm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 151,
+			"listed_count": 6,
+			"created_at": "Mon Sep 23 14:35:06 +0000 2013",
+			"favourites_count": 43513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130541026689654786/q-oO_9Cv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130541026689654786/q-oO_9Cv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1897513123/1551877261",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빡치게 하네 https://t.co/mPB2TEbuQ1"
+	},
+	{
+		"created_at": "Mon May 27 15:59:42 +0000 2019",
+		"id": 1132604373643567100,
+		"id_str": "1133040089812963328",
+		"full_text": "답은 아래 세 자연수입니다\n진심이요\n\n154476802108746166441951315019919837485664325669565431700026634898253202035277999,\n36875131794129999827197811565225474825492979968971970996283137471637224634055579,\n4373612677928697257861252602371390152816537558161613618621437993378423467772036 https://t.co/w72mI3ezlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w72mI3ezlY",
+					"expanded_url": "https://twitter.com/Leegwa_angry/status/1132542101567053824",
+					"display_url": "twitter.com/Leegwa_angry/s…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951758520780709900,
+			"id_str": "951758520780709888",
+			"name": "[0℃ 물] 𝔸𝐥𝖊𝚙𝓱 | 알레프",
+			"screen_name": "AlephNote",
+			"location": "AlephLust",
+			"description": "Team GL, QR, NV / 에스크: https://t.co/vokZwagPya",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vokZwagPya",
+							"expanded_url": "http://ask.shiftp.sh/AlephNote",
+							"display_url": "ask.shiftp.sh/AlephNote",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 271,
+			"listed_count": 9,
+			"created_at": "Fri Jan 12 10:11:28 +0000 2018",
+			"favourites_count": 11448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079935432702357509/ICeU8pul_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079935432702357509/ICeU8pul_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951758520780709888/1542705395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132542101567053800,
+		"quoted_status_id_str": "1132542101567053824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w72mI3ezlY",
+			"expanded": "https://twitter.com/Leegwa_angry/status/1132542101567053824",
+			"display": "twitter.com/Leegwa_angry/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 07:00:53 +0000 2019",
+			"id": 1132542101567053800,
+			"id_str": "1132542101567053824",
+			"full_text": "지인한테 받은 건데요. 이건 답이 무엇일까요 https://t.co/yegy0Jjea1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1132542099763503100,
+						"id_str": "1132542099763503104",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/D7eZCg2UIAAYnoQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7eZCg2UIAAYnoQ.jpg",
+						"url": "https://t.co/yegy0Jjea1",
+						"display_url": "pic.twitter.com/yegy0Jjea1",
+						"expanded_url": "https://twitter.com/Leegwa_angry/status/1132542101567053824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132542099763503100,
+						"id_str": "1132542099763503104",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/D7eZCg2UIAAYnoQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7eZCg2UIAAYnoQ.jpg",
+						"url": "https://t.co/yegy0Jjea1",
+						"display_url": "pic.twitter.com/yegy0Jjea1",
+						"expanded_url": "https://twitter.com/Leegwa_angry/status/1132542101567053824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3810768140,
+				"id_str": "3810768140",
+				"name": "이과한숨봇",
+				"screen_name": "Leegwa_angry",
+				"location": "캡처가능(이름 가리지 마세요)FUB Free",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27383,
+				"friends_count": 19,
+				"listed_count": 55,
+				"created_at": "Wed Oct 07 05:02:53 +0000 2015",
+				"favourites_count": 1785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14879,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1100300863770259456/9GKtSm2F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100300863770259456/9GKtSm2F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3810768140/1557219591",
+				"profile_link_color": "00FFFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 352,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 257,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "답은 아래 세 자연수입니다\n진심이요\n\n154476802108746166441951315019919837485664325669565431700026634898253202035277999,\n36875131794129999827197811565225474825492979968971970996283137471637224634055579,\n4373612677928697257861252602371390152816537558161613618621437993378423467772036 https://t.co/w72mI3ezlY"
+	},
+	{
+		"created_at": "Mon May 27 15:55:18 +0000 2019",
+		"id": 1132924583659446300,
+		"id_str": "1133038981006782464",
+		"full_text": "암담하다... 공교육이 대체 얼마나 무너졌길래, 경찰을 사병집단으로 알고있었나? https://t.co/kSkRxnOEdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132924557742886900,
+					"id_str": "1132924557742886912",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D7j04f2U0AA28lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7j04f2U0AA28lL.jpg",
+					"url": "https://t.co/kSkRxnOEdG",
+					"display_url": "pic.twitter.com/kSkRxnOEdG",
+					"expanded_url": "https://twitter.com/mNuuoGelvyikQhv/status/1132924583659446277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 859,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132924557742886900,
+					"id_str": "1132924557742886912",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D7j04f2U0AA28lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7j04f2U0AA28lL.jpg",
+					"url": "https://t.co/kSkRxnOEdG",
+					"display_url": "pic.twitter.com/kSkRxnOEdG",
+					"expanded_url": "https://twitter.com/mNuuoGelvyikQhv/status/1132924583659446277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 859,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132924568006299600,
+					"id_str": "1132924568006299648",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D7j05GFUEAAacxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7j05GFUEAAacxR.jpg",
+					"url": "https://t.co/kSkRxnOEdG",
+					"display_url": "pic.twitter.com/kSkRxnOEdG",
+					"expanded_url": "https://twitter.com/mNuuoGelvyikQhv/status/1132924583659446277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734269459318247400,
+			"id_str": "734269459318247424",
+			"name": "어항관리하는 BaJi",
+			"screen_name": "mNuuoGelvyikQhv",
+			"location": "조선",
+			"description": "당신의 탐라에 어항 하나 들여놓으시겠습니까?\n#출근충 #어항 #물생활",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421,
+			"friends_count": 1933,
+			"listed_count": 3,
+			"created_at": "Sun May 22 06:27:35 +0000 2016",
+			"favourites_count": 11501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126070502143873024/tBZByCIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126070502143873024/tBZByCIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734269459318247424/1557311170",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "암담하다... 공교육이 대체 얼마나 무너졌길래, 경찰을 사병집단으로 알고있었나? https://t.co/kSkRxnOEdG"
+	},
+	{
 		"created_at": "Mon May 27 14:51:11 +0000 2019",
 		"id": 1132854176218665000,
 		"id_str": "1133022846655983618",
