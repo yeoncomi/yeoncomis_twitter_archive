@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 01:03:30 +0000 2019",
+		"id": 1132813672122900500,
+		"id_str": "1132814550800056320",
+		"full_text": "아버지 동의서를 제출했더니 재판부가 ‘부모’라는 글자를 내세워 어머니 동의서도 제출하라고 한 사례도 있다. 상황이 이렇다 보니 ‘괜찮은’ 판사를 찾아 법원을 옮겨다니는 일도 있다고 한다.\n\n성별 정정에 ‘부모 동의서’ 필요한가요?…트랜스젠더 울리는 ‘대법원 예규’\nhttps://t.co/Ln8rrfloxk https://t.co/VKT1VmfUx5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ln8rrfloxk",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/895411.html",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132780852465754100,
+					"id_str": "1132780852465754113",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D7hyLv-V4AEnT_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7hyLv-V4AEnT_U.jpg",
+					"url": "https://t.co/VKT1VmfUx5",
+					"display_url": "pic.twitter.com/VKT1VmfUx5",
+					"expanded_url": "https://twitter.com/hanitweet/status/1132813672122900480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 847,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 847,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132780852465754100,
+					"id_str": "1132780852465754113",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D7hyLv-V4AEnT_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7hyLv-V4AEnT_U.jpg",
+					"url": "https://t.co/VKT1VmfUx5",
+					"display_url": "pic.twitter.com/VKT1VmfUx5",
+					"expanded_url": "https://twitter.com/hanitweet/status/1132813672122900480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 847,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 693,
+							"h": 847,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문 한겨레 공식 트위터입니다.",
+			"url": "http://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568481,
+			"friends_count": 146785,
+			"listed_count": 7848,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아버지 동의서를 제출했더니 재판부가 ‘부모’라는 글자를 내세워 어머니 동의서도 제출하라고 한 사례도 있다. 상황이 이렇다 보니 ‘괜찮은’ 판사를 찾아 법원을 옮겨다니는 일도 있다고 한다.\n\n성별 정정에 ‘부모 동의서’ 필요한가요?…트랜스젠더 울리는 ‘대법원 예규’\nhttps://t.co/Ln8rrfloxk https://t.co/VKT1VmfUx5"
+	},
+	{
+		"created_at": "Mon May 27 01:03:04 +0000 2019",
+		"id": 1132613859544453100,
+		"id_str": "1132814443325284352",
+		"full_text": "알아서 패망의 길로 달려가는 중 https://t.co/DOlPdhK0qK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132613857241788400,
+					"id_str": "1132613857241788420",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7faTWSU8AQ8_Go.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7faTWSU8AQ8_Go.jpg",
+					"url": "https://t.co/DOlPdhK0qK",
+					"display_url": "pic.twitter.com/DOlPdhK0qK",
+					"expanded_url": "https://twitter.com/sewoosil/status/1132613859544453121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132613857241788400,
+					"id_str": "1132613857241788420",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D7faTWSU8AQ8_Go.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7faTWSU8AQ8_Go.jpg",
+					"url": "https://t.co/DOlPdhK0qK",
+					"display_url": "pic.twitter.com/DOlPdhK0qK",
+					"expanded_url": "https://twitter.com/sewoosil/status/1132613859544453121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66627692,
+			"id_str": "66627692",
+			"name": "𝙨𝙚𝙬𝙤𝙤𝙨𝙞𝙡",
+			"screen_name": "sewoosil",
+			"location": "37.500015,127.036564",
+			"description": "생활의 일부분으로서의 정치에 관심 많은 웹개발자이자 태지매니아, 특히 효연이가 아이돌의 완전체라 생각하는 광적인 소녀시대 덕후. 해물과 회에 환장하는 연예 누리꾼. 일베충, 워마드는 무조건 차단합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6358,
+			"friends_count": 793,
+			"listed_count": 233,
+			"created_at": "Tue Aug 18 07:58:25 +0000 2009",
+			"favourites_count": 2140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128092480899911680/k-cnEES4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128092480899911680/k-cnEES4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66627692/1553236917",
+			"profile_link_color": "FFABA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알아서 패망의 길로 달려가는 중 https://t.co/DOlPdhK0qK"
+	},
+	{
+		"created_at": "Mon May 27 00:47:19 +0000 2019",
+		"id": 1130116183175249900,
+		"id_str": "1132810479242342400",
+		"full_text": "퀴어들 진짜 개웃겨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/iPSVrQLcQY https://t.co/dRrU9Sufi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iPSVrQLcQY",
+					"expanded_url": "https://www.facebook.com/1395292247396427/posts/2366547076937601/",
+					"display_url": "facebook.com/13952922473964…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130116170332250100,
+					"id_str": "1130116170332250112",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D676q1eUIAAd1Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D676q1eUIAAd1Zm.jpg",
+					"url": "https://t.co/dRrU9Sufi9",
+					"display_url": "pic.twitter.com/dRrU9Sufi9",
+					"expanded_url": "https://twitter.com/dummysecret/status/1130116183175249920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 2032,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130116170332250100,
+					"id_str": "1130116170332250112",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/D676q1eUIAAd1Zm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D676q1eUIAAd1Zm.jpg",
+					"url": "https://t.co/dRrU9Sufi9",
+					"display_url": "pic.twitter.com/dRrU9Sufi9",
+					"expanded_url": "https://twitter.com/dummysecret/status/1130116183175249920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 2032,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935491085438091300,
+			"id_str": "935491085438091267",
+			"name": "이삭熪朔 서퀴자활안전팀",
+			"screen_name": "dummysecret",
+			"location": "수도권",
+			"description": "✝️ / ☀️⬛️♥️⚪️☘️ / 🏳️‍🌈☂️⨂ / GQ집행부깍두기 / 드립계 @dummysecdlib",
+			"url": "https://t.co/2RS8ogCPrQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2RS8ogCPrQ",
+							"expanded_url": "http://ask.fm/dummysecret",
+							"display_url": "ask.fm/dummysecret",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 223,
+			"listed_count": 1,
+			"created_at": "Tue Nov 28 12:50:30 +0000 2017",
+			"favourites_count": 38118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117935410502463488/pWIrJaWl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117935410502463488/pWIrJaWl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935491085438091267/1539821271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5689,
+		"favorite_count": 1568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퀴어들 진짜 개웃겨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/iPSVrQLcQY https://t.co/dRrU9Sufi9"
+	},
+	{
 		"created_at": "Sun May 26 23:47:22 +0000 2019",
 		"id": 1132795390816731100,
 		"id_str": "1132795390816731136",
