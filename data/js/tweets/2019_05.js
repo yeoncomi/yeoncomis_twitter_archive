@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 03:08:41 +0000 2019",
+		"id": 1132846053869228000,
+		"id_str": "1132846053869228032",
+		"full_text": "@teslamint @perillamint 저는 리트윗 하기전에 닉 이나 프사 이상하면 함 바이오 보고 거르긴 하는데, 확실히 어려워요",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teslamint",
+					"name": "테슬라민트",
+					"id": 35986346,
+					"id_str": "35986346",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "perillamint",
+					"name": "perillamint🧝🧙⚧",
+					"id": 2890022617,
+					"id_str": "2890022617",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132844696818991100,
+		"in_reply_to_status_id_str": "1132844696818991104",
+		"in_reply_to_user_id": 35986346,
+		"in_reply_to_user_id_str": "35986346",
+		"in_reply_to_screen_name": "teslamint",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1054,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132339966116130817/mg2ufDMW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@teslamint @perillamint 저는 리트윗 하기전에 닉 이나 프사 이상하면 함 바이오 보고 거르긴 하는데, 확실히 어려워요"
+	},
+	{
+		"created_at": "Mon May 27 02:38:40 +0000 2019",
+		"id": 1132498034141458400,
+		"id_str": "1132838501865492481",
+		"full_text": "예전에 아베가 골프장에서 몸개그로 트럼프한테 엉덩이까지 까 줬는데도 돌아온건 관세대상국 지정이었음을 떠올려보면, 저 둘은 브로맨스가 아니라 일방적 학대 플레이 아닌가. https://t.co/jpKM0Cgrdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jpKM0Cgrdq",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1132496593704366080",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038571764224159700,
+			"id_str": "1038571764224159744",
+			"name": "死達裸",
+			"screen_name": "fuckminjungdang",
+			"location": "",
+			"description": "축구하자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 115,
+			"listed_count": 7,
+			"created_at": "Sat Sep 08 23:36:19 +0000 2018",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123028419363524608/iW2gV1hM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123028419363524608/iW2gV1hM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038571764224159744/1556798927",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132496593704366100,
+		"quoted_status_id_str": "1132496593704366080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpKM0Cgrdq",
+			"expanded": "https://twitter.com/yonhaptweet/status/1132496593704366080",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 04:00:03 +0000 2019",
+			"id": 1132496593704366100,
+			"id_str": "1132496593704366080",
+			"full_text": "트럼프-아베, 일본서 5번째 골프 라운딩…브로맨스 과시\nhttps://t.co/FO8rZFzXx2\n두 정상은 각자 헬기로 골프장에 도착했고, 아베 총리가 먼저 도착해 헬기 착륙장에서 트럼프 대통령을 맞이했습니다. https://t.co/jjhJy54zC8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FO8rZFzXx2",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20190526020200073?section=search",
+						"display_url": "yna.co.kr/view/AKR201905…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1132496592160907300,
+						"id_str": "1132496592160907264",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/D7dvpn0XYAA_67M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7dvpn0XYAA_67M.jpg",
+						"url": "https://t.co/jjhJy54zC8",
+						"display_url": "pic.twitter.com/jjhJy54zC8",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1132496593704366080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1198,
+								"h": 666,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132496592160907300,
+						"id_str": "1132496592160907264",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/D7dvpn0XYAA_67M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7dvpn0XYAA_67M.jpg",
+						"url": "https://t.co/jjhJy54zC8",
+						"display_url": "pic.twitter.com/jjhJy54zC8",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1132496593704366080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 666,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1198,
+								"h": 666,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "https://t.co/1xjsaY9KNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 304246,
+				"friends_count": 73887,
+				"listed_count": 4807,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 187029,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 86,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전에 아베가 골프장에서 몸개그로 트럼프한테 엉덩이까지 까 줬는데도 돌아온건 관세대상국 지정이었음을 떠올려보면, 저 둘은 브로맨스가 아니라 일방적 학대 플레이 아닌가. https://t.co/jpKM0Cgrdq"
+	},
+	{
 		"created_at": "Mon May 27 01:03:30 +0000 2019",
 		"id": 1132813672122900500,
 		"id_str": "1132814550800056320",
@@ -461,7 +870,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "이삭熪朔 서퀴자활안전팀",
 			"screen_name": "dummysecret",
 			"location": "수도권",
-			"description": "✝️ / ☀️⬛️♥️⚪️☘️ / 🏳️‍🌈☂️⨂ / GQ집행부깍두기 / 드립계 @dummysecdlib",
+			"description": "✝️ / ☀️⬛️♥️⚪️☘️ / 🏳️🌈☂️⨂ / GQ집행부깍두기 / 드립계 @dummysecdlib",
 			"url": "https://t.co/2RS8ogCPrQ",
 			"entities": {
 				"url": {
