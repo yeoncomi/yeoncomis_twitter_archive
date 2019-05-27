@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 20:07:16 +0000 2019",
+		"id": 1133044689559588900,
+		"id_str": "1133102388825346048",
+		"full_text": "I thought I had only imagined this atrocities existence. @cursedcons https://t.co/0iM16JHAk6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cursedcons",
+					"name": "cursed rhythm game controllers",
+					"id": 1047277701516615700,
+					"id_str": "1047277701516615681",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133044681305153500,
+					"id_str": "1133044681305153536",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D7liIm_W4AA-YOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7liIm_W4AA-YOz.jpg",
+					"url": "https://t.co/0iM16JHAk6",
+					"display_url": "pic.twitter.com/0iM16JHAk6",
+					"expanded_url": "https://twitter.com/GayRobot_/status/1133044689559588870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133044681305153500,
+					"id_str": "1133044681305153536",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D7liIm_W4AA-YOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7liIm_W4AA-YOz.jpg",
+					"url": "https://t.co/0iM16JHAk6",
+					"display_url": "pic.twitter.com/0iM16JHAk6",
+					"expanded_url": "https://twitter.com/GayRobot_/status/1133044689559588870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1805,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133044681305145300,
+					"id_str": "1133044681305145344",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D7liIm_WwAAUCKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7liIm_WwAAUCKS.jpg",
+					"url": "https://t.co/0iM16JHAk6",
+					"display_url": "pic.twitter.com/0iM16JHAk6",
+					"expanded_url": "https://twitter.com/GayRobot_/status/1133044689559588870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585301,
+			"id_str": "30585301",
+			"name": "mickeys stepdad",
+			"screen_name": "GayRobot_",
+			"location": "Chicago, IL",
+			"description": "veteran bemani casual 「#DANCERUSH_STARDOM / #弐寺 2P SP 五段」bad gay ramblings. midwestern af. human kernel panic. he/him/they. likes might be nsfw sorry",
+			"url": "https://t.co/rS34ohoqdj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rS34ohoqdj",
+							"expanded_url": "http://instagram.com/gayrobot_",
+							"display_url": "instagram.com/gayrobot_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 596,
+			"listed_count": 21,
+			"created_at": "Sun Apr 12 02:48:38 +0000 2009",
+			"favourites_count": 27119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115361127532257280/GyhYx6A6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115361127532257280/GyhYx6A6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585301/1554757715",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d9a5370a355ab0c",
+			"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+			"place_type": "city",
+			"name": "Chicago",
+			"full_name": "Chicago, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.940033,
+							41.644102
+						],
+						[
+							-87.523993,
+							41.644102
+						],
+						[
+							-87.523993,
+							42.0230669
+						],
+						[
+							-87.940033,
+							42.0230669
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I thought I had only imagined this atrocities existence. @cursedcons https://t.co/0iM16JHAk6"
+	},
+	{
+		"created_at": "Mon May 27 20:06:26 +0000 2019",
+		"id": 1133084032860713000,
+		"id_str": "1133102178900406274",
+		"full_text": "난 이런 거 볼 때마다 인터넷에 나온 글은 믿지마라 -에이브라함 링컨\n\n이거 생각나더라 https://t.co/shtc1HQKuX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133084020122611700,
+					"id_str": "1133084020122611712",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mF6bgUcAAoUbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mF6bgUcAAoUbH.jpg",
+					"url": "https://t.co/shtc1HQKuX",
+					"display_url": "pic.twitter.com/shtc1HQKuX",
+					"expanded_url": "https://twitter.com/UvThr032/status/1133084032860712960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133084020122611700,
+					"id_str": "1133084020122611712",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mF6bgUcAAoUbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mF6bgUcAAoUbH.jpg",
+					"url": "https://t.co/shtc1HQKuX",
+					"display_url": "pic.twitter.com/shtc1HQKuX",
+					"expanded_url": "https://twitter.com/UvThr032/status/1133084032860712960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2660827076,
+			"id_str": "2660827076",
+			"name": "非科学",
+			"screen_name": "UvThr032",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 249,
+			"listed_count": 7,
+			"created_at": "Sat Jul 19 22:33:59 +0000 2014",
+			"favourites_count": 1366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883895350318186496/X1CAOXPr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883895350318186496/X1CAOXPr_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 이런 거 볼 때마다 인터넷에 나온 글은 믿지마라 -에이브라함 링컨\n\n이거 생각나더라 https://t.co/shtc1HQKuX"
+	},
+	{
 		"created_at": "Mon May 27 16:33:06 +0000 2019",
 		"id": 1133032018835583000,
 		"id_str": "1133048493000388608",
