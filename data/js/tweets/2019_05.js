@@ -1,6 +1,1301 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 03:38:15 +0000 2019",
+		"id": 1132650227716935700,
+		"id_str": "1132853496670089216",
+		"full_text": "@ 아시발 신천지 14만명 넘어서 선택된 사람들만 천국간대 프로듀스 신천지시발 지금 울고잇음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128874987400511500,
+			"id_str": "1128874987400511488",
+			"name": "채리",
+			"screen_name": "churrodanc3",
+			"location": "",
+			"description": "이 심은 멍청이 스타일입니다",
+			"url": "https://t.co/DQ92nVFskF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DQ92nVFskF",
+							"expanded_url": "https://kurorekishi.me/cleaner/getstarted",
+							"display_url": "kurorekishi.me/cleaner/getsta…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 134,
+			"listed_count": 2,
+			"created_at": "Thu May 16 04:09:05 +0000 2019",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131415049128402944/1Wuu3VFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131415049128402944/1Wuu3VFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128874987400511488/1557980055",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3977,
+		"favorite_count": 616,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@ 아시발 신천지 14만명 넘어서 선택된 사람들만 천국간대 프로듀스 신천지시발 지금 울고잇음"
+	},
+	{
+		"created_at": "Mon May 27 03:37:35 +0000 2019",
+		"id": 1132851988406734800,
+		"id_str": "1132853327748771840",
+		"full_text": "#AMD 발표정리\n\n1) RX 5700 의 발표.  RTX 2070 과 동급 혹은 10% 성능향상, 7월 발매예정\n\n2) 라이젠 3세대. 3700X, 3800X, 3900X 발표.\n\n인텔 I7-9700K, 9900K, 9920X 보다 동급 혹은 그 이상 성능\n\n7월에 발매예정.\n\n8코어 / 16스레드 , 12코어 / 24스레드.\n\n329달러 / 399달러 / 499달러. https://t.co/Bh3Wuci4ZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMD",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132851653013454800,
+					"id_str": "1132851653013454849",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+					"url": "https://t.co/Bh3Wuci4ZH",
+					"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 941,
+							"h": 401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 941,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132851653013454800,
+					"id_str": "1132851653013454849",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+					"url": "https://t.co/Bh3Wuci4ZH",
+					"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 941,
+							"h": 401,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 941,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132851675897581600,
+					"id_str": "1132851675897581568",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iymN0U0AAeZPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iymN0U0AAeZPT.jpg",
+					"url": "https://t.co/Bh3Wuci4ZH",
+					"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 918,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132851689118097400,
+					"id_str": "1132851689118097408",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iym_EV4AAO6jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iym_EV4AAO6jd.jpg",
+					"url": "https://t.co/Bh3Wuci4ZH",
+					"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 925,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132851722068480000,
+					"id_str": "1132851722068480000",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iyo50U0AAR7BC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iyo50U0AAR7BC.jpg",
+					"url": "https://t.co/Bh3Wuci4ZH",
+					"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 940,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866698851989585900,
+			"id_str": "866698851989585920",
+			"name": "바른 피씨 공방",
+			"screen_name": "Barun_PC_Store",
+			"location": "서울시 용산 선인상가 21동 2층 4-1호",
+			"description": "트위터 1등 판매처, 바른 PC 공방!  구입 문의 및 상담은 DM이나 멘션으로 언제든 연락주세요 😀 문의는 DM이나 오픈 카톡으로 https://t.co/mZ3HgQdI5u",
+			"url": "https://t.co/XTBoG1HJR5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTBoG1HJR5",
+							"expanded_url": "https://smartstore.naver.com/barunpc",
+							"display_url": "smartstore.naver.com/barunpc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mZ3HgQdI5u",
+							"expanded_url": "https://open.kakao.com/o/sAcBHOx",
+							"display_url": "open.kakao.com/o/sAcBHOx",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17223,
+			"friends_count": 0,
+			"listed_count": 56,
+			"created_at": "Mon May 22 16:54:43 +0000 2017",
+			"favourites_count": 957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866698851989585920/1532077154",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#AMD 발표정리\n\n1) RX 5700 의 발표.  RTX 2070 과 동급 혹은 10% 성능향상, 7월 발매예정\n\n2) 라이젠 3세대. 3700X, 3800X, 3900X 발표.\n\n인텔 I7-9700K, 9900K, 9920X 보다 동급 혹은 그 이상 성능\n\n7월에 발매예정.\n\n8코어 / 16스레드 , 12코어 / 24스레드.\n\n329달러 / 399달러 / 499달러. https://t.co/Bh3Wuci4ZH"
+	},
+	{
+		"created_at": "Mon May 27 03:37:30 +0000 2019",
+		"id": 1132853033463795700,
+		"id_str": "1132853307074940929",
+		"full_text": "젠2와 AMD 발표 소식을 축하드립니다 &gt; _ &lt;!!! \n\n그와 동시에, 우리 공방도 빠질수가 없죠!!!\n\n지금 저희 AMD 발표정리를 RT해주시는 2분 추첨해서\n\n내일!! AMD 50주년 장패드랑 쿠션을 드려요!!!! https://t.co/Yu71f6qAec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yu71f6qAec",
+					"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848",
+					"display_url": "twitter.com/Barun_PC_Store…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866698851989585900,
+			"id_str": "866698851989585920",
+			"name": "바른 피씨 공방",
+			"screen_name": "Barun_PC_Store",
+			"location": "서울시 용산 선인상가 21동 2층 4-1호",
+			"description": "트위터 1등 판매처, 바른 PC 공방!  구입 문의 및 상담은 DM이나 멘션으로 언제든 연락주세요 😀 문의는 DM이나 오픈 카톡으로 https://t.co/mZ3HgQdI5u",
+			"url": "https://t.co/XTBoG1HJR5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTBoG1HJR5",
+							"expanded_url": "https://smartstore.naver.com/barunpc",
+							"display_url": "smartstore.naver.com/barunpc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mZ3HgQdI5u",
+							"expanded_url": "https://open.kakao.com/o/sAcBHOx",
+							"display_url": "open.kakao.com/o/sAcBHOx",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17223,
+			"friends_count": 0,
+			"listed_count": 56,
+			"created_at": "Mon May 22 16:54:43 +0000 2017",
+			"favourites_count": 957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866698851989585920/1532077154",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132851988406734800,
+		"quoted_status_id_str": "1132851988406734848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yu71f6qAec",
+			"expanded": "https://twitter.com/Barun_PC_Store/status/1132851988406734848",
+			"display": "twitter.com/Barun_PC_Store…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 27 03:32:16 +0000 2019",
+			"id": 1132851988406734800,
+			"id_str": "1132851988406734848",
+			"full_text": "#AMD 발표정리\n\n1) RX 5700 의 발표.  RTX 2070 과 동급 혹은 10% 성능향상, 7월 발매예정\n\n2) 라이젠 3세대. 3700X, 3800X, 3900X 발표.\n\n인텔 I7-9700K, 9900K, 9920X 보다 동급 혹은 그 이상 성능\n\n7월에 발매예정.\n\n8코어 / 16스레드 , 12코어 / 24스레드.\n\n329달러 / 399달러 / 499달러. https://t.co/Bh3Wuci4ZH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AMD",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1132851653013454800,
+						"id_str": "1132851653013454849",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+						"url": "https://t.co/Bh3Wuci4ZH",
+						"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 941,
+								"h": 401,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 290,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 941,
+								"h": 401,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132851653013454800,
+						"id_str": "1132851653013454849",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7iyk4kUwAE-3dz.jpg",
+						"url": "https://t.co/Bh3Wuci4ZH",
+						"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 941,
+								"h": 401,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 290,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 941,
+								"h": 401,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1132851675897581600,
+						"id_str": "1132851675897581568",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D7iymN0U0AAeZPT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7iymN0U0AAeZPT.jpg",
+						"url": "https://t.co/Bh3Wuci4ZH",
+						"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 918,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 346,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 918,
+								"h": 467,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1132851689118097400,
+						"id_str": "1132851689118097408",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D7iym_EV4AAO6jd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7iym_EV4AAO6jd.jpg",
+						"url": "https://t.co/Bh3Wuci4ZH",
+						"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 312,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 925,
+								"h": 424,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 925,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1132851722068480000,
+						"id_str": "1132851722068480000",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/D7iyo50U0AAR7BC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7iyo50U0AAR7BC.jpg",
+						"url": "https://t.co/Bh3Wuci4ZH",
+						"display_url": "pic.twitter.com/Bh3Wuci4ZH",
+						"expanded_url": "https://twitter.com/Barun_PC_Store/status/1132851988406734848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 940,
+								"h": 471,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866698851989585900,
+				"id_str": "866698851989585920",
+				"name": "바른 피씨 공방",
+				"screen_name": "Barun_PC_Store",
+				"location": "서울시 용산 선인상가 21동 2층 4-1호",
+				"description": "트위터 1등 판매처, 바른 PC 공방!  구입 문의 및 상담은 DM이나 멘션으로 언제든 연락주세요 😀 문의는 DM이나 오픈 카톡으로 https://t.co/mZ3HgQdI5u",
+				"url": "https://t.co/XTBoG1HJR5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XTBoG1HJR5",
+								"expanded_url": "https://smartstore.naver.com/barunpc",
+								"display_url": "smartstore.naver.com/barunpc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mZ3HgQdI5u",
+								"expanded_url": "https://open.kakao.com/o/sAcBHOx",
+								"display_url": "open.kakao.com/o/sAcBHOx",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17223,
+				"friends_count": 0,
+				"listed_count": 56,
+				"created_at": "Mon May 22 16:54:43 +0000 2017",
+				"favourites_count": 957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020140697188306944/A7a7gRsl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866698851989585920/1532077154",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 57,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "젠2와 AMD 발표 소식을 축하드립니다 &gt; _ &lt;!!! \n\n그와 동시에, 우리 공방도 빠질수가 없죠!!!\n\n지금 저희 AMD 발표정리를 RT해주시는 2분 추첨해서\n\n내일!! AMD 50주년 장패드랑 쿠션을 드려요!!!! https://t.co/Yu71f6qAec"
+	},
+	{
+		"created_at": "Mon May 27 03:37:13 +0000 2019",
+		"id": 1132850067784777700,
+		"id_str": "1132853233880162305",
+		"full_text": "Holy crap, @LisaSu's giving us a look at Ryzen 9! 12-cores, 24 threads, 3.8 GHz base, 4.6GHz boost. https://t.co/tdbDirjTSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LisaSu",
+					"name": "Lisa Su",
+					"id": 836224570013139000,
+					"id_str": "836224570013138944",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132850005323264000,
+					"id_str": "1132850005323264000",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ixE-cXsAApLIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ixE-cXsAApLIb.jpg",
+					"url": "https://t.co/tdbDirjTSH",
+					"display_url": "pic.twitter.com/tdbDirjTSH",
+					"expanded_url": "https://twitter.com/tomshardware/status/1132850067784777729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132850005323264000,
+					"id_str": "1132850005323264000",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ixE-cXsAApLIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ixE-cXsAApLIb.jpg",
+					"url": "https://t.co/tdbDirjTSH",
+					"display_url": "pic.twitter.com/tdbDirjTSH",
+					"expanded_url": "https://twitter.com/tomshardware/status/1132850067784777729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17064514,
+			"id_str": "17064514",
+			"name": "Tom's Hardware @ Computex 2019",
+			"screen_name": "tomshardware",
+			"location": "",
+			"description": "Over two decades of articles, benchmarks, and community for PC enthusiasts worldwide. Part of @FuturePLC",
+			"url": "http://t.co/5NVrzOXX26",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5NVrzOXX26",
+							"expanded_url": "http://www.tomshardware.com",
+							"display_url": "tomshardware.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91066,
+			"friends_count": 288,
+			"listed_count": 2419,
+			"created_at": "Thu Oct 30 12:59:22 +0000 2008",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896131473236869120/tKFWGj5d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896131473236869120/tKFWGj5d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17064514/1502489416",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Holy crap, @LisaSu's giving us a look at Ryzen 9! 12-cores, 24 threads, 3.8 GHz base, 4.6GHz boost. https://t.co/tdbDirjTSH"
+	},
+	{
+		"created_at": "Mon May 27 03:18:03 +0000 2019",
+		"id": 1132838531125014500,
+		"id_str": "1132848413999939584",
+		"full_text": "성별 정정을 희망하는 사람이 청소년이어도 '부모 동의서'를 요구하지 않아야 한다고 생각함 https://t.co/RiYCvsPdEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RiYCvsPdEj",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1132835781368799232",
+					"display_url": "twitter.com/HuffPostKorea/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3658004846,
+			"id_str": "3658004846",
+			"name": "ⓥ 솔ㄷㅏㅁ ^▽^☆ ⓔ",
+			"screen_name": "moonmate_of_",
+			"location": "윤리적소비 / 여돌 / 비팔알람OFF / 언팔=오류",
+			"description": "논바이너리 젠더퀴어 교차성 페미니스트 풀깡패🌱 비건지향인 구독 많아요 #KeepCalmAndGoVegan #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 1072,
+			"listed_count": 1,
+			"created_at": "Wed Sep 23 09:11:24 +0000 2015",
+			"favourites_count": 22539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132664713966317568/RmcaPAK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132664713966317568/RmcaPAK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3658004846/1553260364",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132835781368799200,
+		"quoted_status_id_str": "1132835781368799232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RiYCvsPdEj",
+			"expanded": "https://twitter.com/HuffPostKorea/status/1132835781368799232",
+			"display": "twitter.com/HuffPostKorea/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 27 02:27:52 +0000 2019",
+			"id": 1132835781368799200,
+			"id_str": "1132835781368799232",
+			"full_text": "트랜스젠더 성별 정정을 힘들게 하는 것들: 신청자는 모두 성인인데도 '부모 동의서'가 필수다. 성관계를 자세하게 물으며 사생활을 캐는 판사들도 문제다. https://t.co/FmuBI6t21T https://t.co/HfHMuyNNr3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FmuBI6t21T",
+						"expanded_url": "http://huffp.st/acm8vhR",
+						"display_url": "huffp.st/acm8vhR",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1132835779934380000,
+						"id_str": "1132835779934380037",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/D7ikI8vXYAUrmWI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7ikI8vXYAUrmWI.jpg",
+						"url": "https://t.co/HfHMuyNNr3",
+						"display_url": "pic.twitter.com/HfHMuyNNr3",
+						"expanded_url": "https://twitter.com/HuffPostKorea/status/1132835781368799232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132835779934380000,
+						"id_str": "1132835779934380037",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/D7ikI8vXYAUrmWI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7ikI8vXYAUrmWI.jpg",
+						"url": "https://t.co/HfHMuyNNr3",
+						"display_url": "pic.twitter.com/HfHMuyNNr3",
+						"expanded_url": "https://twitter.com/HuffPostKorea/status/1132835781368799232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 543778633,
+				"id_str": "543778633",
+				"name": "허프포스트코리아",
+				"screen_name": "HuffPostKorea",
+				"location": "SEOUL",
+				"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+				"url": "https://t.co/Xkw1g4GZOB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkw1g4GZOB",
+								"expanded_url": "http://www.huffpost.kr",
+								"display_url": "huffpost.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e7LG5sl4oo",
+								"expanded_url": "https://www.facebook.com/huffpostkorea",
+								"display_url": "facebook.com/huffpostkorea",
+								"indices": [
+									15,
+									38
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 718704,
+				"friends_count": 17,
+				"listed_count": 1217,
+				"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 113005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E7060",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+				"profile_link_color": "2E7060",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 126,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성별 정정을 희망하는 사람이 청소년이어도 '부모 동의서'를 요구하지 않아야 한다고 생각함 https://t.co/RiYCvsPdEj"
+	},
+	{
 		"created_at": "Mon May 27 03:08:41 +0000 2019",
 		"id": 1132846053869228000,
 		"id_str": "1132846053869228032",
