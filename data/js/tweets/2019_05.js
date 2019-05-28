@@ -1,6 +1,1289 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 01:11:56 +0000 2019",
+		"id": 1133179063915360300,
+		"id_str": "1133179063915360256",
+		"full_text": "롤코타 3 나 해볼까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1054,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "롤코타 3 나 해볼까"
+	},
+	{
+		"created_at": "Tue May 28 00:44:18 +0000 2019",
+		"id": 1133123420131086300,
+		"id_str": "1133172108672897024",
+		"full_text": "https://t.co/JHxufEetb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JHxufEetb7",
+					"expanded_url": "https://twitter.com/elinmccready/status/1125383054724218880?s=21",
+					"display_url": "twitter.com/elinmccready/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1133123408252874800,
+		"in_reply_to_status_id_str": "1133123408252874754",
+		"in_reply_to_user_id": 136714087,
+		"in_reply_to_user_id_str": "136714087",
+		"in_reply_to_screen_name": "Macademimama",
+		"user": {
+			"id": 136714087,
+			"id_str": "136714087",
+			"name": "yummak",
+			"screen_name": "Macademimama",
+			"location": "UK",
+			"description": "Embrace diversity!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 311,
+			"listed_count": 20,
+			"created_at": "Sat Apr 24 18:06:22 +0000 2010",
+			"favourites_count": 483961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125383054724218900,
+		"quoted_status_id_str": "1125383054724218880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JHxufEetb7",
+			"expanded": "https://twitter.com/elinmccready/status/1125383054724218880?s=21",
+			"display": "twitter.com/elinmccready/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 06 12:53:23 +0000 2019",
+			"id": 1125383054724218900,
+			"id_str": "1125383054724218880",
+			"full_text": "I sent a message to the person who runs the event with the transphobic door policy, to ask for an explanation, and for her to make her policy public instead of keeping it behind closed doors. I hope she will respond. @motelgf #goldfingertokyo #japan #lgbt #lgbtq #goldfinger https://t.co/t3IrB3xavi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "goldfingertokyo",
+						"indices": [
+							226,
+							242
+						]
+					},
+					{
+						"text": "japan",
+						"indices": [
+							243,
+							249
+						]
+					},
+					{
+						"text": "lgbt",
+						"indices": [
+							250,
+							255
+						]
+					},
+					{
+						"text": "lgbtq",
+						"indices": [
+							256,
+							262
+						]
+					},
+					{
+						"text": "goldfinger",
+						"indices": [
+							263,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "motelgf",
+						"name": "次回6/15㈯ GOLD FINGER",
+						"id": 159412352,
+						"id_str": "159412352",
+						"indices": [
+							217,
+							225
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1125383012928053200,
+						"id_str": "1125383012928053254",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D54p40HV4AYca8r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D54p40HV4AYca8r.jpg",
+						"url": "https://t.co/t3IrB3xavi",
+						"display_url": "pic.twitter.com/t3IrB3xavi",
+						"expanded_url": "https://twitter.com/elinmccready/status/1125383054724218880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 844,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1342,
+								"h": 944,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125383012928053200,
+						"id_str": "1125383012928053254",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D54p40HV4AYca8r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D54p40HV4AYca8r.jpg",
+						"url": "https://t.co/t3IrB3xavi",
+						"display_url": "pic.twitter.com/t3IrB3xavi",
+						"expanded_url": "https://twitter.com/elinmccready/status/1125383054724218880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 844,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1342,
+								"h": 944,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1125383036910981100,
+						"id_str": "1125383036910981120",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/D54p6NdUUAA7mkj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D54p6NdUUAA7mkj.jpg",
+						"url": "https://t.co/t3IrB3xavi",
+						"display_url": "pic.twitter.com/t3IrB3xavi",
+						"expanded_url": "https://twitter.com/elinmccready/status/1125383054724218880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 849,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1348,
+								"h": 954,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 394123243,
+				"id_str": "394123243",
+				"name": "H3AV3N❤️",
+				"screen_name": "elinmccready",
+				"location": "Tokyo",
+				"description": "money is the universal grammar // arcanopragmatics // poetry // ling/phil // singularity boss // trans // she/her // 移民",
+				"url": "https://t.co/AvfqfkTnae",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AvfqfkTnae",
+								"expanded_url": "https://www.yahoo.com/news/gender-change-bureaucratic-brick-wall-japan-033048788.html",
+								"display_url": "yahoo.com/news/gender-ch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 778,
+				"friends_count": 998,
+				"listed_count": 21,
+				"created_at": "Wed Oct 19 16:14:03 +0000 2011",
+				"favourites_count": 23325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10478,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F009D5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1596602182/ar122953646530524_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1596602182/ar122953646530524_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/394123243/1542965647",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "43328A",
+				"profile_text_color": "E61C30",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/JHxufEetb7"
+	},
+	{
+		"created_at": "Tue May 28 00:44:13 +0000 2019",
+		"id": 1133123408252874800,
+		"id_str": "1133172087420477440",
+		"full_text": "Here is the backstory: https://t.co/IyFPmvA2FN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133123393576951800,
+					"id_str": "1133123393576951808",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mpuRDW4AAHHmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mpuRDW4AAHHmj.jpg",
+					"url": "https://t.co/IyFPmvA2FN",
+					"display_url": "pic.twitter.com/IyFPmvA2FN",
+					"expanded_url": "https://twitter.com/Macademimama/status/1133123408252874754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133123393576951800,
+					"id_str": "1133123393576951808",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mpuRDW4AAHHmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mpuRDW4AAHHmj.jpg",
+					"url": "https://t.co/IyFPmvA2FN",
+					"display_url": "pic.twitter.com/IyFPmvA2FN",
+					"expanded_url": "https://twitter.com/Macademimama/status/1133123408252874754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133123393585336300,
+					"id_str": "1133123393585336322",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mpuRFW0AIFnsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mpuRFW0AIFnsa.jpg",
+					"url": "https://t.co/IyFPmvA2FN",
+					"display_url": "pic.twitter.com/IyFPmvA2FN",
+					"expanded_url": "https://twitter.com/Macademimama/status/1133123408252874754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1133116188379287600,
+		"in_reply_to_status_id_str": "1133116188379287554",
+		"in_reply_to_user_id": 136714087,
+		"in_reply_to_user_id_str": "136714087",
+		"in_reply_to_screen_name": "Macademimama",
+		"user": {
+			"id": 136714087,
+			"id_str": "136714087",
+			"name": "yummak",
+			"screen_name": "Macademimama",
+			"location": "UK",
+			"description": "Embrace diversity!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 311,
+			"listed_count": 20,
+			"created_at": "Sat Apr 24 18:06:22 +0000 2010",
+			"favourites_count": 483961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is the backstory: https://t.co/IyFPmvA2FN"
+	},
+	{
+		"created_at": "Tue May 28 00:43:47 +0000 2019",
+		"id": 1133116188379287600,
+		"id_str": "1133171979496726528",
+		"full_text": "@EllenPage \n\"Gold Finger\", the club in Japan you visited for Gaycation has recently decided that only cisgender women are welcome at their business ( as small print at the top clearly says). They have your name as a patronage in their advertisement. Do you endorse their policy? https://t.co/RKTF5MXz2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EllenPage",
+					"name": "Ellen Page",
+					"id": 255747911,
+					"id_str": "255747911",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133116172822548500,
+					"id_str": "1133116172822548480",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+					"url": "https://t.co/RKTF5MXz2M",
+					"display_url": "pic.twitter.com/RKTF5MXz2M",
+					"expanded_url": "https://twitter.com/Macademimama/status/1133116188379287554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133116172822548500,
+					"id_str": "1133116172822548480",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+					"url": "https://t.co/RKTF5MXz2M",
+					"display_url": "pic.twitter.com/RKTF5MXz2M",
+					"expanded_url": "https://twitter.com/Macademimama/status/1133116188379287554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 255747911,
+		"in_reply_to_user_id_str": "255747911",
+		"in_reply_to_screen_name": "EllenPage",
+		"user": {
+			"id": 136714087,
+			"id_str": "136714087",
+			"name": "yummak",
+			"screen_name": "Macademimama",
+			"location": "UK",
+			"description": "Embrace diversity!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 311,
+			"listed_count": 20,
+			"created_at": "Sat Apr 24 18:06:22 +0000 2010",
+			"favourites_count": 483961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EllenPage \n\"Gold Finger\", the club in Japan you visited for Gaycation has recently decided that only cisgender women are welcome at their business ( as small print at the top clearly says). They have your name as a patronage in their advertisement. Do you endorse their policy? https://t.co/RKTF5MXz2M"
+	},
+	{
+		"created_at": "Tue May 28 00:43:28 +0000 2019",
+		"id": 1133155436511674400,
+		"id_str": "1133171898504830977",
+		"full_text": "일본 유명 레즈비언 이벤트인 Gold Finger가 트랜스젠더 여성을 배제한다고 합니다. 일본에서도 요즘 TERF들 차별이 심한 상황인데 “일본 상황을 근거로” 한다고 있습니다. 이것에 많은 반대 소리가 나와 있습니다. #TransRightsAreHumanRights \nhttps://t.co/KTZ2VHnTWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TransRightsAreHumanRights",
+					"indices": [
+						123,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KTZ2VHnTWN",
+					"expanded_url": "https://twitter.com/macademimama/status/1133116188379287554?s=21",
+					"display_url": "twitter.com/macademimama/s…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 343874279,
+			"id_str": "343874279",
+			"name": "ぬこま🍜누코마",
+			"screen_name": "momomoca1234",
+			"location": "二郎",
+			"description": "🍜🚭🚇👭なびじょ。日本語/한본어。한국어 말고 한본어 가능",
+			"url": "https://t.co/uoo82VfX9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uoo82VfX9e",
+							"expanded_url": "https://love-letter.club/to/momomoca1234/",
+							"display_url": "love-letter.club/to/momomoca123…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2248,
+			"friends_count": 3075,
+			"listed_count": 33,
+			"created_at": "Thu Jul 28 06:30:08 +0000 2011",
+			"favourites_count": 16319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102564418481643520/egGxC3Ks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102564418481643520/egGxC3Ks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/343874279/1387895366",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133116188379287600,
+		"quoted_status_id_str": "1133116188379287554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KTZ2VHnTWN",
+			"expanded": "https://twitter.com/macademimama/status/1133116188379287554?s=21",
+			"display": "twitter.com/macademimama/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 27 21:02:06 +0000 2019",
+			"id": 1133116188379287600,
+			"id_str": "1133116188379287554",
+			"full_text": "@EllenPage \n\"Gold Finger\", the club in Japan you visited for Gaycation has recently decided that only cisgender women are welcome at their business ( as small print at the top clearly says). They have your name as a patronage in their advertisement. Do you endorse their policy? https://t.co/RKTF5MXz2M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EllenPage",
+						"name": "Ellen Page",
+						"id": 255747911,
+						"id_str": "255747911",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133116172822548500,
+						"id_str": "1133116172822548480",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+						"url": "https://t.co/RKTF5MXz2M",
+						"display_url": "pic.twitter.com/RKTF5MXz2M",
+						"expanded_url": "https://twitter.com/Macademimama/status/1133116188379287554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133116172822548500,
+						"id_str": "1133116172822548480",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7mjJ9pWkAAV_mB.jpg",
+						"url": "https://t.co/RKTF5MXz2M",
+						"display_url": "pic.twitter.com/RKTF5MXz2M",
+						"expanded_url": "https://twitter.com/Macademimama/status/1133116188379287554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 472,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 255747911,
+			"in_reply_to_user_id_str": "255747911",
+			"in_reply_to_screen_name": "EllenPage",
+			"user": {
+				"id": 136714087,
+				"id_str": "136714087",
+				"name": "yummak",
+				"screen_name": "Macademimama",
+				"location": "UK",
+				"description": "Embrace diversity!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 888,
+				"friends_count": 311,
+				"listed_count": 20,
+				"created_at": "Sat Apr 24 18:06:22 +0000 2010",
+				"favourites_count": 483961,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58899,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/546844084707786752/uYdzs2H5_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 46,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 유명 레즈비언 이벤트인 Gold Finger가 트랜스젠더 여성을 배제한다고 합니다. 일본에서도 요즘 TERF들 차별이 심한 상황인데 “일본 상황을 근거로” 한다고 있습니다. 이것에 많은 반대 소리가 나와 있습니다. #TransRightsAreHumanRights \nhttps://t.co/KTZ2VHnTWN"
+	},
+	{
+		"created_at": "Tue May 28 00:41:12 +0000 2019",
+		"id": 1133169683446677500,
+		"id_str": "1133171325927714817",
+		"full_text": "남자 세 명에게, 이 사람 치한이니까 붙잡아달라고 했는데 \"지금부터 일이 있어서\"라고 그냥 지나갔다고. 아이 엄마는 모든 책임은 나한테 있다며(;;;) 피해서조차 내지 않았다고 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133169512486858800,
+		"in_reply_to_status_id_str": "1133169512486858753",
+		"in_reply_to_user_id": 125874465,
+		"in_reply_to_user_id_str": "125874465",
+		"in_reply_to_screen_name": "xxroamxx",
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "🦐Roam🍤",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 505,
+			"listed_count": 77,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 35628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 217461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112575732503347203/NRaiWPRn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112575732503347203/NRaiWPRn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남자 세 명에게, 이 사람 치한이니까 붙잡아달라고 했는데 \"지금부터 일이 있어서\"라고 그냥 지나갔다고. 아이 엄마는 모든 책임은 나한테 있다며(;;;) 피해서조차 내지 않았다고 한다."
+	},
+	{
+		"created_at": "Tue May 28 00:41:06 +0000 2019",
+		"id": 1133169512486858800,
+		"id_str": "1133171304494800896",
+		"full_text": "야마노테센에서 혼자 전철통학(을 몇 번 했다고)하고 있던 6살 여아가 남자에게 몸을 만지는 성추행을 당해서, 일단 아이를 보호하고 전철에서 내리면서 치한을 붙잡으려고 했지만 아무도 안 도와줬다고 한다 https://t.co/9t40WKHhYi(일문)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9t40WKHhYi",
+					"expanded_url": "https://m.facebook.com/100002499840432/posts/1793406944085950/",
+					"display_url": "m.facebook.com/10000249984043…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125874465,
+			"id_str": "125874465",
+			"name": "🦐Roam🍤",
+			"screen_name": "xxroamxx",
+			"location": "Tokyo",
+			"description": "도쿄 모처 출판사 잡부. 본업은 디자이너. 東京と埼玉を往復している出版社デザイナー。20↑。進撃、松、赤安。腐女。安室の女になってしまった…。何でも好き。아무로 팡인. KinKiKidsファン歴1〇年目 페미니스트. 알티되면 대부분 뮤트합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4369,
+			"friends_count": 505,
+			"listed_count": 77,
+			"created_at": "Wed Mar 24 04:00:07 +0000 2010",
+			"favourites_count": 35628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 217461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "14A894",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112575732503347203/NRaiWPRn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112575732503347203/NRaiWPRn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125874465/1531801840",
+			"profile_link_color": "1FADAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6BC6F",
+			"profile_text_color": "CFC88A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야마노테센에서 혼자 전철통학(을 몇 번 했다고)하고 있던 6살 여아가 남자에게 몸을 만지는 성추행을 당해서, 일단 아이를 보호하고 전철에서 내리면서 치한을 붙잡으려고 했지만 아무도 안 도와줬다고 한다 https://t.co/9t40WKHhYi(일문)"
+	},
+	{
 		"created_at": "Tue May 28 00:02:52 +0000 2019",
 		"id": 1133161682753052700,
 		"id_str": "1133161682753052672",
