@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 17:41:13 +0000 2019",
+		"id": 1133426835688050700,
+		"id_str": "1133428023288406017",
+		"full_text": "야 너네 Git 하고 이슈트래커 쓸 줄 모르지? #티맥스OS https://t.co/YcNqquPYVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티맥스OS",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133426782453919700,
+					"id_str": "1133426782453919744",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D7q9p0sUcAAZGqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7q9p0sUcAAZGqS.jpg",
+					"url": "https://t.co/YcNqquPYVK",
+					"display_url": "pic.twitter.com/YcNqquPYVK",
+					"expanded_url": "https://twitter.com/perillamint/status/1133426835688050688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1919,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133426782453919700,
+					"id_str": "1133426782453919744",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D7q9p0sUcAAZGqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7q9p0sUcAAZGqS.jpg",
+					"url": "https://t.co/YcNqquPYVK",
+					"display_url": "pic.twitter.com/YcNqquPYVK",
+					"expanded_url": "https://twitter.com/perillamint/status/1133426835688050688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1919,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890022617,
+			"id_str": "2890022617",
+			"name": "perillamint🧝🧙⚧",
+			"screen_name": "perillamint",
+			"location": "시스템 어드민의 지옥",
+			"description": "Who loves under the hood; 아마추어 임베디드 해커; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Genderqueer - they/them or she/her; 더 자세한 건 여기로: https://t.co/TybCe8Y9vM",
+			"url": "https://t.co/QpiTBi8ejm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QpiTBi8ejm",
+							"expanded_url": "https://blog.quendi.moe",
+							"display_url": "blog.quendi.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TybCe8Y9vM",
+							"expanded_url": "http://blog.quendi.moe/about-pmint",
+							"display_url": "blog.quendi.moe/about-pmint",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1317,
+			"friends_count": 849,
+			"listed_count": 73,
+			"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1544348128",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 너네 Git 하고 이슈트래커 쓸 줄 모르지? #티맥스OS https://t.co/YcNqquPYVK"
+	},
+	{
+		"created_at": "Tue May 28 17:35:54 +0000 2019",
+		"id": 1133421205849985000,
+		"id_str": "1133426686542749696",
+		"full_text": "Chromium 기반 Edge와 Chrome으로 유튜브를 들어갔을 때 어느샌가 같은 계정임에도 보여지는 화면이 달라진다. Chromium 기반 Edge에서 User-Agent만 바꿔주면 다시 오른쪽 화면으로 돌아온다.\n\n제정신인가 구글? 난 도저히 이해할 수가 없다. https://t.co/GAaFTOxXK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133421193514455000,
+					"id_str": "1133421193514455040",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D7q4kgRUEAADPZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7q4kgRUEAADPZq.jpg",
+					"url": "https://t.co/GAaFTOxXK5",
+					"display_url": "pic.twitter.com/GAaFTOxXK5",
+					"expanded_url": "https://twitter.com/Hazealign/status/1133421205849985025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133421193514455000,
+					"id_str": "1133421193514455040",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D7q4kgRUEAADPZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7q4kgRUEAADPZq.jpg",
+					"url": "https://t.co/GAaFTOxXK5",
+					"display_url": "pic.twitter.com/GAaFTOxXK5",
+					"expanded_url": "https://twitter.com/Hazealign/status/1133421205849985025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2878505923,
+			"id_str": "2878505923",
+			"name": "Haze Lee",
+			"screen_name": "Hazealign",
+			"location": "",
+			"description": "Software Developer, interested in Android & Backend and DevOps. [Kotlin, TypeScript, C#] enthusiast.",
+			"url": "https://t.co/wZXjw8IukX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wZXjw8IukX",
+							"expanded_url": "http://realignist.me",
+							"display_url": "realignist.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 306,
+			"listed_count": 13,
+			"created_at": "Sun Oct 26 15:52:24 +0000 2014",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042452769049731074/40CPqNDs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042452769049731074/40CPqNDs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878505923/1537375084",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Chromium 기반 Edge와 Chrome으로 유튜브를 들어갔을 때 어느샌가 같은 계정임에도 보여지는 화면이 달라진다. Chromium 기반 Edge에서 User-Agent만 바꿔주면 다시 오른쪽 화면으로 돌아온다.\n\n제정신인가 구글? 난 도저히 이해할 수가 없다. https://t.co/GAaFTOxXK5"
+	},
+	{
+		"created_at": "Tue May 28 17:30:20 +0000 2019",
+		"id": 1133224368392114200,
+		"id_str": "1133425285594898432",
+		"full_text": "☆CAPTIN☆PLANET☆ https://t.co/ctXwyA9Gf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133224336360218600,
+					"id_str": "1133224336360218624",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D7oFh6OUIAAOk6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7oFh6OUIAAOk6j.jpg",
+					"url": "https://t.co/ctXwyA9Gf5",
+					"display_url": "pic.twitter.com/ctXwyA9Gf5",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1133224368392114177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1558,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133224336360218600,
+					"id_str": "1133224336360218624",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D7oFh6OUIAAOk6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7oFh6OUIAAOk6j.jpg",
+					"url": "https://t.co/ctXwyA9Gf5",
+					"display_url": "pic.twitter.com/ctXwyA9Gf5",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1133224368392114177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1558,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1693269036,
+			"id_str": "1693269036",
+			"name": "TONAITOO",
+			"screen_name": "tonaitoo",
+			"location": "",
+			"description": "NSFW성분 미량함유된 덕질계정입니다. 인용알티 개소리 + 마음함 지적질은 바로 차단입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2712,
+			"friends_count": 3372,
+			"listed_count": 41,
+			"created_at": "Fri Aug 23 08:52:47 +0000 2013",
+			"favourites_count": 37905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 204737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093907425000775682/0OrSF5HB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093907425000775682/0OrSF5HB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693269036/1549642852",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "☆CAPTIN☆PLANET☆ https://t.co/ctXwyA9Gf5"
+	},
+	{
+		"created_at": "Tue May 28 17:22:58 +0000 2019",
+		"id": 1133370233195044900,
+		"id_str": "1133423432417177600",
+		"full_text": "버닝썬 엉터리 경찰수사 결과는 이렇게 나타났다. 같은 장소에서 영업재개한 클럽 레이블 안에는 “King is Back\"(왕이 돌아왔다) 문구에 테이블당 200만원 넘는 VIP석 20개 예약은 모두 끝났다. 의혹 제기했던 시사방송 배경에 맞춰 술마시고 춤췄다. 경찰수사 맘껏 조롱한 것이다. 역시 '강남불패'다. https://t.co/3zUdrKEXe3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3zUdrKEXe3",
+					"expanded_url": "https://twitter.com/GObalnews/status/1133216420790038529",
+					"display_url": "twitter.com/GObalnews/stat…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713162700340244500,
+			"id_str": "713162700340244481",
+			"name": "빈무덤 2",
+			"screen_name": "binmudum",
+			"location": "United States",
+			"description": "조국의 평화통일과 민족의 화해 민주주의와 인권의 가치를 소중하게 생각합니다. 천주교 신자지만 종교와는 관계없이 모든 선의의 사람들과 열린 마음으로 소통하고 싶습니다. 신문사 은퇴 후 방랑여행과 글쓰기로 소일하고 있습니다.#민주포럼#적폐청산#사법개혁#경제정의#평화협정#외세배격#한반도평화.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35087,
+			"friends_count": 33315,
+			"listed_count": 106,
+			"created_at": "Fri Mar 25 00:36:52 +0000 2016",
+			"favourites_count": 1227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926419526719287296/OeIewppL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926419526719287296/OeIewppL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133216420790038500,
+		"quoted_status_id_str": "1133216420790038529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3zUdrKEXe3",
+			"expanded": "https://twitter.com/GObalnews/status/1133216420790038529",
+			"display": "twitter.com/GObalnews/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 03:40:23 +0000 2019",
+			"id": 1133216420790038500,
+			"id_str": "1133216420790038529",
+			"full_text": "비웃듯 ‘제2 버닝썬’ 개장…‘그알’ 김상중 배경으로 춤추고\n#고발뉴스 https://t.co/cHF4t9pYHZ  \n#민동기의_뉴스비평 https://t.co/1LHurK4D6G https://t.co/g95VYQ6zaZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "고발뉴스",
+						"indices": [
+							34,
+							39
+						]
+					},
+					{
+						"text": "민동기의_뉴스비평",
+						"indices": [
+							66,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cHF4t9pYHZ",
+						"expanded_url": "https://bit.ly/2Wv5XKB",
+						"display_url": "bit.ly/2Wv5XKB",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/1LHurK4D6G",
+						"expanded_url": "https://goo.gl/czqud3",
+						"display_url": "goo.gl/czqud3",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133216327135449100,
+						"id_str": "1133216327135449088",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/D7n-PtiU0AAdSsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7n-PtiU0AAdSsY.jpg",
+						"url": "https://t.co/g95VYQ6zaZ",
+						"display_url": "pic.twitter.com/g95VYQ6zaZ",
+						"expanded_url": "https://twitter.com/GObalnews/status/1133216420790038529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133216327135449100,
+						"id_str": "1133216327135449088",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/D7n-PtiU0AAdSsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7n-PtiU0AAdSsY.jpg",
+						"url": "https://t.co/g95VYQ6zaZ",
+						"display_url": "pic.twitter.com/g95VYQ6zaZ",
+						"expanded_url": "https://twitter.com/GObalnews/status/1133216420790038529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 617869959,
+				"id_str": "617869959",
+				"name": "고발뉴스/GO발뉴스",
+				"screen_name": "GObalnews",
+				"location": "대한민국 서울",
+				"description": "촛불미디어 GO발뉴스, 유튜브 뉴스Bang, 더 뛰고 싶습니다 ★정기후원★ https://t.co/wXvm7UkpCD 후원 배너 클릭 ★일시후원★ KB국민 090501-04-230157 (주)발뉴스",
+				"url": "https://t.co/u3FtI8JZMa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u3FtI8JZMa",
+								"expanded_url": "http://www.gobalnews.com",
+								"display_url": "gobalnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wXvm7UkpCD",
+								"expanded_url": "http://gobalnews.com",
+								"display_url": "gobalnews.com",
+								"indices": [
+									42,
+									65
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 130929,
+				"friends_count": 3967,
+				"listed_count": 1160,
+				"created_at": "Mon Jun 25 05:03:58 +0000 2012",
+				"favourites_count": 42,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF9900",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924886200111919104/hgI_I0gR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924886200111919104/hgI_I0gR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/617869959/1542705794",
+				"profile_link_color": "8A5700",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 98,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1937,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "버닝썬 엉터리 경찰수사 결과는 이렇게 나타났다. 같은 장소에서 영업재개한 클럽 레이블 안에는 “King is Back\"(왕이 돌아왔다) 문구에 테이블당 200만원 넘는 VIP석 20개 예약은 모두 끝났다. 의혹 제기했던 시사방송 배경에 맞춰 술마시고 춤췄다. 경찰수사 맘껏 조롱한 것이다. 역시 '강남불패'다. https://t.co/3zUdrKEXe3"
+	},
+	{
 		"created_at": "Tue May 28 17:15:09 +0000 2019",
 		"id": 1133314077961273300,
 		"id_str": "1133421463355052033",
