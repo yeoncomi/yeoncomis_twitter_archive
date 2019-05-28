@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 01:52:30 +0000 2019",
+		"id": 1132624348215255000,
+		"id_str": "1133189269143506944",
+		"full_text": "저의 심즈마을 식당을 책임져주실분 모셨습니다 https://t.co/9eHFOS3rta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132623167292239900,
+					"id_str": "1132623167292239872",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D7fixQ7U8AAk0bL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7fixQ7U8AAk0bL.png",
+					"url": "https://t.co/9eHFOS3rta",
+					"display_url": "pic.twitter.com/9eHFOS3rta",
+					"expanded_url": "https://twitter.com/M__Mim/status/1132624348215255041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132623167292239900,
+					"id_str": "1132623167292239872",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D7fixQ7U8AAk0bL.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7fixQ7U8AAk0bL.png",
+					"url": "https://t.co/9eHFOS3rta",
+					"display_url": "pic.twitter.com/9eHFOS3rta",
+					"expanded_url": "https://twitter.com/M__Mim/status/1132624348215255041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 830,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1132623689399164900,
+					"id_str": "1132623689399164929",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D7fjPp7UYAE892v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7fjPp7UYAE892v.jpg",
+					"url": "https://t.co/9eHFOS3rta",
+					"display_url": "pic.twitter.com/9eHFOS3rta",
+					"expanded_url": "https://twitter.com/M__Mim/status/1132624348215255041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612179398,
+			"id_str": "612179398",
+			"name": "민샘🌻",
+			"screen_name": "M__Mim",
+			"location": "",
+			"description": "딜리헙🐱https://t.co/PPEqYaY8Vh 포스타입💖 https://t.co/JG1SvtgSAV",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PPEqYaY8Vh",
+							"expanded_url": "http://dillyhub.com/home/m__m",
+							"display_url": "dillyhub.com/home/m__m",
+							"indices": [
+								4,
+								27
+							]
+						},
+						{
+							"url": "https://t.co/JG1SvtgSAV",
+							"expanded_url": "http://m--mim.postype.com",
+							"display_url": "m--mim.postype.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24470,
+			"friends_count": 213,
+			"listed_count": 160,
+			"created_at": "Tue Jun 19 01:48:08 +0000 2012",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8AE6A7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/593778470091493376/4M-OF10__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/593778470091493376/4M-OF10__normal.png",
+			"profile_link_color": "FF756B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20579,
+		"favorite_count": 7016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저의 심즈마을 식당을 책임져주실분 모셨습니다 https://t.co/9eHFOS3rta"
+	},
+	{
+		"created_at": "Tue May 28 01:24:40 +0000 2019",
+		"id": 1133177774888300500,
+		"id_str": "1133182266878750720",
+		"full_text": "트럼프가 아베 스모 답례하겠다고 프로레슬링 불러서 관람하다가 링 위로 불러서 아베 칭찬 막 한후 아베 막 싱글벙글 하고 있을때 \"그러나 난 진주만을 잊지 않았다.\" 하면서 마이크 던지고 해머링 막 날린 후 파워밤 먹이고 트럼프 타이탄트론 나오면서 퇴장하면 재밌겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986140917483450400,
+			"id_str": "986140917483450368",
+			"name": "시수리",
+			"screen_name": "isenlot",
+			"location": "",
+			"description": "원래 이 계정 쓰던 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Apr 17 07:14:51 +0000 2018",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063730582121676800/srt8iJjC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063730582121676800/srt8iJjC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986140917483450368/1542447759",
+			"profile_link_color": "681CBB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트럼프가 아베 스모 답례하겠다고 프로레슬링 불러서 관람하다가 링 위로 불러서 아베 칭찬 막 한후 아베 막 싱글벙글 하고 있을때 \"그러나 난 진주만을 잊지 않았다.\" 하면서 마이크 던지고 해머링 막 날린 후 파워밤 먹이고 트럼프 타이탄트론 나오면서 퇴장하면 재밌겠다."
+	},
+	{
+		"created_at": "Tue May 28 01:19:10 +0000 2019",
+		"id": 1133180882724896800,
+		"id_str": "1133180882724896768",
+		"full_text": "프사 바꿨당",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "파산커미🌈",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304,
+			"friends_count": 1056,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프사 바꿨당"
+	},
+	{
 		"created_at": "Tue May 28 01:11:56 +0000 2019",
 		"id": 1133179063915360300,
 		"id_str": "1133179063915360256",
