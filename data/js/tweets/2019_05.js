@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 19:08:27 +0000 2019",
+		"id": 1132553456013545500,
+		"id_str": "1133449976476889088",
+		"full_text": "지하철에 누가 에어드롭으로 비키라고 함ㅋㅋ https://t.co/mt8OqtBK18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132553449118158800,
+					"id_str": "1132553449118158848",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ejXIfU0AALYyZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ejXIfU0AALYyZ.jpg",
+					"url": "https://t.co/mt8OqtBK18",
+					"display_url": "pic.twitter.com/mt8OqtBK18",
+					"expanded_url": "https://twitter.com/Robyeol/status/1132553456013545472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132553449118158800,
+					"id_str": "1132553449118158848",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ejXIfU0AALYyZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ejXIfU0AALYyZ.jpg",
+					"url": "https://t.co/mt8OqtBK18",
+					"display_url": "pic.twitter.com/mt8OqtBK18",
+					"expanded_url": "https://twitter.com/Robyeol/status/1132553456013545472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048944633047216100,
+			"id_str": "1048944633047216138",
+			"name": "로별",
+			"screen_name": "Robyeol",
+			"location": "",
+			"description": "발음을 하기도 어려운 곳에 가자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 132,
+			"listed_count": 0,
+			"created_at": "Sun Oct 07 14:34:23 +0000 2018",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133018665031389184/X6fH9zBB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133018665031389184/X6fH9zBB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048944633047216138/1555254184",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2949,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지하철에 누가 에어드롭으로 비키라고 함ㅋㅋ https://t.co/mt8OqtBK18"
+	},
+	{
 		"created_at": "Tue May 28 17:41:13 +0000 2019",
 		"id": 1133426835688050700,
 		"id_str": "1133428023288406017",
