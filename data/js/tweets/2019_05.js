@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 17:15:09 +0000 2019",
+		"id": 1133314077961273300,
+		"id_str": "1133421463355052033",
+		"full_text": "화웨이 근황\n\n그 와중에 여기서도 빛나는\n킹갓빛사 수 님..흑흑 https://t.co/oeBO3xEEoI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133314043530244100,
+					"id_str": "1133314043530244096",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pXHjeU8AAt20M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pXHjeU8AAt20M.jpg",
+					"url": "https://t.co/oeBO3xEEoI",
+					"display_url": "pic.twitter.com/oeBO3xEEoI",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1133314077961273345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133314043530244100,
+					"id_str": "1133314043530244096",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pXHjeU8AAt20M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pXHjeU8AAt20M.jpg",
+					"url": "https://t.co/oeBO3xEEoI",
+					"display_url": "pic.twitter.com/oeBO3xEEoI",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1133314077961273345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133314050887041000,
+					"id_str": "1133314050887041024",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pXH-4UwAAqCmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pXH-4UwAAqCmV.jpg",
+					"url": "https://t.co/oeBO3xEEoI",
+					"display_url": "pic.twitter.com/oeBO3xEEoI",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1133314077961273345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 779,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133314060882067500,
+					"id_str": "1133314060882067456",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pXIkHUwAAuMYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pXIkHUwAAuMYq.jpg",
+					"url": "https://t.co/oeBO3xEEoI",
+					"display_url": "pic.twitter.com/oeBO3xEEoI",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1133314077961273345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133314070533173200,
+					"id_str": "1133314070533173248",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pXJIEU8AAsW5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pXJIEU8AAsW5S.jpg",
+					"url": "https://t.co/oeBO3xEEoI",
+					"display_url": "pic.twitter.com/oeBO3xEEoI",
+					"expanded_url": "https://twitter.com/Peacemaker_Mesa/status/1133314077961273345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899266346101252100,
+			"id_str": "899266346101252097",
+			"name": "Warframe-Mesa",
+			"screen_name": "Peacemaker_Mesa",
+			"location": "대한민국",
+			"description": "뭐요 왜 뭐 / 일웜메 안사요 / 알람때문에 멘션 잘 못볼수도 있스요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 169,
+			"listed_count": 8,
+			"created_at": "Sun Aug 20 13:46:19 +0000 2017",
+			"favourites_count": 28515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118180433139605504/DlGyLy2x_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118180433139605504/DlGyLy2x_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899266346101252097/1552026259",
+			"profile_link_color": "99AAFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화웨이 근황\n\n그 와중에 여기서도 빛나는\n킹갓빛사 수 님..흑흑 https://t.co/oeBO3xEEoI"
+	},
+	{
 		"created_at": "Tue May 28 14:54:48 +0000 2019",
 		"id": 1133385145166307300,
 		"id_str": "1133386143221854212",
@@ -142,7 +411,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "SD꽁치 / SD SkyKlouD",
 			"screen_name": "_SDSkyKlouD",
 			"location": "대한민국 수원시",
-			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨‍💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
+			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
 			"url": null,
 			"entities": {
 				"description": {
@@ -225,7 +494,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "SD꽁치 / SD SkyKlouD",
 			"screen_name": "_SDSkyKlouD",
 			"location": "대한민국 수원시",
-			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨‍💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
+			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
 			"url": null,
 			"entities": {
 				"description": {
@@ -307,7 +576,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "SD꽁치 / SD SkyKlouD",
 			"screen_name": "_SDSkyKlouD",
 			"location": "대한민국 수원시",
-			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨‍💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
+			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
 			"url": null,
 			"entities": {
 				"description": {
@@ -389,7 +658,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "SD꽁치 / SD SkyKlouD",
 			"screen_name": "_SDSkyKlouD",
 			"location": "대한민국 수원시",
-			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨‍💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
+			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
 			"url": null,
 			"entities": {
 				"description": {
@@ -471,7 +740,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "SD꽁치 / SD SkyKlouD",
 			"screen_name": "_SDSkyKlouD",
 			"location": "대한민국 수원시",
-			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨‍💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
+			"description": "✨ Pic by あまのみず\n💕 미쿠, 콧코로, 미야코\n👨💻 C#(WPF), 웹, 이것저것\n❕ 섹트, 욕트 주의\n🇯🇵 日本アカウント→@_SDSkyKlouD_JP",
 			"url": null,
 			"entities": {
 				"description": {
