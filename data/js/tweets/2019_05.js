@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 04:16:50 +0000 2019",
+		"id": 1132838012432240600,
+		"id_str": "1133225593976152064",
+		"full_text": "알티 타니까 덧붙입니다. 대학생분들 해외봉사 조심하시길 바랍니다. IYF는 기쁜소식선교회에서 세운 사립단체이며 기쁜소식선교회는 박옥수가 세운 이단입니다. 실제로 해외봉사인 줄 알고 갔다가 목숨까지 위협당한 사례가 있으며 이러한 봉사는 절대 스펙으로 인정하지 https://t.co/hB7BMl4hLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132838004412768300,
+					"id_str": "1132838004412768257",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D7imKbkV4AEI07E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7imKbkV4AEI07E.jpg",
+					"url": "https://t.co/hB7BMl4hLP",
+					"display_url": "pic.twitter.com/hB7BMl4hLP",
+					"expanded_url": "https://twitter.com/Deadm0use__/status/1132838012432240640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132838004412768300,
+					"id_str": "1132838004412768257",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D7imKbkV4AEI07E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7imKbkV4AEI07E.jpg",
+					"url": "https://t.co/hB7BMl4hLP",
+					"display_url": "pic.twitter.com/hB7BMl4hLP",
+					"expanded_url": "https://twitter.com/Deadm0use__/status/1132838012432240640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1132654051739353100,
+		"in_reply_to_status_id_str": "1132654051739353089",
+		"in_reply_to_user_id": 1085518428155203600,
+		"in_reply_to_user_id_str": "1085518428155203584",
+		"in_reply_to_screen_name": "Deadm0use__",
+		"user": {
+			"id": 1085518428155203600,
+			"id_str": "1085518428155203584",
+			"name": "죄 많은 짐승",
+			"screen_name": "Deadm0use__",
+			"location": "뫼르소 형무소 도스토 옆방",
+			"description": "이브 ・ Eve / BSD · Pandora Heart / 표도르 도스토옙스키 · ドス君 / 도스시부, 도스에이, 도스호손미첼 외 도스왼 고정 / 쟈크시즈 브레이크 · ブレーキ\n/ 브레샤론, 루셰릴, 빈에이 / 제가 올리는 모든 사진 가져가지마세요 블락함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 45,
+			"listed_count": 1,
+			"created_at": "Wed Jan 16 12:45:36 +0000 2019",
+			"favourites_count": 2378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132913552249856005/f78KKW75_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132913552249856005/f78KKW75_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085518428155203584/1557245248",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7673,
+		"favorite_count": 691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알티 타니까 덧붙입니다. 대학생분들 해외봉사 조심하시길 바랍니다. IYF는 기쁜소식선교회에서 세운 사립단체이며 기쁜소식선교회는 박옥수가 세운 이단입니다. 실제로 해외봉사인 줄 알고 갔다가 목숨까지 위협당한 사례가 있으며 이러한 봉사는 절대 스펙으로 인정하지 https://t.co/hB7BMl4hLP"
+	},
+	{
+		"created_at": "Tue May 28 04:16:46 +0000 2019",
+		"id": 1132654051739353100,
+		"id_str": "1133225577442304000",
+		"full_text": "정확하게 나누면 \n\n사이비 = 신천지, 구원파, JMS, 통일교, 안식교, \n이단 = 몰몬교, 여호와의증인, 하나님의교회, 전능하신하나님의교회\n\n일걸... 이단은 걍 성경 지들 맘대로 가르치는데 사이비는 교주 신격화에 돈까지 뜯고 범죄일으킴",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085518428155203600,
+			"id_str": "1085518428155203584",
+			"name": "죄 많은 짐승",
+			"screen_name": "Deadm0use__",
+			"location": "뫼르소 형무소 도스토 옆방",
+			"description": "이브 ・ Eve / BSD · Pandora Heart / 표도르 도스토옙스키 · ドス君 / 도스시부, 도스에이, 도스호손미첼 외 도스왼 고정 / 쟈크시즈 브레이크 · ブレーキ\n/ 브레샤론, 루셰릴, 빈에이 / 제가 올리는 모든 사진 가져가지마세요 블락함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 45,
+			"listed_count": 1,
+			"created_at": "Wed Jan 16 12:45:36 +0000 2019",
+			"favourites_count": 2378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132913552249856005/f78KKW75_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132913552249856005/f78KKW75_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085518428155203584/1557245248",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10394,
+		"favorite_count": 1754,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정확하게 나누면 \n\n사이비 = 신천지, 구원파, JMS, 통일교, 안식교, \n이단 = 몰몬교, 여호와의증인, 하나님의교회, 전능하신하나님의교회\n\n일걸... 이단은 걍 성경 지들 맘대로 가르치는데 사이비는 교주 신격화에 돈까지 뜯고 범죄일으킴"
+	},
+	{
+		"created_at": "Tue May 28 04:14:07 +0000 2019",
+		"id": 1133159567674601500,
+		"id_str": "1133224909222469632",
+		"full_text": "화웨이가 준비하고 있단 자체 OS 훙멍.\n\nAPK 호환이 있는걸 봐서는 AOSP에서 이것저것 뜯어고쳤거나 기존 화웨이 커스텀에서 구글 서비스 빼고 자체 서비스 넣은 듯 싶은데 이러면 중국인 말고 누가 쓰죠.\n\n마사지 앱(Massage App)도 놀라운데, 스마트폰을 딜도로 쓰라는건가.. #음란마귀 https://t.co/WxExYsXj4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음란마귀",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133159553657331700,
+					"id_str": "1133159553657331712",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D7nKnD2V4AAHgMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7nKnD2V4AAHgMv.jpg",
+					"url": "https://t.co/WxExYsXj4D",
+					"display_url": "pic.twitter.com/WxExYsXj4D",
+					"expanded_url": "https://twitter.com/LaruYan/status/1133159567674601472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133159553657331700,
+					"id_str": "1133159553657331712",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D7nKnD2V4AAHgMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7nKnD2V4AAHgMv.jpg",
+					"url": "https://t.co/WxExYsXj4D",
+					"display_url": "pic.twitter.com/WxExYsXj4D",
+					"expanded_url": "https://twitter.com/LaruYan/status/1133159567674601472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133159553682497500,
+					"id_str": "1133159553682497536",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D7nKnD8V4AAlIuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7nKnD8V4AAlIuc.jpg",
+					"url": "https://t.co/WxExYsXj4D",
+					"display_url": "pic.twitter.com/WxExYsXj4D",
+					"expanded_url": "https://twitter.com/LaruYan/status/1133159567674601472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749257340533153800,
+			"id_str": "749257340533153792",
+			"name": "라루얀 / 말썽쟁이 구운 경단 🍡",
+			"screen_name": "LaruYan",
+			"location": "",
+			"description": "\"기쁜 일도 슬픈일도 전부 동그랗게\"\n\n초면죄송 안하셔도 되요. 불편하시다면 속으로 삭히는 대신, 말로 제보해주세요. 말 안걸어주시면 구독이라 생각할게요.\n자세한 것은 웹사이트에서. for English, refer website.\n\n블언블 의심 전에: @LaruYanKaPothoa",
+			"url": "https://t.co/Jo8lpf8fXq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jo8lpf8fXq",
+							"expanded_url": "https://blog.laruyan.moe/2018/12/blog-post_64.html",
+							"display_url": "blog.laruyan.moe/2018/12/blog-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 116,
+			"listed_count": 25,
+			"created_at": "Sat Jul 02 15:04:05 +0000 2016",
+			"favourites_count": 6182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749257340533153792/1467474106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화웨이가 준비하고 있단 자체 OS 훙멍.\n\nAPK 호환이 있는걸 봐서는 AOSP에서 이것저것 뜯어고쳤거나 기존 화웨이 커스텀에서 구글 서비스 빼고 자체 서비스 넣은 듯 싶은데 이러면 중국인 말고 누가 쓰죠.\n\n마사지 앱(Massage App)도 놀라운데, 스마트폰을 딜도로 쓰라는건가.. #음란마귀 https://t.co/WxExYsXj4D"
+	},
+	{
+		"created_at": "Tue May 28 04:13:44 +0000 2019",
+		"id": 1132613791697367000,
+		"id_str": "1133224811692298240",
+		"full_text": "고등학생 영어 교재에 환경 보호 성공 사례로 \"인간의 환경 파괴로 오존 층에 구멍이 났지만, 전 세계의 협력으로 프레온 가스 배출을 감축해 구멍이 메워지고 있으며, 오존 층이 파괴되기 이전으로 회복될 예정이다.\" 같은 내용 나오는데. 몰래 배출되고 있었다니 충격이다. https://t.co/IF1wFvRrjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IF1wFvRrjt",
+					"expanded_url": "https://twitter.com/mbcnews/status/1131756706231410688",
+					"display_url": "twitter.com/mbcnews/status…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968886505203617800,
+			"id_str": "968886505203617792",
+			"name": "dolere",
+			"screen_name": "dolessi",
+			"location": "",
+			"description": "여성주의자이고 메갈입니다. 여성 성소수자인 것 같습니다. 불안정노동자입니다. 좌익입니다. 팔로잉은 비공개 리스트로 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 492,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Wed Feb 28 16:31:58 +0000 2018",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106496211723280385/oPjZNcgB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106496211723280385/oPjZNcgB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131756706231410700,
+		"quoted_status_id_str": "1131756706231410688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IF1wFvRrjt",
+			"expanded": "https://twitter.com/mbcnews/status/1131756706231410688",
+			"display": "twitter.com/mbcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 03:00:00 +0000 2019",
+			"id": 1131756706231410700,
+			"id_str": "1131756706231410688",
+			"full_text": "오존층을 파괴하는 주범인 프레온 가스가 다시  급증하고 있어 조사를 해보니 중국에서 배출되고 있는 것으로 확인됐습니다. https://t.co/8Ev4WioOLS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1131733883840372700,
+						"id_str": "1131733883840372736",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/D7S9wgtV4AAyuO_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7S9wgtV4AAyuO_.jpg",
+						"url": "https://t.co/8Ev4WioOLS",
+						"display_url": "pic.twitter.com/8Ev4WioOLS",
+						"expanded_url": "https://twitter.com/mbcnews/status/1131756706231410688/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131733883840372700,
+						"id_str": "1131733883840372736",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/D7S9wgtV4AAyuO_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7S9wgtV4AAyuO_.jpg",
+						"url": "https://t.co/8Ev4WioOLS",
+						"display_url": "pic.twitter.com/8Ev4WioOLS",
+						"expanded_url": "https://twitter.com/mbcnews/status/1131756706231410688/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 104875,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1131733883840372736/vid/320x180/Nz6J8LpnSJpi_1U_.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1131733883840372736/vid/640x360/BF9GZJYKMHWkYOR7.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1131733883840372736/pl/Jgai7z-EPZWLoZcE.m3u8?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "오존층 뚫리거나 말거나…中 프레온가스 '뿜뿜'",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://imnews.imbc.com//replay/2019/nwtoday/article/5327352_24616.html"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41735670,
+				"id_str": "41735670",
+				"name": "MBC News (MBC 뉴스)",
+				"screen_name": "mbcnews",
+				"location": "",
+				"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+				"url": "http://t.co/g6J4PaiDlj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g6J4PaiDlj",
+								"expanded_url": "http://imnews.imbc.com",
+								"display_url": "imnews.imbc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 373702,
+				"friends_count": 153899,
+				"listed_count": 3698,
+				"created_at": "Fri May 22 02:45:13 +0000 2009",
+				"favourites_count": 504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 122052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1531700689",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2131,
+			"favorite_count": 379,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3652,
+		"favorite_count": 551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고등학생 영어 교재에 환경 보호 성공 사례로 \"인간의 환경 파괴로 오존 층에 구멍이 났지만, 전 세계의 협력으로 프레온 가스 배출을 감축해 구멍이 메워지고 있으며, 오존 층이 파괴되기 이전으로 회복될 예정이다.\" 같은 내용 나오는데. 몰래 배출되고 있었다니 충격이다. https://t.co/IF1wFvRrjt"
+	},
+	{
 		"created_at": "Tue May 28 02:25:25 +0000 2019",
 		"id": 1133197555653734400,
 		"id_str": "1133197555653734400",
