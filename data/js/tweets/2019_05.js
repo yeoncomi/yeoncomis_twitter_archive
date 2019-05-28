@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 21:52:53 +0000 2019",
+		"id": 1133487684465250300,
+		"id_str": "1133491355810799616",
+		"full_text": "디지털 포렌식 하시는 분들은 이제 풍년입니다.\n그냥 .pe_converted 들어가셔서 파일 보시면 이 컴퓨터 주인이 뭘 실행 했는지 다 알 수 있겠네요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133487052001931300,
+		"in_reply_to_status_id_str": "1133487052001931264",
+		"in_reply_to_user_id": 1095360243939172400,
+		"in_reply_to_user_id_str": "1095360243939172352",
+		"in_reply_to_screen_name": "Alex4386_dev",
+		"user": {
+			"id": 1095360243939172400,
+			"id_str": "1095360243939172352",
+			"name": "Alex4386 (dev)",
+			"screen_name": "Alex4386_dev",
+			"location": "",
+			"description": "Alex4386, SWDM 2019 / Stacks: TypeScript, C#, JavaScript, HTML&CSS, Kotlin, C++\n(사담계: @alex4386_priv) / 본명: 박상희",
+			"url": "https://t.co/8bS72T0Z5K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8bS72T0Z5K",
+							"expanded_url": "http://github.com/Alex4386",
+							"display_url": "github.com/Alex4386",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 105,
+			"listed_count": 3,
+			"created_at": "Tue Feb 12 16:33:27 +0000 2019",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095360243939172352/1555161074",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "디지털 포렌식 하시는 분들은 이제 풍년입니다.\n그냥 .pe_converted 들어가셔서 파일 보시면 이 컴퓨터 주인이 뭘 실행 했는지 다 알 수 있겠네요"
+	},
+	{
+		"created_at": "Tue May 28 21:52:51 +0000 2019",
+		"id": 1133487052001931300,
+		"id_str": "1133491347212517376",
+		"full_text": "티맥스 구조 자체가 좀 신기하면서 동시에 비효율적이기도 하네요, 왜인지는 모르겠는데 우선 파일 자체가 먼저 복사되고 컨버팅 작업을 거친 다음에 진행되는 것 같은데.\n\n왜인지는 모르겠지만 이 컨버팅 과정을 거치면서 파일 사이즈가 증가 하고,\n그 임시 디렉토리 상에 있는 파일도 실행이 되네요. https://t.co/OfoPFkHufK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OfoPFkHufK",
+					"expanded_url": "https://twitter.com/Alex4386_dev/status/1133485566996041728",
+					"display_url": "twitter.com/Alex4386_dev/s…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1095360243939172400,
+			"id_str": "1095360243939172352",
+			"name": "Alex4386 (dev)",
+			"screen_name": "Alex4386_dev",
+			"location": "",
+			"description": "Alex4386, SWDM 2019 / Stacks: TypeScript, C#, JavaScript, HTML&CSS, Kotlin, C++\n(사담계: @alex4386_priv) / 본명: 박상희",
+			"url": "https://t.co/8bS72T0Z5K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8bS72T0Z5K",
+							"expanded_url": "http://github.com/Alex4386",
+							"display_url": "github.com/Alex4386",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 105,
+			"listed_count": 3,
+			"created_at": "Tue Feb 12 16:33:27 +0000 2019",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095360243939172352/1555161074",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133485566996041700,
+		"quoted_status_id_str": "1133485566996041728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OfoPFkHufK",
+			"expanded": "https://twitter.com/Alex4386_dev/status/1133485566996041728",
+			"display": "twitter.com/Alex4386_dev/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 21:29:52 +0000 2019",
+			"id": 1133485566996041700,
+			"id_str": "1133485566996041728",
+			"full_text": "뭐지 이거..? 파일사이즈가 오히려 더 커졌는데??? https://t.co/i2Nk0iYs0B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133485503800463400,
+						"id_str": "1133485503800463360",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/D7rzD2wU0AAh3hC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7rzD2wU0AAh3hC.jpg",
+						"url": "https://t.co/i2Nk0iYs0B",
+						"display_url": "pic.twitter.com/i2Nk0iYs0B",
+						"expanded_url": "https://twitter.com/Alex4386_dev/status/1133485566996041728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1649,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133485503800463400,
+						"id_str": "1133485503800463360",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/D7rzD2wU0AAh3hC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7rzD2wU0AAh3hC.jpg",
+						"url": "https://t.co/i2Nk0iYs0B",
+						"display_url": "pic.twitter.com/i2Nk0iYs0B",
+						"expanded_url": "https://twitter.com/Alex4386_dev/status/1133485566996041728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1649,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1133483934421987300,
+			"in_reply_to_status_id_str": "1133483934421987328",
+			"in_reply_to_user_id": 1095360243939172400,
+			"in_reply_to_user_id_str": "1095360243939172352",
+			"in_reply_to_screen_name": "Alex4386_dev",
+			"user": {
+				"id": 1095360243939172400,
+				"id_str": "1095360243939172352",
+				"name": "Alex4386 (dev)",
+				"screen_name": "Alex4386_dev",
+				"location": "",
+				"description": "Alex4386, SWDM 2019 / Stacks: TypeScript, C#, JavaScript, HTML&CSS, Kotlin, C++\n(사담계: @alex4386_priv) / 본명: 박상희",
+				"url": "https://t.co/8bS72T0Z5K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8bS72T0Z5K",
+								"expanded_url": "http://github.com/Alex4386",
+								"display_url": "github.com/Alex4386",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 105,
+				"listed_count": 3,
+				"created_at": "Tue Feb 12 16:33:27 +0000 2019",
+				"favourites_count": 758,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124353380980150272/i0CSaqlC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095360243939172352/1555161074",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티맥스 구조 자체가 좀 신기하면서 동시에 비효율적이기도 하네요, 왜인지는 모르겠는데 우선 파일 자체가 먼저 복사되고 컨버팅 작업을 거친 다음에 진행되는 것 같은데.\n\n왜인지는 모르겠지만 이 컨버팅 과정을 거치면서 파일 사이즈가 증가 하고,\n그 임시 디렉토리 상에 있는 파일도 실행이 되네요. https://t.co/OfoPFkHufK"
+	},
+	{
 		"created_at": "Tue May 28 21:11:45 +0000 2019",
 		"id": 1133480752899924000,
 		"id_str": "1133481007405969408",
