@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 06:06:52 +0000 2019",
+		"id": 1133021759819489300,
+		"id_str": "1133253285282865152",
+		"full_text": "판사 출신 근근웹 유저 https://t.co/7QeBAfVL1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133021755369353200,
+					"id_str": "1133021755369353218",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lNSJOUcAITPDW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7lNSJOUcAITPDW.png",
+					"url": "https://t.co/7QeBAfVL1Y",
+					"display_url": "pic.twitter.com/7QeBAfVL1Y",
+					"expanded_url": "https://twitter.com/ppap__ppap_p/status/1133021759819489282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 882,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133021755369353200,
+					"id_str": "1133021755369353218",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lNSJOUcAITPDW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7lNSJOUcAITPDW.png",
+					"url": "https://t.co/7QeBAfVL1Y",
+					"display_url": "pic.twitter.com/7QeBAfVL1Y",
+					"expanded_url": "https://twitter.com/ppap__ppap_p/status/1133021759819489282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 882,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1076608244502618100,
+			"id_str": "1076608244502618112",
+			"name": "웃긴거 제보 받습니다",
+			"screen_name": "ppap__ppap_p",
+			"location": "",
+			"description": "웃긴거 디엠으로 보내주시면 확인하고 바로 올려드려요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Sat Dec 22 22:39:42 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099815158291914753/_4rAOzAN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099815158291914753/_4rAOzAN_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "판사 출신 근근웹 유저 https://t.co/7QeBAfVL1Y"
+	},
+	{
 		"created_at": "Tue May 28 05:06:21 +0000 2019",
 		"id": 1132879744922312700,
 		"id_str": "1133238052883554304",
@@ -164,7 +324,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Tue May 28 05:02:20 +0000 2019",
 		"id": 1133185460442783700,
 		"id_str": "1133237043608162304",
-		"full_text": "한국도 2000년초에 범죄자가 그저 예쁘다는 이유로 얼짱강도라며 팬카페 만들고 옹호하던 사람들 많았지요. 🤦‍♂️",
+		"full_text": "한국도 2000년초에 범죄자가 그저 예쁘다는 이유로 얼짱강도라며 팬카페 만들고 옹호하던 사람들 많았지요. 🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -253,7 +413,7 @@ Grailbird.data.tweets_2019_05 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "한국도 2000년초에 범죄자가 그저 예쁘다는 이유로 얼짱강도라며 팬카페 만들고 옹호하던 사람들 많았지요. 🤦‍♂️"
+		"text": "한국도 2000년초에 범죄자가 그저 예쁘다는 이유로 얼짱강도라며 팬카페 만들고 옹호하던 사람들 많았지요. 🤦♂️"
 	},
 	{
 		"created_at": "Tue May 28 04:33:42 +0000 2019",
