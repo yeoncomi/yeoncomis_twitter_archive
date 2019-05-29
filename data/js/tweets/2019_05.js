@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 01:24:47 +0000 2019",
+		"id": 1133542501510471700,
+		"id_str": "1133544682946883585",
+		"full_text": "Wow... \"Pokemon Home\" is a new cloud-based storage service that allows you to transfer in Pokemon from the 3DS, mobile, and Switch games, and trade with friends and trailers around the world. Crazy! #PokemonPressConference #PokemonHome https://t.co/vAbAGp4Gmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PokemonPressConference",
+					"indices": [
+						199,
+						222
+					]
+				},
+				{
+					"text": "PokemonHome",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133542244642897900,
+					"id_str": "1133542244642897921",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D7smqm3WwAEFgMG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7smqm3WwAEFgMG.png",
+					"url": "https://t.co/vAbAGp4Gmm",
+					"display_url": "pic.twitter.com/vAbAGp4Gmm",
+					"expanded_url": "https://twitter.com/Nintendrew_/status/1133542501510471681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133542244642897900,
+					"id_str": "1133542244642897921",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D7smqm3WwAEFgMG.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7smqm3WwAEFgMG.png",
+					"url": "https://t.co/vAbAGp4Gmm",
+					"display_url": "pic.twitter.com/vAbAGp4Gmm",
+					"expanded_url": "https://twitter.com/Nintendrew_/status/1133542501510471681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 833750489896468500,
+			"id_str": "833750489896468480",
+			"name": "Nintendrew 🔜 OMG!Con",
+			"screen_name": "Nintendrew_",
+			"location": "P.O.Box 30, Woodburn, KY 42170",
+			"description": "Current and retro video game collecting!\nhttps://t.co/G7r7xkKpgl\nhttps://t.co/71cQTPjjXE\nhttps://t.co/yD45x3F8HC",
+			"url": "https://t.co/0JZNgVyLea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0JZNgVyLea",
+							"expanded_url": "http://Nintendrew.com",
+							"display_url": "Nintendrew.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/G7r7xkKpgl",
+							"expanded_url": "http://youtube.com/Nintendrew",
+							"display_url": "youtube.com/Nintendrew",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/71cQTPjjXE",
+							"expanded_url": "http://discord.gg/Nintendrew",
+							"display_url": "discord.gg/Nintendrew",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/yD45x3F8HC",
+							"expanded_url": "http://patreon.com/Nintendrew",
+							"display_url": "patreon.com/Nintendrew",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17099,
+			"friends_count": 1102,
+			"listed_count": 19,
+			"created_at": "Mon Feb 20 18:49:41 +0000 2017",
+			"favourites_count": 10312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116835444921110530/zDHI2YMo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116835444921110530/zDHI2YMo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/833750489896468480/1547348823",
+			"profile_link_color": "F80001",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow... \"Pokemon Home\" is a new cloud-based storage service that allows you to transfer in Pokemon from the 3DS, mobile, and Switch games, and trade with friends and trailers around the world. Crazy! #PokemonPressConference #PokemonHome https://t.co/vAbAGp4Gmm"
+	},
+	{
 		"created_at": "Wed May 29 01:07:59 +0000 2019",
 		"id": 1132846300158865400,
 		"id_str": "1133540454329245697",
