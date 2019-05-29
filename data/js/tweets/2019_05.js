@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 21:10:11 +0000 2019",
+		"id": 1133808235566194700,
+		"id_str": "1133842999819980800",
+		"full_text": "hey #LGBTCosplay i don’t cosplay super seriously but mostly so i can fuck around with my friends while in costume https://t.co/GRny9CDsnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LGBTCosplay",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133808227672416300,
+					"id_str": "1133808227672416256",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wYk23UYAAQcJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wYk23UYAAQcJ3.jpg",
+					"url": "https://t.co/GRny9CDsnB",
+					"display_url": "pic.twitter.com/GRny9CDsnB",
+					"expanded_url": "https://twitter.com/yurifucker/status/1133808235566194688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1642,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133808227672416300,
+					"id_str": "1133808227672416256",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wYk23UYAAQcJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wYk23UYAAQcJ3.jpg",
+					"url": "https://t.co/GRny9CDsnB",
+					"display_url": "pic.twitter.com/GRny9CDsnB",
+					"expanded_url": "https://twitter.com/yurifucker/status/1133808235566194688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1642,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133808227685003300,
+					"id_str": "1133808227685003264",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wYk26UcAAy1Gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wYk26UcAAy1Gb.jpg",
+					"url": "https://t.co/GRny9CDsnB",
+					"display_url": "pic.twitter.com/GRny9CDsnB",
+					"expanded_url": "https://twitter.com/yurifucker/status/1133808235566194688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 937,
+							"h": 991,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 991,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133808227680829400,
+					"id_str": "1133808227680829440",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wYk25UwAAEbwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wYk25UwAAEbwl.jpg",
+					"url": "https://t.co/GRny9CDsnB",
+					"display_url": "pic.twitter.com/GRny9CDsnB",
+					"expanded_url": "https://twitter.com/yurifucker/status/1133808235566194688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133808227680890900,
+					"id_str": "1133808227680890880",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wYk25VsAAvevv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wYk25VsAAvevv.jpg",
+					"url": "https://t.co/GRny9CDsnB",
+					"display_url": "pic.twitter.com/GRny9CDsnB",
+					"expanded_url": "https://twitter.com/yurifucker/status/1133808235566194688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 954,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 954,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1658975898,
+			"id_str": "1658975898",
+			"name": "emi💖💜💙",
+			"screen_name": "yurifucker",
+			"location": "Wife City",
+			"description": "NSFW 18+ ONLY🔞🌈💖💜💙 bi artist drawing girls. saber is my wife. online 2 have a Good Time. art only: @dasaberz0ne",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10009,
+			"friends_count": 1219,
+			"listed_count": 90,
+			"created_at": "Sat Aug 10 01:46:53 +0000 2013",
+			"favourites_count": 138677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130674369296982016/FFawLSv3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130674369296982016/FFawLSv3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1658975898/1554089029",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "hey #LGBTCosplay i don’t cosplay super seriously but mostly so i can fuck around with my friends while in costume https://t.co/GRny9CDsnB"
+	},
+	{
 		"created_at": "Wed May 29 18:18:02 +0000 2019",
 		"id": 1133614235987001300,
 		"id_str": "1133799675981471744",
