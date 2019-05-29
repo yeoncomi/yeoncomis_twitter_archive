@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 01:07:59 +0000 2019",
+		"id": 1132846300158865400,
+		"id_str": "1133540454329245697",
+		"full_text": "아니 이걸 하란다고 진짜 하네 ㅋㅋㅋㅋㅋ https://t.co/zafglEbUkI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132846267191636000,
+					"id_str": "1132846267191635968",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7itrY0VsAAj2l2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7itrY0VsAAj2l2.jpg",
+					"url": "https://t.co/zafglEbUkI",
+					"display_url": "pic.twitter.com/zafglEbUkI",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1132846300158865408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132846267191636000,
+					"id_str": "1132846267191635968",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7itrY0VsAAj2l2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7itrY0VsAAj2l2.jpg",
+					"url": "https://t.co/zafglEbUkI",
+					"display_url": "pic.twitter.com/zafglEbUkI",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1132846300158865408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132846275689209900,
+					"id_str": "1132846275689209857",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7itr4eUYAE0RTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7itr4eUYAE0RTm.jpg",
+					"url": "https://t.co/zafglEbUkI",
+					"display_url": "pic.twitter.com/zafglEbUkI",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1132846300158865408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132846286921556000,
+					"id_str": "1132846286921555969",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7itsiUUYAEUWYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7itsiUUYAEUWYA.jpg",
+					"url": "https://t.co/zafglEbUkI",
+					"display_url": "pic.twitter.com/zafglEbUkI",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1132846300158865408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1132846294244835300,
+					"id_str": "1132846294244835328",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7its9mUwAA7tLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7its9mUwAA7tLw.jpg",
+					"url": "https://t.co/zafglEbUkI",
+					"display_url": "pic.twitter.com/zafglEbUkI",
+					"expanded_url": "https://twitter.com/Natsunokori/status/1132846300158865408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1969146632,
+			"id_str": "1969146632",
+			"name": "하빙",
+			"screen_name": "Natsunokori",
+			"location": "夏氷",
+			"description": "게임, 야겜, 드라마 // 생각 정리 : @Summerlce",
+			"url": "https://t.co/TIpdfvgv32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TIpdfvgv32",
+							"expanded_url": "http://summer-ice.tistory.com/1",
+							"display_url": "summer-ice.tistory.com/1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 307,
+			"listed_count": 11,
+			"created_at": "Fri Oct 18 16:06:59 +0000 2013",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 316446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938374195548848129/OhduZVF3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938374195548848129/OhduZVF3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1969146632/1512560205",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1808,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "아니 이걸 하란다고 진짜 하네 ㅋㅋㅋㅋㅋ https://t.co/zafglEbUkI"
+	},
+	{
+		"created_at": "Wed May 29 00:58:51 +0000 2019",
+		"id": 1133511191169339400,
+		"id_str": "1133538156089733120",
+		"full_text": "대전의 한 초등학교 교장이 학생들의 간식을 가로챘다는 의혹이 제기됐습니다. 교장은 간식 종류와 양까지 지정했습니다. \nhttps://t.co/lGFH9jp6c0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lGFH9jp6c0",
+					"expanded_url": "http://imnews.imbc.com//replay/2019/nwtoday/article/5334635_24616.html",
+					"display_url": "imnews.imbc.com//replay/2019/n…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373731,
+			"friends_count": 153882,
+			"listed_count": 3698,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 122115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1531700689",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대전의 한 초등학교 교장이 학생들의 간식을 가로챘다는 의혹이 제기됐습니다. 교장은 간식 종류와 양까지 지정했습니다. \nhttps://t.co/lGFH9jp6c0"
+	},
+	{
+		"created_at": "Wed May 29 00:38:36 +0000 2019",
+		"id": 1133410284704428000,
+		"id_str": "1133533061109338113",
+		"full_text": "응급실 내원과 약 조제비용 합해서 10만원 넘어가는것도 별로 알고싶지 않았음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1133406327609282600,
+		"in_reply_to_status_id_str": "1133406327609282562",
+		"in_reply_to_user_id": 4910011489,
+		"in_reply_to_user_id_str": "4910011489",
+		"in_reply_to_screen_name": "gudetaku34521",
+		"user": {
+			"id": 4910011489,
+			"id_str": "4910011489",
+			"name": "코젵/コゼット",
+			"screen_name": "gudetaku34521",
+			"location": "",
+			"description": "Cosette/コゼット/코젵\n20↑ Korean/ Cosplayer/ Follow Free/ JJBA/ Devilman/V系/ https://t.co/kjKo2fIMPj\n(I can speak simple english and Japanese)\n@EMjUJjA7tNqPdZo 사진백업",
+			"url": "https://t.co/scAjcfaliP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/scAjcfaliP",
+							"expanded_url": "http://m.worldcosplay.net/member/gudetaku34521",
+							"display_url": "m.worldcosplay.net/member/gudetak…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kjKo2fIMPj",
+							"expanded_url": "http://ask.fm/gudetaku34521",
+							"display_url": "ask.fm/gudetaku34521",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 871,
+			"friends_count": 648,
+			"listed_count": 7,
+			"created_at": "Mon Feb 15 06:06:42 +0000 2016",
+			"favourites_count": 19410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131566904454176769/aXrlvWS4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131566904454176769/aXrlvWS4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4910011489/1547550359",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "응급실 내원과 약 조제비용 합해서 10만원 넘어가는것도 별로 알고싶지 않았음"
+	},
+	{
 		"created_at": "Tue May 28 23:27:44 +0000 2019",
 		"id": 1133513054254059500,
 		"id_str": "1133515228958691328",
