@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 23:27:44 +0000 2019",
+		"id": 1133513054254059500,
+		"id_str": "1133515228958691328",
+		"full_text": "인간들 글 진짜 안읽는다고 생각란 최근 경험이 엘지 창문형 에어컨\n\n인버터 에어컨이라 가격이 70만원이나 한다고 본문에 아무리 써놔도\n댓글 보면 무조건 '창문형 에어컨은 인버터 없어서 전기세 장난 아니라던데' 써놓은 놈 있음 https://t.co/lvq3bbO3IH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133513051385356300,
+					"id_str": "1133513051385356289",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D7sMHVgX4AEfKg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7sMHVgX4AEfKg3.jpg",
+					"url": "https://t.co/lvq3bbO3IH",
+					"display_url": "pic.twitter.com/lvq3bbO3IH",
+					"expanded_url": "https://twitter.com/pigori/status/1133513054254059520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133513051385356300,
+					"id_str": "1133513051385356289",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D7sMHVgX4AEfKg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7sMHVgX4AEfKg3.jpg",
+					"url": "https://t.co/lvq3bbO3IH",
+					"display_url": "pic.twitter.com/lvq3bbO3IH",
+					"expanded_url": "https://twitter.com/pigori/status/1133513054254059520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "ピゴリ",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 99,
+			"listed_count": 16,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 8466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1540016887",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간들 글 진짜 안읽는다고 생각란 최근 경험이 엘지 창문형 에어컨\n\n인버터 에어컨이라 가격이 70만원이나 한다고 본문에 아무리 써놔도\n댓글 보면 무조건 '창문형 에어컨은 인버터 없어서 전기세 장난 아니라던데' 써놓은 놈 있음 https://t.co/lvq3bbO3IH"
+	},
+	{
+		"created_at": "Tue May 28 23:23:04 +0000 2019",
+		"id": 1133371667508424700,
+		"id_str": "1133514052284559361",
+		"full_text": "정말 너무 고통스럽다 https://t.co/igNQpZGXgg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133371664756904000,
+					"id_str": "1133371664756903936",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D7qLhjRUEAA0f5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7qLhjRUEAA0f5w.jpg",
+					"url": "https://t.co/igNQpZGXgg",
+					"display_url": "pic.twitter.com/igNQpZGXgg",
+					"expanded_url": "https://twitter.com/Neoulmagpie/status/1133371667508424705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133371664756904000,
+					"id_str": "1133371664756903936",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D7qLhjRUEAA0f5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7qLhjRUEAA0f5w.jpg",
+					"url": "https://t.co/igNQpZGXgg",
+					"display_url": "pic.twitter.com/igNQpZGXgg",
+					"expanded_url": "https://twitter.com/Neoulmagpie/status/1133371667508424705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1082,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1082,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960505495,
+			"id_str": "960505495",
+			"name": "심너울",
+			"screen_name": "Neoulmagpie",
+			"location": "작가",
+			"description": "질문함: https://t.co/nz32kVRfVx 컨택: polarmagpie@지메일.com 맞팔 필요시 멘션 주세요. 본명입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nz32kVRfVx",
+							"expanded_url": "http://peing.net/ko/neoulmagpie",
+							"display_url": "peing.net/ko/neoulmagpie",
+							"indices": [
+								5,
+								28
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1209,
+			"friends_count": 339,
+			"listed_count": 5,
+			"created_at": "Tue Nov 20 13:39:23 +0000 2012",
+			"favourites_count": 2311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111063847589367808/ABO9yGUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111063847589367808/ABO9yGUA_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말 너무 고통스럽다 https://t.co/igNQpZGXgg"
+	},
+	{
 		"created_at": "Tue May 28 21:52:53 +0000 2019",
 		"id": 1133487684465250300,
 		"id_str": "1133491355810799616",
