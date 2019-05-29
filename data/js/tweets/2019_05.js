@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 18:08:20 +0000 2019",
+		"id": 1133796732716765200,
+		"id_str": "1133797237245349888",
+		"full_text": "새로운 중국인 핵쟁이 입니다. 주로 저댄에서 중국인 다같이 활동하고 그쪽에 많은 중국인듯 다같이 핵쟁이 입니다 제가 가서 일본어 할줄 아는 사람에게 전해 달라고했더니 듣고 빤스런 했습니다 . 아이디 AK 라고 검색하면 나옵니다 다들 조심하세요 https://t.co/jbaEcIlsen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133796723560550400,
+					"id_str": "1133796723560550400",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wOHOtUEAAr93N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wOHOtUEAAr93N.jpg",
+					"url": "https://t.co/jbaEcIlsen",
+					"display_url": "pic.twitter.com/jbaEcIlsen",
+					"expanded_url": "https://twitter.com/Akaio_o/status/1133796732716765184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133796723560550400,
+					"id_str": "1133796723560550400",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wOHOtUEAAr93N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wOHOtUEAAr93N.jpg",
+					"url": "https://t.co/jbaEcIlsen",
+					"display_url": "pic.twitter.com/jbaEcIlsen",
+					"expanded_url": "https://twitter.com/Akaio_o/status/1133796732716765184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 305,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133796723560607700,
+					"id_str": "1133796723560607744",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wOHOtU8AA1jGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wOHOtU8AA1jGO.jpg",
+					"url": "https://t.co/jbaEcIlsen",
+					"display_url": "pic.twitter.com/jbaEcIlsen",
+					"expanded_url": "https://twitter.com/Akaio_o/status/1133796732716765184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1005208598060945400,
+			"id_str": "1005208598060945408",
+			"name": "아카이",
+			"screen_name": "Akaio_o",
+			"location": "",
+			"description": "야 하로",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 84,
+			"listed_count": 2,
+			"created_at": "Fri Jun 08 22:03:00 +0000 2018",
+			"favourites_count": 491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132695644177461248/YfnuNLeJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132695644177461248/YfnuNLeJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1005208598060945408/1556606148",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 중국인 핵쟁이 입니다. 주로 저댄에서 중국인 다같이 활동하고 그쪽에 많은 중국인듯 다같이 핵쟁이 입니다 제가 가서 일본어 할줄 아는 사람에게 전해 달라고했더니 듣고 빤스런 했습니다 . 아이디 AK 라고 검색하면 나옵니다 다들 조심하세요 https://t.co/jbaEcIlsen"
+	},
+	{
 		"created_at": "Wed May 29 17:00:51 +0000 2019",
 		"id": 1133780253887701000,
 		"id_str": "1133780253887700992",
