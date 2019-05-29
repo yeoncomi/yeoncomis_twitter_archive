@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 04:36:45 +0000 2019",
+		"id": 1133561522192392200,
+		"id_str": "1133592993271697408",
+		"full_text": "김정은도 북한 농민 걱정을 이렇게까지 안 할걸? https://t.co/etq40XOUPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/etq40XOUPw",
+					"expanded_url": "https://twitter.com/joongangilbo/status/1133552687633428480",
+					"display_url": "twitter.com/joongangilbo/s…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 843677908098990100,
+			"id_str": "843677908098990080",
+			"name": "berryholic",
+			"screen_name": "berryholic99",
+			"location": "",
+			"description": "댓글과 멘션 좀 구별하고 삽시다.\n아직도 2018년 8월을 사는 등신들 좀 깐다고 죄명이 지지자들 팔로잉하는데 그러지 마세요. 병신에도 급이 있다면 니들은 TOP인데.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 59,
+			"listed_count": 3,
+			"created_at": "Mon Mar 20 04:17:42 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090978443301314561/5xHy2aGY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090978443301314561/5xHy2aGY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/843677908098990080/1548944505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133552687633428500,
+		"quoted_status_id_str": "1133552687633428480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/etq40XOUPw",
+			"expanded": "https://twitter.com/joongangilbo/status/1133552687633428480",
+			"display": "twitter.com/joongangilbo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 01:56:35 +0000 2019",
+			"id": 1133552687633428500,
+			"id_str": "1133552687633428480",
+			"full_text": "하태경 \"북에 쌀 지원하면 북한 농민 다 망해… 김정은에 뺨 맞는다\"\nhttps://t.co/JPzpwtUvYC\n\n\"북한 쌀값 올해도 20% 떨어졌다. 북한 입장에서도 쌀 150톤 오는게 도움 안된다\" https://t.co/8dLy4bT9GI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JPzpwtUvYC",
+						"expanded_url": "https://news.joins.com/article/23482564",
+						"display_url": "news.joins.com/article/234825…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133552666133573600,
+						"id_str": "1133552666133573632",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/D7swJN8WsAA73rg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7swJN8WsAA73rg.jpg",
+						"url": "https://t.co/8dLy4bT9GI",
+						"display_url": "pic.twitter.com/8dLy4bT9GI",
+						"expanded_url": "https://twitter.com/joongangilbo/status/1133552687633428480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133552666133573600,
+						"id_str": "1133552666133573632",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/D7swJN8WsAA73rg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7swJN8WsAA73rg.jpg",
+						"url": "https://t.co/8dLy4bT9GI",
+						"display_url": "pic.twitter.com/8dLy4bT9GI",
+						"expanded_url": "https://twitter.com/joongangilbo/status/1133552687633428480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213591116,
+				"id_str": "213591116",
+				"name": "중앙일보",
+				"screen_name": "joongangilbo",
+				"location": "Seoul",
+				"description": "JoongAng Group is Korea's only comprehensive content group. / Facebook: https://t.co/1TuEOM6mwy",
+				"url": "http://t.co/tglh3q22E5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tglh3q22E5",
+								"expanded_url": "http://www.joongang.co.kr",
+								"display_url": "joongang.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1TuEOM6mwy",
+								"expanded_url": "https://www.facebook.com/joongang",
+								"display_url": "facebook.com/joongang",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 294426,
+				"friends_count": 44978,
+				"listed_count": 1660,
+				"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+				"favourites_count": 83,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 120014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FA9A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618604856786358272/9uPwBEmA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+				"profile_link_color": "88847F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 126,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김정은도 북한 농민 걱정을 이렇게까지 안 할걸? https://t.co/etq40XOUPw"
+	},
+	{
+		"created_at": "Wed May 29 04:30:37 +0000 2019",
+		"id": 1133306238194729000,
+		"id_str": "1133591448522186752",
+		"full_text": "컴본갤 근황) 인등이 도배하다가 놀림당함 https://t.co/Xbbg2gws9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133306222327738400,
+					"id_str": "1133306222327738370",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pQATOVsAI6WRP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pQATOVsAI6WRP.jpg",
+					"url": "https://t.co/Xbbg2gws9N",
+					"display_url": "pic.twitter.com/Xbbg2gws9N",
+					"expanded_url": "https://twitter.com/_extreme_yeon/status/1133306238194728961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133306222327738400,
+					"id_str": "1133306222327738370",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7pQATOVsAI6WRP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7pQATOVsAI6WRP.jpg",
+					"url": "https://t.co/Xbbg2gws9N",
+					"display_url": "pic.twitter.com/Xbbg2gws9N",
+					"expanded_url": "https://twitter.com/_extreme_yeon/status/1133306238194728961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117059571145527300,
+			"id_str": "1117059571145527296",
+			"name": "익연",
+			"screen_name": "_extreme_yeon",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339,
+			"friends_count": 323,
+			"listed_count": 6,
+			"created_at": "Sat Apr 13 13:38:50 +0000 2019",
+			"favourites_count": 540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132997434471211008/yiez7D-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132997434471211008/yiez7D-n_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "컴본갤 근황) 인등이 도배하다가 놀림당함 https://t.co/Xbbg2gws9N"
+	},
+	{
+		"created_at": "Wed May 29 04:30:04 +0000 2019",
+		"id": 1037140712750366700,
+		"id_str": "1133591313880760320",
+		"full_text": "@wjsejguq_ @****:걍 이상한인간임 \n\n트위터에서 성폭행 규탄 타래 8개나 막 적더니,\n\n그 다음주 소설에서 면간 나옴 ㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wjsejguq_",
+					"name": "전차도🌈",
+					"id": 2991653138,
+					"id_str": "2991653138",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1037114284797452300,
+		"in_reply_to_status_id_str": "1037114284797452291",
+		"in_reply_to_user_id": 2991653138,
+		"in_reply_to_user_id_str": "2991653138",
+		"in_reply_to_screen_name": "wjsejguq_",
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도🌈",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/세상은 아름답고 역사는 발전한다/#TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 702,
+			"listed_count": 39,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 16260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 345283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127442019951886337/QyppWZk-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127442019951886337/QyppWZk-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1558690726",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@wjsejguq_ @****:걍 이상한인간임 \n\n트위터에서 성폭행 규탄 타래 8개나 막 적더니,\n\n그 다음주 소설에서 면간 나옴 ㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Wed May 29 04:29:37 +0000 2019",
+		"id": 1037114284797452300,
+		"id_str": "1133591199166500864",
+		"full_text": "소라넷 출신이냐고 물어본 사람을 블락했다니 그거 또한 흠터러스팅한 이야기.. 페미니스트 소라넷남이라니 민족주의자 이완용이나 친미주의자 김일성 같은데나 붙을법한 수식어 아닌가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도🌈",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/세상은 아름답고 역사는 발전한다/#TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 702,
+			"listed_count": 39,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 16260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 345283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127442019951886337/QyppWZk-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127442019951886337/QyppWZk-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1558690726",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소라넷 출신이냐고 물어본 사람을 블락했다니 그거 또한 흠터러스팅한 이야기.. 페미니스트 소라넷남이라니 민족주의자 이완용이나 친미주의자 김일성 같은데나 붙을법한 수식어 아닌가"
+	},
+	{
 		"created_at": "Wed May 29 04:14:04 +0000 2019",
 		"id": 1133122472100806700,
 		"id_str": "1133587287000752129",
