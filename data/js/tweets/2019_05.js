@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 14:54:11 +0000 2019",
+		"id": 1134069465858003000,
+		"id_str": "1134110762992001024",
+		"full_text": "[M046] J.E.B - 3M Reflective Logo (black)\n재고한정상품\n\nhttps://t.co/r9zO89dAda\n\n@JEBsensei #JEB #요한일렉트릭바흐 #요일바 #BEMKR https://t.co/wyio4BiMj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JEB",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "요한일렉트릭바흐",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "요일바",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "BEMKR",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JEBsensei",
+					"name": "J.E.B",
+					"id": 1958040103,
+					"id_str": "1958040103",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r9zO89dAda",
+					"expanded_url": "http://bem.kr/product/detail.html?product_no=292&cate_no=51&display_group=1",
+					"display_url": "bem.kr/product/detail…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134064821203169300,
+					"id_str": "1134064821203169281",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D70B8kQU8AEBHd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D70B8kQU8AEBHd4.jpg",
+					"url": "https://t.co/wyio4BiMj6",
+					"display_url": "pic.twitter.com/wyio4BiMj6",
+					"expanded_url": "https://twitter.com/bem_kr/status/1134069465858002944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134064821203169300,
+					"id_str": "1134064821203169281",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D70B8kQU8AEBHd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D70B8kQU8AEBHd4.jpg",
+					"url": "https://t.co/wyio4BiMj6",
+					"display_url": "pic.twitter.com/wyio4BiMj6",
+					"expanded_url": "https://twitter.com/bem_kr/status/1134069465858002944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134064842577305600,
+					"id_str": "1134064842577305600",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D70B9z4UYAAuR5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D70B9z4UYAAuR5o.jpg",
+					"url": "https://t.co/wyio4BiMj6",
+					"display_url": "pic.twitter.com/wyio4BiMj6",
+					"expanded_url": "https://twitter.com/bem_kr/status/1134069465858002944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 593,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3110876987,
+			"id_str": "3110876987",
+			"name": "BEM",
+			"screen_name": "bem_kr",
+			"location": "",
+			"description": "아티스트 굿즈 한정 판매 숍 Artist goods shop in Seoul 🌐Overseas orders available🌐 contact@bem.kr",
+			"url": "https://t.co/220EfMSc6G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/220EfMSc6G",
+							"expanded_url": "http://bem.kr",
+							"display_url": "bem.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3461,
+			"friends_count": 0,
+			"listed_count": 26,
+			"created_at": "Tue Mar 24 17:01:43 +0000 2015",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743463245239877632/AJcFvvOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743463245239877632/AJcFvvOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3110876987/1525694785",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[M046] J.E.B - 3M Reflective Logo (black)\n재고한정상품\n\nhttps://t.co/r9zO89dAda\n\n@JEBsensei #JEB #요한일렉트릭바흐 #요일바 #BEMKR https://t.co/wyio4BiMj6"
+	},
+	{
+		"created_at": "Thu May 30 14:53:39 +0000 2019",
+		"id": 1134050749522931700,
+		"id_str": "1134110627612336133",
+		"full_text": "제독님 수업시간에는 인생을 살아주세요.. https://t.co/nCwWmkogo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134050737338560500,
+					"id_str": "1134050737338560512",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7z1IxxVsAAXaYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7z1IxxVsAAXaYH.jpg",
+					"url": "https://t.co/nCwWmkogo4",
+					"display_url": "pic.twitter.com/nCwWmkogo4",
+					"expanded_url": "https://twitter.com/PANMIMI_PRPR/status/1134050749522931712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134050737338560500,
+					"id_str": "1134050737338560512",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7z1IxxVsAAXaYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7z1IxxVsAAXaYH.jpg",
+					"url": "https://t.co/nCwWmkogo4",
+					"display_url": "pic.twitter.com/nCwWmkogo4",
+					"expanded_url": "https://twitter.com/PANMIMI_PRPR/status/1134050749522931712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134050737275564000,
+					"id_str": "1134050737275564032",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D7z1IxiUcAAkqH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7z1IxiUcAAkqH1.jpg",
+					"url": "https://t.co/nCwWmkogo4",
+					"display_url": "pic.twitter.com/nCwWmkogo4",
+					"expanded_url": "https://twitter.com/PANMIMI_PRPR/status/1134050749522931712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 722979786532917200,
+			"id_str": "722979786532917249",
+			"name": "PANMIMI🦋",
+			"screen_name": "PANMIMI_PRPR",
+			"location": "バナナオーシャン",
+			"description": "プリコネの年末年始はヤバイわよ！ / 프리코네의 연말연시는 야바이와요! / New Year Holiday of Pricone is Yabaiwayo! / 新年假期的超異域公主連結厉害！",
+			"url": "https://t.co/qJppWUV188",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJppWUV188",
+							"expanded_url": "http://www.orange_Sapphire.co.jp",
+							"display_url": "orange_Sapphire.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 226,
+			"listed_count": 10,
+			"created_at": "Thu Apr 21 02:46:28 +0000 2016",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129623643355435008/WDN41GHs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129623643355435008/WDN41GHs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722979786532917249/1556820674",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제독님 수업시간에는 인생을 살아주세요.. https://t.co/nCwWmkogo4"
+	},
+	{
+		"created_at": "Thu May 30 14:52:44 +0000 2019",
+		"id": 1133934838791065600,
+		"id_str": "1134110397290536961",
+		"full_text": "번 아웃은 번이 신체 밖을 빠져나간 증상이기 때문에 번을 많이 먹으면 좀 나아질 수 잇지 않겟읍니까 아님 말고요 https://t.co/SBm4hRbgMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133934829311995900,
+					"id_str": "1133934829311995904",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yLuCuVsAAybQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yLuCuVsAAybQZ.jpg",
+					"url": "https://t.co/SBm4hRbgMD",
+					"display_url": "pic.twitter.com/SBm4hRbgMD",
+					"expanded_url": "https://twitter.com/felineblues/status/1133934838791065601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133934829311995900,
+					"id_str": "1133934829311995904",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yLuCuVsAAybQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yLuCuVsAAybQZ.jpg",
+					"url": "https://t.co/SBm4hRbgMD",
+					"display_url": "pic.twitter.com/SBm4hRbgMD",
+					"expanded_url": "https://twitter.com/felineblues/status/1133934838791065601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254552850,
+			"id_str": "254552850",
+			"name": "흑묘(黑猫)",
+			"screen_name": "felineblues",
+			"location": "With my ᓚᘏᗢ",
+			"description": "'어려운건 아니고, 시간만 좀 들이면 되는거야.'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2748,
+			"friends_count": 4972,
+			"listed_count": 74,
+			"created_at": "Sat Feb 19 14:24:40 +0000 2011",
+			"favourites_count": 45819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 291507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/828152509990461440/m6JUwIhB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/828152509990461440/m6JUwIhB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254552850/1477802456",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "번 아웃은 번이 신체 밖을 빠져나간 증상이기 때문에 번을 많이 먹으면 좀 나아질 수 잇지 않겟읍니까 아님 말고요 https://t.co/SBm4hRbgMD"
+	},
+	{
 		"created_at": "Thu May 30 12:44:40 +0000 2019",
 		"id": 1134077507001561100,
 		"id_str": "1134078169466646529",
