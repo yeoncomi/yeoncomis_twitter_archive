@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 13:08:36 +0000 2019",
+		"id": 1134806919259074600,
+		"id_str": "1134808967450771457",
+		"full_text": "If everyone was the same, what special things would we ever find in each other? Let’s celebrate Pride and inclusion in our communities today and every day. \n\n#ScotiabankProud #Pride2019 #LifeatScotiabank https://t.co/Is4mG7UUQy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScotiabankProud",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "Pride2019",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "LifeatScotiabank",
+					"indices": [
+						186,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134806816838361100,
+					"id_str": "1134806816838361088",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1134806816838361088/img/Af-XHO2SEXZK2oUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1134806816838361088/img/Af-XHO2SEXZK2oUb.jpg",
+					"url": "https://t.co/Is4mG7UUQy",
+					"display_url": "pic.twitter.com/Is4mG7UUQy",
+					"expanded_url": "https://twitter.com/scotiabank/status/1134806919259074563/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134806816838361100,
+					"id_str": "1134806816838361088",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1134806816838361088/img/Af-XHO2SEXZK2oUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1134806816838361088/img/Af-XHO2SEXZK2oUb.jpg",
+					"url": "https://t.co/Is4mG7UUQy",
+					"display_url": "pic.twitter.com/Is4mG7UUQy",
+					"expanded_url": "https://twitter.com/scotiabank/status/1134806919259074563/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30072,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1134806816838361088/vid/640x360/L0c19hjChvxf_bBw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1134806816838361088/vid/1280x720/b0r3eAu4Z-dhwak1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1134806816838361088/pl/1ArpDCuFyLBwvwGc.m3u8?tag=12"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1134806816838361088/vid/320x180/WXbahwMq7ua7-y4h.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19638600,
+			"id_str": "19638600",
+			"name": "Scotiabank",
+			"screen_name": "scotiabank",
+			"location": "",
+			"description": "Welcome to Scotiabank! For questions & customer service requests, please visit @ScotiabankHelps. Our disclaimer: https://t.co/LXHRj3fHL8",
+			"url": "https://t.co/mtVh0Gfh0s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mtVh0Gfh0s",
+							"expanded_url": "http://www.scotiabank.com",
+							"display_url": "scotiabank.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LXHRj3fHL8",
+							"expanded_url": "http://bit.ly/2HlTXRC",
+							"display_url": "bit.ly/2HlTXRC",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94877,
+			"friends_count": 260,
+			"listed_count": 569,
+			"created_at": "Wed Jan 28 05:54:58 +0000 2009",
+			"favourites_count": 2413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134785372733530112/IR8mbuc9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134785372733530112/IR8mbuc9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19638600/1532352380",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "ECECDF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If everyone was the same, what special things would we ever find in each other? Let’s celebrate Pride and inclusion in our communities today and every day. \n\n#ScotiabankProud #Pride2019 #LifeatScotiabank https://t.co/Is4mG7UUQy"
+	},
+	{
 		"created_at": "Sat Jun 01 02:29:59 +0000 2019",
 		"id": 1134648255520706600,
 		"id_str": "1134648255520706561",
