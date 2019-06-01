@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 20:59:39 +0000 2019",
+		"id": 1134804367993843700,
+		"id_str": "1134927510594916352",
+		"full_text": "아니,, kbs 왜이러는걸까,,\n서울퀴퍼보도 너무 수신료의 가치를 실현했잖아,,\n심지어 혐오세력은 단1초 단한번도 거론되지않음,, https://t.co/w5elZQ01Ys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5elZQ01Ys",
+					"expanded_url": "https://news.v.daum.net/v/20190601213641365?f=m",
+					"display_url": "news.v.daum.net/v/201906012136…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 246876558,
+			"id_str": "246876558",
+			"name": "Holic🌈🌈🌈",
+			"screen_name": "holicholich",
+			"location": "",
+			"description": "페미니스트. 비건지향.                                     💚FUB free💚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 539,
+			"listed_count": 0,
+			"created_at": "Thu Feb 03 17:04:29 +0000 2011",
+			"favourites_count": 10817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118439609912848387/6Rr5ThDb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118439609912848387/6Rr5ThDb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/246876558/1548664937",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2450,
+		"favorite_count": 862,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니,, kbs 왜이러는걸까,,\n서울퀴퍼보도 너무 수신료의 가치를 실현했잖아,,\n심지어 혐오세력은 단1초 단한번도 거론되지않음,, https://t.co/w5elZQ01Ys"
+	},
+	{
 		"created_at": "Sat Jun 01 13:08:36 +0000 2019",
 		"id": 1134806919259074600,
 		"id_str": "1134808967450771457",
