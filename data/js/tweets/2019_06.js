@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 03:31:00 +0000 2019",
+		"id": 1134852500350046200,
+		"id_str": "1135025999383425026",
+		"full_text": "와....퀴퍼에서 목에 칼찔렸다는사람 주작이였어;;; https://t.co/w7ZJRNXNZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w7ZJRNXNZe",
+					"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849",
+					"display_url": "twitter.com/g8c1YmUcpiOjXe…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1066774731846643700,
+			"id_str": "1066774731846643712",
+			"name": "랑",
+			"screen_name": "Rang___12",
+			"location": " 경기도 4호선 어딘가",
+			"description": "20 | 바이 | 시스 | 예체능인(미술) | 경기도인 | 플러팅🙆‍♂️🙆‍♂️ | 연애 해본적이 없음,,",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39,
+			"friends_count": 44,
+			"listed_count": 0,
+			"created_at": "Sun Nov 25 19:24:50 +0000 2018",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134873570385907712/QYu53VYJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134873570385907712/QYu53VYJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134840057590734800,
+		"quoted_status_id_str": "1134840057590734849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w7ZJRNXNZe",
+			"expanded": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849",
+			"display": "twitter.com/g8c1YmUcpiOjXe…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 01 15:12:08 +0000 2019",
+			"id": 1134840057590734800,
+			"id_str": "1134840057590734849",
+			"full_text": "@iamkingLu 오늘 드신 음식 구글에서 검색돼요..... 이런 주작하시면 퀴퍼에 오시는 분들이 겁나서 다음엔 안오시잖아요. 이러지 마세요. https://t.co/L5hJ0cSs4n",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iamkingLu",
+						"name": "루",
+						"id": 966684169303502800,
+						"id_str": "966684169303502849",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134839639678697500,
+						"id_str": "1134839639678697473",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D7_Co8AUwAE9ffh.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7_Co8AUwAE9ffh.png",
+						"url": "https://t.co/L5hJ0cSs4n",
+						"display_url": "pic.twitter.com/L5hJ0cSs4n",
+						"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 625,
+								"h": 888,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 888,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134839639678697500,
+						"id_str": "1134839639678697473",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D7_Co8AUwAE9ffh.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7_Co8AUwAE9ffh.png",
+						"url": "https://t.co/L5hJ0cSs4n",
+						"display_url": "pic.twitter.com/L5hJ0cSs4n",
+						"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 479,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 625,
+								"h": 888,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 888,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1134839655969333200,
+						"id_str": "1134839655969333249",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D7_Cp4sUIAE2wVi.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7_Cp4sUIAE2wVi.png",
+						"url": "https://t.co/L5hJ0cSs4n",
+						"display_url": "pic.twitter.com/L5hJ0cSs4n",
+						"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 494,
+								"h": 704,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 494,
+								"h": 704,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1134839665905680400,
+						"id_str": "1134839665905680384",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D7_CqdtUwAAwbyo.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7_CqdtUwAAwbyo.png",
+						"url": "https://t.co/L5hJ0cSs4n",
+						"display_url": "pic.twitter.com/L5hJ0cSs4n",
+						"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 485,
+								"h": 672,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 485,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 485,
+								"h": 672,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1134839675284119600,
+						"id_str": "1134839675284119552",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D7_CrApUYAAGo8G.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7_CrApUYAAGo8G.png",
+						"url": "https://t.co/L5hJ0cSs4n",
+						"display_url": "pic.twitter.com/L5hJ0cSs4n",
+						"expanded_url": "https://twitter.com/g8c1YmUcpiOjXee/status/1134840057590734849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 531,
+								"h": 839,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 430,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 531,
+								"h": 839,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1134750485557022700,
+			"in_reply_to_status_id_str": "1134750485557022722",
+			"in_reply_to_user_id": 966684169303502800,
+			"in_reply_to_user_id_str": "966684169303502849",
+			"in_reply_to_screen_name": "iamkingLu",
+			"user": {
+				"id": 1134811281045590000,
+				"id_str": "1134811281045590019",
+				"name": "지금은",
+				"screen_name": "g8c1YmUcpiOjXee",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Sat Jun 01 13:17:47 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2400,
+			"favorite_count": 135,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2923,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와....퀴퍼에서 목에 칼찔렸다는사람 주작이였어;;; https://t.co/w7ZJRNXNZe"
+	},
+	{
 		"created_at": "Sun Jun 02 02:49:37 +0000 2019",
 		"id": 1134677586313748500,
 		"id_str": "1135015585870372864",
@@ -165,7 +542,7 @@ Grailbird.data.tweets_2019_06 =
 		"created_at": "Sun Jun 02 02:49:17 +0000 2019",
 		"id": 1134990185488248800,
 		"id_str": "1135015500474343424",
-		"full_text": "🏳️‍🌈제 20회 서울퀴어퍼레이드🏳️‍🌈가 종료 되었습니다. 부스 행사 시작 시간인 11시보다 일찍 와 땡볕을 맞으며 서울퀴어퍼레이드의 시작을 함께 해주신 74개의 부스 참여 단위분들, 무대 공연들을 보며 누구보다 힘차게 무지개 깃발을 펄럭여 주신 참가자분들, (스레드 계속) https://t.co/MhFsv7VyVd",
+		"full_text": "🏳️🌈제 20회 서울퀴어퍼레이드🏳️🌈가 종료 되었습니다. 부스 행사 시작 시간인 11시보다 일찍 와 땡볕을 맞으며 서울퀴어퍼레이드의 시작을 함께 해주신 74개의 부스 참여 단위분들, 무대 공연들을 보며 누구보다 힘차게 무지개 깃발을 펄럭여 주신 참가자분들, (스레드 계속) https://t.co/MhFsv7VyVd",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -343,7 +720,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🏳️‍🌈제 20회 서울퀴어퍼레이드🏳️‍🌈가 종료 되었습니다. 부스 행사 시작 시간인 11시보다 일찍 와 땡볕을 맞으며 서울퀴어퍼레이드의 시작을 함께 해주신 74개의 부스 참여 단위분들, 무대 공연들을 보며 누구보다 힘차게 무지개 깃발을 펄럭여 주신 참가자분들, (스레드 계속) https://t.co/MhFsv7VyVd"
+		"text": "🏳️🌈제 20회 서울퀴어퍼레이드🏳️🌈가 종료 되었습니다. 부스 행사 시작 시간인 11시보다 일찍 와 땡볕을 맞으며 서울퀴어퍼레이드의 시작을 함께 해주신 74개의 부스 참여 단위분들, 무대 공연들을 보며 누구보다 힘차게 무지개 깃발을 펄럭여 주신 참가자분들, (스레드 계속) https://t.co/MhFsv7VyVd"
 	},
 	{
 		"created_at": "Sun Jun 02 02:46:48 +0000 2019",
