@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 05:14:58 +0000 2019",
+		"id": 1135046181233389600,
+		"id_str": "1135052164240297984",
+		"full_text": "'일본 외무상은 한국 대통령보다 위'라는 헛소리의 출처가 어딘지 따라가 보니 https://t.co/t9TLUbrVBy\n2013년 설립, 자본금 500만엔 직원 5명짜리 '자칭 아시아 전문 뉴스' 사이트인데 톱화면에 한국 분류는 없으면서 인기 기사는 모조리 혐한 기사 ㅋㅋㅋㅋ 너무 투명해서 실소가 나온다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t9TLUbrVBy",
+					"expanded_url": "http://www.globalnewsasia.com/",
+					"display_url": "globalnewsasia.com",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112715721,
+			"id_str": "112715721",
+			"name": "Rivian",
+			"screen_name": "Eolein",
+			"location": "Tokyo, Japan",
+			"description": "カバンちゃんを返して！",
+			"url": "https://t.co/Iy85hKmC3V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iy85hKmC3V",
+							"expanded_url": "http://rivian.egloos.com",
+							"display_url": "rivian.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 347,
+			"friends_count": 299,
+			"listed_count": 14,
+			"created_at": "Tue Feb 09 13:28:54 +0000 2010",
+			"favourites_count": 13380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'일본 외무상은 한국 대통령보다 위'라는 헛소리의 출처가 어딘지 따라가 보니 https://t.co/t9TLUbrVBy\n2013년 설립, 자본금 500만엔 직원 5명짜리 '자칭 아시아 전문 뉴스' 사이트인데 톱화면에 한국 분류는 없으면서 인기 기사는 모조리 혐한 기사 ㅋㅋㅋㅋ 너무 투명해서 실소가 나온다"
+	},
+	{
+		"created_at": "Sun Jun 02 05:12:36 +0000 2019",
+		"id": 1134677526242926600,
+		"id_str": "1135051566812094465",
+		"full_text": "오늘자 나이트런.. https://t.co/mzwzdPIR0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134677522937856000,
+					"id_str": "1134677522937856002",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D78vMgFUwAI7OTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D78vMgFUwAI7OTo.jpg",
+					"url": "https://t.co/mzwzdPIR0j",
+					"display_url": "pic.twitter.com/mzwzdPIR0j",
+					"expanded_url": "https://twitter.com/Nayu_z_/status/1134677526242926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134677522937856000,
+					"id_str": "1134677522937856002",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D78vMgFUwAI7OTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D78vMgFUwAI7OTo.jpg",
+					"url": "https://t.co/mzwzdPIR0j",
+					"display_url": "pic.twitter.com/mzwzdPIR0j",
+					"expanded_url": "https://twitter.com/Nayu_z_/status/1134677526242926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 325,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 957996780179763200,
+			"id_str": "957996780179763200",
+			"name": "(왼발)",
+			"screen_name": "Nayu_z_",
+			"location": "모그리섭 라벤더 안식처 16구 24번지",
+			"description": "겜에 미쳤는데 과제도 해야돼서 트위터 좀 뜸함/트위터보다 확인 덜 하는 오픈카톡 https://t.co/njeQO2juO9여우 애인님 @lap_sa_",
+			"url": "https://t.co/MGDYXcPHKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MGDYXcPHKF",
+							"expanded_url": "http://twitch.tv/nayuz",
+							"display_url": "twitch.tv/nayuz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/njeQO2juO9",
+							"expanded_url": "http://open.kakao.com/o/syEx1amb/",
+							"display_url": "open.kakao.com/o/syEx1amb/",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 126,
+			"listed_count": 9,
+			"created_at": "Mon Jan 29 15:20:05 +0000 2018",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128221920841744384/NiwrfsFy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128221920841744384/NiwrfsFy_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘자 나이트런.. https://t.co/mzwzdPIR0j"
+	},
+	{
+		"created_at": "Sun Jun 02 05:08:58 +0000 2019",
+		"id": 1134861865278771200,
+		"id_str": "1135050652835504128",
+		"full_text": "♪┏(・o･)┛♪┗ ( ･o･) ┓♪\n••  서울퀴어문화축제  ••",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338033299,
+			"id_str": "338033299",
+			"name": "Thomas McDonell",
+			"screen_name": "ThomasMcDonell",
+			"location": "",
+			"description": "1626 North Wilcox Ave, #563, Hollywood, CA 90028 USA",
+			"url": "https://t.co/Tk0eefBFNo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tk0eefBFNo",
+							"expanded_url": "https://www.youtube.com/watch?time_continue=36&v=aHNGeVcMHZ4",
+							"display_url": "youtube.com/watch?time_con…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271620,
+			"friends_count": 322,
+			"listed_count": 1192,
+			"created_at": "Mon Jul 18 23:41:51 +0000 2011",
+			"favourites_count": 3355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E4E2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553670855473909760/85X49x0J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553670855473909760/85X49x0J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338033299/1501778446",
+			"profile_link_color": "E5E4E2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "♪┏(・o･)┛♪┗ ( ･o･) ┓♪\n••  서울퀴어문화축제  ••"
+	},
+	{
 		"created_at": "Sun Jun 02 03:31:00 +0000 2019",
 		"id": 1134852500350046200,
 		"id_str": "1135025999383425026",
@@ -38,7 +421,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "랑",
 			"screen_name": "Rang___12",
 			"location": " 경기도 4호선 어딘가",
-			"description": "20 | 바이 | 시스 | 예체능인(미술) | 경기도인 | 플러팅🙆‍♂️🙆‍♂️ | 연애 해본적이 없음,,",
+			"description": "20 | 바이 | 시스 | 예체능인(미술) | 경기도인 | 플러팅🙆♂️🙆♂️ | 연애 해본적이 없음,,",
 			"url": null,
 			"entities": {
 				"description": {
