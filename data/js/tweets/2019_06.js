@@ -1,6 +1,2550 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 02:16:48 +0000 2019",
+		"id": 1135007325784199200,
+		"id_str": "1135007325784199172",
+		"full_text": "@VNholic 보통은 그럼",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VNholic",
+					"name": "《　可愛い 《　可愛い 《　可愛い《 ｜VNholic",
+					"id": 850768177566957600,
+					"id_str": "850768177566957568",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1135007271715528700,
+		"in_reply_to_status_id_str": "1135007271715528704",
+		"in_reply_to_user_id": 850768177566957600,
+		"in_reply_to_user_id_str": "850768177566957568",
+		"in_reply_to_screen_name": "VNholic",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@VNholic 보통은 그럼"
+	},
+	{
+		"created_at": "Sun Jun 02 02:16:37 +0000 2019",
+		"id": 1134687077184942100,
+		"id_str": "1135007279885955072",
+		"full_text": "윈도 디펜더에서 구라제거기 2.19를 악성코드로 탐지한다. '~') https://t.co/caVbIdNm3y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134687067772842000,
+					"id_str": "1134687067772841986",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D7834FXUcAIQODB.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7834FXUcAIQODB.png",
+					"url": "https://t.co/caVbIdNm3y",
+					"display_url": "pic.twitter.com/caVbIdNm3y",
+					"expanded_url": "https://twitter.com/LaruYan/status/1134687077184942080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134687067772842000,
+					"id_str": "1134687067772841986",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D7834FXUcAIQODB.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7834FXUcAIQODB.png",
+					"url": "https://t.co/caVbIdNm3y",
+					"display_url": "pic.twitter.com/caVbIdNm3y",
+					"expanded_url": "https://twitter.com/LaruYan/status/1134687077184942080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 327,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749257340533153800,
+			"id_str": "749257340533153792",
+			"name": "라루얀 / 말썽쟁이 구운 경단 🍡",
+			"screen_name": "LaruYan",
+			"location": "",
+			"description": "\"기쁜 일도 슬픈일도 전부 동그랗게\"\n\n초면죄송 안하셔도 되요. 불편하시다면 속으로 삭히는 대신, 말로 제보해주세요. 말 안걸어주시면 구독이라 생각할게요.\n자세한 것은 웹사이트에서. for English, refer website.\n\n블언블 의심 전에: @LaruYanKaPothoa",
+			"url": "https://t.co/Jo8lpf8fXq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jo8lpf8fXq",
+							"expanded_url": "https://blog.laruyan.moe/2018/12/blog-post_64.html",
+							"display_url": "blog.laruyan.moe/2018/12/blog-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 116,
+			"listed_count": 25,
+			"created_at": "Sat Jul 02 15:04:05 +0000 2016",
+			"favourites_count": 6274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035493094685167616/lVVOK9A1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749257340533153792/1467474106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윈도 디펜더에서 구라제거기 2.19를 악성코드로 탐지한다. '~') https://t.co/caVbIdNm3y"
+	},
+	{
+		"created_at": "Sun Jun 02 02:16:25 +0000 2019",
+		"id": 1135007229927493600,
+		"id_str": "1135007229927493632",
+		"full_text": "@channprj 베트남 시골길로 들어가면 GPRS도 나오던데요 ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "channprj",
+					"name": "chann://",
+					"id": 3072833610,
+					"id_str": "3072833610",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1135006906626347000,
+		"in_reply_to_status_id_str": "1135006906626347008",
+		"in_reply_to_user_id": 3072833610,
+		"in_reply_to_user_id_str": "3072833610",
+		"in_reply_to_screen_name": "channprj",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@channprj 베트남 시골길로 들어가면 GPRS도 나오던데요 ㅋㅋ"
+	},
+	{
+		"created_at": "Sun Jun 02 02:14:50 +0000 2019",
+		"id": 1135000766928674800,
+		"id_str": "1135006829904183298",
+		"full_text": "https://t.co/ndbycToBCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135000755385974800,
+					"id_str": "1135000755385974784",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8BVLGyUwAAI9lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8BVLGyUwAAI9lL.jpg",
+					"url": "https://t.co/ndbycToBCB",
+					"display_url": "pic.twitter.com/ndbycToBCB",
+					"expanded_url": "https://twitter.com/kemhok/status/1135000766928674817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1597,
+							"h": 1597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135000755385974800,
+					"id_str": "1135000755385974784",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D8BVLGyUwAAI9lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8BVLGyUwAAI9lL.jpg",
+					"url": "https://t.co/ndbycToBCB",
+					"display_url": "pic.twitter.com/ndbycToBCB",
+					"expanded_url": "https://twitter.com/kemhok/status/1135000766928674817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1597,
+							"h": 1597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 178484327,
+			"id_str": "178484327",
+			"name": "見富拓哉/けむほこ",
+			"screen_name": "kemhok",
+			"location": "ランゲルハンス諸島",
+			"description": "宗教法人アビバパソコンスクール卒 / 見富拓哉 a.k.a kemhok, \n케무호코 (※ツイートはあとから消しまくります) ケムホコ友の会 (月額制) へのご入会はこちら→ https://t.co/v0bjCfvMpd",
+			"url": "https://t.co/OsqlrvfLyG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsqlrvfLyG",
+							"expanded_url": "http://newswimsuit.jp/",
+							"display_url": "newswimsuit.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/v0bjCfvMpd",
+							"expanded_url": "https://www.pixiv.net/fanbox/creator/13895198",
+							"display_url": "pixiv.net/fanbox/creator…",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10797,
+			"friends_count": 315,
+			"listed_count": 468,
+			"created_at": "Sat Aug 14 22:15:59 +0000 2010",
+			"favourites_count": 27025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685608136598618112/3-3yGmiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685608136598618112/3-3yGmiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178484327/1546856951",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ndbycToBCB"
+	},
+	{
+		"created_at": "Sun Jun 02 02:13:11 +0000 2019",
+		"id": 1134829170171580400,
+		"id_str": "1135006415993491457",
+		"full_text": "\"적들은 날 재앙이라고 부르더군\" https://t.co/mhX2qlFJm4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134829137246376000,
+					"id_str": "1134829137246375937",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-5FnZVUAEvaao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-5FnZVUAEvaao.jpg",
+					"url": "https://t.co/mhX2qlFJm4",
+					"display_url": "pic.twitter.com/mhX2qlFJm4",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1134829170171580416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134829137246376000,
+					"id_str": "1134829137246375937",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-5FnZVUAEvaao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-5FnZVUAEvaao.jpg",
+					"url": "https://t.co/mhX2qlFJm4",
+					"display_url": "pic.twitter.com/mhX2qlFJm4",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1134829170171580416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87702189,
+			"id_str": "87702189",
+			"name": "No.10 MADCAT 🍊🍭",
+			"screen_name": "MADCAT135",
+			"location": "대한민국",
+			"description": "사진/영상촬영,편집하는 사람입니다. 그림도 그려요. 작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688/ Team CNS (@teamcns)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4174,
+			"friends_count": 2616,
+			"listed_count": 73,
+			"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+			"favourites_count": 4271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 520637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126000967944552449/6ynkOg92_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126000967944552449/6ynkOg92_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1533462288",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"적들은 날 재앙이라고 부르더군\" https://t.co/mhX2qlFJm4"
+	},
+	{
+		"created_at": "Sun Jun 02 02:12:58 +0000 2019",
+		"id": 1132647611905613800,
+		"id_str": "1135006361324990464",
+		"full_text": "사실 신천지 플로우 이렇게 깔깔탐라로만 흘러가면 좀 걱정스럽기도 함 여러분 사이비퇴치한 사이다썰 이런거 구현하고 싶어하지 말고 따라가지 말고 호기심에 깔짝여보지도 마세요 좀...경각심을 가져줬으면 좋겠어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343708331,
+			"id_str": "2343708331",
+			"name": "💙두문파 과제린💙",
+			"screen_name": "You_r_in_721",
+			"location": "독",
+			"description": "oO(나도 머리 조지고 싶다)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Fri Feb 14 15:02:51 +0000 2014",
+			"favourites_count": 5578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343708331/1549902560",
+			"profile_link_color": "E67E85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3616,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사실 신천지 플로우 이렇게 깔깔탐라로만 흘러가면 좀 걱정스럽기도 함 여러분 사이비퇴치한 사이다썰 이런거 구현하고 싶어하지 말고 따라가지 말고 호기심에 깔짝여보지도 마세요 좀...경각심을 가져줬으면 좋겠어"
+	},
+	{
+		"created_at": "Sun Jun 02 02:12:52 +0000 2019",
+		"id": 1132944742117810200,
+		"id_str": "1135006334112321536",
+		"full_text": "인알이 많아서 뮤트합니다:3...이렇게 신천지 얘기 구구절절 하고 있으면 왜저렇게 잘알아 혹시 저사람도? 하고 의심하시는 분들도 계시는데 냉담자 신세여도 천주교 모태신앙이라 살짝 억울하지만 좋은 현상이라고 생각해요 누가 유독 종교얘기만 주절주절 하면서 은근히 권유한다 &lt;꼭 의심해보십쇼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132667245920829400,
+		"in_reply_to_status_id_str": "1132667245920829441",
+		"in_reply_to_user_id": 2343708331,
+		"in_reply_to_user_id_str": "2343708331",
+		"in_reply_to_screen_name": "You_r_in_721",
+		"user": {
+			"id": 2343708331,
+			"id_str": "2343708331",
+			"name": "💙두문파 과제린💙",
+			"screen_name": "You_r_in_721",
+			"location": "독",
+			"description": "oO(나도 머리 조지고 싶다)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Fri Feb 14 15:02:51 +0000 2014",
+			"favourites_count": 5578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343708331/1549902560",
+			"profile_link_color": "E67E85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인알이 많아서 뮤트합니다:3...이렇게 신천지 얘기 구구절절 하고 있으면 왜저렇게 잘알아 혹시 저사람도? 하고 의심하시는 분들도 계시는데 냉담자 신세여도 천주교 모태신앙이라 살짝 억울하지만 좋은 현상이라고 생각해요 누가 유독 종교얘기만 주절주절 하면서 은근히 권유한다 &lt;꼭 의심해보십쇼"
+	},
+	{
+		"created_at": "Sun Jun 02 02:12:47 +0000 2019",
+		"id": 1132667245920829400,
+		"id_str": "1135006315644743680",
+		"full_text": "모든 나쁜 일이 그렇겠지만 밈으로 쓰이고 우스갯소리가 되고 가벼운 소재가 될수록 거기에 대한 경각심이 없어져서...트위터에서 신천지 돌때마다 덕질하는척 포교한대 개무섭다 조심하자&lt;가 아니라 깔깔 예수아담예수 퍼먹어도 받아주려나 포교당하는척 사주는거 먹튀하자&lt;로 흘러가서 늘 걱정스러움",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132665802765656000,
+		"in_reply_to_status_id_str": "1132665802765656065",
+		"in_reply_to_user_id": 2343708331,
+		"in_reply_to_user_id_str": "2343708331",
+		"in_reply_to_screen_name": "You_r_in_721",
+		"user": {
+			"id": 2343708331,
+			"id_str": "2343708331",
+			"name": "💙두문파 과제린💙",
+			"screen_name": "You_r_in_721",
+			"location": "독",
+			"description": "oO(나도 머리 조지고 싶다)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Fri Feb 14 15:02:51 +0000 2014",
+			"favourites_count": 5578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343708331/1549902560",
+			"profile_link_color": "E67E85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모든 나쁜 일이 그렇겠지만 밈으로 쓰이고 우스갯소리가 되고 가벼운 소재가 될수록 거기에 대한 경각심이 없어져서...트위터에서 신천지 돌때마다 덕질하는척 포교한대 개무섭다 조심하자&lt;가 아니라 깔깔 예수아담예수 퍼먹어도 받아주려나 포교당하는척 사주는거 먹튀하자&lt;로 흘러가서 늘 걱정스러움"
+	},
+	{
+		"created_at": "Sun Jun 02 02:12:45 +0000 2019",
+		"id": 1132665802765656000,
+		"id_str": "1135006307465846785",
+		"full_text": "농담처럼 신청서에 신천지는 사이비다 쓰게 하자는 얘기도 돌았던 것 같은데 그런걸로 못거릅니다 빅픽쳐를 위해 그정도 거짓말은 ㅇㅋ하는 집단입니다...설문조사 잡혀서 사이비 아니냐고 했더니 걔네때매 설문조사 안해줘서 힘들다고 같이 신천지욕 한시간 해놓고 신천지인 경우도 있고 그렇습니다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1132647611905613800,
+		"in_reply_to_status_id_str": "1132647611905613827",
+		"in_reply_to_user_id": 2343708331,
+		"in_reply_to_user_id_str": "2343708331",
+		"in_reply_to_screen_name": "You_r_in_721",
+		"user": {
+			"id": 2343708331,
+			"id_str": "2343708331",
+			"name": "💙두문파 과제린💙",
+			"screen_name": "You_r_in_721",
+			"location": "독",
+			"description": "oO(나도 머리 조지고 싶다)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Fri Feb 14 15:02:51 +0000 2014",
+			"favourites_count": 5578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343708331/1549902560",
+			"profile_link_color": "E67E85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1363,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "농담처럼 신청서에 신천지는 사이비다 쓰게 하자는 얘기도 돌았던 것 같은데 그런걸로 못거릅니다 빅픽쳐를 위해 그정도 거짓말은 ㅇㅋ하는 집단입니다...설문조사 잡혀서 사이비 아니냐고 했더니 걔네때매 설문조사 안해줘서 힘들다고 같이 신천지욕 한시간 해놓고 신천지인 경우도 있고 그렇습니다.."
+	},
+	{
+		"created_at": "Sun Jun 02 02:12:39 +0000 2019",
+		"id": 1132863283461910500,
+		"id_str": "1135006282451017729",
+		"full_text": "예전에 우리 교회에서 신천지로 전향한 청년이 자기 의심 받으니까 이만희 개새끼! 씨발놈! 외친 적도 있었음. 근데 신천지였음 https://t.co/RugPRzLTJS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RugPRzLTJS",
+					"expanded_url": "https://twitter.com/You_r_in_721/status/1132665802765656065",
+					"display_url": "twitter.com/You_r_in_721/s…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 886776102814797800,
+			"id_str": "886776102814797825",
+			"name": "요ㄹr밍✨=호박요람",
+			"screen_name": "Yoramming",
+			"location": "",
+			"description": "온갖 여배우 팝니다 / 단사랑 처돌이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 263,
+			"listed_count": 0,
+			"created_at": "Mon Jul 17 02:34:33 +0000 2017",
+			"favourites_count": 1234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047889314745438208/i-HfAle8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047889314745438208/i-HfAle8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/886776102814797825/1523779678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132665802765656000,
+		"quoted_status_id_str": "1132665802765656065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RugPRzLTJS",
+			"expanded": "https://twitter.com/You_r_in_721/status/1132665802765656065",
+			"display": "twitter.com/You_r_in_721/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 15:12:25 +0000 2019",
+			"id": 1132665802765656000,
+			"id_str": "1132665802765656065",
+			"full_text": "농담처럼 신청서에 신천지는 사이비다 쓰게 하자는 얘기도 돌았던 것 같은데 그런걸로 못거릅니다 빅픽쳐를 위해 그정도 거짓말은 ㅇㅋ하는 집단입니다...설문조사 잡혀서 사이비 아니냐고 했더니 걔네때매 설문조사 안해줘서 힘들다고 같이 신천지욕 한시간 해놓고 신천지인 경우도 있고 그렇습니다..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1132647611905613800,
+			"in_reply_to_status_id_str": "1132647611905613827",
+			"in_reply_to_user_id": 2343708331,
+			"in_reply_to_user_id_str": "2343708331",
+			"in_reply_to_screen_name": "You_r_in_721",
+			"user": {
+				"id": 2343708331,
+				"id_str": "2343708331",
+				"name": "💙두문파 과제린💙",
+				"screen_name": "You_r_in_721",
+				"location": "독",
+				"description": "oO(나도 머리 조지고 싶다)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 128,
+				"friends_count": 163,
+				"listed_count": 1,
+				"created_at": "Fri Feb 14 15:02:51 +0000 2014",
+				"favourites_count": 5578,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097358605152473088/3BkahGH1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343708331/1549902560",
+				"profile_link_color": "E67E85",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1363,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1876,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전에 우리 교회에서 신천지로 전향한 청년이 자기 의심 받으니까 이만희 개새끼! 씨발놈! 외친 적도 있었음. 근데 신천지였음 https://t.co/RugPRzLTJS"
+	},
+	{
+		"created_at": "Sun Jun 02 02:10:16 +0000 2019",
+		"id": 1134975920446427100,
+		"id_str": "1135005682577469441",
+		"full_text": "리사 수가 별거 없다는 애들 보세요\nhttps://t.co/j1czfjIotv\n\n농담안치고 리사 수 자서전이나\n이런거 나오면 살거같음 와 시발\n생각보다 엄청나게 더 대단한 분이셨네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j1czfjIotv",
+					"expanded_url": "http://m.dcinside.com/board/superidea/182804",
+					"display_url": "m.dcinside.com/board/superide…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871315323118534700,
+			"id_str": "871315323118534657",
+			"name": "Rin💮Vanill@💮",
+			"screen_name": "Triad_rin_",
+			"location": "B",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 119,
+			"listed_count": 2,
+			"created_at": "Sun Jun 04 10:38:56 +0000 2017",
+			"favourites_count": 1182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132399952036999168/eHo9fIV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132399952036999168/eHo9fIV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871315323118534657/1558099658",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리사 수가 별거 없다는 애들 보세요\nhttps://t.co/j1czfjIotv\n\n농담안치고 리사 수 자서전이나\n이런거 나오면 살거같음 와 시발\n생각보다 엄청나게 더 대단한 분이셨네"
+	},
+	{
+		"created_at": "Sun Jun 02 02:09:34 +0000 2019",
+		"id": 1134759230596980700,
+		"id_str": "1135005503640072193",
+		"full_text": "또 만난 아저씨. 이제 그만 좀 쓰세요... https://t.co/ux4e6b62L4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134759219519938600,
+					"id_str": "1134759219519938560",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D795f3kV4AA5Mzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D795f3kV4AA5Mzf.jpg",
+					"url": "https://t.co/ux4e6b62L4",
+					"display_url": "pic.twitter.com/ux4e6b62L4",
+					"expanded_url": "https://twitter.com/mktaag/status/1134759230596980736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134759219519938600,
+					"id_str": "1134759219519938560",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D795f3kV4AA5Mzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D795f3kV4AA5Mzf.jpg",
+					"url": "https://t.co/ux4e6b62L4",
+					"display_url": "pic.twitter.com/ux4e6b62L4",
+					"expanded_url": "https://twitter.com/mktaag/status/1134759230596980736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 186690986,
+			"id_str": "186690986",
+			"name": "택",
+			"screen_name": "mktaag",
+			"location": "",
+			"description": "@garchproject",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1311,
+			"friends_count": 510,
+			"listed_count": 9,
+			"created_at": "Sat Sep 04 03:34:10 +0000 2010",
+			"favourites_count": 1391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0FC00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087717572672286720/_ygsCyMr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087717572672286720/_ygsCyMr_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "AAB574",
+			"profile_text_color": "54FFA9",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 425,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 만난 아저씨. 이제 그만 좀 쓰세요... https://t.co/ux4e6b62L4"
+	},
+	{
+		"created_at": "Sun Jun 02 02:09:13 +0000 2019",
+		"id": 1134823563825885200,
+		"id_str": "1135005418684477440",
+		"full_text": "@TSUTSUTSU_land 실례합니다\n맞아요 동성로에 신천지 많아요 그리고 좀 다른데 다단계도 조심 하세요 연락안하던 지인이 대구로 부르면 주의하세요 정확한 위치랑 아직도 그런지는 모르겠는데 동성로 어딘가의 투쎔플레이스를 가자하면 빼박이랍니다 그 건물 위쪽이 전부 다단계 라고 합니다\nhttps://t.co/Cn99DyWDci",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TSUTSUTSU_land",
+					"name": "건강맨",
+					"id": 1133232503970385900,
+					"id_str": "1133232503970385920",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cn99DyWDci",
+					"expanded_url": "https://m.comic.naver.com/webtoon/detail.nhn?titleId=690502&no=16&week=fin&listPage=1",
+					"display_url": "m.comic.naver.com/webtoon/detail…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1134757756211159000,
+		"in_reply_to_status_id_str": "1134757756211159040",
+		"in_reply_to_user_id": 1133232503970385900,
+		"in_reply_to_user_id_str": "1133232503970385920",
+		"in_reply_to_screen_name": "TSUTSUTSU_land",
+		"user": {
+			"id": 749225402124546000,
+			"id_str": "749225402124546048",
+			"name": "과제빡돌체리",
+			"screen_name": "MObbnm_cherry",
+			"location": "체리님은 역시 가오지",
+			"description": "씨유편의점 알바생",
+			"url": "https://t.co/RCaOeIQoBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RCaOeIQoBu",
+							"expanded_url": "https://www.evernote.com/shard/s707/sh/8e293899-d2f2-433a-b8e4-b69abe6f94ce/0f1972f4f9f122aed81476d2",
+							"display_url": "evernote.com/shard/s707/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 116,
+			"listed_count": 0,
+			"created_at": "Sat Jul 02 12:57:10 +0000 2016",
+			"favourites_count": 2624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130422624075468800/TcMCJAEd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130422624075468800/TcMCJAEd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749225402124546048/1549748131",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@TSUTSUTSU_land 실례합니다\n맞아요 동성로에 신천지 많아요 그리고 좀 다른데 다단계도 조심 하세요 연락안하던 지인이 대구로 부르면 주의하세요 정확한 위치랑 아직도 그런지는 모르겠는데 동성로 어딘가의 투쎔플레이스를 가자하면 빼박이랍니다 그 건물 위쪽이 전부 다단계 라고 합니다\nhttps://t.co/Cn99DyWDci"
+	},
+	{
+		"created_at": "Sun Jun 02 02:06:52 +0000 2019",
+		"id": 1134757756211159000,
+		"id_str": "1135004825781805057",
+		"full_text": "신천지 말이 나와서 말인데 내가 생각하는 동성로 침묵의 길... 마젠타색으로 표시한 구간에서는 길을 물어서도 안되고 누군가의 질문에 답해서도 안됨.,,추가로 반월당역에서도... 95%확률로 신천지고 3%확률로 대순진리회임... 예쁘고 잘생긴 인싸2명이서 저기요~하면 99퍼임 https://t.co/iL867hT5v6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134757747096821800,
+					"id_str": "1134757747096821760",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D794KKXUIAAKE1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D794KKXUIAAKE1B.jpg",
+					"url": "https://t.co/iL867hT5v6",
+					"display_url": "pic.twitter.com/iL867hT5v6",
+					"expanded_url": "https://twitter.com/TSUTSUTSU_land/status/1134757756211159040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134757747096821800,
+					"id_str": "1134757747096821760",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D794KKXUIAAKE1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D794KKXUIAAKE1B.jpg",
+					"url": "https://t.co/iL867hT5v6",
+					"display_url": "pic.twitter.com/iL867hT5v6",
+					"expanded_url": "https://twitter.com/TSUTSUTSU_land/status/1134757756211159040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133232503970385900,
+			"id_str": "1133232503970385920",
+			"name": "건강맨",
+			"screen_name": "TSUTSUTSU_land",
+			"location": "",
+			"description": "tsutsu_land였던사람!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24,
+			"friends_count": 24,
+			"listed_count": 0,
+			"created_at": "Tue May 28 04:44:18 +0000 2019",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133232728202043392/_QOQkejk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133232728202043392/_QOQkejk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5394,
+		"favorite_count": 741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신천지 말이 나와서 말인데 내가 생각하는 동성로 침묵의 길... 마젠타색으로 표시한 구간에서는 길을 물어서도 안되고 누군가의 질문에 답해서도 안됨.,,추가로 반월당역에서도... 95%확률로 신천지고 3%확률로 대순진리회임... 예쁘고 잘생긴 인싸2명이서 저기요~하면 99퍼임 https://t.co/iL867hT5v6"
+	},
+	{
+		"created_at": "Sun Jun 02 02:04:29 +0000 2019",
+		"id": 1134393746915651600,
+		"id_str": "1135004226466172928",
+		"full_text": "아침 11시 오픈인 줄 모르고 10시 반쯤에\n중국집에 냉면 먹으러 갔는데 괜찮다고\n앉아라 하길래 앉으면서 오픈주방을 보니까 글쎄 냉면육수를 만든는데 다시다를 진짜 한 포대를 넣더라\n얼마나 맛있게 먹었는지 담에도 또 갔다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189013485,
+			"id_str": "189013485",
+			"name": "자흔",
+			"screen_name": "bayblue76",
+			"location": "정서불안",
+			"description": "괜찮아요 나도 당신을 이해할 수 없어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3973,
+			"friends_count": 402,
+			"listed_count": 86,
+			"created_at": "Fri Sep 10 04:06:20 +0000 2010",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112569126080241664/xtwjvAo-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112569126080241664/xtwjvAo-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189013485/1538818583",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아침 11시 오픈인 줄 모르고 10시 반쯤에\n중국집에 냉면 먹으러 갔는데 괜찮다고\n앉아라 하길래 앉으면서 오픈주방을 보니까 글쎄 냉면육수를 만든는데 다시다를 진짜 한 포대를 넣더라\n얼마나 맛있게 먹었는지 담에도 또 갔다"
+	},
+	{
+		"created_at": "Sun Jun 02 01:58:25 +0000 2019",
+		"id": 1134693982657630200,
+		"id_str": "1135002701161353217",
+		"full_text": "일본에서 살면서 일본과 한국 왕복 비행기를 1년에 7번 타본 경험상 이야기\nㅡ 저비용 항공사는 일단 거기서 거기\nㅡ 진에어는 최저가 표도 위탁 15kg가 있어서 좋다\nㅡ 야간 비행기는 에어서울이 낫다\nㅡ 에어서울 좌석이 넓은편\nㅡ 피치는 무게검사가 철저하다. 매고있는것 검사함. 매번",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 891691654423261200,
+			"id_str": "891691654423261184",
+			"name": "LunaStratos",
+			"screen_name": "LunaStratos",
+			"location": "",
+			"description": "PHP좋아요",
+			"url": "https://t.co/Y4xOmb91dH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y4xOmb91dH",
+							"expanded_url": "http://github.com/lunaStratos/",
+							"display_url": "github.com/lunaStratos/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Sun Jul 30 16:07:12 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120260054525956097/ImkUDpd0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120260054525956097/ImkUDpd0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/891691654423261184/1506519411",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1157,
+		"favorite_count": 550,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본에서 살면서 일본과 한국 왕복 비행기를 1년에 7번 타본 경험상 이야기\nㅡ 저비용 항공사는 일단 거기서 거기\nㅡ 진에어는 최저가 표도 위탁 15kg가 있어서 좋다\nㅡ 야간 비행기는 에어서울이 낫다\nㅡ 에어서울 좌석이 넓은편\nㅡ 피치는 무게검사가 철저하다. 매고있는것 검사함. 매번"
+	},
+	{
+		"created_at": "Sun Jun 02 01:55:26 +0000 2019",
+		"id": 1135000967114608600,
+		"id_str": "1135001949407928320",
+		"full_text": "If you’ve ever wanted to take advanced hacking tool for a spin, here’s your chance. https://t.co/O8rjfRyjho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8rjfRyjho",
+					"expanded_url": "https://wired.trib.al/YxTsQCn",
+					"display_url": "wired.trib.al/YxTsQCn",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1344951,
+			"id_str": "1344951",
+			"name": "WIRED",
+			"screen_name": "WIRED",
+			"location": "San Francisco/New York",
+			"description": "WIRED is where tomorrow is realized.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10361485,
+			"friends_count": 358,
+			"listed_count": 91560,
+			"created_at": "Sat Mar 17 09:57:25 +0000 2007",
+			"favourites_count": 2253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1559082971",
+			"profile_link_color": "99DCF0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’ve ever wanted to take advanced hacking tool for a spin, here’s your chance. https://t.co/O8rjfRyjho"
+	},
+	{
+		"created_at": "Sun Jun 02 01:55:15 +0000 2019",
+		"id": 1134290617587052500,
+		"id_str": "1135001900909092866",
+		"full_text": "버섯 https://t.co/xb79ZiEX47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134290552998916100,
+					"id_str": "1134290552998916096",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134290552998916096/pu/img/gjPMfr0j6I2-XUw0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134290552998916096/pu/img/gjPMfr0j6I2-XUw0.jpg",
+					"url": "https://t.co/xb79ZiEX47",
+					"display_url": "pic.twitter.com/xb79ZiEX47",
+					"expanded_url": "https://twitter.com/ellix_graphic/status/1134290617587052544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134290552998916100,
+					"id_str": "1134290552998916096",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134290552998916096/pu/img/gjPMfr0j6I2-XUw0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134290552998916096/pu/img/gjPMfr0j6I2-XUw0.jpg",
+					"url": "https://t.co/xb79ZiEX47",
+					"display_url": "pic.twitter.com/xb79ZiEX47",
+					"expanded_url": "https://twitter.com/ellix_graphic/status/1134290617587052544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134290552998916096/pu/pl/swECopLjIzPTwEQb.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134290552998916096/pu/vid/640x360/B66X7u35epi2ocEn.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134290552998916096/pu/vid/1280x720/SZJ37GViy3RkLsMi.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134290552998916096/pu/vid/320x180/uQMM8a38ARdkb_N2.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1066629897374785500,
+			"id_str": "1066629897374785537",
+			"name": "ELLIX / 엘릭스",
+			"screen_name": "ellix_graphic",
+			"location": "Adobe",
+			"description": "말입니다.",
+			"url": "https://t.co/JXzyUGeee7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JXzyUGeee7",
+							"expanded_url": "https://warning.or.kr",
+							"display_url": "warning.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 20,
+			"listed_count": 0,
+			"created_at": "Sun Nov 25 09:49:19 +0000 2018",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112284782950375427/5yUtRpzV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112284782950375427/5yUtRpzV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066629897374785537/1543139408",
+			"profile_link_color": "FF889C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5247,
+		"favorite_count": 2036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "버섯 https://t.co/xb79ZiEX47"
+	},
+	{
+		"created_at": "Sun Jun 02 01:55:02 +0000 2019",
+		"id": 1135001848488681500,
+		"id_str": "1135001848488681472",
+		"full_text": "@L_Phase 포맷 구매해서 가져온거 아닐라나요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L_Phase",
+					"name": "Lenia 🌮",
+					"id": 760892320011001900,
+					"id_str": "760892320011001856",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1135001246949990400,
+		"in_reply_to_status_id_str": "1135001246949990400",
+		"in_reply_to_user_id": 760892320011001900,
+		"in_reply_to_user_id_str": "760892320011001856",
+		"in_reply_to_screen_name": "L_Phase",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@L_Phase 포맷 구매해서 가져온거 아닐라나요"
+	},
+	{
+		"created_at": "Sun Jun 02 01:52:52 +0000 2019",
+		"id": 1134761047481573400,
+		"id_str": "1135001300964241408",
+		"full_text": "외국살이의 기회 자체가 특권 아닐까요? https://t.co/u7Y8AcoXeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u7Y8AcoXeX",
+					"expanded_url": "https://twitter.com/hjune_j/status/1133770956952854528",
+					"display_url": "twitter.com/hjune_j/status…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141495614,
+			"id_str": "141495614",
+			"name": "bluexmas",
+			"screen_name": "bluexmas47",
+			"location": "Westside of River.",
+			"description": "음식평론가",
+			"url": "https://t.co/VfP7QBHoFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VfP7QBHoFC",
+							"expanded_url": "http://www.bluexmas.com",
+							"display_url": "bluexmas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6554,
+			"friends_count": 92,
+			"listed_count": 115,
+			"created_at": "Sat May 08 07:02:45 +0000 2010",
+			"favourites_count": 3401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 162996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113003018033790977/4IC2Y1p1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113003018033790977/4IC2Y1p1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141495614/1529068931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133770956952854500,
+		"quoted_status_id_str": "1133770956952854528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u7Y8AcoXeX",
+			"expanded": "https://twitter.com/hjune_j/status/1133770956952854528",
+			"display": "twitter.com/hjune_j/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 16:23:55 +0000 2019",
+			"id": 1133770956952854500,
+			"id_str": "1133770956952854528",
+			"full_text": "외국살이는 꼭 한번쯤 해볼만한 경험이라고 생각한다. 누리고 있던 특권 다 떼고, 내가 얼마나 나약하고 무력한지 경험하게 됨. 학벌과 시민권, 모국어의 포장을 벗은 나의 알맹이를 직시하게 되는 거지. 그러면서 껍데기가 아닌 나를 키우고 돌볼 수도 있게 되고.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144593900,
+				"id_str": "144593900",
+				"name": "June",
+				"screen_name": "hjune_j",
+				"location": "",
+				"description": "씩씩하게 나아가는 인간. 생각하고 떠들고 행동합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 682,
+				"friends_count": 341,
+				"listed_count": 2,
+				"created_at": "Sun May 16 19:18:29 +0000 2010",
+				"favourites_count": 15668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998045343458586624/ZVlnH2rh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998045343458586624/ZVlnH2rh_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4564,
+			"favorite_count": 3125,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2181,
+		"favorite_count": 546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "외국살이의 기회 자체가 특권 아닐까요? https://t.co/u7Y8AcoXeX"
+	},
+	{
 		"created_at": "Sun Jun 02 00:17:22 +0000 2019",
 		"id": 1134779276253773800,
 		"id_str": "1134977267849781250",
