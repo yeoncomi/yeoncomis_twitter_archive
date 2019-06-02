@@ -1,6 +1,1051 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 23:13:20 +0000 2019",
+		"id": 1135322125365944300,
+		"id_str": "1135323544156401664",
+		"full_text": "\"아이야, 그들이 아직까지 우리를 신으로 섬기느냐?\"\n\"음, 제가 상자 안에다 똥을 싸면 그들이 치워줘요.\"\n\"좋도다, 참 좋도다.\" https://t.co/rlsjEZ1Jm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135322122941677600,
+					"id_str": "1135322122941677568",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D8F5dKOUwAATrtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8F5dKOUwAATrtO.jpg",
+					"url": "https://t.co/rlsjEZ1Jm9",
+					"display_url": "pic.twitter.com/rlsjEZ1Jm9",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1135322125365944320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 649,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135322122941677600,
+					"id_str": "1135322122941677568",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D8F5dKOUwAATrtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8F5dKOUwAATrtO.jpg",
+					"url": "https://t.co/rlsjEZ1Jm9",
+					"display_url": "pic.twitter.com/rlsjEZ1Jm9",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1135322125365944320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 649,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "r/memes, Elon Musk",
+			"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \nMemes of this account are all from r/memes.\n하루에 20개씩!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24590,
+			"friends_count": 7,
+			"listed_count": 72,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1559121356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"아이야, 그들이 아직까지 우리를 신으로 섬기느냐?\"\n\"음, 제가 상자 안에다 똥을 싸면 그들이 치워줘요.\"\n\"좋도다, 참 좋도다.\" https://t.co/rlsjEZ1Jm9"
+	},
+	{
+		"created_at": "Sun Jun 02 23:12:52 +0000 2019",
+		"id": 1135214193206911000,
+		"id_str": "1135323427126927362",
+		"full_text": "커뮤살인마 둘이 왜 트위터에서 나왔는지 알거같지 않음? https://t.co/fsHAUpAdxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135214140279074800,
+					"id_str": "1135214140279074816",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EXPvdVsAADZPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EXPvdVsAADZPY.jpg",
+					"url": "https://t.co/fsHAUpAdxz",
+					"display_url": "pic.twitter.com/fsHAUpAdxz",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1135214193206910976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135214140279074800,
+					"id_str": "1135214140279074816",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EXPvdVsAADZPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EXPvdVsAADZPY.jpg",
+					"url": "https://t.co/fsHAUpAdxz",
+					"display_url": "pic.twitter.com/fsHAUpAdxz",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1135214193206910976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135214158020878300,
+					"id_str": "1135214158020878336",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EXQxjUIAAKUwL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EXQxjUIAAKUwL.jpg",
+					"url": "https://t.co/fsHAUpAdxz",
+					"display_url": "pic.twitter.com/fsHAUpAdxz",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1135214193206910976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135214176987566100,
+					"id_str": "1135214176987566082",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EXR4NU0AIOspZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EXR4NU0AIOspZ.jpg",
+					"url": "https://t.co/fsHAUpAdxz",
+					"display_url": "pic.twitter.com/fsHAUpAdxz",
+					"expanded_url": "https://twitter.com/wjsejguq_/status/1135214193206910976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2991653138,
+			"id_str": "2991653138",
+			"name": "전차도🌈",
+			"screen_name": "wjsejguq_",
+			"location": "사찰그만하구팔로우하쟈",
+			"description": "인용시비 즉각블락/세상은 아름답고 역사는 발전한다/#TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1874,
+			"friends_count": 702,
+			"listed_count": 40,
+			"created_at": "Wed Jan 21 15:43:46 +0000 2015",
+			"favourites_count": 16378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 347021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134555148011704320/Nmh55QEY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134555148011704320/Nmh55QEY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2991653138/1558690726",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커뮤살인마 둘이 왜 트위터에서 나왔는지 알거같지 않음? https://t.co/fsHAUpAdxz"
+	},
+	{
+		"created_at": "Sun Jun 02 23:05:57 +0000 2019",
+		"id": 1135293947578912800,
+		"id_str": "1135321686138507265",
+		"full_text": "Reminder. https://t.co/CDAQa0oyPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135293924304703500,
+					"id_str": "1135293924304703488",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D8FfzyHXUAAl-D8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8FfzyHXUAAl-D8.jpg",
+					"url": "https://t.co/CDAQa0oyPD",
+					"display_url": "pic.twitter.com/CDAQa0oyPD",
+					"expanded_url": "https://twitter.com/Crazzyintheusa/status/1135293947578912768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135293924304703500,
+					"id_str": "1135293924304703488",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D8FfzyHXUAAl-D8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8FfzyHXUAAl-D8.jpg",
+					"url": "https://t.co/CDAQa0oyPD",
+					"display_url": "pic.twitter.com/CDAQa0oyPD",
+					"expanded_url": "https://twitter.com/Crazzyintheusa/status/1135293947578912768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2989847441,
+			"id_str": "2989847441",
+			"name": "Only in America",
+			"screen_name": "Crazzyintheusa",
+			"location": "",
+			"description": "A normal day in the USA. We are parody/fan of posts we dont own any copyrights.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169395,
+			"friends_count": 153,
+			"listed_count": 1014,
+			"created_at": "Wed Jan 21 13:22:49 +0000 2015",
+			"favourites_count": 1405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717330709027897344/_3vEAGHa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717330709027897344/_3vEAGHa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2989847441/1459859943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "da",
+		"text": "Reminder. https://t.co/CDAQa0oyPD"
+	},
+	{
+		"created_at": "Sun Jun 02 23:01:47 +0000 2019",
+		"id": 1135313031464755200,
+		"id_str": "1135320637310824448",
+		"full_text": "Dangerous ‘purple heroin’ has made its way to Montreal, police document says https://t.co/0dIg7322BA https://t.co/YnyWikePU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0dIg7322BA",
+					"expanded_url": "http://dlvr.it/R5vFSz",
+					"display_url": "dlvr.it/R5vFSz",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135313029799657500,
+					"id_str": "1135313029799657472",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D8FxL3oUwAAgDWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8FxL3oUwAAgDWU.jpg",
+					"url": "https://t.co/YnyWikePU1",
+					"display_url": "pic.twitter.com/YnyWikePU1",
+					"expanded_url": "https://twitter.com/globeandmail/status/1135313031464755201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135313029799657500,
+					"id_str": "1135313029799657472",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D8FxL3oUwAAgDWU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8FxL3oUwAAgDWU.jpg",
+					"url": "https://t.co/YnyWikePU1",
+					"display_url": "pic.twitter.com/YnyWikePU1",
+					"expanded_url": "https://twitter.com/globeandmail/status/1135313031464755201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8736882,
+			"id_str": "8736882",
+			"name": "The Globe and Mail",
+			"screen_name": "globeandmail",
+			"location": "Canada",
+			"description": "Canada's national news organization. Customer service: @GlobeHelp Share info with us anonymously: https://t.co/mDkX2boooF",
+			"url": "https://t.co/M5gwtER4Qr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M5gwtER4Qr",
+							"expanded_url": "http://www.globeandmail.com",
+							"display_url": "globeandmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mDkX2boooF",
+							"expanded_url": "https://sec.theglobeandmail.com/securedrop/",
+							"display_url": "sec.theglobeandmail.com/securedrop/",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1759457,
+			"friends_count": 562,
+			"listed_count": 14240,
+			"created_at": "Sat Sep 08 00:46:45 +0000 2007",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 459758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/742385672682512384/VfTAuqLg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8736882/1541533707",
+			"profile_link_color": "001F5F",
+			"profile_sidebar_border_color": "CDCDCD",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dangerous ‘purple heroin’ has made its way to Montreal, police document says https://t.co/0dIg7322BA https://t.co/YnyWikePU1"
+	},
+	{
+		"created_at": "Sun Jun 02 22:59:22 +0000 2019",
+		"id": 1135019035681124400,
+		"id_str": "1135320026259415040",
+		"full_text": "옛날엔 나도 이렇게 생각했는데, 요즘은 이런 것마저도 게임업게 이외에 아무 기업도 나서서 안 해주는 판국에 위선이라도 떠는 놈들이 제일 낫다고 생각. 블리자드가 기부해서 만들어진 세브란스 어린이병원 신관 가보니 입이 떡 벌어지더라. https://t.co/aqCsJKyVbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqCsJKyVbs",
+					"expanded_url": "https://twitter.com/iamharill/status/1134957307052216320",
+					"display_url": "twitter.com/iamharill/stat…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3322607143,
+			"id_str": "3322607143",
+			"name": "스레기를 나무로 밖구는 능역",
+			"screen_name": "trapactivated",
+			"location": "",
+			"description": "으악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Fri Aug 21 16:38:04 +0000 2015",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128875703917662208/i1yIeyfl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128875703917662208/i1yIeyfl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3322607143/1558601640",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134957307052216300,
+		"quoted_status_id_str": "1134957307052216320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aqCsJKyVbs",
+			"expanded": "https://twitter.com/iamharill/status/1134957307052216320",
+			"display": "twitter.com/iamharill/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 01 22:58:03 +0000 2019",
+			"id": 1134957307052216300,
+			"id_str": "1134957307052216320",
+			"full_text": "크크크크...아이들이 걱정 없이 건강하게 재활하면 나중에 우리 게임을 하겠지? https://t.co/V9fHuJ99lD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134957296784515100,
+						"id_str": "1134957296784515072",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Atpe4UIAAfE96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Atpe4UIAAfE96.jpg",
+						"url": "https://t.co/V9fHuJ99lD",
+						"display_url": "pic.twitter.com/V9fHuJ99lD",
+						"expanded_url": "https://twitter.com/iamharill/status/1134957307052216320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134957296784515100,
+						"id_str": "1134957296784515072",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Atpe4UIAAfE96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Atpe4UIAAfE96.jpg",
+						"url": "https://t.co/V9fHuJ99lD",
+						"display_url": "pic.twitter.com/V9fHuJ99lD",
+						"expanded_url": "https://twitter.com/iamharill/status/1134957307052216320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1134957299271733200,
+						"id_str": "1134957299271733248",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D8AtpoJUEAAvirP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8AtpoJUEAAvirP.jpg",
+						"url": "https://t.co/V9fHuJ99lD",
+						"display_url": "pic.twitter.com/V9fHuJ99lD",
+						"expanded_url": "https://twitter.com/iamharill/status/1134957307052216320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 865,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1439,
+								"h": 1037,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1091918235136446500,
+				"id_str": "1091918235136446465",
+				"name": "ӇΛ།၃ᥣỺ",
+				"screen_name": "iamharill",
+				"location": "",
+				"description": "쟈히 님은 기죽지 않아! 3권 출시예정!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 654,
+				"friends_count": 509,
+				"listed_count": 25,
+				"created_at": "Sun Feb 03 04:36:08 +0000 2019",
+				"favourites_count": 6470,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15704,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124844312234061824/MaBGg0Sy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124844312234061824/MaBGg0Sy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091918235136446465/1549168983",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 219,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 27,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옛날엔 나도 이렇게 생각했는데, 요즘은 이런 것마저도 게임업게 이외에 아무 기업도 나서서 안 해주는 판국에 위선이라도 떠는 놈들이 제일 낫다고 생각. 블리자드가 기부해서 만들어진 세브란스 어린이병원 신관 가보니 입이 떡 벌어지더라. https://t.co/aqCsJKyVbs"
+	},
+	{
 		"created_at": "Sun Jun 02 19:03:23 +0000 2019",
 		"id": 1135260641961185300,
 		"id_str": "1135260641961185281",
