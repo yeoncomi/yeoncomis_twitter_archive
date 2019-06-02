@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 00:17:22 +0000 2019",
+		"id": 1134779276253773800,
+		"id_str": "1134977267849781250",
+		"full_text": "세상에 얼마 없는 의사 https://t.co/Luh77HN9eC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134779267147915300,
+					"id_str": "1134779267147915264",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-LuyzUYAApGdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-LuyzUYAApGdu.jpg",
+					"url": "https://t.co/Luh77HN9eC",
+					"display_url": "pic.twitter.com/Luh77HN9eC",
+					"expanded_url": "https://twitter.com/healing_storage/status/1134779276253773825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134779267147915300,
+					"id_str": "1134779267147915264",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-LuyzUYAApGdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-LuyzUYAApGdu.jpg",
+					"url": "https://t.co/Luh77HN9eC",
+					"display_url": "pic.twitter.com/Luh77HN9eC",
+					"expanded_url": "https://twitter.com/healing_storage/status/1134779276253773825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081843934505009200,
+			"id_str": "1081843934505009153",
+			"name": "힐링짤모으는곳",
+			"screen_name": "healing_storage",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30230,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Sun Jan 06 09:24:28 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081844451901763584/kONUiHa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081844451901763584/kONUiHa__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2940,
+		"favorite_count": 1989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에 얼마 없는 의사 https://t.co/Luh77HN9eC"
+	},
+	{
 		"created_at": "Sat Jun 01 23:53:55 +0000 2019",
 		"id": 1134971368531943400,
 		"id_str": "1134971368531943424",
