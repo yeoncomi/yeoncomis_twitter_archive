@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 05:46:56 +0000 2019",
+		"id": 1135060205371179000,
+		"id_str": "1135060205371179008",
+		"full_text": "@Natsumi_LEN 키구 해보고싶은데 비싸요\n힝",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Natsumi_LEN",
+					"name": "夏美 (なつみ)",
+					"id": 194398385,
+					"id_str": "194398385",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1134753026919395300,
+		"in_reply_to_status_id_str": "1134753026919395328",
+		"in_reply_to_user_id": 194398385,
+		"in_reply_to_user_id_str": "194398385",
+		"in_reply_to_screen_name": "Natsumi_LEN",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 303,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Natsumi_LEN 키구 해보고싶은데 비싸요\n힝"
+	},
+	{
+		"created_at": "Sun Jun 02 05:44:04 +0000 2019",
+		"id": 1134840653152604200,
+		"id_str": "1135059484630380544",
+		"full_text": "기적의 다이어트법이라는데 '독약을 먹고 죽은 후 이세계 백인 남성의 몸에 들어가는 법'인거 같다는게 학계의 정설이다. https://t.co/Kw35BhLBZe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134840650665381900,
+					"id_str": "1134840650665381889",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D7_DjyOVUAE4vDG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7_DjyOVUAE4vDG.jpg",
+					"url": "https://t.co/Kw35BhLBZe",
+					"display_url": "pic.twitter.com/Kw35BhLBZe",
+					"expanded_url": "https://twitter.com/Racun_Park/status/1134840653152604167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134840650665381900,
+					"id_str": "1134840650665381889",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D7_DjyOVUAE4vDG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7_DjyOVUAE4vDG.jpg",
+					"url": "https://t.co/Kw35BhLBZe",
+					"display_url": "pic.twitter.com/Kw35BhLBZe",
+					"expanded_url": "https://twitter.com/Racun_Park/status/1134840653152604167/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 545,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 287234613,
+			"id_str": "287234613",
+			"name": "야빠형 운동빌런 박🦝🎗",
+			"screen_name": "Racun_Park",
+			"location": "대한민국 서울",
+			"description": "헤테로임/\n바디컨트롤 트레이닝 지도자 /\n생활스포츠지도사 2급 /\n대한체력코치협회 7기 /\n무에타이 2단 /\n양상파 영춘권사 /\nNC야구 보지 마세요...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610,
+			"friends_count": 452,
+			"listed_count": 25,
+			"created_at": "Sun Apr 24 15:50:01 +0000 2011",
+			"favourites_count": 6336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 268267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128800694419374080/ROAA3aAV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128800694419374080/ROAA3aAV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/287234613/1495708716",
+			"profile_link_color": "939899",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1067,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기적의 다이어트법이라는데 '독약을 먹고 죽은 후 이세계 백인 남성의 몸에 들어가는 법'인거 같다는게 학계의 정설이다. https://t.co/Kw35BhLBZe"
+	},
+	{
 		"created_at": "Sun Jun 02 05:14:58 +0000 2019",
 		"id": 1135046181233389600,
 		"id_str": "1135052164240297984",
