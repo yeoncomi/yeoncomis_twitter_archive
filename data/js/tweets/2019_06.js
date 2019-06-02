@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 06:51:19 +0000 2019",
+		"id": 1133714096518455300,
+		"id_str": "1135076407917273088",
+		"full_text": "이보쇼 트로츠키양반 당신은 제국주의와 자본주의를 싫어한다면서 전두환놈이 만든 프로야구와 영 제국주의자들의 친자본적 유희를 좋아하는 것은 무엇이요? https://t.co/kr66MDSkyB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133713762253336600,
+					"id_str": "1133713762253336576",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vCqPwU8AAs5fn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7vCqPwU8AAs5fn.png",
+					"url": "https://t.co/kr66MDSkyB",
+					"display_url": "pic.twitter.com/kr66MDSkyB",
+					"expanded_url": "https://twitter.com/namubsarchive/status/1133714096518455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1957,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1009,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133713762253336600,
+					"id_str": "1133713762253336576",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vCqPwU8AAs5fn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7vCqPwU8AAs5fn.png",
+					"url": "https://t.co/kr66MDSkyB",
+					"display_url": "pic.twitter.com/kr66MDSkyB",
+					"expanded_url": "https://twitter.com/namubsarchive/status/1133714096518455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1957,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1009,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1133713939823358000,
+					"id_str": "1133713939823357952",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vC0lQUcAAM5gn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vC0lQUcAAM5gn.jpg",
+					"url": "https://t.co/kr66MDSkyB",
+					"display_url": "pic.twitter.com/kr66MDSkyB",
+					"expanded_url": "https://twitter.com/namubsarchive/status/1133714096518455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1976,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1133714041434660900,
+					"id_str": "1133714041434660864",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D7vC6fyV4AAku0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7vC6fyV4AAku0v.jpg",
+					"url": "https://t.co/kr66MDSkyB",
+					"display_url": "pic.twitter.com/kr66MDSkyB",
+					"expanded_url": "https://twitter.com/namubsarchive/status/1133714096518455296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1947,
+							"h": 687,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 423,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126502558627852300,
+			"id_str": "1126502558627852289",
+			"name": "나무위키병신박제소",
+			"screen_name": "namubsarchive",
+			"location": "",
+			"description": "나무위키 문서의 병신서술, 토론에서의 병신발언을 제보받고 박제하는 곳입니다. 불만이 있으시면 나무위키를 끄십쇼.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu May 09 15:01:54 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126503401087307776/CnHe3Eq3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126503401087307776/CnHe3Eq3_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이보쇼 트로츠키양반 당신은 제국주의와 자본주의를 싫어한다면서 전두환놈이 만든 프로야구와 영 제국주의자들의 친자본적 유희를 좋아하는 것은 무엇이요? https://t.co/kr66MDSkyB"
+	},
+	{
+		"created_at": "Sun Jun 02 06:33:31 +0000 2019",
+		"id": 1135011988663201800,
+		"id_str": "1135071928492802048",
+		"full_text": "오늘 히로시마에서 본 무시무시한 건물\n편의점+PC방+만화방+코인노래방 ㄷㄷㄷ\n건물 층별로 서로 다른가게가 입점한게 아니라 한가게가 저걸 다 운영함\n돈만 충분하면 한 번 들어가서 1주일은 안나올 수 있을듯 https://t.co/iIQxhz05fj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135011960695582700,
+					"id_str": "1135011960695582720",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D8BfXV0UcAACIP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8BfXV0UcAACIP6.jpg",
+					"url": "https://t.co/iIQxhz05fj",
+					"display_url": "pic.twitter.com/iIQxhz05fj",
+					"expanded_url": "https://twitter.com/oguripe/status/1135011988663201792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135011960695582700,
+					"id_str": "1135011960695582720",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D8BfXV0UcAACIP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8BfXV0UcAACIP6.jpg",
+					"url": "https://t.co/iIQxhz05fj",
+					"display_url": "pic.twitter.com/iIQxhz05fj",
+					"expanded_url": "https://twitter.com/oguripe/status/1135011988663201792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1109859491628015600,
+			"id_str": "1109859491628015616",
+			"name": "grippe",
+			"screen_name": "oguripe",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65,
+			"friends_count": 112,
+			"listed_count": 0,
+			"created_at": "Sun Mar 24 16:48:17 +0000 2019",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109860642373066752/-d_c7CaU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109860642373066752/-d_c7CaU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 히로시마에서 본 무시무시한 건물\n편의점+PC방+만화방+코인노래방 ㄷㄷㄷ\n건물 층별로 서로 다른가게가 입점한게 아니라 한가게가 저걸 다 운영함\n돈만 충분하면 한 번 들어가서 1주일은 안나올 수 있을듯 https://t.co/iIQxhz05fj"
+	},
+	{
+		"created_at": "Sun Jun 02 06:30:34 +0000 2019",
+		"id": 1135070231330582500,
+		"id_str": "1135071189276057600",
+		"full_text": "#서울퀴어문화축제 하니 역시 어느 흔한 금융 보수 트갈량 선생의 '예언'이 생각남. 작년에는 '트위터 2컷 만화'였고, 올해 '트위터 3컷 만화'로 업데이트 됨. https://t.co/vAdbl3d2vF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울퀴어문화축제",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135070192579489800,
+					"id_str": "1135070192579489792",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CUU4fVsAAL8Xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CUU4fVsAAL8Xg.jpg",
+					"url": "https://t.co/vAdbl3d2vF",
+					"display_url": "pic.twitter.com/vAdbl3d2vF",
+					"expanded_url": "https://twitter.com/soundly_s/status/1135070231330582528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 307,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135070192579489800,
+					"id_str": "1135070192579489792",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CUU4fVsAAL8Xg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CUU4fVsAAL8Xg.jpg",
+					"url": "https://t.co/vAdbl3d2vF",
+					"display_url": "pic.twitter.com/vAdbl3d2vF",
+					"expanded_url": "https://twitter.com/soundly_s/status/1135070231330582528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 307,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1794,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135070207167230000,
+					"id_str": "1135070207167229952",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CUVu1U8AAfDYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CUVu1U8AAfDYa.jpg",
+					"url": "https://t.co/vAdbl3d2vF",
+					"display_url": "pic.twitter.com/vAdbl3d2vF",
+					"expanded_url": "https://twitter.com/soundly_s/status/1135070231330582528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 1573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 350,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 618,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135070220832215000,
+					"id_str": "1135070220832215040",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CUWhvUEAADLVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CUWhvUEAADLVr.jpg",
+					"url": "https://t.co/vAdbl3d2vF",
+					"display_url": "pic.twitter.com/vAdbl3d2vF",
+					"expanded_url": "https://twitter.com/soundly_s/status/1135070231330582528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 809,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391204503,
+			"id_str": "391204503",
+			"name": "Hooo",
+			"screen_name": "soundly_s",
+			"location": "",
+			"description": "충분한 수면과 균형 잡힌 식단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4851,
+			"friends_count": 133,
+			"listed_count": 81,
+			"created_at": "Sat Oct 15 06:32:10 +0000 2011",
+			"favourites_count": 206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391204503/1494939949",
+			"profile_link_color": "616161",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울퀴어문화축제 하니 역시 어느 흔한 금융 보수 트갈량 선생의 '예언'이 생각남. 작년에는 '트위터 2컷 만화'였고, 올해 '트위터 3컷 만화'로 업데이트 됨. https://t.co/vAdbl3d2vF"
+	},
+	{
+		"created_at": "Sun Jun 02 06:29:14 +0000 2019",
+		"id": 1135052177401978900,
+		"id_str": "1135070852075048960",
+		"full_text": "그럼 어케입어\n만석닭강정처럼 입어야하노 https://t.co/Gj9in4YrFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gj9in4YrFX",
+					"expanded_url": "https://twitter.com/ffaffa_king/status/1134771232476295169",
+					"display_url": "twitter.com/ffaffa_king/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023259507395199000,
+			"id_str": "1023259507395198976",
+			"name": "똥서울 시민",
+			"screen_name": "shesoseoul",
+			"location": "",
+			"description": "특징: e랑 2 구분 못함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 167,
+			"listed_count": 0,
+			"created_at": "Sat Jul 28 17:30:52 +0000 2018",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071435239002595328/v8BE8nDU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071435239002595328/v8BE8nDU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134771232476295200,
+		"quoted_status_id_str": "1134771232476295169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gj9in4YrFX",
+			"expanded": "https://twitter.com/ffaffa_king/status/1134771232476295169",
+			"display": "twitter.com/ffaffa_king/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 01 10:38:39 +0000 2019",
+			"id": 1134771232476295200,
+			"id_str": "1134771232476295169",
+			"full_text": "세상에 어느 페미니스트가 망사스타킹에 란제리같은걸 당당하게 쳐입고 밖에서 돌아다니나요 https://t.co/1H3mgqjZ95",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1H3mgqjZ95",
+						"expanded_url": "https://twitter.com/womenlink/status/1134736106556088320",
+						"display_url": "twitter.com/womenlink/stat…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115281394530283500,
+				"id_str": "1115281394530283520",
+				"name": "빱빠 🤪🔪",
+				"screen_name": "ffaffa_king",
+				"location": "",
+				"description": "FL l 여캐only1차ㅣ렏펨공부중ㅣ트윗 자주 지움ㅣ플필 사찰해도 괜찮은데 알림오게하지 마세요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49,
+				"friends_count": 51,
+				"listed_count": 0,
+				"created_at": "Mon Apr 08 15:53:00 +0000 2019",
+				"favourites_count": 1052,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2320,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128964997911011328/kO-I4pAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128964997911011328/kO-I4pAg_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1134736106556088300,
+			"quoted_status_id_str": "1134736106556088320",
+			"quoted_status_permalink": {
+				"url": "https://t.co/1H3mgqjZ95",
+				"expanded": "https://twitter.com/womenlink/status/1134736106556088320",
+				"display": "twitter.com/womenlink/stat…"
+			},
+			"retweet_count": 730,
+			"favorite_count": 152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그럼 어케입어\n만석닭강정처럼 입어야하노 https://t.co/Gj9in4YrFX"
+	},
+	{
 		"created_at": "Sun Jun 02 05:46:56 +0000 2019",
 		"id": 1135060205371179000,
 		"id_str": "1135060205371179008",
