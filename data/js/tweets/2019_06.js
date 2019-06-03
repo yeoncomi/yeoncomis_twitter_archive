@@ -1,6 +1,959 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 00:38:06 +0000 2019",
+		"id": 1134933201565225000,
+		"id_str": "1135344873148637184",
+		"full_text": "세계지도로 플레이하는 지뢰찾기... 검색해보니 나오는데 예기치 못한 숭고함... https://t.co/3nLNwGl4nG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134933188508291100,
+					"id_str": "1134933188508291072",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D8AXuMjWkAAl0iC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8AXuMjWkAAl0iC.jpg",
+					"url": "https://t.co/3nLNwGl4nG",
+					"display_url": "pic.twitter.com/3nLNwGl4nG",
+					"expanded_url": "https://twitter.com/aransistore/status/1134933201565224962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134933188508291100,
+					"id_str": "1134933188508291072",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D8AXuMjWkAAl0iC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8AXuMjWkAAl0iC.jpg",
+					"url": "https://t.co/3nLNwGl4nG",
+					"display_url": "pic.twitter.com/3nLNwGl4nG",
+					"expanded_url": "https://twitter.com/aransistore/status/1134933201565224962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1218,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134933195923841000,
+					"id_str": "1134933195923841024",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/D8AXuoLW4AAprcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8AXuoLW4AAprcS.jpg",
+					"url": "https://t.co/3nLNwGl4nG",
+					"display_url": "pic.twitter.com/3nLNwGl4nG",
+					"expanded_url": "https://twitter.com/aransistore/status/1134933201565224962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 941,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "[통판중] 시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 설덕후 / 만화, 애니메이션, 라이트노벨, 철도, 봉제인형, 귀여운 것 / 덕 아닌 분 팔로우 안받습니다.",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1985,
+			"friends_count": 233,
+			"listed_count": 48,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 304939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2879,
+		"favorite_count": 594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계지도로 플레이하는 지뢰찾기... 검색해보니 나오는데 예기치 못한 숭고함... https://t.co/3nLNwGl4nG"
+	},
+	{
+		"created_at": "Mon Jun 03 00:36:07 +0000 2019",
+		"id": 1135196909277143000,
+		"id_str": "1135344376345817090",
+		"full_text": "이석기 석방은 왜 있냐? https://t.co/pczYAUXC4s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135196894597009400,
+					"id_str": "1135196894597009409",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EHj6SU0AEWc-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EHj6SU0AEWc-D.jpg",
+					"url": "https://t.co/pczYAUXC4s",
+					"display_url": "pic.twitter.com/pczYAUXC4s",
+					"expanded_url": "https://twitter.com/Kanegawa9115/status/1135196909277143041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 517,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135196894597009400,
+					"id_str": "1135196894597009409",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EHj6SU0AEWc-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EHj6SU0AEWc-D.jpg",
+					"url": "https://t.co/pczYAUXC4s",
+					"display_url": "pic.twitter.com/pczYAUXC4s",
+					"expanded_url": "https://twitter.com/Kanegawa9115/status/1135196909277143041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 517,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659296811,
+			"id_str": "2659296811",
+			"name": "실력갓흥겜 플레이어",
+			"screen_name": "Kanegawa9115",
+			"location": "대한민국 양천구 목동",
+			"description": "Kanegawa#1982 하스스톤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 172,
+			"listed_count": 6,
+			"created_at": "Sat Jul 19 11:32:32 +0000 2014",
+			"favourites_count": 1929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132934274653409280/KlC3ntt0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132934274653409280/KlC3ntt0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659296811/1558199646",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이석기 석방은 왜 있냐? https://t.co/pczYAUXC4s"
+	},
+	{
+		"created_at": "Mon Jun 03 00:34:10 +0000 2019",
+		"id": 1134529377478348800,
+		"id_str": "1135343886405029888",
+		"full_text": "We are a two people company, I'm the only developer. Today was the first day of 2 weeks of holidays for me, I got their final message right after arriving in Portugal. I’m harmed and feel so powerless..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1134529374676500500,
+		"in_reply_to_status_id_str": "1134529374676500482",
+		"in_reply_to_user_id": 486731550,
+		"in_reply_to_user_id_str": "486731550",
+		"in_reply_to_screen_name": "w3Nicolas",
+		"user": {
+			"id": 486731550,
+			"id_str": "486731550",
+			"name": "Nicolas Beauvais",
+			"screen_name": "w3Nicolas",
+			"location": "Paris, France",
+			"description": "CTO @raisupcom, Software engineer working with  #laravel and #vuejs, I also maintain some #opensource projects and run marathons, from France 🇫🇷🥖",
+			"url": "https://t.co/vLHVv9JdAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLHVv9JdAu",
+							"expanded_url": "https://nicolas-beauvais.com/",
+							"display_url": "nicolas-beauvais.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5010,
+			"friends_count": 464,
+			"listed_count": 157,
+			"created_at": "Wed Feb 08 16:12:34 +0000 2012",
+			"favourites_count": 27536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486731550/1397549500",
+			"profile_link_color": "00A9F1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are a two people company, I'm the only developer. Today was the first day of 2 weeks of holidays for me, I got their final message right after arriving in Portugal. I’m harmed and feel so powerless.."
+	},
+	{
+		"created_at": "Mon Jun 03 00:34:07 +0000 2019",
+		"id": 1134529374676500500,
+		"id_str": "1135343870558916609",
+		"full_text": "We lost everything, our servers, and more importantly 1 year of database backups. We now have to explain to our clients, Fortune 500 companies why we can’t restore their account.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1134529372172509200,
+		"in_reply_to_status_id_str": "1134529372172509184",
+		"in_reply_to_user_id": 486731550,
+		"in_reply_to_user_id_str": "486731550",
+		"in_reply_to_screen_name": "w3Nicolas",
+		"user": {
+			"id": 486731550,
+			"id_str": "486731550",
+			"name": "Nicolas Beauvais",
+			"screen_name": "w3Nicolas",
+			"location": "Paris, France",
+			"description": "CTO @raisupcom, Software engineer working with  #laravel and #vuejs, I also maintain some #opensource projects and run marathons, from France 🇫🇷🥖",
+			"url": "https://t.co/vLHVv9JdAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLHVv9JdAu",
+							"expanded_url": "https://nicolas-beauvais.com/",
+							"display_url": "nicolas-beauvais.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5010,
+			"friends_count": 464,
+			"listed_count": 157,
+			"created_at": "Wed Feb 08 16:12:34 +0000 2012",
+			"favourites_count": 27536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486731550/1397549500",
+			"profile_link_color": "00A9F1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 366,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We lost everything, our servers, and more importantly 1 year of database backups. We now have to explain to our clients, Fortune 500 companies why we can’t restore their account."
+	},
+	{
+		"created_at": "Mon Jun 03 00:32:59 +0000 2019",
+		"id": 1134529316904153100,
+		"id_str": "1135343587309154304",
+		"full_text": "How @DigitalOcean just killed our company @raisupcom. A long thread for a very sad story. https://t.co/uOFCDRoYJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitalocean",
+					"name": "DigitalOcean",
+					"id": 457033547,
+					"id_str": "457033547",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "raisupcom",
+					"name": "Raisup",
+					"id": 2838020026,
+					"id_str": "2838020026",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134529309689991200,
+					"id_str": "1134529309689991168",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D76oZWtXUAAWYz9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D76oZWtXUAAWYz9.png",
+					"url": "https://t.co/uOFCDRoYJ6",
+					"display_url": "pic.twitter.com/uOFCDRoYJ6",
+					"expanded_url": "https://twitter.com/w3Nicolas/status/1134529316904153089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134529309689991200,
+					"id_str": "1134529309689991168",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D76oZWtXUAAWYz9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D76oZWtXUAAWYz9.png",
+					"url": "https://t.co/uOFCDRoYJ6",
+					"display_url": "pic.twitter.com/uOFCDRoYJ6",
+					"expanded_url": "https://twitter.com/w3Nicolas/status/1134529316904153089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486731550,
+			"id_str": "486731550",
+			"name": "Nicolas Beauvais",
+			"screen_name": "w3Nicolas",
+			"location": "Paris, France",
+			"description": "CTO @raisupcom, Software engineer working with  #laravel and #vuejs, I also maintain some #opensource projects and run marathons, from France 🇫🇷🥖",
+			"url": "https://t.co/vLHVv9JdAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vLHVv9JdAu",
+							"expanded_url": "https://nicolas-beauvais.com/",
+							"display_url": "nicolas-beauvais.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5010,
+			"friends_count": 464,
+			"listed_count": 157,
+			"created_at": "Wed Feb 08 16:12:34 +0000 2012",
+			"favourites_count": 27536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640997161610649600/neKPdJEd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486731550/1397549500",
+			"profile_link_color": "00A9F1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2428,
+		"favorite_count": 4320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How @DigitalOcean just killed our company @raisupcom. A long thread for a very sad story. https://t.co/uOFCDRoYJ6"
+	},
+	{
+		"created_at": "Mon Jun 03 00:32:17 +0000 2019",
+		"id": 1135225609125150700,
+		"id_str": "1135343412629000192",
+		"full_text": "파판7 하고 비교하는 건 파판7 그래픽에 대한 모독이다! 참고로 파판7은 22년전 발매됨. https://t.co/vfWHYSEwuc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135225600543678500,
+					"id_str": "1135225600543678464",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ehq0RV4AAaaoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ehq0RV4AAaaoC.jpg",
+					"url": "https://t.co/vfWHYSEwuc",
+					"display_url": "pic.twitter.com/vfWHYSEwuc",
+					"expanded_url": "https://twitter.com/Kiz_Kami/status/1135225609125150721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135225600543678500,
+					"id_str": "1135225600543678464",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ehq0RV4AAaaoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ehq0RV4AAaaoC.jpg",
+					"url": "https://t.co/vfWHYSEwuc",
+					"display_url": "pic.twitter.com/vfWHYSEwuc",
+					"expanded_url": "https://twitter.com/Kiz_Kami/status/1135225609125150721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135225600640077800,
+					"id_str": "1135225600640077824",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ehq0oU0AAI2P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ehq0oU0AAI2P0.jpg",
+					"url": "https://t.co/vfWHYSEwuc",
+					"display_url": "pic.twitter.com/vfWHYSEwuc",
+					"expanded_url": "https://twitter.com/Kiz_Kami/status/1135225609125150721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158111674,
+			"id_str": "158111674",
+			"name": "소비에트 곰",
+			"screen_name": "Kiz_Kami",
+			"location": "대한민국",
+			"description": "아X폰 AS센터 엔지니어 3년차",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 781,
+			"friends_count": 995,
+			"listed_count": 22,
+			"created_at": "Mon Jun 21 20:29:04 +0000 2010",
+			"favourites_count": 541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112720575225434114/39cpsOkI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112720575225434114/39cpsOkI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158111674/1399886833",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파판7 하고 비교하는 건 파판7 그래픽에 대한 모독이다! 참고로 파판7은 22년전 발매됨. https://t.co/vfWHYSEwuc"
+	},
+	{
 		"created_at": "Sun Jun 02 23:30:32 +0000 2019",
 		"id": 1135189691920048100,
 		"id_str": "1135327869540823040",
