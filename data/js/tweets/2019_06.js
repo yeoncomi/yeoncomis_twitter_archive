@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 17:12:41 +0000 2019",
+		"id": 1135370173714534400,
+		"id_str": "1135595167996624899",
+		"full_text": "교수님이 합성하라해서 햇는데 이거였음 \n교수님이원한거/내가한거 ㅅㅂ https://t.co/q6CrUwm73h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135370163983806500,
+					"id_str": "1135370163983806465",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D8GlJhDU8AEjv2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8GlJhDU8AEjv2q.jpg",
+					"url": "https://t.co/q6CrUwm73h",
+					"display_url": "pic.twitter.com/q6CrUwm73h",
+					"expanded_url": "https://twitter.com/kimsotgot22/status/1135370173714534400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135370163983806500,
+					"id_str": "1135370163983806465",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D8GlJhDU8AEjv2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8GlJhDU8AEjv2q.jpg",
+					"url": "https://t.co/q6CrUwm73h",
+					"display_url": "pic.twitter.com/q6CrUwm73h",
+					"expanded_url": "https://twitter.com/kimsotgot22/status/1135370173714534400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1656,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135370163983773700,
+					"id_str": "1135370163983773702",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D8GlJhDUcAYmYGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8GlJhDUcAYmYGB.jpg",
+					"url": "https://t.co/q6CrUwm73h",
+					"display_url": "pic.twitter.com/q6CrUwm73h",
+					"expanded_url": "https://twitter.com/kimsotgot22/status/1135370173714534400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1656,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1045486726238548000,
+			"id_str": "1045486726238547968",
+			"name": "⚡️김삿갓⚡️",
+			"screen_name": "kimsotgot22",
+			"location": "",
+			"description": "류준열처돌이 💡링크 그림백업 모든쩜오간잽",
+			"url": "https://t.co/428uCEcGVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/428uCEcGVg",
+							"expanded_url": "https://www.instagram.com/glgl3333",
+							"display_url": "instagram.com/glgl3333",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 55,
+			"listed_count": 4,
+			"created_at": "Fri Sep 28 01:33:54 +0000 2018",
+			"favourites_count": 1286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135381033346424834/74-f2okL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135381033346424834/74-f2okL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045486726238547968/1559537813",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21656,
+		"favorite_count": 6499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "교수님이 합성하라해서 햇는데 이거였음 \n교수님이원한거/내가한거 ㅅㅂ https://t.co/q6CrUwm73h"
+	},
+	{
+		"created_at": "Mon Jun 03 17:12:16 +0000 2019",
+		"id": 1135502116909228000,
+		"id_str": "1135595065009553408",
+		"full_text": "(택시) 묻지말고 타세요\n(묘지에) 묻어드립니다 https://t.co/5DxvQmhzKe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5DxvQmhzKe",
+					"expanded_url": "https://twitter.com/T_L7L7/status/1135152898705305600",
+					"display_url": "twitter.com/T_L7L7/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107643193,
+			"id_str": "107643193",
+			"name": "센트레아 @ LIBREWIKI",
+			"screen_name": "Centrair_Hoya",
+			"location": "경남 마산",
+			"description": "https://t.co/32fWZuiPki\n\nMasan / 물지 않아요 / 해야할 일은 간략하게",
+			"url": "https://t.co/iNJP8ptpZM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNJP8ptpZM",
+							"expanded_url": "http://centrair.kr",
+							"display_url": "centrair.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/32fWZuiPki",
+							"expanded_url": "https://librewiki.net",
+							"display_url": "librewiki.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2040,
+			"friends_count": 1076,
+			"listed_count": 38,
+			"created_at": "Sat Jan 23 06:55:38 +0000 2010",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562976840927543296/t0wXJcNQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562976840927543296/t0wXJcNQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107643193/1348046816",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135152898705305600,
+		"quoted_status_id_str": "1135152898705305600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5DxvQmhzKe",
+			"expanded": "https://twitter.com/T_L7L7/status/1135152898705305600",
+			"display": "twitter.com/T_L7L7/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 02 11:55:15 +0000 2019",
+			"id": 1135152898705305600,
+			"id_str": "1135152898705305600",
+			"full_text": "술 한잔 했습니다…\n운전이 잘 안 될 수도 있습니다 https://t.co/yJjZSdALMO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1135152887913304000,
+						"id_str": "1135152887913304064",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/D8DfiYnU0AAsIrQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8DfiYnU0AAsIrQ.jpg",
+						"url": "https://t.co/yJjZSdALMO",
+						"display_url": "pic.twitter.com/yJjZSdALMO",
+						"expanded_url": "https://twitter.com/T_L7L7/status/1135152898705305600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135152887913304000,
+						"id_str": "1135152887913304064",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/D8DfiYnU0AAsIrQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8DfiYnU0AAsIrQ.jpg",
+						"url": "https://t.co/yJjZSdALMO",
+						"display_url": "pic.twitter.com/yJjZSdALMO",
+						"expanded_url": "https://twitter.com/T_L7L7/status/1135152898705305600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 675,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 274772084,
+				"id_str": "274772084",
+				"name": "티엘7",
+				"screen_name": "T_L7L7",
+				"location": ".",
+				"description": ".",
+				"url": "https://t.co/OSohyguQP6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OSohyguQP6",
+								"expanded_url": "https://soundcloud.com/t_l7l7",
+								"display_url": "soundcloud.com/t_l7l7",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 206,
+				"friends_count": 205,
+				"listed_count": 15,
+				"created_at": "Thu Mar 31 00:41:13 +0000 2011",
+				"favourites_count": 14752,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30058,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135319311688523777/8kTX5jJ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135319311688523777/8kTX5jJ2_normal.jpg",
+				"profile_link_color": "FF66BB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2633,
+			"favorite_count": 601,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(택시) 묻지말고 타세요\n(묘지에) 묻어드립니다 https://t.co/5DxvQmhzKe"
+	},
+	{
 		"created_at": "Mon Jun 03 15:31:32 +0000 2019",
 		"id": 1135569712635494400,
 		"id_str": "1135569712635494401",
