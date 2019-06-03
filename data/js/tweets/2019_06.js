@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 23:30:32 +0000 2019",
+		"id": 1135189691920048100,
+		"id_str": "1135327869540823040",
+		"full_text": "@Tacomming ...제이콤이네요. 쟤넨 돈 줘도 쓰면 안되는 애들이에요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tacomming",
+					"name": "타콤",
+					"id": 142603810,
+					"id_str": "142603810",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1135044495446122500,
+		"in_reply_to_status_id_str": "1135044495446122497",
+		"in_reply_to_user_id": 142603810,
+		"in_reply_to_user_id_str": "142603810",
+		"in_reply_to_screen_name": "Tacomming",
+		"user": {
+			"id": 220021143,
+			"id_str": "220021143",
+			"name": "クウキ@明日も課題死",
+			"screen_name": "HONT_K",
+			"location": "",
+			"description": "3DCGモデラー志望、 適当に音ゲームやってます。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493,
+			"friends_count": 1577,
+			"listed_count": 11,
+			"created_at": "Fri Nov 26 15:13:08 +0000 2010",
+			"favourites_count": 8742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 130964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045394990254288896/fN4wNuT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045394990254288896/fN4wNuT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220021143/1538076623",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Tacomming ...제이콤이네요. 쟤넨 돈 줘도 쓰면 안되는 애들이에요"
+	},
+	{
+		"created_at": "Sun Jun 02 23:30:27 +0000 2019",
+		"id": 1135044495446122500,
+		"id_str": "1135327851895386113",
+		"full_text": "하고 경고가 왔는데 내가 뭐 수백기가를 쓴것도 아니고 저때 한 50기가 썼나? 졸라어이없네 무슨 종량제 인터넷도 아니고 안그래도 속도 좆구려서 많이 쓰고싶어도 어차피 많이 쓸수도 없는데(업로드 최대 10Mbps뜸ㅎ) 개너무하네 진짜 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135044487858643000,
+		"in_reply_to_status_id_str": "1135044487858642944",
+		"in_reply_to_user_id": 142603810,
+		"in_reply_to_user_id_str": "142603810",
+		"in_reply_to_screen_name": "Tacomming",
+		"user": {
+			"id": 142603810,
+			"id_str": "142603810",
+			"name": "타콤",
+			"screen_name": "Tacomming",
+			"location": "Osaka-fu, Japan",
+			"description": "오사카에 사는 네소베리.\nμ'sic Forever♪♪♪♪♪♪♪♪♪",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 367,
+			"listed_count": 41,
+			"created_at": "Tue May 11 08:33:42 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 373670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134107388619845635/GFyXJ7-C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134107388619845635/GFyXJ7-C_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142603810/1528637697",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하고 경고가 왔는데 내가 뭐 수백기가를 쓴것도 아니고 저때 한 50기가 썼나? 졸라어이없네 무슨 종량제 인터넷도 아니고 안그래도 속도 좆구려서 많이 쓰고싶어도 어차피 많이 쓸수도 없는데(업로드 최대 10Mbps뜸ㅎ) 개너무하네 진짜 ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Jun 02 23:30:25 +0000 2019",
+		"id": 1135044487858643000,
+		"id_str": "1135327840759455744",
+		"full_text": "아니 갑자기 집에 배달증명으로 인터넷회사에서 등기가 와서 읽어보니까 \"5월 29일과 5월 30일에 대량의 데이터 송신이 확인되었습니다. 이 상태가 계속된다면 인터넷 회선의 통신품질에 영향을 끼칠 수 있습니다. 데이터 송신이 일정수준을 넘으면 다시 한번 서면 통지 후 통신속도 제한이 발생합니다 https://t.co/jDYlYAktE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135042281449242600,
+					"id_str": "1135042281449242624",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D8B68PbUwAACPoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8B68PbUwAACPoS.jpg",
+					"url": "https://t.co/jDYlYAktE7",
+					"display_url": "pic.twitter.com/jDYlYAktE7",
+					"expanded_url": "https://twitter.com/Tacomming/status/1135044487858642944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135042281449242600,
+					"id_str": "1135042281449242624",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D8B68PbUwAACPoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8B68PbUwAACPoS.jpg",
+					"url": "https://t.co/jDYlYAktE7",
+					"display_url": "pic.twitter.com/jDYlYAktE7",
+					"expanded_url": "https://twitter.com/Tacomming/status/1135044487858642944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142603810,
+			"id_str": "142603810",
+			"name": "타콤",
+			"screen_name": "Tacomming",
+			"location": "Osaka-fu, Japan",
+			"description": "오사카에 사는 네소베리.\nμ'sic Forever♪♪♪♪♪♪♪♪♪",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 367,
+			"listed_count": 41,
+			"created_at": "Tue May 11 08:33:42 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 373670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134107388619845635/GFyXJ7-C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134107388619845635/GFyXJ7-C_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142603810/1528637697",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 갑자기 집에 배달증명으로 인터넷회사에서 등기가 와서 읽어보니까 \"5월 29일과 5월 30일에 대량의 데이터 송신이 확인되었습니다. 이 상태가 계속된다면 인터넷 회선의 통신품질에 영향을 끼칠 수 있습니다. 데이터 송신이 일정수준을 넘으면 다시 한번 서면 통지 후 통신속도 제한이 발생합니다 https://t.co/jDYlYAktE7"
+	},
+	{
 		"created_at": "Sun Jun 02 23:13:20 +0000 2019",
 		"id": 1135322125365944300,
 		"id_str": "1135323544156401664",
