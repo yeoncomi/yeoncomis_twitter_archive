@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 20:06:10 +0000 2019",
+		"id": 1135489579610398700,
+		"id_str": "1135638827651887104",
+		"full_text": "그 유명한 변희재씨는 지난 5월 17일 법원으로부터 보석 조건으로 몇 가지 제약을 받았다고.\n\n우선 변호인을 제외하고 재판 관련자는 만나선 안 되며 전화나 서신, 팩스, 이메일, 문자전송, SNS도 안된다고 했다.\n\n그런데 그가 나온 다음날, 내 텔레에 \"그가 가입했다며\" 이름이 떴다. 이건 뭐지? https://t.co/Cdx3Efkigt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135489577374720000,
+					"id_str": "1135489577374720001",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D8IRwSmUIAEyrJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8IRwSmUIAEyrJv.jpg",
+					"url": "https://t.co/Cdx3Efkigt",
+					"display_url": "pic.twitter.com/Cdx3Efkigt",
+					"expanded_url": "https://twitter.com/rights11/status/1135489579610398722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1073,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135489577374720000,
+					"id_str": "1135489577374720001",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D8IRwSmUIAEyrJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8IRwSmUIAEyrJv.jpg",
+					"url": "https://t.co/Cdx3Efkigt",
+					"display_url": "pic.twitter.com/Cdx3Efkigt",
+					"expanded_url": "https://twitter.com/rights11/status/1135489579610398722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1073,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75254347,
+			"id_str": "75254347",
+			"name": "고상만",
+			"screen_name": "rights11",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71498,
+			"friends_count": 16335,
+			"listed_count": 369,
+			"created_at": "Fri Sep 18 11:09:02 +0000 2009",
+			"favourites_count": 4586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048156195087761408/DVrEImCP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048156195087761408/DVrEImCP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75254347/1535032708",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 유명한 변희재씨는 지난 5월 17일 법원으로부터 보석 조건으로 몇 가지 제약을 받았다고.\n\n우선 변호인을 제외하고 재판 관련자는 만나선 안 되며 전화나 서신, 팩스, 이메일, 문자전송, SNS도 안된다고 했다.\n\n그런데 그가 나온 다음날, 내 텔레에 \"그가 가입했다며\" 이름이 떴다. 이건 뭐지? https://t.co/Cdx3Efkigt"
+	},
+	{
+		"created_at": "Mon Jun 03 20:04:08 +0000 2019",
+		"id": 1135570071064129500,
+		"id_str": "1135638318421430272",
+		"full_text": "A missing or murdered Indigenous daughter, wife, sister, friend, aunt, or mother leaves a tragic void in the lives of the loved ones around them. If you need support, call the toll-free 24/7 help line at 1-844-413-6649. \nMore info: https://t.co/SESuk2GC78 https://t.co/PVkQxGPYcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SESuk2GC78",
+					"expanded_url": "http://ow.ly/eM2E50uvkBl",
+					"display_url": "ow.ly/eM2E50uvkBl",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135570069298339800,
+					"id_str": "1135570069298339842",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ja9iYX4AIeksr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ja9iYX4AIeksr.jpg",
+					"url": "https://t.co/PVkQxGPYcL",
+					"display_url": "pic.twitter.com/PVkQxGPYcL",
+					"expanded_url": "https://twitter.com/GCIndigenous/status/1135570071064129537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135570069298339800,
+					"id_str": "1135570069298339842",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ja9iYX4AIeksr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ja9iYX4AIeksr.jpg",
+					"url": "https://t.co/PVkQxGPYcL",
+					"display_url": "pic.twitter.com/PVkQxGPYcL",
+					"expanded_url": "https://twitter.com/GCIndigenous/status/1135570071064129537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 140924167,
+			"id_str": "140924167",
+			"name": "GCIndigenous",
+			"screen_name": "GCIndigenous",
+			"location": "Canada",
+			"description": "GCIndigenous is a Government of Canada account. En français : @GCAutochtones Protocol: https://t.co/9HHISV4H8R",
+			"url": "https://t.co/jW86EYrymq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jW86EYrymq",
+							"expanded_url": "http://www.canada.ca",
+							"display_url": "canada.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9HHISV4H8R",
+							"expanded_url": "http://www.aandc.gc.ca/twitterE",
+							"display_url": "aandc.gc.ca/twitterE",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28176,
+			"friends_count": 158,
+			"listed_count": 507,
+			"created_at": "Thu May 06 18:27:46 +0000 2010",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884486877767708672/Ut8KZeD9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884486877767708672/Ut8KZeD9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/140924167/1559401221",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0D1E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A missing or murdered Indigenous daughter, wife, sister, friend, aunt, or mother leaves a tragic void in the lives of the loved ones around them. If you need support, call the toll-free 24/7 help line at 1-844-413-6649. \nMore info: https://t.co/SESuk2GC78 https://t.co/PVkQxGPYcL"
+	},
+	{
+		"created_at": "Mon Jun 03 19:35:30 +0000 2019",
+		"id": 1135540053197770800,
+		"id_str": "1135631111051042816",
+		"full_text": "세계일보에서 퀴퍼 쓰레기 정리전 사진 찍어놓고 악의적으로 왜곡 보도하네여\n\nhttps://t.co/mZlpdZBurR https://t.co/nKNvnoJB0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mZlpdZBurR",
+					"expanded_url": "http://naver.me/xbBNukhA",
+					"display_url": "naver.me/xbBNukhA",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135539999267418100,
+					"id_str": "1135539999267418117",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D8I_nOyU8AUj52n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8I_nOyU8AUj52n.jpg",
+					"url": "https://t.co/nKNvnoJB0R",
+					"display_url": "pic.twitter.com/nKNvnoJB0R",
+					"expanded_url": "https://twitter.com/hangoon__/status/1135540053197770753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135539999267418100,
+					"id_str": "1135539999267418117",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D8I_nOyU8AUj52n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8I_nOyU8AUj52n.jpg",
+					"url": "https://t.co/nKNvnoJB0R",
+					"display_url": "pic.twitter.com/nKNvnoJB0R",
+					"expanded_url": "https://twitter.com/hangoon__/status/1135540053197770753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 750751327550971900,
+			"id_str": "750751327550971905",
+			"name": "한군",
+			"screen_name": "hangoon__",
+			"location": "",
+			"description": "오픈리게이 팡인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 784,
+			"friends_count": 296,
+			"listed_count": 5,
+			"created_at": "Wed Jul 06 18:00:39 +0000 2016",
+			"favourites_count": 9956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057271626759172097/z4h92h9a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057271626759172097/z4h92h9a_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계일보에서 퀴퍼 쓰레기 정리전 사진 찍어놓고 악의적으로 왜곡 보도하네여\n\nhttps://t.co/mZlpdZBurR https://t.co/nKNvnoJB0R"
+	},
+	{
+		"created_at": "Mon Jun 03 19:35:13 +0000 2019",
+		"id": 1135479783481937900,
+		"id_str": "1135631040087650304",
+		"full_text": "갑지기 신뢰도 0됨ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/SWupGxpdAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135479732600856600,
+					"id_str": "1135479732600856576",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8IIzP9UYAAZzyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8IIzP9UYAAZzyt.jpg",
+					"url": "https://t.co/SWupGxpdAv",
+					"display_url": "pic.twitter.com/SWupGxpdAv",
+					"expanded_url": "https://twitter.com/Ost_in_Edhil/status/1135479783481937926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135479732600856600,
+					"id_str": "1135479732600856576",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8IIzP9UYAAZzyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8IIzP9UYAAZzyt.jpg",
+					"url": "https://t.co/SWupGxpdAv",
+					"display_url": "pic.twitter.com/SWupGxpdAv",
+					"expanded_url": "https://twitter.com/Ost_in_Edhil/status/1135479783481937926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135479748316975100,
+					"id_str": "1135479748316975105",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8II0KgVUAEGlD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8II0KgVUAEGlD5.jpg",
+					"url": "https://t.co/SWupGxpdAv",
+					"display_url": "pic.twitter.com/SWupGxpdAv",
+					"expanded_url": "https://twitter.com/Ost_in_Edhil/status/1135479783481937926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135479769204551700,
+					"id_str": "1135479769204551682",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8II1YUUcAIzdBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8II1YUUcAIzdBZ.jpg",
+					"url": "https://t.co/SWupGxpdAv",
+					"display_url": "pic.twitter.com/SWupGxpdAv",
+					"expanded_url": "https://twitter.com/Ost_in_Edhil/status/1135479783481937926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755676256843108400,
+			"id_str": "755676256843108352",
+			"name": "에스텔🌟",
+			"screen_name": "Ost_in_Edhil",
+			"location": "대한민국 서울",
+			"description": "한편 나라가 DBpia",
+			"url": "https://t.co/z38ziQ6hWA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z38ziQ6hWA",
+							"expanded_url": "https://peing.net/ko/ost_in_edhil?event=0",
+							"display_url": "peing.net/ko/ost_in_edhi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1631,
+			"friends_count": 1890,
+			"listed_count": 9,
+			"created_at": "Wed Jul 20 08:10:34 +0000 2016",
+			"favourites_count": 167178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130901644353236992/HN3589JA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130901644353236992/HN3589JA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755676256843108352/1555232308",
+			"profile_link_color": "11263B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1666,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "갑지기 신뢰도 0됨ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/SWupGxpdAv"
+	},
+	{
+		"created_at": "Mon Jun 03 19:34:56 +0000 2019",
+		"id": 1135479766755172400,
+		"id_str": "1135630969770205184",
+		"full_text": "그냥.... \n1) 퀴어라고 제대로 쓰지도 못하고 \"큐어\"라고 쓰고 \n2) 자기 소속도 못 밝히는 사람 인터뷰 해와서는\n3) 혐오나 부추기는 익명의 트윗을 가지고 쓴 기사가 \n4) \"경제\"가 들어가 있는 매체에서 나왔는데 \n\n신빙성의 ㅅ 도 주고 싶지 않네...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 832301301723721700,
+			"id_str": "832301301723721730",
+			"name": "Mx. 쭈빌😒🌷🎗",
+			"screen_name": "jjoobill",
+			"location": "내집은퀴어밀집도100%",
+			"description": "설명하기귀찮은퀴어🏳️‍🌈 | 신없이잘살사람 | 상담심리학 석사 | 나의 최애는 언제나 윤하",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 753,
+			"listed_count": 1,
+			"created_at": "Thu Feb 16 18:51:08 +0000 2017",
+			"favourites_count": 46350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113252360040570880/nHOfNdR0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113252360040570880/nHOfNdR0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/832301301723721730/1553649881",
+			"profile_link_color": "B86D84",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그냥.... \n1) 퀴어라고 제대로 쓰지도 못하고 \"큐어\"라고 쓰고 \n2) 자기 소속도 못 밝히는 사람 인터뷰 해와서는\n3) 혐오나 부추기는 익명의 트윗을 가지고 쓴 기사가 \n4) \"경제\"가 들어가 있는 매체에서 나왔는데 \n\n신빙성의 ㅅ 도 주고 싶지 않네..."
+	},
+	{
 		"created_at": "Mon Jun 03 17:39:43 +0000 2019",
 		"id": 1135559576051257300,
 		"id_str": "1135601973346983936",
