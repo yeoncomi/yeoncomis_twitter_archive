@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 14:58:18 +0000 2019",
+		"id": 1135535065142685700,
+		"id_str": "1135561351923884033",
+		"full_text": "원조의 손맛 https://t.co/yCSbhqTo18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135535052995960800,
+					"id_str": "1135535052995960834",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D8I7HUfUIAIW5XH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8I7HUfUIAIW5XH.jpg",
+					"url": "https://t.co/yCSbhqTo18",
+					"display_url": "pic.twitter.com/yCSbhqTo18",
+					"expanded_url": "https://twitter.com/notdogpig/status/1135535065142685696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135535052995960800,
+					"id_str": "1135535052995960834",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D8I7HUfUIAIW5XH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8I7HUfUIAIW5XH.jpg",
+					"url": "https://t.co/yCSbhqTo18",
+					"display_url": "pic.twitter.com/yCSbhqTo18",
+					"expanded_url": "https://twitter.com/notdogpig/status/1135535065142685696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 933887854794510300,
+			"id_str": "933887854794510341",
+			"name": "개돼지 가챠맨",
+			"screen_name": "notdogpig",
+			"location": "",
+			"description": "프로듀서 겸 프로 개돼지 마왕후보생",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 647,
+			"listed_count": 20,
+			"created_at": "Fri Nov 24 02:39:50 +0000 2017",
+			"favourites_count": 44023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954970401460797440/QkfR9Hxz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954970401460797440/QkfR9Hxz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/933887854794510341/1518514794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원조의 손맛 https://t.co/yCSbhqTo18"
+	},
+	{
 		"created_at": "Mon Jun 03 03:10:28 +0000 2019",
 		"id": 1135340002877947900,
 		"id_str": "1135383217333080064",
