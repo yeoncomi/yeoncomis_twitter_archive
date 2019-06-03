@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 03:10:28 +0000 2019",
+		"id": 1135340002877947900,
+		"id_str": "1135383217333080064",
+		"full_text": "악마를 꼬드겨 10% 커미션  독점계약 맺고 감옥이나 군대에 있는 사람들 소개시켜주면서 돈 벌겠음 https://t.co/ciAUv6AXBv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ciAUv6AXBv",
+					"expanded_url": "https://twitter.com/hailthevader/status/1134995433707646977?s=21",
+					"display_url": "twitter.com/hailthevader/s…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595154440,
+			"id_str": "595154440",
+			"name": "곽재식",
+			"screen_name": "JaesikKwak",
+			"location": "",
+			"description": "작가. 한편으로는 화학업체 직원. 기술정책을 연구하기도 했던 공학박사. gerecter@gmail.com",
+			"url": "http://jaesikkwak.blogspot.kr/",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://jaesikkwak.blogspot.kr/",
+							"expanded_url": null,
+							"indices": [
+								0,
+								30
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11067,
+			"friends_count": 1084,
+			"listed_count": 142,
+			"created_at": "Thu May 31 03:57:29 +0000 2012",
+			"favourites_count": 574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134995433707647000,
+		"quoted_status_id_str": "1134995433707646977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ciAUv6AXBv",
+			"expanded": "https://twitter.com/hailthevader/status/1134995433707646977?s=21",
+			"display": "twitter.com/hailthevader/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 02 01:29:33 +0000 2019",
+			"id": 1134995433707647000,
+			"id_str": "1134995433707646977",
+			"full_text": "여러분 3년만 투자하면 10억입니다 10억 https://t.co/GP8jL76Zui",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134995424614309900,
+						"id_str": "1134995424614309889",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/D8BQU0HUYAEtu90.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8BQU0HUYAEtu90.jpg",
+						"url": "https://t.co/GP8jL76Zui",
+						"display_url": "pic.twitter.com/GP8jL76Zui",
+						"expanded_url": "https://twitter.com/HailtheVader/status/1134995433707646977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134995424614309900,
+						"id_str": "1134995424614309889",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/D8BQU0HUYAEtu90.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8BQU0HUYAEtu90.jpg",
+						"url": "https://t.co/GP8jL76Zui",
+						"display_url": "pic.twitter.com/GP8jL76Zui",
+						"expanded_url": "https://twitter.com/HailtheVader/status/1134995433707646977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1134995427097374700,
+						"id_str": "1134995427097374720",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/D8BQU9XU8AAaU8N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8BQU9XU8AAaU8N.jpg",
+						"url": "https://t.co/GP8jL76Zui",
+						"display_url": "pic.twitter.com/GP8jL76Zui",
+						"expanded_url": "https://twitter.com/HailtheVader/status/1134995433707646977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1439,
+								"h": 1104,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 921,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1040833979333537800,
+				"id_str": "1040833979333537792",
+				"name": "이과빌런",
+				"screen_name": "HailtheVader",
+				"location": "쥐트티롤 어딘가",
+				"description": "00년생 이과빌런/판도학 전문 역덕/오스트리아 빠돌이/죽은 스타워즈 ㅂㄹ만지는중/ㅈ르비아 범슬라브주의자 밴",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97,
+				"friends_count": 93,
+				"listed_count": 1,
+				"created_at": "Sat Sep 15 05:25:33 +0000 2018",
+				"favourites_count": 2522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1519,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112387130947334144/r6_22rE__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112387130947334144/r6_22rE__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040833979333537792/1554048734",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3385,
+			"favorite_count": 760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 103,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악마를 꼬드겨 10% 커미션  독점계약 맺고 감옥이나 군대에 있는 사람들 소개시켜주면서 돈 벌겠음 https://t.co/ciAUv6AXBv"
+	},
+	{
+		"created_at": "Mon Jun 03 03:09:51 +0000 2019",
+		"id": 1135381943082729500,
+		"id_str": "1135383065625153537",
+		"full_text": "Warriors level NBA finals after third-quarter surge against Raptors in Game 2 https://t.co/yXsegXA6bD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yXsegXA6bD",
+					"expanded_url": "https://www.theguardian.com/sport/2019/jun/02/nba-finals-game-2-toronto-raptors-golden-state-warriors-basketball?utm_term=Autofeed&CMP=twt_gu&utm_medium=&utm_source=Twitter#Echobox=1559530929",
+					"display_url": "theguardian.com/sport/2019/jun…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7760293,
+			"friends_count": 1089,
+			"listed_count": 59530,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 530256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061907978633297921/aPuDuMXq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1542013526",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Warriors level NBA finals after third-quarter surge against Raptors in Game 2 https://t.co/yXsegXA6bD"
+	},
+	{
+		"created_at": "Mon Jun 03 03:00:42 +0000 2019",
+		"id": 1135044926150926300,
+		"id_str": "1135380763073900544",
+		"full_text": "리사수가 AMD에서 처음으로 한 일은\n\n인텔에게 지지만 엔비디아는 이기는 CPU\n\n엔비디아에겐 지지만 인텔에겐 이기는 GPU\n\n를 섞어서\n\n콘솔용으로 내놓고 그걸 IBM에 빡친 소니와 할일없던 마소에게 열심히 팔아넘겼다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 218814552,
+			"id_str": "218814552",
+			"name": "류까",
+			"screen_name": "DJ_Ryuka",
+			"location": "인천만 아니라면 좋아",
+			"description": "멸망해라 세상같은거",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1521,
+			"friends_count": 979,
+			"listed_count": 35,
+			"created_at": "Tue Nov 23 10:33:56 +0000 2010",
+			"favourites_count": 1492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/858329410667110401/05YKgcw5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/858329410667110401/05YKgcw5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/218814552/1491052688",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리사수가 AMD에서 처음으로 한 일은\n\n인텔에게 지지만 엔비디아는 이기는 CPU\n\n엔비디아에겐 지지만 인텔에겐 이기는 GPU\n\n를 섞어서\n\n콘솔용으로 내놓고 그걸 IBM에 빡친 소니와 할일없던 마소에게 열심히 팔아넘겼다"
+	},
+	{
+		"created_at": "Mon Jun 03 02:46:37 +0000 2019",
+		"id": 1135019423499079700,
+		"id_str": "1135377218538954752",
+		"full_text": "스님이 퀴어 퍼레이드에서 봉사활동하는게 섹스랑 뭔 상관이지? 그냥 성소수자도 똑같은 중생이니까 중생들 돕는 차원에서 하는 걸텐데 그런 것도 일일이 다 섹스하고 연관짓는 거야말로 섹스에 환장한 놈들에게서나 나올 사고 아닌가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 293642241,
+			"id_str": "293642241",
+			"name": "J-Fuad",
+			"screen_name": "Jfuad1988",
+			"location": "Suncheon, Korea",
+			"description": "음악(특히 흑인음악)과 문화, 예술, 인문학을 사랑하는 평범한 남자에요. 정의가 이땅에 강물처럼 흐르고 불의에 신음하는 사람이 없는 세상이 오기를 기원합니다. 축구(국축, 해축 불문)랑 덕질도 좋아함.",
+			"url": "https://t.co/zK1E0oBQjg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zK1E0oBQjg",
+							"expanded_url": "http://fuad.egloos.com",
+							"display_url": "fuad.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568,
+			"friends_count": 5002,
+			"listed_count": 18,
+			"created_at": "Thu May 05 18:21:07 +0000 2011",
+			"favourites_count": 14024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094793796427046912/9NmIwfXK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094793796427046912/9NmIwfXK_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 567,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "스님이 퀴어 퍼레이드에서 봉사활동하는게 섹스랑 뭔 상관이지? 그냥 성소수자도 똑같은 중생이니까 중생들 돕는 차원에서 하는 걸텐데 그런 것도 일일이 다 섹스하고 연관짓는 거야말로 섹스에 환장한 놈들에게서나 나올 사고 아닌가?"
+	},
+	{
+		"created_at": "Mon Jun 03 02:41:37 +0000 2019",
+		"id": 1135375957869547500,
+		"id_str": "1135375957869547526",
+		"full_text": "@konata613 UI에서 오래된 냄새가",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "konata613",
+					"name": "유놋치Δ",
+					"id": 191846863,
+					"id_str": "191846863",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1135375680722440200,
+		"in_reply_to_status_id_str": "1135375680722440192",
+		"in_reply_to_user_id": 191846863,
+		"in_reply_to_user_id_str": "191846863",
+		"in_reply_to_screen_name": "konata613",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@konata613 UI에서 오래된 냄새가"
+	},
+	{
+		"created_at": "Mon Jun 03 02:33:46 +0000 2019",
+		"id": 1135373982159450100,
+		"id_str": "1135373982159450112",
+		"full_text": "@Ai_Minachan 미냐리",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ai_Minachan",
+					"name": "미나리",
+					"id": 3195435608,
+					"id_str": "3195435608",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1135373724859883500,
+		"in_reply_to_status_id_str": "1135373724859883521",
+		"in_reply_to_user_id": 3195435608,
+		"in_reply_to_user_id_str": "3195435608",
+		"in_reply_to_screen_name": "Ai_Minachan",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Ai_Minachan 미냐리"
+	},
+	{
+		"created_at": "Mon Jun 03 02:26:42 +0000 2019",
+		"id": 1135372203719979000,
+		"id_str": "1135372203719979008",
+		"full_text": "yeoncomi\nツイート数:86(前日比:+23)\nRTした数:67(前日比:+22)\nRTされた数:1(前日比:+1)\n送ったリプライ数:10(前日比:-1)\n受け取ったリプライ数:7(前日比:+1)\nいいねされた数:4(前日比:-3)\nhttps://t.co/yvWq2ca97e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yvWq2ca97e",
+					"expanded_url": "http://utabami.com/TodaysTwitterLife",
+					"display_url": "utabami.com/TodaysTwitterL…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://utabami.com/TodaysTwitterLife/\" rel=\"nofollow\">今日のツイライフ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 302,
+			"friends_count": 1065,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "yeoncomi\nツイート数:86(前日比:+23)\nRTした数:67(前日比:+22)\nRTされた数:1(前日比:+1)\n送ったリプライ数:10(前日比:-1)\n受け取ったリプライ数:7(前日比:+1)\nいいねされた数:4(前日比:-3)\nhttps://t.co/yvWq2ca97e"
+	},
+	{
+		"created_at": "Mon Jun 03 02:24:39 +0000 2019",
+		"id": 1135346549498662900,
+		"id_str": "1135371690274217987",
+		"full_text": "리) 레알임. 근무시간에 수영복이나 본다고 저 사람 뭐하는 거냐고 이야기 들은 적이 레알 있었음(...) 부사수 들어온 뒤엔 걔들한테 다 던짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45861455,
+			"id_str": "45861455",
+			"name": "피두언냐",
+			"screen_name": "silphyd",
+			"location": "",
+			"description": "게임 시나리오, 컨셉 기획 월급쟁이입니다. 게임, 애니 덕토크와 잡담 위주로 떠듭니다. 자체 컨텐츠보단  RT가 많은 계정이니, 팔로우 시 참고 바랍니다. 민초단, 갑사단, 먀오당원~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 489,
+			"listed_count": 13,
+			"created_at": "Tue Jun 09 15:29:59 +0000 2009",
+			"favourites_count": 4330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112869075724623872/8luOEIK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112869075724623872/8luOEIK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45861455/1551359636",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리) 레알임. 근무시간에 수영복이나 본다고 저 사람 뭐하는 거냐고 이야기 들은 적이 레알 있었음(...) 부사수 들어온 뒤엔 걔들한테 다 던짐."
+	},
+	{
 		"created_at": "Mon Jun 03 02:14:19 +0000 2019",
 		"id": 1135071982100181000,
 		"id_str": "1135369088094445568",
