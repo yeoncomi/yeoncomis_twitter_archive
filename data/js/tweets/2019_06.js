@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 04:56:21 +0000 2019",
+		"id": 1135728868688506900,
+		"id_str": "1135772253587628037",
+		"full_text": "또 미국한테 뺨맞고 한국한테 화풀이하지요 ㅋ\nhttps://t.co/hVFyN1OxOu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hVFyN1OxOu",
+					"expanded_url": "https://www.asiae.co.kr/news/view.htm?idxno=2019060323344479235",
+					"display_url": "asiae.co.kr/news/view.htm?…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1805,
+			"friends_count": 1685,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 미국한테 뺨맞고 한국한테 화풀이하지요 ㅋ\nhttps://t.co/hVFyN1OxOu"
+	},
+	{
+		"created_at": "Tue Jun 04 04:53:36 +0000 2019",
+		"id": 1135383629960425500,
+		"id_str": "1135771559723855872",
+		"full_text": "Mom I'm on TV! https://t.co/TpSijl2UFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TpSijl2UFU",
+					"expanded_url": "https://twitter.com/daniandl/status/1135278023870205952",
+					"display_url": "twitter.com/daniandl/statu…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292889800,
+			"id_str": "2292889800",
+			"name": "Vue.js",
+			"screen_name": "vuejs",
+			"location": "The Internet",
+			"description": "Progressive JavaScript framework for building modern web interfaces. Created by @youyuxi, maintained by https://t.co/Tg5wKG5shK.…",
+			"url": "https://t.co/rYXmrQeWzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rYXmrQeWzj",
+							"expanded_url": "http://vuejs.org",
+							"display_url": "vuejs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Tg5wKG5shK",
+							"expanded_url": "http://vuejs.org/v2/guide/team",
+							"display_url": "vuejs.org/v2/guide/team",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 126804,
+			"friends_count": 234,
+			"listed_count": 1708,
+			"created_at": "Wed Jan 15 15:39:47 +0000 2014",
+			"favourites_count": 3801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292889800/1538315722",
+			"profile_link_color": "3AA373",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135278023870206000,
+		"quoted_status_id_str": "1135278023870205952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TpSijl2UFU",
+			"expanded": "https://twitter.com/daniandl/status/1135278023870205952",
+			"display": "twitter.com/daniandl/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 02 20:12:27 +0000 2019",
+			"id": 1135278023870206000,
+			"id_str": "1135278023870205952",
+			"full_text": "Just noticed @netflix's \"How to sell drugs online (fast)\"  uses @vuejs and @vuetifyjs \n\n(Seems to be a Todo boilerplate, ep2 @ 15:00)\n\nPretty fun to see 😃🎉\n#HowToSellDrugsOnlineFast https://t.co/JsCtRiNuSd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HowToSellDrugsOnlineFast",
+						"indices": [
+							156,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "netflix",
+						"name": "Netflix US",
+						"id": 16573941,
+						"id_str": "16573941",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "vuejs",
+						"name": "Vue.js",
+						"id": 2292889800,
+						"id_str": "2292889800",
+						"indices": [
+							64,
+							70
+						]
+					},
+					{
+						"screen_name": "vuetifyjs",
+						"name": "Vuetify.js",
+						"id": 811047893582970900,
+						"id_str": "811047893582970880",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1135278010595205100,
+						"id_str": "1135278010595205121",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/D8FRVe7W4AEh00Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8FRVe7W4AEh00Q.jpg",
+						"url": "https://t.co/JsCtRiNuSd",
+						"display_url": "pic.twitter.com/JsCtRiNuSd",
+						"expanded_url": "https://twitter.com/daniandl/status/1135278023870205952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135278010595205100,
+						"id_str": "1135278010595205121",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/D8FRVe7W4AEh00Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8FRVe7W4AEh00Q.jpg",
+						"url": "https://t.co/JsCtRiNuSd",
+						"display_url": "pic.twitter.com/JsCtRiNuSd",
+						"expanded_url": "https://twitter.com/daniandl/status/1135278023870205952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1058881027,
+				"id_str": "1058881027",
+				"name": "data",
+				"screen_name": "daniandl",
+				"location": "Switzerland",
+				"description": "Fullstack Web Developer and Designer",
+				"url": "https://t.co/T5mLpIulX3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T5mLpIulX3",
+								"expanded_url": "http://danian.website",
+								"display_url": "danian.website",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1572,
+				"friends_count": 128,
+				"listed_count": 0,
+				"created_at": "Thu Jan 03 21:50:35 +0000 2013",
+				"favourites_count": 1956,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 730,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940590249935360000/3Moxd_yI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940590249935360000/3Moxd_yI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058881027/1537955054",
+				"profile_link_color": "4EA1D3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 620,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 586,
+		"favorite_count": 2677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mom I'm on TV! https://t.co/TpSijl2UFU"
+	},
+	{
 		"created_at": "Tue Jun 04 02:30:46 +0000 2019",
 		"id": 1135735614601453600,
 		"id_str": "1135735614601453568",
