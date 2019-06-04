@@ -1,6 +1,1227 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 15:48:05 +0000 2019",
+		"id": 1135932389933408300,
+		"id_str": "1135936267881930752",
+		"full_text": "Air Canada demands repayment of $18,600 for return flights a woman took between Toronto, Vancouver and Shanghai. She says she bought the tickets online and was the victim of fraud. But the airline has banned her from flying until she pays up. https://t.co/eOx6fsPmGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eOx6fsPmGs",
+					"expanded_url": "http://cbc.ca/1.5158335",
+					"display_url": "cbc.ca/1.5158335",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19038934,
+			"id_str": "19038934",
+			"name": "CBC News Alerts",
+			"screen_name": "CBCAlerts",
+			"location": "Toronto",
+			"description": "Breaking national and international news alerts from CBC News, Canada's TV, radio, online and social media news leader.",
+			"url": "http://t.co/vAXH6cjeS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vAXH6cjeS8",
+							"expanded_url": "http://www.cbc.ca/news/",
+							"display_url": "cbc.ca/news/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1162495,
+			"friends_count": 425,
+			"listed_count": 8459,
+			"created_at": "Thu Jan 15 21:03:19 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 124613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/563807705530245120/92toBEKN_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Air Canada demands repayment of $18,600 for return flights a woman took between Toronto, Vancouver and Shanghai. She says she bought the tickets online and was the victim of fraud. But the airline has banned her from flying until she pays up. https://t.co/eOx6fsPmGs"
+	},
+	{
+		"created_at": "Tue Jun 04 15:44:01 +0000 2019",
+		"id": 1135935242894598100,
+		"id_str": "1135935242894598151",
+		"full_text": "베놈소르베 https://t.co/YzyE4SO28H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YzyE4SO28H",
+					"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432",
+					"display_url": "twitter.com/bat_the_rixie/…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 300,
+			"friends_count": 1063,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135879785018642400,
+		"quoted_status_id_str": "1135879785018642432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YzyE4SO28H",
+			"expanded": "https://twitter.com/bat_the_rixie/status/1135879785018642432",
+			"display": "twitter.com/bat_the_rixie/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 12:03:39 +0000 2019",
+			"id": 1135879785018642400,
+			"id_str": "1135879785018642432",
+			"full_text": "블랙소르베 4컷 만화....\n블랙소르베 절대 콘에 드시지 마세요.... https://t.co/z687x1msmk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1135879772897128400,
+						"id_str": "1135879772897128448",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/D8N0oqMVsAAB8i2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8N0oqMVsAAB8i2.jpg",
+						"url": "https://t.co/z687x1msmk",
+						"display_url": "pic.twitter.com/z687x1msmk",
+						"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135879772897128400,
+						"id_str": "1135879772897128448",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/D8N0oqMVsAAB8i2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8N0oqMVsAAB8i2.jpg",
+						"url": "https://t.co/z687x1msmk",
+						"display_url": "pic.twitter.com/z687x1msmk",
+						"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1135879772901236700,
+						"id_str": "1135879772901236736",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/D8N0oqNUYAANihL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8N0oqNUYAANihL.jpg",
+						"url": "https://t.co/z687x1msmk",
+						"display_url": "pic.twitter.com/z687x1msmk",
+						"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1135879772905431000,
+						"id_str": "1135879772905431040",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/D8N0oqOUYAAwH1X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8N0oqOUYAAwH1X.jpg",
+						"url": "https://t.co/z687x1msmk",
+						"display_url": "pic.twitter.com/z687x1msmk",
+						"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1135879772897079300,
+						"id_str": "1135879772897079297",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/D8N0oqMU8AEAOCr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8N0oqMU8AEAOCr.jpg",
+						"url": "https://t.co/z687x1msmk",
+						"display_url": "pic.twitter.com/z687x1msmk",
+						"expanded_url": "https://twitter.com/bat_the_rixie/status/1135879785018642432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1073600581992890400,
+				"id_str": "1073600581992890369",
+				"name": "Rixie",
+				"screen_name": "bat_the_rixie",
+				"location": "락페스 해욤 핕칼 사랑해",
+				"description": "리버틴즈 빠는데요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52,
+				"friends_count": 57,
+				"listed_count": 1,
+				"created_at": "Fri Dec 14 15:28:20 +0000 2018",
+				"favourites_count": 458,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3263,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135890203686531072/2HRQ-9pY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135890203686531072/2HRQ-9pY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073600581992890369/1558927431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9604,
+			"favorite_count": 1992,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베놈소르베 https://t.co/YzyE4SO28H"
+	},
+	{
+		"created_at": "Tue Jun 04 15:42:32 +0000 2019",
+		"id": 1135817970943311900,
+		"id_str": "1135934869416972288",
+		"full_text": "씹창 - 이성혐오를 내포한 욕설임\n좆창 - 이성혐오를 내포한 욕설임\n곱창 - 우리아이 술안주 우리부모 영양간식에 안성맞춤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069804029784379400,
+			"id_str": "1069804029784379392",
+			"name": "샷가놈",
+			"screen_name": "headbutt_bang",
+			"location": "대충 장소",
+			"description": "대충 자기소개",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 952,
+			"friends_count": 337,
+			"listed_count": 2,
+			"created_at": "Tue Dec 04 04:02:11 +0000 2018",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131681117399068673/lozmlJ6S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131681117399068673/lozmlJ6S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069804029784379392/1557577180",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "씹창 - 이성혐오를 내포한 욕설임\n좆창 - 이성혐오를 내포한 욕설임\n곱창 - 우리아이 술안주 우리부모 영양간식에 안성맞춤"
+	},
+	{
+		"created_at": "Tue Jun 04 15:40:20 +0000 2019",
+		"id": 1135811137759400000,
+		"id_str": "1135934317706661889",
+		"full_text": "“그날 일은 영원히 잊지 않을 거예요. 그건 옳은 일이었어요.\"\n30년 전 오늘, 중국 베이징의 천안문 광장에서 평화 시위를 벌이던 시민들이 군인들에 의해 무참히 진압당했습니다. 수많은 사람들이 스러져 간 그날을 루 징화가 회상합니다.  #weremember64 #천안문사건\n📍https://t.co/Jx3cKKkoCH https://t.co/qKzo2CVxF4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "weremember64",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"text": "천안문사건",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jx3cKKkoCH",
+					"expanded_url": "https://bit.ly/2WewTKq",
+					"display_url": "bit.ly/2WewTKq",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135810803020443600,
+					"id_str": "1135810803020443649",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8M16FYVsAErcKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8M16FYVsAErcKX.jpg",
+					"url": "https://t.co/qKzo2CVxF4",
+					"display_url": "pic.twitter.com/qKzo2CVxF4",
+					"expanded_url": "https://twitter.com/AmnestyKorea/status/1135811137759399936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135810803020443600,
+					"id_str": "1135810803020443649",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8M16FYVsAErcKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8M16FYVsAErcKX.jpg",
+					"url": "https://t.co/qKzo2CVxF4",
+					"display_url": "pic.twitter.com/qKzo2CVxF4",
+					"expanded_url": "https://twitter.com/AmnestyKorea/status/1135811137759399936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135810899820728300,
+					"id_str": "1135810899820728321",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8M1_t_U0AEONBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8M1_t_U0AEONBw.jpg",
+					"url": "https://t.co/qKzo2CVxF4",
+					"display_url": "pic.twitter.com/qKzo2CVxF4",
+					"expanded_url": "https://twitter.com/AmnestyKorea/status/1135811137759399936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135811043601440800,
+					"id_str": "1135811043601440768",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8M2IFnUYAAhZz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8M2IFnUYAAhZz_.jpg",
+					"url": "https://t.co/qKzo2CVxF4",
+					"display_url": "pic.twitter.com/qKzo2CVxF4",
+					"expanded_url": "https://twitter.com/AmnestyKorea/status/1135811137759399936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135811084642791400,
+					"id_str": "1135811084642791424",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8M2KegVsAAjvC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8M2KegVsAAjvC2.jpg",
+					"url": "https://t.co/qKzo2CVxF4",
+					"display_url": "pic.twitter.com/qKzo2CVxF4",
+					"expanded_url": "https://twitter.com/AmnestyKorea/status/1135811137759399936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27771347,
+			"id_str": "27771347",
+			"name": "국제앰네스티 한국지부",
+			"screen_name": "AmnestyKorea",
+			"location": "Seoul, Korea",
+			"description": "평범한 사람들이 만드는 특별한 변화, 국제앰네스티 한국지부입니다.",
+			"url": "http://t.co/XdcutDWDBL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XdcutDWDBL",
+							"expanded_url": "http://amnesty.or.kr",
+							"display_url": "amnesty.or.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33262,
+			"friends_count": 992,
+			"listed_count": 1037,
+			"created_at": "Tue Mar 31 00:34:44 +0000 2009",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027454739573760000/zk1ohzb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027454739573760000/zk1ohzb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27771347/1527223714",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“그날 일은 영원히 잊지 않을 거예요. 그건 옳은 일이었어요.\"\n30년 전 오늘, 중국 베이징의 천안문 광장에서 평화 시위를 벌이던 시민들이 군인들에 의해 무참히 진압당했습니다. 수많은 사람들이 스러져 간 그날을 루 징화가 회상합니다.  #weremember64 #천안문사건\n📍https://t.co/Jx3cKKkoCH https://t.co/qKzo2CVxF4"
+	},
+	{
+		"created_at": "Tue Jun 04 15:36:10 +0000 2019",
+		"id": 1135827184549941200,
+		"id_str": "1135933268392497152",
+		"full_text": "탱크맨의 또다른 사진들. \n\n2009년에서야 이 사진을 찍은 테릴 존스가 뉴욕타임즈에 공개한 사진(1번째)은 서둘러 도망치는 사람들과 반대방향으로 왼쪽에 작게 찍혀있어서 덕분에 그의 큰 용기가 더 도드라져보인다.\n\nhttps://t.co/0YnrUYRX5w\n\n2번째 사진은 스튜어트 프랭클린이 찍었다 한다. https://t.co/X9BsltrNt2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0YnrUYRX5w",
+					"expanded_url": "https://lens.blogs.nytimes.com/2009/06/04/behind-the-scenes-a-new-angle-on-history/",
+					"display_url": "lens.blogs.nytimes.com/2009/06/04/beh…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135825977991282700,
+					"id_str": "1135825977991282690",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NDtYjUwAIcxN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NDtYjUwAIcxN8.jpg",
+					"url": "https://t.co/X9BsltrNt2",
+					"display_url": "pic.twitter.com/X9BsltrNt2",
+					"expanded_url": "https://twitter.com/nomodem/status/1135827184549941249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 687,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135825977991282700,
+					"id_str": "1135825977991282690",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NDtYjUwAIcxN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NDtYjUwAIcxN8.jpg",
+					"url": "https://t.co/X9BsltrNt2",
+					"display_url": "pic.twitter.com/X9BsltrNt2",
+					"expanded_url": "https://twitter.com/nomodem/status/1135827184549941249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 687,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135827170692018200,
+					"id_str": "1135827170692018178",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NEyztVsAIXFev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NEyztVsAIXFev.jpg",
+					"url": "https://t.co/X9BsltrNt2",
+					"display_url": "pic.twitter.com/X9BsltrNt2",
+					"expanded_url": "https://twitter.com/nomodem/status/1135827184549941249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 685,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45779831,
+			"id_str": "45779831",
+			"name": "nomodem",
+			"screen_name": "nomodem",
+			"location": "서울 서초구",
+			"description": "Narrative Culture, Fairy Tale, MANA, NT, Linux, Android, Le Guin, Serling, Poortvliet, スピッツ, Anti-Misogynist, @slownewskr",
+			"url": "https://t.co/s19qqxtq8j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s19qqxtq8j",
+							"expanded_url": "http://slownews.kr/",
+							"display_url": "slownews.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1415,
+			"friends_count": 203,
+			"listed_count": 43,
+			"created_at": "Tue Jun 09 06:13:53 +0000 2009",
+			"favourites_count": 9064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715906635156185093/rVM3DlDO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715906635156185093/rVM3DlDO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45779831/1475302024",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱크맨의 또다른 사진들. \n\n2009년에서야 이 사진을 찍은 테릴 존스가 뉴욕타임즈에 공개한 사진(1번째)은 서둘러 도망치는 사람들과 반대방향으로 왼쪽에 작게 찍혀있어서 덕분에 그의 큰 용기가 더 도드라져보인다.\n\nhttps://t.co/0YnrUYRX5w\n\n2번째 사진은 스튜어트 프랭클린이 찍었다 한다. https://t.co/X9BsltrNt2"
+	},
+	{
+		"created_at": "Tue Jun 04 15:32:09 +0000 2019",
+		"id": 1135468126554820600,
+		"id_str": "1135932258169212933",
+		"full_text": "시원하게 깠네\n\n'헝가리 유람선 침몰'에 보험금 운운한 언론사 명단공개 | 다음뉴스 https://t.co/1Fge03CChq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Fge03CChq",
+					"expanded_url": "https://news.v.daum.net/v/20190603121714109?f=m",
+					"display_url": "news.v.daum.net/v/201906031217…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193963620,
+			"id_str": "193963620",
+			"name": "이번엔 러블리즈 1위를 기원하는 더쿠 ulsaniya",
+			"screen_name": "ulsaniya",
+			"location": "Hell-Chosen",
+			"description": "Lovelyz / APEACH deoku / Ulsan Hyundai Football Club, NUFC, Bears, Skywalkers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 675,
+			"friends_count": 623,
+			"listed_count": 28,
+			"created_at": "Thu Sep 23 02:41:14 +0000 2010",
+			"favourites_count": 1585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 295993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939982595898540032/Wok7IDpS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939982595898540032/Wok7IDpS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193963620/1550120130",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3497,
+		"favorite_count": 398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시원하게 깠네\n\n'헝가리 유람선 침몰'에 보험금 운운한 언론사 명단공개 | 다음뉴스 https://t.co/1Fge03CChq"
+	},
+	{
 		"created_at": "Tue Jun 04 14:57:45 +0000 2019",
 		"id": 1135720322903109600,
 		"id_str": "1135923600400109568",
