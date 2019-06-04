@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 00:40:23 +0000 2019",
+		"id": 1135692880977076200,
+		"id_str": "1135707838142017542",
+		"full_text": "속보)제자백가모에화 게임화 ㄷㄷㄷㄷㄷ https://t.co/0Ou1hSwzMH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135692837041819600,
+					"id_str": "1135692837041819648",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LKnj3VUAAYlyF.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8LKnj3VUAAYlyF.png",
+					"url": "https://t.co/0Ou1hSwzMH",
+					"display_url": "pic.twitter.com/0Ou1hSwzMH",
+					"expanded_url": "https://twitter.com/Scathach_MIKA/status/1135692880977076224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135692837041819600,
+					"id_str": "1135692837041819648",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LKnj3VUAAYlyF.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8LKnj3VUAAYlyF.png",
+					"url": "https://t.co/0Ou1hSwzMH",
+					"display_url": "pic.twitter.com/0Ou1hSwzMH",
+					"expanded_url": "https://twitter.com/Scathach_MIKA/status/1135692880977076224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1523441683,
+			"id_str": "1523441683",
+			"name": "Scáthach = MIKA",
+			"screen_name": "Scathach_MIKA",
+			"location": "",
+			"description": "MIKA & Scáthach",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Sun Jun 16 22:58:48 +0000 2013",
+			"favourites_count": 31589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114254747416944640/_CSMaxUU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114254747416944640/_CSMaxUU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1523441683/1554492844",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보)제자백가모에화 게임화 ㄷㄷㄷㄷㄷ https://t.co/0Ou1hSwzMH"
+	},
+	{
+		"created_at": "Tue Jun 04 00:32:51 +0000 2019",
+		"id": 1134486495790809100,
+		"id_str": "1135705939653189632",
+		"full_text": "Excited to reveal we are now proud sponsors of Pride in London! We are working closely with them and our charity partners to celebrate the diversity within the LGBT+ community and Fly the Flag for everyone at the #PrideJubilee \n\nA taste of what's to come... https://t.co/g1FYlXqJJk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrideJubilee",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134486486726926300,
+					"id_str": "1134486486726926337",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D76BcuvW4AEJEvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76BcuvW4AEJEvB.jpg",
+					"url": "https://t.co/g1FYlXqJJk",
+					"display_url": "pic.twitter.com/g1FYlXqJJk",
+					"expanded_url": "https://twitter.com/BudweiserUK/status/1134486495790809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134486486726926300,
+					"id_str": "1134486486726926337",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D76BcuvW4AEJEvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76BcuvW4AEJEvB.jpg",
+					"url": "https://t.co/g1FYlXqJJk",
+					"display_url": "pic.twitter.com/g1FYlXqJJk",
+					"expanded_url": "https://twitter.com/BudweiserUK/status/1134486495790809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989146164,
+			"id_str": "989146164",
+			"name": "Budweiser UK",
+			"screen_name": "BudweiserUK",
+			"location": "",
+			"description": "Official tweets from Budweiser UK are only for 18+. Please drink responsibly & only share with those of legal drinking age. See our rules of engagement:",
+			"url": "https://t.co/pAUEizBsgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pAUEizBsgd",
+							"expanded_url": "https://bit.ly/2qKRvgu",
+							"display_url": "bit.ly/2qKRvgu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20269,
+			"friends_count": 469,
+			"listed_count": 99,
+			"created_at": "Tue Dec 04 17:01:13 +0000 2012",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771375471858679808/6OSvQjm-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771375471858679808/6OSvQjm-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989146164/1532338733",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 1441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to reveal we are now proud sponsors of Pride in London! We are working closely with them and our charity partners to celebrate the diversity within the LGBT+ community and Fly the Flag for everyone at the #PrideJubilee \n\nA taste of what's to come... https://t.co/g1FYlXqJJk"
+	},
+	{
+		"created_at": "Tue Jun 04 00:32:45 +0000 2019",
+		"id": 1134497232751943700,
+		"id_str": "1135705915837931521",
+		"full_text": "Pink is for femininity, blue for masculinity, while purple represents a mix of the two. Black represents lack of gender, and white stands for all genders. https://t.co/8FhWly9Sk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134497224401010700,
+					"id_str": "1134497224401010688",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D76LNvsWwAAXhr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76LNvsWwAAXhr1.jpg",
+					"url": "https://t.co/8FhWly9Sk0",
+					"display_url": "pic.twitter.com/8FhWly9Sk0",
+					"expanded_url": "https://twitter.com/BudweiserUK/status/1134497232751943683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134497224401010700,
+					"id_str": "1134497224401010688",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D76LNvsWwAAXhr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76LNvsWwAAXhr1.jpg",
+					"url": "https://t.co/8FhWly9Sk0",
+					"display_url": "pic.twitter.com/8FhWly9Sk0",
+					"expanded_url": "https://twitter.com/BudweiserUK/status/1134497232751943683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": 1134486495790809100,
+		"in_reply_to_status_id_str": "1134486495790809088",
+		"in_reply_to_user_id": 989146164,
+		"in_reply_to_user_id_str": "989146164",
+		"in_reply_to_screen_name": "BudweiserUK",
+		"user": {
+			"id": 989146164,
+			"id_str": "989146164",
+			"name": "Budweiser UK",
+			"screen_name": "BudweiserUK",
+			"location": "",
+			"description": "Official tweets from Budweiser UK are only for 18+. Please drink responsibly & only share with those of legal drinking age. See our rules of engagement:",
+			"url": "https://t.co/pAUEizBsgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pAUEizBsgd",
+							"expanded_url": "https://bit.ly/2qKRvgu",
+							"display_url": "bit.ly/2qKRvgu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20269,
+			"friends_count": 469,
+			"listed_count": 99,
+			"created_at": "Tue Dec 04 17:01:13 +0000 2012",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771375471858679808/6OSvQjm-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771375471858679808/6OSvQjm-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989146164/1532338733",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pink is for femininity, blue for masculinity, while purple represents a mix of the two. Black represents lack of gender, and white stands for all genders. https://t.co/8FhWly9Sk0"
+	},
+	{
+		"created_at": "Tue Jun 04 00:19:48 +0000 2019",
+		"id": 1135390196860538900,
+		"id_str": "1135702657862066176",
+		"full_text": "1) 창조맹신자들이 진화를 부정하며 사용하는 논리 중 자주 사용되는 건 \"누구도 진화가 진짜 일어나는걸 직접 본 적이 없다.\" 입니다.\n🤔그 논리대로라면, 신이 7일만에 천지를 창조한 걸 직접 본 적이 없으니 천지창조 자체가 거짓말 아닐까요?\n\n그리고, 진화를 직접 관찰한 적이 없다니요.\n#계속",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계속",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3449126548,
+			"id_str": "3449126548",
+			"name": "진화생물학봇",
+			"screen_name": "good_evolution",
+			"location": "",
+			"description": "지식의 가장 큰 적은 무지가 아니라 지식에 대한 망상이다.  -스티븐 호킹-",
+			"url": "https://t.co/nPmI6SngXc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nPmI6SngXc",
+							"expanded_url": "https://drive.google.com/folder/d/0B8sK143n57sbLVhsMHVjNXpjbW8/edit",
+							"display_url": "drive.google.com/folder/d/0B8sK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4286,
+			"friends_count": 149,
+			"listed_count": 28,
+			"created_at": "Wed Aug 26 17:21:04 +0000 2015",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119234468953251845/mzJ-EQR8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119234468953251845/mzJ-EQR8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3449126548/1440610635",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1) 창조맹신자들이 진화를 부정하며 사용하는 논리 중 자주 사용되는 건 \"누구도 진화가 진짜 일어나는걸 직접 본 적이 없다.\" 입니다.\n🤔그 논리대로라면, 신이 7일만에 천지를 창조한 걸 직접 본 적이 없으니 천지창조 자체가 거짓말 아닐까요?\n\n그리고, 진화를 직접 관찰한 적이 없다니요.\n#계속"
+	},
+	{
 		"created_at": "Mon Jun 03 21:33:32 +0000 2019",
 		"id": 1135660816257015800,
 		"id_str": "1135660816257015809",
