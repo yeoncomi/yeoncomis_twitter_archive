@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 18:59:51 +0000 2019",
+		"id": 1135904551012192300,
+		"id_str": "1135984526373470209",
+		"full_text": "서양 제국주의 카메라 브랜드: 정확하지 않은 저품질 사진\n\n우리 조국의 화웨이: 50X 리터치, 쓸모없는 잡티 제거 https://t.co/dcd3jBnGzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135904541910503400,
+					"id_str": "1135904541910503424",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OLKZ9UEAABEPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OLKZ9UEAABEPV.jpg",
+					"url": "https://t.co/dcd3jBnGzP",
+					"display_url": "pic.twitter.com/dcd3jBnGzP",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1135904551012192258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135904541910503400,
+					"id_str": "1135904541910503424",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OLKZ9UEAABEPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OLKZ9UEAABEPV.jpg",
+					"url": "https://t.co/dcd3jBnGzP",
+					"display_url": "pic.twitter.com/dcd3jBnGzP",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1135904551012192258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "r/memes, Elon Musk",
+			"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \nMemes of this account are all from r/memes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25373,
+			"friends_count": 7,
+			"listed_count": 73,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1559121356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서양 제국주의 카메라 브랜드: 정확하지 않은 저품질 사진\n\n우리 조국의 화웨이: 50X 리터치, 쓸모없는 잡티 제거 https://t.co/dcd3jBnGzP"
+	},
+	{
 		"created_at": "Tue Jun 04 17:23:31 +0000 2019",
 		"id": 1135874837916803100,
 		"id_str": "1135960284097474560",
