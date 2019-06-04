@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 21:28:54 +0000 2019",
+		"id": 1135916666020192300,
+		"id_str": "1136022037099569153",
+		"full_text": "Starting June 4th, individuals who don't exclusively identify as male or female can select the 'X' gender identifier on all IRCC-issued documentation -- a significant milestone in our commitment to diversity, inclusion, and #GenderEquality. https://t.co/zlh5c5A7Af https://t.co/ddLY5G6Hc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GenderEquality",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlh5c5A7Af",
+					"expanded_url": "http://ow.ly/VwzV50uwhmD",
+					"display_url": "ow.ly/VwzV50uwhmD",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135916664250232800,
+					"id_str": "1135916664250232837",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OWMBMU8AULq6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OWMBMU8AULq6n.jpg",
+					"url": "https://t.co/ddLY5G6Hc1",
+					"display_url": "pic.twitter.com/ddLY5G6Hc1",
+					"expanded_url": "https://twitter.com/CitImmCanada/status/1135916666020192257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135916664250232800,
+					"id_str": "1135916664250232837",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OWMBMU8AULq6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OWMBMU8AULq6n.jpg",
+					"url": "https://t.co/ddLY5G6Hc1",
+					"display_url": "pic.twitter.com/ddLY5G6Hc1",
+					"expanded_url": "https://twitter.com/CitImmCanada/status/1135916666020192257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91193025,
+			"id_str": "91193025",
+			"name": "IRCC",
+			"screen_name": "CitImmCanada",
+			"location": "Canada",
+			"description": "Immigration, Refugees and Citizenship Canada (IRCC) – formerly Citizenship and Immigration Canada (CIC). (Terms: https://t.co/mctP8GaIhH) -Français:@CitImmCanFR",
+			"url": "http://www.cic.gc.ca",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.cic.gc.ca",
+							"expanded_url": null,
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mctP8GaIhH",
+							"expanded_url": "http://j.mp/1nJith2",
+							"display_url": "j.mp/1nJith2",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 190845,
+			"friends_count": 246,
+			"listed_count": 1115,
+			"created_at": "Thu Nov 19 21:07:25 +0000 2009",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991722006759464960/oZEoAKAh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991722006759464960/oZEoAKAh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91193025/1539629478",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DACD98",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting June 4th, individuals who don't exclusively identify as male or female can select the 'X' gender identifier on all IRCC-issued documentation -- a significant milestone in our commitment to diversity, inclusion, and #GenderEquality. https://t.co/zlh5c5A7Af https://t.co/ddLY5G6Hc1"
+	},
+	{
 		"created_at": "Tue Jun 04 20:41:07 +0000 2019",
 		"id": 1136010009962115100,
 		"id_str": "1136010009962115072",
