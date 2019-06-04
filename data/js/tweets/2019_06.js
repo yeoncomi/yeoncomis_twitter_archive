@@ -1,6 +1,1595 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 05:55:30 +0000 2019",
+		"id": 1135786407841058800,
+		"id_str": "1135787140204285952",
+		"full_text": "스스로 불러온 재앙에 짓눌려 https://t.co/d9IWkntpjk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135786401054597100,
+					"id_str": "1135786401054597120",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Mfts-UIAAOKHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Mfts-UIAAOKHY.jpg",
+					"url": "https://t.co/d9IWkntpjk",
+					"display_url": "pic.twitter.com/d9IWkntpjk",
+					"expanded_url": "https://twitter.com/Ego1st_HATE/status/1135786407841058817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135786401054597100,
+					"id_str": "1135786401054597120",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Mfts-UIAAOKHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Mfts-UIAAOKHY.jpg",
+					"url": "https://t.co/d9IWkntpjk",
+					"display_url": "pic.twitter.com/d9IWkntpjk",
+					"expanded_url": "https://twitter.com/Ego1st_HATE/status/1135786407841058817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248795454,
+			"id_str": "3248795454",
+			"name": "💮ＨＡＴＥ[살빼고 코스하자]",
+			"screen_name": "Ego1st_HATE",
+			"location": "Disboard",
+			"description": "Ego1st / 졸업반 유사 여대생쟝 / 술마시고 담배피고 겜하고 사진찍고 / 셀카 많이올림 / 파는 장르는 메인트에 / #기묘하고_신비한_VRChat_일상",
+			"url": "https://t.co/okHQOWYAAT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/okHQOWYAAT",
+							"expanded_url": "https://open.kakao.com/me/Niv4t",
+							"display_url": "open.kakao.com/me/Niv4t",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 660,
+			"friends_count": 611,
+			"listed_count": 27,
+			"created_at": "Thu Jun 18 15:41:35 +0000 2015",
+			"favourites_count": 5650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133171201474351104/Oplp-MFB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133171201474351104/Oplp-MFB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248795454/1557306206",
+			"profile_link_color": "AA9977",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스스로 불러온 재앙에 짓눌려 https://t.co/d9IWkntpjk"
+	},
+	{
+		"created_at": "Tue Jun 04 05:22:09 +0000 2019",
+		"id": 1135544689883373600,
+		"id_str": "1135778744713375744",
+		"full_text": "SQL에서 update문을 쓸때 where절을 안넣는 느낌이 이런거 https://t.co/Wk1av3zdJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135544680186241000,
+					"id_str": "1135544680186241028",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D8JD3skV4AQHRyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8JD3skV4AQHRyx.jpg",
+					"url": "https://t.co/Wk1av3zdJW",
+					"display_url": "pic.twitter.com/Wk1av3zdJW",
+					"expanded_url": "https://twitter.com/PasteCat/status/1135544689883373569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135544680186241000,
+					"id_str": "1135544680186241028",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/D8JD3skV4AQHRyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8JD3skV4AQHRyx.jpg",
+					"url": "https://t.co/Wk1av3zdJW",
+					"display_url": "pic.twitter.com/Wk1av3zdJW",
+					"expanded_url": "https://twitter.com/PasteCat/status/1135544689883373569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131836015,
+			"id_str": "131836015",
+			"name": "ㅤ ㅤ",
+			"screen_name": "PasteCat",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4819,
+			"friends_count": 263,
+			"listed_count": 84,
+			"created_at": "Sun Apr 11 13:46:45 +0000 2010",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114406315722301440/WVjVaS_i_normal.jpg",
+			"profile_link_color": "0099A4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SQL에서 update문을 쓸때 where절을 안넣는 느낌이 이런거 https://t.co/Wk1av3zdJW"
+	},
+	{
+		"created_at": "Tue Jun 04 05:21:07 +0000 2019",
+		"id": 1135759889089744900,
+		"id_str": "1135778487090929666",
+		"full_text": "김영철 노역행 -&gt; 김정은 옆에서 공연 관람\n김혁철 총살 -&gt; 살아 있음\n김여정 근신중 -&gt; 김정은이랑 체조 관람\n\n야 동전 던져도 이거보단 잘맞겠다 ㅋㅋ https://t.co/jlXQk32Uum",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135759425287798800,
+					"id_str": "1135759425287798784",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D8MHLgaUwAAR6Qn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8MHLgaUwAAR6Qn.jpg",
+					"url": "https://t.co/jlXQk32Uum",
+					"display_url": "pic.twitter.com/jlXQk32Uum",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1135759889089744896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 341,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135759425287798800,
+					"id_str": "1135759425287798784",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D8MHLgaUwAAR6Qn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8MHLgaUwAAR6Qn.jpg",
+					"url": "https://t.co/jlXQk32Uum",
+					"display_url": "pic.twitter.com/jlXQk32Uum",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1135759889089744896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 341,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1685,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김영철 노역행 -&gt; 김정은 옆에서 공연 관람\n김혁철 총살 -&gt; 살아 있음\n김여정 근신중 -&gt; 김정은이랑 체조 관람\n\n야 동전 던져도 이거보단 잘맞겠다 ㅋㅋ https://t.co/jlXQk32Uum"
+	},
+	{
+		"created_at": "Tue Jun 04 05:20:20 +0000 2019",
+		"id": 1135757448407466000,
+		"id_str": "1135778290814205952",
+		"full_text": "학교에서 트위터하는거 들킬까봐 재빨리 야동으로 바꿨네요 하마터면 이상한사람으로 찍힐뻔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852893928625905700,
+			"id_str": "852893928625905665",
+			"name": "ㅊㄱ",
+			"screen_name": "Chulungbangki",
+			"location": "출애굽기",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061,
+			"friends_count": 154,
+			"listed_count": 8,
+			"created_at": "Fri Apr 14 14:38:53 +0000 2017",
+			"favourites_count": 4125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114845714805166080/kSY3DuqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114845714805166080/kSY3DuqJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "학교에서 트위터하는거 들킬까봐 재빨리 야동으로 바꿨네요 하마터면 이상한사람으로 찍힐뻔"
+	},
+	{
+		"created_at": "Tue Jun 04 05:19:21 +0000 2019",
+		"id": 1135699701066391600,
+		"id_str": "1135778041055965185",
+		"full_text": "천안문 탱크맨이 세운것은 탱크 넉대가 아니라 그뒤의 기갑부대 전체였다. https://t.co/aP4xwbfhRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135699684809252900,
+					"id_str": "1135699684809252864",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LQ2JyUIAA3aPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8LQ2JyUIAA3aPb.jpg",
+					"url": "https://t.co/aP4xwbfhRS",
+					"display_url": "pic.twitter.com/aP4xwbfhRS",
+					"expanded_url": "https://twitter.com/cenjust/status/1135699701066391553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135699684809252900,
+					"id_str": "1135699684809252864",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LQ2JyUIAA3aPb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8LQ2JyUIAA3aPb.jpg",
+					"url": "https://t.co/aP4xwbfhRS",
+					"display_url": "pic.twitter.com/aP4xwbfhRS",
+					"expanded_url": "https://twitter.com/cenjust/status/1135699701066391553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135699688764534800,
+					"id_str": "1135699688764534785",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LQ2YhU8AExTU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8LQ2YhU8AExTU9.jpg",
+					"url": "https://t.co/aP4xwbfhRS",
+					"display_url": "pic.twitter.com/aP4xwbfhRS",
+					"expanded_url": "https://twitter.com/cenjust/status/1135699701066391553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185041095,
+			"id_str": "185041095",
+			"name": "cenjust",
+			"screen_name": "cenjust",
+			"location": "",
+			"description": "나는 천박해도 썩은 나라는 인정 못한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16334,
+			"friends_count": 5150,
+			"listed_count": 86,
+			"created_at": "Tue Aug 31 02:40:41 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928074926820548608/byPDrMOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928074926820548608/byPDrMOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/185041095/1489625656",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "천안문 탱크맨이 세운것은 탱크 넉대가 아니라 그뒤의 기갑부대 전체였다. https://t.co/aP4xwbfhRS"
+	},
+	{
+		"created_at": "Tue Jun 04 05:18:54 +0000 2019",
+		"id": 1135489019024855000,
+		"id_str": "1135777928577347584",
+		"full_text": "아이패드 계산기가 지금까지 나오지 않았던 이유 : 아이패드가 처음 개발될 때 아이폰 계산기를 가져왔더니 스티브 잡스가 '아이패드의 특징에 맞춘 계산기'를 만들어 올 것을 요구해 탑재가 미뤄졌음. 이후 스티브 잡스도, 개발자도 계산기의 존재를 까먹고 있었던 것... https://t.co/hYDY8qaSIB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hYDY8qaSIB",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1135484143448383493",
+					"display_url": "twitter.com/deadcatssociet…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729714309073240000,
+			"id_str": "729714309073240064",
+			"name": "이큐 ㋐ Lunar Birthday",
+			"screen_name": "Q2m2d",
+			"location": "",
+			"description": "망령㋐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1214,
+			"friends_count": 471,
+			"listed_count": 27,
+			"created_at": "Mon May 09 16:47:03 +0000 2016",
+			"favourites_count": 30452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135564100774195200/XP5Sj49N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135564100774195200/XP5Sj49N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729714309073240064/1556725607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135484143448383500,
+		"quoted_status_id_str": "1135484143448383493",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hYDY8qaSIB",
+			"expanded": "https://twitter.com/deadcatssociety/status/1135484143448383493",
+			"display": "twitter.com/deadcatssociet…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 09:51:30 +0000 2019",
+			"id": 1135484143448383500,
+			"id_str": "1135484143448383493",
+			"full_text": "iOS13에서 드디어 아이패드용 계산기가 나올것이라고(..)\nhttps://t.co/SW92oUmr5c https://t.co/fbNlL2GUaU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SW92oUmr5c",
+						"expanded_url": "http://www.techradar.com/news/ios-13-may-bring-a-calculator-app-to-your-ipad-for-the-very-first-time",
+						"display_url": "techradar.com/news/ios-13-ma…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1135484131192713200,
+						"id_str": "1135484131192713216",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D8IMzR_VsAAfPWb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8IMzR_VsAAfPWb.jpg",
+						"url": "https://t.co/fbNlL2GUaU",
+						"display_url": "pic.twitter.com/fbNlL2GUaU",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/1135484143448383493/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135484131192713200,
+						"id_str": "1135484131192713216",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/D8IMzR_VsAAfPWb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8IMzR_VsAAfPWb.jpg",
+						"url": "https://t.co/fbNlL2GUaU",
+						"display_url": "pic.twitter.com/fbNlL2GUaU",
+						"expanded_url": "https://twitter.com/deadcatssociety/status/1135484143448383493/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 288,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209173806,
+				"id_str": "209173806",
+				"name": "데드캣",
+				"screen_name": "deadcatssociety",
+				"location": "Especially.Fascinating",
+				"description": "Yeah\nLate night sex so wet so tight",
+				"url": "https://t.co/gvW6CXdBSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvW6CXdBSO",
+								"expanded_url": "http://ask.fm/deadcatssociety",
+								"display_url": "ask.fm/deadcatssociety",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9537,
+				"friends_count": 955,
+				"listed_count": 215,
+				"created_at": "Thu Oct 28 17:16:58 +0000 2010",
+				"favourites_count": 497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 375963,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209173806/1390413748",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 836,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이패드 계산기가 지금까지 나오지 않았던 이유 : 아이패드가 처음 개발될 때 아이폰 계산기를 가져왔더니 스티브 잡스가 '아이패드의 특징에 맞춘 계산기'를 만들어 올 것을 요구해 탑재가 미뤄졌음. 이후 스티브 잡스도, 개발자도 계산기의 존재를 까먹고 있었던 것... https://t.co/hYDY8qaSIB"
+	},
+	{
+		"created_at": "Tue Jun 04 05:18:15 +0000 2019",
+		"id": 1135448472918712300,
+		"id_str": "1135777764433260544",
+		"full_text": "분당역이 있으면 코레일 관리역 어디 소속이고 관리번호 몇번인지 한번 대보시죠 ㅋㅋㅋㅋ https://t.co/VhkD2UL3q7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VhkD2UL3q7",
+					"expanded_url": "https://twitter.com/mtxgr/status/1135447396123463681",
+					"display_url": "twitter.com/mtxgr/status/1…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 886091520373276700,
+			"id_str": "886091520373276672",
+			"name": "Blackhole",
+			"screen_name": "southerncanopus",
+			"location": "M87",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 298,
+			"listed_count": 12,
+			"created_at": "Sat Jul 15 05:14:16 +0000 2017",
+			"favourites_count": 3240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116134523861778433/Dfb142fE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116134523861778433/Dfb142fE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/886091520373276672/1554056043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135447396123463700,
+		"quoted_status_id_str": "1135447396123463681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VhkD2UL3q7",
+			"expanded": "https://twitter.com/mtxgr/status/1135447396123463681",
+			"display": "twitter.com/mtxgr/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 07:25:29 +0000 2019",
+			"id": 1135447396123463700,
+			"id_str": "1135447396123463681",
+			"full_text": "네이버 검색해서 저렇게 튀어나오는데 뭔개소리여. 광고성 블로그에서도 쓰는 표현인데ㅋㅋ트이타만 쳐하다 김진표될줄알던 빡대가리만한 발상인듯 https://t.co/vzGKrFM5aO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vzGKrFM5aO",
+						"expanded_url": "https://twitter.com/pyeonjeon/status/1135446756789907457",
+						"display_url": "twitter.com/pyeonjeon/stat…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1016854062,
+				"id_str": "1016854062",
+				"name": "Nueerr",
+				"screen_name": "mtxgr",
+				"location": "#MGGA",
+				"description": "만물은 떠내려간다~ 특히 너말이야 너 ||",
+				"url": "https://t.co/KA2Z2ggjLb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KA2Z2ggjLb",
+								"expanded_url": "http://ask.fm/nueerr1",
+								"display_url": "ask.fm/nueerr1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 795,
+				"friends_count": 1677,
+				"listed_count": 22,
+				"created_at": "Mon Dec 17 06:51:06 +0000 2012",
+				"favourites_count": 5747,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 174677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131778006026924032/KlryXDF8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131778006026924032/KlryXDF8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1016854062/1543045730",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1135446756789907500,
+			"quoted_status_id_str": "1135446756789907457",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vzGKrFM5aO",
+				"expanded": "https://twitter.com/pyeonjeon/status/1135446756789907457",
+				"display": "twitter.com/pyeonjeon/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 46,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "분당역이 있으면 코레일 관리역 어디 소속이고 관리번호 몇번인지 한번 대보시죠 ㅋㅋㅋㅋ https://t.co/VhkD2UL3q7"
+	},
+	{
+		"created_at": "Tue Jun 04 05:17:54 +0000 2019",
+		"id": 1135445137486516200,
+		"id_str": "1135777676755705857",
+		"full_text": "여튼 서울맨 새끼들 그냥 분당하면 대충 지하철 한두정거장 되는줄 알지. 분당 사는 사람한테 분당역 앞에서 보자 소리 하면 이새끼 뭐하는 새끼지 하는 표정으로 쳐다볼거다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135444659793043500,
+		"in_reply_to_status_id_str": "1135444659793043456",
+		"in_reply_to_user_id": 995297485106044900,
+		"in_reply_to_user_id_str": "995297485106044930",
+		"in_reply_to_screen_name": "pyeonjeon",
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1685,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여튼 서울맨 새끼들 그냥 분당하면 대충 지하철 한두정거장 되는줄 알지. 분당 사는 사람한테 분당역 앞에서 보자 소리 하면 이새끼 뭐하는 새끼지 하는 표정으로 쳐다볼거다"
+	},
+	{
+		"created_at": "Tue Jun 04 05:17:51 +0000 2019",
+		"id": 1135444659793043500,
+		"id_str": "1135777665170825216",
+		"full_text": "그래서 그 분당역이 어딘데? 판교역임 정자역임 서현역임 야탑역임?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135444486648082400,
+		"in_reply_to_status_id_str": "1135444486648082432",
+		"in_reply_to_user_id": 995297485106044900,
+		"in_reply_to_user_id_str": "995297485106044930",
+		"in_reply_to_screen_name": "pyeonjeon",
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1685,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래서 그 분당역이 어딘데? 판교역임 정자역임 서현역임 야탑역임?"
+	},
+	{
+		"created_at": "Tue Jun 04 05:17:51 +0000 2019",
+		"id": 1135444486648082400,
+		"id_str": "1135777662448721920",
+		"full_text": "이제 자기가 몇번 들었다고 없던 역까지 만들어내냐\n내가 그 분당역 출퇴근 하는 사람이다 https://t.co/GKGu8Mt7GS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135444418201235500,
+					"id_str": "1135444418201235456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D8HorrkVsAA_wlH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8HorrkVsAA_wlH.png",
+					"url": "https://t.co/GKGu8Mt7GS",
+					"display_url": "pic.twitter.com/GKGu8Mt7GS",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1135444486648082432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135444418201235500,
+					"id_str": "1135444418201235456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D8HorrkVsAA_wlH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8HorrkVsAA_wlH.png",
+					"url": "https://t.co/GKGu8Mt7GS",
+					"display_url": "pic.twitter.com/GKGu8Mt7GS",
+					"expanded_url": "https://twitter.com/pyeonjeon/status/1135444486648082432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 618,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995297485106044900,
+			"id_str": "995297485106044930",
+			"name": "편전",
+			"screen_name": "pyeonjeon",
+			"location": "통아",
+			"description": "맞으면 아프다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1685,
+			"listed_count": 17,
+			"created_at": "Sat May 12 13:39:47 +0000 2018",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995965467696160768/kU9sxtbP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 자기가 몇번 들었다고 없던 역까지 만들어내냐\n내가 그 분당역 출퇴근 하는 사람이다 https://t.co/GKGu8Mt7GS"
+	},
+	{
 		"created_at": "Tue Jun 04 04:56:21 +0000 2019",
 		"id": 1135728868688506900,
 		"id_str": "1135772253587628037",
