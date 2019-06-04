@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 14:57:45 +0000 2019",
+		"id": 1135720322903109600,
+		"id_str": "1135923600400109568",
+		"full_text": "- 시위의 자유를 극도로 제한하는 카자흐스탄 경찰, 항의의 의미로 아무 것도 안 쓰인 빈 종이를 들고 있던 사람까지 체포\n\n(무슨 혐의를 적용해야 하는지 알 수가 없어서 곧 석방)\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KytXXAfsf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135720302388817900,
+					"id_str": "1135720302388817922",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LjmQQVsAIq7z1.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8LjmQQVsAIq7z1.png",
+					"url": "https://t.co/KytXXAfsf5",
+					"display_url": "pic.twitter.com/KytXXAfsf5",
+					"expanded_url": "https://twitter.com/H_STA114/status/1135720322903109632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 810,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135720302388817900,
+					"id_str": "1135720302388817922",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LjmQQVsAIq7z1.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8LjmQQVsAIq7z1.png",
+					"url": "https://t.co/KytXXAfsf5",
+					"display_url": "pic.twitter.com/KytXXAfsf5",
+					"expanded_url": "https://twitter.com/H_STA114/status/1135720322903109632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 810,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110831792007700500,
+			"id_str": "1110831792007700480",
+			"name": "573114",
+			"screen_name": "H_STA114",
+			"location": "대한민국 서울",
+			"description": "선정적인 트윗을 게시합니다. 주의하십시오.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 118,
+			"listed_count": 0,
+			"created_at": "Wed Mar 27 09:11:52 +0000 2019",
+			"favourites_count": 2254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111082424878940160/D2taxV9J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111082424878940160/D2taxV9J_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1203,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "- 시위의 자유를 극도로 제한하는 카자흐스탄 경찰, 항의의 의미로 아무 것도 안 쓰인 빈 종이를 들고 있던 사람까지 체포\n\n(무슨 혐의를 적용해야 하는지 알 수가 없어서 곧 석방)\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KytXXAfsf5"
+	},
+	{
+		"created_at": "Tue Jun 04 14:57:25 +0000 2019",
+		"id": 1135356602742059000,
+		"id_str": "1135923517327794176",
+		"full_text": "병원 개업하시면\n박병원병원원장박병원 https://t.co/6yAn97p07B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6yAn97p07B",
+					"expanded_url": "https://twitter.com/zittersweet99/status/1064515080232947712",
+					"display_url": "twitter.com/zittersweet99/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743889777141833700,
+			"id_str": "743889777141833728",
+			"name": "[슈왈츠Party] 샤키블루 シャキブルー",
+			"screen_name": "Shaki_blue_",
+			"location": "DO NOT REPOST MY PICS ANYWHERE",
+			"description": "ENTP l 코스어 | レイヤーㅣGAMER | 쇼와아이돌 l 아이언맨 l FUB FREE l 맞팔강요 X l 인장 찍어주신분 챠님 @charara_p 헤더 찍어주신분 뮨님 @l_ovo_e l 日本語 ENG l 요리/식사계 @shaki_tchen | 일상/사담 @ShakiBlue",
+			"url": "https://t.co/ZwRg7reg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZwRg7reg81",
+							"expanded_url": "http://storefarm.naver.com/eska",
+							"display_url": "storefarm.naver.com/eska",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6656,
+			"friends_count": 448,
+			"listed_count": 15,
+			"created_at": "Fri Jun 17 19:35:18 +0000 2016",
+			"favourites_count": 12336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122756314600333312/94gSMRz9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122756314600333312/94gSMRz9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743889777141833728/1488462186",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064515080232947700,
+		"quoted_status_id_str": "1064515080232947712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6yAn97p07B",
+			"expanded": "https://twitter.com/zittersweet99/status/1064515080232947712",
+			"display": "twitter.com/zittersweet99/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 13:45:47 +0000 2018",
+			"id": 1064515080232947700,
+			"id_str": "1064515080232947712",
+			"full_text": "커피 유전자가 따로 있다는 사실은 신기하지 않은데 의사샘 이름이 박병원인 건 좀 신기하네 https://t.co/Hole1BHTsM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064515069214523400,
+						"id_str": "1064515069214523392",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DsXq0L6VAAAexTB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsXq0L6VAAAexTB.jpg",
+						"url": "https://t.co/Hole1BHTsM",
+						"display_url": "pic.twitter.com/Hole1BHTsM",
+						"expanded_url": "https://twitter.com/zittersweet99/status/1064515080232947712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064515069214523400,
+						"id_str": "1064515069214523392",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DsXq0L6VAAAexTB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsXq0L6VAAAexTB.jpg",
+						"url": "https://t.co/Hole1BHTsM",
+						"display_url": "pic.twitter.com/Hole1BHTsM",
+						"expanded_url": "https://twitter.com/zittersweet99/status/1064515080232947712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 173413931,
+				"id_str": "173413931",
+				"name": "ZxZ",
+				"screen_name": "zittersweet99",
+				"location": "",
+				"description": "Escape now, hug later.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9357,
+				"friends_count": 195,
+				"listed_count": 102,
+				"created_at": "Sun Aug 01 11:56:43 +0000 2010",
+				"favourites_count": 2362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093703242/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093703242/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/173413931/1349711448",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21742,
+			"favorite_count": 5174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4399,
+		"favorite_count": 940,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병원 개업하시면\n박병원병원원장박병원 https://t.co/6yAn97p07B"
+	},
+	{
 		"created_at": "Tue Jun 04 05:55:30 +0000 2019",
 		"id": 1135786407841058800,
 		"id_str": "1135787140204285952",
