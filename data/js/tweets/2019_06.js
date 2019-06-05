@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 01:25:15 +0000 2019",
+		"id": 1136081089179467800,
+		"id_str": "1136081517510139904",
+		"full_text": "알바 다 하고 아이스크림 빨면서 워렌버핏이 데어리퀸 인수한 썰 푸는 게 레전드 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/e74HnTdHgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e74HnTdHgs",
+					"expanded_url": "https://twitter.com/delta_kor/status/1135872457791827969",
+					"display_url": "twitter.com/delta_kor/stat…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 907007655012556800,
+			"id_str": "907007655012556800",
+			"name": "박재민 / Jaemin Park",
+			"screen_name": "omgadev",
+			"location": "Ansan, Korea (Republic of)",
+			"description": "Indie Game 'Everslash' Developer / Gamewriter for sure! / Team CREFFECT Member / Digital Media High #17 / LOVE TO Y'ALL!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 505,
+			"friends_count": 1038,
+			"listed_count": 10,
+			"created_at": "Sun Sep 10 22:27:31 +0000 2017",
+			"favourites_count": 5560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132094206472728577/fTZEMIGM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132094206472728577/fTZEMIGM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/907007655012556800/1554550994",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135872457791828000,
+		"quoted_status_id_str": "1135872457791827969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e74HnTdHgs",
+			"expanded": "https://twitter.com/delta_kor/status/1135872457791827969",
+			"display": "twitter.com/delta_kor/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 11:34:32 +0000 2019",
+			"id": 1135872457791828000,
+			"id_str": "1135872457791827969",
+			"full_text": "빌게이츠 유튜브 새 컨텐츠\n\n워렌버핏이랑 같이 알바하기 https://t.co/pcLg86wLEu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1135872451923984400,
+						"id_str": "1135872451923984386",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Nt-hcUwAIEbFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Nt-hcUwAIEbFU.jpg",
+						"url": "https://t.co/pcLg86wLEu",
+						"display_url": "pic.twitter.com/pcLg86wLEu",
+						"expanded_url": "https://twitter.com/delta_kor/status/1135872457791827969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 784,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135872451923984400,
+						"id_str": "1135872451923984386",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Nt-hcUwAIEbFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Nt-hcUwAIEbFU.jpg",
+						"url": "https://t.co/pcLg86wLEu",
+						"display_url": "pic.twitter.com/pcLg86wLEu",
+						"expanded_url": "https://twitter.com/delta_kor/status/1135872457791827969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 784,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966319284174508000,
+				"id_str": "966319284174508032",
+				"name": "Δ",
+				"screen_name": "delta_kor",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 137,
+				"friends_count": 142,
+				"listed_count": 4,
+				"created_at": "Wed Feb 21 14:30:45 +0000 2018",
+				"favourites_count": 323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135762240726941696/_8BQ9nN1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135762240726941696/_8BQ9nN1_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1238,
+			"favorite_count": 286,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알바 다 하고 아이스크림 빨면서 워렌버핏이 데어리퀸 인수한 썰 푸는 게 레전드 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/e74HnTdHgs"
+	},
+	{
 		"created_at": "Wed Jun 05 01:04:09 +0000 2019",
 		"id": 1135890937463230500,
 		"id_str": "1136076205654806528",
