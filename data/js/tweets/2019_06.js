@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 17:14:36 +0000 2019",
+		"id": 1136320429532991500,
+		"id_str": "1136320429532991489",
+		"full_text": "@_SDSkyKlouD 헤에 좋은거쓰시네요 저는 픽셀2에오",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_SDSkyKlouD",
+					"name": "SD꽁치 / SD SkyKlouD",
+					"id": 936817522946351100,
+					"id_str": "936817522946351104",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1136319359582740500,
+		"in_reply_to_status_id_str": "1136319359582740483",
+		"in_reply_to_user_id": 936817522946351100,
+		"in_reply_to_user_id_str": "936817522946351104",
+		"in_reply_to_screen_name": "_SDSkyKlouD",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 300,
+			"friends_count": 1064,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_SDSkyKlouD 헤에 좋은거쓰시네요 저는 픽셀2에오"
+	},
+	{
+		"created_at": "Wed Jun 05 16:45:41 +0000 2019",
+		"id": 1136313149106245600,
+		"id_str": "1136313149106245632",
+		"full_text": "@_SDSkyKlouD 원플러스 어떤모델이에염",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_SDSkyKlouD",
+					"name": "SD꽁치 / SD SkyKlouD",
+					"id": 936817522946351100,
+					"id_str": "936817522946351104",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1136304481837015000,
+		"in_reply_to_status_id_str": "1136304481837015040",
+		"in_reply_to_user_id": 936817522946351100,
+		"in_reply_to_user_id_str": "936817522946351104",
+		"in_reply_to_screen_name": "_SDSkyKlouD",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 300,
+			"friends_count": 1064,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "13e80e6f3ac67066",
+			"url": "https://api.twitter.com/1.1/geo/id/13e80e6f3ac67066.json",
+			"place_type": "city",
+			"name": "Maple Ridge",
+			"full_name": "Maple Ridge, British Columbia",
+			"country_code": "CA",
+			"country": "Canada",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.671484,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.167283
+						],
+						[
+							-122.406655,
+							49.353125
+						],
+						[
+							-122.671484,
+							49.353125
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_SDSkyKlouD 원플러스 어떤모델이에염"
+	},
+	{
+		"created_at": "Wed Jun 05 16:43:10 +0000 2019",
+		"id": 1136210281548271600,
+		"id_str": "1136312517523722240",
+		"full_text": "오늘의 마블:\nJMT 마블 데뷔ㅋㅋㅋㅋㅋ https://t.co/8RR2PmDyow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136210268793425900,
+					"id_str": "1136210268793425920",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ShODWVUAAsk_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ShODWVUAAsk_G.jpg",
+					"url": "https://t.co/8RR2PmDyow",
+					"display_url": "pic.twitter.com/8RR2PmDyow",
+					"expanded_url": "https://twitter.com/cuck0428/status/1136210281548271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 997,
+							"h": 821,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 997,
+							"h": 821,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136210268793425900,
+					"id_str": "1136210268793425920",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ShODWVUAAsk_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ShODWVUAAsk_G.jpg",
+					"url": "https://t.co/8RR2PmDyow",
+					"display_url": "pic.twitter.com/8RR2PmDyow",
+					"expanded_url": "https://twitter.com/cuck0428/status/1136210281548271617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 997,
+							"h": 821,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 997,
+							"h": 821,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027708297,
+			"id_str": "1027708297",
+			"name": "취직한 뻐꾸기",
+			"screen_name": "cuck0428",
+			"location": "",
+			"description": "이제 뭐하지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Sat Dec 22 03:56:43 +0000 2012",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939655899001495552/CBkZga1a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939655899001495552/CBkZga1a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027708297/1512891611",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1840,
+		"favorite_count": 475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 마블:\nJMT 마블 데뷔ㅋㅋㅋㅋㅋ https://t.co/8RR2PmDyow"
+	},
+	{
+		"created_at": "Wed Jun 05 16:41:02 +0000 2019",
+		"id": 1136306236419264500,
+		"id_str": "1136311980413730816",
+		"full_text": "이상진 정부합동신속대응팀장, \"우리 기자단에게 말씀드릴 게 있습니다. 시신이 안치돼 있는 병원에 기자로 추정되는 한국인이 가족이라고 말하며 병원에 입장하려고 해 소동이 있었습니다. 병원에 기자단들이 출입을 하거나, 가족을 접촉하거나, 병원 당국을 접촉하는 것은 자제되었으면 좋겠습니다\" https://t.co/gOXm7ztE8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136306202021834800,
+					"id_str": "1136306202021834752",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8T4eGeVsAAv26u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8T4eGeVsAAv26u.jpg",
+					"url": "https://t.co/gOXm7ztE8e",
+					"display_url": "pic.twitter.com/gOXm7ztE8e",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1136306236419264512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136306202021834800,
+					"id_str": "1136306202021834752",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8T4eGeVsAAv26u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8T4eGeVsAAv26u.jpg",
+					"url": "https://t.co/gOXm7ztE8e",
+					"display_url": "pic.twitter.com/gOXm7ztE8e",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1136306236419264512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136306212197216300,
+					"id_str": "1136306212197216256",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8T4esYVsAALNVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8T4esYVsAALNVo.jpg",
+					"url": "https://t.co/gOXm7ztE8e",
+					"display_url": "pic.twitter.com/gOXm7ztE8e",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1136306236419264512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1438,
+							"h": 729,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136306220048846800,
+					"id_str": "1136306220048846849",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8T4fJoUEAE78vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8T4fJoUEAE78vl.jpg",
+					"url": "https://t.co/gOXm7ztE8e",
+					"display_url": "pic.twitter.com/gOXm7ztE8e",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1136306236419264512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 734,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136306228894638100,
+					"id_str": "1136306228894638081",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8T4fqlUIAE8vrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8T4fqlUIAE8vrL.jpg",
+					"url": "https://t.co/gOXm7ztE8e",
+					"display_url": "pic.twitter.com/gOXm7ztE8e",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1136306236419264512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864143387770757100,
+			"id_str": "864143387770757121",
+			"name": "sora",
+			"screen_name": "happy_CSR",
+			"location": "",
+			"description": "감격의 그날, 판문점 선언 1년이 되었습니다. 우리는 평화롭게 살 자격이 있습니다. 우리는 한반도를 넘어 대륙을 꿈꿀 능력이 있습니다. 우리 모두, 또 남과 북이 함께 출발한 평화의 길입니다. 도보다리의 산새들에게도 안부를 물어봅니다./문재인 대통령, 4.27 판문점 선언 1주년 메시지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17867,
+			"friends_count": 3016,
+			"listed_count": 69,
+			"created_at": "Mon May 15 15:40:13 +0000 2017",
+			"favourites_count": 31151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864143387770757121/1556302222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이상진 정부합동신속대응팀장, \"우리 기자단에게 말씀드릴 게 있습니다. 시신이 안치돼 있는 병원에 기자로 추정되는 한국인이 가족이라고 말하며 병원에 입장하려고 해 소동이 있었습니다. 병원에 기자단들이 출입을 하거나, 가족을 접촉하거나, 병원 당국을 접촉하는 것은 자제되었으면 좋겠습니다\" https://t.co/gOXm7ztE8e"
+	},
+	{
 		"created_at": "Wed Jun 05 15:31:12 +0000 2019",
 		"id": 1136294406586191900,
 		"id_str": "1136294406586191872",
