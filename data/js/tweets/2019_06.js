@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 14:50:55 +0000 2019",
+		"id": 1136236556979585000,
+		"id_str": "1136284269230166016",
+		"full_text": "답이 있는 프로그래밍책이 필요하고 중요하다고 생각한다.\n\n근데..이 책은 최초 인지도 모르겠고, 처음 읽어본 문제가 쓰레기다.....아이고야.. https://t.co/gM4C4T50Hw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136236529964146700,
+					"id_str": "1136236529964146693",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D8S5Gp1V4AUCF8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8S5Gp1V4AUCF8K.jpg",
+					"url": "https://t.co/gM4C4T50Hw",
+					"display_url": "pic.twitter.com/gM4C4T50Hw",
+					"expanded_url": "https://twitter.com/gofeel/status/1136236556979585026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136236529964146700,
+					"id_str": "1136236529964146693",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D8S5Gp1V4AUCF8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8S5Gp1V4AUCF8K.jpg",
+					"url": "https://t.co/gM4C4T50Hw",
+					"display_url": "pic.twitter.com/gM4C4T50Hw",
+					"expanded_url": "https://twitter.com/gofeel/status/1136236556979585026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136236530005971000,
+					"id_str": "1136236530005970944",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D8S5Gp_UEAAcrj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8S5Gp_UEAAcrj4.jpg",
+					"url": "https://t.co/gM4C4T50Hw",
+					"display_url": "pic.twitter.com/gM4C4T50Hw",
+					"expanded_url": "https://twitter.com/gofeel/status/1136236556979585026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970064,
+			"id_str": "15970064",
+			"name": "gf",
+			"screen_name": "gofeel",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 364,
+			"listed_count": 39,
+			"created_at": "Sun Aug 24 16:26:12 +0000 2008",
+			"favourites_count": 893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725199588341116930/Gl2QPwCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725199588341116930/Gl2QPwCs_normal.jpg",
+			"profile_link_color": "0F0F0F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFE692",
+			"profile_text_color": "9F2C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "답이 있는 프로그래밍책이 필요하고 중요하다고 생각한다.\n\n근데..이 책은 최초 인지도 모르겠고, 처음 읽어본 문제가 쓰레기다.....아이고야.. https://t.co/gM4C4T50Hw"
+	},
+	{
 		"created_at": "Wed Jun 05 07:29:20 +0000 2019",
 		"id": 1136149716570296300,
 		"id_str": "1136173139447017473",
