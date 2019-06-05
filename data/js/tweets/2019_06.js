@@ -1,6 +1,2471 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 05:37:12 +0000 2019",
+		"id": 1136095622883209200,
+		"id_str": "1136144923009245184",
+		"full_text": "애플 개새끼들아 이 광고 좀 그만해라. 환멸난다. 정신병 걸릴 것 같다! 진짜... https://t.co/A2Hdnp7VPV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136095607859236900,
+					"id_str": "1136095607859236864",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Q476FU0AADH8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Q476FU0AADH8_.jpg",
+					"url": "https://t.co/A2Hdnp7VPV",
+					"display_url": "pic.twitter.com/A2Hdnp7VPV",
+					"expanded_url": "https://twitter.com/Kazamigoon/status/1136095622883209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136095607859236900,
+					"id_str": "1136095607859236864",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Q476FU0AADH8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Q476FU0AADH8_.jpg",
+					"url": "https://t.co/A2Hdnp7VPV",
+					"display_url": "pic.twitter.com/A2Hdnp7VPV",
+					"expanded_url": "https://twitter.com/Kazamigoon/status/1136095622883209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86955735,
+			"id_str": "86955735",
+			"name": "카자미군@6.22~6.25東京",
+			"screen_name": "Kazamigoon",
+			"location": "Everywhere",
+			"description": "저는 빻았습니다/iM@S / ミリシタ : KQ9TA87N / デレステ : 246269020 / ガルパ  : 90283255 / Discord : 카자미군#2228",
+			"url": "https://t.co/7k8yQJwTHF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7k8yQJwTHF",
+							"expanded_url": "https://www.google.com",
+							"display_url": "google.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1259,
+			"friends_count": 865,
+			"listed_count": 32,
+			"created_at": "Mon Nov 02 14:45:42 +0000 2009",
+			"favourites_count": 1376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112701254403121153/0WFXYXJk_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112701254403121153/0WFXYXJk_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86955735/1554123646",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플 개새끼들아 이 광고 좀 그만해라. 환멸난다. 정신병 걸릴 것 같다! 진짜... https://t.co/A2Hdnp7VPV"
+	},
+	{
+		"created_at": "Wed Jun 05 05:36:40 +0000 2019",
+		"id": 1136048629167222800,
+		"id_str": "1136144787365482497",
+		"full_text": "https://t.co/2uIUP8uXdi\n노숙자에게 필링을 치약으로 바꾼 오레오를 나눠줘서 먹이고 영상을 찍어올린 유튜버가 15개월의 징역형 및 2만유로 벌금형+5년간 유튜브 채널 및 SNS계정잠금조치 선고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2uIUP8uXdi",
+					"expanded_url": "https://www.independent.co.uk/news/world/europe/youtuber-reset-video-kanghua-ren-oreos-toothpaste-homeless-man-a8310061.html",
+					"display_url": "independent.co.uk/news/world/eur…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 988915386501378000,
+			"id_str": "988915386501378048",
+			"name": "JosephineMoon",
+			"screen_name": "SFC_Josephine",
+			"location": "",
+			"description": "전직 군필여중생 현직 씹덕밀덕코스어 이지만 군부심 그딴건 없음 추억만 한가득일 뿐.\n트위터 시작한지 얼마 안되서 모르는거 많으니 실수하면 바로 지적부탁.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 497,
+			"friends_count": 137,
+			"listed_count": 3,
+			"created_at": "Tue Apr 24 22:59:36 +0000 2018",
+			"favourites_count": 2892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108487141242208256/D6chHUxr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108487141242208256/D6chHUxr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/988915386501378048/1527373018",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 552,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/2uIUP8uXdi\n노숙자에게 필링을 치약으로 바꾼 오레오를 나눠줘서 먹이고 영상을 찍어올린 유튜버가 15개월의 징역형 및 2만유로 벌금형+5년간 유튜브 채널 및 SNS계정잠금조치 선고."
+	},
+	{
+		"created_at": "Wed Jun 05 05:36:22 +0000 2019",
+		"id": 1135825701473407000,
+		"id_str": "1136144712807542791",
+		"full_text": "아니ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/qFyKpnAgVj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135825695421001700,
+					"id_str": "1135825695421001729",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NDc75UcAEPgCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NDc75UcAEPgCn.jpg",
+					"url": "https://t.co/qFyKpnAgVj",
+					"display_url": "pic.twitter.com/qFyKpnAgVj",
+					"expanded_url": "https://twitter.com/Dawnbrckr/status/1135825701473406977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135825695421001700,
+					"id_str": "1135825695421001729",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NDc75UcAEPgCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NDc75UcAEPgCn.jpg",
+					"url": "https://t.co/qFyKpnAgVj",
+					"display_url": "pic.twitter.com/qFyKpnAgVj",
+					"expanded_url": "https://twitter.com/Dawnbrckr/status/1135825701473406977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716918677388468200,
+			"id_str": "716918677388468224",
+			"name": "Jihun Kim",
+			"screen_name": "Dawnbrckr",
+			"location": "Pasadena, CA",
+			"description": "🍍🥥",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 736,
+			"friends_count": 427,
+			"listed_count": 5,
+			"created_at": "Mon Apr 04 09:21:47 +0000 2016",
+			"favourites_count": 51588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135363369018335232/AKNLiycW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135363369018335232/AKNLiycW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716918677388468224/1558361009",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/qFyKpnAgVj"
+	},
+	{
+		"created_at": "Wed Jun 05 05:35:42 +0000 2019",
+		"id": 1135979538683519000,
+		"id_str": "1136144542183247874",
+		"full_text": "Apple's new workstation costs $6000, only has 256GB SSD https://t.co/hN9cEJeTZa https://t.co/e6oQ0Yjqxy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hN9cEJeTZa",
+					"expanded_url": "https://www.pcgamer.com/apples-new-workstation-costs-dollar6000-only-has-256gb-ssd/",
+					"display_url": "pcgamer.com/apples-new-wor…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135979537060302800,
+					"id_str": "1135979537060302848",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D8PPXsqXkAAL3KJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8PPXsqXkAAL3KJ.jpg",
+					"url": "https://t.co/e6oQ0Yjqxy",
+					"display_url": "pic.twitter.com/e6oQ0Yjqxy",
+					"expanded_url": "https://twitter.com/pcgamer/status/1135979538683518977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135979537060302800,
+					"id_str": "1135979537060302848",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D8PPXsqXkAAL3KJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8PPXsqXkAAL3KJ.jpg",
+					"url": "https://t.co/e6oQ0Yjqxy",
+					"display_url": "pic.twitter.com/e6oQ0Yjqxy",
+					"expanded_url": "https://twitter.com/pcgamer/status/1135979538683518977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16736535,
+			"id_str": "16736535",
+			"name": "PC Gamer",
+			"screen_name": "pcgamer",
+			"location": "San Francisco, Bath & Sydney",
+			"description": "The global authority on PC games. Tweets from our US, UK, and AU editors.",
+			"url": "https://t.co/C4FGsPK7FD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C4FGsPK7FD",
+							"expanded_url": "http://www.pcgamer.com",
+							"display_url": "pcgamer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1975185,
+			"friends_count": 86,
+			"listed_count": 5617,
+			"created_at": "Tue Oct 14 11:19:09 +0000 2008",
+			"favourites_count": 826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877980023025803270/xntVDuTq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16736535/1437671412",
+			"profile_link_color": "DC1E25",
+			"profile_sidebar_border_color": "939598",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "000F18",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apple's new workstation costs $6000, only has 256GB SSD https://t.co/hN9cEJeTZa https://t.co/e6oQ0Yjqxy"
+	},
+	{
+		"created_at": "Wed Jun 05 05:34:52 +0000 2019",
+		"id": 1135922835271180300,
+		"id_str": "1136144336272257025",
+		"full_text": "Apple's new 6K Pro Display XDR is $4,999 and you gotta pay $999 for the stand. I guess that's why they call it a 6K monitor https://t.co/LEy1Ukz7bh https://t.co/qfD7LIXR2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LEy1Ukz7bh",
+					"expanded_url": "https://www.theverge.com/circuitbreaker/2019/6/3/18651001/apples-mac-pro-xdr-display-monitor-stand-expensive-dongle-not-included-wwdc-2019",
+					"display_url": "theverge.com/circuitbreaker…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135922792380035100,
+					"id_str": "1135922792380035075",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ObwuQU8AMECmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ObwuQU8AMECmE.jpg",
+					"url": "https://t.co/qfD7LIXR2d",
+					"display_url": "pic.twitter.com/qfD7LIXR2d",
+					"expanded_url": "https://twitter.com/tomwarren/status/1135922835271180297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1220,
+							"h": 813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135922792380035100,
+					"id_str": "1135922792380035075",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ObwuQU8AMECmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ObwuQU8AMECmE.jpg",
+					"url": "https://t.co/qfD7LIXR2d",
+					"display_url": "pic.twitter.com/qfD7LIXR2d",
+					"expanded_url": "https://twitter.com/tomwarren/status/1135922835271180297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1220,
+							"h": 813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12273252,
+			"id_str": "12273252",
+			"name": "Tom Warren",
+			"screen_name": "tomwarren",
+			"location": "London, England",
+			"description": "Senior Editor at The Verge. My Twitter DMs are open or you can email me (tom@theverge.com) DM me for Signal / Telegram",
+			"url": "https://t.co/DEJ5KzBs4Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DEJ5KzBs4Q",
+							"expanded_url": "https://www.theverge.com/users/tomwarren/posts",
+							"display_url": "theverge.com/users/tomwarre…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83077,
+			"friends_count": 1458,
+			"listed_count": 2507,
+			"created_at": "Tue Jan 15 14:42:09 +0000 2008",
+			"favourites_count": 3796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007122170579963904/1hBOxw5H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007122170579963904/1hBOxw5H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12273252/1533745085",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apple's new 6K Pro Display XDR is $4,999 and you gotta pay $999 for the stand. I guess that's why they call it a 6K monitor https://t.co/LEy1Ukz7bh https://t.co/qfD7LIXR2d"
+	},
+	{
+		"created_at": "Wed Jun 05 05:34:19 +0000 2019",
+		"id": 1136142869478031400,
+		"id_str": "1136144196400664578",
+		"full_text": "사골게리온 굿즈는 지금도 온갖게 다 나오는데 어째서 공유기가 나오지 않는건지. 이런 모양으로 하나 나와주면 좋겠어 https://t.co/nhhpRhCZOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136141753784815600,
+					"id_str": "1136141753784815616",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ri59DVUAAAcfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ri59DVUAAAcfB.jpg",
+					"url": "https://t.co/nhhpRhCZOL",
+					"display_url": "pic.twitter.com/nhhpRhCZOL",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1136142869478031360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 939,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136141753784815600,
+					"id_str": "1136141753784815616",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ri59DVUAAAcfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ri59DVUAAAcfB.jpg",
+					"url": "https://t.co/nhhpRhCZOL",
+					"display_url": "pic.twitter.com/nhhpRhCZOL",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1136142869478031360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 939,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210118,
+			"friends_count": 496,
+			"listed_count": 349,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1551049603",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사골게리온 굿즈는 지금도 온갖게 다 나오는데 어째서 공유기가 나오지 않는건지. 이런 모양으로 하나 나와주면 좋겠어 https://t.co/nhhpRhCZOL"
+	},
+	{
+		"created_at": "Wed Jun 05 05:33:47 +0000 2019",
+		"id": 1136035652007485400,
+		"id_str": "1136144062770081794",
+		"full_text": "한국어로 올린게 잘못이였다. 일본어 영어였으면 아무문제도 없었을것... https://t.co/SSr98kWqxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136035640284307500,
+					"id_str": "1136035640284307456",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D8QCZVdUYAAYR26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8QCZVdUYAAYR26.jpg",
+					"url": "https://t.co/SSr98kWqxD",
+					"display_url": "pic.twitter.com/SSr98kWqxD",
+					"expanded_url": "https://twitter.com/Ladcin/status/1136035652007485440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136035640284307500,
+					"id_str": "1136035640284307456",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D8QCZVdUYAAYR26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8QCZVdUYAAYR26.jpg",
+					"url": "https://t.co/SSr98kWqxD",
+					"display_url": "pic.twitter.com/SSr98kWqxD",
+					"expanded_url": "https://twitter.com/Ladcin/status/1136035652007485440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2410005722,
+			"id_str": "2410005722",
+			"name": "Ladcin",
+			"screen_name": "Ladcin",
+			"location": "",
+			"description": "Forwarding contradiction Header from P-kass //\nhttps://t.co/tfJyYkZeOJ 헛소리하는곳",
+			"url": "https://t.co/i4HlVlCVwj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i4HlVlCVwj",
+							"expanded_url": "http://steamcommunity.com/id/Ladcin/home/",
+							"display_url": "steamcommunity.com/id/Ladcin/home/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tfJyYkZeOJ",
+							"expanded_url": "http://ladcin-twitter.postype.com",
+							"display_url": "ladcin-twitter.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 931,
+			"friends_count": 1171,
+			"listed_count": 20,
+			"created_at": "Tue Mar 25 03:40:46 +0000 2014",
+			"favourites_count": 19193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078984847568195584/EmJ-gvm__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078984847568195584/EmJ-gvm__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2410005722/1521901752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국어로 올린게 잘못이였다. 일본어 영어였으면 아무문제도 없었을것... https://t.co/SSr98kWqxD"
+	},
+	{
+		"created_at": "Wed Jun 05 05:32:41 +0000 2019",
+		"id": 1136132933012430800,
+		"id_str": "1136143784243212288",
+		"full_text": "뭔 사람이 추하다 못해 찌질함이 땅끝 지하동굴 끝까지 파고 내려가.........보기 드문 이시대의 자존심 만땅 찐따남으로 ㅇㅈ 박아드림",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136132425476595700,
+		"in_reply_to_status_id_str": "1136132425476595712",
+		"in_reply_to_user_id": 391734469,
+		"in_reply_to_user_id_str": "391734469",
+		"in_reply_to_screen_name": "Anarchy_KR",
+		"user": {
+			"id": 391734469,
+			"id_str": "391734469",
+			"name": "Anarchy",
+			"screen_name": "Anarchy_KR",
+			"location": "大阪府 吹田市",
+			"description": "Damn, Balenciaga counterfeit Prada Omega wear nada / 엔씨팬 / 오타쿠 굿즈 티켓 등등 구매대행 해드립니다 가볍게 멘션이나 디엠으로 연락 주세요 트친 아니어도 상관 없어용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 411,
+			"listed_count": 9,
+			"created_at": "Sun Oct 16 01:17:15 +0000 2011",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391734469/1551808059",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭔 사람이 추하다 못해 찌질함이 땅끝 지하동굴 끝까지 파고 내려가.........보기 드문 이시대의 자존심 만땅 찐따남으로 ㅇㅈ 박아드림"
+	},
+	{
+		"created_at": "Wed Jun 05 05:32:39 +0000 2019",
+		"id": 1136134223373357000,
+		"id_str": "1136143776806608896",
+		"full_text": "요약\n\n내가 엄한 사람 붙잡고 지랄한건 니들이 하도 지랄해서 알긴 알지만 , 난 잘못한거 없음. ㄹㅇ임\n\n꼬우면 니 탐라에서 지우셈 ㅉ https://t.co/bNTfN5sbFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136134203592982500,
+					"id_str": "1136134203592982528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RcCeZUwAANoWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RcCeZUwAANoWG.jpg",
+					"url": "https://t.co/bNTfN5sbFm",
+					"display_url": "pic.twitter.com/bNTfN5sbFm",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136134223373357056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1181,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136134203592982500,
+					"id_str": "1136134203592982528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RcCeZUwAANoWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RcCeZUwAANoWG.jpg",
+					"url": "https://t.co/bNTfN5sbFm",
+					"display_url": "pic.twitter.com/bNTfN5sbFm",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136134223373357056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1181,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136132933012430800,
+		"in_reply_to_status_id_str": "1136132933012430848",
+		"in_reply_to_user_id": 391734469,
+		"in_reply_to_user_id_str": "391734469",
+		"in_reply_to_screen_name": "Anarchy_KR",
+		"user": {
+			"id": 391734469,
+			"id_str": "391734469",
+			"name": "Anarchy",
+			"screen_name": "Anarchy_KR",
+			"location": "大阪府 吹田市",
+			"description": "Damn, Balenciaga counterfeit Prada Omega wear nada / 엔씨팬 / 오타쿠 굿즈 티켓 등등 구매대행 해드립니다 가볍게 멘션이나 디엠으로 연락 주세요 트친 아니어도 상관 없어용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 411,
+			"listed_count": 9,
+			"created_at": "Sun Oct 16 01:17:15 +0000 2011",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391734469/1551808059",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "요약\n\n내가 엄한 사람 붙잡고 지랄한건 니들이 하도 지랄해서 알긴 알지만 , 난 잘못한거 없음. ㄹㅇ임\n\n꼬우면 니 탐라에서 지우셈 ㅉ https://t.co/bNTfN5sbFm"
+	},
+	{
+		"created_at": "Wed Jun 05 05:32:38 +0000 2019",
+		"id": 1136135038964195300,
+		"id_str": "1136143770951462912",
+		"full_text": "자존심 때문에 자신의 발언을 수정하고 싶진 않지만 돈 앞에서는 한없이 작아지는 그 분... https://t.co/pOH3mP2P4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136135024292401200,
+					"id_str": "1136135024292401152",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RcyPvUEAAawlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RcyPvUEAAawlG.jpg",
+					"url": "https://t.co/pOH3mP2P4R",
+					"display_url": "pic.twitter.com/pOH3mP2P4R",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136135038964195328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136135024292401200,
+					"id_str": "1136135024292401152",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RcyPvUEAAawlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RcyPvUEAAawlG.jpg",
+					"url": "https://t.co/pOH3mP2P4R",
+					"display_url": "pic.twitter.com/pOH3mP2P4R",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136135038964195328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136135024284094500,
+					"id_str": "1136135024284094464",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RcyPtVUAAwIoo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RcyPtVUAAwIoo.jpg",
+					"url": "https://t.co/pOH3mP2P4R",
+					"display_url": "pic.twitter.com/pOH3mP2P4R",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136135038964195328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 519,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136134223373357000,
+		"in_reply_to_status_id_str": "1136134223373357056",
+		"in_reply_to_user_id": 391734469,
+		"in_reply_to_user_id_str": "391734469",
+		"in_reply_to_screen_name": "Anarchy_KR",
+		"user": {
+			"id": 391734469,
+			"id_str": "391734469",
+			"name": "Anarchy",
+			"screen_name": "Anarchy_KR",
+			"location": "大阪府 吹田市",
+			"description": "Damn, Balenciaga counterfeit Prada Omega wear nada / 엔씨팬 / 오타쿠 굿즈 티켓 등등 구매대행 해드립니다 가볍게 멘션이나 디엠으로 연락 주세요 트친 아니어도 상관 없어용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 411,
+			"listed_count": 9,
+			"created_at": "Sun Oct 16 01:17:15 +0000 2011",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391734469/1551808059",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "자존심 때문에 자신의 발언을 수정하고 싶진 않지만 돈 앞에서는 한없이 작아지는 그 분... https://t.co/pOH3mP2P4R"
+	},
+	{
+		"created_at": "Wed Jun 05 05:32:26 +0000 2019",
+		"id": 1136131711450751000,
+		"id_str": "1136143723627024385",
+		"full_text": "아니 알1파 선생님\n\n님 3월 25일에 트위터 그만둔다면서요\n\n두달만에 기어 들어와서 한다는 소리가 \"나는 옳았고 니네가 틀렸어\"임? 사람이 그러시면 쓰나 https://t.co/Ide9KUz7JP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136131696376467500,
+					"id_str": "1136131696376467458",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RZwiSU0AIv0bx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RZwiSU0AIv0bx.jpg",
+					"url": "https://t.co/Ide9KUz7JP",
+					"display_url": "pic.twitter.com/Ide9KUz7JP",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136131711450750976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 916,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136131696376467500,
+					"id_str": "1136131696376467458",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RZwiSU0AIv0bx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RZwiSU0AIv0bx.jpg",
+					"url": "https://t.co/Ide9KUz7JP",
+					"display_url": "pic.twitter.com/Ide9KUz7JP",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136131711450750976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 916,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136131696372342800,
+					"id_str": "1136131696372342784",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RZwiRV4AAitAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RZwiRV4AAitAa.jpg",
+					"url": "https://t.co/Ide9KUz7JP",
+					"display_url": "pic.twitter.com/Ide9KUz7JP",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136131711450750976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 894,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136131696468738000,
+					"id_str": "1136131696468738048",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RZwioUwAAdcRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RZwioUwAAdcRQ.jpg",
+					"url": "https://t.co/Ide9KUz7JP",
+					"display_url": "pic.twitter.com/Ide9KUz7JP",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136131711450750976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 748,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391734469,
+			"id_str": "391734469",
+			"name": "Anarchy",
+			"screen_name": "Anarchy_KR",
+			"location": "大阪府 吹田市",
+			"description": "Damn, Balenciaga counterfeit Prada Omega wear nada / 엔씨팬 / 오타쿠 굿즈 티켓 등등 구매대행 해드립니다 가볍게 멘션이나 디엠으로 연락 주세요 트친 아니어도 상관 없어용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 411,
+			"listed_count": 9,
+			"created_at": "Sun Oct 16 01:17:15 +0000 2011",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391734469/1551808059",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "아니 알1파 선생님\n\n님 3월 25일에 트위터 그만둔다면서요\n\n두달만에 기어 들어와서 한다는 소리가 \"나는 옳았고 니네가 틀렸어\"임? 사람이 그러시면 쓰나 https://t.co/Ide9KUz7JP"
+	},
+	{
+		"created_at": "Wed Jun 05 05:32:19 +0000 2019",
+		"id": 1136132425476595700,
+		"id_str": "1136143690752118785",
+		"full_text": "이 사람이 판단해서 씨부린 것 : 간수치 높게 나온 거 하나로 구급차 타고 병원감\n\n사실 : 몸 상태가 급 안좋아져서 119 연락후 자초지종을 설명하니 119측에서 이상한 촉을 느끼고 구급차 보내줌\n\n상황 판단 잘못하고 지랄한데 누군데 이제와서 적반하장ㅋㅋㅋㅋㅋ 원하시는대로 조리돌림 해드립니다 https://t.co/gNLvPavQ03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136132409739530200,
+					"id_str": "1136132409739530241",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RaaDxVUAEuLWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RaaDxVUAEuLWd.jpg",
+					"url": "https://t.co/gNLvPavQ03",
+					"display_url": "pic.twitter.com/gNLvPavQ03",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136132425476595712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 871,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136132409739530200,
+					"id_str": "1136132409739530241",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RaaDxVUAEuLWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RaaDxVUAEuLWd.jpg",
+					"url": "https://t.co/gNLvPavQ03",
+					"display_url": "pic.twitter.com/gNLvPavQ03",
+					"expanded_url": "https://twitter.com/Anarchy_KR/status/1136132425476595712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 871,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136131711450751000,
+		"in_reply_to_status_id_str": "1136131711450750976",
+		"in_reply_to_user_id": 391734469,
+		"in_reply_to_user_id_str": "391734469",
+		"in_reply_to_screen_name": "Anarchy_KR",
+		"user": {
+			"id": 391734469,
+			"id_str": "391734469",
+			"name": "Anarchy",
+			"screen_name": "Anarchy_KR",
+			"location": "大阪府 吹田市",
+			"description": "Damn, Balenciaga counterfeit Prada Omega wear nada / 엔씨팬 / 오타쿠 굿즈 티켓 등등 구매대행 해드립니다 가볍게 멘션이나 디엠으로 연락 주세요 트친 아니어도 상관 없어용",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 411,
+			"listed_count": 9,
+			"created_at": "Sun Oct 16 01:17:15 +0000 2011",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112390502941220864/ukQHNa9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391734469/1551808059",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "이 사람이 판단해서 씨부린 것 : 간수치 높게 나온 거 하나로 구급차 타고 병원감\n\n사실 : 몸 상태가 급 안좋아져서 119 연락후 자초지종을 설명하니 119측에서 이상한 촉을 느끼고 구급차 보내줌\n\n상황 판단 잘못하고 지랄한데 누군데 이제와서 적반하장ㅋㅋㅋㅋㅋ 원하시는대로 조리돌림 해드립니다 https://t.co/gNLvPavQ03"
+	},
+	{
+		"created_at": "Wed Jun 05 05:31:25 +0000 2019",
+		"id": 1136134771854078000,
+		"id_str": "1136143467623510017",
+		"full_text": "#WomenDeliver 컨퍼런스가 밴쿠버에서  6월 3-6일에 걸쳐 열리고 \n있습니다.  #주한캐나다대사관 에서 개최된 성평등 컨퍼런스에 대한 @TheKoreaHerald 의 기사를 확인하세요. #WD2019\n\n[Diplomatic circuit] Experts discuss gender equality in Seoul  https://t.co/fXtEZblu7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomenDeliver",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "주한캐나다대사관",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "WD2019",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheKoreaHerald",
+					"name": "The Korea Herald",
+					"id": 56254987,
+					"id_str": "56254987",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fXtEZblu7J",
+					"expanded_url": "http://m.koreaherald.com/view.php?ud=20190603000728",
+					"display_url": "m.koreaherald.com/view.php?ud=20…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187109046,
+			"id_str": "187109046",
+			"name": "주한캐나다대사관",
+			"screen_name": "CanEmbROK",
+			"location": "대한민국",
+			"description": "주한캐나다대사관 - English : @CanEmbKorea - http://t.co/YcijzugMJP / Français : @AmbCanCoree - http://t.co/1WWjVLLuED",
+			"url": "http://t.co/F0Kv71TcER",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F0Kv71TcER",
+							"expanded_url": "http://www.korea.gc.ca",
+							"display_url": "korea.gc.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/YcijzugMJP",
+							"expanded_url": "http://international.gc.ca/SocialMedia",
+							"display_url": "international.gc.ca/SocialMedia",
+							"indices": [
+								36,
+								58
+							]
+						},
+						{
+							"url": "http://t.co/1WWjVLLuED",
+							"expanded_url": "http://international.gc.ca/MediasSociaux",
+							"display_url": "international.gc.ca/MediasSociaux",
+							"indices": [
+								87,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5760,
+			"friends_count": 2102,
+			"listed_count": 73,
+			"created_at": "Sun Sep 05 08:23:41 +0000 2010",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889989195325997056/iIgzoCpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187109046/1557704716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#WomenDeliver 컨퍼런스가 밴쿠버에서  6월 3-6일에 걸쳐 열리고 \n있습니다.  #주한캐나다대사관 에서 개최된 성평등 컨퍼런스에 대한 @TheKoreaHerald 의 기사를 확인하세요. #WD2019\n\n[Diplomatic circuit] Experts discuss gender equality in Seoul  https://t.co/fXtEZblu7J"
+	},
+	{
+		"created_at": "Wed Jun 05 05:29:10 +0000 2019",
+		"id": 1136032253891547100,
+		"id_str": "1136142901031735296",
+		"full_text": "New gender \"X\" option on Canadian ID a mixed blessing, say advocates https://t.co/MUXHhXwamL https://t.co/PeZvLMciHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MUXHhXwamL",
+					"expanded_url": "http://bit.ly/2IwmWU3",
+					"display_url": "bit.ly/2IwmWU3",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136032252775862300,
+					"id_str": "1136032252775862272",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D8P_UKAXkAA2j79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8P_UKAXkAA2j79.jpg",
+					"url": "https://t.co/PeZvLMciHX",
+					"display_url": "pic.twitter.com/PeZvLMciHX",
+					"expanded_url": "https://twitter.com/CBCKW891/status/1136032253891547136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136032252775862300,
+					"id_str": "1136032252775862272",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D8P_UKAXkAA2j79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8P_UKAXkAA2j79.jpg",
+					"url": "https://t.co/PeZvLMciHX",
+					"display_url": "pic.twitter.com/PeZvLMciHX",
+					"expanded_url": "https://twitter.com/CBCKW891/status/1136032253891547136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114542486,
+			"id_str": "1114542486",
+			"name": "CBC KW",
+			"screen_name": "CBCKW891",
+			"location": "",
+			"description": "CBC Radio and Digital Service for Waterloo Region, including The Morning Edition with Craig Norris.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35093,
+			"friends_count": 1041,
+			"listed_count": 367,
+			"created_at": "Wed Jan 23 14:49:28 +0000 2013",
+			"favourites_count": 896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080519287226302466/weTGCost_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080519287226302466/weTGCost_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114542486/1546313128",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New gender \"X\" option on Canadian ID a mixed blessing, say advocates https://t.co/MUXHhXwamL https://t.co/PeZvLMciHX"
+	},
+	{
+		"created_at": "Wed Jun 05 05:26:52 +0000 2019",
+		"id": 1135717785273753600,
+		"id_str": "1136142322167455744",
+		"full_text": "트위터 들어올 때마다 미모티콘 광고 너무 키모이해서 빡침 https://t.co/OySja3um5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135717776327290900,
+					"id_str": "1135717776327290880",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LhTN8VsAAS5sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8LhTN8VsAAS5sD.jpg",
+					"url": "https://t.co/OySja3um5R",
+					"display_url": "pic.twitter.com/OySja3um5R",
+					"expanded_url": "https://twitter.com/Naridy/status/1135717785273753600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 817,
+							"h": 1087,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1087,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135717776327290900,
+					"id_str": "1135717776327290880",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/D8LhTN8VsAAS5sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8LhTN8VsAAS5sD.jpg",
+					"url": "https://t.co/OySja3um5R",
+					"display_url": "pic.twitter.com/OySja3um5R",
+					"expanded_url": "https://twitter.com/Naridy/status/1135717785273753600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 817,
+							"h": 1087,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1087,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84243740,
+			"id_str": "84243740",
+			"name": "Naridy@Durandal",
+			"screen_name": "Naridy",
+			"location": "대한민국",
+			"description": "Game Designer (N모사)ㆍUI / UX 기획ㆍFINAL FANTASY XIV (Durandal)ㆍ日本語は少し出来ますが、未熟なので日本語ツイーツはやってません。😂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729,
+			"friends_count": 237,
+			"listed_count": 97,
+			"created_at": "Thu Oct 22 04:54:43 +0000 2009",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 131611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880023411942055936/_BKn5x9O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880023411942055936/_BKn5x9O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84243740/1505364610",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 들어올 때마다 미모티콘 광고 너무 키모이해서 빡침 https://t.co/OySja3um5R"
+	},
+	{
 		"created_at": "Wed Jun 05 02:51:18 +0000 2019",
 		"id": 1136103171460292600,
 		"id_str": "1136103171460292609",
