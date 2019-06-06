@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 15:29:29 +0000 2019",
+		"id": 1136656362685882400,
+		"id_str": "1136656362685882368",
+		"full_text": "본계도 인증 https://t.co/uL7iVpLiNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136656345292103700,
+					"id_str": "1136656345292103681",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Y27HzUYAElTzp.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8Y27HzUYAElTzp.png",
+					"url": "https://t.co/uL7iVpLiNa",
+					"display_url": "pic.twitter.com/uL7iVpLiNa",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1136656362685882368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136656345292103700,
+					"id_str": "1136656345292103681",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Y27HzUYAElTzp.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8Y27HzUYAElTzp.png",
+					"url": "https://t.co/uL7iVpLiNa",
+					"display_url": "pic.twitter.com/uL7iVpLiNa",
+					"expanded_url": "https://twitter.com/yeoncomi/status/1136656362685882368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 133,
+							"h": 133,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 326,
+							"h": 133,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136656080350482400,
+		"in_reply_to_status_id_str": "1136656080350482432",
+		"in_reply_to_user_id": 200682540,
+		"in_reply_to_user_id_str": "200682540",
+		"in_reply_to_screen_name": "yeoncomi",
+		"user": {
+			"id": 200682540,
+			"id_str": "200682540",
+			"name": "커미🇨🇦",
+			"screen_name": "yeoncomi",
+			"location": "Maple Ridge, British Columbia",
+			"description": "GMT -7(PDT) | 뒷계: @yeoncomi_NSFW|캐나다 펭귄|개발도 합니다|파이선성애자|이 계정은 소속 단체/기관의 의견을 대변하지 않습니다. @v_anil_la|#TransRightsAreHumanRights",
+			"url": "https://t.co/AW4upymdJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AW4upymdJD",
+							"expanded_url": "https://yeoncomi.ca",
+							"display_url": "yeoncomi.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 301,
+			"friends_count": 1067,
+			"listed_count": 10,
+			"created_at": "Sat Oct 09 23:35:10 +0000 2010",
+			"favourites_count": 26685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133179419017658368/Xip5oqXC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200682540/1499339251",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "본계도 인증 https://t.co/uL7iVpLiNa"
+	},
+	{
 		"created_at": "Thu Jun 06 07:33:10 +0000 2019",
 		"id": 1136143744783331300,
 		"id_str": "1136536493936136192",
