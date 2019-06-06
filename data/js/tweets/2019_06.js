@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 06:33:59 +0000 2019",
+		"id": 1136450565918011400,
+		"id_str": "1136521597878059008",
+		"full_text": "이거 ㄹㅇ이냐ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n기장님 아이시떼루~ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ScTX7h0ieF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136450554576511000,
+					"id_str": "1136450554576510976",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8V7whpUIAAYNpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8V7whpUIAAYNpu.jpg",
+					"url": "https://t.co/ScTX7h0ieF",
+					"display_url": "pic.twitter.com/ScTX7h0ieF",
+					"expanded_url": "https://twitter.com/Dosung527/status/1136450565918011392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136450554576511000,
+					"id_str": "1136450554576510976",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8V7whpUIAAYNpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8V7whpUIAAYNpu.jpg",
+					"url": "https://t.co/ScTX7h0ieF",
+					"display_url": "pic.twitter.com/ScTX7h0ieF",
+					"expanded_url": "https://twitter.com/Dosung527/status/1136450565918011392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 710,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136450557466464300,
+					"id_str": "1136450557466464256",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D8V7wsaVUAAeIZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8V7wsaVUAAeIZ_.jpg",
+					"url": "https://t.co/ScTX7h0ieF",
+					"display_url": "pic.twitter.com/ScTX7h0ieF",
+					"expanded_url": "https://twitter.com/Dosung527/status/1136450565918011392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 915931642841010200,
+			"id_str": "915931642841010176",
+			"name": "수행평가의 요정 도성",
+			"screen_name": "Dosung527",
+			"location": "대한민국",
+			"description": "🌼😆🌼🌼😆🌼🌼😆🌼🌼😆🌼",
+			"url": "https://t.co/hhYZpXkspk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hhYZpXkspk",
+							"expanded_url": "https://twitter.com/Dosung527",
+							"display_url": "twitter.com/Dosung527",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 567,
+			"listed_count": 5,
+			"created_at": "Thu Oct 05 13:28:15 +0000 2017",
+			"favourites_count": 15858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115272869867479041/F8ncNr8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115272869867479041/F8ncNr8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/915931642841010176/1559802860",
+			"profile_link_color": "A1DAB4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 ㄹㅇ이냐ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n기장님 아이시떼루~ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/ScTX7h0ieF"
+	},
+	{
 		"created_at": "Thu Jun 06 03:46:20 +0000 2019",
 		"id": 1136479408645201900,
 		"id_str": "1136479408645201922",
