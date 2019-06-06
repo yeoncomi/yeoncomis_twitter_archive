@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 23:13:48 +0000 2019",
+		"id": 1136669827806851100,
+		"id_str": "1136773212866433024",
+		"full_text": "https://t.co/2d7Q1LHqJG\n\n오늘의 위키 소식, 구스위키가 폐쇄했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2d7Q1LHqJG",
+					"expanded_url": "http://goos.wiki/index.php?title=%EA%B5%AC%EC%8A%A4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8",
+					"display_url": "goos.wiki/index.php?titl…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196005432,
+			"id_str": "196005432",
+			"name": "고기 굽는 Zlzleking",
+			"screen_name": "zlzleking",
+			"location": "대한민국 서울",
+			"description": "위키계 프로 헛소리러  /  건담보다 단결된 짐이 더 강합니다. / 비타민 부족을 해소하기 위해 오늘도 채식거리를 찾습니다.",
+			"url": "https://t.co/SIZ0N7VIcz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SIZ0N7VIcz",
+							"expanded_url": "http://zlzleking.tk",
+							"display_url": "zlzleking.tk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 24,
+			"listed_count": 0,
+			"created_at": "Tue Sep 28 02:38:57 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112772673136783360/pZlfzQxM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112772673136783360/pZlfzQxM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196005432/1558523080",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/2d7Q1LHqJG\n\n오늘의 위키 소식, 구스위키가 폐쇄했습니다."
+	},
+	{
 		"created_at": "Thu Jun 06 20:57:47 +0000 2019",
 		"id": 1136687563421421600,
 		"id_str": "1136738981641502720",
