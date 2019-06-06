@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 07:33:10 +0000 2019",
+		"id": 1136143744783331300,
+		"id_str": "1136536493936136192",
+		"full_text": "선미가 LGBT를 공개적으로 지지했다(영상) https://t.co/DofPmNqQSL https://t.co/WiqjDgPHLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DofPmNqQSL",
+					"expanded_url": "http://huffp.st/yemRENQ",
+					"display_url": "huffp.st/yemRENQ",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136143742912618500,
+					"id_str": "1136143742912618496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RktvIW4AA1OyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RktvIW4AA1OyY.jpg",
+					"url": "https://t.co/WiqjDgPHLl",
+					"display_url": "pic.twitter.com/WiqjDgPHLl",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1136143744783331328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136143742912618500,
+					"id_str": "1136143742912618496",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RktvIW4AA1OyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RktvIW4AA1OyY.jpg",
+					"url": "https://t.co/WiqjDgPHLl",
+					"display_url": "pic.twitter.com/WiqjDgPHLl",
+					"expanded_url": "https://twitter.com/HuffPostKorea/status/1136143744783331328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543778633,
+			"id_str": "543778633",
+			"name": "허프포스트코리아",
+			"screen_name": "HuffPostKorea",
+			"location": "SEOUL",
+			"description": "글로벌 온라인 뉴스 미디어 https://t.co/e7LG5sl4oo",
+			"url": "https://t.co/Xkw1g4GZOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xkw1g4GZOB",
+							"expanded_url": "http://www.huffpost.kr",
+							"display_url": "huffpost.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e7LG5sl4oo",
+							"expanded_url": "https://www.facebook.com/huffpostkorea",
+							"display_url": "facebook.com/huffpostkorea",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 717732,
+			"friends_count": 17,
+			"listed_count": 1216,
+			"created_at": "Mon Apr 02 22:23:12 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 113410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E7060",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021186504767389696/JHMmNS3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543778633/1493168298",
+			"profile_link_color": "2E7060",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5841,
+		"favorite_count": 2468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선미가 LGBT를 공개적으로 지지했다(영상) https://t.co/DofPmNqQSL https://t.co/WiqjDgPHLl"
+	},
+	{
 		"created_at": "Thu Jun 06 06:33:59 +0000 2019",
 		"id": 1136450565918011400,
 		"id_str": "1136521597878059008",
