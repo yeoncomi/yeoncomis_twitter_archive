@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 00:30:11 +0000 2019",
+		"id": 1136248922198880300,
+		"id_str": "1136430045436583936",
+		"full_text": "저는 VPN을 사서 쓰는 대신 직접 구축해서 쓰고 있는데요, 나무위키를 자동으로 꺼주는 기능이 있더라고요 https://t.co/tw4Q5rAtXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136248856335622100,
+					"id_str": "1136248856335622144",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D8TEUJJUIAAAmcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8TEUJJUIAAAmcw.jpg",
+					"url": "https://t.co/tw4Q5rAtXo",
+					"display_url": "pic.twitter.com/tw4Q5rAtXo",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1136248922198880257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136248856335622100,
+					"id_str": "1136248856335622144",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D8TEUJJUIAAAmcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8TEUJJUIAAAmcw.jpg",
+					"url": "https://t.co/tw4Q5rAtXo",
+					"display_url": "pic.twitter.com/tw4Q5rAtXo",
+					"expanded_url": "https://twitter.com/shiftpsh/status/1136248922198880257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 179891008,
+			"id_str": "179891008",
+			"name": "시프트 / shift*",
+			"screen_name": "shiftpsh",
+			"location": "바닐라",
+			"description": "하고 싶은 거 하면서 사는 컴퓨터공학과 학부생! '쓸데없이 멋진 답장' 이모티콘 작가, 모펀 홈페이지 디자이너. 작업은 https://t.co/RNmbjyXMBU, 질문은 https://t.co/3hg2iNSCMZ, 맞팔은 멘션 부탁드려요! 😊 / 미러블락 사용 중",
+			"url": "https://t.co/KKdZ63KnmY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKdZ63KnmY",
+							"expanded_url": "https://shift.moe",
+							"display_url": "shift.moe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RNmbjyXMBU",
+							"expanded_url": "http://sft.sh/works",
+							"display_url": "sft.sh/works",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/3hg2iNSCMZ",
+							"expanded_url": "http://sft.sh/ask",
+							"display_url": "sft.sh/ask",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2194,
+			"friends_count": 769,
+			"listed_count": 22,
+			"created_at": "Wed Aug 18 10:16:01 +0000 2010",
+			"favourites_count": 28906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110204200636420096/kKOFhyXn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/179891008/1553962316",
+			"profile_link_color": "FF3B57",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 VPN을 사서 쓰는 대신 직접 구축해서 쓰고 있는데요, 나무위키를 자동으로 꺼주는 기능이 있더라고요 https://t.co/tw4Q5rAtXo"
+	},
+	{
 		"created_at": "Thu Jun 06 00:03:25 +0000 2019",
 		"id": 1136418830081638400,
 		"id_str": "1136423308533018624",
