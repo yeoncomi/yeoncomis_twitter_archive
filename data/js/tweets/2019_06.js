@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 00:03:25 +0000 2019",
+		"id": 1136418830081638400,
+		"id_str": "1136423308533018624",
+		"full_text": "네모바지 스펀지밥: 그는 가족을 잃었다. 이제는 그의 마지막 딸마저도 잔혹한 테러로 잃었다. 그는 심판의 날을 위해 무엇이든지 할 것이다. https://t.co/bt3Xj5i6h4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136418815359668200,
+					"id_str": "1136418815359668224",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ve5D2VUAA6ne5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ve5D2VUAA6ne5.jpg",
+					"url": "https://t.co/bt3Xj5i6h4",
+					"display_url": "pic.twitter.com/bt3Xj5i6h4",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1136418830081638400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2001,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136418815359668200,
+					"id_str": "1136418815359668224",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ve5D2VUAA6ne5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ve5D2VUAA6ne5.jpg",
+					"url": "https://t.co/bt3Xj5i6h4",
+					"display_url": "pic.twitter.com/bt3Xj5i6h4",
+					"expanded_url": "https://twitter.com/usmemesKorea/status/1136418830081638400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2001,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091188738841931800,
+			"id_str": "1091188738841931776",
+			"name": "따끈따끈한 미국 짤방",
+			"screen_name": "usmemesKorea",
+			"location": "r/memes, Elon Musk",
+			"description": "레딧에서 가져온 신선한 미국 짤방을 전해드립니다. \nMemes of this account are all from r/memes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25520,
+			"friends_count": 7,
+			"listed_count": 73,
+			"created_at": "Fri Feb 01 04:17:23 +0000 2019",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133663250325749761/YXsaTNFv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091188738841931776/1559121356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네모바지 스펀지밥: 그는 가족을 잃었다. 이제는 그의 마지막 딸마저도 잔혹한 테러로 잃었다. 그는 심판의 날을 위해 무엇이든지 할 것이다. https://t.co/bt3Xj5i6h4"
+	},
+	{
 		"created_at": "Wed Jun 05 21:50:26 +0000 2019",
 		"id": 1136389843187986400,
 		"id_str": "1136389843187986433",
